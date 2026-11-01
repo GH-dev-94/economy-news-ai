@@ -109,31 +109,30 @@ def process_period(label_name: str, start_dt: datetime, end_dt: datetime, api_ke
     }
 
 
-def run_batch():
+def run_batch(only=None):
+    """only: None(전체) 또는 ['today', 'yesterday', 'week'] 중 일부만 재생성 (기존 JSON에 병합)"""
     api_key = os.getenv("GEMINI_API_KEY", "").strip().strip('"').strip("'")
     now = datetime.now()
     today_dt = now.replace(hour=0, minute=0, second=0, microsecond=0)
     yesterday_dt = today_dt - timedelta(days=1)
     week_start_dt = today_dt - timedelta(days=6)
+    targets = only or ["today", "yesterday", "week"]
 
     print(f"=== [경제 뉴스 AI 배치 생성 시작] ===")
-    print(f"실행 시각: {now.strftime('%Y-%m-%d %H:%M:%S')} (API Key 유효: {bool(api_key)})")
+    print(f"실행 시각: {now.strftime('%Y-%m-%d %H:%M:%S')} (API Key 유효: {bool(api_key)}) / 대상: {targets}")
 
-    # 1. 오늘
-    today_data = process_period("오늘", today_dt, today_dt, api_key)
-    
-    # 2. 어제
-    yesterday_data = process_period("어제", yesterday_dt, yesterday_dt, api_key)
-    
-    # 3. 지난 일주일
-    week_data = process_period("지난 일주일", week_start_dt, today_dt, api_key)
+    output = {}
+    if only and os.path.exists(DATA_PATH):
+        with open(DATA_PATH, "r", encoding="utf-8") as f:
+            output = json.load(f)
 
-    output = {
-        "updated_at": now.strftime("%Y-%m-%d %H:%M:%S KST"),
-        "today": today_data,
-        "yesterday": yesterday_data,
-        "week": week_data
-    }
+    if "today" in targets:
+        output["today"] = process_period("오늘", today_dt, today_dt, api_key)
+    if "yesterday" in targets:
+        output["yesterday"] = process_period("어제", yesterday_dt, yesterday_dt, api_key)
+    if "week" in targets:
+        output["week"] = process_period("지난 일주일", week_start_dt, today_dt, api_key)
+    output["updated_at"] = now.strftime("%Y-%m-%d %H:%M:%S KST")
 
     with open(DATA_PATH, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
@@ -143,6 +142,8 @@ def run_batch():
     print(f"==========================================")
 
 
+
 if __name__ == "__main__":
-    run_batch()
+    import sys
+    run_batch(sys.argv[1:] or None)
 

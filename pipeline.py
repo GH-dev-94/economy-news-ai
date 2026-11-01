@@ -23,7 +23,7 @@ ECON_WORDS = [
     "세제", "예금", "펀드", "나스닥", "엔비디아", "테슬라", "실적", "상장", "ipo", "예산", "추경", "지수",
 ]
 
-GEMINI_MODELS = ["gemini-3.5-flash", "gemini-3.6-flash", "gemini-3.7-flash", "gemini-3.8-flash"]
+GEMINI_MODELS = ["gemini-3.5-flash", "gemini-3.5-flash-lite", "gemini-3-flash-preview"]
 
 # 국가별 설정
 COUNTRY = {
@@ -112,7 +112,9 @@ def _gemini(prompt: str, api_key: str, model_override: str = None) -> str:
         seen.add(name)
         try:
             r = requests.post(f"{base}/models/{name}:generateContent", headers=hdr, timeout=40,
-                              json={"contents": [{"parts": [{"text": prompt}]}]})
+                              json={"contents": [{"parts": [{"text": prompt}]}],
+                                    "generationConfig": {"responseMimeType": "application/json",
+                                                         "maxOutputTokens": 16384}})
             if r.status_code != 200:
                 errors.append(f"{name}: {r.status_code} {r.text[:80]}")
                 continue
@@ -133,6 +135,8 @@ def _extract_json(text: str):
 _STOP = {"경제", "뉴스", "오늘", "속보", "종합", "단독", "포토", "영상", "기자", "전망", "분석", "이번", "올해", "내년",
          "대한", "관련", "위해", "통해", "에서", "으로", "한국", "정부", "시장", "업계", "기업"}
 _JOSA = ("에서", "으로", "에게", "까지", "부터", "이다", "은", "는", "이", "가", "을", "를", "의", "에", "도", "로", "와", "과", "만")
+
+
 
 
 def _top_econ_terms(headlines: list, topn: int = 10):
@@ -336,7 +340,9 @@ def generate_manuscripts_batch(entries: list, start: datetime, end: datetime, ap
         '{"<키워드>": {"headline": "...", "facts": ["..."], "why": "...", "watch": ["..."], '
         '"qna": [{"q": "...", "a": "..."}, {"q": "...", "a": "..."}, {"q": "...", "a": "..."}]}}'
     )
-    raw = _extract_json(_gemini(prompt, api_key))
+    try:
+        raw = _extract_json(_gemini(prompt, api_key))
+        raw = _extract_json(_gemini(prompt, api_key))
     out = {}
     for e in entries:
         d = raw.get(e["keyword"])
