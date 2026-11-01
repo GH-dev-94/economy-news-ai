@@ -2,10 +2,17 @@
 3개 기간('today', 'yesterday', 'week')의 뉴스레터를 한 번에 생성하여 news_data.json에 저장합니다.
 """
 import os
+import sys
 import json
 import traceback
 from datetime import datetime, timedelta
 from dotenv import load_dotenv
+
+if sys.stdout and hasattr(sys.stdout, "reconfigure"):
+    try:
+        sys.stdout.reconfigure(encoding="utf-8")
+    except Exception:
+        pass
 
 from pipeline import (
     extract_keywords,
@@ -44,8 +51,8 @@ def process_period(label_name: str, start_dt: datetime, end_dt: datetime, api_ke
     # 1~2단계: 국내 및 해외 헤드라인 수집 및 키워드 추출 (국내 3개 + 해외 3개)
     print(f"1~2단계: 국내 및 해외 키워드 동시 추출 중...")
     dom_kws, gl_kws, info = extract_dual_keywords(n_domestic=top_n, n_global=top_n, start=start_dt, end=end_dt, api_key=api_key)
-    print(f"-> 🇰🇷 국내 키워드: {dom_kws}")
-    print(f"-> 🌐 해외 키워드: {gl_kws} (방식: {info.get('method')})")
+    print(f"-> [국내] 키워드: {dom_kws}")
+    print(f"-> [해외] 키워드: {gl_kws} (방식: {info.get('method')})")
 
     if not dom_kws:
         dom_kws = ["코스피", "기준금리", "부동산"][:top_n]

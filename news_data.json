@@ -3,271 +3,1011 @@
     "period_label": "2026년 11월 1일 (일)",
     "start_date": "2026-11-01",
     "end_date": "2026-11-01",
+    "domestic": {
+      "keywords": [
+        "수출 1조 달러",
+        "AI 반도체 투자",
+        "가상자산 해킹"
+      ],
+      "results": {
+        "수출 1조 달러": {
+          "headline": "한국 연간 수출 1조 달러 달성 눈앞",
+          "facts": [
+            "한국의 연간 수출액이 세계에서 네 번째로 1조 달러 돌파를 목전에 두고 있으며 미·중·독에 이은 톱4 진입이 가시화됨.",
+            "두 달 연속 월간 수출액이 1100억 달러를 넘어선 견조한 흐름을 보이며 올해 목표 달성을 향한 순항이 지속됨.",
+            "역대급 수출 성과에도 불구하고 반도체 부문에 지나치게 쏠린 구조적 취약점이 한계로 지적되며 우려가 제기됨.",
+            "미국, 중국, 독일 등 전통적인 무역 강국들과 어깨를 나란히 하며 글로벌 경제 내에서 한국의 위상이 크게 강화됨.",
+            "남은 기간 동안 약 700억 달러의 실적을 추가하면 꿈의 1조 달러 고지에 완전히 도달할 것으로 최종 집계됨."
+          ],
+          "watch": [
+            "반도체 편중 해소를 위한 수출 품목 다변화 여부",
+            "남은 기간 동안 700억 달러 추가 달성 추이",
+            "미·중·독 등 주요 무역국과의 수출 경쟁 구도"
+          ],
+          "qna": [
+            {
+              "q": "수출 1조 달러를 달성하면 일반 국민의 실생활이나 체감 경기에 어떤 직접적인 영향이 있는가?",
+              "a": "거시경제 지표와 무역 규모가 커지는 것은 국가 신인도 유지와 환율 안정에 기여한다. 하지만 반도체 중심의 쏠림 현상이 강해 실제 고용이나 내수 진작으로 직결되지 않을 수 있다."
+            },
+            {
+              "q": "한국이 달성하려는 연간 수출 1조 달러 국가라는 타이틀은 세계 경제에서 구체적으로 어떤 의미를 지니는가?",
+              "a": "미국, 중국, 독일 등 거대 경제 대국에 이어 세계에서 네 번째로 연간 수출 1조 달러 클럽에 가입함을 뜻한다. 이는 한국이 글로벌 공급망에서 무시할 수 없는 핵심 수출국임을 증명하는 지표이다."
+            },
+            {
+              "q": "수출 규모가 사상 최대를 기록함에도 불구하고 마냥 웃을 수 없다는 지적은 어떤 맥락에서 나오는가?",
+              "a": "수익성이 특정 품목인 반도체에 지나치게 의존하고 있기 때문이다. 글로벌 반도체 업황이 흔들릴 경우 전체 경제가 큰 타격을 입는 구조적 취약성을 안고 있음을 의미한다."
+            }
+          ]
+        },
+        "AI 반도체 투자": {
+          "headline": "AI 반도체 호황 뒤에 쌓이는 투자 청구서",
+          "facts": [
+            "빅테크 기업들이 과도한 인공지능 투자로 인해 현금이 말라가는 현상을 겪으면서 미국 반도체 주가가 줄줄이 급락함.",
+            "이재용 삼성전자 회장이 일본 반도체 연구소를 최초로 방문하여 3500억 원을 투자하며 인공지능 패키징 분야 승부수를 던짐.",
+            "샘 올트먼 오픈AI 최고경영자가 삼성과 에스케이(SK)를 다시 찾아오면서 반도체 및 인프라 확보전이 치열하게 전개됨.",
+            "인공지능 반도체 슈퍼사이클의 강력한 호황 이면에는 막대한 투자 비용이라는 거대한 청구서가 쌓이는 역설적 상황이 발생함.",
+            "글로벌 인공지능 관련 주가가 일제히 급락세를 보이면서 시장에서는 반도체 부문의 블랙 먼데이가 도래할지 촉각을 곤두세움."
+          ],
+          "watch": [
+            "빅테크 기업들의 과도한 현금 소진과 주가 향방",
+            "삼성과 SK의 AI 인프라 및 패키징 투자 성과",
+            "글로벌 반도체 시장의 슈퍼사이클 지속 가능성"
+          ],
+          "qna": [
+            {
+              "q": "일반 투자자 입장에서 AI 반도체 투자의 거품 논란과 주가 급락을 어떻게 바라보아야 하는가?",
+              "a": "빅테크의 과도한 현금 지출로 단기적인 주가 변동성과 불안감이 커진 상태이다. 실질적인 성과가 증명되지 않을 경우 조정이 길어질 수 있어 신중한 접근이 필요하다."
+            },
+            {
+              "q": "삼성전자와 SK하이닉스가 올트먼과의 협력을 강화하는 행보는 향후 실적에 어떤 영향을 주는가?",
+              "a": "글로벌 인프라 확보전에서 핵심 공급자로 자리매김하는 계기가 된다. 다만 대규모 투자에 따른 비용 부담과 시장의 기대치를 충족해야 하는 과제를 동시에 안게 된다."
+            },
+            {
+              "q": "중국 시장을 향한 AI 반도체 투자가 국내 기업들의 주가나 실적에 미치는 구체적 영향은 무엇인가?",
+              "a": "미중 기술 패권 경쟁과 규제 환경에 따라 공급망 변동성이 커지는 요인으로 작용한다. 규제 리스크와 수요 변화를 동시에 모니터링해야 하는 배경이 된다."
+            }
+          ]
+        },
+        "가상자산 해킹": {
+          "headline": "가상자산 해킹 피해 89퍼센트는 북한 소행",
+          "facts": [
+            "미국 연방수사국(FBI)이 역대 최대 규모로 발생한 가상자산 해킹 사건의 배후로 북한을 공식 지목함.",
+            "체이널리시스 데이터 분석 결과 올해 발생한 전체 가상자산 해킹 피해액의 89퍼센트가 북한과 연계된 것으로 추정됨.",
+            "바이낸스 등 주요 거래소를 겨냥한 대규모 가상자산 탈취 사건이 발생하여 국제 사회의 사이버 안보 우려가 증대됨.",
+            "북한 조직이 탈취한 자금이 막대한 규모에 이름에 따라 국가 안보를 위협하는 중대한 사안으로 부각됨.",
+            "정치권과 전문가들은 북한의 거대한 가상자산 탈취 규모를 지적하며 정부 차원의 사이버 안보 원점 재점검과 대응을 촉구함."
+          ],
+          "watch": [
+            "미국 FBI 및 국제 공조 수사의 추가 자금 추적 결과",
+            "국내 가상자산 거래소의 보안 시스템 강화 조치",
+            "북한 연계 해킹 조직에 대한 정부의 외교·안보적 대응"
+          ],
+          "qna": [
+            {
+              "q": "북한의 대규모 가상자산 해킹이 국내 일반 투자자의 지갑이나 거래소 이용에 실질적인 위협이 되는가?",
+              "a": "주요 글로벌 거래소와 대형 해킹 사건을 중심으로 피해가 집중되고 있다. 개별 이용자는 이중 보안 설정 등을 통해 자산을 안전하게 보호할 필요가 있다."
+            },
+            {
+              "q": "체이널리시스 등 블록체인 분석 기관들이 해킹 배후를 북한으로 특정할 수 있는 기술적 배경은 무엇인가?",
+              "a": "탈취된 자금이 이동하는 자금세탁 경로와 악성코드의 고유한 패턴을 추적하는 블록체인 포렌식 기술을 활용한다. 이를 통해 자금 흐름의 최종 목적지를 파악할 수 있다."
+            },
+            {
+              "q": "역대 최대 규모의 가상자산 해킹이 발생했을 때 정부와 관련 기관은 어떤 대응 방안을 강구해야 하는가?",
+              "a": "국제 사회와의 공조를 통해 탈취된 자금의 동결을 유도하고 국가 간 사이버 안보 공조 체계를 강화해야 한다. 국내 거래소의 취약점을 선제적으로 점검하는 조치도 수반되어야 한다."
+            }
+          ]
+        }
+      },
+      "news": {
+        "수출 1조 달러": [
+          {
+            "title": "韓 수출 ‘꿈의 1조 달러’ 눈앞…美·中·獨 이어 세계 네 번째 - 중앙일보",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03UFVQZnF4NnBOUmE0WW5ZaXhNdGduMGJpWWE5Z0RaRVF2NW1ZaWw1WURaSmxUNHlHWVVIWnkwSDJrUDBkYjQ0aTh5cnpoMkVWeUo1WXVR?oc=5",
+            "source": "중앙일보",
+            "published": "11-01 15:47",
+            "snippet": "韓 수출 ‘꿈의 1조 달러’ 눈앞…美·中·獨 이어 세계 네 번째 중앙일보"
+          },
+          {
+            "title": "올해 수출 1조달러 눈앞…미·중·독 이어 세계 4위 - 연합뉴스TV",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IbWNaSTJONG9Pay0zSmlHdHJLcnRnMWkzMDFlZEM4MmxVbi1lUXZrQ3J1NHVjY1BPenQ4R0Y5RnNDZTg4Wk51RnpUaFVlYmtBYlFSZktVd0s4MEZXUHVHRF8teWhLamc?oc=5",
+            "source": "연합뉴스TV",
+            "published": "11-01 13:35",
+            "snippet": "올해 수출 1조달러 눈앞…미·중·독 이어 세계 4위 연합뉴스TV"
+          },
+          {
+            "title": "한국 연수출 1조달러 시대 눈앞…두 달 연속 1100억달러 넘었다 - 한겨레",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9acVZxcDJLamxPTHdlNmZKNEtrZGIxbEMtQktnbllYaW1jZ01SSmVpNG5fUTRKWTZJUGprNl9NT0kyeGQteHlfQVUyVzhnMmpPaU9zbm50ODcxSEpCdTNSczFYRmt3QUJLSUFuTXV2Q3Fkdw?oc=5",
+            "source": "한겨레",
+            "published": "11-01 15:03",
+            "snippet": "한국 연수출 1조달러 시대 눈앞…두 달 연속 1100억달러 넘었다 한겨레"
+          },
+          {
+            "title": "“700억弗 남았다” 올해 수출 ‘꿈의 1조 달러’ 눈앞…美·中·獨과 세계 ‘톱4’ 오른다 - 서울신문",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xc2FBVVNrb2VvWnliTTd3Y3dNRWV3YlR6Y0lhVTVlTi0tVE5QTGhaRWN4b2dGWmtIS3MxenZXQVFQR0l2dFU5TGtPbnladV9MZnV0R1Nuc2lYWGFyMklkQUFEUm5fdUdKNHBULXVlWQ?oc=5",
+            "source": "서울신문",
+            "published": "11-01 19:47",
+            "snippet": "“700억弗 남았다” 올해 수출 ‘꿈의 1조 달러’ 눈앞…美·中·獨과 세계 ‘톱4’ 오른다 서울신문"
+          },
+          {
+            "title": "한국 수출 '꿈의 1조달러' 달성 초읽기 - 매일경제",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DVGtjMTkwVnRVVWlYMUpNY3RxLWNtQzZRZHk3UjhKeVpadmxPOUE5Q1VKOEFXZXBBa0tqdU56NC1CeVRhVklYNUFXci00X1pQZWhKYw?oc=5",
+            "source": "매일경제",
+            "published": "11-01 17:37",
+            "snippet": "한국 수출 '꿈의 1조달러' 달성 초읽기 매일경제"
+          },
+          {
+            "title": "연 수출 ‘1조 달러’ 달성 눈앞인데 마냥 웃을 수 없다···반도체 쏠림 등 숙제 ‘한가득’ - 경향신문",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iM1hWbHpfc3VvZlFTUE4xMm5wS2tNVEZwbmROLW5TSUo0eDUxLUJzVkNaSTEzeG05ZmRTZTBXT0UxTk9rdmRuWmRmZDl6OUJLck9fc0k5djlSUdIBX0FVX3lxTFBaYXdvbWhMQWF6M1RlSDh0WTBPYjZBbGNGUWdaeGRwSm9Rbk5GQ0piY2VweVJvWmpVRzBwVWM5U3dCYm1UTmdPR3RDMmM3X1lobHdrN2xtMGZ0eVBXa244?oc=5",
+            "source": "경향신문",
+            "published": "11-01 14:27",
+            "snippet": "연 수출 ‘1조 달러’ 달성 눈앞인데 마냥 웃을 수 없다···반도체 쏠림 등 숙제 ‘한가득’ 경향신문"
+          }
+        ],
+        "AI 반도체 투자": [
+          {
+            "title": "AI 투자에 현금 마른 빅테크…美 반도체 주가 줄줄이 급락 - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPb2drcy1iejE0bVBjMXpsQWUwT1JnREJLdEc5TnVRWmM1ZlZyUlk5RGtQR3VRTHVkSmY4bmNUaEI0NzZfUTFVVmFKM0FmVEJyZTBqQjdqQ1BLa2hubWJnRE9GYWtTS21DX01GMWFwcjlIblFkc0lPS1JOdVlBOWNDX0NYNA?oc=5",
+            "source": "조선일보",
+            "published": "11-01 17:04",
+            "snippet": "AI 투자에 현금 마른 빅테크…美 반도체 주가 줄줄이 급락 조선일보"
+          },
+          {
+            "title": "[기획/경제] ⑲ AI 반도체 성장, 한국의 몫은? - 기후에너지경제",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GM1JORHh0bmtmMnZ3VVJnbnk1ZTdGQWhLNU1BbkRFWXdpZlJTZUpzZ0hfV3BLbDZYN2M3UE1sZ2hnWTgzWmI4ODBNQ0xzN0pqaGhLeTZMWklfZk5jNDk5SDBjZE0?oc=5",
+            "source": "기후에너지경제",
+            "published": "11-01 14:52",
+            "snippet": "[기획/경제] ⑲ AI 반도체 성장, 한국의 몫은? 기후에너지경제"
+          },
+          {
+            "title": "삼성·SK 다시 찾은 올트먼…AI 투자 경쟁 속 반도체·인프라 확보전 - 뉴스토마토",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzZkQzSVRvUTRNN0cyaUhaMWhpNnBaRGpNUnBUN1Y4V3QwcVl5WmdjMzRPeElIRmkwUjVpR292Z2VEbWlGNG5ObUNuMXhoNUJ5dno4bW5lZEUzV0lQMDhKZA?oc=5",
+            "source": "뉴스토마토",
+            "published": "11-01 11:44",
+            "snippet": "삼성·SK 다시 찾은 올트먼…AI 투자 경쟁 속 반도체·인프라 확보전 뉴스토마토"
+          },
+          {
+            "title": "이재용, 日 반도체 연구소 첫 방문…3500억 투자로 AI 패키징 승부수 - OBC 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BREMzeGNMZXAwU3RZNm9vVGMzVFJrbmxaRVVTMV9IZUtYUktfcHRzZExvOWVCd1RNbkhsc3dWZ1ZKWWRoQl94MVgtNXRieFpxTDFPZnpsYVgwb0Q5RUJhY0FpMVZjNVd0?oc=5",
+            "source": "OBC 뉴스",
+            "published": "11-01 17:57",
+            "snippet": "이재용, 日 반도체 연구소 첫 방문…3500억 투자로 AI 패키징 승부수 OBC 뉴스"
+          },
+          {
+            "title": "AI 반도체 슈퍼사이클의 역설…호황 뒤에 쌓이는 ‘청구서’ - 이코노미스트",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zR0xQeU1VREVXWkdEZ0tnUmxRVUVGYzZhTnU2eTkyM3plTk1qSTZDamhTWXhzb0NLMG1Wb2o2OFFSMFFndkNlNS1SVmFmMDJ2eGhhdEtvQmJUcXVyWlBwR21n?oc=5",
+            "source": "이코노미스트",
+            "published": "11-01 08:55",
+            "snippet": "AI 반도체 슈퍼사이클의 역설…호황 뒤에 쌓이는 ‘청구서’ 이코노미스트"
+          },
+          {
+            "title": "AI 투자 우려에 글로벌 AI주 '급락'…반도체 '블랙 먼데이' 올까 - 파이낸셜뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83OU1LQ0ROS3RCUV9YUUNqQmYtc0V3MDFQcjRVNUJZRUpTU01JekMwSDRPb3E3S3lyMVoxN3NtQXlyOE4zX2hxQ1JrM3JpenRJaVhITmx3TDJsQQ?oc=5",
+            "source": "파이낸셜뉴스",
+            "published": "11-01 16:25",
+            "snippet": "AI 투자 우려에 글로벌 AI주 '급락'…반도체 '블랙 먼데이' 올까 파이낸셜뉴스"
+          }
+        ],
+        "가상자산 해킹": [
+          {
+            "title": "FBI, 역대 최대 가상자산 해킹 “배후는 北” - 서울신문",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvdmJHRkxVaFVaQjFCS2RsT3FiOWE3U3VCNjVfLUU0OGhsSW1jTGIwbmxLMmdtR1VJdEhyRWNHVzFseVZjRVdoLUJnTEdjbU41a0lBSV9iRU53NG1saWxXZ3lPV0YyXzdqQkZUdEVZX1hlUUtsOXpB?oc=5",
+            "source": "서울신문",
+            "published": "11-01 15:22",
+            "snippet": "FBI, 역대 최대 가상자산 해킹 “배후는 北” 서울신문"
+          },
+          {
+            "title": "美 FBI “바이낸스 가상자산 해킹 배후는 北” - 세계일보",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnYVhaYzR0N19aUmtyOGFUV01xRS1aamRKdXRmak1wT2FzSG9XejJsQmdtc1piRVphWHp6SXhOcEhxRUR4NHB4dGw5clU1cWY1eFdSVU9ldGvSAVRBVV95cUxNeWFHbUtqUWwtbzZzalJEYlhjZFhMMmtrajhtakxnMzBtYkQxRkF2RUxNUjRqaGxIdUF2a0NpVWVfd2hjVWZwYk1kTlRSVndtUXdQRDM?oc=5",
+            "source": "세계일보",
+            "published": "11-01 17:46",
+            "snippet": "美 FBI “바이낸스 가상자산 해킹 배후는 北” 세계일보"
+          },
+          {
+            "title": "[사설]북 해킹 조직의 8조 원대 가상자산 탈취, 사이버 안보 원점 재점검해야 - 경향신문",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zSVhFV093V2JpSnlucWo3T0JfMVRfSHVuTzZrbF9KX2RFcF91UGR1dHhrY01PLXViaFJWNHFSRTlrYmN4T3B4ZmNQTmRpVFNENWExcGtWaWtSUdIBX0FVX3lxTE5NTzV6M1RLOGdSSDVrNHgteEVOT2lNVXV5dl9KT2k0VTdaN2RfZmhhbHVfRTEzLTNqaXloeU0zdUJzS3V4YnhHVnZTMHRPYy1TdjJ1aHRXNjRZcDZvS0ZZ?oc=5",
+            "source": "경향신문",
+            "published": "11-01 18:10",
+            "snippet": "[사설]북 해킹 조직의 8조 원대 가상자산 탈취, 사이버 안보 원점 재점검해야 경향신문"
+          },
+          {
+            "title": "\"올해 가상자산 해킹 피해 89%, 북한 소행 추정\" - 머니투데이 - 머니투데이",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45cjk4VkJNcTVqWlBST3FQODFLS1N1S09McThqREFqbWpFTEhlZFVQNWdaYjVfSGdocVhkOEFGLWRpZjgtMkJjbkxRSUx3R19IcmhKZFVjcDNIdjlJVEYzVGVPakdMc202dEpjYkVn0gFuQVVfeXFMTjlyOThWQk1xNWpaUFJPcVA4MUtLU3VLT0xxOGpEQWptakVMSGVkVVA1Z1piNV9IZ2hxWGQ4QUYtZGlmOC0yQmNuTFFJTHdHX0hyaEpkVWNwM0h2OUlURjNUZU9qR0xzbTZ0SmNiRWc?oc=5",
+            "source": "머니투데이",
+            "published": "11-01 17:15",
+            "snippet": "\"올해 가상자산 해킹 피해 89%, 북한 소행 추정\" - 머니투데이 머니투데이"
+          },
+          {
+            "title": "윤상현 \"北 60억 달러 가상자산 해킹, 중대한 안보 위협…정부 대응 촉구\" - 뉴스핌",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iX3c3Znk5RzNxdTdwQ3dwTlVreVhOVEg1eFI5eHZ3aDk1RnQyUDM3cnRaaTNKNERKMURTUXB0ZXFFVWV6NVA3QkJhdU9lRlkycnJGY0J1VDhVVjRP?oc=5",
+            "source": "뉴스핌",
+            "published": "11-01 15:22",
+            "snippet": "윤상현 \"北 60억 달러 가상자산 해킹, 중대한 안보 위협…정부 대응 촉구\" 뉴스핌"
+          },
+          {
+            "title": "체이널리시스 \"올해 가상자산 해킹 피해액 89%, 북한 연계 추정\" - 블루밍비트",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93Wk11UkVlS2dPTjdCc0hQNkJRSXExQTVUNFdKT0VOUW9waVp5NUNPZFlvWnBnMlRlQlBMTHM0SndDVE5FQXRudUpudllWcjd1?oc=5",
+            "source": "블루밍비트",
+            "published": "11-01 15:49",
+            "snippet": "체이널리시스 \"올해 가상자산 해킹 피해액 89%, 북한 연계 추정\" 블루밍비트"
+          }
+        ]
+      },
+      "queries": {
+        "수출 1조 달러": [
+          "수출 1조 달러 달성",
+          "수출 1조 달러 국가",
+          "한국 수출 1조 달러",
+          "연간 수출 1조 달러"
+        ],
+        "AI 반도체 투자": [
+          "ai 반도체 투자",
+          "ai 반도체 투자 거품",
+          "ai 버블 반도체 실전 투자법",
+          "ai 버블 반도체 실전 투자법 이형수",
+          "중국 ai 반도체 투자",
+          "주식 초고수 ai 반도체 투자",
+          "삼성 전자 ai 반도체 투자",
+          "한국 ai반도체 투자"
+        ],
+        "가상자산 해킹": []
+      }
+    },
+    "global": {
+      "keywords": [
+        "뉴욕증시 나스닥",
+        "달러 환율",
+        "국제 유가"
+      ],
+      "results": {
+        "뉴욕증시 나스닥": {
+          "headline": "빅테크 실적 충격에 나스닥 이틀간 4퍼센트 급락",
+          "facts": [
+            "나스닥 지수가 이틀 만에 4퍼센트 급락하면서 애플과 AMD 등 주요 기술주들의 향방에 시장의 관심이 집중됨.",
+            "빅테크 기업들의 사분기 가이던스 줄하향 충격이 겹치면서 뉴욕증시에 패닉 셀링이 촉발됨.",
+            "인공지능 버블 붕괴 공포가 현실화되는 양상을 보이며 인공지능 데이터센터 과잉 투자에 따른 부메랑 효과가 가시화됨.",
+            "오픈AI가 앤트로픽과의 치열한 경쟁 속에서 투자 유치를 조절하며 기업가치를 1조 2500억 달러로 평가받음.",
+            "인공지능 불안감이 확산되는 가운데 뉴욕증시는 중간선거와 빅테크 실적 및 고용 지표가 겹치는 운명의 주를 맞이함."
+          ],
+          "watch": [
+            "애플과 AMD 등 주요 기술주의 반등 가능 여부",
+            "미국 중간선거 결과가 증시에 미치는 영향",
+            "빅테크의 데이터센터 투자 축소 및 실적 가이던스"
+          ],
+          "qna": [
+            {
+              "q": "뉴욕증시 나스닥의 급락세가 국내 증시와 일반 투자자의 포트폴리오에 미치는 파장은 무엇인가?",
+              "a": "글로벌 기술주 투자 심리가 위축되면서 국내 반도체 및 성장주 주가에도 동반 하락 압력으로 작용한다. 변동성이 커진 장세에서는 자산 배분을 보수적으로 가져갈 필요가 있다."
+            },
+            {
+              "q": "뉴욕증시와 나스닥 시장의 정확한 차이점과 투자자들이 두 지표를 바라보는 관점은 어떻게 다른가?",
+              "a": "뉴욕증시는 뉴욕증권거래소에 상장된 모든 전통 우량 기업을 포괄하는 반면 나스닥은 기술주와 혁신 기업 중심의 지수이다. 기술주 중심의 나스닥이 AI 버블 우려에 더 민감하게 반응한다."
+            },
+            {
+              "q": "빅테크 기업들의 실적 충격과 가이던스 하향 조정을 장기적 관점에서 어떻게 해석해야 하는가?",
+              "a": "지나치게 높았던 시장의 기대치가 현실적인 성과 검증 단계로 진입하고 있음을 뜻한다. 단기 실망 매물이 출회될 수 있으나 장기적 체질 개선의 과정으로 볼 수 있다."
+            }
+          ]
+        },
+        "달러 환율": {
+          "headline": "연중 최저점 찍고 반등하는 1300원대 달러 환율",
+          "facts": [
+            "원·달러 환율이 연중 최저치인 1320원대 기록 후 반등세를 보이며 1330원대 방향성을 탐색함.",
+            "미국의 정치적 불확실성과 국내 수출업체의 네고 물량이 맞물리면서 환율의 단기 등락 요인으로 작용함.",
+            "미국 중간선거를 앞두고 세계 경제의 운명을 가를 세 갈림길에서 한국의 반도체 수출과 환율이 주요 변수로 떠오름.",
+            "강달러 기조 속에서도 반도체 수출 호조에 따른 달러 유입으로 인해 환율이 일정 부분 하방 압력을 받음.",
+            "1300원대 환율이 지속되면서 개인 투자자들 사이에서 달러예금과 트래블통장뿐만 아니라 상장지수펀드(ETF)를 활용한 외화 투자 관심이 크게 쑥쑥 늘어남."
+          ],
+          "watch": [
+            "미국 대선 및 중간선거 등 정치적 불확실성 추이",
+            "미국 고용지표 발표에 따른 달러 방향성 변화",
+            "수출업체 네고 물량 유입에 따른 환율 상하단 방어력"
+          ],
+          "qna": [
+            {
+              "q": "환율 계산기를 두드리며 외화예금이나 트래블통장 등에 가입할 때 환율 살 때와 팔 때의 차이를 어떻게 고려해야 하는가?",
+              "a": "환전 수수료와 스프레드를 감안해야 하므로 단기 차익 실현보다는 환테크나 해외 여행 목적의 분할 매수가 유리하다. 환율이 1300원대 박스권에 머물 때 자산 배분 차원에서 접근할 수 있다."
+            },
+            {
+              "q": "달러 환율이 떨어지는 이유는 주로 어떤 국내외 경제 지표와 수급 요인에서 비롯되는가?",
+              "a": "국내 기업의 반도체 수출 호조로 달러 유입이 늘어나거나 미국의 금리 인하 기대가 커질 때 원화 강세와 달러 약세가 유발된다. 반대로 글로벌 안전자산 선호가 심화되면 달러 환율이 급등한다."
+            },
+            {
+              "q": "현재 1300원대 흐름을 보이는 달러 환율이 향후 연말이나 내년으로 갈 때 1200원대로 내려갈 수 있는가?",
+              "a": "미국의 통화정책 피벗 속도와 국내 수출 성과에 따라 방향성이 결정된다. 수출이 지속적으로 호조를 보인다면 환율 하향 안정화 가능성이 점쳐질 수 있다."
+            }
+          ]
+        },
+        "국제 유가": {
+          "headline": "오펙플러스 증산 보류 속 118달러 육박하는 국제 유가",
+          "facts": [
+            "오펙플러스(OPEC+)가 유가 118달러 수준에도 불구하고 증산을 보류하면서 중동 전쟁 여파로 원유 공급이 막힘.",
+            "시장에선 이란 전쟁 확전 우려가 고조됨에 따라 국제유가가 2퍼센트 이상 상승하며 6개월 만에 최고치를 기록함.",
+            "국제 유가가 118달러에 육박하는 강세를 보이며 오펙플러스의 증산 중단과 이란의 보복 경고가 복합적으로 작용함.",
+            "한국의 10월 에너지 수입액이 165억 달러를 기록하여 전년 대비 63퍼센트 급증하는 충격을 받음.",
+            "강원 지역을 비롯한 국내 기름값은 22주 연속 하락세를 보였으나 국제 유가 상승세로 인해 국내 가격 반등 우려가 대두됨."
+          ],
+          "watch": [
+            "오펙플러스(OPEC+)의 추가 증산 회의 및 정책 결정",
+            "중동 지역 이란 전쟁 확전 여부 및 원유 공급 차질",
+            "국제 유가 상승이 국내 에너지 수입 및 기름값에 미치는 시차"
+          ],
+          "qna": [
+            {
+              "q": "국제 유가가 100달러를 돌파하게 된 원인과 트럼프 발언이 글로벌 원유 시장에 미치는 파장은 무엇인가?",
+              "a": "중동 지정학적 리스크 확대로 공급 차질이 빚어진 것이 주된 원인이다. 주요 정치인의 발언은 에너지 정책 변화 기대를 자극해 단기 변동성을 키우는 요인이 된다."
+            },
+            {
+              "q": "국제 유가가 급등하는 상황에서 국내 기름값은 왜 곧바로 반영되지 않고 시차를 두고 움직이는가?",
+              "a": "국내 주유소들은 기존에 비축해 둔 재고를 소진한 뒤 수입 원가 상승분을 반영하기 때문이다. 보통 2주에서 3주의 시차를 두고 국내 주유소 가격에 순차적으로 적용된다."
+            },
+            {
+              "q": "국제 유가 지수와 실시간 차트를 참고할 때 일반 소비자와 기업이 주의 깊게 보아야 할 핵심 지표는 무엇인가?",
+              "a": "서부텍사스산원유(WTI)와 브렌트유의 가격 변동 추이가 세계 경제의 인플레이션 압력을 가늠하는 기준이 된다. 유가 상승은 무역수지 악화와 물가 상승으로 이어지므로 기업 원가 관리가 필수적이다."
+            }
+          ]
+        }
+      },
+      "news": {
+        "뉴욕증시 나스닥": [
+          {
+            "title": "나스닥 이틀 새 4% 급락…애플·AMD가 돌려세울까 - 경북매일",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SdjRoQTZxc1lyaC10LU5MeUpxcVMwT1A0Yy03ZUphNzI4ZVFZTGNZbml0Umxyd3o0QkJVaHpFMVhWRWJHekhFNXlFZ0ZWellfRUNKYUUyaldsZw?oc=5",
+            "source": "경북매일",
+            "published": "11-01 07:55",
+            "snippet": "나스닥 이틀 새 4% 급락…애플·AMD가 돌려세울까 경북매일"
+          },
+          {
+            "title": "뉴욕증시 패닉 셀링 촉발 -> 나스닥 급락 속 AI 버블 붕괴 공포 현실화 => AI 데이터센터 과잉 투자 부메랑 -> 빅테크 4분기 가이던스 줄하향 충격 - 데일리머니",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wWTQ0bFlKVEM0QzF3TVRyNnFRVUhaeXR4ejRQMWRBWFhhYUZJOGFpTzI3WUFaYVdFS3JyU3N5c0RfSHNVNTFSenlGRFZ2RWJxQ2hjTnZ4TUFtZVNOOGQzSzY3LXEzNmpIb0FGUXhKQWR5dw?oc=5",
+            "source": "데일리머니",
+            "published": "11-01 09:07",
+            "snippet": "뉴욕증시 패닉 셀링 촉발 -> 나스닥 급락 속 AI 버블 붕괴 공포 현실화 => AI 데이터센터 과잉 투자 부메랑 -> 빅테크 4분기 가이던스 줄하향 충격 데일리머니"
+          },
+          {
+            "title": "[주간 월가 레이더] AI 흔들린 뉴욕증시⋯중간선거·빅테크 실적·고용 '운명의 주' - 포커스온경제",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qSEpBYUFJZThFMEs4TFdKN0xSM0pCRC1aMi1aLW9wYVNMcUdRdXBKYTBPd09XRkd0NlR2MWZuMzd5a05FYXg0YTc0bWhGMkMwREVKNU9WbEJNQURTN3c5WA?oc=5",
+            "source": "포커스온경제",
+            "published": "11-01 05:05",
+            "snippet": "[주간 월가 레이더] AI 흔들린 뉴욕증시⋯중간선거·빅테크 실적·고용 '운명의 주' 포커스온경제"
+          },
+          {
+            "title": "[뉴욕증시 마감] \"희망 넘어 성과 증명할 때\"…빅테크 실적 충격에 나스닥·반도체주 급락 - CBC뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iMjUxQU5TRDhYMTVzUGtmay1EQzl3c1pwdXFROUFiUEV4YzJKOVZkZnFTSC1INWZkZ0lWVUlGUnNQOFJLY1pyRE82c2tqQUsxb0l1WWpNNUFLSXI4X2p2b3dzdWxOeUlj?oc=5",
+            "source": "CBC뉴스",
+            "published": "11-01 00:00",
+            "snippet": "[뉴욕증시 마감] \"희망 넘어 성과 증명할 때\"…빅테크 실적 충격에 나스닥·반도체주 급락 CBC뉴스"
+          },
+          {
+            "title": "[뉴욕증시 전망] AI 불안 속 중간선거 맞는다…기술주 향방 촉각 - 더페어",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxQjlqTEk2bWJhcl8tZy1qckxDZHhobHdTU1NXVmRTR3VJMWZKVFhYd2hNSjRvTjcyeEJwc2F4LW5MZzZkalhfMkpWNlZIWnhzdlQ4d0xydVl5Z24tTWJhRnVvWmd4b3JuR0lIMUV4YmLSAXRBVV95cUxOaGluUG9xT3hDZTgxMl9vM3RBY0ZhSm9MaUpuZlE2YWJVU3NQakFkaUlSZGxwaFAyN2FiNGpLbjJLZWxfZmZaMDZJM1BhOTFCcW9Gc2ZDX3Jhb2x0TkVIMmhmOWpsMnFxcUoyOUNDR1lrRkQtaQ?oc=5",
+            "source": "더페어",
+            "published": "11-01 00:00",
+            "snippet": "[뉴욕증시 전망] AI 불안 속 중간선거 맞는다…기술주 향방 촉각 더페어"
+          },
+          {
+            "title": "[오픈AI 투자 유치] 앤트로픽과 경쟁 속 투자 유치 조절 나선 오픈AI…기업가치 1조2500억달러로 - CBC뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11LVFaZUZuS2FTamNISExXOEROeHpBVEhTYWlrWmR3V2Q4V05XX0pWaHJOb2lrelZnS3lBQi1kRTU5Z2hxWWROLVJjMng1X21DZWlVNTE2YnZlS2JtM0FPZm9abzFHZExO?oc=5",
+            "source": "CBC뉴스",
+            "published": "11-01 00:25",
+            "snippet": "[오픈AI 투자 유치] 앤트로픽과 경쟁 속 투자 유치 조절 나선 오픈AI…기업가치 1조2500억달러로 CBC뉴스"
+          }
+        ],
+        "달러 환율": [
+          {
+            "title": "[주간환율전망] 美 정치적 불확실성 vs 수출 네고···1330원대 방향 탐색 - 서울파이낸스",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aUXRhZTFRUGpnWGw0RkI3NG00MkZJNHRFU3hvdmktOE9WaDVfVlI1Vkk0N3BodVJORTRPQUZkQ1UwR2ZiSlNOVG1Xd212STdveEpHdmhzbDlXcFRsd1pyWFZRYl9HYUI4Z1E?oc=5",
+            "source": "서울파이낸스",
+            "published": "11-01 15:53",
+            "snippet": "[주간환율전망] 美 정치적 불확실성 vs 수출 네고···1330원대 방향 탐색 서울파이낸스"
+          },
+          {
+            "title": "1300원대 환율에 외화투자 관심 쑥, 달러예금 트래블통장 더해 ETF도 눈길 - 비즈니스포스트",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zUjFEMWV6X1pjMU82NUR6LWJKNUpLTXZMZl9xclpnNFdyWUNLNml5VVZybXROVlV3NUhWTHFGZl9PUHBSTUhtN1RLcDlrMHVzZW1jTDVnbTJUanFHOURTS2dOeXJWdUt4YnhVOF9xWVNkWTg?oc=5",
+            "source": "비즈니스포스트",
+            "published": "11-01 06:00",
+            "snippet": "1300원대 환율에 외화투자 관심 쑥, 달러예금 트래블통장 더해 ETF도 눈길 비즈니스포스트"
+          },
+          {
+            "title": "美 중간선거 D-2, 세계경제 운명 가를 세 갈림길…한국 반도체·환율 촉각 - OBC 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GWUhPc01WTUlqblBueFZWUmYxMEJrSjdrekt5ZFBBQmRBX1FJaFRCSi15U25fV00xd1lvVmdBbDhXb0VsUlM0a0k3WXdvVm9Hb3FXUzV2bzNfa1lRWUhQVkx3NlYyajQz?oc=5",
+            "source": "OBC 뉴스",
+            "published": "11-01 17:43",
+            "snippet": "美 중간선거 D-2, 세계경제 운명 가를 세 갈림길…한국 반도체·환율 촉각 OBC 뉴스"
+          },
+          {
+            "title": "오늘(11월 1일) 미국 달러 환율: 미국 달러는 은행과 암시장 모두에서 안정세를 유지하고 있습니다. 미국 달러 구매자는 무엇을 주의해야 할까요? - Vietnam.vn",
+            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNGtGQXpJNzg3TUxwd1dsSjlQVWxXU0doLU1kRVdkZG5MVVktS3NsR3IwRzEyX3ZIcmZzVkpoSjZVbUNqVEgxOGVKbjZLZmx0OUJTZVBRRzl0cEgtWTZBVWh1eEtMTlRZM05ZcF9IdHF1dXk4UHZwM0s5QVVub3hXN29kci1aRlI0NncwSVVSalBzSGFhZ1FhTU1Bc1BZMXFXWkNiU1BjLW5iZ2U0NlFESWpkOGZaMVQ5X3F0SVR4MHE3dDg?oc=5",
+            "source": "Vietnam.vn",
+            "published": "11-01 14:21",
+            "snippet": "오늘(11월 1일) 미국 달러 환율: 미국 달러는 은행과 암시장 모두에서 안정세를 유지하고 있습니다. 미국 달러 구매자는 무엇을 주의해야 할까요? Vietnam.vn"
+          },
+          {
+            "title": "[이번주 환율] 1320원대 연중 최저 찍고 반등…美 고용지표에 방향성 탐색 - 오피니언뉴스",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZR0ZLOHRmTGVuR2g3X1lJLXc3Y29KV1FYdVJTNnRUVTIycU0yQkF2MzhQd0ZWbTJDWldQZ1J2TUxHbDVVVl9kU1pTTnhyQ1hWRmRVVFZ4Y3FqTjB0cXA5LU13SkxINDdiTkx5TnhJUlF1QQ?oc=5",
+            "source": "오피니언뉴스",
+            "published": "11-01 09:00",
+            "snippet": "[이번주 환율] 1320원대 연중 최저 찍고 반등…美 고용지표에 방향성 탐색 오피니언뉴스"
+          },
+          {
+            "title": "‘반도체 달러’에 힘 못 쓰는 강달러…환율 연말에는 1200원대 가나? - www.dt.co.kr",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hNWlETnFPZTN4RWVfQjU4MlY2RlZ4am4tSHRpM2JWUWZlNXRfNE9JeXpncGtiQ0dJbmhZQWUxS3RNMGRsU3UyQ1NmellXUQ?oc=5",
+            "source": "www.dt.co.kr",
+            "published": "11-01 05:00",
+            "snippet": "‘반도체 달러’에 힘 못 쓰는 강달러…환율 연말에는 1200원대 가나? www.dt.co.kr"
+          }
+        ],
+        "국제 유가": [
+          {
+            "title": "강원지역 기름값 22주 연속 하락 - 강원일보",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJT1dnNTFCX0szSUluS1M2YkRGMXF0cW4zb29UZWt1MUlyTjhXNnllb3pmd1hlUnlab3l4M0NfcTJTbUdGREpMZFZhRUlZbXpxTk5YSjFyYkdpb0E?oc=5",
+            "source": "강원일보",
+            "published": "11-01 13:29",
+            "snippet": "강원지역 기름값 22주 연속 하락 강원일보"
+          },
+          {
+            "title": "10월 에너지수입 63%급증 165억 달러 - CNews",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vMzQyYUhfUjVhcG9za2l3ZGJ1SDVnem5wbVBpQ0VrUVZyT1cxOVZUN0lMUTFQb0pzbVdxVDVteHhBTm1iQ1lEZWVFX0JWbGFwRHk2Sk1sanJkMUdWTnFtZ1hFQzhWTHhOY1JNRkNtVV9GQ1hvUV9N?oc=5",
+            "source": "CNews",
+            "published": "11-01 12:00",
+            "snippet": "10월 에너지수입 63%급증 165억 달러 CNews"
+          },
+          {
+            "title": "OPEC+, 유가 118달러에도 증산 보류…중동 전쟁에 원유 공급 막혔다 - OBC 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wbDJCLTc2S2NNa2RTS2Z5VDRqaTUwLUlPaUNMYVFMY2tteGc5NTBwU3drZ0JtY0RmeEV0Y2Nvcl95NTBqTEk2OGVuVW5MRDA5clVsZHlkMUlrSDdpeUQza3V2UGlxLTJQWVE?oc=5",
+            "source": "OBC 뉴스",
+            "published": "11-01 13:11",
+            "snippet": "OPEC+, 유가 118달러에도 증산 보류…중동 전쟁에 원유 공급 막혔다 OBC 뉴스"
+          },
+          {
+            "title": "오늘(11월 1일) 연료 가격: 국제 유가는 상승했지만, 국내 유가는 급락했습니다. - Vietnam.vn",
+            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY0h6bzRpcmJHVEpxTmI3TzA3NDFhQWlFUUEtREhjRzFpWjFiMmRwdmJROW5OeFBveXZXeF8xVHMtY00zT1Q2OXdQNkJDYzQ4SVRCWVpJUE8xNHU5QlN3YmJDNTJjNXhaTWVwTkd5c0JIN3ZROGVNX0xsYW9qeGw2aE5hcG9lVkRLeHItSFlLc3BRYVpP?oc=5",
+            "source": "Vietnam.vn",
+            "published": "11-01 12:41",
+            "snippet": "오늘(11월 1일) 연료 가격: 국제 유가는 상승했지만, 국내 유가는 급락했습니다. Vietnam.vn"
+          },
+          {
+            "title": "[모닝글로벌리포트]국제유가 2%대 상승…이란전쟁 확전 우려에 6개월 만에 최고 - 코리아포스트 한글판",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nQ09BQnFDYTc4cUZtRnkxZldlZ01FS3hkdWZMSHRrcVJhbmplLWpsRE9qRnFHLWt4WmdKTVluNHVtZk5ZY1VuZzloNWVtQW9JWWdEeDhGU0E5WHBKTUx6ZDhOUGRzRjIwem5Da2Zn?oc=5",
+            "source": "코리아포스트 한글판",
+            "published": "11-01 05:30",
+            "snippet": "[모닝글로벌리포트]국제유가 2%대 상승…이란전쟁 확전 우려에 6개월 만에 최고 코리아포스트 한글판"
+          },
+          {
+            "title": "OPEC+ 증산 멈추고, 이란은 보복 경고…유가 118달러 육박 - 이데일리",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVW9LbFpsT1k2Q1d2UVVKLWZQeXhnTTFhcHVuUXBqQi1rSUxwWHJBY0dRZWlocVBGR2N1bTRjOGktWVVqV2pidmdjcTFKMGY1MGluWWRONjRoQXkydF92UlBUamtOdmMzaGxkWlNWTkxUbm55Vm1KLS1ockp2Q2ZYSQ?oc=5",
+            "source": "이데일리",
+            "published": "11-01 20:22",
+            "snippet": "OPEC+ 증산 멈추고, 이란은 보복 경고…유가 118달러 육박 이데일리"
+          }
+        ]
+      },
+      "queries": {
+        "뉴욕증시 나스닥": [
+          "뉴욕증시 나스닥 차이"
+        ],
+        "달러 환율": [
+          "달러 환율 원",
+          "달러 환율계산기",
+          "달러 환율 살때 팔때",
+          "달러 환율 전망",
+          "달러 환율 조회",
+          "달러 환율 계산",
+          "달러 환율 떨어지는 이유",
+          "달러 환율 한국",
+          "달러 환율 그래프",
+          "달러 환율 뜻"
+        ],
+        "국제 유가": [
+          "국제 유가 실시간 차트",
+          "국제 유가 차트",
+          "국제 유가 실시간 가격",
+          "국제 유가 100달러 돌파 원인과 트럼프 발언 관련 최신 뉴스 알려줘",
+          "국제 유가 실시간",
+          "국제 유가 변동 그래프",
+          "국제 유가 시세",
+          "국제 유가 지수",
+          "국제 유가 실시간 사이트",
+          "국제 유가 뜻"
+        ]
+      }
+    },
     "keywords": [
-      "미국 중간선거",
-      "코스피 폭락",
-      "서울 아파트값"
+      "수출 1조 달러",
+      "AI 반도체 투자",
+      "가상자산 해킹",
+      "뉴욕증시 나스닥",
+      "달러 환율",
+      "국제 유가"
     ],
     "results": {
-      "미국 중간선거": {
-        "headline": "초박빙 미국 중간선거, 사전투표 5천만 명 돌파",
+      "수출 1조 달러": {
+        "headline": "한국 연간 수출 1조 달러 달성 눈앞",
         "facts": [
-          "미국 중간선거를 앞두고 사전투표 참여자가 5천만 명을 돌파하며 유권자의 뜨거운 관심을 증명함.",
-          "상원 의원 주요 경합지를 중심으로 여론조사 결과 초박빙의 양상이 지속해서 전개됨.",
-          "선거 열기가 과열되면서 공화당 후보를 향한 도 넘은 인신공격이 사회적 문제로 대두함.",
-          "트럼프 전 대통령이 선거 사기를 언급하며 정치적 긴장감을 높이고 선거 국면을 흔듦.",
-          "미 연방 판사가 트럼프 행정부를 향해 선거 관리 공무원을 향한 위협을 즉각 중단하라고 명령함."
+          "한국의 연간 수출액이 세계에서 네 번째로 1조 달러 돌파를 목전에 두고 있으며 미·중·독에 이은 톱4 진입이 가시화됨.",
+          "두 달 연속 월간 수출액이 1100억 달러를 넘어선 견조한 흐름을 보이며 올해 목표 달성을 향한 순항이 지속됨.",
+          "역대급 수출 성과에도 불구하고 반도체 부문에 지나치게 쏠린 구조적 취약점이 한계로 지적되며 우려가 제기됨.",
+          "미국, 중국, 독일 등 전통적인 무역 강국들과 어깨를 나란히 하며 글로벌 경제 내에서 한국의 위상이 크게 강화됨.",
+          "남은 기간 동안 약 700억 달러의 실적을 추가하면 꿈의 1조 달러 고지에 완전히 도달할 것으로 최종 집계됨."
         ],
         "watch": [
-          "경합지 상원 의원 선거의 최종 승부처",
-          "사전투표 열기가 본투표 결과에 미칠 파장",
-          "트럼프 행정부와 선거 관리 당국의 마찰 여부"
+          "반도체 편중 해소를 위한 수출 품목 다변화 여부",
+          "남은 기간 동안 700억 달러 추가 달성 추이",
+          "미·중·독 등 주요 무역국과의 수출 경쟁 구도"
         ],
         "qna": [
           {
-            "q": "미국 중간선거일과 정확한 날짜는 언제인가?",
-            "a": "미국 중간선거의 정확한 일정과 날짜는 본문 기사에서 구체적으로 명시되지 않아 추가 확인이 필요하다."
+            "q": "수출 1조 달러를 달성하면 일반 국민의 실생활이나 체감 경기에 어떤 직접적인 영향이 있는가?",
+            "a": "거시경제 지표와 무역 규모가 커지는 것은 국가 신인도 유지와 환율 안정에 기여한다. 하지만 반도체 중심의 쏠림 현상이 강해 실제 고용이나 내수 진작으로 직결되지 않을 수 있다."
           },
           {
-            "q": "미국 중간선거 사전투표가 왜 이렇게 주목받는가?",
-            "a": "사전투표 참여자가 이미 5천만 명을 돌파하면서 이번 선거의 향방을 가를 주요 변수로 작용하고 있기 때문이다."
+            "q": "한국이 달성하려는 연간 수출 1조 달러 국가라는 타이틀은 세계 경제에서 구체적으로 어떤 의미를 지니는가?",
+            "a": "미국, 중국, 독일 등 거대 경제 대국에 이어 세계에서 네 번째로 연간 수출 1조 달러 클럽에 가입함을 뜻한다. 이는 한국이 글로벌 공급망에서 무시할 수 없는 핵심 수출국임을 증명하는 지표이다."
           },
           {
-            "q": "초박빙 승부가 나의 자산이나 경제에 미치는 영향은 무엇인가?",
-            "a": "미국 정치 지형의 변화는 글로벌 금융시장과 환율 등에 연쇄적인 파장을 일으키므로 주의 깊게 살펴봐야 한다."
+            "q": "수출 규모가 사상 최대를 기록함에도 불구하고 마냥 웃을 수 없다는 지적은 어떤 맥락에서 나오는가?",
+            "a": "수익성이 특정 품목인 반도체에 지나치게 의존하고 있기 때문이다. 글로벌 반도체 업황이 흔들릴 경우 전체 경제가 큰 타격을 입는 구조적 취약성을 안고 있음을 의미한다."
           }
         ]
       },
-      "코스피 폭락": {
-        "headline": "코스피 한 달 만에 16% 폭락, 외환위기급 충격",
+      "AI 반도체 투자": {
+        "headline": "AI 반도체 호황 뒤에 쌓이는 투자 청구서",
         "facts": [
-          "코스피가 한 달 동안 16% 급락하면서 외환 및 금융위기 당시와 맞먹는 역대 7위의 낙폭을 기록함.",
-          "AI 고점론이 확산하고 중국의 거센 추격까지 겹치면서 국내 증시에 강력한 하방 압력으로 작용함.",
-          "미국 반도체주가 동반 폭락하고 인텔 쇼크까지 터지면서 국내 증시에 직격탄을 날림.",
-          "증시가 사이버 도박장처럼 변질되었다는 비판과 함께 투자 심리가 극도로 위축됨.",
-          "코스피 폭락 사태로 인해 국민연금의 평가 손실 규모가 200조 원에 이를 것이라는 추정이 제기됨."
+          "빅테크 기업들이 과도한 인공지능 투자로 인해 현금이 말라가는 현상을 겪으면서 미국 반도체 주가가 줄줄이 급락함.",
+          "이재용 삼성전자 회장이 일본 반도체 연구소를 최초로 방문하여 3500억 원을 투자하며 인공지능 패키징 분야 승부수를 던짐.",
+          "샘 올트먼 오픈AI 최고경영자가 삼성과 에스케이(SK)를 다시 찾아오면서 반도체 및 인프라 확보전이 치열하게 전개됨.",
+          "인공지능 반도체 슈퍼사이클의 강력한 호황 이면에는 막대한 투자 비용이라는 거대한 청구서가 쌓이는 역설적 상황이 발생함.",
+          "글로벌 인공지능 관련 주가가 일제히 급락세를 보이면서 시장에서는 반도체 부문의 블랙 먼데이가 도래할지 촉각을 곤두세움."
         ],
         "watch": [
-          "미국 애플과 AMD의 실적 발표에 따른 반도체주 반등 여부",
-          "미국 중간선거 결과가 국내 증시에 미칠 단기 충격",
-          "국민연금의 자산운용 및 추가 손실 방어 대책"
+          "빅테크 기업들의 과도한 현금 소진과 주가 향방",
+          "삼성과 SK의 AI 인프라 및 패키징 투자 성과",
+          "글로벌 반도체 시장의 슈퍼사이클 지속 가능성"
         ],
         "qna": [
           {
-            "q": "코스피 폭락 원인과 정부의 대응 정책은 무엇인가?",
-            "a": "AI 고점론과 중국의 추격, 미국 반도체주 폭락이 겹친 결과이며 정부의 구체적 대응 정책은 확인이 필요하다."
+            "q": "일반 투자자 입장에서 AI 반도체 투자의 거품 논란과 주가 급락을 어떻게 바라보아야 하는가?",
+            "a": "빅테크의 과도한 현금 지출로 단기적인 주가 변동성과 불안감이 커진 상태이다. 실질적인 성과가 증명되지 않을 경우 조정이 길어질 수 있어 신중한 접근이 필요하다."
           },
           {
-            "q": "국민연금 200조 평가손실 추정이 내 연금 수령에 영향을 주는가?",
-            "a": "단기 평가손실은 장기 투자 자산의 성격상 변동성에 해당하며 연금 지급 구조에 즉각적인 차질을 주지는 않는다."
+            "q": "삼성전자와 SK하이닉스가 올트먼과의 협력을 강화하는 행보는 향후 실적에 어떤 영향을 주는가?",
+            "a": "글로벌 인프라 확보전에서 핵심 공급자로 자리매김하는 계기가 된다. 다만 대규모 투자에 따른 비용 부담과 시장의 기대치를 충족해야 하는 과제를 동시에 안게 된다."
           },
           {
-            "q": "역대급 폭락장에서 개인투자자가 취해야 할 올바른 자세는 무엇인가?",
-            "a": "시장의 과도한 공포에 휩쓸려 무작정 매도하기보다 냉정하게 포트폴리오를 점검하고 장기적인 관점을 유지할 필요가 있다."
+            "q": "중국 시장을 향한 AI 반도체 투자가 국내 기업들의 주가나 실적에 미치는 구체적 영향은 무엇인가?",
+            "a": "미중 기술 패권 경쟁과 규제 환경에 따라 공급망 변동성이 커지는 요인으로 작용한다. 규제 리스크와 수요 변화를 동시에 모니터링해야 하는 배경이 된다."
           }
         ]
       },
-      "서울 아파트값": {
-        "headline": "서울 아파트값 90주째 상승, 거래 절벽 속 매물 증가",
+      "가상자산 해킹": {
+        "headline": "가상자산 해킹 피해 89퍼센트는 북한 소행",
         "facts": [
-          "서울 아파트값이 90주 연속으로 상승세를 이어가며 주택 시장의 견조한 흐름을 지속함.",
-          "서울의 아파트값 상승세가 주춤한 사이 경기도 수원과 용인 등 경기 남부 지역은 가파른 오름세를 보임.",
-          "서울 노원구와 성북구 등지에서는 집값과 전셋값뿐만 아니라 월세마저 10% 이상 치솟음.",
-          "전월세 가격이 7~8% 뛰는 등 주거비 부담이 커지는 와중에 대통령은 자산시장 정상화를 언급함.",
-          "거래 절벽 현상이 심화하면서 서울 전역에서 아파트 매물이 급증하는 양상이 나타남."
+          "미국 연방수사국(FBI)이 역대 최대 규모로 발생한 가상자산 해킹 사건의 배후로 북한을 공식 지목함.",
+          "체이널리시스 데이터 분석 결과 올해 발생한 전체 가상자산 해킹 피해액의 89퍼센트가 북한과 연계된 것으로 추정됨.",
+          "바이낸스 등 주요 거래소를 겨냥한 대규모 가상자산 탈취 사건이 발생하여 국제 사회의 사이버 안보 우려가 증대됨.",
+          "북한 조직이 탈취한 자금이 막대한 규모에 이름에 따라 국가 안보를 위협하는 중대한 사안으로 부각됨.",
+          "정치권과 전문가들은 북한의 거대한 가상자산 탈취 규모를 지적하며 정부 차원의 사이버 안보 원점 재점검과 대응을 촉구함."
         ],
         "watch": [
-          "서울 아파트 매물 증가가 실제 가격 하락으로 이어질지 여부",
-          "경기 남부 지역의 상승세가 수도권 전체로 확산할지 여부",
-          "치솟는 전월세 및 월세가 서민 주거 안정에 미치는 파장"
+          "미국 FBI 및 국제 공조 수사의 추가 자금 추적 결과",
+          "국내 가상자산 거래소의 보안 시스템 강화 조치",
+          "북한 연계 해킹 조직에 대한 정부의 외교·안보적 대응"
         ],
         "qna": [
           {
-            "q": "서울 아파트값 상승률과 평균 가격 추이는 어떠한가?",
-            "a": "90주 연속 상승세를 기록 중이나 구체적인 평균 가격 액수는 본문 기사에 제시되지 않았다."
+            "q": "북한의 대규모 가상자산 해킹이 국내 일반 투자자의 지갑이나 거래소 이용에 실질적인 위협이 되는가?",
+            "a": "주요 글로벌 거래소와 대형 해킹 사건을 중심으로 피해가 집중되고 있다. 개별 이용자는 이중 보안 설정 등을 통해 자산을 안전하게 보호할 필요가 있다."
           },
           {
-            "q": "집값이 계속 오르는데 지금 집을 사지 않으면 견뎌야 하는가?",
-            "a": "대통령 발언과 시장의 거래 절벽이 공존하는 시기이므로 무리한 추격 매수보다는 개인의 재무 상황을 철저히 점검해야 한다."
+            "q": "체이널리시스 등 블록체인 분석 기관들이 해킹 배후를 북한으로 특정할 수 있는 기술적 배경은 무엇인가?",
+            "a": "탈취된 자금이 이동하는 자금세탁 경로와 악성코드의 고유한 패턴을 추적하는 블록체인 포렌식 기술을 활용한다. 이를 통해 자금 흐름의 최종 목적지를 파악할 수 있다."
           },
           {
-            "q": "서울 아파트 매물이 급증하는데 왜 집값은 떨어지지 않는가?",
-            "a": "매물이 늘어나도 실제 거래로 이어지지 않는 거래 절벽이 발생하면서 가격 하방 압력과 매도 호가 간의 괴리가 발생하기 때문이다."
+            "q": "역대 최대 규모의 가상자산 해킹이 발생했을 때 정부와 관련 기관은 어떤 대응 방안을 강구해야 하는가?",
+            "a": "국제 사회와의 공조를 통해 탈취된 자금의 동결을 유도하고 국가 간 사이버 안보 공조 체계를 강화해야 한다. 국내 거래소의 취약점을 선제적으로 점검하는 조치도 수반되어야 한다."
+          }
+        ]
+      },
+      "뉴욕증시 나스닥": {
+        "headline": "빅테크 실적 충격에 나스닥 이틀간 4퍼센트 급락",
+        "facts": [
+          "나스닥 지수가 이틀 만에 4퍼센트 급락하면서 애플과 AMD 등 주요 기술주들의 향방에 시장의 관심이 집중됨.",
+          "빅테크 기업들의 사분기 가이던스 줄하향 충격이 겹치면서 뉴욕증시에 패닉 셀링이 촉발됨.",
+          "인공지능 버블 붕괴 공포가 현실화되는 양상을 보이며 인공지능 데이터센터 과잉 투자에 따른 부메랑 효과가 가시화됨.",
+          "오픈AI가 앤트로픽과의 치열한 경쟁 속에서 투자 유치를 조절하며 기업가치를 1조 2500억 달러로 평가받음.",
+          "인공지능 불안감이 확산되는 가운데 뉴욕증시는 중간선거와 빅테크 실적 및 고용 지표가 겹치는 운명의 주를 맞이함."
+        ],
+        "watch": [
+          "애플과 AMD 등 주요 기술주의 반등 가능 여부",
+          "미국 중간선거 결과가 증시에 미치는 영향",
+          "빅테크의 데이터센터 투자 축소 및 실적 가이던스"
+        ],
+        "qna": [
+          {
+            "q": "뉴욕증시 나스닥의 급락세가 국내 증시와 일반 투자자의 포트폴리오에 미치는 파장은 무엇인가?",
+            "a": "글로벌 기술주 투자 심리가 위축되면서 국내 반도체 및 성장주 주가에도 동반 하락 압력으로 작용한다. 변동성이 커진 장세에서는 자산 배분을 보수적으로 가져갈 필요가 있다."
+          },
+          {
+            "q": "뉴욕증시와 나스닥 시장의 정확한 차이점과 투자자들이 두 지표를 바라보는 관점은 어떻게 다른가?",
+            "a": "뉴욕증시는 뉴욕증권거래소에 상장된 모든 전통 우량 기업을 포괄하는 반면 나스닥은 기술주와 혁신 기업 중심의 지수이다. 기술주 중심의 나스닥이 AI 버블 우려에 더 민감하게 반응한다."
+          },
+          {
+            "q": "빅테크 기업들의 실적 충격과 가이던스 하향 조정을 장기적 관점에서 어떻게 해석해야 하는가?",
+            "a": "지나치게 높았던 시장의 기대치가 현실적인 성과 검증 단계로 진입하고 있음을 뜻한다. 단기 실망 매물이 출회될 수 있으나 장기적 체질 개선의 과정으로 볼 수 있다."
+          }
+        ]
+      },
+      "달러 환율": {
+        "headline": "연중 최저점 찍고 반등하는 1300원대 달러 환율",
+        "facts": [
+          "원·달러 환율이 연중 최저치인 1320원대 기록 후 반등세를 보이며 1330원대 방향성을 탐색함.",
+          "미국의 정치적 불확실성과 국내 수출업체의 네고 물량이 맞물리면서 환율의 단기 등락 요인으로 작용함.",
+          "미국 중간선거를 앞두고 세계 경제의 운명을 가를 세 갈림길에서 한국의 반도체 수출과 환율이 주요 변수로 떠오름.",
+          "강달러 기조 속에서도 반도체 수출 호조에 따른 달러 유입으로 인해 환율이 일정 부분 하방 압력을 받음.",
+          "1300원대 환율이 지속되면서 개인 투자자들 사이에서 달러예금과 트래블통장뿐만 아니라 상장지수펀드(ETF)를 활용한 외화 투자 관심이 크게 쑥쑥 늘어남."
+        ],
+        "watch": [
+          "미국 대선 및 중간선거 등 정치적 불확실성 추이",
+          "미국 고용지표 발표에 따른 달러 방향성 변화",
+          "수출업체 네고 물량 유입에 따른 환율 상하단 방어력"
+        ],
+        "qna": [
+          {
+            "q": "환율 계산기를 두드리며 외화예금이나 트래블통장 등에 가입할 때 환율 살 때와 팔 때의 차이를 어떻게 고려해야 하는가?",
+            "a": "환전 수수료와 스프레드를 감안해야 하므로 단기 차익 실현보다는 환테크나 해외 여행 목적의 분할 매수가 유리하다. 환율이 1300원대 박스권에 머물 때 자산 배분 차원에서 접근할 수 있다."
+          },
+          {
+            "q": "달러 환율이 떨어지는 이유는 주로 어떤 국내외 경제 지표와 수급 요인에서 비롯되는가?",
+            "a": "국내 기업의 반도체 수출 호조로 달러 유입이 늘어나거나 미국의 금리 인하 기대가 커질 때 원화 강세와 달러 약세가 유발된다. 반대로 글로벌 안전자산 선호가 심화되면 달러 환율이 급등한다."
+          },
+          {
+            "q": "현재 1300원대 흐름을 보이는 달러 환율이 향후 연말이나 내년으로 갈 때 1200원대로 내려갈 수 있는가?",
+            "a": "미국의 통화정책 피벗 속도와 국내 수출 성과에 따라 방향성이 결정된다. 수출이 지속적으로 호조를 보인다면 환율 하향 안정화 가능성이 점쳐질 수 있다."
+          }
+        ]
+      },
+      "국제 유가": {
+        "headline": "오펙플러스 증산 보류 속 118달러 육박하는 국제 유가",
+        "facts": [
+          "오펙플러스(OPEC+)가 유가 118달러 수준에도 불구하고 증산을 보류하면서 중동 전쟁 여파로 원유 공급이 막힘.",
+          "시장에선 이란 전쟁 확전 우려가 고조됨에 따라 국제유가가 2퍼센트 이상 상승하며 6개월 만에 최고치를 기록함.",
+          "국제 유가가 118달러에 육박하는 강세를 보이며 오펙플러스의 증산 중단과 이란의 보복 경고가 복합적으로 작용함.",
+          "한국의 10월 에너지 수입액이 165억 달러를 기록하여 전년 대비 63퍼센트 급증하는 충격을 받음.",
+          "강원 지역을 비롯한 국내 기름값은 22주 연속 하락세를 보였으나 국제 유가 상승세로 인해 국내 가격 반등 우려가 대두됨."
+        ],
+        "watch": [
+          "오펙플러스(OPEC+)의 추가 증산 회의 및 정책 결정",
+          "중동 지역 이란 전쟁 확전 여부 및 원유 공급 차질",
+          "국제 유가 상승이 국내 에너지 수입 및 기름값에 미치는 시차"
+        ],
+        "qna": [
+          {
+            "q": "국제 유가가 100달러를 돌파하게 된 원인과 트럼프 발언이 글로벌 원유 시장에 미치는 파장은 무엇인가?",
+            "a": "중동 지정학적 리스크 확대로 공급 차질이 빚어진 것이 주된 원인이다. 주요 정치인의 발언은 에너지 정책 변화 기대를 자극해 단기 변동성을 키우는 요인이 된다."
+          },
+          {
+            "q": "국제 유가가 급등하는 상황에서 국내 기름값은 왜 곧바로 반영되지 않고 시차를 두고 움직이는가?",
+            "a": "국내 주유소들은 기존에 비축해 둔 재고를 소진한 뒤 수입 원가 상승분을 반영하기 때문이다. 보통 2주에서 3주의 시차를 두고 국내 주유소 가격에 순차적으로 적용된다."
+          },
+          {
+            "q": "국제 유가 지수와 실시간 차트를 참고할 때 일반 소비자와 기업이 주의 깊게 보아야 할 핵심 지표는 무엇인가?",
+            "a": "서부텍사스산원유(WTI)와 브렌트유의 가격 변동 추이가 세계 경제의 인플레이션 압력을 가늠하는 기준이 된다. 유가 상승은 무역수지 악화와 물가 상승으로 이어지므로 기업 원가 관리가 필수적이다."
           }
         ]
       }
     },
     "news": {
-      "미국 중간선거": [
+      "수출 1조 달러": [
         {
-          "title": "미국 중간선거 어떻게… - 제주일보",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaVTE3dlQ0V01Qc1NHZUtrRk16MDBYR0xjdlA5cFROcUQ5YWVKTGpkVmpjVGFib1otdmlvZDVyRUhYS2JYWFd5blBkQVY0R24teGhJSEh6YkVwUkpLQ3pFSTBocjdLX21PNFM2SQ?oc=5",
-          "source": "제주일보",
-          "published": "11-01 13:31",
-          "snippet": "미국 중간선거 어떻게… 제주일보"
+          "title": "韓 수출 ‘꿈의 1조 달러’ 눈앞…美·中·獨 이어 세계 네 번째 - 중앙일보",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03UFVQZnF4NnBOUmE0WW5ZaXhNdGduMGJpWWE5Z0RaRVF2NW1ZaWw1WURaSmxUNHlHWVVIWnkwSDJrUDBkYjQ0aTh5cnpoMkVWeUo1WXVR?oc=5",
+          "source": "중앙일보",
+          "published": "11-01 15:47",
+          "snippet": "韓 수출 ‘꿈의 1조 달러’ 눈앞…美·中·獨 이어 세계 네 번째 중앙일보"
         },
         {
-          "title": "미국 중간선거 사전투표 5천만명 돌파…공화후보 인신공격도 과열 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42T0FKbm04Wm5LamloTk9nLWg5Rnkwcm9URDVCRVg3RE10Y0R2QTZhUEI4bHBJZmxOY192MHp3RjdOQkNBeGYyS1hpMG5oOG1rNlZvX3FERDNzYU0?oc=5",
-          "source": "KBS 뉴스",
-          "published": "11-01 04:42",
-          "snippet": "미국 중간선거 사전투표 5천만명 돌파…공화후보 인신공격도 과열 KBS 뉴스"
-        },
-        {
-          "title": "[그래픽] 미국 중간선거 상원의원 주요 경합지 여론조사 결과 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZeHMtX0xQc0dpcGZaWjN5RnhSR0x6dmsxcVFUcGNCZDVOeFJPM2hiaHhQVy03b1ZBMzFQUy1JbldSNTBNVjBxTTA1V0F6UmFsMkJwSFVDMGZxbzDSAWBBVV95cUxQOU1UNmR3R05aamNkdFU5ei1Xd1ZFV2x2YTNXQVhWYndmWmhLM2pTSW1BWkNtejM3V19YLTdmOU9oZFdPUi15bzY1U2xQZC1RNWVMTjdwUXJGVEdCZUtNNXE?oc=5",
-          "source": "연합뉴스",
-          "published": "11-01 15:13",
-          "snippet": "[그래픽] 미국 중간선거 상원의원 주요 경합지 여론조사 결과 연합뉴스"
-        },
-        {
-          "title": "미국 중간선거 사전투표 5천만명 돌파…인신공격도 과열 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKX1o3S2RyZWN0VXBEN2ZkMFg4UFk2eE5JemcxMmZ2bkg1YlNUblduMDl0T2RQRVpqYWtPSmdvdlpueHJqM1RkSUFRUm91QnlYRGVXb0hSb1RGdmRLbWtiR2toZjNFaWM?oc=5",
+          "title": "올해 수출 1조달러 눈앞…미·중·독 이어 세계 4위 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IbWNaSTJONG9Pay0zSmlHdHJLcnRnMWkzMDFlZEM4MmxVbi1lUXZrQ3J1NHVjY1BPenQ4R0Y5RnNDZTg4Wk51RnpUaFVlYmtBYlFSZktVd0s4MEZXUHVHRF8teWhLamc?oc=5",
           "source": "연합뉴스TV",
-          "published": "11-01 10:17",
-          "snippet": "미국 중간선거 사전투표 5천만명 돌파…인신공격도 과열 연합뉴스TV"
+          "published": "11-01 13:35",
+          "snippet": "올해 수출 1조달러 눈앞…미·중·독 이어 세계 4위 연합뉴스TV"
         },
         {
-          "title": "미 연방 판사, 트럼프 행정부에 선거 관리 공무원 위협 중단 명령 - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41MEw1X3NnMjNKR1R3c0wyWmJ2cFlwZDd2Z1RQc3FDeUVJVjNIYjFfVGVnRXQyckJ3ZTZnVmJVM0VXUGp6Z0tnMnFlMmF6OFhyRlozUk44UmRDaTkxc0lmTldKZ9IBY0FVX3lxTE41MEw1X3NnMjNKR1R3c0wyWmJ2cFlwZDd2Z1RQc3FDeUVJVjNIYjFfVGVnRXQyckJ3ZTZnVmJVM0VXUGp6Z0tnMnFlMmF6OFhyRlozUk44UmRDaTkxc0lmTldKZw?oc=5",
-          "source": "BBC",
-          "published": "11-01 17:04",
-          "snippet": "미 연방 판사, 트럼프 행정부에 선거 관리 공무원 위협 중단 명령 BBC"
+          "title": "한국 연수출 1조달러 시대 눈앞…두 달 연속 1100억달러 넘었다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9acVZxcDJLamxPTHdlNmZKNEtrZGIxbEMtQktnbllYaW1jZ01SSmVpNG5fUTRKWTZJUGprNl9NT0kyeGQteHlfQVUyVzhnMmpPaU9zbm50ODcxSEpCdTNSczFYRmt3QUJLSUFuTXV2Q3Fkdw?oc=5",
+          "source": "한겨레",
+          "published": "11-01 15:03",
+          "snippet": "한국 연수출 1조달러 시대 눈앞…두 달 연속 1100억달러 넘었다 한겨레"
         },
         {
-          "title": "선거 사기 언급한 트럼프...미국 상원 '초박빙' [이슈톺] - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WYlR6OGtnVy1fQllqZGUtV1dQSE5ITmo4aXdESC1ZLWtNLVltTDdIVC1Bck5jQ0dHMzFGMURXcWM5MC04NUY4b2tKTU8tOGZiVXlwXzlVS2xkTmlOWWc?oc=5",
-          "source": "YTN",
-          "published": "11-01 11:03",
-          "snippet": "선거 사기 언급한 트럼프...미국 상원 '초박빙' [이슈톺] YTN"
-        }
-      ],
-      "코스피 폭락": [
-        {
-          "title": "코스피 한달 16%폭락…AI고점론에 中추격까지 덮쳤다 - 문화일보",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iTkJPc1NWMGRuMFVPb25ZN2JGZVFlcmNKelAyX3JCdWFsaTZDQnU5YkRQWGVXT0E2VlpFR0lybndMUzdyRmMtRXl2ajA4dGZ2?oc=5",
-          "source": "문화일보",
-          "published": "11-01 11:56",
-          "snippet": "코스피 한달 16%폭락…AI고점론에 中추격까지 덮쳤다 문화일보"
-        },
-        {
-          "title": "사이버 도박장 된 증시…코스피, 지난달 16% 폭락 - 부산일보",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBORXIzSjAzRExybDFJZUM4TzF3RjBETlJQWE9NZ3BhUXc4VzV2Z0RQYmt4TVdWSkdST3lYblAxNWpvUlFtd25uSXFHbHowUkxnaWlSa3dJSW02RW5YcFBCbkNPdXFaU1dqd0lYYnltdWF5SElR?oc=5",
-          "source": "부산일보",
-          "published": "11-01 14:20",
-          "snippet": "사이버 도박장 된 증시…코스피, 지난달 16% 폭락 부산일보"
-        },
-        {
-          "title": "코스피, 지난달 하락률 역대 일곱번째 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTXhOYUdWY2ZDS3ZlbWVpcXZ2dzlneUl0SS1GV1ZtYnVVdEhZTmN4bmRPWG9Ec2lpYWlQcFdieUJGcWo1Vk1Md3NERWZEaUlra3BYR1ZZZHAtRml2ZkI2X0pyVUdaY3NrM1ZVeldhVWd6SkxpRGVEeXE0RUsxb3ktczYxd2U0ckhYaUZz?oc=5",
-          "source": "조선일보",
-          "published": "11-01 10:58",
-          "snippet": "코스피, 지난달 하락률 역대 일곱번째 조선일보"
-        },
-        {
-          "title": "美 반도체주 폭락…'인텔 쇼크'에 국내 증시 영향 촉각[주간증시전망](종합) - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tN0RSV2pvTktsbzgzbnQ5cjZubE0tWkFoZHoyMTc3WlpjcE9KYjY2V3dSTUJHNWVpODhZY3FBWlY0MUs1clJYOTNZbDVHeXlRRDFMYWtkencxU0lSOFNESlBfU0xIT093VDdjMjFjeWw0d1ppb1hvN9IBeEFVX3lxTE8tN0RSV2pvTktsbzgzbnQ5cjZubE0tWkFoZHoyMTc3WlpjcE9KYjY2V3dSTUJHNWVpODhZY3FBWlY0MUs1clJYOTNZbDVHeXlRRDFMYWtkencxU0lSOFNESlBfU0xIT093VDdjMjFjeWw0d1ppb1hvNw?oc=5",
-          "source": "뉴시스",
-          "published": "11-01 12:58",
-          "snippet": "美 반도체주 폭락…'인텔 쇼크'에 국내 증시 영향 촉각[주간증시전망](종합) 뉴시스"
-        },
-        {
-          "title": "10월 한 달간 16% 급락한 코스피…외환·금융위기급 '역대 낙폭 7위' - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HMjM0aHdVZ2J4MTNsZElGbGloRWlQMG5jc1NMVVBKblFmTld0cElCcXU0d0hWRnlTUDlYZ01KM0dhdFNMLU9XSEVXR1Y2XzJyVF91alZWNjBKbEE?oc=5",
-          "source": "뉴스1",
-          "published": "11-01 14:48",
-          "snippet": "10월 한 달간 16% 급락한 코스피…외환·금융위기급 '역대 낙폭 7위' 뉴스1"
-        },
-        {
-          "title": "[이번주 증시] 애플·AMD 실적에 반도체 반등 달렸다…美중간선거도 변수 - 뉴시안",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tY1E5Vm9XWENpQjJ4TEdnZzNhTHR0TU5WZHE0WkZIMTZDRmRDUU9ZeDBfb0ZtbmltSjJkNThveHhGV1VSRTNJWFJGMHRZZlRqem5YSU04VWRhSUZRTlEwN0VDQnVMUmNMWjduRA?oc=5",
-          "source": "뉴시안",
-          "published": "11-01 15:59",
-          "snippet": "[이번주 증시] 애플·AMD 실적에 반도체 반등 달렸다…美중간선거도 변수 뉴시안"
-        }
-      ],
-      "서울 아파트값": [
-        {
-          "title": "서울 아파트값 90주째 오르고 전월세 7~8% 뛰었는데…대통령 “자산시장 정상화” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RelJfdVFKLXhFVFpjMmlRckk3dEptSHp3RXZZX3pEWmF6bC1kSnMtVnpHcVgyNFg2YVdQVmVzZ1BkWFZrQzhmNjdSN2xCdG9nR3lVUl8weS05Z9IBX0FVX3lxTE5KVjV6X182aG82TTB4RlpaNXhSeTg1bGNHN1Y5TnRNYURfX2pSTExSb3FJQVVETTVYR0tOTW5NSlQ3ZjJDeTcxSnFOeVpyQ1R0ZEZkR3ZjUzVjSktBR0VN?oc=5",
-          "source": "경향신문",
-          "published": "11-01 17:14",
-          "snippet": "서울 아파트값 90주째 오르고 전월세 7~8% 뛰었는데…대통령 “자산시장 정상화” 경향신문"
-        },
-        {
-          "title": "서울 아파트값 둔화 속 경기도는 상승…수원·용인 등 오름세 - 경기일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ya0wwWWc4cjh2b1pwQ2N0eVVKZlJlWDdmeUdXTlNzdGZMelNQVUVNYmwxYlhRa0c4aVBNb0oxX1NZYWpxTlZ3VDl3OTZKYTJUTVJ0Rlk0VThuQzA?oc=5",
-          "source": "경기일보",
-          "published": "11-01 14:31",
-          "snippet": "서울 아파트값 둔화 속 경기도는 상승…수원·용인 등 오름세 경기일보"
-        },
-        {
-          "title": "서울 아파트값 90주 연속 올랐는데 … 李 \"집값 떨어질 것, 지금은 견디는 중\" - 뉴데일리",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aTlBNRWZIOVZKTFAzQWlkT2kyYnBLZEZxRGd5S1BHbUk5UG1jQU5FUlV1TzFOcTFaY21NRnFIclZGY1IySy1Xd0xFLS1iTWNOdmVaRF8zUW9yYzdpUzRPNXdSZ3MtSFpiRmxBcHVlYTkta1ZOZ0N1aGZja9IBgAFBVV95cUxQTUJRUmR2YVZhbzV4MW5ZeEFUSFZ2c0VUb1JTdC04aGhpVVhiS29XNU95T0ZYTkpscGtibTNsRUxLU2d2cVlNRE1MZVRBUUFsRmVHb0Z0MFF3LTc1ZklPNzkyWFVsVlZteDhVNlp0bnBNUWN0RmdkcGd4bGdrcURNTg?oc=5",
-          "source": "뉴데일리",
-          "published": "11-01 10:09",
-          "snippet": "서울 아파트값 90주 연속 올랐는데 … 李 \"집값 떨어질 것, 지금은 견디는 중\" 뉴데일리"
-        },
-        {
-          "title": "서울은 ‘주춤’, 경기 남부는 ‘질주’… 판 바뀌 집값 상승축 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtTWhvbVdpU0xNT2hDRkt6WGFyUUxmZkNHWUg0NWo2Nzl0RnFCYUlwLXBPaDRrQUROSC1HODNHXzRPT1BTcnQ1enN6LTRSWUFSTFV0Q2RrNFA2NUllWG9FV1hieUFrZDR4NzhTQ1otcFlIS2_SAXdBVV95cUxQOTJvYWU5eWpPbmhQdF9EaDJycTNrQXVPWmp5T2trRDh5Q3NJZGNwZXltU29sX3YyaDRxMnFZcmxXcDBiT0paRFdfTE1YZXNsVDVoQl82NndDY0ZPQjgtUWtqNG5ndTdNNzB2WDJEWm5tdXVoSFJXWQ?oc=5",
-          "source": "핀포인트뉴스",
-          "published": "11-01 10:34",
-          "snippet": "서울은 ‘주춤’, 경기 남부는 ‘질주’… 판 바뀌 집값 상승축 핀포인트뉴스"
-        },
-        {
-          "title": "집값·전셋값 뛰던 노원·성북…월세마저 10% 넘게 치솟아 - 서울신문",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5KQUdoX3FhNURaRG1NRlZFYjE5bkdoMDRKazBSNDFEOExrM0VtQ3JDRWdJdVFVcUdCU3RPWnVNNWhwTDRYQzhVb1NDbjlLNEE5aVZCX0I2Y2RQY0pqUnNWMWFTWG9OY3hoWlZUdW54cG5uYXJzaTQzMA?oc=5",
+          "title": "“700억弗 남았다” 올해 수출 ‘꿈의 1조 달러’ 눈앞…美·中·獨과 세계 ‘톱4’ 오른다 - 서울신문",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xc2FBVVNrb2VvWnliTTd3Y3dNRWV3YlR6Y0lhVTVlTi0tVE5QTGhaRWN4b2dGWmtIS3MxenZXQVFQR0l2dFU5TGtPbnladV9MZnV0R1Nuc2lYWGFyMklkQUFEUm5fdUdKNHBULXVlWQ?oc=5",
           "source": "서울신문",
-          "published": "11-01 18:19",
-          "snippet": "집값·전셋값 뛰던 노원·성북…월세마저 10% 넘게 치솟아 서울신문"
+          "published": "11-01 19:47",
+          "snippet": "“700억弗 남았다” 올해 수출 ‘꿈의 1조 달러’ 눈앞…美·中·獨과 세계 ‘톱4’ 오른다 서울신문"
         },
         {
-          "title": "거래 절벽에 서울 전역 아파트 매물 급증 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Manc5aWNXUmNUTDJETW43SkZyQ0JtVW5RQVJRQkVOQ1JoWnBoRzJNT2x1eU90ZXNaOUJtWW1ndjg0VW5oM3k3S19HRQ?oc=5",
-          "source": "뉴스1",
+          "title": "한국 수출 '꿈의 1조달러' 달성 초읽기 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DVGtjMTkwVnRVVWlYMUpNY3RxLWNtQzZRZHk3UjhKeVpadmxPOUE5Q1VKOEFXZXBBa0tqdU56NC1CeVRhVklYNUFXci00X1pQZWhKYw?oc=5",
+          "source": "매일경제",
+          "published": "11-01 17:37",
+          "snippet": "한국 수출 '꿈의 1조달러' 달성 초읽기 매일경제"
+        },
+        {
+          "title": "연 수출 ‘1조 달러’ 달성 눈앞인데 마냥 웃을 수 없다···반도체 쏠림 등 숙제 ‘한가득’ - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iM1hWbHpfc3VvZlFTUE4xMm5wS2tNVEZwbmROLW5TSUo0eDUxLUJzVkNaSTEzeG05ZmRTZTBXT0UxTk9rdmRuWmRmZDl6OUJLck9fc0k5djlSUdIBX0FVX3lxTFBaYXdvbWhMQWF6M1RlSDh0WTBPYjZBbGNGUWdaeGRwSm9Rbk5GQ0piY2VweVJvWmpVRzBwVWM5U3dCYm1UTmdPR3RDMmM3X1lobHdrN2xtMGZ0eVBXa244?oc=5",
+          "source": "경향신문",
+          "published": "11-01 14:27",
+          "snippet": "연 수출 ‘1조 달러’ 달성 눈앞인데 마냥 웃을 수 없다···반도체 쏠림 등 숙제 ‘한가득’ 경향신문"
+        }
+      ],
+      "AI 반도체 투자": [
+        {
+          "title": "AI 투자에 현금 마른 빅테크…美 반도체 주가 줄줄이 급락 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPb2drcy1iejE0bVBjMXpsQWUwT1JnREJLdEc5TnVRWmM1ZlZyUlk5RGtQR3VRTHVkSmY4bmNUaEI0NzZfUTFVVmFKM0FmVEJyZTBqQjdqQ1BLa2hubWJnRE9GYWtTS21DX01GMWFwcjlIblFkc0lPS1JOdVlBOWNDX0NYNA?oc=5",
+          "source": "조선일보",
+          "published": "11-01 17:04",
+          "snippet": "AI 투자에 현금 마른 빅테크…美 반도체 주가 줄줄이 급락 조선일보"
+        },
+        {
+          "title": "[기획/경제] ⑲ AI 반도체 성장, 한국의 몫은? - 기후에너지경제",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GM1JORHh0bmtmMnZ3VVJnbnk1ZTdGQWhLNU1BbkRFWXdpZlJTZUpzZ0hfV3BLbDZYN2M3UE1sZ2hnWTgzWmI4ODBNQ0xzN0pqaGhLeTZMWklfZk5jNDk5SDBjZE0?oc=5",
+          "source": "기후에너지경제",
+          "published": "11-01 14:52",
+          "snippet": "[기획/경제] ⑲ AI 반도체 성장, 한국의 몫은? 기후에너지경제"
+        },
+        {
+          "title": "삼성·SK 다시 찾은 올트먼…AI 투자 경쟁 속 반도체·인프라 확보전 - 뉴스토마토",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzZkQzSVRvUTRNN0cyaUhaMWhpNnBaRGpNUnBUN1Y4V3QwcVl5WmdjMzRPeElIRmkwUjVpR292Z2VEbWlGNG5ObUNuMXhoNUJ5dno4bW5lZEUzV0lQMDhKZA?oc=5",
+          "source": "뉴스토마토",
+          "published": "11-01 11:44",
+          "snippet": "삼성·SK 다시 찾은 올트먼…AI 투자 경쟁 속 반도체·인프라 확보전 뉴스토마토"
+        },
+        {
+          "title": "이재용, 日 반도체 연구소 첫 방문…3500억 투자로 AI 패키징 승부수 - OBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BREMzeGNMZXAwU3RZNm9vVGMzVFJrbmxaRVVTMV9IZUtYUktfcHRzZExvOWVCd1RNbkhsc3dWZ1ZKWWRoQl94MVgtNXRieFpxTDFPZnpsYVgwb0Q5RUJhY0FpMVZjNVd0?oc=5",
+          "source": "OBC 뉴스",
+          "published": "11-01 17:57",
+          "snippet": "이재용, 日 반도체 연구소 첫 방문…3500억 투자로 AI 패키징 승부수 OBC 뉴스"
+        },
+        {
+          "title": "AI 반도체 슈퍼사이클의 역설…호황 뒤에 쌓이는 ‘청구서’ - 이코노미스트",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zR0xQeU1VREVXWkdEZ0tnUmxRVUVGYzZhTnU2eTkyM3plTk1qSTZDamhTWXhzb0NLMG1Wb2o2OFFSMFFndkNlNS1SVmFmMDJ2eGhhdEtvQmJUcXVyWlBwR21n?oc=5",
+          "source": "이코노미스트",
+          "published": "11-01 08:55",
+          "snippet": "AI 반도체 슈퍼사이클의 역설…호황 뒤에 쌓이는 ‘청구서’ 이코노미스트"
+        },
+        {
+          "title": "AI 투자 우려에 글로벌 AI주 '급락'…반도체 '블랙 먼데이' 올까 - 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83OU1LQ0ROS3RCUV9YUUNqQmYtc0V3MDFQcjRVNUJZRUpTU01JekMwSDRPb3E3S3lyMVoxN3NtQXlyOE4zX2hxQ1JrM3JpenRJaVhITmx3TDJsQQ?oc=5",
+          "source": "파이낸셜뉴스",
+          "published": "11-01 16:25",
+          "snippet": "AI 투자 우려에 글로벌 AI주 '급락'…반도체 '블랙 먼데이' 올까 파이낸셜뉴스"
+        }
+      ],
+      "가상자산 해킹": [
+        {
+          "title": "FBI, 역대 최대 가상자산 해킹 “배후는 北” - 서울신문",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvdmJHRkxVaFVaQjFCS2RsT3FiOWE3U3VCNjVfLUU0OGhsSW1jTGIwbmxLMmdtR1VJdEhyRWNHVzFseVZjRVdoLUJnTEdjbU41a0lBSV9iRU53NG1saWxXZ3lPV0YyXzdqQkZUdEVZX1hlUUtsOXpB?oc=5",
+          "source": "서울신문",
+          "published": "11-01 15:22",
+          "snippet": "FBI, 역대 최대 가상자산 해킹 “배후는 北” 서울신문"
+        },
+        {
+          "title": "美 FBI “바이낸스 가상자산 해킹 배후는 北” - 세계일보",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnYVhaYzR0N19aUmtyOGFUV01xRS1aamRKdXRmak1wT2FzSG9XejJsQmdtc1piRVphWHp6SXhOcEhxRUR4NHB4dGw5clU1cWY1eFdSVU9ldGvSAVRBVV95cUxNeWFHbUtqUWwtbzZzalJEYlhjZFhMMmtrajhtakxnMzBtYkQxRkF2RUxNUjRqaGxIdUF2a0NpVWVfd2hjVWZwYk1kTlRSVndtUXdQRDM?oc=5",
+          "source": "세계일보",
+          "published": "11-01 17:46",
+          "snippet": "美 FBI “바이낸스 가상자산 해킹 배후는 北” 세계일보"
+        },
+        {
+          "title": "[사설]북 해킹 조직의 8조 원대 가상자산 탈취, 사이버 안보 원점 재점검해야 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zSVhFV093V2JpSnlucWo3T0JfMVRfSHVuTzZrbF9KX2RFcF91UGR1dHhrY01PLXViaFJWNHFSRTlrYmN4T3B4ZmNQTmRpVFNENWExcGtWaWtSUdIBX0FVX3lxTE5NTzV6M1RLOGdSSDVrNHgteEVOT2lNVXV5dl9KT2k0VTdaN2RfZmhhbHVfRTEzLTNqaXloeU0zdUJzS3V4YnhHVnZTMHRPYy1TdjJ1aHRXNjRZcDZvS0ZZ?oc=5",
+          "source": "경향신문",
+          "published": "11-01 18:10",
+          "snippet": "[사설]북 해킹 조직의 8조 원대 가상자산 탈취, 사이버 안보 원점 재점검해야 경향신문"
+        },
+        {
+          "title": "\"올해 가상자산 해킹 피해 89%, 북한 소행 추정\" - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45cjk4VkJNcTVqWlBST3FQODFLS1N1S09McThqREFqbWpFTEhlZFVQNWdaYjVfSGdocVhkOEFGLWRpZjgtMkJjbkxRSUx3R19IcmhKZFVjcDNIdjlJVEYzVGVPakdMc202dEpjYkVn0gFuQVVfeXFMTjlyOThWQk1xNWpaUFJPcVA4MUtLU3VLT0xxOGpEQWptakVMSGVkVVA1Z1piNV9IZ2hxWGQ4QUYtZGlmOC0yQmNuTFFJTHdHX0hyaEpkVWNwM0h2OUlURjNUZU9qR0xzbTZ0SmNiRWc?oc=5",
+          "source": "머니투데이",
+          "published": "11-01 17:15",
+          "snippet": "\"올해 가상자산 해킹 피해 89%, 북한 소행 추정\" - 머니투데이 머니투데이"
+        },
+        {
+          "title": "윤상현 \"北 60억 달러 가상자산 해킹, 중대한 안보 위협…정부 대응 촉구\" - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iX3c3Znk5RzNxdTdwQ3dwTlVreVhOVEg1eFI5eHZ3aDk1RnQyUDM3cnRaaTNKNERKMURTUXB0ZXFFVWV6NVA3QkJhdU9lRlkycnJGY0J1VDhVVjRP?oc=5",
+          "source": "뉴스핌",
+          "published": "11-01 15:22",
+          "snippet": "윤상현 \"北 60억 달러 가상자산 해킹, 중대한 안보 위협…정부 대응 촉구\" 뉴스핌"
+        },
+        {
+          "title": "체이널리시스 \"올해 가상자산 해킹 피해액 89%, 북한 연계 추정\" - 블루밍비트",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93Wk11UkVlS2dPTjdCc0hQNkJRSXExQTVUNFdKT0VOUW9waVp5NUNPZFlvWnBnMlRlQlBMTHM0SndDVE5FQXRudUpudllWcjd1?oc=5",
+          "source": "블루밍비트",
           "published": "11-01 15:49",
-          "snippet": "거래 절벽에 서울 전역 아파트 매물 급증 뉴스1"
+          "snippet": "체이널리시스 \"올해 가상자산 해킹 피해액 89%, 북한 연계 추정\" 블루밍비트"
+        }
+      ],
+      "뉴욕증시 나스닥": [
+        {
+          "title": "나스닥 이틀 새 4% 급락…애플·AMD가 돌려세울까 - 경북매일",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SdjRoQTZxc1lyaC10LU5MeUpxcVMwT1A0Yy03ZUphNzI4ZVFZTGNZbml0Umxyd3o0QkJVaHpFMVhWRWJHekhFNXlFZ0ZWellfRUNKYUUyaldsZw?oc=5",
+          "source": "경북매일",
+          "published": "11-01 07:55",
+          "snippet": "나스닥 이틀 새 4% 급락…애플·AMD가 돌려세울까 경북매일"
+        },
+        {
+          "title": "뉴욕증시 패닉 셀링 촉발 -> 나스닥 급락 속 AI 버블 붕괴 공포 현실화 => AI 데이터센터 과잉 투자 부메랑 -> 빅테크 4분기 가이던스 줄하향 충격 - 데일리머니",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wWTQ0bFlKVEM0QzF3TVRyNnFRVUhaeXR4ejRQMWRBWFhhYUZJOGFpTzI3WUFaYVdFS3JyU3N5c0RfSHNVNTFSenlGRFZ2RWJxQ2hjTnZ4TUFtZVNOOGQzSzY3LXEzNmpIb0FGUXhKQWR5dw?oc=5",
+          "source": "데일리머니",
+          "published": "11-01 09:07",
+          "snippet": "뉴욕증시 패닉 셀링 촉발 -> 나스닥 급락 속 AI 버블 붕괴 공포 현실화 => AI 데이터센터 과잉 투자 부메랑 -> 빅테크 4분기 가이던스 줄하향 충격 데일리머니"
+        },
+        {
+          "title": "[주간 월가 레이더] AI 흔들린 뉴욕증시⋯중간선거·빅테크 실적·고용 '운명의 주' - 포커스온경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qSEpBYUFJZThFMEs4TFdKN0xSM0pCRC1aMi1aLW9wYVNMcUdRdXBKYTBPd09XRkd0NlR2MWZuMzd5a05FYXg0YTc0bWhGMkMwREVKNU9WbEJNQURTN3c5WA?oc=5",
+          "source": "포커스온경제",
+          "published": "11-01 05:05",
+          "snippet": "[주간 월가 레이더] AI 흔들린 뉴욕증시⋯중간선거·빅테크 실적·고용 '운명의 주' 포커스온경제"
+        },
+        {
+          "title": "[뉴욕증시 마감] \"희망 넘어 성과 증명할 때\"…빅테크 실적 충격에 나스닥·반도체주 급락 - CBC뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iMjUxQU5TRDhYMTVzUGtmay1EQzl3c1pwdXFROUFiUEV4YzJKOVZkZnFTSC1INWZkZ0lWVUlGUnNQOFJLY1pyRE82c2tqQUsxb0l1WWpNNUFLSXI4X2p2b3dzdWxOeUlj?oc=5",
+          "source": "CBC뉴스",
+          "published": "11-01 00:00",
+          "snippet": "[뉴욕증시 마감] \"희망 넘어 성과 증명할 때\"…빅테크 실적 충격에 나스닥·반도체주 급락 CBC뉴스"
+        },
+        {
+          "title": "[뉴욕증시 전망] AI 불안 속 중간선거 맞는다…기술주 향방 촉각 - 더페어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxQjlqTEk2bWJhcl8tZy1qckxDZHhobHdTU1NXVmRTR3VJMWZKVFhYd2hNSjRvTjcyeEJwc2F4LW5MZzZkalhfMkpWNlZIWnhzdlQ4d0xydVl5Z24tTWJhRnVvWmd4b3JuR0lIMUV4YmLSAXRBVV95cUxOaGluUG9xT3hDZTgxMl9vM3RBY0ZhSm9MaUpuZlE2YWJVU3NQakFkaUlSZGxwaFAyN2FiNGpLbjJLZWxfZmZaMDZJM1BhOTFCcW9Gc2ZDX3Jhb2x0TkVIMmhmOWpsMnFxcUoyOUNDR1lrRkQtaQ?oc=5",
+          "source": "더페어",
+          "published": "11-01 00:00",
+          "snippet": "[뉴욕증시 전망] AI 불안 속 중간선거 맞는다…기술주 향방 촉각 더페어"
+        },
+        {
+          "title": "[오픈AI 투자 유치] 앤트로픽과 경쟁 속 투자 유치 조절 나선 오픈AI…기업가치 1조2500억달러로 - CBC뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11LVFaZUZuS2FTamNISExXOEROeHpBVEhTYWlrWmR3V2Q4V05XX0pWaHJOb2lrelZnS3lBQi1kRTU5Z2hxWWROLVJjMng1X21DZWlVNTE2YnZlS2JtM0FPZm9abzFHZExO?oc=5",
+          "source": "CBC뉴스",
+          "published": "11-01 00:25",
+          "snippet": "[오픈AI 투자 유치] 앤트로픽과 경쟁 속 투자 유치 조절 나선 오픈AI…기업가치 1조2500억달러로 CBC뉴스"
+        }
+      ],
+      "달러 환율": [
+        {
+          "title": "[주간환율전망] 美 정치적 불확실성 vs 수출 네고···1330원대 방향 탐색 - 서울파이낸스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aUXRhZTFRUGpnWGw0RkI3NG00MkZJNHRFU3hvdmktOE9WaDVfVlI1Vkk0N3BodVJORTRPQUZkQ1UwR2ZiSlNOVG1Xd212STdveEpHdmhzbDlXcFRsd1pyWFZRYl9HYUI4Z1E?oc=5",
+          "source": "서울파이낸스",
+          "published": "11-01 15:53",
+          "snippet": "[주간환율전망] 美 정치적 불확실성 vs 수출 네고···1330원대 방향 탐색 서울파이낸스"
+        },
+        {
+          "title": "1300원대 환율에 외화투자 관심 쑥, 달러예금 트래블통장 더해 ETF도 눈길 - 비즈니스포스트",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zUjFEMWV6X1pjMU82NUR6LWJKNUpLTXZMZl9xclpnNFdyWUNLNml5VVZybXROVlV3NUhWTHFGZl9PUHBSTUhtN1RLcDlrMHVzZW1jTDVnbTJUanFHOURTS2dOeXJWdUt4YnhVOF9xWVNkWTg?oc=5",
+          "source": "비즈니스포스트",
+          "published": "11-01 06:00",
+          "snippet": "1300원대 환율에 외화투자 관심 쑥, 달러예금 트래블통장 더해 ETF도 눈길 비즈니스포스트"
+        },
+        {
+          "title": "美 중간선거 D-2, 세계경제 운명 가를 세 갈림길…한국 반도체·환율 촉각 - OBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GWUhPc01WTUlqblBueFZWUmYxMEJrSjdrekt5ZFBBQmRBX1FJaFRCSi15U25fV00xd1lvVmdBbDhXb0VsUlM0a0k3WXdvVm9Hb3FXUzV2bzNfa1lRWUhQVkx3NlYyajQz?oc=5",
+          "source": "OBC 뉴스",
+          "published": "11-01 17:43",
+          "snippet": "美 중간선거 D-2, 세계경제 운명 가를 세 갈림길…한국 반도체·환율 촉각 OBC 뉴스"
+        },
+        {
+          "title": "오늘(11월 1일) 미국 달러 환율: 미국 달러는 은행과 암시장 모두에서 안정세를 유지하고 있습니다. 미국 달러 구매자는 무엇을 주의해야 할까요? - Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNGtGQXpJNzg3TUxwd1dsSjlQVWxXU0doLU1kRVdkZG5MVVktS3NsR3IwRzEyX3ZIcmZzVkpoSjZVbUNqVEgxOGVKbjZLZmx0OUJTZVBRRzl0cEgtWTZBVWh1eEtMTlRZM05ZcF9IdHF1dXk4UHZwM0s5QVVub3hXN29kci1aRlI0NncwSVVSalBzSGFhZ1FhTU1Bc1BZMXFXWkNiU1BjLW5iZ2U0NlFESWpkOGZaMVQ5X3F0SVR4MHE3dDg?oc=5",
+          "source": "Vietnam.vn",
+          "published": "11-01 14:21",
+          "snippet": "오늘(11월 1일) 미국 달러 환율: 미국 달러는 은행과 암시장 모두에서 안정세를 유지하고 있습니다. 미국 달러 구매자는 무엇을 주의해야 할까요? Vietnam.vn"
+        },
+        {
+          "title": "[이번주 환율] 1320원대 연중 최저 찍고 반등…美 고용지표에 방향성 탐색 - 오피니언뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZR0ZLOHRmTGVuR2g3X1lJLXc3Y29KV1FYdVJTNnRUVTIycU0yQkF2MzhQd0ZWbTJDWldQZ1J2TUxHbDVVVl9kU1pTTnhyQ1hWRmRVVFZ4Y3FqTjB0cXA5LU13SkxINDdiTkx5TnhJUlF1QQ?oc=5",
+          "source": "오피니언뉴스",
+          "published": "11-01 09:00",
+          "snippet": "[이번주 환율] 1320원대 연중 최저 찍고 반등…美 고용지표에 방향성 탐색 오피니언뉴스"
+        },
+        {
+          "title": "‘반도체 달러’에 힘 못 쓰는 강달러…환율 연말에는 1200원대 가나? - www.dt.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hNWlETnFPZTN4RWVfQjU4MlY2RlZ4am4tSHRpM2JWUWZlNXRfNE9JeXpncGtiQ0dJbmhZQWUxS3RNMGRsU3UyQ1NmellXUQ?oc=5",
+          "source": "www.dt.co.kr",
+          "published": "11-01 05:00",
+          "snippet": "‘반도체 달러’에 힘 못 쓰는 강달러…환율 연말에는 1200원대 가나? www.dt.co.kr"
+        }
+      ],
+      "국제 유가": [
+        {
+          "title": "강원지역 기름값 22주 연속 하락 - 강원일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJT1dnNTFCX0szSUluS1M2YkRGMXF0cW4zb29UZWt1MUlyTjhXNnllb3pmd1hlUnlab3l4M0NfcTJTbUdGREpMZFZhRUlZbXpxTk5YSjFyYkdpb0E?oc=5",
+          "source": "강원일보",
+          "published": "11-01 13:29",
+          "snippet": "강원지역 기름값 22주 연속 하락 강원일보"
+        },
+        {
+          "title": "10월 에너지수입 63%급증 165억 달러 - CNews",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vMzQyYUhfUjVhcG9za2l3ZGJ1SDVnem5wbVBpQ0VrUVZyT1cxOVZUN0lMUTFQb0pzbVdxVDVteHhBTm1iQ1lEZWVFX0JWbGFwRHk2Sk1sanJkMUdWTnFtZ1hFQzhWTHhOY1JNRkNtVV9GQ1hvUV9N?oc=5",
+          "source": "CNews",
+          "published": "11-01 12:00",
+          "snippet": "10월 에너지수입 63%급증 165억 달러 CNews"
+        },
+        {
+          "title": "OPEC+, 유가 118달러에도 증산 보류…중동 전쟁에 원유 공급 막혔다 - OBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wbDJCLTc2S2NNa2RTS2Z5VDRqaTUwLUlPaUNMYVFMY2tteGc5NTBwU3drZ0JtY0RmeEV0Y2Nvcl95NTBqTEk2OGVuVW5MRDA5clVsZHlkMUlrSDdpeUQza3V2UGlxLTJQWVE?oc=5",
+          "source": "OBC 뉴스",
+          "published": "11-01 13:11",
+          "snippet": "OPEC+, 유가 118달러에도 증산 보류…중동 전쟁에 원유 공급 막혔다 OBC 뉴스"
+        },
+        {
+          "title": "오늘(11월 1일) 연료 가격: 국제 유가는 상승했지만, 국내 유가는 급락했습니다. - Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY0h6bzRpcmJHVEpxTmI3TzA3NDFhQWlFUUEtREhjRzFpWjFiMmRwdmJROW5OeFBveXZXeF8xVHMtY00zT1Q2OXdQNkJDYzQ4SVRCWVpJUE8xNHU5QlN3YmJDNTJjNXhaTWVwTkd5c0JIN3ZROGVNX0xsYW9qeGw2aE5hcG9lVkRLeHItSFlLc3BRYVpP?oc=5",
+          "source": "Vietnam.vn",
+          "published": "11-01 12:41",
+          "snippet": "오늘(11월 1일) 연료 가격: 국제 유가는 상승했지만, 국내 유가는 급락했습니다. Vietnam.vn"
+        },
+        {
+          "title": "[모닝글로벌리포트]국제유가 2%대 상승…이란전쟁 확전 우려에 6개월 만에 최고 - 코리아포스트 한글판",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nQ09BQnFDYTc4cUZtRnkxZldlZ01FS3hkdWZMSHRrcVJhbmplLWpsRE9qRnFHLWt4WmdKTVluNHVtZk5ZY1VuZzloNWVtQW9JWWdEeDhGU0E5WHBKTUx6ZDhOUGRzRjIwem5Da2Zn?oc=5",
+          "source": "코리아포스트 한글판",
+          "published": "11-01 05:30",
+          "snippet": "[모닝글로벌리포트]국제유가 2%대 상승…이란전쟁 확전 우려에 6개월 만에 최고 코리아포스트 한글판"
+        },
+        {
+          "title": "OPEC+ 증산 멈추고, 이란은 보복 경고…유가 118달러 육박 - 이데일리",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVW9LbFpsT1k2Q1d2UVVKLWZQeXhnTTFhcHVuUXBqQi1rSUxwWHJBY0dRZWlocVBGR2N1bTRjOGktWVVqV2pidmdjcTFKMGY1MGluWWRONjRoQXkydF92UlBUamtOdmMzaGxkWlNWTkxUbm55Vm1KLS1ockp2Q2ZYSQ?oc=5",
+          "source": "이데일리",
+          "published": "11-01 20:22",
+          "snippet": "OPEC+ 증산 멈추고, 이란은 보복 경고…유가 118달러 육박 이데일리"
         }
       ]
     },
     "queries": {
-      "미국 중간선거": [
-        "미국 중간선거일",
-        "미국 중간선거 일정",
-        "미국 중간선거 날짜",
-        "미국 중간선거 사전투표",
-        "미국 중간선거 예측",
-        "미국 중간선거 의미",
-        "미국 중간선거 결과",
-        "미국 중간선거 현황",
-        "미국 중간선거란",
-        "미국 중간선거 뜻"
+      "수출 1조 달러": [
+        "수출 1조 달러 달성",
+        "수출 1조 달러 국가",
+        "한국 수출 1조 달러",
+        "연간 수출 1조 달러"
       ],
-      "코스피 폭락": [
-        "코스피 폭락 디시",
-        "코스피 폭락 이유",
-        "코스피 폭락 원인과 정부의 대응 정책 및 향후 증시 전망 알려줘",
-        "코스피 폭락 원인",
-        "코스피 폭락 더쿠",
-        "코스피 폭락 나무위키",
-        "코스피 폭락 역사",
-        "코스피 폭락 클리앙",
-        "코스피 폭락에 국민연금 200조 평가손실 추정"
+      "AI 반도체 투자": [
+        "ai 반도체 투자",
+        "ai 반도체 투자 거품",
+        "ai 버블 반도체 실전 투자법",
+        "ai 버블 반도체 실전 투자법 이형수",
+        "중국 ai 반도체 투자",
+        "주식 초고수 ai 반도체 투자",
+        "삼성 전자 ai 반도체 투자",
+        "한국 ai반도체 투자"
       ],
-      "서울 아파트값": [
-        "서울 아파트값 상승률",
-        "서울 아파트값 추이",
-        "서울 아파트값 평균",
-        "서울 아파트값 전망",
-        "서울 아파트값 상승",
-        "서울 아파트값 순위",
-        "서울 아파트값 86주",
-        "서울 아파트값 하락",
-        "서울 아파트값 더쿠"
+      "가상자산 해킹": [],
+      "뉴욕증시 나스닥": [
+        "뉴욕증시 나스닥 차이"
+      ],
+      "달러 환율": [
+        "달러 환율 원",
+        "달러 환율계산기",
+        "달러 환율 살때 팔때",
+        "달러 환율 전망",
+        "달러 환율 조회",
+        "달러 환율 계산",
+        "달러 환율 떨어지는 이유",
+        "달러 환율 한국",
+        "달러 환율 그래프",
+        "달러 환율 뜻"
+      ],
+      "국제 유가": [
+        "국제 유가 실시간 차트",
+        "국제 유가 차트",
+        "국제 유가 실시간 가격",
+        "국제 유가 100달러 돌파 원인과 트럼프 발언 관련 최신 뉴스 알려줘",
+        "국제 유가 실시간",
+        "국제 유가 변동 그래프",
+        "국제 유가 시세",
+        "국제 유가 지수",
+        "국제 유가 실시간 사이트",
+        "국제 유가 뜻"
       ]
     },
-    "newsletter_md": "# 📈 오늘의 경제 뉴스레터\n_2026-11-01 이슈 · 발행 2026-11-01_\n\n**오늘의 키워드:** `미국 중간선거` · `코스피 폭락` · `서울 아파트값`\n\n---\n\n## 1. 초박빙 미국 중간선거, 사전투표 5천만 명 돌파\n> 키워드: 미국 중간선거\n\n**📌 무슨 일이 있었나**\n- 미국 중간선거를 앞두고 사전투표 참여자가 5천만 명을 돌파하며 유권자의 뜨거운 관심을 증명함.\n- 상원 의원 주요 경합지를 중심으로 여론조사 결과 초박빙의 양상이 지속해서 전개됨.\n- 선거 열기가 과열되면서 공화당 후보를 향한 도 넘은 인신공격이 사회적 문제로 대두함.\n- 트럼프 전 대통령이 선거 사기를 언급하며 정치적 긴장감을 높이고 선거 국면을 흔듦.\n- 미 연방 판사가 트럼프 행정부를 향해 선거 관리 공무원을 향한 위협을 즉각 중단하라고 명령함.\n\n**💬 핵심 Q&A**\n- **Q. 미국 중간선거일과 정확한 날짜는 언제인가?**\n  A. 미국 중간선거의 정확한 일정과 날짜는 본문 기사에서 구체적으로 명시되지 않아 추가 확인이 필요하다.\n- **Q. 미국 중간선거 사전투표가 왜 이렇게 주목받는가?**\n  A. 사전투표 참여자가 이미 5천만 명을 돌파하면서 이번 선거의 향방을 가를 주요 변수로 작용하고 있기 때문이다.\n- **Q. 초박빙 승부가 나의 자산이나 경제에 미치는 영향은 무엇인가?**\n  A. 미국 정치 지형의 변화는 글로벌 금융시장과 환율 등에 연쇄적인 파장을 일으키므로 주의 깊게 살펴봐야 한다.\n\n**👀 앞으로 볼 포인트**\n- 경합지 상원 의원 선거의 최종 승부처\n- 사전투표 열기가 본투표 결과에 미칠 파장\n- 트럼프 행정부와 선거 관리 당국의 마찰 여부\n\n<sub>참고: [제주일보](https://news.google.com/rss/articles/CBMibEFVX3lxTFBaVTE3dlQ0V01Qc1NHZUtrRk16MDBYR0xjdlA5cFROcUQ5YWVKTGpkVmpjVGFib1otdmlvZDVyRUhYS2JYWFd5blBkQVY0R24teGhJSEh6YkVwUkpLQ3pFSTBocjdLX21PNFM2SQ?oc=5) / [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE42T0FKbm04Wm5LamloTk9nLWg5Rnkwcm9URDVCRVg3RE10Y0R2QTZhUEI4bHBJZmxOY192MHp3RjdOQkNBeGYyS1hpMG5oOG1rNlZvX3FERDNzYU0?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZeHMtX0xQc0dpcGZaWjN5RnhSR0x6dmsxcVFUcGNCZDVOeFJPM2hiaHhQVy03b1ZBMzFQUy1JbldSNTBNVjBxTTA1V0F6UmFsMkJwSFVDMGZxbzDSAWBBVV95cUxQOU1UNmR3R05aamNkdFU5ei1Xd1ZFV2x2YTNXQVhWYndmWmhLM2pTSW1BWkNtejM3V19YLTdmOU9oZFdPUi15bzY1U2xQZC1RNWVMTjdwUXJGVEdCZUtNNXE?oc=5)</sub>\n\n---\n\n## 2. 코스피 한 달 만에 16% 폭락, 외환위기급 충격\n> 키워드: 코스피 폭락\n\n**📌 무슨 일이 있었나**\n- 코스피가 한 달 동안 16% 급락하면서 외환 및 금융위기 당시와 맞먹는 역대 7위의 낙폭을 기록함.\n- AI 고점론이 확산하고 중국의 거센 추격까지 겹치면서 국내 증시에 강력한 하방 압력으로 작용함.\n- 미국 반도체주가 동반 폭락하고 인텔 쇼크까지 터지면서 국내 증시에 직격탄을 날림.\n- 증시가 사이버 도박장처럼 변질되었다는 비판과 함께 투자 심리가 극도로 위축됨.\n- 코스피 폭락 사태로 인해 국민연금의 평가 손실 규모가 200조 원에 이를 것이라는 추정이 제기됨.\n\n**💬 핵심 Q&A**\n- **Q. 코스피 폭락 원인과 정부의 대응 정책은 무엇인가?**\n  A. AI 고점론과 중국의 추격, 미국 반도체주 폭락이 겹친 결과이며 정부의 구체적 대응 정책은 확인이 필요하다.\n- **Q. 국민연금 200조 평가손실 추정이 내 연금 수령에 영향을 주는가?**\n  A. 단기 평가손실은 장기 투자 자산의 성격상 변동성에 해당하며 연금 지급 구조에 즉각적인 차질을 주지는 않는다.\n- **Q. 역대급 폭락장에서 개인투자자가 취해야 할 올바른 자세는 무엇인가?**\n  A. 시장의 과도한 공포에 휩쓸려 무작정 매도하기보다 냉정하게 포트폴리오를 점검하고 장기적인 관점을 유지할 필요가 있다.\n\n**👀 앞으로 볼 포인트**\n- 미국 애플과 AMD의 실적 발표에 따른 반도체주 반등 여부\n- 미국 중간선거 결과가 국내 증시에 미칠 단기 충격\n- 국민연금의 자산운용 및 추가 손실 방어 대책\n\n<sub>참고: [문화일보](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iTkJPc1NWMGRuMFVPb25ZN2JGZVFlcmNKelAyX3JCdWFsaTZDQnU5YkRQWGVXT0E2VlpFR0lybndMUzdyRmMtRXl2ajA4dGZ2?oc=5) / [부산일보](https://news.google.com/rss/articles/CBMidEFVX3lxTFBORXIzSjAzRExybDFJZUM4TzF3RjBETlJQWE9NZ3BhUXc4VzV2Z0RQYmt4TVdWSkdST3lYblAxNWpvUlFtd25uSXFHbHowUkxnaWlSa3dJSW02RW5YcFBCbkNPdXFaU1dqd0lYYnltdWF5SElR?oc=5) / [조선일보](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTXhOYUdWY2ZDS3ZlbWVpcXZ2dzlneUl0SS1GV1ZtYnVVdEhZTmN4bmRPWG9Ec2lpYWlQcFdieUJGcWo1Vk1Md3NERWZEaUlra3BYR1ZZZHAtRml2ZkI2X0pyVUdaY3NrM1ZVeldhVWd6SkxpRGVEeXE0RUsxb3ktczYxd2U0ckhYaUZz?oc=5)</sub>\n\n---\n\n## 3. 서울 아파트값 90주째 상승, 거래 절벽 속 매물 증가\n> 키워드: 서울 아파트값\n\n**📌 무슨 일이 있었나**\n- 서울 아파트값이 90주 연속으로 상승세를 이어가며 주택 시장의 견조한 흐름을 지속함.\n- 서울의 아파트값 상승세가 주춤한 사이 경기도 수원과 용인 등 경기 남부 지역은 가파른 오름세를 보임.\n- 서울 노원구와 성북구 등지에서는 집값과 전셋값뿐만 아니라 월세마저 10% 이상 치솟음.\n- 전월세 가격이 7~8% 뛰는 등 주거비 부담이 커지는 와중에 대통령은 자산시장 정상화를 언급함.\n- 거래 절벽 현상이 심화하면서 서울 전역에서 아파트 매물이 급증하는 양상이 나타남.\n\n**💬 핵심 Q&A**\n- **Q. 서울 아파트값 상승률과 평균 가격 추이는 어떠한가?**\n  A. 90주 연속 상승세를 기록 중이나 구체적인 평균 가격 액수는 본문 기사에 제시되지 않았다.\n- **Q. 집값이 계속 오르는데 지금 집을 사지 않으면 견뎌야 하는가?**\n  A. 대통령 발언과 시장의 거래 절벽이 공존하는 시기이므로 무리한 추격 매수보다는 개인의 재무 상황을 철저히 점검해야 한다.\n- **Q. 서울 아파트 매물이 급증하는데 왜 집값은 떨어지지 않는가?**\n  A. 매물이 늘어나도 실제 거래로 이어지지 않는 거래 절벽이 발생하면서 가격 하방 압력과 매도 호가 간의 괴리가 발생하기 때문이다.\n\n**👀 앞으로 볼 포인트**\n- 서울 아파트 매물 증가가 실제 가격 하락으로 이어질지 여부\n- 경기 남부 지역의 상승세가 수도권 전체로 확산할지 여부\n- 치솟는 전월세 및 월세가 서민 주거 안정에 미치는 파장\n\n<sub>참고: [경향신문](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RelJfdVFKLXhFVFpjMmlRckk3dEptSHp3RXZZX3pEWmF6bC1kSnMtVnpHcVgyNFg2YVdQVmVzZ1BkWFZrQzhmNjdSN2xCdG9nR3lVUl8weS05Z9IBX0FVX3lxTE5KVjV6X182aG82TTB4RlpaNXhSeTg1bGNHN1Y5TnRNYURfX2pSTExSb3FJQVVETTVYR0tOTW5NSlQ3ZjJDeTcxSnFOeVpyQ1R0ZEZkR3ZjUzVjSktBR0VN?oc=5) / [경기일보](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ya0wwWWc4cjh2b1pwQ2N0eVVKZlJlWDdmeUdXTlNzdGZMelNQVUVNYmwxYlhRa0c4aVBNb0oxX1NZYWpxTlZ3VDl3OTZKYTJUTVJ0Rlk0VThuQzA?oc=5) / [뉴데일리](https://news.google.com/rss/articles/CBMie0FVX3lxTE5aTlBNRWZIOVZKTFAzQWlkT2kyYnBLZEZxRGd5S1BHbUk5UG1jQU5FUlV1TzFOcTFaY21NRnFIclZGY1IySy1Xd0xFLS1iTWNOdmVaRF8zUW9yYzdpUzRPNXdSZ3MtSFpiRmxBcHVlYTkta1ZOZ0N1aGZja9IBgAFBVV95cUxQTUJRUmR2YVZhbzV4MW5ZeEFUSFZ2c0VUb1JTdC04aGhpVVhiS29XNU95T0ZYTkpscGtibTNsRUxLU2d2cVlNRE1MZVRBUUFsRmVHb0Z0MFF3LTc1ZklPNzkyWFVsVlZteDhVNlp0bnBNUWN0RmdkcGd4bGdrcURNTg?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 제목을 바탕으로 작성했으며 투자 권유가 아닙니다._",
+    "newsletter_md": "# 📈 오늘의 경제 뉴스레터\n_2026-11-01 이슈 · 발행 2026-11-01_\n\n🇰🇷 **국내 경제:** `수출 1조 달러` · `AI 반도체 투자` · `가상자산 해킹`\n🌐 **해외 경제:** `뉴욕증시 나스닥` · `달러 환율` · `국제 유가`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 한국 연간 수출 1조 달러 달성 눈앞\n> 키워드: 수출 1조 달러\n\n**📌 무슨 일이 있었나**\n- 한국의 연간 수출액이 세계에서 네 번째로 1조 달러 돌파를 목전에 두고 있으며 미·중·독에 이은 톱4 진입이 가시화됨.\n- 두 달 연속 월간 수출액이 1100억 달러를 넘어선 견조한 흐름을 보이며 올해 목표 달성을 향한 순항이 지속됨.\n- 역대급 수출 성과에도 불구하고 반도체 부문에 지나치게 쏠린 구조적 취약점이 한계로 지적되며 우려가 제기됨.\n- 미국, 중국, 독일 등 전통적인 무역 강국들과 어깨를 나란히 하며 글로벌 경제 내에서 한국의 위상이 크게 강화됨.\n- 남은 기간 동안 약 700억 달러의 실적을 추가하면 꿈의 1조 달러 고지에 완전히 도달할 것으로 최종 집계됨.\n\n**💬 핵심 Q&A**\n- **Q. 수출 1조 달러를 달성하면 일반 국민의 실생활이나 체감 경기에 어떤 직접적인 영향이 있는가?**\n  A. 거시경제 지표와 무역 규모가 커지는 것은 국가 신인도 유지와 환율 안정에 기여한다. 하지만 반도체 중심의 쏠림 현상이 강해 실제 고용이나 내수 진작으로 직결되지 않을 수 있다.\n- **Q. 한국이 달성하려는 연간 수출 1조 달러 국가라는 타이틀은 세계 경제에서 구체적으로 어떤 의미를 지니는가?**\n  A. 미국, 중국, 독일 등 거대 경제 대국에 이어 세계에서 네 번째로 연간 수출 1조 달러 클럽에 가입함을 뜻한다. 이는 한국이 글로벌 공급망에서 무시할 수 없는 핵심 수출국임을 증명하는 지표이다.\n- **Q. 수출 규모가 사상 최대를 기록함에도 불구하고 마냥 웃을 수 없다는 지적은 어떤 맥락에서 나오는가?**\n  A. 수익성이 특정 품목인 반도체에 지나치게 의존하고 있기 때문이다. 글로벌 반도체 업황이 흔들릴 경우 전체 경제가 큰 타격을 입는 구조적 취약성을 안고 있음을 의미한다.\n\n**👀 앞으로 볼 포인트**\n- 반도체 편중 해소를 위한 수출 품목 다변화 여부\n- 남은 기간 동안 700억 달러 추가 달성 추이\n- 미·중·독 등 주요 무역국과의 수출 경쟁 구도\n\n<sub>참고: [중앙일보](https://news.google.com/rss/articles/CBMiVkFVX3lxTE03UFVQZnF4NnBOUmE0WW5ZaXhNdGduMGJpWWE5Z0RaRVF2NW1ZaWw1WURaSmxUNHlHWVVIWnkwSDJrUDBkYjQ0aTh5cnpoMkVWeUo1WXVR?oc=5) / [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IbWNaSTJONG9Pay0zSmlHdHJLcnRnMWkzMDFlZEM4MmxVbi1lUXZrQ3J1NHVjY1BPenQ4R0Y5RnNDZTg4Wk51RnpUaFVlYmtBYlFSZktVd0s4MEZXUHVHRF8teWhLamc?oc=5) / [한겨레](https://news.google.com/rss/articles/CBMickFVX3lxTE9acVZxcDJLamxPTHdlNmZKNEtrZGIxbEMtQktnbllYaW1jZ01SSmVpNG5fUTRKWTZJUGprNl9NT0kyeGQteHlfQVUyVzhnMmpPaU9zbm50ODcxSEpCdTNSczFYRmt3QUJLSUFuTXV2Q3Fkdw?oc=5)</sub>\n\n---\n\n### 2. AI 반도체 호황 뒤에 쌓이는 투자 청구서\n> 키워드: AI 반도체 투자\n\n**📌 무슨 일이 있었나**\n- 빅테크 기업들이 과도한 인공지능 투자로 인해 현금이 말라가는 현상을 겪으면서 미국 반도체 주가가 줄줄이 급락함.\n- 이재용 삼성전자 회장이 일본 반도체 연구소를 최초로 방문하여 3500억 원을 투자하며 인공지능 패키징 분야 승부수를 던짐.\n- 샘 올트먼 오픈AI 최고경영자가 삼성과 에스케이(SK)를 다시 찾아오면서 반도체 및 인프라 확보전이 치열하게 전개됨.\n- 인공지능 반도체 슈퍼사이클의 강력한 호황 이면에는 막대한 투자 비용이라는 거대한 청구서가 쌓이는 역설적 상황이 발생함.\n- 글로벌 인공지능 관련 주가가 일제히 급락세를 보이면서 시장에서는 반도체 부문의 블랙 먼데이가 도래할지 촉각을 곤두세움.\n\n**💬 핵심 Q&A**\n- **Q. 일반 투자자 입장에서 AI 반도체 투자의 거품 논란과 주가 급락을 어떻게 바라보아야 하는가?**\n  A. 빅테크의 과도한 현금 지출로 단기적인 주가 변동성과 불안감이 커진 상태이다. 실질적인 성과가 증명되지 않을 경우 조정이 길어질 수 있어 신중한 접근이 필요하다.\n- **Q. 삼성전자와 SK하이닉스가 올트먼과의 협력을 강화하는 행보는 향후 실적에 어떤 영향을 주는가?**\n  A. 글로벌 인프라 확보전에서 핵심 공급자로 자리매김하는 계기가 된다. 다만 대규모 투자에 따른 비용 부담과 시장의 기대치를 충족해야 하는 과제를 동시에 안게 된다.\n- **Q. 중국 시장을 향한 AI 반도체 투자가 국내 기업들의 주가나 실적에 미치는 구체적 영향은 무엇인가?**\n  A. 미중 기술 패권 경쟁과 규제 환경에 따라 공급망 변동성이 커지는 요인으로 작용한다. 규제 리스크와 수요 변화를 동시에 모니터링해야 하는 배경이 된다.\n\n**👀 앞으로 볼 포인트**\n- 빅테크 기업들의 과도한 현금 소진과 주가 향방\n- 삼성과 SK의 AI 인프라 및 패키징 투자 성과\n- 글로벌 반도체 시장의 슈퍼사이클 지속 가능성\n\n<sub>참고: [조선일보](https://news.google.com/rss/articles/CBMigwFBVV95cUxPb2drcy1iejE0bVBjMXpsQWUwT1JnREJLdEc5TnVRWmM1ZlZyUlk5RGtQR3VRTHVkSmY4bmNUaEI0NzZfUTFVVmFKM0FmVEJyZTBqQjdqQ1BLa2hubWJnRE9GYWtTS21DX01GMWFwcjlIblFkc0lPS1JOdVlBOWNDX0NYNA?oc=5) / [기후에너지경제](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GM1JORHh0bmtmMnZ3VVJnbnk1ZTdGQWhLNU1BbkRFWXdpZlJTZUpzZ0hfV3BLbDZYN2M3UE1sZ2hnWTgzWmI4ODBNQ0xzN0pqaGhLeTZMWklfZk5jNDk5SDBjZE0?oc=5) / [뉴스토마토](https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzZkQzSVRvUTRNN0cyaUhaMWhpNnBaRGpNUnBUN1Y4V3QwcVl5WmdjMzRPeElIRmkwUjVpR292Z2VEbWlGNG5ObUNuMXhoNUJ5dno4bW5lZEUzV0lQMDhKZA?oc=5)</sub>\n\n---\n\n### 3. 가상자산 해킹 피해 89퍼센트는 북한 소행\n> 키워드: 가상자산 해킹\n\n**📌 무슨 일이 있었나**\n- 미국 연방수사국(FBI)이 역대 최대 규모로 발생한 가상자산 해킹 사건의 배후로 북한을 공식 지목함.\n- 체이널리시스 데이터 분석 결과 올해 발생한 전체 가상자산 해킹 피해액의 89퍼센트가 북한과 연계된 것으로 추정됨.\n- 바이낸스 등 주요 거래소를 겨냥한 대규모 가상자산 탈취 사건이 발생하여 국제 사회의 사이버 안보 우려가 증대됨.\n- 북한 조직이 탈취한 자금이 막대한 규모에 이름에 따라 국가 안보를 위협하는 중대한 사안으로 부각됨.\n- 정치권과 전문가들은 북한의 거대한 가상자산 탈취 규모를 지적하며 정부 차원의 사이버 안보 원점 재점검과 대응을 촉구함.\n\n**💬 핵심 Q&A**\n- **Q. 북한의 대규모 가상자산 해킹이 국내 일반 투자자의 지갑이나 거래소 이용에 실질적인 위협이 되는가?**\n  A. 주요 글로벌 거래소와 대형 해킹 사건을 중심으로 피해가 집중되고 있다. 개별 이용자는 이중 보안 설정 등을 통해 자산을 안전하게 보호할 필요가 있다.\n- **Q. 체이널리시스 등 블록체인 분석 기관들이 해킹 배후를 북한으로 특정할 수 있는 기술적 배경은 무엇인가?**\n  A. 탈취된 자금이 이동하는 자금세탁 경로와 악성코드의 고유한 패턴을 추적하는 블록체인 포렌식 기술을 활용한다. 이를 통해 자금 흐름의 최종 목적지를 파악할 수 있다.\n- **Q. 역대 최대 규모의 가상자산 해킹이 발생했을 때 정부와 관련 기관은 어떤 대응 방안을 강구해야 하는가?**\n  A. 국제 사회와의 공조를 통해 탈취된 자금의 동결을 유도하고 국가 간 사이버 안보 공조 체계를 강화해야 한다. 국내 거래소의 취약점을 선제적으로 점검하는 조치도 수반되어야 한다.\n\n**👀 앞으로 볼 포인트**\n- 미국 FBI 및 국제 공조 수사의 추가 자금 추적 결과\n- 국내 가상자산 거래소의 보안 시스템 강화 조치\n- 북한 연계 해킹 조직에 대한 정부의 외교·안보적 대응\n\n<sub>참고: [서울신문](https://news.google.com/rss/articles/CBMid0FVX3lxTFBvdmJHRkxVaFVaQjFCS2RsT3FiOWE3U3VCNjVfLUU0OGhsSW1jTGIwbmxLMmdtR1VJdEhyRWNHVzFseVZjRVdoLUJnTEdjbU41a0lBSV9iRU53NG1saWxXZ3lPV0YyXzdqQkZUdEVZX1hlUUtsOXpB?oc=5) / [세계일보](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnYVhaYzR0N19aUmtyOGFUV01xRS1aamRKdXRmak1wT2FzSG9XejJsQmdtc1piRVphWHp6SXhOcEhxRUR4NHB4dGw5clU1cWY1eFdSVU9ldGvSAVRBVV95cUxNeWFHbUtqUWwtbzZzalJEYlhjZFhMMmtrajhtakxnMzBtYkQxRkF2RUxNUjRqaGxIdUF2a0NpVWVfd2hjVWZwYk1kTlRSVndtUXdQRDM?oc=5) / [경향신문](https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zSVhFV093V2JpSnlucWo3T0JfMVRfSHVuTzZrbF9KX2RFcF91UGR1dHhrY01PLXViaFJWNHFSRTlrYmN4T3B4ZmNQTmRpVFNENWExcGtWaWtSUdIBX0FVX3lxTE5NTzV6M1RLOGdSSDVrNHgteEVOT2lNVXV5dl9KT2k0VTdaN2RfZmhhbHVfRTEzLTNqaXloeU0zdUJzS3V4YnhHVnZTMHRPYy1TdjJ1aHRXNjRZcDZvS0ZZ?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 빅테크 실적 충격에 나스닥 이틀간 4퍼센트 급락\n> 키워드: 뉴욕증시 나스닥\n\n**📌 무슨 일이 있었나**\n- 나스닥 지수가 이틀 만에 4퍼센트 급락하면서 애플과 AMD 등 주요 기술주들의 향방에 시장의 관심이 집중됨.\n- 빅테크 기업들의 사분기 가이던스 줄하향 충격이 겹치면서 뉴욕증시에 패닉 셀링이 촉발됨.\n- 인공지능 버블 붕괴 공포가 현실화되는 양상을 보이며 인공지능 데이터센터 과잉 투자에 따른 부메랑 효과가 가시화됨.\n- 오픈AI가 앤트로픽과의 치열한 경쟁 속에서 투자 유치를 조절하며 기업가치를 1조 2500억 달러로 평가받음.\n- 인공지능 불안감이 확산되는 가운데 뉴욕증시는 중간선거와 빅테크 실적 및 고용 지표가 겹치는 운명의 주를 맞이함.\n\n**💬 핵심 Q&A**\n- **Q. 뉴욕증시 나스닥의 급락세가 국내 증시와 일반 투자자의 포트폴리오에 미치는 파장은 무엇인가?**\n  A. 글로벌 기술주 투자 심리가 위축되면서 국내 반도체 및 성장주 주가에도 동반 하락 압력으로 작용한다. 변동성이 커진 장세에서는 자산 배분을 보수적으로 가져갈 필요가 있다.\n- **Q. 뉴욕증시와 나스닥 시장의 정확한 차이점과 투자자들이 두 지표를 바라보는 관점은 어떻게 다른가?**\n  A. 뉴욕증시는 뉴욕증권거래소에 상장된 모든 전통 우량 기업을 포괄하는 반면 나스닥은 기술주와 혁신 기업 중심의 지수이다. 기술주 중심의 나스닥이 AI 버블 우려에 더 민감하게 반응한다.\n- **Q. 빅테크 기업들의 실적 충격과 가이던스 하향 조정을 장기적 관점에서 어떻게 해석해야 하는가?**\n  A. 지나치게 높았던 시장의 기대치가 현실적인 성과 검증 단계로 진입하고 있음을 뜻한다. 단기 실망 매물이 출회될 수 있으나 장기적 체질 개선의 과정으로 볼 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 애플과 AMD 등 주요 기술주의 반등 가능 여부\n- 미국 중간선거 결과가 증시에 미치는 영향\n- 빅테크의 데이터센터 투자 축소 및 실적 가이던스\n\n<sub>참고: [경북매일](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SdjRoQTZxc1lyaC10LU5MeUpxcVMwT1A0Yy03ZUphNzI4ZVFZTGNZbml0Umxyd3o0QkJVaHpFMVhWRWJHekhFNXlFZ0ZWellfRUNKYUUyaldsZw?oc=5) / [데일리머니](https://news.google.com/rss/articles/CBMickFVX3lxTE9wWTQ0bFlKVEM0QzF3TVRyNnFRVUhaeXR4ejRQMWRBWFhhYUZJOGFpTzI3WUFaYVdFS3JyU3N5c0RfSHNVNTFSenlGRFZ2RWJxQ2hjTnZ4TUFtZVNOOGQzSzY3LXEzNmpIb0FGUXhKQWR5dw?oc=5) / [포커스온경제](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qSEpBYUFJZThFMEs4TFdKN0xSM0pCRC1aMi1aLW9wYVNMcUdRdXBKYTBPd09XRkd0NlR2MWZuMzd5a05FYXg0YTc0bWhGMkMwREVKNU9WbEJNQURTN3c5WA?oc=5)</sub>\n\n---\n\n### 2. 연중 최저점 찍고 반등하는 1300원대 달러 환율\n> 키워드: 달러 환율\n\n**📌 무슨 일이 있었나**\n- 원·달러 환율이 연중 최저치인 1320원대 기록 후 반등세를 보이며 1330원대 방향성을 탐색함.\n- 미국의 정치적 불확실성과 국내 수출업체의 네고 물량이 맞물리면서 환율의 단기 등락 요인으로 작용함.\n- 미국 중간선거를 앞두고 세계 경제의 운명을 가를 세 갈림길에서 한국의 반도체 수출과 환율이 주요 변수로 떠오름.\n- 강달러 기조 속에서도 반도체 수출 호조에 따른 달러 유입으로 인해 환율이 일정 부분 하방 압력을 받음.\n- 1300원대 환율이 지속되면서 개인 투자자들 사이에서 달러예금과 트래블통장뿐만 아니라 상장지수펀드(ETF)를 활용한 외화 투자 관심이 크게 쑥쑥 늘어남.\n\n**💬 핵심 Q&A**\n- **Q. 환율 계산기를 두드리며 외화예금이나 트래블통장 등에 가입할 때 환율 살 때와 팔 때의 차이를 어떻게 고려해야 하는가?**\n  A. 환전 수수료와 스프레드를 감안해야 하므로 단기 차익 실현보다는 환테크나 해외 여행 목적의 분할 매수가 유리하다. 환율이 1300원대 박스권에 머물 때 자산 배분 차원에서 접근할 수 있다.\n- **Q. 달러 환율이 떨어지는 이유는 주로 어떤 국내외 경제 지표와 수급 요인에서 비롯되는가?**\n  A. 국내 기업의 반도체 수출 호조로 달러 유입이 늘어나거나 미국의 금리 인하 기대가 커질 때 원화 강세와 달러 약세가 유발된다. 반대로 글로벌 안전자산 선호가 심화되면 달러 환율이 급등한다.\n- **Q. 현재 1300원대 흐름을 보이는 달러 환율이 향후 연말이나 내년으로 갈 때 1200원대로 내려갈 수 있는가?**\n  A. 미국의 통화정책 피벗 속도와 국내 수출 성과에 따라 방향성이 결정된다. 수출이 지속적으로 호조를 보인다면 환율 하향 안정화 가능성이 점쳐질 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 미국 대선 및 중간선거 등 정치적 불확실성 추이\n- 미국 고용지표 발표에 따른 달러 방향성 변화\n- 수출업체 네고 물량 유입에 따른 환율 상하단 방어력\n\n<sub>참고: [서울파이낸스](https://news.google.com/rss/articles/CBMiakFVX3lxTE1aUXRhZTFRUGpnWGw0RkI3NG00MkZJNHRFU3hvdmktOE9WaDVfVlI1Vkk0N3BodVJORTRPQUZkQ1UwR2ZiSlNOVG1Xd212STdveEpHdmhzbDlXcFRsd1pyWFZRYl9HYUI4Z1E?oc=5) / [비즈니스포스트](https://news.google.com/rss/articles/CBMic0FVX3lxTE9zUjFEMWV6X1pjMU82NUR6LWJKNUpLTXZMZl9xclpnNFdyWUNLNml5VVZybXROVlV3NUhWTHFGZl9PUHBSTUhtN1RLcDlrMHVzZW1jTDVnbTJUanFHOURTS2dOeXJWdUt4YnhVOF9xWVNkWTg?oc=5) / [OBC 뉴스](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GWUhPc01WTUlqblBueFZWUmYxMEJrSjdrekt5ZFBBQmRBX1FJaFRCSi15U25fV00xd1lvVmdBbDhXb0VsUlM0a0k3WXdvVm9Hb3FXUzV2bzNfa1lRWUhQVkx3NlYyajQz?oc=5)</sub>\n\n---\n\n### 3. 오펙플러스 증산 보류 속 118달러 육박하는 국제 유가\n> 키워드: 국제 유가\n\n**📌 무슨 일이 있었나**\n- 오펙플러스(OPEC+)가 유가 118달러 수준에도 불구하고 증산을 보류하면서 중동 전쟁 여파로 원유 공급이 막힘.\n- 시장에선 이란 전쟁 확전 우려가 고조됨에 따라 국제유가가 2퍼센트 이상 상승하며 6개월 만에 최고치를 기록함.\n- 국제 유가가 118달러에 육박하는 강세를 보이며 오펙플러스의 증산 중단과 이란의 보복 경고가 복합적으로 작용함.\n- 한국의 10월 에너지 수입액이 165억 달러를 기록하여 전년 대비 63퍼센트 급증하는 충격을 받음.\n- 강원 지역을 비롯한 국내 기름값은 22주 연속 하락세를 보였으나 국제 유가 상승세로 인해 국내 가격 반등 우려가 대두됨.\n\n**💬 핵심 Q&A**\n- **Q. 국제 유가가 100달러를 돌파하게 된 원인과 트럼프 발언이 글로벌 원유 시장에 미치는 파장은 무엇인가?**\n  A. 중동 지정학적 리스크 확대로 공급 차질이 빚어진 것이 주된 원인이다. 주요 정치인의 발언은 에너지 정책 변화 기대를 자극해 단기 변동성을 키우는 요인이 된다.\n- **Q. 국제 유가가 급등하는 상황에서 국내 기름값은 왜 곧바로 반영되지 않고 시차를 두고 움직이는가?**\n  A. 국내 주유소들은 기존에 비축해 둔 재고를 소진한 뒤 수입 원가 상승분을 반영하기 때문이다. 보통 2주에서 3주의 시차를 두고 국내 주유소 가격에 순차적으로 적용된다.\n- **Q. 국제 유가 지수와 실시간 차트를 참고할 때 일반 소비자와 기업이 주의 깊게 보아야 할 핵심 지표는 무엇인가?**\n  A. 서부텍사스산원유(WTI)와 브렌트유의 가격 변동 추이가 세계 경제의 인플레이션 압력을 가늠하는 기준이 된다. 유가 상승은 무역수지 악화와 물가 상승으로 이어지므로 기업 원가 관리가 필수적이다.\n\n**👀 앞으로 볼 포인트**\n- 오펙플러스(OPEC+)의 추가 증산 회의 및 정책 결정\n- 중동 지역 이란 전쟁 확전 여부 및 원유 공급 차질\n- 국제 유가 상승이 국내 에너지 수입 및 기름값에 미치는 시차\n\n<sub>참고: [강원일보](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJT1dnNTFCX0szSUluS1M2YkRGMXF0cW4zb29UZWt1MUlyTjhXNnllb3pmd1hlUnlab3l4M0NfcTJTbUdGREpMZFZhRUlZbXpxTk5YSjFyYkdpb0E?oc=5) / [CNews](https://news.google.com/rss/articles/CBMid0FVX3lxTE1vMzQyYUhfUjVhcG9za2l3ZGJ1SDVnem5wbVBpQ0VrUVZyT1cxOVZUN0lMUTFQb0pzbVdxVDVteHhBTm1iQ1lEZWVFX0JWbGFwRHk2Sk1sanJkMUdWTnFtZ1hFQzhWTHhOY1JNRkNtVV9GQ1hvUV9N?oc=5) / [OBC 뉴스](https://news.google.com/rss/articles/CBMiakFVX3lxTE8wbDJCLTc2S2NNa2RTS2Z5VDRqaTUwLUlPaUNMYVFMY2tteGc5NTBwU3drZ0JtY0RmeEV0Y2Nvcl95NTBqTEk2OGVuVW5MRDA5clVsZHlkMUlrSDdpeUQza3V2UGlxLTJQWVE?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 제목을 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
     "generation_mode": "gemini"
   },
   "yesterday": {
@@ -813,5 +1553,5 @@
     "newsletter_md": "# 📈 오늘의 경제 뉴스레터\n_2026-10-26 ~ 2026-11-01 이슈 · 발행 2026-11-01_\n\n**오늘의 키워드:** `원달러 환율` · `코스피 폭락` · `미국 금리`\n\n---\n\n## 1. 1330원대 널뛰는 환율, 어디로 가나\n> 키워드: 원달러 환율\n\n**📌 무슨 일이 있었나**\n- 수출기업들의 달러 매도물량 유입 영향으로 원·달러 환율이 소폭 하락세를 나타내는 등 외환시장의 단기 수급 변화가 그대로 반영된 흐름 형성.\n- 원·달러 환율이 1,310원대에 근접한 가운데 원화의 상대적 가치를 나타내는 명목실효환율이 2년 만에 최고 수준을 기록한 현상 발생.\n- 특정 거래일 기준 원·달러 환율이 하루 만에 14원 급등하여 1337.7원으로 마감하는 등 최근 외환시장에서 가격 변동 폭이 확대된 모습.\n- 국내 주가 흐름과 원·달러 환율이 일반적인 역의 관계와 달리 같은 방향으로 함께 움직이는 기묘한 동행 현상에 대한 외환 시장의 관심 증대.\n- 향후 생각지 못한 대외 경제 변수로 인해 원·달러 환율의 방향성이 전환되면서 다시 상승세로 돌아설 것이라는 외환 전문가의 분석 및 전망 제기.\n- 국내 주식 시장의 하락세에도 불구하고 원·달러 환율이 1334.3원으로 하락 마감하며 원화가 강세를 나타내는 이례적인 시장 반응 확인.\n\n**💬 핵심 Q&A**\n- **Q. 원달러 환율이란 정확히 무엇을 의미하는가?**\n  A. 원달러 환율은 미국 1달러를 교환하기 위해 필요한 한국 원화의 금액을 나타낸다. 환율이 오르면 원화 가치가 떨어졌음을 의미하고, 환율이 내리면 원화 가치가 올랐음을 뜻한다. 이는 수입 물가와 해외 여행 비용에 직접적인 영향을 미친다.\n- **Q. 환율이 하락하거나 상승하는 주요 원인은 무엇인가?**\n  A. 환율은 달러의 수요와 공급 상태 및 글로벌 경제 변수에 따라 움직인다. 수출기업이 달러를 대량으로 팔거나 원화 수요가 늘면 환율이 하락하며, 대외 불안 요소로 달러 선호 현상이 강해지면 환율이 오른다. 주식 시장의 자금 이탈이나 금리 변동 역시 중요한 원인으로 작용한다.\n- **Q. 환율 변동이 일반인의 실생활과 지출에 어떤 영향을 주는가?**\n  A. 환율이 오르면 수입 원자재와 생필품 가격이 올라 전반적인 물가 상승 압력이 커진다. 반대로 환율이 내리면 해외 직구 비용이나 해외 여행 경비 부담이 줄어드는 효과가 있다. 따라서 환율 흐름에 맞춰 개인의 소비 및 환전 계획을 조절할 필요가 있다.\n\n**👀 앞으로 볼 포인트**\n- 수출기업의 달러 매도 물량 지속 여부\n- 증시 하락 속 원화 강세 흐름의 유지 가능성\n\n<sub>참고: [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MQW5FUXNINUFjTXo2QldZTm0weF84WUNpU2ZqdmhidWNhOGVWQnF4c1l2MVpkMkJzenFiYm0zWjdacFpVNFZNUHl1SDBXN2R5QkJSbGtYZ1RlZnPSAWBBVV95cUxORldxY3dHOUQ1aU5GQllUV2NjSl81VEMyeXdnYW9ZOGJTTkhqSVE2UmJRWVZYUl8yRlZ4YnZiU3hHZHdCb2t3OEdFTmNBYzEyd0Qzb1EwVWFoM3RKTHFJUEM?oc=5) / [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93M1h6SUhDYnRsN0dpNFRkQU5hOEI1Zzc2MXVwbnlWQkdpS0dPTTJiQTlBU3pJQXRXWGlqQjFVMk1tM2RJR0NWc2U1S1VtZVJhalBKMUlZSEJoR2pkOUg4eDdkS2JMdHM?oc=5) / [Chosunbiz](https://news.google.com/rss/articles/CBMihgFBVV95cUxONk5MMVp4N19Bc3haY1R6emotaVpmbGhIb2ViRXBTUVc0eG9mNmZhV1FuSGtOM1FKVGJNUHNQT3NlLTNGUVRFZWZzNVllWXAySzlGSmQwYlB3RHZ1VzlSOXlyMklMazhBQkxuamtBalFTcHhIOWZQZHJLR210UkMwVlJjVGNvUdIBmgFBVV95cUxNQ3lLcFVEbmNPQzlmdjVzSlBablJvYVh1MWhqNVJwZ1FxZHlUeGxKdnZRcm5EWkhNcmtNTXNnZ2xJUmJ4Z3J2NVoyN2FCRGtFazBnSFR4MlExXy1GVVN6NFd0LUdFd3ZZdlgxcGx0ckYxMzJuWXNRX1E3QWZvOXgxVE5ZNDdvQmNMYi1oNlVRQ29TeHBXdGZFUVFR?oc=5)</sub>\n\n---\n\n## 2. 덮친 AI 회의론, 흔들리는 코스피\n> 키워드: 코스피 폭락\n\n**📌 무슨 일이 있었나**\n- 미국 알파벳 기업의 상장 후 최대 폭락과 함께 AI 수익성에 대한 회의론이 급증하면서 국내 코스피 시장에 매도 사이드카가 발동된 상황.\n- 대표 주요 기업인 삼성전자의 3분기 실적 발표 직후 코스피 지수가 2%대 급락세를 보이며 6,000선 아래로 다시 하회하는 등 뚜렷한 약세 기록.\n- 글로벌 AI 산업 고점론과 함께 중국 기업들의 거센 기술 추격 악재가 겹치면서 최근 한 달 동안 코스피 지수가 16%나 폭락하는 현상 발생.\n- 미국 알파벳발 기습 악재 쇼크로 인해 코스피 지수가 하루 만에 5%대 폭락을 기록하며 충격을 완화하기 위한 매도 사이드카 재발동.\n- 미국 증시의 AI 투자 불안감이 국내 시장으로 직접 전달되며 코스피가 3% 하락 출발하고 주요 반도체 관련 종목들이 일제히 동반 하락.\n- 대장주인 삼성전자 주가가 하루 만에 4.1% 급락한 영향으로 인하여 코스피 지수 역시 전일 대비 1.2% 하락 마감하는 등 동반 약세 현상.\n\n**💬 핵심 Q&A**\n- **Q. 코스피 지수가 최근 급격히 폭락한 원인은 무엇인가?**\n  A. 미국 알파벳의 급락과 AI 투자 수익성에 대한 회의론이 글로벌 증시를 흔들었기 때문이다. 여기에 국내 반도체 대표주인 삼성전자의 실적 발표 불안과 중국의 기술 추격 우려가 겹쳐 하락 폭을 키웠다. 대외 악재가 국내 핵심 산업에 직접적인 충격을 준 결과이다.\n- **Q. 증시에서 매도 사이드카가 발동되었다는 것은 어떤 의미인가?**\n  A. 매도 사이드카는 주식 시장의 급락 충격을 완화하기 위해 프로그램 매매를 일시적으로 중단시키는 제도이다. 시장의 과열된 투매 심리를 식히고 투자자에게 이성적인 판단 시간을 벌어주기 위해 시행된다. 이는 현재 시장의 변동성이 매우 크다는 신호이다.\n- **Q. 주식 시장이 폭락할 때 개인 투자자는 어떻게 대응해야 하는가?**\n  A. 공포감에 젖어 감정적으로 주식을 투매하거나 조급하게 추가 매수에 나서는 것은 위험하다. 보유 종목의 본질적인 가치와 대외 환경의 변화를 차분히 점검하는 것이 우선이다. 변동성이 완화될 때까지 무리한 자금 운용을 자제하고 자산 비중을 점검하는 자세가 요구된다.\n\n**👀 앞으로 볼 포인트**\n- AI 고점론 및 글로벌 빅테크 기업의 실적\n- 삼성전자 등 주요 반도체주의 주가 반등 여부\n\n<sub>참고: [중앙일보](https://news.google.com/rss/articles/CBMiVkFVX3lxTE04WTBqcHhkZzZNbWwwY3JiTkN1d3gtNUhGSlJQNDB2eEc0d1A1blBvVGNmSmdmRkJlcndEVVpCbi1oSUNPSUNwWG1yNk9lTzRBZDJXOFBR?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE43ZnVqNVRGUVg5X240cXFxd24wYWJDYnJjZVN0ZnVwclJ4LWpEOUlzanRJbnJMOUxibHRueHNfeklXc0l1YVV4LXlOLXZYSnpNeUlITnRvd2g4Rm80Z1lXSHItLVUxUmgtQnYwNVRyQ0Q?oc=5) / [문화일보](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iTkJPc1NWMGRuMFVPb25ZN2JGZVFlcmNKelAyX3JCdWFsaTZDQnU5YkRQWGVXT0E2VlpFR0lybndMUzdyRmMtRXl2ajA4dGZ2?oc=5)</sub>\n\n---\n\n## 3. 美 연준 금리 동결, 멈춰선 인상 페달\n> 키워드: 미국 금리\n\n**📌 무슨 일이 있었나**\n- 미국 연방준비제도가 기준금리를 3.75~4.00% 범위로 동결하기로 결정함에 따라 향후 추가 금리 인상 행보에 대한 속도 조절에 돌입.\n- 한국은행은 미국의 기준금리 동결 결정에도 불구하고 대외 위험 요인들이 여전히 시장에 상존해 있음을 강조하며 각별한 경계태세 주문.\n- 2026년 10월 29일 진행된 FOMC 회의를 통하여 미국 연방준비제도의 기준금리 동결 결정 내용 및 향후 통화정책 방향이 공식 발표.\n- 미국 연준이 금리를 동결하며 정책적 숨 고르기에 진입한 가운데, 구글과 마이크로소프트 등 주요 빅테크 기업들의 실적에 따라 희비 교차.\n- 미국의 기준금리 동결 조치가 향후 한국 증시 시장에 긍정적인 영향을 줄 호재로 작용할 수 있을지에 대한 금융권의 기획 분석 등장.\n- 한국은행이 미국의 금리 동결 발표 이후에도 AI 관련 불확실성과 각종 대외 경제 리스크가 지속되고 있음을 언급하며 신중한 자세 유지.\n\n**💬 핵심 Q&A**\n- **Q. 미국 연준이 발표하는 기준금리란 어떤 개념인가?**\n  A. 미국 기준금리는 미국의 중앙은행인 연방준비제도가 정하는 정책 금리로, 전 세계 금융시장의 기준점 역할을 한다. 이 금리의 변동은 글로벌 자금의 흐름과 각국의 대출 및 예금 금리에 직접적인 영향을 미친다. 한국을 비롯한 세계 경제 흐름을 좌우하는 핵심 지표이다.\n- **Q. 미국의 금리 동결 결정이 한국 증시에 호재로 작동하는가?**\n  A. 금리 동결은 추가 인상 부담을 덜어주어 증시에 긍정적인 요인으로 작용할 여지가 있다. 다만 시장은 금리 동결 자체뿐만 아니라 빅테크 기업의 실적이나 대외 불확실성에도 크게 반응한다. 따라서 단기적인 호재 여부는 대외 리스크의 해소 여부와 함께 종합적으로 관찰해야 한다.\n- **Q. 한국은행이 미국 금리 동결에도 경계감을 낮추지 않는 이유는 무엇인가?**\n  A. 미국의 금리가 동결되었더라도 AI 산업의 불확실성과 글로벌 대외 위험 요인이 여전히 남아있기 때문이다. 미국과의 금리 격차나 환율 변동성이 국내 금융 시장에 줄 부담 역시 완전히 사라지지 않았다. 이로 인해 한국은행은 향후 대외 리스크 추이를 신중하게 지켜보는 입장이다.\n\n**👀 앞으로 볼 포인트**\n- 미 연준의 향후 기준금리 추가 인상 여부\n- 한국은행의 통화정책 반응과 국내 증시 여파\n\n<sub>참고: [중앙일보](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHZEtyVWU0anhfTG1kWmZsbG5FUC1abVlsek1zMlRGMHRRbDJWTjVsc2t4SEt1a1YwazNleHh1MS1xU1RmdXExSzZaU2xvSDU2dm8tUk1R?oc=5) / [MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTFBrTFpReVN2SVllY3hPRTRFSFRlb1d4eXFlc1RKWENfaVRSdmJoeUlUdkh5VHdTbXE2eE1BclB0UWVkbDlHd3RsdVFMaVpRUmZkWmlsRTY0YzhGalpZdE4wREFxWEJ6M3ZTN3FudUxpa1ZEc0NH0gF0QVVfeXFMTkEydGlpQU5rOGZibEVQNGZ1alhXRC1fTWRGLVJGSmFRRkhBLUZjbGJCVWlsN3BQSnlWSlFkcVpiUzYxeG8ybDBZbkpvWGRKWFFwQnFURndSZk9DMWxYbk1nMUFNbjhBT21VNmdDVFRUWGlYUmY?oc=5) / [네이버 프리미엄콘텐츠](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWkZpak8tVHJjZ3dKY0d4WUhLZ2wza25qYmtnTWxtWlJmbjl3S0UwOUhzUVIxYlpRaW5EZHpTcGozRUJLNm5TYUFTSjN4UjFMbUFFZi1rUEVWbHdMaF9HMVpMNGdiRXB2RlhmYkV4eDk2cVZPRHk1Tk9IQVBwSkJtaG4tRTRGei10?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 제목을 바탕으로 작성했으며 투자 권유가 아닙니다._",
     "generation_mode": "gemini"
   },
-  "updated_at": "2026-11-01 19:43:01 KST"
+  "updated_at": "2026-11-01 20:50:35 KST"
 }
