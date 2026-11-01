@@ -147,15 +147,13 @@ def render_period_content(period_key: str, period_data: dict):
 
     st.markdown("---")
 
-    # 각 키워드별 카드 렌더링
+    # 각 키워드별 카드 렌더링 (접었다 폈다 할 수 있는 Expander, 기본은 접힘)
     for idx, kw in enumerate(keywords, 1):
         item = results.get(kw, {})
         arts = news.get(kw, [])
+        headline = item.get("headline") or f"{kw} 시장 핵심 이슈"
 
-        with st.container(border=True):
-            st.caption(f"이슈 {idx} · 키워드: **{kw}**")
-            st.markdown(f"### {item.get('headline') or kw}")
-
+        with st.expander(f"📌 {idx}. {headline}  ·  키워드: {kw}", expanded=False):
             # 1. 무슨 일이 있었나 (불릿 요약)
             st.markdown("#### 📌 무슨 일이 있었나")
             facts = item.get("facts", [])
@@ -186,13 +184,13 @@ def render_period_content(period_key: str, period_data: dict):
                 else:
                     st.markdown(f"- {watch}")
 
-            # 5. 참고 기사 목록 (아코디언)
+            # 5. 참고 기사 목록
             if arts:
-                with st.expander(f"🔗 '{kw}' 관련 주요 기사 원문 보기 ({len(arts)}건)"):
-                    for a in arts:
-                        pub = f" · {a.get('published')}" if a.get('published') else ""
-                        src = f" · {a.get('source')}" if a.get('source') else ""
-                        st.markdown(f"- [{a.get('title')}]({a.get('link')}){src}{pub}")
+                st.markdown(f"#### 🔗 관련 주요 기사 원문 ({len(arts)}건)")
+                for a in arts:
+                    pub = f" · {a.get('published')}" if a.get('published') else ""
+                    src = f" · {a.get('source')}" if a.get('source') else ""
+                    st.markdown(f"- [{a.get('title')}]({a.get('link')}){src}{pub}")
 
 
 # 탭별 렌더링

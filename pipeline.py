@@ -238,19 +238,19 @@ def fetch_news(keyword: str, country: str, start: datetime, end: datetime, limit
 # -----------------------------------------------------------------------------
 # [Step 4~5] AI 분석 + 원고 생성
 # -----------------------------------------------------------------------------
-QUESTION_SUFFIXES = ["", " 뜻", " 영향", " 전망", " 왜", " 어떻게", " 언제", " 세금", " 수혜주", " 개인"]
+QUESTION_SUFFIXES = ["", " 뜻", " 영향"]
 
 
-def fetch_search_queries(keyword: str, country: str = "KR", max_items: int = 15):
+def fetch_search_queries(keyword: str, country: str = "KR", max_items: int = 8):
     """구글 검색 자동완성(비공식)으로 사람들이 실제 검색하는 연관 검색어 수집. 실패 시 빈 리스트."""
     hl = COUNTRY[country]["hl"]
-    suffixes = QUESTION_SUFFIXES if country == "KR" else ["", " meaning", " impact", " forecast", " why", " how"]
+    suffixes = QUESTION_SUFFIXES if country == "KR" else ["", " meaning", " impact"]
     seen, out = {keyword}, []
     for suf in suffixes:
         try:
             r = requests.get("https://suggestqueries.google.com/complete/search",
                              params={"client": "firefox", "q": keyword + suf, "hl": hl},
-                             headers=HEADERS, timeout=5)
+                             headers=HEADERS, timeout=2.5)
             r.raise_for_status()
             for q in r.json()[1]:
                 q = q.strip()
