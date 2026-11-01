@@ -132,20 +132,8 @@ def render_period_content(period_key: str, period_data: dict):
     newsletter_md = period_data.get("newsletter_md", "")
 
     # 상단 요약 바
-    c1, c2 = st.columns([3, 1])
-    with c1:
-        kw_badges = " ".join([f"`{kw}`" for kw in keywords])
-        st.markdown(f"**기준 기간:** {period_label}  |  **주요 키워드:** {kw_badges}")
-    with c2:
-        if newsletter_md:
-            st.download_button(
-                label="📥 뉴스레터 복사/다운로드 (.md)",
-                data=newsletter_md,
-                file_name=f"경제뉴스레터_{period_data.get('start_date','data')}.md",
-                mime="text/markdown",
-                use_container_width=True
-            )
-
+    kw_badges = " ".join([f"`{kw}`" for kw in keywords])
+    st.markdown(f"**기준 기간:** {period_label}  |  **주요 키워드:** {kw_badges}")
     st.markdown("---")
 
     # 각 키워드별 카드 렌더링 (접었다 폈다 할 수 있는 Expander, 기본은 접힘)
@@ -191,6 +179,18 @@ def render_period_content(period_key: str, period_data: dict):
                 st.markdown(
                     f'<details><summary style="cursor:pointer;font-weight:700;">🔗 관련 주요 기사 원문 ({len(arts)}건)</summary><ul>{"".join(rows)}</ul></details>',
                     unsafe_allow_html=True)
+
+    # 하단 뉴스레터 복사/다운로드 버튼
+    if newsletter_md:
+        st.write("")
+        st.download_button(
+            label="📥 뉴스레터 복사/다운로드 (.md)",
+            data=newsletter_md,
+            file_name=f"경제뉴스레터_{period_data.get('start_date', 'data')}.md",
+            mime="text/markdown",
+            use_container_width=True,
+            key=f"dl_{period_key}"
+        )
 
 
 # 탭별 렌더링
