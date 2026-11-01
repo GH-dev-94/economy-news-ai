@@ -153,7 +153,7 @@ def render_period_content(period_key: str, period_data: dict):
             arts = news.get(kw, [])
             headline = item.get("headline") or f"{kw} 시장 핵심 이슈"
 
-            with st.expander(f"📌 {idx}. {headline}  ·  `{kw}`", expanded=False):
+            with st.expander(f"📌 {idx}. {headline}  `{kw}`", expanded=False):
                 # 1. 무슨 일이 있었나 (불릿 요약)
                 st.markdown("#### 📌 무슨 일이 있었나")
                 facts = item.get("facts", [])
