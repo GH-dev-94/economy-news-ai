@@ -1,0 +1,801 @@
+{
+  "updated_at": "2026-11-01 17:12:50 KST",
+  "today": {
+    "period_label": "2026년 11월 1일 (일)",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-01",
+    "keywords": [
+      "코스피 폭락",
+      "원달러 환율",
+      "서울 아파트값"
+    ],
+    "results": {
+      "코스피 폭락": {
+        "headline": "한 달 만에 16% 떨어진 코스피, 무슨 일일까?",
+        "facts": [
+          "코스피가 지난 한 달간 16% 급락하며 역대 7번째 낙폭을 기록했습니다.",
+          "미국 인텔 쇼크 등 반도체주 폭락과 AI 고점론이 증시 하락을 이끌었습니다.",
+          "중국의 기술 추격 심화도 국내 증시에 부담을 주는 요인으로 꼽힙니다."
+        ],
+        "why": "증시가 급락하면 국민연금을 포함한 전체 자산 가치가 줄어들고 투자 심리가 냉각될 수 있습니다. 개인 연금이나 투자 상품의 수익률에도 직접적인 영향을 미치므로 주의가 필요합니다.",
+        "watch": [
+          "애플과 AMD 등 주요 IT 기업들의 실적 발표",
+          "미국 중간선거 결과가 증시에 미칠 영향",
+          "국내 반도체주들의 반등 여부"
+        ],
+        "qna": [
+          {
+            "q": "코스피가 역대급으로 폭락했다는데, 내 연금이나 자산에는 어떤 영향이 있나요?",
+            "a": "증시가 크게 하락하면 국민연금 등 연기금의 평가손실이 늘어나 국민 전체의 자산 가치가 줄어들 수 있습니다. 개인적으로 주식형 펀드나 연금저축 등에 가입되어 있다면 단기적으로 계좌 수익률이 떨어질 수 있습니다."
+          },
+          {
+            "q": "최근 증시 하락 원인으로 언급되는 'AI 고점론'과 '인텔 쇼크'는 무슨 뜻인가요?",
+            "a": "AI 고점론은 인공지능 관련 기업들의 주가가 너무 많이 올랐다는 우려를 뜻하며, 인텔 쇼크는 미국 반도체 기업 인텔의 실적 악화가 시장에 충격을 준 사건을 말합니다. 이 두 가지가 맞아떨어지면서 글로벌 반도체 및 IT 관련 주가가 함께 흔들렸습니다."
+          },
+          {
+            "q": "주식 시장이 급격히 냉각되었을 때 투자자로서 어떻게 대응해야 할까요?",
+            "a": "단기적인 급락에 놀라 당장 감정적인 결정을 내리기보다는 시장의 불안 요인이 해소되는지 지켜보는 것이 좋습니다. 주요 기업들의 실적과 미국 선거 등 대외 변수를 차분히 확인하며 장기적인 관점에서 접근할 필요가 있습니다."
+          }
+        ]
+      },
+      "원달러 환율": {
+        "headline": "4개월 연속 내린 달러 환율, 어디로 갈까?",
+        "facts": [
+          "원달러 환율이 4개월 연속 내리며 1,300원대에서 방향을 탐색하고 있습니다.",
+          "미국 중간선거와 고용 지표 발표를 앞두고 환율 변동성이 커지고 있습니다.",
+          "환율이 내리면서 달러 예금과 트래블통장 등 외화 투자에 대한 관심이 커졌습니다.",
+          "3분기 외환선물시장에서 역외차액결제선물환(NDF) 거래 비중이 줄어들었습니다."
+        ],
+        "why": "환율이 하락하면 해외 직구 비용이나 해외 여행 경비 부담이 줄어드는 장점이 있습니다. 반면 수출 기업의 수익성에는 영향을 미칠 수 있어 우리 경제 전반에 중요한 지표가 됩니다.",
+        "watch": [
+          "미국 중간선거 결과에 따른 정치적 불확실성 해소",
+          "1,320원~1,330원선 환율 지지력 유지 여부",
+          "미국 고용 지표 발표와 금리 방향성"
+        ],
+        "qna": [
+          {
+            "q": "환율이 계속 떨어지면 내 일상이나 해외여행 예산에는 어떤 변화가 생기나요?",
+            "a": "원화 가치가 상대적으로 올라가기 때문에 해외 직구를 할 때 물건값이 싸지는 효과가 있습니다. 또한 해외여행을 갈 때 환전 부담이 줄어들고 외화 예금이나 외화 ETF에 투자할 수 있는 진입 장벽도 낮아집니다."
+          },
+          {
+            "q": "뉴스에 자주 등장하는 'NDF'는 무엇이고 환율 흐름과 어떤 관련이 있나요?",
+            "a": "NDF는 '역외차액결제선물환'의 약자로, 만기에 원금 전체를 주고받지 않고 환율 변동 차액만 달러로 정산하는 거래입니다. 외국인 투자자들이 향후 원화 가치의 방향을 예측하고 투자할 때 주로 활용하므로 환율 전망의 주요 지표로 쓰입니다."
+          },
+          {
+            "q": "환율이 1,300원대에 머물고 있는데 달러나 외화 투자는 어떻게 바라봐야 할까요?",
+            "a": "환율은 정치적 이벤트나 금리 변화에 따라 빠르게 변하므로 단기 시세 차익을 목표로 하기엔 위험이 큽니다. 자산의 일부를 다변화하는 차원에서 접근하되, 환전 수수료와 관련 금융상품의 수익 구조를 사전에 꼼꼼히 확인해야 합니다."
+          }
+        ]
+      },
+      "서울 아파트값": {
+        "headline": "서울 집값 상승세 주춤, 경기 남부는 질주",
+        "facts": [
+          "서울 아파트값은 90주 연속 올랐으나 최근 상승세가 주춤해진 모습입니다.",
+          "서울 전역에서 거래 절벽 현상이 나타나며 아파트 매물이 급증했습니다.",
+          "강남 3구의 열기는 식었으나 수원·용인 등 경기 남부 집값은 오름세를 보입니다.",
+          "대통령은 집값이 떨어질 것으로 본다며 지금은 견디는 중이라고 언급했습니다."
+        ],
+        "why": "서울 집값 상승세가 둔화되면서 내 집 마련을 준비하는 무주택자의 셈법이 복잡해지고 있습니다. 지역별로 집값 흐름이 갈리는 양극화 현상이 심해져 실거주자와 투자자 모두 신중한 접근이 필요합니다.",
+        "watch": [
+          "서울 아파트 매물 급증이 가격 하락으로 전환될지 여부",
+          "수원·용인 등 경기 남부 지역 상승세의 지속성",
+          "정부의 부동산 시장 바라보는 시각과 추가 정책 가능성"
+        ],
+        "qna": [
+          {
+            "q": "서울 아파트 매물이 쌓이고 있다는데 내 집 마련 타이밍으로 봐도 될까요?",
+            "a": "매물이 늘고 거래가 줄어들면 집을 사는 사람이 가격 협상에서 유리해질 수는 있습니다. 하지만 대출 금리와 정부의 부동산 정책 흐름을 함께 고려해 무리한 영끌보다는 자신의 자금 사정에 맞춰 신중히 결정해야 합니다."
+          },
+          {
+            "q": "부동산 기사에서 말하는 '거래 절벽'은 무슨 뜻인가요?",
+            "a": "사려는 사람과 팔려는 사람 간에 원하는 가격 차이가 커서 아파트 매매 거래가 거의 이뤄지지 않는 상태를 말합니다. 시장이 냉각되어 거래량이 극도로 줄어들었을 때 주로 사용하는 표현입니다."
+          },
+          {
+            "q": "서울 집값은 주춤하고 경기도 집값은 오르는데 이 흐름을 어떻게 해석해야 하나요?",
+            "a": "서울 강남 등 주요 지역의 가격 부담이 커지면서 비교적 가격대가 낮고 교통이 편리한 경기 남부로 수요가 옮겨가는 풍선효과일 수 있습니다. 지역별 수급 상황과 개발 호재가 다르므로 단기 상승률에 쏠리기보다 장기적인 거주 가치를 따져보는 것이 바람직합니다."
+          }
+        ]
+      }
+    },
+    "news": {
+      "코스피 폭락": [
+        {
+          "title": "코스피 한달 16%폭락…AI고점론에 中추격까지 덮쳤다 - 문화일보",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iTkJPc1NWMGRuMFVPb25ZN2JGZVFlcmNKelAyX3JCdWFsaTZDQnU5YkRQWGVXT0E2VlpFR0lybndMUzdyRmMtRXl2ajA4dGZ2?oc=5",
+          "source": "문화일보",
+          "published": "11-01 11:56",
+          "snippet": "코스피 한달 16%폭락…AI고점론에 中추격까지 덮쳤다 문화일보"
+        },
+        {
+          "title": "사이버 도박장 된 증시…코스피, 지난달 16% 폭락 - 부산일보",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBORXIzSjAzRExybDFJZUM4TzF3RjBETlJQWE9NZ3BhUXc4VzV2Z0RQYmt4TVdWSkdST3lYblAxNWpvUlFtd25uSXFHbHowUkxnaWlSa3dJSW02RW5YcFBCbkNPdXFaU1dqd0lYYnltdWF5SElR?oc=5",
+          "source": "부산일보",
+          "published": "11-01 14:20",
+          "snippet": "사이버 도박장 된 증시…코스피, 지난달 16% 폭락 부산일보"
+        },
+        {
+          "title": "코스피, 지난달 하락률 역대 일곱번째 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTXhOYUdWY2ZDS3ZlbWVpcXZ2dzlneUl0SS1GV1ZtYnVVdEhZTmN4bmRPWG9Ec2lpYWlQcFdieUJGcWo1Vk1Md3NERWZEaUlra3BYR1ZZZHAtRml2ZkI2X0pyVUdaY3NrM1ZVeldhVWd6SkxpRGVEeXE0RUsxb3ktczYxd2U0ckhYaUZz?oc=5",
+          "source": "조선일보",
+          "published": "11-01 10:58",
+          "snippet": "코스피, 지난달 하락률 역대 일곱번째 조선일보"
+        },
+        {
+          "title": "美 반도체주 폭락…'인텔 쇼크'에 국내 증시 영향 촉각[주간증시전망](종합) - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tN0RSV2pvTktsbzgzbnQ5cjZubE0tWkFoZHoyMTc3WlpjcE9KYjY2V3dSTUJHNWVpODhZY3FBWlY0MUs1clJYOTNZbDVHeXlRRDFMYWtkencxU0lSOFNESlBfU0xIT093VDdjMjFjeWw0d1ppb1hvN9IBeEFVX3lxTE8tN0RSV2pvTktsbzgzbnQ5cjZubE0tWkFoZHoyMTc3WlpjcE9KYjY2V3dSTUJHNWVpODhZY3FBWlY0MUs1clJYOTNZbDVHeXlRRDFMYWtkencxU0lSOFNESlBfU0xIT093VDdjMjFjeWw0d1ppb1hvNw?oc=5",
+          "source": "뉴시스",
+          "published": "11-01 12:58",
+          "snippet": "美 반도체주 폭락…'인텔 쇼크'에 국내 증시 영향 촉각[주간증시전망](종합) 뉴시스"
+        },
+        {
+          "title": "10월 한 달간 16% 급락한 코스피…외환·금융위기급 '역대 낙폭 7위' - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HMjM0aHdVZ2J4MTNsZElGbGloRWlQMG5jc1NMVVBKblFmTld0cElCcXU0d0hWRnlTUDlYZ01KM0dhdFNMLU9XSEVXR1Y2XzJyVF91alZWNjBKbEE?oc=5",
+          "source": "뉴스1",
+          "published": "11-01 14:48",
+          "snippet": "10월 한 달간 16% 급락한 코스피…외환·금융위기급 '역대 낙폭 7위' 뉴스1"
+        },
+        {
+          "title": "[이번주 증시] 애플·AMD 실적에 반도체 반등 달렸다…美중간선거도 변수 - 뉴시안",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tY1E5Vm9XWENpQjJ4TEdnZzNhTHR0TU5WZHE0WkZIMTZDRmRDUU9ZeDBfb0ZtbmltSjJkNThveHhGV1VSRTNJWFJGMHRZZlRqem5YSU04VWRhSUZRTlEwN0VDQnVMUmNMWjduRA?oc=5",
+          "source": "뉴시안",
+          "published": "11-01 15:59",
+          "snippet": "[이번주 증시] 애플·AMD 실적에 반도체 반등 달렸다…美중간선거도 변수 뉴시안"
+        }
+      ],
+      "원달러 환율": [
+        {
+          "title": "[주간환율전망] 美 정치적 불확실성 vs 수출 네고···1330원대 방향 탐색 - 서울파이낸스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aUXRhZTFRUGpnWGw0RkI3NG00MkZJNHRFU3hvdmktOE9WaDVfVlI1Vkk0N3BodVJORTRPQUZkQ1UwR2ZiSlNOVG1Xd212STdveEpHdmhzbDlXcFRsd1pyWFZRYl9HYUI4Z1E?oc=5",
+          "source": "서울파이낸스",
+          "published": "11-01 15:53",
+          "snippet": "[주간환율전망] 美 정치적 불확실성 vs 수출 네고···1330원대 방향 탐색 서울파이낸스"
+        },
+        {
+          "title": "1300원대 환율에 외화투자 관심 쑥, '달러예금' '트래블통장'부터 'ETF'도 눈길 - 비즈니스포스트",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zUjFEMWV6X1pjMU82NUR6LWJKNUpLTXZMZl9xclpnNFdyWUNLNml5VVZybXROVlV3NUhWTHFGZl9PUHBSTUhtN1RLcDlrMHVzZW1jTDVnbTJUanFHOURTS2dOeXJWdUt4YnhVOF9xWVNkWTg?oc=5",
+          "source": "비즈니스포스트",
+          "published": "11-01 06:00",
+          "snippet": "1300원대 환율에 외화투자 관심 쑥, '달러예금' '트래블통장'부터 'ETF'도 눈길 비즈니스포스트"
+        },
+        {
+          "title": "美 중간선거 끝나면 환율도 아래 볼까…\"1,320원 지지력 강해\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iR1FpMUxYREtyOHllcFJBMmdUSmwxdEpQTUZlM2ttZVZ3a0I5WFdMQ2hUOUpCV19PYmk1d1hhYW9mUlpKYkktU05rc0Z4S2RUOS1FREZmbk9Mel9rcE5UZ0g0WFRaUzlTc0Q2N3FuS2k?oc=5",
+          "source": "연합인포맥스",
+          "published": "11-01 07:30",
+          "snippet": "美 중간선거 끝나면 환율도 아래 볼까…\"1,320원 지지력 강해\" 연합인포맥스"
+        },
+        {
+          "title": "3분기 외환선물시장서 NDF 비중 축소 본격화 - 서울경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53ek9GaW55QnBiOWFiWnp4WGpFelQtME1pMllZMk1SdGY4REo3SENRQWVmUUx3NEZ4SXFvUW94T2taTkZuRnhsc1ZIUE5BZ2RnVUHSAVNBVV95cUxQT1VXbEdvbmFURFV4bkh5cFpRSE15dGFpbjkxOWFCZnJoOVlpZ2ZQS0Y4UEJuMU5FSjFtRk52dWdKY3ZIWUpycGlEODRuT2lkZ3BFVQ?oc=5",
+          "source": "서울경제",
+          "published": "11-01 15:19",
+          "snippet": "3분기 외환선물시장서 NDF 비중 축소 본격화 서울경제"
+        },
+        {
+          "title": "4개월 연속 내린 환율…美 선거·고용 앞두고 시험대[주간외환전망] - 이데일리",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMEpnTnZIMDdlZDF5VzVVWVlkMmJHQzluSXktNG0zdzQ2bTFHdmM4UXgyX3FkVXgzWVM4U04zT0VLeGkxajdnVjUyWXVhdHBsZW9YOGZnNExlWTdENjZvczZMSWVNdnN4TUx0Z2ZBTV9Hb0g5OFVhNTFONmdHZk5GMw?oc=5",
+          "source": "이데일리",
+          "published": "11-01 05:00",
+          "snippet": "4개월 연속 내린 환율…美 선거·고용 앞두고 시험대[주간외환전망] 이데일리"
+        },
+        {
+          "title": "美 반도체주 폭락…'인텔 쇼크'에 국내 증시 영향 촉각[주간증시전망](종합) - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tN0RSV2pvTktsbzgzbnQ5cjZubE0tWkFoZHoyMTc3WlpjcE9KYjY2V3dSTUJHNWVpODhZY3FBWlY0MUs1clJYOTNZbDVHeXlRRDFMYWtkencxU0lSOFNESlBfU0xIT093VDdjMjFjeWw0d1ppb1hvN9IBeEFVX3lxTE8tN0RSV2pvTktsbzgzbnQ5cjZubE0tWkFoZHoyMTc3WlpjcE9KYjY2V3dSTUJHNWVpODhZY3FBWlY0MUs1clJYOTNZbDVHeXlRRDFMYWtkencxU0lSOFNESlBfU0xIT093VDdjMjFjeWw0d1ppb1hvNw?oc=5",
+          "source": "뉴시스",
+          "published": "11-01 12:58",
+          "snippet": "美 반도체주 폭락…'인텔 쇼크'에 국내 증시 영향 촉각[주간증시전망](종합) 뉴시스"
+        }
+      ],
+      "서울 아파트값": [
+        {
+          "title": "서울 아파트값 둔화 속 경기도는 상승…수원·용인 등 오름세 - 경기일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ya0wwWWc4cjh2b1pwQ2N0eVVKZlJlWDdmeUdXTlNzdGZMelNQVUVNYmwxYlhRa0c4aVBNb0oxX1NZYWpxTlZ3VDl3OTZKYTJUTVJ0Rlk0VThuQzA?oc=5",
+          "source": "경기일보",
+          "published": "11-01 14:31",
+          "snippet": "서울 아파트값 둔화 속 경기도는 상승…수원·용인 등 오름세 경기일보"
+        },
+        {
+          "title": "서울 아파트값 90주 연속 올랐는데 … 李 \"집값 떨어질 것, 지금은 견디는 중\" - 뉴데일리",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aTlBNRWZIOVZKTFAzQWlkT2kyYnBLZEZxRGd5S1BHbUk5UG1jQU5FUlV1TzFOcTFaY21NRnFIclZGY1IySy1Xd0xFLS1iTWNOdmVaRF8zUW9yYzdpUzRPNXdSZ3MtSFpiRmxBcHVlYTkta1ZOZ0N1aGZja9IBgAFBVV95cUxQTUJRUmR2YVZhbzV4MW5ZeEFUSFZ2c0VUb1JTdC04aGhpVVhiS29XNU95T0ZYTkpscGtibTNsRUxLU2d2cVlNRE1MZVRBUUFsRmVHb0Z0MFF3LTc1ZklPNzkyWFVsVlZteDhVNlp0bnBNUWN0RmdkcGd4bGdrcURNTg?oc=5",
+          "source": "뉴데일리",
+          "published": "11-01 10:09",
+          "snippet": "서울 아파트값 90주 연속 올랐는데 … 李 \"집값 떨어질 것, 지금은 견디는 중\" 뉴데일리"
+        },
+        {
+          "title": "서울은 ‘주춤’, 경기 남부는 ‘질주’… 판 바뀌 집값 상승축 - 핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtTWhvbVdpU0xNT2hDRkt6WGFyUUxmZkNHWUg0NWo2Nzl0RnFCYUlwLXBPaDRrQUROSC1HODNHXzRPT1BTcnQ1enN6LTRSWUFSTFV0Q2RrNFA2NUllWG9FV1hieUFrZDR4NzhTQ1otcFlIS2_SAXdBVV95cUxQOTJvYWU5eWpPbmhQdF9EaDJycTNrQXVPWmp5T2trRDh5Q3NJZGNwZXltU29sX3YyaDRxMnFZcmxXcDBiT0paRFdfTE1YZXNsVDVoQl82NndDY0ZPQjgtUWtqNG5ndTdNNzB2WDJEWm5tdXVoSFJXWQ?oc=5",
+          "source": "핀포인트뉴스",
+          "published": "11-01 10:34",
+          "snippet": "서울은 ‘주춤’, 경기 남부는 ‘질주’… 판 바뀌 집값 상승축 핀포인트뉴스"
+        },
+        {
+          "title": "거래 절벽에 서울 전역 아파트 매물 급증 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Manc5aWNXUmNUTDJETW43SkZyQ0JtVW5RQVJRQkVOQ1JoWnBoRzJNT2x1eU90ZXNaOUJtWW1ndjg0VW5oM3k3S19HRQ?oc=5",
+          "source": "뉴스1",
+          "published": "11-01 15:49",
+          "snippet": "거래 절벽에 서울 전역 아파트 매물 급증 뉴스1"
+        },
+        {
+          "title": "이 대통령 “지금은 견디는 중”…집값 하락 전망 맞을까 - 더스쿠프",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EMkFkRnJQRGNHTFJscVZLTUZmM2xNWVBuQWczQnU3MlUwNk9JdzJXOWswcjJDa1BnNmR3bUZGcF9lbDJhWHRjdklveldzQVlfMEhQd1Z0RjJMbmJGN3c4V2F4UnNINlVNZ1BPdUtB?oc=5",
+          "source": "더스쿠프",
+          "published": "11-01 01:07",
+          "snippet": "이 대통령 “지금은 견디는 중”…집값 하락 전망 맞을까 더스쿠프"
+        },
+        {
+          "title": "강남3구 집값 열기 식는데…강북·경기 남부는 뜨겁다 - 디지털데일리",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUR2JobllBbUtDMk9VLUZNeU9LVDlQOXRJeXhWTkFaODAtZ0FqMzFJWWlWRjdQWDVkdTVnSktXN21tWi1yX3I5NEdicWhNd05IQzg2dVd4NWwyNlhsclU5TGdqNDc?oc=5",
+          "source": "디지털데일리",
+          "published": "11-01 10:00",
+          "snippet": "강남3구 집값 열기 식는데…강북·경기 남부는 뜨겁다 디지털데일리"
+        }
+      ]
+    },
+    "queries": {
+      "코스피 폭락": [
+        "코스피 폭락 디시",
+        "코스피 폭락 이유",
+        "코스피 폭락 원인",
+        "코스피 폭락 더쿠",
+        "코스피 폭락 나무위키",
+        "코스피 폭락 역사",
+        "코스피 폭락 클리앙",
+        "코스피 폭락에 국민연금 200조 평가손실 추정",
+        "코스피 폭락 순위",
+        "코스피 폭락 전망"
+      ],
+      "원달러 환율": [
+        "원달러 환율 전망",
+        "원달러 환율 차트",
+        "원달러 환율 그래프 30 년",
+        "원달러 환율 그래프 10 년",
+        "원달러 환율 그래프",
+        "원달러 환율 장기 전망",
+        "원달러 환율 실시간",
+        "원달러 환율 추이",
+        "원달러 환율 하락 이유",
+        "원달러 환율 뜻"
+      ],
+      "서울 아파트값": [
+        "서울 아파트값 상승률",
+        "서울 아파트값 추이",
+        "서울 아파트값 평균",
+        "서울 아파트값 전망",
+        "서울 아파트값 상승",
+        "서울 아파트값 순위",
+        "서울 아파트값 86주",
+        "서울 아파트값 하락",
+        "서울 아파트값 더쿠"
+      ]
+    },
+    "newsletter_md": "# 📈 오늘의 경제 뉴스레터\n_2026-11-01 이슈 · 발행 2026-11-01_\n\n**오늘의 키워드:** `코스피 폭락` · `원달러 환율` · `서울 아파트값`\n\n---\n\n## 1. 한 달 만에 16% 떨어진 코스피, 무슨 일일까?\n> 키워드: 코스피 폭락\n\n**📌 무슨 일이 있었나**\n- 코스피가 지난 한 달간 16% 급락하며 역대 7번째 낙폭을 기록했습니다.\n- 미국 인텔 쇼크 등 반도체주 폭락과 AI 고점론이 증시 하락을 이끌었습니다.\n- 중국의 기술 추격 심화도 국내 증시에 부담을 주는 요인으로 꼽힙니다.\n\n**🧭 왜 중요할까**\n증시가 급락하면 국민연금을 포함한 전체 자산 가치가 줄어들고 투자 심리가 냉각될 수 있습니다. 개인 연금이나 투자 상품의 수익률에도 직접적인 영향을 미치므로 주의가 필요합니다.\n\n**💬 독자들이 궁금해하는 것**\n- **Q. 코스피가 역대급으로 폭락했다는데, 내 연금이나 자산에는 어떤 영향이 있나요?**\n  A. 증시가 크게 하락하면 국민연금 등 연기금의 평가손실이 늘어나 국민 전체의 자산 가치가 줄어들 수 있습니다. 개인적으로 주식형 펀드나 연금저축 등에 가입되어 있다면 단기적으로 계좌 수익률이 떨어질 수 있습니다.\n- **Q. 최근 증시 하락 원인으로 언급되는 'AI 고점론'과 '인텔 쇼크'는 무슨 뜻인가요?**\n  A. AI 고점론은 인공지능 관련 기업들의 주가가 너무 많이 올랐다는 우려를 뜻하며, 인텔 쇼크는 미국 반도체 기업 인텔의 실적 악화가 시장에 충격을 준 사건을 말합니다. 이 두 가지가 맞아떨어지면서 글로벌 반도체 및 IT 관련 주가가 함께 흔들렸습니다.\n- **Q. 주식 시장이 급격히 냉각되었을 때 투자자로서 어떻게 대응해야 할까요?**\n  A. 단기적인 급락에 놀라 당장 감정적인 결정을 내리기보다는 시장의 불안 요인이 해소되는지 지켜보는 것이 좋습니다. 주요 기업들의 실적과 미국 선거 등 대외 변수를 차분히 확인하며 장기적인 관점에서 접근할 필요가 있습니다.\n\n**👀 앞으로 볼 포인트**\n- 애플과 AMD 등 주요 IT 기업들의 실적 발표\n- 미국 중간선거 결과가 증시에 미칠 영향\n- 국내 반도체주들의 반등 여부\n\n<sub>참고: [문화일보](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iTkJPc1NWMGRuMFVPb25ZN2JGZVFlcmNKelAyX3JCdWFsaTZDQnU5YkRQWGVXT0E2VlpFR0lybndMUzdyRmMtRXl2ajA4dGZ2?oc=5) / [부산일보](https://news.google.com/rss/articles/CBMidEFVX3lxTFBORXIzSjAzRExybDFJZUM4TzF3RjBETlJQWE9NZ3BhUXc4VzV2Z0RQYmt4TVdWSkdST3lYblAxNWpvUlFtd25uSXFHbHowUkxnaWlSa3dJSW02RW5YcFBCbkNPdXFaU1dqd0lYYnltdWF5SElR?oc=5) / [조선일보](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTXhOYUdWY2ZDS3ZlbWVpcXZ2dzlneUl0SS1GV1ZtYnVVdEhZTmN4bmRPWG9Ec2lpYWlQcFdieUJGcWo1Vk1Md3NERWZEaUlra3BYR1ZZZHAtRml2ZkI2X0pyVUdaY3NrM1ZVeldhVWd6SkxpRGVEeXE0RUsxb3ktczYxd2U0ckhYaUZz?oc=5)</sub>\n\n---\n\n## 2. 4개월 연속 내린 달러 환율, 어디로 갈까?\n> 키워드: 원달러 환율\n\n**📌 무슨 일이 있었나**\n- 원달러 환율이 4개월 연속 내리며 1,300원대에서 방향을 탐색하고 있습니다.\n- 미국 중간선거와 고용 지표 발표를 앞두고 환율 변동성이 커지고 있습니다.\n- 환율이 내리면서 달러 예금과 트래블통장 등 외화 투자에 대한 관심이 커졌습니다.\n- 3분기 외환선물시장에서 역외차액결제선물환(NDF) 거래 비중이 줄어들었습니다.\n\n**🧭 왜 중요할까**\n환율이 하락하면 해외 직구 비용이나 해외 여행 경비 부담이 줄어드는 장점이 있습니다. 반면 수출 기업의 수익성에는 영향을 미칠 수 있어 우리 경제 전반에 중요한 지표가 됩니다.\n\n**💬 독자들이 궁금해하는 것**\n- **Q. 환율이 계속 떨어지면 내 일상이나 해외여행 예산에는 어떤 변화가 생기나요?**\n  A. 원화 가치가 상대적으로 올라가기 때문에 해외 직구를 할 때 물건값이 싸지는 효과가 있습니다. 또한 해외여행을 갈 때 환전 부담이 줄어들고 외화 예금이나 외화 ETF에 투자할 수 있는 진입 장벽도 낮아집니다.\n- **Q. 뉴스에 자주 등장하는 'NDF'는 무엇이고 환율 흐름과 어떤 관련이 있나요?**\n  A. NDF는 '역외차액결제선물환'의 약자로, 만기에 원금 전체를 주고받지 않고 환율 변동 차액만 달러로 정산하는 거래입니다. 외국인 투자자들이 향후 원화 가치의 방향을 예측하고 투자할 때 주로 활용하므로 환율 전망의 주요 지표로 쓰입니다.\n- **Q. 환율이 1,300원대에 머물고 있는데 달러나 외화 투자는 어떻게 바라봐야 할까요?**\n  A. 환율은 정치적 이벤트나 금리 변화에 따라 빠르게 변하므로 단기 시세 차익을 목표로 하기엔 위험이 큽니다. 자산의 일부를 다변화하는 차원에서 접근하되, 환전 수수료와 관련 금융상품의 수익 구조를 사전에 꼼꼼히 확인해야 합니다.\n\n**👀 앞으로 볼 포인트**\n- 미국 중간선거 결과에 따른 정치적 불확실성 해소\n- 1,320원~1,330원선 환율 지지력 유지 여부\n- 미국 고용 지표 발표와 금리 방향성\n\n<sub>참고: [서울파이낸스](https://news.google.com/rss/articles/CBMiakFVX3lxTE1aUXRhZTFRUGpnWGw0RkI3NG00MkZJNHRFU3hvdmktOE9WaDVfVlI1Vkk0N3BodVJORTRPQUZkQ1UwR2ZiSlNOVG1Xd212STdveEpHdmhzbDlXcFRsd1pyWFZRYl9HYUI4Z1E?oc=5) / [비즈니스포스트](https://news.google.com/rss/articles/CBMic0FVX3lxTE9zUjFEMWV6X1pjMU82NUR6LWJKNUpLTXZMZl9xclpnNFdyWUNLNml5VVZybXROVlV3NUhWTHFGZl9PUHBSTUhtN1RLcDlrMHVzZW1jTDVnbTJUanFHOURTS2dOeXJWdUt4YnhVOF9xWVNkWTg?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE9iR1FpMUxYREtyOHllcFJBMmdUSmwxdEpQTUZlM2ttZVZ3a0I5WFdMQ2hUOUpCV19PYmk1d1hhYW9mUlpKYkktU05rc0Z4S2RUOS1FREZmbk9Mel9rcE5UZ0g0WFRaUzlTc0Q2N3FuS2k?oc=5)</sub>\n\n---\n\n## 3. 서울 집값 상승세 주춤, 경기 남부는 질주\n> 키워드: 서울 아파트값\n\n**📌 무슨 일이 있었나**\n- 서울 아파트값은 90주 연속 올랐으나 최근 상승세가 주춤해진 모습입니다.\n- 서울 전역에서 거래 절벽 현상이 나타나며 아파트 매물이 급증했습니다.\n- 강남 3구의 열기는 식었으나 수원·용인 등 경기 남부 집값은 오름세를 보입니다.\n- 대통령은 집값이 떨어질 것으로 본다며 지금은 견디는 중이라고 언급했습니다.\n\n**🧭 왜 중요할까**\n서울 집값 상승세가 둔화되면서 내 집 마련을 준비하는 무주택자의 셈법이 복잡해지고 있습니다. 지역별로 집값 흐름이 갈리는 양극화 현상이 심해져 실거주자와 투자자 모두 신중한 접근이 필요합니다.\n\n**💬 독자들이 궁금해하는 것**\n- **Q. 서울 아파트 매물이 쌓이고 있다는데 내 집 마련 타이밍으로 봐도 될까요?**\n  A. 매물이 늘고 거래가 줄어들면 집을 사는 사람이 가격 협상에서 유리해질 수는 있습니다. 하지만 대출 금리와 정부의 부동산 정책 흐름을 함께 고려해 무리한 영끌보다는 자신의 자금 사정에 맞춰 신중히 결정해야 합니다.\n- **Q. 부동산 기사에서 말하는 '거래 절벽'은 무슨 뜻인가요?**\n  A. 사려는 사람과 팔려는 사람 간에 원하는 가격 차이가 커서 아파트 매매 거래가 거의 이뤄지지 않는 상태를 말합니다. 시장이 냉각되어 거래량이 극도로 줄어들었을 때 주로 사용하는 표현입니다.\n- **Q. 서울 집값은 주춤하고 경기도 집값은 오르는데 이 흐름을 어떻게 해석해야 하나요?**\n  A. 서울 강남 등 주요 지역의 가격 부담이 커지면서 비교적 가격대가 낮고 교통이 편리한 경기 남부로 수요가 옮겨가는 풍선효과일 수 있습니다. 지역별 수급 상황과 개발 호재가 다르므로 단기 상승률에 쏠리기보다 장기적인 거주 가치를 따져보는 것이 바람직합니다.\n\n**👀 앞으로 볼 포인트**\n- 서울 아파트 매물 급증이 가격 하락으로 전환될지 여부\n- 수원·용인 등 경기 남부 지역 상승세의 지속성\n- 정부의 부동산 시장 바라보는 시각과 추가 정책 가능성\n\n<sub>참고: [경기일보](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ya0wwWWc4cjh2b1pwQ2N0eVVKZlJlWDdmeUdXTlNzdGZMelNQVUVNYmwxYlhRa0c4aVBNb0oxX1NZYWpxTlZ3VDl3OTZKYTJUTVJ0Rlk0VThuQzA?oc=5) / [뉴데일리](https://news.google.com/rss/articles/CBMie0FVX3lxTE5aTlBNRWZIOVZKTFAzQWlkT2kyYnBLZEZxRGd5S1BHbUk5UG1jQU5FUlV1TzFOcTFaY21NRnFIclZGY1IySy1Xd0xFLS1iTWNOdmVaRF8zUW9yYzdpUzRPNXdSZ3MtSFpiRmxBcHVlYTkta1ZOZ0N1aGZja9IBgAFBVV95cUxQTUJRUmR2YVZhbzV4MW5ZeEFUSFZ2c0VUb1JTdC04aGhpVVhiS29XNU95T0ZYTkpscGtibTNsRUxLU2d2cVlNRE1MZVRBUUFsRmVHb0Z0MFF3LTc1ZklPNzkyWFVsVlZteDhVNlp0bnBNUWN0RmdkcGd4bGdrcURNTg?oc=5) / [핀포인트뉴스](https://news.google.com/rss/articles/CBMic0FVX3lxTFBtTWhvbVdpU0xNT2hDRkt6WGFyUUxmZkNHWUg0NWo2Nzl0RnFCYUlwLXBPaDRrQUROSC1HODNHXzRPT1BTcnQ1enN6LTRSWUFSTFV0Q2RrNFA2NUllWG9FV1hieUFrZDR4NzhTQ1otcFlIS2_SAXdBVV95cUxQOTJvYWU5eWpPbmhQdF9EaDJycTNrQXVPWmp5T2trRDh5Q3NJZGNwZXltU29sX3YyaDRxMnFZcmxXcDBiT0paRFdfTE1YZXNsVDVoQl82NndDY0ZPQjgtUWtqNG5ndTdNNzB2WDJEWm5tdXVoSFJXWQ?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 제목을 바탕으로 작성했으며 투자 권유가 아닙니다._",
+    "generation_mode": "gemini"
+  },
+  "yesterday": {
+    "period_label": "2026년 10월 31일 (토)",
+    "start_date": "2026-10-31",
+    "end_date": "2026-10-31",
+    "keywords": [
+      "코스피 급락",
+      "원달러 환율",
+      "AI 거품론"
+    ],
+    "results": {
+      "코스피 급락": {
+        "headline": "미 빅테크 쇼크에 코스피 3%대 급락, 시장 흔들",
+        "facts": [
+          "코스피가 3.48% 급락하며 매도 사이드카가 발동됐습니다.",
+          "미국 빅테크 부진과 AI 거품 우려로 반도체주가 직격탄을 맞았습니다.",
+          "외국인이 삼성전자와 SK하이닉스 주식을 1.6조 원 어치 매도했습니다.",
+          "삼성전자는 6%대, SK하이닉스는 8%대 하락했습니다."
+        ],
+        "why": "미국 대형 기술 기업들의 실적 부진이 국내 대표 반도체 기업 주가에 큰 충격을 주어 투자 심리가 급격히 냉각되었기 때문입니다.",
+        "watch": [
+          "다음 주 개장 후 외국인 매도세의 지속 여부",
+          "미국 반도체 지수 및 주요 빅테크 기업 주가 추이",
+          "미국과 이란 간 전쟁 위기 등 글로벌 지정학적 리스크"
+        ],
+        "qna": [
+          {
+            "q": "이번에 코스피가 갑자기 크게 떨어진 진짜 이유가 무엇인가요?",
+            "a": "아마존, 인텔, 알파벳 등 미국 주요 빅테크 기업들의 부진한 실적 발표로 미국 증시가 급락했기 때문입니다. 이 여파로 AI 거품 우려가 커지면서 외국인이 국내 반도체 주식을 대량 매도해 코스피 전체가 폭락했습니다."
+          },
+          {
+            "q": "증시가 이렇게 급락하면 주식을 안 하는 일반인에게도 영향이 있나요?",
+            "a": "직접 주식을 하지 않더라도 변액보험이나 퇴직연금 펀드 등의 자산 가치가 감소할 수 있습니다. 또한 증시 불안이 장기화하면 소비 심리가 위축되고 기업들의 투자가 줄어들어 전반적인 경기 침체로 이어질 수 있습니다."
+          },
+          {
+            "q": "주식 시장의 급격한 변동성을 마주했을 때 어떻게 대응해야 하나요?",
+            "a": "공포감에 휩싸여 충동적으로 자산을 매도하기보다는 시장 충격을 유발한 악재의 장기화 여부를 관망할 필요가 있습니다. 당분간 미국 기술주 실적과 외환 시장 흐름을 차분하게 모니터링하는 것이 안전합니다."
+          }
+        ]
+      },
+      "원달러 환율": {
+        "headline": "1,330원대로 떨어진 환율, 내 실생활 영향은?",
+        "facts": [
+          "원/달러 환율이 달러인덱스 하락 영향으로 1,334.3원에 마감했습니다.",
+          "미국 기술주 조정으로 환율의 1,320원대 재진입 가능성이 제기됩니다.",
+          "한국은행의 외환거래액이 1,220억 달러로 역대 최대를 기록했습니다."
+        ],
+        "why": "환율 하락은 해외 직구나 여행 비용 부담을 줄여주지만, 대출 금리 상승과 맞물려 가계 금융 상태에 복합적인 영향을 미칩니다.",
+        "watch": [
+          "환율의 1,320원대 재진입 여부 및 주간 변동 폭",
+          "미국 달러인덱스 변화와 기술주 조정 흐름",
+          "환전 및 외환 거래 시 발생하는 숨은 수수료 부담"
+        ],
+        "qna": [
+          {
+            "q": "환율이 떨어진다는 게 정확히 무슨 뜻이고 왜 내려가는 건가요?",
+            "a": "환율 하락은 원화 가치가 올라가 상대적으로 달러 가치가 낮아졌음을 뜻합니다. 최근 미국 기술주 조정과 달러인덱스 약세로 달러 선호 현상이 줄어들면서 환율이 하락 압력을 받았습니다."
+          },
+          {
+            "q": "환율 하락이 제 주머니 사정에는 어떤 구체적인 이득이 되나요?",
+            "a": "해외여행을 가거나 해외 직구 사이트에서 상품을 살 때 지불하는 원화 금액이 줄어듭니다. 또한 원자재 수입 단가가 낮아져 물가 안정에도 긍정적인 영향을 줄 수 있습니다."
+          },
+          {
+            "q": "환율이 더 내려갈 것 같은데 달러를 미리 바꿔두는 것이 좋을까요?",
+            "a": "환율은 글로벌 경제 상황과 금리 방향에 따라 변동성이 매우 큽니다. 단순 시세 차익을 노린 투자보다는 실수요 목적에 맞춰 분할 환전하는 방식으로 위험을 분산하는 것이 좋습니다."
+          }
+        ]
+      },
+      "AI 거품론": {
+        "headline": "AI 투자 과열이었나? 기술주 흔드는 'AI 거품론'",
+        "facts": [
+          "인텔 주가가 29% 폭락하며 AI 거품 공포가 증시에 확산했습니다.",
+          "오픈AI가 자금 조달 목표를 100억 달러 감축하고 기업가치를 낮췄습니다.",
+          "삼성전자와 SK하이닉스는 완판 행진을 이어가며 실적 호조를 보였습니다."
+        ],
+        "why": "AI 산업에 대한 막대한 투자에 비해 실제 수익 창출이 더디다는 지적이 나오면서 글로벌 IT 증시의 변동성을 키우고 있습니다.",
+        "watch": [
+          "오픈AI 등 주요 AI 기업들의 자금 조달 및 실적 추이",
+          "K-반도체 기업들의 고성능 메모리 완판세 지속 여부",
+          "AI 거품론의 금융 신용시장 전이 가능성"
+        ],
+        "qna": [
+          {
+            "q": "최근 자주 언급되는 'AI 거품론'이 정확히 어떤 내용인가요?",
+            "a": "AI 기업들에 쏟아부은 천문학적인 투자금에 비해 실제 번어들이는 수익이 적다는 회의론입니다. 과거 닷컴 버블처럼 기대감만으로 주가가 과도하게 올랐다가 꺼질 수 있다는 경고를 담고 있습니다."
+          },
+          {
+            "q": "오픈AI 같은 대표 기업도 AI 거품론의 영향으로 흔들리고 있나요?",
+            "a": "네, 막대한 AI 개발 및 운영 비용 대비 수익성 확보가 과제로 뜨면서 오픈AI도 투자 유치 목표액과 목표 기업가치를 하향 조정했습니다. 투자자들이 단순한 기대감보다 확실한 수익 모델을 요구하기 시작했기 때문입니다."
+          },
+          {
+            "q": "AI 거품론이 퍼지면 국내 반도체 기업들도 큰 타격을 받게 되나요?",
+            "a": "국내 반도체 기업들은 견조한 수요로 완판 실적을 내고 있어 당장은 탄탄한 모습을 보입니다. 다만 글로벌 빅테크의 AI 관련 투자가 실제로 줄어든다면 장기적으로 반도체 수요에 영향이 올 수 있어 주시할 필요가 있습니다."
+          }
+        ]
+      }
+    },
+    "news": {
+      "코스피 급락": [
+        {
+          "title": "[AI 이슈트렌드] 미·이란 전쟁 위기 1위…코스피 급락·구룡마을 화재 주목 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tNHVDcl81R05nWnppTGxidG54SmV0T2FkWWd1dVpQLWdxdklJUWgtaXlNSTdwNno3NVlRdkJ5Um1haGlHWFpienlzLWN4alNNZ3BXZnpTeGNUdTQ2VHNKNnZzQlFiVVNRelE?oc=5",
+          "source": "AI타임스",
+          "published": "10-31 12:26",
+          "snippet": "[AI 이슈트렌드] 미·이란 전쟁 위기 1위…코스피 급락·구룡마을 화재 주목 AI타임스"
+        },
+        {
+          "title": "코스피 3.48% 급락·매도 사이드카 발동…AI 거품 우려에 반도체주 직격탄 - 지이코노미",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13Y1BRZU9Hb3pfWmZpcEVYeWhWNEpUVlE2Z2F0LXJaeDNGRldRTTc1Y2Y1RG5VUkJsamhHb3hpUENoMFNsU21iWEhqdmswckZkMzlJUVBBQTlCVzZIY2wxbmFPYkRwYzA?oc=5",
+          "source": "지이코노미",
+          "published": "10-31 05:27",
+          "snippet": "코스피 3.48% 급락·매도 사이드카 발동…AI 거품 우려에 반도체주 직격탄 지이코노미"
+        },
+        {
+          "title": "‘美 빅테크 쇼크’에 코스피 출렁… 삼전닉스도 힘 못써 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdXJsM2xucERaUVRXSnBFODNURV9EY0Q3RkpOZ1ltdUJVUUpTSl9mNkx4eG1BdC1fSkNwU2ZEY3hQMnpSRVVBSlQ1bm9mSUJzbGM4VWs2S293aW9JdFA4aXZ4M01pR0NHT3NmNHYzbThVUzczZ1FtUHN3bWVqNUh0eFlTN3pkSXNhRm93?oc=5",
+          "source": "조선일보",
+          "published": "10-31 00:44",
+          "snippet": "‘美 빅테크 쇼크’에 코스피 출렁… 삼전닉스도 힘 못써 조선일보"
+        },
+        {
+          "title": "美반도체 7.2% 급락·SOXL 25% 폭락…외국인 1.6조 매도한 삼성·하이닉스, 월요일 추가 충격 우려 - 녹색경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zb2p0NnJyZ2dNaHNKNkhldU80NnB6VWZnTldhaVQ0b0pXX1RJd3FXR0RSTzdzaXl6c2ZjZ3A3Q0d3eW42ZHJSVEVZUVhPZWR2YWlHT3ZqaG9qSjV6d3dELVhNVENoYUJf?oc=5",
+          "source": "녹색경제신문",
+          "published": "10-31 16:27",
+          "snippet": "美반도체 7.2% 급락·SOXL 25% 폭락…외국인 1.6조 매도한 삼성·하이닉스, 월요일 추가 충격 우려 녹색경제신문"
+        },
+        {
+          "title": "아마존·인텔 부진에 나스닥 2.86% 급락 - 진일보 | 전남일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JY1Nudk02MGdCbXNxcFFTWUxoRW55QTc5b3h1bl9pb01BZ1VrVTAzY2xYeTlnUlh3NC1Cb3loSm5MbjUyN0NyLW40VFhPV2tjRm5Xa3BHSmNETEFfcVhEbjVxd2Y1d0NpWklUMG44VQ?oc=5",
+          "source": "진일보 | 전남일보",
+          "published": "10-31 06:36",
+          "snippet": "아마존·인텔 부진에 나스닥 2.86% 급락 진일보 | 전남일보"
+        },
+        {
+          "title": "코스피 ‘알파벳 쇼크’...삼성전자 6%대↓, SK하이닉스 8%대↓ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE11REUyMndMTTI0ZXA4dVlyMjFXZXlxNC1XRWhPR1Q5bWlDd2RlUk9nb2tTWkFJaFdWeDNVYTBwUV9ZSEJZQ0RTZ3NkaU1ncGc3NEw1bXhjMnc1bWRBbzdpQXFmWGlHVTJSMl9CWndpVFR2Zw?oc=5",
+          "source": "한겨레",
+          "published": "10-31 11:38",
+          "snippet": "코스피 ‘알파벳 쇼크’...삼성전자 6%대↓, SK하이닉스 8%대↓ 한겨레"
+        }
+      ],
+      "원달러 환율": [
+        {
+          "title": "[신문은 선생님] [생활 속 경제] 최근 환율 떨어져 인기 많지만… 수수료 같은 숨어 있는 비용도 잘 살펴야 해요 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSVlsbVQwRE8xSlI4bHI3Nm1BM2ZBa19yLTRFMFJobzlxMllaMlhrTHdVYjQyT2xYQ1lOdkVvYmJvS3JRZU5razB0akRDQVEyNE1JbVdLUUdUUnp1ZWxrc2JUZUtzY0RfWnF5OU51RjRWaDBrc1dxeE1LWEZhNTdMZUJ3bDRpejRXSVhTRDZ3?oc=5",
+          "source": "조선일보",
+          "published": "10-31 19:57",
+          "snippet": "[신문은 선생님] [생활 속 경제] 최근 환율 떨어져 인기 많지만… 수수료 같은 숨어 있는 비용도 잘 살펴야 해요 조선일보"
+        },
+        {
+          "title": "환율 하락에 여행객은 ‘웃고’ 대출금리 상승에 차주는 ‘울고’ - 영남일보",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrT0RMZjlrenQxNnJZUF8tQW9reUtpc2FVYUZBUDJOYXI2YVdERWtoWWtjdmMwRGd2LV9ub1dpRmhoYzJhZEIycUZENGlXTjdMSnR0UzZkWXNrQk95WUZiaFRHenpPY204WWI4?oc=5",
+          "source": "영남일보",
+          "published": "10-31 12:00",
+          "snippet": "환율 하락에 여행객은 ‘웃고’ 대출금리 상승에 차주는 ‘울고’ 영남일보"
+        },
+        {
+          "title": "[다음주 환율전망] 美 기술주 조정에 하락 압력…다음주 1320원대 재진입하나 - 굿모닝경제",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05bjF0dlU3RlNnM2NsNnRNVS1sb3h1cDBXdGZaaUNRTnRDLVFtZ2t6SHpWc1dieGpPNW9CcDIwXzBqTWVYVzZQdXlXSkRIcTlmcjRXRG5yZExqczdBQUM0ajJRZGJ3ZGJMSXBVdQ?oc=5",
+          "source": "굿모닝경제",
+          "published": "10-31 07:00",
+          "snippet": "[다음주 환율전망] 美 기술주 조정에 하락 압력…다음주 1320원대 재진입하나 굿모닝경제"
+        },
+        {
+          "title": "[외환시장 동향] 달러인덱스 하락 여파…오늘 서울 외환시장 원/달러 환율 1,334.3원 마감 - CBC뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UZi1ZTUZTb1ctTGJhQl9aVDVFRER1NEI4QmQ1TFlxdmRwRHVQWFUteWV1WGZVSXlqOG4tRFNoZjJBSjh4ZWw3UTJTbXRlOUNlTGhfaGxjX3RrZ29ndWs5cTBmOHc5OEV3?oc=5",
+          "source": "CBC뉴스",
+          "published": "10-31 00:00",
+          "snippet": "[외환시장 동향] 달러인덱스 하락 여파…오늘 서울 외환시장 원/달러 환율 1,334.3원 마감 CBC뉴스"
+        },
+        {
+          "title": "한은 외환거래 1220억 달러 최대…현물환은 줄었다 - 자본시장뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQX0ZKbnFJU3NCVmJwdTVFS2E2UEdCUzFVZDNwd0kwRi1xQy1CUHk2Zmkxa3h3VkFWbnJGbmdhNkUtbHBUSXZYU1phclp3RENfQ3c1TUltRkM5cS0tOEtuOVNHRVFFTHM?oc=5",
+          "source": "자본시장뉴스",
+          "published": "10-31 10:00",
+          "snippet": "한은 외환거래 1220억 달러 최대…현물환은 줄었다 자본시장뉴스"
+        },
+        {
+          "title": "기아 분기 매출 최대에도…주가는 11.73% 급락 - 자본시장뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SQWprczhSOGRSWDd3NGQ2dUgyd1U5bGxaS19Kc09SR181SFY0VTRqZW92MUJ6YW44SFEwWlVYTnlKczk2NGExMjRLajNsR3dmLTFDRjlTdEpsNzRvQk96T2R5WnBwbGs?oc=5",
+          "source": "자본시장뉴스",
+          "published": "10-31 12:40",
+          "snippet": "기아 분기 매출 최대에도…주가는 11.73% 급락 자본시장뉴스"
+        }
+      ],
+      "AI 거품론": [
+        {
+          "title": "신용시장까지 번진 ‘AI 거품론’… ‘탄탄한 본업 바탕’ 반론도 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3czdMdnN3WkpFOXA5RVVaeVhYYnVkZVN5VUw4dWtpUkZGTzZrRUFsQXVWU1E0eEpoRHQyWEtHRENFM3k4ckpkQjhWVFRlQ2hRNHhyMVNRakNibUtnSXRHSlNlMG83MGVsRDlJZXlac2dGck9rUHfSAWZBVV95cUxPWG1JUHY3VnI3UHAtQk5vNjRrclA5RGo2SXpISmZTVndVVWFfb2UtZHpCVnNtSFhWbkFSV2huWnlqS3d2S3E3YmFVVGwyNkFITWhLcVByQWI0RmNiVXd0UDROd0NHNWc?oc=5",
+          "source": "동아일보",
+          "published": "10-31 01:40",
+          "snippet": "신용시장까지 번진 ‘AI 거품론’… ‘탄탄한 본업 바탕’ 반론도 동아일보"
+        },
+        {
+          "title": "인텔 주가 29% 폭락…AI 거품 공포 확산에 미 증시 ↓ - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6bVhrbWV2Q24zMlJHTGhWbWRsUzZfbmVrRE1UQUJhaklXc3hfVDF1X1FlZTlvblAycFhkTGRseWdsV1hWMjRiSTBYNlZ1ajNzU0hjQlRZa0V5YWc?oc=5",
+          "source": "KBS 뉴스",
+          "published": "10-31 21:04",
+          "snippet": "인텔 주가 29% 폭락…AI 거품 공포 확산에 미 증시 ↓ KBS 뉴스"
+        },
+        {
+          "title": "[초점] AI 거품론 비웃은 K반도체…삼성·SK, 빅테크 제치고 ‘실적 질주’ - 뉴시안",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrcmFPRHJFWVZUR20zTnhPVVc2MmlfS05ORDRXLXF4d2lIN3FoWjRoUVM2bE5mQVRuNzNPLXpWd19YV1ViU3BaVktBNVJ0M3NxSHlhSTZLb3JsTVJDdmpDRzlReGlCWUt0UDJndA?oc=5",
+          "source": "뉴시안",
+          "published": "10-31 07:03",
+          "snippet": "[초점] AI 거품론 비웃은 K반도체…삼성·SK, 빅테크 제치고 ‘실적 질주’ 뉴시안"
+        },
+        {
+          "title": "[G테크 줌인] 삼전닉스는 완판인데, ‘AI 거품론’ 꺼지지 않는 이유 - 글로벌경제신문",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13RW5uLVNnVE50a2NEWmtmQjIyQXRsX2tTU3I2U2VEdEU0dDFlSEpid3cxOWNFZ3FHZG9FMHMzYTVPal9ERkhxa2loX2xCeUZET0tYTnU3OTBOZy0zMXVGVks2TlA0V0VkY29OTNIBcEFVX3lxTE9sMVgzbURNMWg3UXE5UndiN2NIOFFQSFp6UWlBT0xNbFVzQnRGSVRnNm1QTTFLT0lSazQ3b0ZHVXF1eDlEMnpOMmplSUY5TTFjSUtaeXdBSHhYZ2Ruc0g1MThULUN6M0pRd1VYMm43d0I?oc=5",
+          "source": "글로벌경제신문",
+          "published": "10-31 06:00",
+          "snippet": "[G테크 줌인] 삼전닉스는 완판인데, ‘AI 거품론’ 꺼지지 않는 이유 글로벌경제신문"
+        },
+        {
+          "title": "AI 거품? … 오픈AI, 자금조달 목표 100억달러 감축 - 뉴데일리",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vSWNWaFVYa0hfU2ptM3lfRC1SU1FsRHUydFJYWXFTTFlmc2tDYnZGZFU1ODhna3FrRFA1Z25CcHN4dEZBUVhUejZOUE1xTDhNdkJHd3pGZnNtMUlRYUdzQVpzemR2SVlfbW9aZWdpdDdJVnBwcDIxQm1zY9IBgAFBVV95cUxOUWFmaXp2R3hDNDloSmRKOW1yX1FtZC1OcnA3TzhfMk5iWFJkMXd4M092QmNzUHhHN2N3eV9vQkdNMi10OVR4Szd2aWJyekVGNXhaWGZWeXhjUU92Y2hLc0pJT1FGTTlNMTVxSUszaWhSTnd2NzBQVTdYYnhiTUtDbg?oc=5",
+          "source": "뉴데일리",
+          "published": "10-31 15:44",
+          "snippet": "AI 거품? … 오픈AI, 자금조달 목표 100억달러 감축 뉴데일리"
+        },
+        {
+          "title": "AI 거품론에 발목 잡힌 오픈AI…기업가치·자금 조달 목표 모두 낮췄다 - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMX29FbWFsSThnSTM0M25yWi1xaGNoc1dBR09RZGxTOHpDSElMNDZxakU3WU8xVzdoR01kUkQ1NmIwYm44ZXplSkFQMkl5TkR1WEFfdjdkLTItelNfenN5dHI3TUVDa2tJ0gFuQVVfeXFMTllTWGdZNjJVakxrR2tLMXBGamVPQzMwV2xaalRQM1NmZVQ3WEpLSDFHLTJKY2N6d0lFS013OFU3cTJMSWtWeUxuRzZTLW10ZmItU0xuaVFQZWl5T2VMN1ZaejNRbG05YU16WHZiUXc?oc=5",
+          "source": "머니투데이",
+          "published": "10-31 13:45",
+          "snippet": "AI 거품론에 발목 잡힌 오픈AI…기업가치·자금 조달 목표 모두 낮췄다 - 머니투데이 머니투데이"
+        }
+      ]
+    },
+    "queries": {
+      "코스피 급락": [
+        "코스피 급락 이유",
+        "코스피 급락 주",
+        "코스피 급락 디시",
+        "코스피 급락 순위",
+        "코스피 급락 이유 디시",
+        "코스피 급락 나무위키",
+        "코스피 급락 전망",
+        "코스피 왜 급락"
+      ],
+      "원달러 환율": [
+        "원달러 환율 전망",
+        "원달러 환율 차트",
+        "원달러 환율 그래프 30 년",
+        "원달러 환율 그래프 10 년",
+        "원달러 환율 그래프",
+        "원달러 환율 장기 전망",
+        "원달러 환율 실시간",
+        "원달러 환율 추이",
+        "원달러 환율 하락 이유",
+        "원달러 환율 뜻"
+      ],
+      "AI 거품론": [
+        "ai 거품론",
+        "ai 거품론 나무위키",
+        "ai 거품론 디시",
+        "ai 거품론 반도체",
+        "ai 거품론 이란",
+        "ai 거품론 뜻",
+        "ai 거품론 닷컴 버블",
+        "ai 거품론 이유",
+        "ai 거품론 의 실체",
+        "ai 거품론 근거"
+      ]
+    },
+    "newsletter_md": "# 📈 오늘의 경제 뉴스레터\n_2026-10-31 이슈 · 발행 2026-11-01_\n\n**오늘의 키워드:** `코스피 급락` · `원달러 환율` · `AI 거품론`\n\n---\n\n## 1. 미 빅테크 쇼크에 코스피 3%대 급락, 시장 흔들\n> 키워드: 코스피 급락\n\n**📌 무슨 일이 있었나**\n- 코스피가 3.48% 급락하며 매도 사이드카가 발동됐습니다.\n- 미국 빅테크 부진과 AI 거품 우려로 반도체주가 직격탄을 맞았습니다.\n- 외국인이 삼성전자와 SK하이닉스 주식을 1.6조 원 어치 매도했습니다.\n- 삼성전자는 6%대, SK하이닉스는 8%대 하락했습니다.\n\n**🧭 왜 중요할까**\n미국 대형 기술 기업들의 실적 부진이 국내 대표 반도체 기업 주가에 큰 충격을 주어 투자 심리가 급격히 냉각되었기 때문입니다.\n\n**💬 독자들이 궁금해하는 것**\n- **Q. 이번에 코스피가 갑자기 크게 떨어진 진짜 이유가 무엇인가요?**\n  A. 아마존, 인텔, 알파벳 등 미국 주요 빅테크 기업들의 부진한 실적 발표로 미국 증시가 급락했기 때문입니다. 이 여파로 AI 거품 우려가 커지면서 외국인이 국내 반도체 주식을 대량 매도해 코스피 전체가 폭락했습니다.\n- **Q. 증시가 이렇게 급락하면 주식을 안 하는 일반인에게도 영향이 있나요?**\n  A. 직접 주식을 하지 않더라도 변액보험이나 퇴직연금 펀드 등의 자산 가치가 감소할 수 있습니다. 또한 증시 불안이 장기화하면 소비 심리가 위축되고 기업들의 투자가 줄어들어 전반적인 경기 침체로 이어질 수 있습니다.\n- **Q. 주식 시장의 급격한 변동성을 마주했을 때 어떻게 대응해야 하나요?**\n  A. 공포감에 휩싸여 충동적으로 자산을 매도하기보다는 시장 충격을 유발한 악재의 장기화 여부를 관망할 필요가 있습니다. 당분간 미국 기술주 실적과 외환 시장 흐름을 차분하게 모니터링하는 것이 안전합니다.\n\n**👀 앞으로 볼 포인트**\n- 다음 주 개장 후 외국인 매도세의 지속 여부\n- 미국 반도체 지수 및 주요 빅테크 기업 주가 추이\n- 미국과 이란 간 전쟁 위기 등 글로벌 지정학적 리스크\n\n<sub>참고: [AI타임스](https://news.google.com/rss/articles/CBMiakFVX3lxTE4tNHVDcl81R05nWnppTGxidG54SmV0T2FkWWd1dVpQLWdxdklJUWgtaXlNSTdwNno3NVlRdkJ5Um1haGlHWFpienlzLWN4alNNZ3BXZnpTeGNUdTQ2VHNKNnZzQlFiVVNRelE?oc=5) / [지이코노미](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13Y1BRZU9Hb3pfWmZpcEVYeWhWNEpUVlE2Z2F0LXJaeDNGRldRTTc1Y2Y1RG5VUkJsamhHb3hpUENoMFNsU21iWEhqdmswckZkMzlJUVBBQTlCVzZIY2wxbmFPYkRwYzA?oc=5) / [조선일보](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdXJsM2xucERaUVRXSnBFODNURV9EY0Q3RkpOZ1ltdUJVUUpTSl9mNkx4eG1BdC1fSkNwU2ZEY3hQMnpSRVVBSlQ1bm9mSUJzbGM4VWs2S293aW9JdFA4aXZ4M01pR0NHT3NmNHYzbThVUzczZ1FtUHN3bWVqNUh0eFlTN3pkSXNhRm93?oc=5)</sub>\n\n---\n\n## 2. 1,330원대로 떨어진 환율, 내 실생활 영향은?\n> 키워드: 원달러 환율\n\n**📌 무슨 일이 있었나**\n- 원/달러 환율이 달러인덱스 하락 영향으로 1,334.3원에 마감했습니다.\n- 미국 기술주 조정으로 환율의 1,320원대 재진입 가능성이 제기됩니다.\n- 한국은행의 외환거래액이 1,220억 달러로 역대 최대를 기록했습니다.\n\n**🧭 왜 중요할까**\n환율 하락은 해외 직구나 여행 비용 부담을 줄여주지만, 대출 금리 상승과 맞물려 가계 금융 상태에 복합적인 영향을 미칩니다.\n\n**💬 독자들이 궁금해하는 것**\n- **Q. 환율이 떨어진다는 게 정확히 무슨 뜻이고 왜 내려가는 건가요?**\n  A. 환율 하락은 원화 가치가 올라가 상대적으로 달러 가치가 낮아졌음을 뜻합니다. 최근 미국 기술주 조정과 달러인덱스 약세로 달러 선호 현상이 줄어들면서 환율이 하락 압력을 받았습니다.\n- **Q. 환율 하락이 제 주머니 사정에는 어떤 구체적인 이득이 되나요?**\n  A. 해외여행을 가거나 해외 직구 사이트에서 상품을 살 때 지불하는 원화 금액이 줄어듭니다. 또한 원자재 수입 단가가 낮아져 물가 안정에도 긍정적인 영향을 줄 수 있습니다.\n- **Q. 환율이 더 내려갈 것 같은데 달러를 미리 바꿔두는 것이 좋을까요?**\n  A. 환율은 글로벌 경제 상황과 금리 방향에 따라 변동성이 매우 큽니다. 단순 시세 차익을 노린 투자보다는 실수요 목적에 맞춰 분할 환전하는 방식으로 위험을 분산하는 것이 좋습니다.\n\n**👀 앞으로 볼 포인트**\n- 환율의 1,320원대 재진입 여부 및 주간 변동 폭\n- 미국 달러인덱스 변화와 기술주 조정 흐름\n- 환전 및 외환 거래 시 발생하는 숨은 수수료 부담\n\n<sub>참고: [조선일보](https://news.google.com/rss/articles/CBMijgFBVV95cUxQSVlsbVQwRE8xSlI4bHI3Nm1BM2ZBa19yLTRFMFJobzlxMllaMlhrTHdVYjQyT2xYQ1lOdkVvYmJvS3JRZU5razB0akRDQVEyNE1JbVdLUUdUUnp1ZWxrc2JUZUtzY0RfWnF5OU51RjRWaDBrc1dxeE1LWEZhNTdMZUJ3bDRpejRXSVhTRDZ3?oc=5) / [영남일보](https://news.google.com/rss/articles/CBMia0FVX3lxTFBrT0RMZjlrenQxNnJZUF8tQW9reUtpc2FVYUZBUDJOYXI2YVdERWtoWWtjdmMwRGd2LV9ub1dpRmhoYzJhZEIycUZENGlXTjdMSnR0UzZkWXNrQk95WUZiaFRHenpPY204WWI4?oc=5) / [굿모닝경제](https://news.google.com/rss/articles/CBMibEFVX3lxTE05bjF0dlU3RlNnM2NsNnRNVS1sb3h1cDBXdGZaaUNRTnRDLVFtZ2t6SHpWc1dieGpPNW9CcDIwXzBqTWVYVzZQdXlXSkRIcTlmcjRXRG5yZExqczdBQUM0ajJRZGJ3ZGJMSXBVdQ?oc=5)</sub>\n\n---\n\n## 3. AI 투자 과열이었나? 기술주 흔드는 'AI 거품론'\n> 키워드: AI 거품론\n\n**📌 무슨 일이 있었나**\n- 인텔 주가가 29% 폭락하며 AI 거품 공포가 증시에 확산했습니다.\n- 오픈AI가 자금 조달 목표를 100억 달러 감축하고 기업가치를 낮췄습니다.\n- 삼성전자와 SK하이닉스는 완판 행진을 이어가며 실적 호조를 보였습니다.\n\n**🧭 왜 중요할까**\nAI 산업에 대한 막대한 투자에 비해 실제 수익 창출이 더디다는 지적이 나오면서 글로벌 IT 증시의 변동성을 키우고 있습니다.\n\n**💬 독자들이 궁금해하는 것**\n- **Q. 최근 자주 언급되는 'AI 거품론'이 정확히 어떤 내용인가요?**\n  A. AI 기업들에 쏟아부은 천문학적인 투자금에 비해 실제 번어들이는 수익이 적다는 회의론입니다. 과거 닷컴 버블처럼 기대감만으로 주가가 과도하게 올랐다가 꺼질 수 있다는 경고를 담고 있습니다.\n- **Q. 오픈AI 같은 대표 기업도 AI 거품론의 영향으로 흔들리고 있나요?**\n  A. 네, 막대한 AI 개발 및 운영 비용 대비 수익성 확보가 과제로 뜨면서 오픈AI도 투자 유치 목표액과 목표 기업가치를 하향 조정했습니다. 투자자들이 단순한 기대감보다 확실한 수익 모델을 요구하기 시작했기 때문입니다.\n- **Q. AI 거품론이 퍼지면 국내 반도체 기업들도 큰 타격을 받게 되나요?**\n  A. 국내 반도체 기업들은 견조한 수요로 완판 실적을 내고 있어 당장은 탄탄한 모습을 보입니다. 다만 글로벌 빅테크의 AI 관련 투자가 실제로 줄어든다면 장기적으로 반도체 수요에 영향이 올 수 있어 주시할 필요가 있습니다.\n\n**👀 앞으로 볼 포인트**\n- 오픈AI 등 주요 AI 기업들의 자금 조달 및 실적 추이\n- K-반도체 기업들의 고성능 메모리 완판세 지속 여부\n- AI 거품론의 금융 신용시장 전이 가능성\n\n<sub>참고: [동아일보](https://news.google.com/rss/articles/CBMidkFVX3lxTFA3czdMdnN3WkpFOXA5RVVaeVhYYnVkZVN5VUw4dWtpUkZGTzZrRUFsQXVWU1E0eEpoRHQyWEtHRENFM3k4ckpkQjhWVFRlQ2hRNHhyMVNRakNibUtnSXRHSlNlMG83MGVsRDlJZXlac2dGck9rUHfSAWZBVV95cUxPWG1JUHY3VnI3UHAtQk5vNjRrclA5RGo2SXpISmZTVndVVWFfb2UtZHpCVnNtSFhWbkFSV2huWnlqS3d2S3E3YmFVVGwyNkFITWhLcVByQWI0RmNiVXd0UDROd0NHNWc?oc=5) / [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6bVhrbWV2Q24zMlJHTGhWbWRsUzZfbmVrRE1UQUJhaklXc3hfVDF1X1FlZTlvblAycFhkTGRseWdsV1hWMjRiSTBYNlZ1ajNzU0hjQlRZa0V5YWc?oc=5) / [뉴시안](https://news.google.com/rss/articles/CBMibEFVX3lxTFBrcmFPRHJFWVZUR20zTnhPVVc2MmlfS05ORDRXLXF4d2lIN3FoWjRoUVM2bE5mQVRuNzNPLXpWd19YV1ViU3BaVktBNVJ0M3NxSHlhSTZLb3JsTVJDdmpDRzlReGlCWUt0UDJndA?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 제목을 바탕으로 작성했으며 투자 권유가 아닙니다._",
+    "generation_mode": "gemini"
+  },
+  "week": {
+    "period_label": "2026년 10월 26일 (월) ~ 2026년 11월 1일 (일) (7일간)",
+    "start_date": "2026-10-26",
+    "end_date": "2026-11-01",
+    "keywords": [
+      "원달러 환율",
+      "코스피 6000선",
+      "AI 투자"
+    ],
+    "results": {
+      "원달러 환율": {
+        "headline": "원달러 환율 시장 핵심 이슈 점검",
+        "facts": [
+          "원/달러 환율, 수출기업 달러 매도에 소폭 하락 - 연합뉴스",
+          "’1,310원대 근접’ 원·달러 환율…명목실효환율 2년 만에 최고 - 연합뉴스TV",
+          "원·달러 환율, 14원 오른 1337.7원 - Chosunbiz"
+        ],
+        "why": "원달러 환율 변동은 개인 자산 관리와 금융 시장 전반에 직접적인 영향을 미칩니다.",
+        "watch": [
+          "원달러 환율 관련 정부 및 중앙은행 발표",
+          "글로벌 시장 거시 지표 변화"
+        ],
+        "qna": [
+          {
+            "q": "원달러 환율 이슈가 개인에게 미치는 실질적인 영향은?",
+            "a": "금리와 환율, 투자 자산 가치에 시차를 두고 반영되므로 포트폴리오 점검이 필요합니다."
+          },
+          {
+            "q": "앞으로 시장에서 가장 주목할 관전 포인트는?",
+            "a": "공식 정책 지표와 주요 기업 실적 발표에 따라 단기 변동성이 결정될 수 있습니다."
+          },
+          {
+            "q": "초보 투자자가 지금 주의해야 할 행동은?",
+            "a": "과도한 레버리지를 피하고 분할 접근 관점을 유지하는 것이 바람직합니다."
+          }
+        ]
+      },
+      "코스피 6000선": {
+        "headline": "코스피 6000선 시장 핵심 이슈 점검",
+        "facts": [
+          "반도체 급등에 코스피 6,000선 돌파 - 연합뉴스TV",
+          "\"메모리 부족 2030년까지\"… 삼전닉스 급등에 코스피 6000선 회복 - 조선일보",
+          "[마감시황] 코스피 6000선 탈환…'삼전닉스' 급등에 6.63% 상승 - 뉴스핌"
+        ],
+        "why": "코스피 6000선 변동은 개인 자산 관리와 금융 시장 전반에 직접적인 영향을 미칩니다.",
+        "watch": [
+          "코스피 6000선 관련 정부 및 중앙은행 발표",
+          "글로벌 시장 거시 지표 변화"
+        ],
+        "qna": [
+          {
+            "q": "코스피 6000선 이슈가 개인에게 미치는 실질적인 영향은?",
+            "a": "금리와 환율, 투자 자산 가치에 시차를 두고 반영되므로 포트폴리오 점검이 필요합니다."
+          },
+          {
+            "q": "앞으로 시장에서 가장 주목할 관전 포인트는?",
+            "a": "공식 정책 지표와 주요 기업 실적 발표에 따라 단기 변동성이 결정될 수 있습니다."
+          },
+          {
+            "q": "초보 투자자가 지금 주의해야 할 행동은?",
+            "a": "과도한 레버리지를 피하고 분할 접근 관점을 유지하는 것이 바람직합니다."
+          }
+        ]
+      },
+      "AI 투자": {
+        "headline": "AI 투자 시장 핵심 이슈 점검",
+        "facts": [
+          "앤트로픽 나스닥 상장 돌입…AI투자 시험대 - 연합뉴스TV",
+          "문턱 높아진 AI 투자…오픈AI, 유치 목표액 절반도 못 채워 - 연합뉴스",
+          "마이크로소프트, AI 투자 확대 속 또 희망퇴직…대상자 6만명 - 연합인포맥스"
+        ],
+        "why": "AI 투자 변동은 개인 자산 관리와 금융 시장 전반에 직접적인 영향을 미칩니다.",
+        "watch": [
+          "AI 투자 관련 정부 및 중앙은행 발표",
+          "글로벌 시장 거시 지표 변화"
+        ],
+        "qna": [
+          {
+            "q": "AI 투자 이슈가 개인에게 미치는 실질적인 영향은?",
+            "a": "금리와 환율, 투자 자산 가치에 시차를 두고 반영되므로 포트폴리오 점검이 필요합니다."
+          },
+          {
+            "q": "앞으로 시장에서 가장 주목할 관전 포인트는?",
+            "a": "공식 정책 지표와 주요 기업 실적 발표에 따라 단기 변동성이 결정될 수 있습니다."
+          },
+          {
+            "q": "초보 투자자가 지금 주의해야 할 행동은?",
+            "a": "과도한 레버리지를 피하고 분할 접근 관점을 유지하는 것이 바람직합니다."
+          }
+        ]
+      }
+    },
+    "news": {
+      "원달러 환율": [
+        {
+          "title": "원/달러 환율, 수출기업 달러 매도에 소폭 하락 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MQW5FUXNINUFjTXo2QldZTm0weF84WUNpU2ZqdmhidWNhOGVWQnF4c1l2MVpkMkJzenFiYm0zWjdacFpVNFZNUHl1SDBXN2R5QkJSbGtYZ1RlZnPSAWBBVV95cUxORldxY3dHOUQ1aU5GQllUV2NjSl81VEMyeXdnYW9ZOGJTTkhqSVE2UmJRWVZYUl8yRlZ4YnZiU3hHZHdCb2t3OEdFTmNBYzEyd0Qzb1EwVWFoM3RKTHFJUEM?oc=5",
+          "source": "연합뉴스",
+          "published": "10-30 16:50",
+          "snippet": "원/달러 환율, 수출기업 달러 매도에 소폭 하락 연합뉴스"
+        },
+        {
+          "title": "’1,310원대 근접’ 원·달러 환율…명목실효환율 2년 만에 최고 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93M1h6SUhDYnRsN0dpNFRkQU5hOEI1Zzc2MXVwbnlWQkdpS0dPTTJiQTlBU3pJQXRXWGlqQjFVMk1tM2RJR0NWc2U1S1VtZVJhalBKMUlZSEJoR2pkOUg4eDdkS2JMdHM?oc=5",
+          "source": "연합뉴스TV",
+          "published": "10-26 21:03",
+          "snippet": "’1,310원대 근접’ 원·달러 환율…명목실효환율 2년 만에 최고 연합뉴스TV"
+        },
+        {
+          "title": "원·달러 환율, 14원 오른 1337.7원 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONk5MMVp4N19Bc3haY1R6emotaVpmbGhIb2ViRXBTUVc0eG9mNmZhV1FuSGtOM1FKVGJNUHNQT3NlLTNGUVRFZWZzNVllWXAySzlGSmQwYlB3RHZ1VzlSOXlyMklMazhBQkxuamtBalFTcHhIOWZQZHJLR210UkMwVlJjVGNvUdIBmgFBVV95cUxNQ3lLcFVEbmNPQzlmdjVzSlBablJvYVh1MWhqNVJwZ1FxZHlUeGxKdnZRcm5EWkhNcmtNTXNnZ2xJUmJ4Z3J2NVoyN2FCRGtFazBnSFR4MlExXy1GVVN6NFd0LUdFd3ZZdlgxcGx0ckYxMzJuWXNRX1E3QWZvOXgxVE5ZNDdvQmNMYi1oNlVRQ29TeHBXdGZFUVFR?oc=5",
+          "source": "Chosunbiz",
+          "published": "10-28 16:05",
+          "snippet": "원·달러 환율, 14원 오른 1337.7원 Chosunbiz"
+        },
+        {
+          "title": "[환율 전망] 주가와 환율의 기묘한 동행 - KB Think",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00VHFBYTdjNFh2SU1Pajh5QXlvUTdudTVJV3lsZFlidlVDWWNwRW1PeUdrUldEVnJjZ25lOWJLVndTTC1kXzMtaER5VlBHYmgyRU9aMTJWb1lBLTI2X0twZQ?oc=5",
+          "source": "KB Think",
+          "published": "10-29 08:07",
+          "snippet": "[환율 전망] 주가와 환율의 기묘한 동행 KB Think"
+        },
+        {
+          "title": "의외의 곳에서 방향이 바뀐다 원·달러 환율은 다시 오를 겁니다 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4dldHendCNFFnS3MzWFRON3JtYldKQkpkRFkxeHk0N2VTT1hFUHdRbzFzWEIxUGpZN1pvTWtoa3k3RVRkV1pVS19ELVhpTDVuNFpQQVdnSWpKOW9zbTVOdXdIbzdESHNmTHhheklQV27SAXRBVV95cUxNdHUxVFVZWDNrN3FackxqNE53Z0JsWnlxSXJ6ZVQxU1VMQjhGMktEclE4djJZQlkwQjRRQ0FXQWxlRzNSUVBzbW5kWG5ZLXNwa3FFZUVKeW51SjR4RW40Ym1IRDNQTmI1OGVvRllHbFN5dEo3aA?oc=5",
+          "source": "연합인포맥스",
+          "published": "10-26 08:49",
+          "snippet": "의외의 곳에서 방향이 바뀐다 원·달러 환율은 다시 오를 겁니다 연합인포맥스"
+        },
+        {
+          "title": "원/달러 환율 하락에…명목실효환율 2년 만에 최고 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wVW5JTklQbUlmaEJWRXFJV2VnNnc0cVN3YmtNNVRIYUFTN2tZM0QxT0daLWV4Qm1rQXc0XzhDZWlFQnRvNHJpdy1tV2lNaTlPaEFqQ2NRWDJnM1Q4TXJWbi1SS0RPbUU?oc=5",
+          "source": "연합뉴스TV",
+          "published": "10-26 10:02",
+          "snippet": "원/달러 환율 하락에…명목실효환율 2년 만에 최고 연합뉴스TV"
+        }
+      ],
+      "코스피 6000선": [
+        {
+          "title": "반도체 급등에 코스피 6,000선 돌파 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SZHJkVFNMZjc5T3VXMHlMSlhOYWRWWGowQnkzNFh6a2d3OGlFd1hUNEVGTXNiNzBzdElDSTRBc2JjcExlenF2bTdfaExMVEhkcDlVX3gyY09VU0FzVDhzblU5eVRyVVk?oc=5",
+          "source": "연합뉴스TV",
+          "published": "10-28 17:51",
+          "snippet": "반도체 급등에 코스피 6,000선 돌파 연합뉴스TV"
+        },
+        {
+          "title": "\"메모리 부족 2030년까지\"… 삼전닉스 급등에 코스피 6000선 회복 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPem9JRVRaOEZyaUJ1Y0M4Umh5TU43ZWYyaFRfMHN2SlVSQUhYdk5XSjVCYlFwY3kxMEM4WWZLSnliWnNOY2E3OHlaQTcxc1ZYbzd3VDdmNnl4SDZQb0RCQzhIU01DQ1pFdXo1Z0w3ajNKU1FielpkYTZOZXdZR1Z2VFFCTXFqSmJrOVZV?oc=5",
+          "source": "조선일보",
+          "published": "10-28 15:51",
+          "snippet": "\"메모리 부족 2030년까지\"… 삼전닉스 급등에 코스피 6000선 회복 조선일보"
+        },
+        {
+          "title": "[마감시황] 코스피 6000선 탈환…'삼전닉스' 급등에 6.63% 상승 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxUkVrZDVtb3ROcVkyeXQ2UHZGRHZJcHcycmZ5eGwwWm5raDkzOUpiejloZkgyZ3FMaHFQSkI5dVNXMXR0aHBkYi1mZGw3aFRkMm1rU2dmVXJibFJa?oc=5",
+          "source": "뉴스핌",
+          "published": "10-28 16:02",
+          "snippet": "[마감시황] 코스피 6000선 탈환…'삼전닉스' 급등에 6.63% 상승 뉴스핌"
+        },
+        {
+          "title": "'삼전닉스' 폭등에 코스피 6000선 탈환…6.63% 급등 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wYXN1NFJXSUJrTU45RWNDTE1TQkptNXN0eVdlcjdFMGk3bDZtM0xvU0pyTklfTzRVdnFwSFY4MUFTQnY3T2hWdTR2TjBDR29PYXZzSU9lZHA4Zw?oc=5",
+          "source": "한국경제",
+          "published": "10-28 15:43",
+          "snippet": "'삼전닉스' 폭등에 코스피 6000선 탈환…6.63% 급등 한국경제"
+        },
+        {
+          "title": "코스피 6% 급등, 장중 6000선 회복…하이닉스 9%↑ - 경북매일",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Sc0dCZTZTa3A2X21ub1F6QndkNmhET2Y2M05kWG5LZlRmQkxsQ1lVcS12cUZWZWZZRmFNRlNRREgxQzV1cVFlYzdQdHByeFBSNFBrbmI5cVAtdw?oc=5",
+          "source": "경북매일",
+          "published": "10-28 11:17",
+          "snippet": "코스피 6% 급등, 장중 6000선 회복…하이닉스 9%↑ 경북매일"
+        },
+        {
+          "title": "코스피, 6000선 내줬다…삼성전자 주주환원 실망에 하락 - 팍스경제TV",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIZHdPM2Nid0pTUGZGRF9XR0dPSk40dXFxSno0TlZrZi1peVpWX0liQnhKYWxtOXBqWmpEZll1TVpmeElvSGZHQ3RaSDFuVWJxU0FnMDNZMmdqVXplSDRxMGxKY3R6bTlz?oc=5",
+          "source": "팍스경제TV",
+          "published": "10-29 19:03",
+          "snippet": "코스피, 6000선 내줬다…삼성전자 주주환원 실망에 하락 팍스경제TV"
+        }
+      ],
+      "AI 투자": [
+        {
+          "title": "앤트로픽 나스닥 상장 돌입…AI투자 시험대 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0U0ZoLWFQanNOZFIydHNJQjE3VzVFSVJyTlpvZUFhMXMxN2xsTHl6UVhfUEZyVk1BVkpBSGxZZUJpYWhMRGR4SEo4aE1TeDlLZEFzMWt6YmxadlZxTXU3bDlMeUJkdEU?oc=5",
+          "source": "연합뉴스TV",
+          "published": "10-28 05:10",
+          "snippet": "앤트로픽 나스닥 상장 돌입…AI투자 시험대 연합뉴스TV"
+        },
+        {
+          "title": "문턱 높아진 AI 투자…오픈AI, 유치 목표액 절반도 못 채워 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iYU8tR2ZHZmxTaXhCVU5PU1pFMlBLUVNEQkNRelhZak1fMXlnd2pDNVJHV1Ayd2JFd0tFYmZoLWpZUkF2STlNZHdYeEZ6a3o2dlF6N2JpbkNSQWvSAWBBVV95cUxONzk2T1R2dlVocGhwN0R5Z01IVVBMdXNzdE1qVGNaUS1YUjRjTUJOcl9DQi1BVmFrOFdXOUxTTUF6RFlwbjE5dTNNR2VlajZHaG9JUS13bkVLSF9ucW5xelc?oc=5",
+          "source": "연합뉴스",
+          "published": "11-01 07:01",
+          "snippet": "문턱 높아진 AI 투자…오픈AI, 유치 목표액 절반도 못 채워 연합뉴스"
+        },
+        {
+          "title": "마이크로소프트, AI 투자 확대 속 또 희망퇴직…대상자 6만명 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hbjk3U09rbVo3bkI4Rk9DS0dJbUkwc3RXcHBtVjNDYm5LMjFhYzgycDltbjZtajJOelMydTd0d211cE1mTm8zZTNXV3lUdHBCREgzSG1zNmRCVDhRTU9DNS0ycFB4SGFJRnpXTUh5c3Q?oc=5",
+          "source": "연합인포맥스",
+          "published": "10-27 04:47",
+          "snippet": "마이크로소프트, AI 투자 확대 속 또 희망퇴직…대상자 6만명 연합인포맥스"
+        },
+        {
+          "title": "미 AI 투자 우려에 반도체주 '휘청'...코스피 또 급락 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sRUlaVktneUh1ZzVhamNiNGNhMVMtc0NmSV9HV0QzRzhmQXcyR2twd0cxQk5rRldUQWNGTmZhbXBWV1c4TXVSTFpyakhTR3JndnpoS21GZ3d2MnhkZFI2d1FTb3JueVVyWnR4UUNCQQ?oc=5",
+          "source": "YTN",
+          "published": "10-30 23:05",
+          "snippet": "미 AI 투자 우려에 반도체주 '휘청'...코스피 또 급락 YTN"
+        },
+        {
+          "title": "'가치 1700조' 오픈AI, 40조도 못 모았다…\"투자심리 악화\" - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02bF9FM3ZDUGwxZWg1b2ZxU0xrNDdqWV9aR0I3SnE4SlJldjVyZGRPdVdXb2g4R0R6Rl9qY0EzTkRXbEpENjY1b00tUWY4c3NOTEVKcVY4QnFGMWRBMFhrazVUZ0huTDRS0gFuQVVfeXFMTUNaWjgwTlM0azlsOUw1YVBLdjBpNXJlaTBYb0VRYkZEMEhKaTNsMXdZZzFnVkdRWmkxR3pHTHgxX1RwbTZGSDhSeEhac0hxVUpITGU5WnRiR1g3di1lc3oyTXZxSmxqQjgtalQzTkE?oc=5",
+          "source": "머니투데이",
+          "published": "10-31 20:53",
+          "snippet": "'가치 1700조' 오픈AI, 40조도 못 모았다…\"투자심리 악화\" - 머니투데이 머니투데이"
+        },
+        {
+          "title": "뉴욕증시, AI 투자 우려에 일제히 하락…인텔 28% 급락 - 전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE84RW5jOWJiTXFqU1V4ZlJ1YmpRcjdXTzlDOENfUGpGSnl5SU1NS0V1ZHU2OWg5eHpzVjRtQVJwcXFMWF9YdUxwTHFVdWFRQQ?oc=5",
+          "source": "전자신문",
+          "published": "10-31 13:31",
+          "snippet": "뉴욕증시, AI 투자 우려에 일제히 하락…인텔 28% 급락 전자신문"
+        }
+      ]
+    },
+    "queries": {
+      "원달러 환율": [
+        "원달러 환율 전망",
+        "원달러 환율 차트",
+        "원달러 환율 그래프 30 년",
+        "원달러 환율 그래프 10 년",
+        "원달러 환율 그래프",
+        "원달러 환율 장기 전망",
+        "원달러 환율 실시간",
+        "원달러 환율 추이",
+        "원달러 환율 하락 이유",
+        "원달러 환율 뜻"
+      ],
+      "코스피 6000선": [
+        "코스피 6000선 붕괴"
+      ],
+      "AI 투자": [
+        "ai 투자 우려",
+        "ai 투자",
+        "ai 투자 후기 디시",
+        "ai 투자 프롬프트",
+        "ai 투자 디시",
+        "ai 투자 프로그램",
+        "ai 투자대회",
+        "ai 투자 앱",
+        "ai 투자 수익률",
+        "ai 투자 축소"
+      ]
+    },
+    "newsletter_md": "# 📈 오늘의 경제 뉴스레터\n_2026-10-26 ~ 2026-11-01 이슈 · 발행 2026-11-01_\n\n**오늘의 키워드:** `원달러 환율` · `코스피 6000선` · `AI 투자`\n\n---\n\n## 1. 원달러 환율 시장 핵심 이슈 점검\n> 키워드: 원달러 환율\n\n**📌 무슨 일이 있었나**\n- 원/달러 환율, 수출기업 달러 매도에 소폭 하락 - 연합뉴스\n- ’1,310원대 근접’ 원·달러 환율…명목실효환율 2년 만에 최고 - 연합뉴스TV\n- 원·달러 환율, 14원 오른 1337.7원 - Chosunbiz\n\n**🧭 왜 중요할까**\n원달러 환율 변동은 개인 자산 관리와 금융 시장 전반에 직접적인 영향을 미칩니다.\n\n**💬 독자들이 궁금해하는 것**\n- **Q. 원달러 환율 이슈가 개인에게 미치는 실질적인 영향은?**\n  A. 금리와 환율, 투자 자산 가치에 시차를 두고 반영되므로 포트폴리오 점검이 필요합니다.\n- **Q. 앞으로 시장에서 가장 주목할 관전 포인트는?**\n  A. 공식 정책 지표와 주요 기업 실적 발표에 따라 단기 변동성이 결정될 수 있습니다.\n- **Q. 초보 투자자가 지금 주의해야 할 행동은?**\n  A. 과도한 레버리지를 피하고 분할 접근 관점을 유지하는 것이 바람직합니다.\n\n**👀 앞으로 볼 포인트**\n- 원달러 환율 관련 정부 및 중앙은행 발표\n- 글로벌 시장 거시 지표 변화\n\n<sub>참고: [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MQW5FUXNINUFjTXo2QldZTm0weF84WUNpU2ZqdmhidWNhOGVWQnF4c1l2MVpkMkJzenFiYm0zWjdacFpVNFZNUHl1SDBXN2R5QkJSbGtYZ1RlZnPSAWBBVV95cUxORldxY3dHOUQ1aU5GQllUV2NjSl81VEMyeXdnYW9ZOGJTTkhqSVE2UmJRWVZYUl8yRlZ4YnZiU3hHZHdCb2t3OEdFTmNBYzEyd0Qzb1EwVWFoM3RKTHFJUEM?oc=5) / [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93M1h6SUhDYnRsN0dpNFRkQU5hOEI1Zzc2MXVwbnlWQkdpS0dPTTJiQTlBU3pJQXRXWGlqQjFVMk1tM2RJR0NWc2U1S1VtZVJhalBKMUlZSEJoR2pkOUg4eDdkS2JMdHM?oc=5) / [Chosunbiz](https://news.google.com/rss/articles/CBMihgFBVV95cUxONk5MMVp4N19Bc3haY1R6emotaVpmbGhIb2ViRXBTUVc0eG9mNmZhV1FuSGtOM1FKVGJNUHNQT3NlLTNGUVRFZWZzNVllWXAySzlGSmQwYlB3RHZ1VzlSOXlyMklMazhBQkxuamtBalFTcHhIOWZQZHJLR210UkMwVlJjVGNvUdIBmgFBVV95cUxNQ3lLcFVEbmNPQzlmdjVzSlBablJvYVh1MWhqNVJwZ1FxZHlUeGxKdnZRcm5EWkhNcmtNTXNnZ2xJUmJ4Z3J2NVoyN2FCRGtFazBnSFR4MlExXy1GVVN6NFd0LUdFd3ZZdlgxcGx0ckYxMzJuWXNRX1E3QWZvOXgxVE5ZNDdvQmNMYi1oNlVRQ29TeHBXdGZFUVFR?oc=5)</sub>\n\n---\n\n## 2. 코스피 6000선 시장 핵심 이슈 점검\n> 키워드: 코스피 6000선\n\n**📌 무슨 일이 있었나**\n- 반도체 급등에 코스피 6,000선 돌파 - 연합뉴스TV\n- \"메모리 부족 2030년까지\"… 삼전닉스 급등에 코스피 6000선 회복 - 조선일보\n- [마감시황] 코스피 6000선 탈환…'삼전닉스' 급등에 6.63% 상승 - 뉴스핌\n\n**🧭 왜 중요할까**\n코스피 6000선 변동은 개인 자산 관리와 금융 시장 전반에 직접적인 영향을 미칩니다.\n\n**💬 독자들이 궁금해하는 것**\n- **Q. 코스피 6000선 이슈가 개인에게 미치는 실질적인 영향은?**\n  A. 금리와 환율, 투자 자산 가치에 시차를 두고 반영되므로 포트폴리오 점검이 필요합니다.\n- **Q. 앞으로 시장에서 가장 주목할 관전 포인트는?**\n  A. 공식 정책 지표와 주요 기업 실적 발표에 따라 단기 변동성이 결정될 수 있습니다.\n- **Q. 초보 투자자가 지금 주의해야 할 행동은?**\n  A. 과도한 레버리지를 피하고 분할 접근 관점을 유지하는 것이 바람직합니다.\n\n**👀 앞으로 볼 포인트**\n- 코스피 6000선 관련 정부 및 중앙은행 발표\n- 글로벌 시장 거시 지표 변화\n\n<sub>참고: [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SZHJkVFNMZjc5T3VXMHlMSlhOYWRWWGowQnkzNFh6a2d3OGlFd1hUNEVGTXNiNzBzdElDSTRBc2JjcExlenF2bTdfaExMVEhkcDlVX3gyY09VU0FzVDhzblU5eVRyVVk?oc=5) / [조선일보](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPem9JRVRaOEZyaUJ1Y0M4Umh5TU43ZWYyaFRfMHN2SlVSQUhYdk5XSjVCYlFwY3kxMEM4WWZLSnliWnNOY2E3OHlaQTcxc1ZYbzd3VDdmNnl4SDZQb0RCQzhIU01DQ1pFdXo1Z0w3ajNKU1FielpkYTZOZXdZR1Z2VFFCTXFqSmJrOVZV?oc=5) / [뉴스핌](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxUkVrZDVtb3ROcVkyeXQ2UHZGRHZJcHcycmZ5eGwwWm5raDkzOUpiejloZkgyZ3FMaHFQSkI5dVNXMXR0aHBkYi1mZGw3aFRkMm1rU2dmVXJibFJa?oc=5)</sub>\n\n---\n\n## 3. AI 투자 시장 핵심 이슈 점검\n> 키워드: AI 투자\n\n**📌 무슨 일이 있었나**\n- 앤트로픽 나스닥 상장 돌입…AI투자 시험대 - 연합뉴스TV\n- 문턱 높아진 AI 투자…오픈AI, 유치 목표액 절반도 못 채워 - 연합뉴스\n- 마이크로소프트, AI 투자 확대 속 또 희망퇴직…대상자 6만명 - 연합인포맥스\n\n**🧭 왜 중요할까**\nAI 투자 변동은 개인 자산 관리와 금융 시장 전반에 직접적인 영향을 미칩니다.\n\n**💬 독자들이 궁금해하는 것**\n- **Q. AI 투자 이슈가 개인에게 미치는 실질적인 영향은?**\n  A. 금리와 환율, 투자 자산 가치에 시차를 두고 반영되므로 포트폴리오 점검이 필요합니다.\n- **Q. 앞으로 시장에서 가장 주목할 관전 포인트는?**\n  A. 공식 정책 지표와 주요 기업 실적 발표에 따라 단기 변동성이 결정될 수 있습니다.\n- **Q. 초보 투자자가 지금 주의해야 할 행동은?**\n  A. 과도한 레버리지를 피하고 분할 접근 관점을 유지하는 것이 바람직합니다.\n\n**👀 앞으로 볼 포인트**\n- AI 투자 관련 정부 및 중앙은행 발표\n- 글로벌 시장 거시 지표 변화\n\n<sub>참고: [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0U0ZoLWFQanNOZFIydHNJQjE3VzVFSVJyTlpvZUFhMXMxN2xsTHl6UVhfUEZyVk1BVkpBSGxZZUJpYWhMRGR4SEo4aE1TeDlLZEFzMWt6YmxadlZxTXU3bDlMeUJkdEU?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iYU8tR2ZHZmxTaXhCVU5PU1pFMlBLUVNEQkNRelhZak1fMXlnd2pDNVJHV1Ayd2JFd0tFYmZoLWpZUkF2STlNZHdYeEZ6a3o2dlF6N2JpbkNSQWvSAWBBVV95cUxONzk2T1R2dlVocGhwN0R5Z01IVVBMdXNzdE1qVGNaUS1YUjRjTUJOcl9DQi1BVmFrOFdXOUxTTUF6RFlwbjE5dTNNR2VlajZHaG9JUS13bkVLSF9ucW5xelc?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE1hbjk3U09rbVo3bkI4Rk9DS0dJbUkwc3RXcHBtVjNDYm5LMjFhYzgycDltbjZtajJOelMydTd0d211cE1mTm8zZTNXV3lUdHBCREgzSG1zNmRCVDhRTU9DNS0ycFB4SGFJRnpXTUh5c3Q?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 제목을 바탕으로 작성했으며 투자 권유가 아닙니다._",
+    "generation_mode": "gemini"
+  }
+}
