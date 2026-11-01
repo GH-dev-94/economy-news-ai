@@ -126,65 +126,86 @@ def render_period_content(period_key: str, period_data: dict):
         return
 
     period_label = period_data.get("period_label", "")
-    keywords = period_data.get("keywords", [])
-    results = period_data.get("results", {})
-    news = period_data.get("news", {})
     newsletter_md = period_data.get("newsletter_md", "")
 
+    # 국내 / 해외 데이터 분리 여부 확인 (하위 호환 지원)
+    has_dual = "domestic" in period_data and "global" in period_data
+    dom_data = period_data.get("domestic", {})
+    gl_data = period_data.get("global", {})
+    dom_kws = dom_data.get("keywords", [])
+    gl_kws = gl_data.get("keywords", [])
+    legacy_kws = period_data.get("keywords", [])
+
     # 상단 요약 바
-    kw_badges = " ".join([f"`{kw}`" for kw in keywords])
-    st.markdown(f"**기준 기간:** {period_label}  |  **주요 키워드:** {kw_badges}")
+    if has_dual:
+        dom_badges = " ".join([f"`{kw}`" for kw in dom_kws]) or "선정 중"
+        gl_badges = " ".join([f"`{kw}`" for kw in gl_kws]) or "선정 중"
+        st.markdown(f"**기준 기간:** {period_label}")
+        st.markdown(f"🇰🇷 **국내:** {dom_badges} &nbsp;&nbsp;|&nbsp;&nbsp; 🌐 **해외:** {gl_badges}")
+    else:
+        kw_badges = " ".join([f"`{kw}`" for kw in legacy_kws])
+        st.markdown(f"**기준 기간:** {period_label}  |  **주요 키워드:** {kw_badges}")
     st.markdown("---")
 
-    # 각 키워드별 카드 렌더링 (접었다 폈다 할 수 있는 Expander, 기본은 접힘)
-    for idx, kw in enumerate(keywords, 1):
-        item = results.get(kw, {})
-        arts = news.get(kw, [])
-        headline = item.get("headline") or f"{kw} 시장 핵심 이슈"
+    def _render_cards(kws, results, news):
+        for idx, kw in enumerate(kws, 1):
+            item = results.get(kw, {})
+            arts = news.get(kw, [])
+            headline = item.get("headline") or f"{kw} 시장 핵심 이슈"
 
-        with st.expander(f"📌 {idx}. {headline}  ·  키워드: {kw}", expanded=False):
-            # 1. 무슨 일이 있었나 (불릿 요약)
-            st.markdown("#### 📌 무슨 일이 있었나")
-            facts = item.get("facts", [])
-            if isinstance(facts, list):
-                st.markdown("\n".join(f"- {f}" for f in facts))
-            else:
-                st.markdown(f"- {facts}")
-
-            # 3. 독자들이 궁금해하는 것 (Q&A 3선)
-            st.markdown("#### 💬 핵심 Q&A")
-            qna = item.get("qna", [])
-            for q_idx, qa in enumerate(qna, 1):
-                st.markdown(f"**Q{q_idx}. {qa.get('q')}**")
-                st.markdown(f"> **A.** {qa.get('a')}")
-                if q_idx < len(qna):
-                    st.write("")
-
-            # 4. 앞으로 볼 포인트
-            watch = item.get("watch", [])
-            if watch:
-                st.markdown("#### 👀 앞으로 볼 포인트")
-                if isinstance(watch, list):
-                    st.markdown("\n".join(f"- {w}" for w in watch))
+            with st.expander(f"📌 {idx}. {headline}  ·  키워드: {kw}", expanded=False):
+                # 1. 무슨 일이 있었나 (불릿 요약)
+                st.markdown("#### 📌 무슨 일이 있었나")
+                facts = item.get("facts", [])
+                if isinstance(facts, list):
+                    st.markdown("\n".join(f"- {f}" for f in facts))
                 else:
-                    st.markdown(f"- {watch}")
+                    st.markdown(f"- {facts}")
 
-            # 5. 참고 기사 목록 (기본 접힘 - 중첩 expander 불가라 HTML details 사용)
-            if arts:
-                rows = []
-                for a in arts:
-                    pub = f" · {html.escape(a.get('published') or '')}" if a.get('published') else ""
-                    src = f" · {html.escape(a.get('source') or '')}" if a.get('source') else ""
-                    rows.append(f'<li><a href="{html.escape(a.get("link") or "#")}" target="_blank" rel="noopener">{html.escape(a.get("title") or "")}</a>{src}{pub}</li>')
-                st.markdown(
-                    f'<details><summary style="cursor:pointer;font-weight:700;">🔗 관련 주요 기사 원문 ({len(arts)}건)</summary><ul>{"".join(rows)}</ul></details>',
-                    unsafe_allow_html=True)
+                # 2. 독자들이 궁금해하는 것 (Q&A 3선)
+                st.markdown("#### 💬 핵심 Q&A")
+                qna = item.get("qna", [])
+                for q_idx, qa in enumerate(qna, 1):
+                    st.markdown(f"**Q{q_idx}. {qa.get('q')}**")
+                    st.markdown(f"> **A.** {qa.get('a')}")
+                    if q_idx < len(qna):
+                        st.write("")
+
+                # 3. 앞으로 볼 포인트
+                watch = item.get("watch", [])
+                if watch:
+                    st.markdown("#### 👀 앞으로 볼 포인트")
+                    if isinstance(watch, list):
+                        st.markdown("\n".join(f"- {w}" for w in watch))
+                    else:
+                        st.markdown(f"- {watch}")
+
+                # 4. 참고 기사 목록 (기본 접힘 - HTML details 사용)
+                if arts:
+                    rows = []
+                    for a in arts:
+                        pub = f" · {html.escape(a.get('published') or '')}" if a.get('published') else ""
+                        src = f" · {html.escape(a.get('source') or '')}" if a.get('source') else ""
+                        rows.append(f'<li><a href="{html.escape(a.get("link") or "#")}" target="_blank" rel="noopener">{html.escape(a.get("title") or "")}</a>{src}{pub}</li>')
+                    st.markdown(
+                        f'<details><summary style="cursor:pointer;font-weight:700;">🔗 관련 주요 기사 원문 ({len(arts)}건)</summary><ul>{"".join(rows)}</ul></details>',
+                        unsafe_allow_html=True)
+
+    # 본문 카드 렌더링 (국내/해외 서브 탭 분리)
+    if has_dual:
+        subtab_kr, subtab_gl = st.tabs([f"🇰🇷 국내 경제 ({len(dom_kws)})", f"🌐 해외·글로벌 경제 ({len(gl_kws)})"])
+        with subtab_kr:
+            _render_cards(dom_kws, dom_data.get("results", {}), dom_data.get("news", {}))
+        with subtab_gl:
+            _render_cards(gl_kws, gl_data.get("results", {}), gl_data.get("news", {}))
+    else:
+        _render_cards(legacy_kws, period_data.get("results", {}), period_data.get("news", {}))
 
     # 하단 뉴스레터 복사/다운로드 버튼
     if newsletter_md:
         st.write("")
         st.download_button(
-            label="📥 뉴스레터 복사/다운로드 (.md)",
+            label="📥 통합 뉴스레터 복사/다운로드 (.md)",
             data=newsletter_md,
             file_name=f"경제뉴스레터_{period_data.get('start_date', 'data')}.md",
             mime="text/markdown",

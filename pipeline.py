@@ -60,34 +60,76 @@ ECON_TOPICS = {"KR": ["경제", "금리 환율", "증시 코스피", "부동산 
                "US": ["economy markets", "fed rates inflation", "stock market", "housing market", "jobs report"]}
 
 
-def fetch_econ_headlines(country: str = "KR", start: datetime = None, end: datetime = None, limit: int = 60):
-    """Google News 경제 토픽별 헤드라인 (기간 내). 토픽을 나눠 다양한 이슈를 확보."""
-    c = COUNTRY[country]
-    start = start or (datetime.now() - timedelta(days=1)); end = end or datetime.now()
+def fetch_domestic_headlines(start: datetime = None, end: datetime = None, limit: int = 70):
+    """구글 뉴스 한국 공식 경제 톱 헤드라인 및 국내 경제 뉴스 수집."""
+    start = start or (datetime.now() - timedelta(days=1))
+    end = end or datetime.now()
     out, seen = [], set()
-    for topic in ECON_TOPICS[country]:
-        q = topic + f" after:{start - timedelta(days=1):%Y-%m-%d} before:{end + timedelta(days=1):%Y-%m-%d}"
-        url = (f"https://news.google.com/rss/search?q={quote(q)}"
-               f"&hl={c['hl']}&gl={c['gl']}&ceid={c['ceid']}")
-        try:
-            root = _parse_rss(url)
-        except Exception:
-            continue
-        n = 0
+
+    # 1. 구글 뉴스 한국 공식 비즈니스 토픽 헤드라인 (가장 최신 1면 톱기사)
+    official_url = "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=ko&gl=KR&ceid=KR:ko"
+    try:
+        root = _parse_rss(official_url)
         for i in root.iter("item"):
-            try:
-                if not (start.date() <= parsedate_to_datetime(i.findtext("pubDate") or "").astimezone().date() <= end.date()):
-                    continue
-            except Exception:
-                pass
             t = (i.findtext("title") or "").strip()
             if t and t not in seen:
                 seen.add(t)
                 out.append(t)
-                n += 1
-            if n >= 12:
+    except Exception:
+        pass
+
+    # 2. 보조: 기간 검색 (국내 주요 경제 지표/정책/산업)
+    c = COUNTRY["KR"]
+    after = (start - timedelta(days=1)).strftime("%Y-%m-%d")
+    before = (end + timedelta(days=1)).strftime("%Y-%m-%d")
+    q = f"(경제 OR 증시 OR 코스피 OR 한국은행 OR 금리 OR 부동산 OR 반도체) after:{after} before:{before}"
+    search_url = f"https://news.google.com/rss/search?q={quote(q)}&hl={c['hl']}&gl={c['gl']}&ceid={c['ceid']}"
+    try:
+        root = _parse_rss(search_url)
+        for i in root.iter("item"):
+            t = (i.findtext("title") or "").strip()
+            if t and t not in seen:
+                seen.add(t)
+                out.append(t)
+            if len(out) >= limit:
                 break
+    except Exception:
+        pass
+
     return out[:limit]
+
+
+def fetch_global_headlines(start: datetime = None, end: datetime = None, limit: int = 70):
+    """구글 뉴스 글로벌/국제 경제 및 해외 금융시장 톱 헤드라인 수집."""
+    start = start or (datetime.now() - timedelta(days=1))
+    end = end or datetime.now()
+    out, seen = [], set()
+
+    c = COUNTRY["KR"]
+    after = (start - timedelta(days=1)).strftime("%Y-%m-%d")
+    before = (end + timedelta(days=1)).strftime("%Y-%m-%d")
+
+    # 해외 경제 전용 검색 (한국 언론이 보도하는 글로벌 거시/월가/유가/환율/해외빅테크)
+    q = f"(글로벌경제 OR 국제경제 OR 뉴욕증시 OR 미국증시 OR 연준 OR 나스닥 OR 국제유가 OR 달러) after:{after} before:{before}"
+    url = f"https://news.google.com/rss/search?q={quote(q)}&hl={c['hl']}&gl={c['gl']}&ceid={c['ceid']}"
+    try:
+        root = _parse_rss(url)
+        for i in root.iter("item"):
+            t = (i.findtext("title") or "").strip()
+            if t and t not in seen:
+                seen.add(t)
+                out.append(t)
+            if len(out) >= limit:
+                break
+    except Exception:
+        pass
+
+    return out[:limit]
+
+
+def fetch_econ_headlines(country: str = "KR", start: datetime = None, end: datetime = None, limit: int = 60):
+    """기존 호환용: Google News 경제 토픽별 헤드라인 수집."""
+    return fetch_domestic_headlines(start, end, limit)
 
 
 def _gemini(prompt: str, api_key: str, model_override: str = None) -> str:
@@ -198,6 +240,56 @@ def extract_keywords(n: int, country: str, start: datetime, end: datetime, api_k
     info.setdefault("fallback_reason", "nokey" if not api_key else "nodata")
     info["method"] = "규칙 기반(경제 헤드라인 빈출 핵심어)"
     return kws[:n], info
+
+
+def extract_dual_keywords(n_domestic: int = 3, n_global: int = 3, start: datetime = None, end: datetime = None, api_key: str = ""):
+    """국내 경제 헤드라인과 해외 경제 헤드라인을 각각 분석하여 국내 n개, 해외 n개 핵심 키워드 선별.
+    returns (domestic_kws: list[str], global_kws: list[str], info: dict)
+    """
+    start = start or (datetime.now() - timedelta(days=1))
+    end = end or datetime.now()
+    ck = ("dual_kw", n_domestic, n_global, start.date(), end.date())
+    if api_key and cache_get(ck):
+        dom_c, gl_c, info_c = cache_get(ck)
+        return dom_c, gl_c, {**info_c, "cached": True}
+
+    dom_headlines = fetch_domestic_headlines(start, end)
+    gl_headlines = fetch_global_headlines(start, end)
+    info = {"dom_count": len(dom_headlines), "gl_count": len(gl_headlines), "method": ""}
+
+    if api_key and (dom_headlines or gl_headlines):
+        prompt = (
+            f"{period_text(start, end)} 기간의 분야별 경제 뉴스 헤드라인 목록이야.\n\n"
+            f"[🇰🇷 국내 경제 뉴스 헤드라인 ({len(dom_headlines)}건)]\n"
+            + "\n".join(f"- {h}" for h in dom_headlines[:45]) + "\n\n"
+            f"[🌐 해외·글로벌 경제 뉴스 헤드라인 ({len(gl_headlines)}건)]\n"
+            + "\n".join(f"- {h}" for h in gl_headlines[:45]) + "\n\n"
+            f"위 뉴스들을 종합 분석하여, 현재 가장 중요하고 대중 관심과 시장 영향력이 큰 핵심 경제 키워드를 각각 선정해줘.\n"
+            f"- 국내 경제 핵심 키워드 {n_domestic}개: 한국 경제, 한국은행, 국내 부동산/대출, 코스피, 국내 기업 이슈 중심\n"
+            f"- 해외·글로벌 경제 핵심 키워드 {n_global}개: 미국 연준(FOMC), 뉴욕증시(나스닥/S&P), 달러/환율, 국제 유가/원자재, 글로벌 빅테크 등 순수 해외·글로벌 이슈 중심 (국내 이슈와 절대 중복되지 않도록 할 것)\n"
+            f"반드시 각 키워드는 2~12자의 명확한 경제 구절이어야 하며, 아래 JSON 형식으로만 답해:\n"
+            f'{{"domestic": ["국내키워드1", "국내키워드2", "국내키워드3"], "global": ["해외키워드1", "해외키워드2", "해외키워드3"]}}'
+        )
+        try:
+            resp = _extract_json(_gemini(prompt, api_key))
+            dom_kws = [str(k).strip() for k in resp.get("domestic", []) if str(k).strip()][:n_domestic]
+            gl_kws = [str(k).strip() for k in resp.get("global", []) if str(k).strip()][:n_global]
+            if dom_kws and gl_kws:
+                info["mode"] = "gemini"
+                info["method"] = "Gemini AI가 국내/해외 헤드라인 종합 분석 후 선별"
+                cache_put(ck, (dom_kws, gl_kws, info))
+                return dom_kws, gl_kws, info
+        except Exception as e:
+            info["gemini_error"] = str(e)
+            info["fallback_reason"] = "quota" if "429" in str(e) else "error"
+
+    # 폴백: 헤드라인 빈도수 기반 자동 추출
+    dom_kws = _top_econ_terms(dom_headlines, topn=n_domestic)
+    gl_kws = _top_econ_terms(gl_headlines, topn=n_global)
+    info["mode"] = "fallback"
+    info.setdefault("fallback_reason", "nokey" if not api_key else "nodata")
+    info["method"] = "규칙 기반(빈출 핵심어)"
+    return dom_kws[:n_domestic], gl_kws[:n_global], info
 
 
 # -----------------------------------------------------------------------------
@@ -362,23 +454,67 @@ def generate_manuscripts_batch(entries: list, start: datetime, end: datetime, ap
     return out
 
 
-def build_newsletter_md(items: list, start: datetime, end: datetime, today: datetime) -> str:
-    """items: [(keyword, data, articles)] -> 뉴스레터 마크다운 (복사/다운로드용)"""
-    md = [f"# 📈 오늘의 경제 뉴스레터", f"_{period_text(start, end)} 이슈 · 발행 {today:%Y-%m-%d}_", ""]
-    md.append("**오늘의 키워드:** " + " · ".join(f"`{k}`" for k, d, _ in items if "error" not in d))
-    md.append("")
-    for n, (kw, d, arts) in enumerate(items, 1):
+def _format_item_md(idx: int, kw: str, d: dict, arts: list) -> list:
+    lines = ["---", "", f"### {idx}. {d.get('headline') or kw}", f"> 키워드: {kw}", "", "**📌 무슨 일이 있었나**"]
+    lines += [f"- {f}" for f in d.get("facts", [])]
+    lines += ["", "**💬 핵심 Q&A**"]
+    for qa in d.get("qna", []):
+        lines += [f"- **Q. {qa['q']}**", f"  A. {qa['a']}"]
+    if d.get("watch"):
+        lines += ["", "**👀 앞으로 볼 포인트**"] + [f"- {w}" for w in d["watch"]]
+    if arts:
+        lines += ["", "<sub>참고: " + " / ".join(f"[{a.get('source') or '기사'}]({a.get('link') or '#'})" for a in arts[:3]) + "</sub>"]
+    lines.append("")
+    return lines
+
+
+def build_newsletter_md(domestic_items: list, global_items: list = None, start: datetime = None, end: datetime = None, today: datetime = None) -> str:
+    """domestic_items / global_items: [(keyword, data, articles)] -> 뉴스레터 마크다운 (복사/다운로드용)"""
+    today = today or datetime.now()
+    start = start or today
+    end = end or today
+
+    # global_items가 None이면 기존 호환 모드(단일 리스트)
+    if global_items is None:
+        items = domestic_items
+        md = [f"# 📈 오늘의 경제 뉴스레터", f"_{period_text(start, end)} 이슈 · 발행 {today:%Y-%m-%d}_", ""]
+        md.append("**오늘의 키워드:** " + " · ".join(f"`{k}`" for k, d, _ in items if "error" not in d))
+        md.append("")
+        for n, (kw, d, arts) in enumerate(items, 1):
+            if "error" in d:
+                continue
+            md += _format_item_md(n, kw, d, arts)
+        md += ["---", "_본 뉴스레터는 AI가 공개 뉴스 제목을 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._"]
+        return "\n".join(md)
+
+    # 국내 / 해외 분리 모드
+    dom_kws = [k for k, d, _ in domestic_items if "error" not in d]
+    gl_kws = [k for k, d, _ in global_items if "error" not in d]
+
+    md = [
+        "# 📈 오늘의 경제 뉴스레터",
+        f"_{period_text(start, end)} 이슈 · 발행 {today:%Y-%m-%d}_",
+        "",
+        f"🇰🇷 **국내 경제:** " + (" · ".join(f"`{k}`" for k in dom_kws) or "없음"),
+        f"🌐 **해외 경제:** " + (" · ".join(f"`{k}`" for k in gl_kws) or "없음"),
+        "",
+        "## 🇰🇷 국내 경제 핵심 이슈",
+        ""
+    ]
+    for n, (kw, d, arts) in enumerate(domestic_items, 1):
         if "error" in d:
             continue
-        md += ["---", "", f"## {n}. {d.get('headline') or kw}", f"> 키워드: {kw}", "", "**📌 무슨 일이 있었나**"]
-        md += [f"- {f}" for f in d["facts"]]
-        md += ["", "**💬 핵심 Q&A**"]
-        for qa in d["qna"]:
-            md += [f"- **Q. {qa['q']}**", f"  A. {qa['a']}"]
-        if d["watch"]:
-            md += ["", "**👀 앞으로 볼 포인트**"] + [f"- {w}" for w in d["watch"]]
-        if arts:
-            md += ["", "<sub>참고: " + " / ".join(f"[{a['source'] or '기사'}]({a['link']})" for a in arts[:3]) + "</sub>"]
-        md.append("")
-    md += ["---", "_본 뉴스레터는 AI가 공개 뉴스 제목을 바탕으로 작성했으며 투자 권유가 아닙니다._"]
+        md += _format_item_md(n, kw, d, arts)
+
+    md += [
+        "",
+        "## 🌐 해외·글로벌 경제 핵심 이슈",
+        ""
+    ]
+    for n, (kw, d, arts) in enumerate(global_items, 1):
+        if "error" in d:
+            continue
+        md += _format_item_md(n, kw, d, arts)
+
+    md += ["---", "_본 뉴스레터는 AI가 공개 뉴스 제목을 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._"]
     return "\n".join(md)

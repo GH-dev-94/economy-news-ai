@@ -9,6 +9,7 @@ from dotenv import load_dotenv
 
 from pipeline import (
     extract_keywords,
+    extract_dual_keywords,
     fetch_news,
     fetch_search_queries,
     generate_manuscripts_batch,
@@ -40,21 +41,25 @@ def process_period(label_name: str, start_dt: datetime, end_dt: datetime, api_ke
         span = (end_dt.date() - start_dt.date()).days + 1
         period_label = f"{_format_date(start_dt)} ~ {_format_date(end_dt)} ({span}일간)"
 
-    # 1~2단계: 헤드라인 수집 및 키워드 추출
-    print(f"1~2단계: 키워드 추출 중...")
-    keywords, info = extract_keywords(top_n, country, start_dt, end_dt, api_key)
-    print(f"-> 추출된 키워드: {keywords} (방식: {info.get('method')})")
+    # 1~2단계: 국내 및 해외 헤드라인 수집 및 키워드 추출 (국내 3개 + 해외 3개)
+    print(f"1~2단계: 국내 및 해외 키워드 동시 추출 중...")
+    dom_kws, gl_kws, info = extract_dual_keywords(n_domestic=top_n, n_global=top_n, start=start_dt, end=end_dt, api_key=api_key)
+    print(f"-> 🇰🇷 국내 키워드: {dom_kws}")
+    print(f"-> 🌐 해외 키워드: {gl_kws} (방식: {info.get('method')})")
 
-    if not keywords:
-        print("경고: 키워드가 추출되지 않았습니다. 기본 키워드로 대체합니다.")
-        keywords = ["코스피", "기준금리", "환율"][:top_n]
+    if not dom_kws:
+        dom_kws = ["코스피", "기준금리", "부동산"][:top_n]
+    if not gl_kws:
+        gl_kws = ["미국 연준", "뉴욕증시", "국제 유가"][:top_n]
+
+    all_kws = dom_kws + gl_kws
 
     # 3단계: 기사 및 연관 검색어 수집
-    print(f"3~4단계: 뉴스 기사 및 구글 연관 검색어 수집 중...")
+    print(f"3~4단계: 뉴스 기사 및 구글 연관 검색어 수집 중 (총 {len(all_kws)}개)...")
     news = {}
     queries = {}
     entries = []
-    for kw in keywords:
+    for kw in all_kws:
         news[kw] = fetch_news(kw, country, start_dt, end_dt, limit=6)
         queries[kw] = fetch_search_queries(kw, country, max_items=10)
         print(f"  - '{kw}': 기사 {len(news[kw])}건, 연관 검색어 {len(queries[kw])}건")
@@ -64,8 +69,8 @@ def process_period(label_name: str, start_dt: datetime, end_dt: datetime, api_ke
             "queries": queries[kw]
         })
 
-    # 4~5단계: Gemini 뉴스레터 원고 일괄 생성
-    print(f"5단계: Gemini 뉴스레터 원고 생성 중...")
+    # 4~5단계: Gemini 뉴스레터 원고 일괄 생성 (6개 키워드 1회 일괄 요청)
+    print(f"5단계: Gemini 뉴스레터 원고 일괄 생성 중...")
     results = {}
     if api_key:
         try:
@@ -76,7 +81,7 @@ def process_period(label_name: str, start_dt: datetime, end_dt: datetime, api_ke
             traceback.print_exc()
 
     # 결과 폴백 보정 (만약 Gemini가 일부 또는 전체 실패한 경우)
-    for kw in keywords:
+    for kw in all_kws:
         if kw not in results or "error" in results[kw]:
             arts = news.get(kw, [])
             facts = [a["title"] for a in arts[:3]] if arts else [f"{kw} 관련 시장 동향과 정책 발표가 이어지고 있습니다."]
@@ -91,18 +96,31 @@ def process_period(label_name: str, start_dt: datetime, end_dt: datetime, api_ke
                 ]
             }
 
-    # 전체 마크다운 문서 생성
-    items = [(kw, results[kw], news[kw]) for kw in keywords]
-    newsletter_md = build_newsletter_md(items, start_dt, end_dt, datetime.now())
+    # 전체 마크다운 문서 생성 (국내/해외 구분 반영)
+    dom_items = [(kw, results[kw], news[kw]) for kw in dom_kws]
+    gl_items = [(kw, results[kw], news[kw]) for kw in gl_kws]
+    newsletter_md = build_newsletter_md(dom_items, gl_items, start_dt, end_dt, datetime.now())
 
     return {
         "period_label": period_label,
         "start_date": f"{start_dt:%Y-%m-%d}",
         "end_date": f"{end_dt:%Y-%m-%d}",
-        "keywords": keywords,
-        "results": results,
-        "news": news,
-        "queries": queries,
+        "domestic": {
+            "keywords": dom_kws,
+            "results": {kw: results[kw] for kw in dom_kws},
+            "news": {kw: news[kw] for kw in dom_kws},
+            "queries": {kw: queries[kw] for kw in dom_kws}
+        },
+        "global": {
+            "keywords": gl_kws,
+            "results": {kw: results[kw] for kw in gl_kws},
+            "news": {kw: news[kw] for kw in gl_kws},
+            "queries": {kw: queries[kw] for kw in gl_kws}
+        },
+        "keywords": all_kws,  # 하위 호환
+        "results": results,    # 하위 호환
+        "news": news,          # 하위 호환
+        "queries": queries,    # 하위 호환
         "newsletter_md": newsletter_md,
         "generation_mode": info.get("mode", "fallback")
     }
