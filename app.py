@@ -3,6 +3,7 @@
 """
 import os
 import sys
+import html
 import json
 from datetime import datetime
 from streamlit.runtime import exists
@@ -162,12 +163,8 @@ def render_period_content(period_key: str, period_data: dict):
             else:
                 st.markdown(f"- {facts}")
 
-            # 2. 왜 중요할까
-            st.markdown("#### 🧭 왜 중요할까")
-            st.info(item.get("why", ""))
-
             # 3. 독자들이 궁금해하는 것 (Q&A 3선)
-            st.markdown("#### 💬 독자들이 궁금해하는 핵심 Q&A")
+            st.markdown("#### 💬 핵심 Q&A")
             qna = item.get("qna", [])
             for q_idx, qa in enumerate(qna, 1):
                 st.markdown(f"**Q{q_idx}. {qa.get('q')}**")
@@ -184,13 +181,16 @@ def render_period_content(period_key: str, period_data: dict):
                 else:
                     st.markdown(f"- {watch}")
 
-            # 5. 참고 기사 목록
+            # 5. 참고 기사 목록 (기본 접힘 - 중첩 expander 불가라 HTML details 사용)
             if arts:
-                st.markdown(f"#### 🔗 관련 주요 기사 원문 ({len(arts)}건)")
+                rows = []
                 for a in arts:
-                    pub = f" · {a.get('published')}" if a.get('published') else ""
-                    src = f" · {a.get('source')}" if a.get('source') else ""
-                    st.markdown(f"- [{a.get('title')}]({a.get('link')}){src}{pub}")
+                    pub = f" · {html.escape(a.get('published') or '')}" if a.get('published') else ""
+                    src = f" · {html.escape(a.get('source') or '')}" if a.get('source') else ""
+                    rows.append(f'<li><a href="{html.escape(a.get("link") or "#")}" target="_blank" rel="noopener">{html.escape(a.get("title") or "")}</a>{src}{pub}</li>')
+                st.markdown(
+                    f'<details><summary style="cursor:pointer;font-weight:700;">🔗 관련 주요 기사 원문 ({len(arts)}건)</summary><ul>{"".join(rows)}</ul></details>',
+                    unsafe_allow_html=True)
 
 
 # 탭별 렌더링
