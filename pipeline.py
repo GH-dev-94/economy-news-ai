@@ -342,6 +342,7 @@ def generate_manuscripts_batch(entries: list, start: datetime, end: datetime, ap
     )
     try:
         raw = _extract_json(_gemini(prompt, api_key))
+    except json.JSONDecodeError:  # JSON broken -> retry once
         raw = _extract_json(_gemini(prompt, api_key))
     out = {}
     for e in entries:

@@ -29,7 +29,7 @@ def _format_date(d: datetime) -> str:
     return f"{d.year}년 {d.month}월 {d.day}일 ({_WEEKDAYS[d.weekday()]})"
 
 
-def process_period(label_name: str, start_dt: datetime, end_dt: datetime, api_key: str, top_n: int = 5, country: str = "KR"):
+def process_period(label_name: str, start_dt: datetime, end_dt: datetime, api_key: str, top_n: int = 3, country: str = "KR"):
     print(f"\n==========================================")
     print(f"[{label_name}] 처리 시작: {start_dt:%Y-%m-%d} ~ {end_dt:%Y-%m-%d}")
     print(f"==========================================")
@@ -47,7 +47,7 @@ def process_period(label_name: str, start_dt: datetime, end_dt: datetime, api_ke
 
     if not keywords:
         print("경고: 키워드가 추출되지 않았습니다. 기본 키워드로 대체합니다.")
-        keywords = ["코스피", "기준금리", "환율", "부동산", "수출"][:top_n]
+        keywords = ["코스피", "기준금리", "환율"][:top_n]
 
     # 3단계: 기사 및 연관 검색어 수집
     print(f"3~4단계: 뉴스 기사 및 구글 연관 검색어 수집 중...")
