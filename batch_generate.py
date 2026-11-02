@@ -89,15 +89,24 @@ def process_period(label_name: str, start_dt: datetime, end_dt: datetime, api_ke
             print(f"-> Gemini 호출 실패 ({e}). 규칙 기반 원고로 폴백합니다.")
             traceback.print_exc()
 
-    # 결과 폴백 보정 (만약 Gemini가 일부 또는 전체 실패한 경우)
+    # 결과 폴백 보정 (만약 Gemini가 일부 실패하거나 '데이터 부재' 같은 무의미한 응답을 낸 경우)
     for kw in all_kws:
+        is_bad = False
         if kw not in results or "error" in results[kw]:
+            is_bad = True
+        else:
+            facts = results[kw].get("facts", [])
+            facts_text = " ".join(facts)
+            if "데이터가 존재하지 않아" in facts_text or "확인 불가" in facts_text or "추가적인 데이터 확보" in facts_text:
+                is_bad = True
+
+        if is_bad:
             arts = news.get(kw, [])
-            facts = [a["title"] for a in arts[:3]] if arts else [f"{kw} 관련 시장 동향과 정책 발표가 이어지고 있습니다."]
+            facts = [f"{a['title']}" for a in arts[:4]] if arts else [f"{kw} 관련 정부 정책 발표와 금융시장 지표 변동이 이어짐."]
             results[kw] = {
-                "headline": f"{kw} 시장 핵심 이슈 점검",
+                "headline": f"{kw} 시장 핵심 이슈 및 동향",
                 "facts": facts,
-                "watch": [f"{kw} 관련 정부 및 중앙은행 발표", "글로벌 시장 거시 지표 변화"],
+                "watch": [f"{kw} 관련 금융당국 공식 발표", "시중 금리 및 거시 지표 변화"],
                 "qna": [
                     {"q": f"{kw} 이슈가 개인에게 미치는 실질적인 영향은 무엇인가?", "a": "금리와 환율, 투자 자산 가치에 시차를 두고 반영되므로 포트폴리오 점검이 필요하다."},
                     {"q": "앞으로 시장에서 가장 주목할 관전 포인트는 무엇인가?", "a": "공식 정책 지표와 주요 기업 실적 발표에 따라 단기 변동성이 결정될 수 있다."},

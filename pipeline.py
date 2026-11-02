@@ -6,9 +6,11 @@
 import json
 import re
 import xml.etree.ElementTree as ET
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from urllib.parse import quote
+
+KST = timezone(timedelta(hours=9))
 
 import requests
 from bs4 import BeautifulSoup
@@ -297,37 +299,80 @@ def extract_dual_keywords(n_domestic: int = 3, n_global: int = 3, start: datetim
 # -----------------------------------------------------------------------------
 def fetch_news(keyword: str, country: str, start: datetime, end: datetime, limit: int = 8):
     c = COUNTRY[country]
-    after = (start - timedelta(days=1)).strftime("%Y-%m-%d")  # after/before는 경계가 모호해 넓게 요청 후 직접 필터
-    before = (end + timedelta(days=1)).strftime("%Y-%m-%d")
-    q = f"{keyword} after:{after} before:{before}"
-    url = (f"https://news.google.com/rss/search?q={quote(q)}"
-           f"&hl={c['hl']}&gl={c['gl']}&ceid={c['ceid']}")
-    articles = []
-    try:
-        root = _parse_rss(url)
-        for item in root.iter("item"):
-            desc = BeautifulSoup(item.findtext("description") or "", "html.parser").get_text(" ", strip=True)
-            pub = item.findtext("pubDate") or ""
-            try:
-                if not (start.date() <= parsedate_to_datetime(pub).astimezone().date() <= end.date()):
-                    continue  # 선택 기간 밖 기사 제외 (로컬 시간 기준)
-            except Exception:
-                pass
-            try:
-                pub = parsedate_to_datetime(pub).astimezone().strftime("%m-%d %H:%M")
-            except Exception:
-                pass
-            articles.append({
-                "title": (item.findtext("title") or "").strip(),
-                "link": (item.findtext("link") or "").strip(),
-                "source": (item.findtext("source") or "").strip(),
-                "published": pub,
-                "snippet": desc,
-            })
-            if len(articles) >= limit:
-                break
-    except Exception:
-        pass
+    tz = KST if country == "KR" else timezone.utc
+
+    # 당일(오늘) 브리핑은 전날 밤~당일 오전 기사를 포괄해야 하므로 최소 2일 범위 검색 (한국 시간 기준)
+    start_d = (start - timedelta(days=1)).date() if start.date() == end.date() else start.date()
+    end_d = end.date()
+
+    def _search(q_str: str) -> list:
+        q = f"{q_str} after:{start_d - timedelta(days=1):%Y-%m-%d} before:{end_d + timedelta(days=1):%Y-%m-%d}"
+        url = (f"https://news.google.com/rss/search?q={quote(q)}"
+               f"&hl={c['hl']}&gl={c['gl']}&ceid={c['ceid']}")
+        res = []
+        try:
+            root = _parse_rss(url)
+            for item in root.iter("item"):
+                desc = BeautifulSoup(item.findtext("description") or "", "html.parser").get_text(" ", strip=True)
+                pub = item.findtext("pubDate") or ""
+                try:
+                    pub_dt = parsedate_to_datetime(pub).astimezone(tz)
+                    if not (start_d <= pub_dt.date() <= end_d):
+                        continue
+                    pub_str = pub_dt.strftime("%m-%d %H:%M")
+                except Exception:
+                    pub_str = ""
+
+                t = (item.findtext("title") or "").strip()
+                if t and not any(r["title"] == t for r in res):
+                    res.append({
+                        "title": t,
+                        "link": (item.findtext("link") or "").strip(),
+                        "source": (item.findtext("source") or "").strip(),
+                        "published": pub_str,
+                        "snippet": desc,
+                    })
+                if len(res) >= limit:
+                    break
+        except Exception:
+            pass
+        return res
+
+    # 1차: 키워드 원문 검색
+    articles = _search(keyword)
+
+    # 2차: 기사가 부족하면(2건 미만) 검색어 완화 (예: '생계형 대출 급증' -> '생계형 대출' 또는 핵심 명사 조합)
+    if len(articles) < 2:
+        words = keyword.split()
+        if len(words) > 1:
+            relaxed_q = " ".join(words[:2])
+            fallback_arts = _search(relaxed_q)
+            for fa in fallback_arts:
+                if not any(a["title"] == fa["title"] for a in articles):
+                    articles.append(fa)
+                if len(articles) >= limit:
+                    break
+
+    # 3차: 여전히 기사가 부족하면 날짜 제한(when:3d) 완화로 최신 기사 수집
+    if len(articles) < 2:
+        try:
+            url = f"https://news.google.com/rss/search?q={quote(keyword + ' when:3d')}&hl={c['hl']}&gl={c['gl']}&ceid={c['ceid']}"
+            root = _parse_rss(url)
+            for item in root.iter("item"):
+                t = (item.findtext("title") or "").strip()
+                if t and not any(a["title"] == t for a in articles):
+                    articles.append({
+                        "title": t,
+                        "link": (item.findtext("link") or "").strip(),
+                        "source": (item.findtext("source") or "").strip(),
+                        "published": "",
+                        "snippet": "",
+                    })
+                if len(articles) >= limit:
+                    break
+        except Exception:
+            pass
+
     return articles
 
 
