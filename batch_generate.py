@@ -5,7 +5,7 @@ import os
 import sys
 import json
 import traceback
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from dotenv import load_dotenv
 
 if sys.stdout and hasattr(sys.stdout, "reconfigure"):
@@ -13,6 +13,8 @@ if sys.stdout and hasattr(sys.stdout, "reconfigure"):
         sys.stdout.reconfigure(encoding="utf-8")
     except Exception:
         pass
+
+KST = timezone(timedelta(hours=9))
 
 from pipeline import (
     extract_keywords,
@@ -136,7 +138,7 @@ def process_period(label_name: str, start_dt: datetime, end_dt: datetime, api_ke
 def run_batch(only=None):
     """only: None(전체) 또는 ['today', 'yesterday', 'week'] 중 일부만 재생성 (기존 JSON에 병합)"""
     api_key = os.getenv("GEMINI_API_KEY", "").strip().strip('"').strip("'")
-    now = datetime.now()
+    now = datetime.now(KST).replace(tzinfo=None)  # GitHub Actions(UTC 서버)에서도 정확한 KST(한국시간) 보장
     today_dt = now.replace(hour=0, minute=0, second=0, microsecond=0)
     yesterday_dt = today_dt - timedelta(days=1)
     week_start_dt = today_dt - timedelta(days=6)

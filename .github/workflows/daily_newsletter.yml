@@ -2,8 +2,8 @@ name: Daily Economy News Batch
 
 on:
   schedule:
-    # 매일 한국 시간(KST) 오전 11:00 실행 (UTC 기준 02:00)
-    - cron: '0 2 * * *'
+    # 깃허브 무료 러너 대기열 지연(약 20~30분)을 감안하여 10:30 KST(UTC 01:30)에 큐에 등록 -> 11:00 정각 전후 완료
+    - cron: '30 1 * * *'
   workflow_dispatch: # GitHub 웹에서 [Run workflow] 버튼으로 수동 즉시 실행 가능
 
 permissions:
@@ -12,6 +12,8 @@ permissions:
 jobs:
   build-and-generate:
     runs-on: ubuntu-latest
+    env:
+      TZ: "Asia/Seoul"
 
     steps:
       - name: 저장소 체크아웃
