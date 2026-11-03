@@ -151,15 +151,37 @@ def run_batch(only=None):
     today_dt = now.replace(hour=0, minute=0, second=0, microsecond=0)
     yesterday_dt = today_dt - timedelta(days=1)
     week_start_dt = today_dt - timedelta(days=6)
-    targets = only or ["today", "yesterday", "week"]
+    output = {}
+    if os.path.exists(DATA_PATH):
+        try:
+            with open(DATA_PATH, "r", encoding="utf-8") as f:
+                output = json.load(f)
+        except Exception:
+            output = {}
+
+    if only:
+        if "all" in only:
+            targets = ["today", "yesterday", "week"]
+        else:
+            targets = only
+    else:
+        # 스마트 자동 판단:
+        # 어제 날짜(yesterday.start_date)가 실제 어제(yesterday_dt)와 다르면 (새로운 날 시작 시)
+        # 하루 1회 전체(today, yesterday, week) 갱신.
+        # 그 외 장중 2시간마다의 주기 실행은 Gemini API 무료 쿼터(20회/일) 절약을 위해 'today'만 집중 갱신!
+        prev_yesterday = output.get("yesterday", {}).get("start_date")
+        expected_yesterday = f"{yesterday_dt:%Y-%m-%d}"
+        has_all_keys = all(k in output for k in ["today", "yesterday", "week"])
+
+        if not has_all_keys or prev_yesterday != expected_yesterday:
+            print(f"[스마트 주기] 새 날짜 감지(기존: {prev_yesterday} -> 현재: {expected_yesterday}) -> 전체(today, yesterday, week) 갱신")
+            targets = ["today", "yesterday", "week"]
+        else:
+            print(f"[스마트 주기] 당일 주기 갱신 -> API 무료 쿼터 절약을 위해 'today' 집중 갱신")
+            targets = ["today"]
 
     print(f"=== [경제 뉴스 AI 배치 생성 시작] ===")
     print(f"실행 시각: {now.strftime('%Y-%m-%d %H:%M:%S')} (API Key 유효: {bool(api_key)}) / 대상: {targets}")
-
-    output = {}
-    if only and os.path.exists(DATA_PATH):
-        with open(DATA_PATH, "r", encoding="utf-8") as f:
-            output = json.load(f)
 
     if "today" in targets:
         output["today"] = process_period("오늘", today_dt, today_dt, api_key)

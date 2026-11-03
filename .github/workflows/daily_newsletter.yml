@@ -1,9 +1,11 @@
-name: Daily Economy News Batch
+name: Economy News AI Automated Batch
 
 on:
   schedule:
-    # 깃허브 무료 러너 대기열 지연(약 20~30분)을 감안하여 10:30 KST(UTC 01:30)에 큐에 등록 -> 11:00 정각 전후 완료
-    - cron: '30 1 * * *'
+    # 한국 시간(KST) 매일 06:10, 08:10, 10:10, 12:10, 14:10, 16:10, 18:10 (2시간 간격 총 7회)
+    # UTC 기준 21:10, 23:10, 01:10, 03:10, 05:10, 07:10, 09:10
+    # GitHub 무료 러너의 정각(:00) 대기열 병목을 피해 10분에 실행
+    - cron: '10 21,23,1,3,5,7,9 * * *'
   workflow_dispatch: # GitHub 웹에서 [Run workflow] 버튼으로 수동 즉시 실행 가능
 
 permissions:
@@ -30,7 +32,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: 경제 뉴스 AI 배치 생성 실행 (오늘/어제/일주일)
+      - name: 경제 뉴스 AI 배치 생성 실행 (스마트 갱신)
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
@@ -41,5 +43,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add news_data.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: Daily economy news update [$(date +'%Y-%m-%d')]" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: Auto economy news update [$(date +'%Y-%m-%d %H:%M') KST]" && git push)
 
