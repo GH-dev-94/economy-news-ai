@@ -6,94 +6,92 @@
     "domestic": {
       "keywords": [
         "코스피 변동성",
-        "서울 집값 상승",
-        "가상자산 과세 유예"
+        "9월 경상수지 흑자",
+        "AI 반도체 투자"
       ],
       "results": {
         "코스피 변동성": {
-          "headline": "롤러코스터 탄 코스피, 변동성 키운 원인은?",
+          "headline": "롤러코스터 탄 코스피, 왜 이럴까?",
           "facts": [
-            "미국 중간선거를 앞두고 경계감이 확산하면서 코스피 시장의 수급이 꼬여 지수가 5680선에서 극심한 롤러코스터 장세를 보임.",
-            "코스피 변동성지수가 단 하루 만에 7% 급등하고 日 변동성도 3개월래 최대치를 기록하는 등 불안정한 흐름이 뚜렷해짐.",
-            "주가 급등락이 반복되면서 코스피 시장에서 프로그램매수호가 일시효력표시(VI) 발동 건수가 5만 건을 넘어 역대 최다를 기록함.",
-            "투자자들의 관망세와 불확실성이 커진 가운데 기관과 외인의 수급 공방으로 인해 지수 방어와 변동성 확대가 동시에 나타남.",
-            "극심한 변동성 장세 속에서도 현대차가 2% 오르는 등 개별 종목별로 실적과 이슈에 따라 차별화된 주가 흐름이 포착됨."
+            "미국 중간선거를 앞두고 관망세가 짙어진 가운데 수급이 꼬이면서 코스피 변동성지수가 하루 만에 7% 상승함.",
+            "코스피가 5680선 안팎에서 극심한 등락을 거듭하는 과정에서 역대 최대 규모의 변동성완화장치(VI) 발동 건수를 기록함.",
+            "미 증시의 급등세에도 불구하고 국내 증시는 반도체 수급 불안과 정치적 불확실성이 겹치면서 롤러코스터 장세를 연출함.",
+            "시장 참여자들의 경계감이 최고조에 달한 상황에서 현대차 등 일부 대형주가 반등을 시도했으나 전체적인 변동성 확대를 방어하기에는 역부족이었음.",
+            "일본 증시 역시 변동성이 3개월래 최대치를 기록하는 등 아시아 주요 증시 전반에 걸쳐 투자 심리가 불안정한 모습을 보임."
           ],
           "watch": [
-            "미국 중간선거 결과에 따른 글로벌 증시 방향성",
-            "국내 증시 프로그램매매 VI 발동 추이와 수급 변화",
-            "환율 및 외국인 투자자의 자금 이탈 여부"
+            "미국 중간선거 개표 결과와 증시 방향성",
+            "반도체 업종의 수급 개선 여부",
+            "추가 변동성완화장치(VI) 발동 추이"
           ],
           "qna": [
             {
-              "q": "코스피 변동성 지수 etf는 무엇이고 어떻게 활용하는가?",
-              "a": "변동성 지수 etf는 주가가 하락하거나 변동성이 커질 때 수익이 나도록 설계된 상품이다. 시장의 공포 심리가 극대화될 때 헤지 수단으로 활용되지만 단기 등락이 심해 주의가 필요하다."
+              "q": "코스피 변동성 지수(VKOSPI)란 정확히 무엇을 의미하는가?",
+              "a": "코스피 변동성 지수는 향후 시장이 얼마나 크게 출렁일지 예상하는 투자자의 불안 심리를 수치화한 지표이다. 이 지수가 오르면 시장의 불확실성과 리스크가 그만큼 커졌음을 의미한다."
             },
             {
-              "q": "코스피 변동성 지표는 주식 투자에 어떻게 활용하는가?",
-              "a": "변동성 지표는 시장의 불안감과 위험 수준을 수치화하여 보여주는 도구이다. 지표가 급등할 때는 투자 심리가 위축된 상태이므로 신중한 접근과 리스크 관리가 요구된다."
+              "q": "최근 코스피 변동성이 이토록 심해진 이유는 무엇인가?",
+              "a": "미국 중간선거라는 거대한 정치적벤처 이벤트를 앞두고 관망 심리가 팽배해진 것이 주원인이다. 여기에 반도체 등 주도주의 수급이 꼬이면서 지수가 널뛰는 장세가 연출되었다."
             },
             {
-              "q": "코스피 변동성이 커지면 내 자산에는 어떤 영향이 있는가?",
-              "a": "시장 변동성 확대는 보유 주식의 단기적인 가격 등락 폭을 키워 자산 가치의 불안정성을 높인다. 섣부른 매매보다는 포트폴리오의 리스크를 점검하고 장기적인 관점을 유지하는 것이 바람직하다."
+              "q": "변동성 장세가 심할 때 초보 투자자는 어떻게 대처해야 하는가?",
+              "a": "단기적인 주가 등락에 일희일비하여 추격 매매를 하는 것은 손실을 키울 위험이 크다. 시장의 방향성이 확실해질 때까지 자산 비중을 조절하며 신중하게 접근할 필요가 있다."
             }
           ]
         },
-        "서울 집값 상승": {
-          "headline": "서울 집값 상승세 지속… 엇갈리는 해석들",
+        "9월 경상수지 흑자": {
+          "headline": "역대 최대 기록한 9월 경상수지",
           "facts": [
-            "이 대통령이 서울 집값이 놀라울 정도로 하락했다고 언급한 것을 두고 야당인 오세훈 시장이 집계 이래 최고라고 반박함.",
-            "대통령의 하락 발언 인용 보도에 대해 대통령실이 2차 가짜뉴스라며 시정을 요구하고 나서는 등 정치적 공방이 가열됨.",
-            "한국일보 등의 실제 통계 분석 결과 서울 집값은 90주 연속 상승세를 기록하며 실제 시장 분위기와 차이를 보임.",
-            "Chosunbiz 보도에 따르면 서울 25개 구 가운데 22개 구에서 여전히 오름세를 나타내며 하락 주권과 괴리가 발생함.",
-            "일부 지역의 조정 가능성에도 불구하고 서울 전반의 부동산 시장은 여전히 상승 추이가 꺾이지 않은 상태를 유지함."
+            "9월 경상수지가 615억 달러 흑자를 기록하며 월간 기준 사상 처음으로 600억 달러를 돌파함.",
+            "이번 흑자는 역대 최대 규모로 반도체 수출이 전년 동기 대비 260% 폭증하며 전체 실적을 강력하게 견인함.",
+            "글로벌 교역 환경의 변동 속에서도 주력 품목인 반도체의 압도적인 수출 호조가 무역 흑자 규모를 극대화하는 결정적 원인으로 작용함.",
+            "사상 첫 600억 달러 돌파라는 기록은 국내 대외 경제의 기초체력이 여전히 탄탄함을 보여주는 지표로 평가받음.",
+            "반도체 외에도 주요 산업의 수출 실적이 받쳐주면서 국가 전체의 경상수지 흑자 행진에 크게 기여함."
           ],
           "watch": [
-            "서울 25개 구별 실제 매매가 상승률 추이",
-            "정부의 부동산 정책 기조와 통계 기관 발표 내용",
-            "실거래가와 대통령 발언 간의 괴리 해소 여부"
+            "반도체 수출 호조세의 지속 가능성",
+            "글로벌 수요 변화에 따른 무역수지 추이"
           ],
           "qna": [
             {
-              "q": "서울 집값 상승률 그래프와 실제 체감 경기가 다른 이유는 무엇인가?",
-              "a": "공식 통계는 전체 평균을 반영하지만 개별 단지와 선호 지역에 따라 가격 오름세가 다르게 나타나기 때문이다. 통계 지표와 개인이 체감하는 시장 분위기 사이에는 시차와 지역별 편차가 존재한다."
+              "q": "경상수지 흑자가 사상 최대를 기록하면 우리 일상에는 어떤 좋은 점이 있는가?",
+              "a": "경상수지 흑자는 국가로 들어오는 달러가 나가는 달러보다 훨씬 많다는 뜻이다. 이는 국가 경제의 안정성을 높이고 원화 가치를 지키는 긍정적인 역할을 한다."
             },
             {
-              "q": "서울 집값 상승 원인은 주로 무엇으로 분석되는가?",
-              "a": "공급 부족 우려와 선호 지역에 대한 매수 심리가 복합적으로 작용하여 가격을 밀어올리고 있다. 시중 유동성과 금리 환경도 부동산 수요를 자극하는 요인으로 작용한다."
+              "q": "이번 경상수지 흑자를 이끈 일등 공신은 무엇인가?",
+              "a": "단연 반도체 수출의 폭발적인 증가이다. 반도체 수출액이 전년 대비 260%나 급증하면서 전체 경상수지 흑자 규모를 사상 처음으로 600억 달러 선 위에 올려놓았다."
             },
             {
-              "q": "이러한 집값 상승세가 무주택자의 내집 마련에 미치는 영향은 무엇인가?",
-              "a": "상승세가 장기화될수록 주거 비용 부담이 커지고 매수 진입 장벽이 높아질 수 있다. 정책 변화와 대출 규제를 면밀히 살피며 본인의 재정 상황에 맞는 주거 계획을 세워야 한다."
+              "q": "이렇게 수출이 잘되면 당장 내 주식 계좌나 소비에도 도움이 되는가?",
+              "a": "거시경제 지표의 호조가 곧바로 개인의 투자 수익이나 체감 경기로 직결되지는 않는다. 다만 국가 경제의 기초체력이 탄탄하다는 신호로 해석할 수 있다."
             }
           ]
         },
-        "가상자산 과세 유예": {
-          "headline": "또 미뤄지나… 정치권의 가상자산 과세 유예 제안",
+        "AI 반도체 투자": {
+          "headline": "바뀌는 AI 투자 공식과 반도체 동향",
           "facts": [
-            "민주당 김민석 의원이 정부에 가상자산 소득 과세 유예를 공식 제안하며 과세 제도의 적응 기간 필요성을 강조함.",
-            "민주당 지도부가 가상자산 과세 유예를 꺼내 든 것은 이번이 벌써 세 번째로 제도 실효성 확보를 위한 조치라고 설명함.",
-            "국제 정보교환망 미비 등 준비되지 않은 과세는 역차별을 불러올 수 있다는 정치권의 지적이 이어짐.",
-            "KBC광주방송 보도에 따르면 김민석 의원이 유예를 공식 제안했으나 구체적인 유예 기간은 제시되지 않음.",
-            "여당을 중심으로 가상자산 과세 시기를 미뤄야 한다는 목소리가 커지면서 관련 법안 논의에 관심이 집중됨."
+            "미국 증시에서 AI 투자 공식에 변화가 감지되면서 반도체 관련 주는 팔고 빅테크 및 전통주를 매수하는 흐름이 나타남.",
+            "미 의회를 장악한 민주당의 빅테크 청문회 예고로 인해 한국의 전력기기와 AI 반도체 관련 기업들이 투자 속도를 주시함.",
+            "AI 반도체 품귀 현상에도 불구하고 삼성전자와 SK하이닉스 등 국내 대표 기업들이 빅테크의 현금흐름 쇼크 여파로 주가 발목을 잡힘.",
+            "글로벌 자본이 AI 데이터센터와 반도체 분야로 대거 몰리면서 외국기업 7곳이 한국에 총 20억 달러 규모의 투자를 단행함.",
+            "전문가들은 AI 주식의 흐름이 엇갈리는 가운데 반도체 주가가 조정받을 때 분할 매수하는 전략을 유효한 투자 대안으로 제시함."
           ],
           "watch": [
-            "정부의 가상자산 과세 유예 수용 여부 및 공식 입장",
-            "국회 기획재정위원회에서의 관련 법안 처리 속도",
-            "가상자산 과세 관련 국제 정보교환망 구축 진척도"
+            "글로벌 빅테크 기업들의 AI 관련 투자 집행 속도",
+            "국내 반도체 대기업의 실적 및 현금흐름 변화"
           ],
           "qna": [
             {
-              "q": "가상자산 과세 유예 청원과 법안의 통과 가능성은 얼마나 되는가?",
-              "a": "투자자들의 반발과 정치권의 유예 제안이 맞물려 법안 개정 논의가 급물살을 탈 가능성이 높다. 다만 정부의 세수 확보 계획과 맞물려 최종 합의까지는 진통이 예상된다."
+              "q": "AI 반도체 투자와 관련해 시장에서 거품 논란이 나오는 이유는 무엇인가?",
+              "a": "천문학적인 자금이 AI 인프라에 쏟아부어지고 있지만, 실제 빅테크 기업들의 현금흐름에 부담을 주기 시작했기 때문이다. 투자의 속도 조절이 필요하다는 목소리가 커지고 있다."
             },
             {
-              "q": "가상자산 과세가 유예되면 코인 투자자들에게 어떤 이점이 있는가?",
-              "a": "세금 납부 시기가 늦춰지면서 투자 수익에 대한 즉각적인 세금 부담을 일정 기간 피할 수 있다. 세부적인 과세 인프라가 정비될 때까지 투자 자금을 보다 유연하게 운용할 수 있다."
+              "q": "글로벌 기업들이 한국의 AI 반도체와 데이터센터에 대규모로 투자하는 이유는 무엇인가?",
+              "a": "한국이 우수한 반도체 제조 생태계와 인프라를 갖추고 있기 때문이다. 글로벌 자본은 AI 시대의 핵심 공급망을 선점하기 위해 한국 시장에 지속적인 러브콜을 보내고 있다."
             },
             {
-              "q": "준비되지 않은 가상자산 과세가 역차별을 유발하는 이유는 무엇인가?",
-              "a": "국내외 거래소 간의 정보 불균형과 미흡한 과세 인프라로 인해 국내 투자자에게만 불리한 환경이 조성될 수 있기 때문이다. 공정한 과세 기준이 확립되기 전에는 시장 혼란을 야기할 수 있다."
+              "q": "반도체 주가가 조정받을 때 분할 매수하는 전략은 안전한가?",
+              "a": "분할 매수는 리스크를 분산하는 전통적인 투자법이지만 주가의 바닥을 정확히 알 수 없다는 한계가 있다. 따라서 기업의 본질적 가치와 업황을 면밀히 분석한 후 접근해야 한다."
             }
           ]
         }
@@ -115,6 +113,13 @@
             "snippet": "美 중간선거 대기에 꼬인 수급…코스피 변동성지수 하루만에 7%↑ - 머니투데이 머니투데이"
           },
           {
+            "title": "[마켓 프리뷰] 美증시 급등에도 코스피 변동성 전망…반도체 수급 주목 - 아주경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90ay1KWnFvVi1vbS1HVnBPUE15UjRMck5kZEt0eW90ekttRDV4bHcxWTI0X2VtZlNqYzFjeEtJSnRIRFNqTURadjlSaVFMUmVxdUhPRm1QdjhoUdIBWEFVX3lxTFBnYlpTN1YxT3ZVTEFUdjBlY0FhdFJ1SG1fN2RqQ05nbHNJdFhZVG90alppTVc3bXlEQTgzaHRreVFUWU1IM1VsWTV2TTltR2ZCNUJhUGRTZlo?oc=5",
+            "source": "아주경제",
+            "published": "11-05 08:14",
+            "snippet": "[마켓 프리뷰] 美증시 급등에도 코스피 변동성 전망…반도체 수급 주목 아주경제"
+          },
+          {
             "title": "[1104마감체크] 코스피, 美 중간선거 불확실성에 변동성 확대… 5680선 사수 - 인포스탁데일리",
             "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40RURxOHNGMnhpYTNiWlptUldFNEt4Mi0zTWtYNkl2UFpsZTk1S2VGTUdtaUZrc2NfRE1zSjBhRFBMR25sc3RlZ21GR2JpYk5CVGJmNTZMWXByeTdKTVVNV3p3R3RzQkg3NkhWaVVjWmE3WW42MEE?oc=5",
             "source": "인포스탁데일리",
@@ -134,101 +139,94 @@
             "source": "MBC 뉴스",
             "published": "11-04 11:27",
             "snippet": "코스피 '롤러코스터'‥VI 발동 이미 역대 최대 MBC 뉴스"
-          },
-          {
-            "title": "코스피 변동성 급증…VI 발동 5만건 넘어 역대 최다 - 미디어스",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZZDNKem4zZUk0M0RGZ2lZNHBubjNMdElnd1VOTGlSamVmbGxZcVRTTzVEWlBCT2lwY2gxenVwRzVBQ20tbVZwQWFIMGlSUGtBaDJNbXJpcjZ1WWpIVDJqdkdMb3hSeXMzOThJdNIBcEFVX3lxTFBTYjNRTFVwWjdBR1hPOXl1UXpKcUZOTGlyUkpGb213WHlMSENNWElvbnVkUERYNFdpY0pZcEN1aFBiZl9kVHVFZjNya1R2aXFmYXM3M1BnOGlwblFhQUZYRkUwbnBvenlNaU5CanpOVno?oc=5",
-            "source": "미디어스",
-            "published": "11-04 11:44",
-            "snippet": "코스피 변동성 급증…VI 발동 5만건 넘어 역대 최다 미디어스"
           }
         ],
-        "서울 집값 상승": [
+        "9월 경상수지 흑자": [
           {
-            "title": "이 대통령 \"‘집값 폭락’ 발언 왜곡 이은 2차 가짜뉴스...시정 바란다\" - JTBC",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CelBja2ZNYWpZclpudWdkSGRXZGRvTjZwZ0Nadzc2U2tkb2ZydzVSREtwd1YtVVVLRmlNNDdSNnQwMUY2ME8yV3VxcjViVnk1MHdjbQ?oc=5",
-            "source": "JTBC",
-            "published": "11-04 23:44",
-            "snippet": "이 대통령 \"‘집값 폭락’ 발언 왜곡 이은 2차 가짜뉴스...시정 바란다\" JTBC"
-          },
-          {
-            "title": "이 대통령 “서울 집값 놀라울 정도로 하락” vs 오세훈 “집계 이래 최고” - 서울일보",
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xNHk5QmFBLVVXN19pWkF5dHdVcHdvZjdpckRxNXRjNmFTUFpWLVp5Z2hUQU5oWWhpSTZBM1JDWjluT3FEcjVNTEYxRGdUdE01SU43Mlo0SjhlX3NQM0RGTnlyWm5Hd0pZR0FN0gFvQVVfeXFMT2N2WFl2LXdyejFqdlNQYTV5SUpTUk5yc0hSUXM4Ymc4Q25LVDV4WjBpSzRQTlhLTnlrMkgzR0prMWZxTkhXVEZqM2V6eHBWOXRiM3dNa0xYREc4dWYzZkVoQmNOblJxNzY0ZUU5SnZJ?oc=5",
-            "source": "서울일보",
-            "published": "11-04 19:13",
-            "snippet": "이 대통령 “서울 집값 놀라울 정도로 하락” vs 오세훈 “집계 이래 최고” 서울일보"
-          },
-          {
-            "title": "이 대통령 \"집값 떨어졌다\" 인용 제목에 또 \"가짜뉴스\" - MBC 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DcXBRWmgtVzBjYnk0M1Rjd08tTVNMRDROQzlpZzh1S1ZoSTFteTh1eEFraGlUcEh0OVJxN3RLQThSV2t6eko2QjE1V3VmaDFZbVZpdE40dng1cGZVSlRoWVF0YXJVc213VF9qbjI1YzJ3Ump6ZVZuOdIBeEFVX3lxTE1DcXBRWmgtVzBjYnk0M1Rjd08tTVNMRDROQzlpZzh1S1ZoSTFteTh1eEFraGlUcEh0OVJxN3RLQThSV2t6eko2QjE1V3VmaDFZbVZpdE40dng1cGZVSlRoWVF0YXJVc213VF9qbjI1YzJ3Ump6ZVZuOQ?oc=5",
-            "source": "MBC 뉴스",
-            "published": "11-04 22:32",
-            "snippet": "이 대통령 \"집값 떨어졌다\" 인용 제목에 또 \"가짜뉴스\" MBC 뉴스"
-          },
-          {
-            "title": "李 서울 집값 놀라울 만큼 떨어져…실제로 따져보니 - SBS Biz",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tVXBQVERWLVowYnExQklFcTRYOWptTW5iQ3RWUC1QbExtcUNPUlZqZkZELWU2eFhwanJMelBZOEdFSVUtRWhLb1k0YXlrWG1IWk1v0gFYQVVfeXFMT1loS3FELV9RVzN5UnVPcXNHZXptN1RocENHaTRWWmJGZGZBOGE4eXg0MkZPSl9QaVJyVnJxb3BLVzRXME13Vmt3SE1aM213Zi15Q0JnekJyOA?oc=5",
-            "source": "SBS Biz",
-            "published": "11-04 19:02",
-            "snippet": "李 서울 집값 놀라울 만큼 떨어져…실제로 따져보니 SBS Biz"
-          },
-          {
-            "title": "\"집값 떨어졌다\"는 대통령 말, 사실일까... 서울은 90주 연속 상승 - 한국일보",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mUEdzYnQ4eUJIWERoYkUyQ0FHT1ExNndneFRSVG1MZlNOTXcwZFlmX25JTkZqTFExb2draVM4VVFXaVNtQ0F3SVhPYm5vN1dodDB2SVVoaE53SmM3ZFMwbFVBSHFZb3djLU1lRVJn0gFzQVVfeXFMUEFSY091MlVzbU1OQnVRTVR5Nzdwdmp6MnpteW40OE5LdmtjNkhob3pULU94YUJTQzZHRmdUTmxXTC1nR1FNT1pJbGV6SGRvVHdCMGZkVkZ3a3JqYjYwSE82ZFZvbjNISTRJc0ZwVFNPNkZTWQ?oc=5",
-            "source": "한국일보",
-            "published": "11-04 04:30",
-            "snippet": "\"집값 떨어졌다\"는 대통령 말, 사실일까... 서울은 90주 연속 상승 한국일보"
-          },
-          {
-            "title": "李 “물론 아닌 지역도 있다”… 서울 25개 구 중 22곳은 오름세 - Chosunbiz",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTVZwUEhlbzNjNGZNc1l1ZWpnZzFmNFNHWnhHYmUtaEIyQVh3cWlRVFlHLUVtOVNuTVpmNENISWZrMU1RalJnUl90VjFXU0RNcjZydEcycm5FYUw0Zi1CSGF5Tk5MMHRIOTFWMHF2c1pCY0Fzamt0TVJ1RDdyajdGSHZNOGIxMkgyZ0lySXNsSC1kVWdPeUhqStIBrAFBVV95cUxPSGp6REtXVzJSMTgtbjRKSDZWU2hjSVRjd3BETno0eUZwcFk4bTRnYTlmN1h4b2s4dmRJYVJ1b2dpdFpKaTBJclFqWmRGVW1sTEVDRFpWMXlYRDdyekRpT2xTaDJVT19GbkN6YTlPQU5QTG5hZXFlVjc4Sjg5X2Q5WUE3aUtlOHFsaGxFNnlDVmV1ZG02M2c1R2N6WXFENFpHQjloQlFoczc0UEhG?oc=5",
-            "source": "Chosunbiz",
-            "published": "11-04 20:18",
-            "snippet": "李 “물론 아닌 지역도 있다”… 서울 25개 구 중 22곳은 오름세 Chosunbiz"
-          }
-        ],
-        "가상자산 과세 유예": [
-          {
-            "title": "민주당, 말 꺼내고 벌써 세 번 미뤘다…김민석, 코인과세 유예 제안 - 매일경제 마켓",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81QURaQnpINlkzaFM0X3htRUlHRW54dmZPRVlFTm5FS24zbXhuWGV5RFRVaFc4WHhkcHphUDBnMHhUcGRDNzVxX1Qwb3M5dzBJUmc?oc=5",
-            "source": "매일경제 마켓",
-            "published": "11-05 05:59",
-            "snippet": "민주당, 말 꺼내고 벌써 세 번 미뤘다…김민석, 코인과세 유예 제안 매일경제 마켓"
-          },
-          {
-            "title": "민주당, 정부에 ‘가상자산 과세 유예’ 공식 제안…“적응기간 필요” - 경향신문",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xVTRUZi16bzJ3ODdRTU4ta2dBNk82LXpRNWFTOHR5RXJEUk9tdkl0RDlxUnZMVFl1X2hNT2huY3hOT1NHRmhpNExtLW1LS2p5M1VZR1I1eVhJZ9IBX0FVX3lxTE5WTlQzN1dTdDBFNjVIZlRzNzdFUHdVQ3BoNTJzU1k0R1pIZXFHNXI5blJjZDNxN0MwR193WFk4VjhoYWk5Y0dFSDlWa2tZNHVJbk9CTnBTSjJaaUt1S3lR?oc=5",
-            "source": "경향신문",
-            "published": "11-04 11:32",
-            "snippet": "민주당, 정부에 ‘가상자산 과세 유예’ 공식 제안…“적응기간 필요” 경향신문"
-          },
-          {
-            "title": "김민석, 정부에 '가상자산 과세 유예' 공식 제안...기간 제시 없어 - KBC광주방송",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvbEpodXM3UTBuMkdwalUzbzlnTXdDb3Q0cUxmbFNqZGtXYWRoWTlzbXBhbm1zNmc3QWJRd3FZck5VeFRLNHZINWJzZTM1ZmdMNW44aXhLdVd6azJ4d3RvVQ?oc=5",
-            "source": "KBC광주방송",
-            "published": "11-04 10:46",
-            "snippet": "김민석, 정부에 '가상자산 과세 유예' 공식 제안...기간 제시 없어 KBC광주방송"
-          },
-          {
-            "title": "與, 정부에 가상자산 과세 유예 요청…\"실효성 확보 위한 조치\" - 연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fMnVYbDNJUi1ySjZuSFRpaE5EZTFhQ3BDMUItb3E1bTh5c3dQMXdfQS1TcXNmZlF6M2tmV1I4WlFhUXRwMGhFZ2R6Mk55NnduaWw0QU9hekN3MnJZR3ZTM0VhWFZaWkJNQUhhS0NkaGY?oc=5",
+            "title": "9월 경상수지 흑자 615억달러 '역대 최대'…사상 첫 600억弗 돌파 - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KX1ljUFo4NHdJNENpcHZkLXJYWnQxLThlN3htNFRIWGdORzJRU1NCV1RVWDdxcjdOQTF5Rk0yY09XYWd3aFNSZ3ZULVdYcGZ1TUp4bi1maUVBTlFmd01XRXctUmR2MGNKQ3QzUGFwY0c?oc=5",
             "source": "연합인포맥스",
-            "published": "11-04 16:55",
-            "snippet": "與, 정부에 가상자산 과세 유예 요청…\"실효성 확보 위한 조치\" 연합인포맥스"
+            "published": "11-05 08:00",
+            "snippet": "9월 경상수지 흑자 615억달러 '역대 최대'…사상 첫 600억弗 돌파 연합인포맥스"
           },
           {
-            "title": "국제 정보교환망 미비, 가상자산 과세 미룰 이유 안 된다 [왜냐면] - 한겨레",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11Wm5jbDhrbmhMelIycHFhV2JMOFJld3J2czcxeUd5dWVFcWwtOVJIX3hScUhoN0lNVEZQeTE5MW0zcW9pQk8zMnZLSHlRbjVqWTdwMm5VOWs2S1d1MjZlN3FWTGRwNVk?oc=5",
+            "title": "9월 경상흑자 600억달러 사상 첫 돌파…반도체 수출 260%↑ - 연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CRlVzYmp5UEpBWDZaY2Z4b0xsOTA3Q1R0N0lwdng5OGlrSWFKaVV0N0ZKRlJOZExnX08xalA4eHpZVHktNEEyRXY1WnRJdlB5ekFNUHNabUFFYjTSAWBBVV95cUxNT3hLREJhbEdGbDh6RGhQUXljRndfLURxN0cxRWNZcXUzMUVObmdZekJkZmoyNlRLOUQ5Z3FoR2FCLTQ4SGw0ZEhKRDhOenpiMHNEcTVZdmEtc3RaNTYwWkU?oc=5",
+            "source": "연합뉴스",
+            "published": "11-05 08:00",
+            "snippet": "9월 경상흑자 600억달러 사상 첫 돌파…반도체 수출 260%↑ 연합뉴스"
+          },
+          {
+            "title": "9월 경상수지 흑자 사상 첫 600억달러 돌파 - 한겨레",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fOXAzcnRuMGxYa0FwbnpUcHVsUnRJem54bXAwR0U0Y0RpeGJTc3R0bVNwWC1HUWV1emROSy04bFYwcXN4Ynl6dGxoSHFxc0ZJQ25ZQnpGMXBPZllLWl8xNEd3eVJqNUktbG95cEdPUG9mZw?oc=5",
             "source": "한겨레",
-            "published": "11-05 05:00",
-            "snippet": "국제 정보교환망 미비, 가상자산 과세 미룰 이유 안 된다 [왜냐면] 한겨레"
+            "published": "11-05 08:13",
+            "snippet": "9월 경상수지 흑자 사상 첫 600억달러 돌파 한겨레"
           },
           {
-            "title": "\"준비 안 된 과세는 역차별 부른다\"… 정치권, 가상자산 소득 과세 유예 공식 제안 - 부산경남대표방송 KNN 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91aUNEc3ZJR1lLOU5naVgxSlN2M3hUMElfSk5hVGxWcktqSy1WamI3SmZCV29SbnNDMzNKdDZzaU5yOUI0WmdYV2tnQTVTdlJEWG5SbFpHZw?oc=5",
-            "source": "부산경남대표방송 KNN 뉴스",
-            "published": "11-04 10:59",
-            "snippet": "\"준비 안 된 과세는 역차별 부른다\"… 정치권, 가상자산 소득 과세 유예 공식 제안 부산경남대표방송 KNN 뉴스"
+            "title": "9월 경상수지 614.6억달러 흑자 ‘역대 최대’…반도체 수출 260%↑ - 뉴시안",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Sd29Vdk9BMlVVaFJvMkVkS2RwUUZpVW96bmRMMFRTWjlsTXF5YjFBb2JCRW1OV3BEUTR4cTFZT1RhSGh3aHZTeWhaRUVveVp5a1BKTGlTYlRSMUk2TXZqODZxQlVEYXMxN3Jscg?oc=5",
+            "source": "뉴시안",
+            "published": "11-05 08:33",
+            "snippet": "9월 경상수지 614.6억달러 흑자 ‘역대 최대’…반도체 수출 260%↑ 뉴시안"
+          },
+          {
+            "title": "월간 경상흑자 600억달러 첫 돌파…반도체 수출 260% ‘껑충’ - 경향신문",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CMW1fZkg0TzBXa1FlY0ktYzlMXzNvRk9OV0xFck1qVEJZZkc2YUhqdnRlMmZWQXFzWUczNHd6b3drWmp0NGp2cFBWNzhmdHJsQWpXYVZsN3R1Z9IBX0FVX3lxTE9SWlJOQUgyMjBWNjkyVnZiTkxRZ2RkenloRXJ3LUVscEJFTHpMaXlzR09oOGVVam4yeEE2NnZRYnRaeEE1V25QbFlsUFZ4b2xGWnVIaGhCbUFMLU1lcVRZ?oc=5",
+            "source": "경향신문",
+            "published": "11-05 08:18",
+            "snippet": "월간 경상흑자 600억달러 첫 돌파…반도체 수출 260% ‘껑충’ 경향신문"
+          },
+          {
+            "title": "반도체 수출 호조에 9월 경상수지 615억달러 흑자…역대 최대 - 강원도민일보",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43cmZubVZLSnFJcE10WGdKTVFHZ0x3RFNwZHJTUG5SdjhNa1RxcThEWjl3RUwwQVVCSmFBOWpxdlJfRzNsa0Nua08tOVUwN3JUQmY4OVprd3RHM0ZRSHQ4MTZBMnRKcjhY?oc=5",
+            "source": "강원도민일보",
+            "published": "11-05 08:22",
+            "snippet": "반도체 수출 호조에 9월 경상수지 615억달러 흑자…역대 최대 강원도민일보"
+          }
+        ],
+        "AI 반도체 투자": [
+          {
+            "title": "美 증시 'AI 투자 공식' 바뀌나…반도체 팔고 빅테크·전통주 샀다 - www.ebn.co.kr",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FV05zeUltZkV2ZHJKQWdhR0ttcHBwSEwyUlNUdDNqaE53UUhoMlNmZkh4Uzk0NWNPOXJoT2JYb0xMMnFoZlNsUWYyMHNIQ3Ixb0xLS0Z1a0tvdzlqVFp5TjdTaUxWQnhG?oc=5",
+            "source": "www.ebn.co.kr",
+            "published": "11-05 07:02",
+            "snippet": "美 증시 'AI 투자 공식' 바뀌나…반도체 팔고 빅테크·전통주 샀다 www.ebn.co.kr"
+          },
+          {
+            "title": "美 의회 거머쥔 민주당의 빅테크 청문회 예고…韓 전력기기·AI반도체, 투자 속도 주시 - 글로벌이코노믹",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ1FnbXNBYmlrUXc1VVo4U0dlS2ZheVQyNjdZMkxVZWtaa0VSbzQ4b1JHTWF2SHBMQWZnR1hZTnpwWnJaZ0hTUjUyNG5OM3lENlg1Z0lQQUpLU3NJa2dmM0xHSk1TOFhfRlQ2Nzl6d2pteG5TN3MyUU5GZGRxdElUMWdJb3NxSE1W?oc=5",
+            "source": "글로벌이코노믹",
+            "published": "11-04 19:22",
+            "snippet": "美 의회 거머쥔 민주당의 빅테크 청문회 예고…韓 전력기기·AI반도체, 투자 속도 주시 글로벌이코노믹"
+          },
+          {
+            "title": "\"AI 반도체 없어서 못 판다더니\"…삼전닉스 발목 잡은 '빅테크 현금흐름 쇼크' - 뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBTnY1b1Z5TWwxeDlzYlhsRWFjXzBkXzJwSjFMT1pWQzd0LXdoMUNRNllJanBna2YwT0VqWjVUTGtxVjU1N3hUVURidWtxczhLYmZYcXhsN2I4SUwzckZNWUZfYlRrdDhZcTVKRnpyX3Nic1Zvb19vSNIBeEFVX3lxTFBBTnY1b1Z5TWwxeDlzYlhsRWFjXzBkXzJwSjFMT1pWQzd0LXdoMUNRNllJanBna2YwT0VqWjVUTGtxVjU1N3hUVURidWtxczhLYmZYcXhsN2I4SUwzckZNWUZfYlRrdDhZcTVKRnpyX3Nic1Zvb19vSA?oc=5",
+            "source": "뉴시스",
+            "published": "11-05 06:02",
+            "snippet": "\"AI 반도체 없어서 못 판다더니\"…삼전닉스 발목 잡은 '빅테크 현금흐름 쇼크' 뉴시스"
+          },
+          {
+            "title": "AI 데이터센터·반도체에 글로벌 자본 몰린다…외국기업 7곳, 한국에 20억달러 투자 - 인공지능신문",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51M1VHQmY0VTF3Ty1pVndWTk54akVMcE1wWmdKR3FpbkpKNjMxZVJDbHMxTFhhTUp2Xzc1c3dWU0MwSmh3WUhlUmVPRkU3NVU5cEN3YVpDcFg1UHNVM2p0SGUyb29DZXc?oc=5",
+            "source": "인공지능신문",
+            "published": "11-04 19:07",
+            "snippet": "AI 데이터센터·반도체에 글로벌 자본 몰린다…외국기업 7곳, 한국에 20억달러 투자 인공지능신문"
+          },
+          {
+            "title": "글로벌 7개사 韓에 20억달러 투자…AI·반도체에 외자 몰린다 - 아시아투데이",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91SENaU1B5d2t2S1RNSkFwNUlSV09hSV9VTl9nbWF6U1d2anRIZHdLdE5lM3dGMDJlYWNsQWRBUU54ejE2LTVnWnI0WGNxTWZoa095b1A0cmtjdmJsWFlwdWo4NjRvY1I2LVowUHZR?oc=5",
+            "source": "아시아투데이",
+            "published": "11-04 15:23",
+            "snippet": "글로벌 7개사 韓에 20억달러 투자…AI·반도체에 외자 몰린다 아시아투데이"
+          },
+          {
+            "title": "[오늘의 투자전략]AI주 엇갈린 흐름…반도체 조정 땐 분할매수 - 이투데이",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJX3NYSlFWQnp0dV9JQTNKMzVIWEJrSlItV0RQZExNUTJNSUF3YmhTWjFwdFk1empqY3pHdlpDQ3ZpWDdkYzFaWXE1Q21JQ1RvaGFTNQ?oc=5",
+            "source": "이투데이",
+            "published": "11-05 08:07",
+            "snippet": "[오늘의 투자전략]AI주 엇갈린 흐름…반도체 조정 땐 분할매수 이투데이"
           }
         ]
       },
@@ -244,166 +242,165 @@
           "코스피 변동성 확대",
           "코스피 변동성 장세"
         ],
-        "서울 집값 상승": [
-          "서울 집값 상승률",
-          "서울 집값 상승률 그래프",
-          "서울 집값 상승 원인",
-          "서울 집값 상승 그래프",
-          "서울 집값 상승세",
-          "서울 집값 상승율",
-          "서울 집값 상승 추이",
-          "서울 집값 상승폭",
-          "서울 집값 상승 해결 방안"
-        ],
-        "가상자산 과세 유예": [
-          "가상자산 과세 유예 청원",
-          "가상자산 과세 유예 가능성",
-          "가상자산 과세 유예 법안",
-          "가상자산 과세 2년 유예"
+        "9월 경상수지 흑자": [],
+        "AI 반도체 투자": [
+          "ai 반도체 투자",
+          "ai 반도체 투자 거품",
+          "ai 버블 반도체 실전 투자법",
+          "ai 버블 반도체 실전 투자법 이형수",
+          "중국 ai 반도체 투자",
+          "주식 초고수 ai 반도체 투자",
+          "삼성 전자 ai 반도체 투자",
+          "한국 ai반도체 투자"
         ]
       }
     },
     "global": {
       "keywords": [
-        "미국 중간선거",
+        "미 중간선거 블루웨이브",
         "뉴욕증시 급등",
         "국제유가 폭락"
       ],
       "results": {
-        "미국 중간선거": {
-          "headline": "미 중간선거 민주당 완승, 블루쓰나미 덮쳤다",
+        "미 중간선거 블루웨이브": {
+          "headline": "미 민주당 압승이 불러온 블루웨이브",
           "facts": [
-            "미국 중간선거에서 민주당이 상·하원을 모두 과반 탈환하며 20년 만에 동시 승리를 거두는 역사적 결과를 기록함.",
-            "BBC 등 주요 외신은 민주당이 공화당의 텃밭을 깊게 파고들며 압승을 거뒀다고 보도함.",
-            "선거 전 우려되었던 샤이 트럼프 현상은 나타나지 않았고 앵그리 트럼프 표심이 선거 결과를 좌우한 것으로 분석됨.",
-            "미국 중간선거 결과에 힘입어 국내 증시에서는 배터리주 등 관련 수혜 종목들이 급등세를 나타냄.",
-            "민주당의 상·하원 석권은 향후 바이든 정부의 국정 운영 동력 확보와 경제 정책 변화에 큰 영향을 미칠 전망임."
+            "미국 중간선거 여론조사에서 예상했던 블루 웨이브를 넘어 상·하원을 모두 민주당이 장악하는 역사적인 결과가 나타남.",
+            "미 민주당의 상·하원 동시 탈환은 트럼프 행정부의 정책에 대한 심판 성격을 띠며 금융시장에 커다란 변화를 예고함.",
+            "증권가에서는 이번 블루웨이브가 규제 완화와 정책 불확실성 해소 측면에서 금융시장에 호재로 작용하며 유가와 금리 하락을 이끌 것으로 전망함.",
+            "민주당의 압승 소식이 전해지자 뉴욕증시는 불확실성 해소와 정책 기대감을 반영하며 다우지수가 3% 이상 급등함.",
+            "정치적 지형의 급변은 에너지와 테크 등 주요 산업 섹터의 주가 흐름에 직접적인 영향을 미치며 투자자들의 포트폴리오 조정을 유도함."
           ],
           "watch": [
-            "미국 중간선거 이후 바이든 정부의 입법부 장악에 따른 정책 변화",
-            "국내 증시에서 배터리 및 친환경 관련주의 추가 상승 여부",
-            "미국 정치 지형 변화가 글로벌 공급망에 미치는 영향"
+            "미 민주당 주도 하의 입법 및 정책 추진 방향",
+            "미국 국채 금리 및 달러화의 추가 움직임"
           ],
           "qna": [
             {
-              "q": "미국 중간선거 결과가 국내 주식 시장에 미치는 의미는 무엇인가?",
-              "a": "민주당의 승리로 친환경 및 배터리 관련 정책이 탄력을 받으며 관련 국내 기업의 주가에 긍정적으로 작용했다. 정치적 불확실성이 해소되면서 글로벌 증시 전반에 매수 유입이 강화되었다."
+              "q": "블루웨이브란 정치 경제적으로 정확히 어떤 상태를 뜻하는가?",
+              "q_alt": "미 중간선거 블루 웨이브",
+              "a": "블루웨이브는 미국 민주당을 상징하는 파란색에서 유래한 말로, 행정부는 물론 상원과 하원의 권력을 모두 민주당이 장악하는 현상을 뜻한다. 이 상태가 되면 대통령이 추진하려는 정책에 강력한 동력이 생긴다."
             },
             {
-              "q": "미국 중간선거 2026의 날짜와 일정은 어떻게 진행되었는가?",
-              "a": "이번 중간선거는 2026년 11월 첫째 주에 치러져 상·하원 의원을 전면 교체하는 결과를 낳았다. 임기 중간에 행정부를 견제하고 의회 권력을 재편하는 중요한 정치적 일정이 마무리되었다."
+              "q": "미국 민주당의 상·하원 장악이 금융시장에 왜 호재로 작용하는가?",
+              "a": "선거 결과로 인해 정치적 불확실성이 해소되었기 때문이다. 시장은 정국이 안정되면서 정부의 원활한 정책 집행이 가능해질 것이라는 기대를 반영하고 있다."
             },
             {
-              "q": "미국 중간선거에서 앵그리 트럼프 표심이 의미하는 바는 무엇인가?",
-              "a": "유권자들의 현 경제 상황에 대한 불만과 분노가 투표 결과로 직결되어 특정 정당에 표를 몰아주었다는 것을 뜻한다. 민심의 향방이 예상보다 강력한 표심으로 나타나 선거 지형을 뒤흔들었다."
+              "q": "블루웨이브가 현실화되면 일반 개인의 자산 관리는 어떻게 달라져야 하는가?",
+              "a": "정치 지형 변화에 따라 수혜를 보는 업종과 타격을 입는 업종이 갈릴 수 있다. 특정 테마에 맹목적으로 투자하기보다는 정책 수혜 섹터를 꼼꼼히 따져보는 지혜가 필요하다."
             }
           ]
         },
         "뉴욕증시 급등": {
-          "headline": "선거 끝나자 뉴욕증시 폭등, 다우 3% 급반등",
+          "headline": "불확실성 해소에 일제히 솟구친 뉴욕증시",
           "facts": [
-            "미국 중간선거가 민주당의 압승으로 마무리되면서 불확실성 해소와 함께 뉴욕증시가 일제히 급등 마감함.",
-            "다우존스30산업평균지수는 하루 만에 3% 이상 오르며 53,000선을 회복하는 강한 상승세를 보임.",
-            "정치적 이벤트 종료와 함께 시장의 안도 랠리가 유입되었으나 반도체주는 상대적으로 약세를 기록함.",
-            "민주당의 상·하원 석권 소식이 전해지면서 월가에서는 다우지수가 1500포인트 이상 폭등하는 기염을 토함.",
-            "증시 급등과 동시에 국제유가가 급락하는 등 거시경제 지표들이 큰 폭의 변동성을 나타냄."
+            "미국 중간선거가 종료되면서 정치적 불확실성이 해소되고 전쟁 종식에 대한 기대감이 맞물려 뉴욕증시가 일제히 급등함.",
+            "다우지수는 선거 종료의 안도감에 힘입어 전일 대비 3% 이상 오르며 53,000선을 회복하는 강한 반등을 기록함.",
+            "민주당의 압승으로 지정학적 리스크 완화 조짐이 보이고 국제유가가 8% 이상 급락하면서 증시 상승세에 결정적인 촉매제로 작용함.",
+            "투자자들은 그동안 증시의 발목을 잡던 불확실성 요인들이 해소된 것으로 판단하고 위험 자산에 대한 매수세를 대거 유입시킴.",
+            "반도체 등 일부 업종이 약세를 보이기도 했으나 전체적인 증시 지수는 대형주를 중심으로 가파른 우상향 곡선을 그림."
           ],
           "watch": [
-            "뉴욕증시 다우지수의 53,000선 안착 여부",
-            "반도체주와 전통 산업주 간의 주가 차별화 흐름",
-            "미국 증시 급등세가 국내 코스피에 미치는 동조화 현상"
+            "뉴욕증시 상승세의 단기 과열 여부",
+            "미국 경제 지표 발표에 따른 연준의 금리 정책 기조"
           ],
           "qna": [
             {
-              "q": "뉴욕증시 급등이 나의 국내 주식 투자에 주는 시사점은 무엇인가?",
-              "a": "미국 증시의 급등은 글로벌 투자 심리를 개선해 국내 증시에도 온기를 불어넣는 요인이 된다. 다만 업종별 차별화 장세가 나타날 수 있으므로 개별 기업의 펀더멘털을 점검해야 한다."
+              "q": "미국 선거가 끝나자마자 뉴욕증시가 폭등한 근본적인 원인은 무엇인가?",
+              "a": "시장이 가장 싫어하는 불확실성이 투표 결과와 함께 해소되었기 때문이다. 여기에 지정학적 갈등이 완화될 것이라는 기대감이 더해져 매수세가 몰렸다."
             },
             {
-              "q": "미국 선거 종료 직후 다우지수가 3%나 오른 직접적인 원인은 무엇인가?",
-              "a": "가장 큰 원인은 선거라는 최대의 정치적 불확실성이 해소되었기 때문이다. 여기에 민주당 압승에 따른 정책 안정성 기대감이 복합적으로 작용해 매수세를 자극했다."
+              "q": "미국 증시의 급등이 다음 날 국내 증시에는 어떤 파급효과를 주는가?",
+              "a": "글로벌 투자 심리를 개선하여 국내 증시에도 긍정적인 온기를 불어넣는 역할을 한다. 다만 국내 고유의 수급 요인에 따라 반응 속도는 다를 수 있다."
             },
             {
-              "q": "반도체주가 뉴욕증시 급등세 속에서도 약세를 보인 이유는 무엇인가?",
-              "a": "정치적 결과물에 따른 섹터별 수혜 기대감이 엇갈리면서 자금이 다른 업종으로 이동했기 때문이다. 증시 전체가 올라도 개별 산업별 업황에 따라 희비가 엇갈릴 수 있음을 보여준다."
+              "q": "증시가 갑자기 급등할 때 투자자가 경계해야 할 점은 무엇인가?",
+              "a": "급등에 따른 피로감으로 단기 차익 실현 매물이 나올 수 있음을 염두에 두어야 한다. 분위기에 휩쓸려 무리하게 빚을 내어 투자하는 행위는 매우 위험하다."
             }
           ]
         },
         "국제유가 폭락": {
-          "headline": "종전 기대감에 국제유가 8%대 폭락, 100달러 붕괴",
+          "headline": "이란전 종식 기대감에 8%대 폭락한 유가",
           "facts": [
-            "미국 중간선거에서 민주당이 압승을 거두면서 이란전 종식에 대한 기대감이 최고조에 달함.",
-            "종전 기대감의 영향으로 서부텍사스산원유(WTI)가 8.29% 폭락하며 6주 만에 배럴당 100달러 선이 무너짐.",
-            "파이낸셜뉴스 등에 따르면 국제유가는 가파르게 하락하며 장중 WTI가 배럴당 90달러 밑으로 떨어짐.",
-            "유가 급락은 인플레이션 압력을 완화하는 요인으로 작용하며 뉴욕증시 다우지수 폭등을 이끄는 마중물이 됨.",
-            "지정학적 리스크 완화 조짐이 원유 공급 차질 우려를 해소하면서 유가 하락 폭을 키움."
+            "미 민주당의 압승과 이란전 종식에 대한 기대감이 확산되면서 국제유가가 8% 이상 급락하는 폭락세를 기록함.",
+            "서부텍사스산원유(WTI) 가격이 하루 만에 8.29% 하락하는 등 에너지 시장에 거대한 충격파가 던져짐.",
+            "정치적 지형 변화로 중동 지역의 긴장감이 완화되고 원유 공급 차질 우려가 줄어들면서 가격 하락을 주도함.",
+            "유가 폭락의 여파로 그동안 고유가 수혜를 입었던 트럼프 관련 테마주는 큰 폭으로 하락하는 정반대의 흐름을 보임.",
+            "국제유가의 급격한 하락은 전 세계적인 인플레이션 압력을 낮추고 각국 중앙은행의 통화 정책에 숨통을 트여줄 것으로 전망됨."
           ],
           "watch": [
-            "국제유가 WTI의 90달러선 지지 여부",
-            "중동 지역의 실제 종전 협상 및 군사적 긴장 완화 추이",
-            "유가 급락이 글로벌 인플레이션 및 금리 정책에 미치는 영향"
+            "중동 지역의 실제 군사적 긴장 완화 지속 여부",
+            "석유수출국기구(OPEC) 등 주요 산유국의 생산량 조절 움직임"
           ],
           "qna": [
             {
-              "q": "국제유가 폭락이 실생활과 물가에 미치는 영향은 무엇인가?",
-              "a": "유가 하락은 석유제품 가격과 운송비를 낮춰 전체적인 물가 상승 압력을 덜어주는 역할을 한다. 소비자의 에너지 비용 부담을 줄여 가계 경제에 숨통을 틔워줄 수 있다."
+              "q": "국제유가가 갑자기 8%나 폭락한 이유는 구체적으로 무엇인가?",
+              "a": "미국 선거에서 민주당이 압승을 거두면서 중동 지역의 전쟁이 종식될 수 있다는 평화적 기대감이 커졌기 때문이다. 원유 공급 불안이 해소될 것이라는 전망이 가격을 끌어내렸다."
             },
             {
-              "q": "미국 민주당 압승이 왜 이란전 종식과 유가 하락으로 이어지는가?",
-              "a": "외교적 해결을 중시하는 정권의 기조 변화가 중동 분쟁 해결에 대한 시장의 기대를 높였기 때문이다. 지정학적 리스크 해소 전망이 원유 공급 불안을 잠재워 가격을 떨어뜨렸다."
+              "q": "유가 하락은 우리의 일상적인 생활비와 물가에 어떤 영향을 미치는가?",
+              "a": "기름값과 운송비가 낮아지면서 전반적인 물가 상승 압력이 줄어드는 효과가 있다. 가계의 에너지 비용 부담을 덜어주는 긍정적인 요인으로 작용한다."
             },
             {
-              "q": "배럴당 100달러가 무너진 유가 하락세가 투자에 미치는 영향은 어떻게 봐야 하는가?",
-              "a": "에너지 비용 절감으로 수혜를 보는 항공, 운송, 제조업 등에는 긍정적인 신호로 작용한다. 반면 에너지 관련 기업들의 실적에는 부담이 될 수 있어 업종별 명암을 살피는 것이 중요하다."
+              "q": "유가 폭락 시 에너지 관련 주식에 투자할 때 주의할 점은 무엇인가?",
+              "a": "유가 변동성은 예측하기 매우 어렵기 때문에 단기 하락만 보고 성급하게 저가 매수에 나서는 것은 삼가야 한다. 산유국의 감산 정책 등 글로벌 변수를 함께 점검해야 한다."
             }
           ]
         }
       },
       "news": {
-        "미국 중간선거": [
+        "미 중간선거 블루웨이브": [
           {
-            "title": "미국 중간선거: 민주당, 역사적 승리…공화당 텃밭 깊게 파고들었다 - BBC",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSZWVINFZ3S3UzMzZJamNRMFg0bWZFanp6aUdkcG9qZzN3RUQyV2RnbTVjdjNsWDNVenYxS0ktam02aWlIRmJQbXRVRDVRUHlDcTVUT0o0SmFzOEF3OHfSAWNBVV95cUxPeFNfTUVjc3QxODQtQzdXQXFoRndkSWNHM2lfWnZxdW12eUdGRm9ZalpCOWw1UzE4Q2tjblVIMS1XU2ZIQmplVXRhdjdLMW9NYTVqX2dQaWlDbHVZRWRrMjVOUGc?oc=5",
-            "source": "BBC",
-            "published": "11-04 22:47",
-            "snippet": "미국 중간선거: 민주당, 역사적 승리…공화당 텃밭 깊게 파고들었다 BBC"
-          },
-          {
-            "title": "[중간선거] 미국 휩쓴 ‘블루쓰나미’…민주, 상·하원 20년 만에 동시 탈환 - KBS 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiSkI1aXFMVHF0aWxBakNUUW1YQ2Y0WHI4ampTTnNuMzNpajIzdTBVcWxZWExtNUI0T3NCMlZSdlROMkpwNWFmUmh6bGExZ1AwRU5nck11QnpDYkE?oc=5",
-            "source": "KBS 뉴스",
-            "published": "11-04 22:06",
-            "snippet": "[중간선거] 미국 휩쓴 ‘블루쓰나미’…민주, 상·하원 20년 만에 동시 탈환 KBS 뉴스"
-          },
-          {
-            "title": "[美중간선거] '샤이 트럼프' 없었다…'앵그리 트럼프' 표심이 결과 좌우(종합) - 연합뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YT3ZXVHNFeE45UlN3cnE1UXdteFFTRUphaGU0Rk56dmVWc0VTaUpqVm1vbHp3UE1aQjFJcjN1aWpPUjZndHZMY1dOUENxRmQ2MWk3Y21kTnYweDjSAWBBVV95cUxOOFd6ZUFid3Z5NjdIOUg0aE9YMWFJSC11aEx5bzNvalZqcEZqSTlLbFViLWZNTlREVHB2MldYRk52eVJEcDNkeXBIeFlvZFg5SlRLRUpDZXgyMEpFOVFjX2M?oc=5",
+            "title": "[美중간선거] 여론조사, 블루 웨이브 예상했지만 쓰나미는 못봤다 - 연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54cmJRckhxNUd2cEN4T2xLRHpMeXJ0MW03eENlWmZyNFNuT2NxM2N2djN1TUFrZzIwajFEbDduaXpZTHhPRllhdHRXdHprd2JyZGZmem9iRFRncFHSAWBBVV95cUxNNExpSHM5TnN6RXAwdHpJVFRJaGo4dXcwdWlyNDQwTU45OXhGYUxhZnNqdWt5bHptZnZ3QjNVTm1BOEZoVGxic0pTdW9CMXIxcTZKc3lVdlcwZHN6VmJoc00?oc=5",
             "source": "연합뉴스",
-            "published": "11-04 19:41",
-            "snippet": "[美중간선거] '샤이 트럼프' 없었다…'앵그리 트럼프' 표심이 결과 좌우(종합) 연합뉴스"
+            "published": "11-05 08:27",
+            "snippet": "[美중간선거] 여론조사, 블루 웨이브 예상했지만 쓰나미는 못봤다 연합뉴스"
           },
           {
-            "title": "민주당, 미 중간선거서 상·하원 과반 탈환 - YTN",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XZ2pZNVZ5NHY0dkpiTzZDUWZBY2hKWXhmdmNFMzctWFdRZmMtTE9YdEtHeXR5YzNZdG1faG9JR0ZkWVBWUklHaVJNVnNzdW1wN3hrRDVMV3hnb2lnR1E?oc=5",
+            "title": "[미 중간선거] ‘블루 웨이브’ 넘어 ‘블루 쓰나미’···미 민주당, 상·하원 장악 - 경향신문",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tWlE3aVhfQkFtY0NNUV9FNkYyNDM4Uk9ERW44djhpVmM3emlKM2xzUDlWUFlWbDZfcGl4LVFCZXgxd2ZSR1dMelhhVm5fYmdBWnB2NWZKbHdoZ9IBX0FVX3lxTE5HM0RmeGdNT3VLYTd1Sl9Bb0toUmlIU3cxMl9qN09WMmdEVktUYl95SWFkdG1IZmdwLWlqWk5DdVpUV2ZhbjRnT3ZSVUJtOW1sQTRvYXQ1Y3p6RllLcWpn?oc=5",
+            "source": "경향신문",
+            "published": "11-04 17:25",
+            "snippet": "[미 중간선거] ‘블루 웨이브’ 넘어 ‘블루 쓰나미’···미 민주당, 상·하원 장악 경향신문"
+          },
+          {
+            "title": "미 민주당 상·하원 동시 탈환…역사적 ‘블루 웨이브’, 트럼프 심판했다 - 한겨레",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GOEtsY2JiUjJqcXp2QTZJY182c1hWQUs0SWZ2Qlp4d0hpU1pmUllyRWx0MS1oRzFzVXQ4UEV1R0ZQSC1MdzlmeXdod0J6WUZKM21wYlJwN2Z1Z190UlBwdURCVjJzZE5fSVAtV0d1QQ?oc=5",
+            "source": "한겨레",
+            "published": "11-05 00:54",
+            "snippet": "미 민주당 상·하원 동시 탈환…역사적 ‘블루 웨이브’, 트럼프 심판했다 한겨레"
+          },
+          {
+            "title": "IM증권 \"美 블루웨이브, 금융시장에 호재…유가·금리 하락 기대\" - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2dVgtRHFQMGpLMjlaa3FpVzdXZ3p6MU85SVFPcjJoTE1ham4td0UydjRSR1RsamhpRE1HS29QbWFKZ1MxY0xsblQ2QW81ZmcwSE5ZN080TmNNTHlhZEFPLW9FQ2dmb0lZUExKc0xZTVbSAXRBVV95cUxNRzFLbmxoU0FFX1lGbzVPZXZrdU1rSTBESFExTFlXcVlxVkNzZ0tBLVpkZVFBLXliXzRGUkh5Yi0zaV9fRThGNUJzWjVyblJxOGM1QlF3anZISUEzQmQ4RXJhYmg0eFZnTUJ1ZUZmeE1tM3lEcQ?oc=5",
+            "source": "연합인포맥스",
+            "published": "11-05 07:48",
+            "snippet": "IM증권 \"美 블루웨이브, 금융시장에 호재…유가·금리 하락 기대\" 연합인포맥스"
+          },
+          {
+            "title": "미 중간선거 '블루 웨이브' 넘어 '블루 쓰나미' [이슈플러스] - YTN",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lMEVqY0FHRzk2NDF2UC1kYUJOb2JVN2NqazR5V2N5T2lOX0s0YVFLVUwyV2cxS0FBcFB0V1FuUlYyNUlvMk14VnJ6TkVsZmVnWlg2ZElGUm5BRmhyTGc?oc=5",
             "source": "YTN",
-            "published": "11-04 15:38",
-            "snippet": "민주당, 미 중간선거서 상·하원 과반 탈환 YTN"
+            "published": "11-04 19:09",
+            "snippet": "미 중간선거 '블루 웨이브' 넘어 '블루 쓰나미' [이슈플러스] YTN"
           },
           {
-            "title": "미 중간선거서 민주 상·하원 모두 승리 유력 - 연합뉴스TV",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnNVFoZmFHUy10YjNnVk5XMkNnam85QnNPVVE2b0F2Vk9acWVMVmlMVUJsbTRjMURpb0k3N1lCcGxucjk5MXFoMHF3Z1FHWTZrUzBQTnJqNTU5VDlnSXNXSkQzV0hNQW8?oc=5",
-            "source": "연합뉴스TV",
-            "published": "11-04 13:37",
-            "snippet": "미 중간선거서 민주 상·하원 모두 승리 유력 연합뉴스TV"
-          },
-          {
-            "title": "미국 중간선거 민주당 승리에 국내 배터리주 급등 - Investing.com 한국어",
-            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtelN4c2F0eENZRWJkU19HQUp2Y1pZeE9lTDVncEFRS3pwelhPRS1rZDB0UzBERk1CYkg0LUUzMjVtOGxwVlIzZ1ZRQ1YtVUQ5b0hJNWw0Y1l4N3JkS3FTYnh1WkU4SGU0dlZ6LTM5b0wyMHJFbzFn?oc=5",
-            "source": "Investing.com 한국어",
-            "published": "11-04 17:49",
-            "snippet": "미국 중간선거 민주당 승리에 국내 배터리주 급등 Investing.com 한국어"
+            "title": "美 중간선거 ‘블루웨이브’에 뉴욕증시 급등…다우 3%↑ - 마켓인",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzZDk5Ukx4dGFYbmpwYkNXdVhuc0ROZ2RzYXVKR0oxN3N4dHJkQWlZWG5KSWYyd1NNRkNkbl94RTRCbmJhaGszOFVJdjB5N0RLSEtwSkZxMzF4S3ZUX1gwb3FRMVFBdW40Ym9mU0FxTmF0YXM?oc=5",
+            "source": "마켓인",
+            "published": "11-05 07:52",
+            "snippet": "美 중간선거 ‘블루웨이브’에 뉴욕증시 급등…다우 3%↑ 마켓인"
           }
         ],
         "뉴욕증시 급등": [
+          {
+            "title": "전쟁 종식 기대·불확실성 완화에 뉴욕증시 급등 - 연합뉴스TV",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XOFd6eWxpZVJFVUFPeDJ4b1lxVmtwMFdkaXoxY0xxdG5CNkhuQ0pvTkd0UzJ0bVoxRmxaVWd2WFZ6WVpZNGJWdU5YZG5sS0NTWThJc2o5U0kxamhqUzJody1yRklhaDA?oc=5",
+            "source": "연합뉴스TV",
+            "published": "11-05 08:27",
+            "snippet": "전쟁 종식 기대·불확실성 완화에 뉴욕증시 급등 연합뉴스TV"
+          },
           {
             "title": "美선거 끝나자 뉴욕증시 급등…다우 3% 오르며 53,000선 회복 - 연합뉴스",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qUlN0Y2FxZk1WaEQ2SmVfMWtac0NPVjVnUktUUmFRNGRjaXFsQXhUTFM0UExGdGFLVFZmNE93b3RuTmQxdHNSOTI4alJYN3lYQXdYRGNOdEdqdVHSAWBBVV95cUxNaUV0SHNvZ2tDbllOU01vMjRpUG5NTXVNOVNpb2tzNmJRdS1jVThlZmZqV2tpV2xQU19Wc1A0VWYwNy10SmRJVExoWHVoVTlLM3FhNXNOTl9fdzFFZGpseDQ?oc=5",
@@ -412,42 +409,42 @@
             "snippet": "美선거 끝나자 뉴욕증시 급등…다우 3% 오르며 53,000선 회복 연합뉴스"
           },
           {
-            "title": "뉴욕 증시, 중간 선거 '민주당 압승'에 급등세 - YTN",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JU3VrWjZaeHcwRE1tMFF6Yzh2M1ZERWdHNE45bmF0Zl82S25obFBkb1VFSW9ZWnpockxrMXd4NVFnamVKdkpVY1k3SGE1MW80VU0yb00tZmxKTks4OXc?oc=5",
+            "title": "미국 중간선거 이후 불확실성 개선 기대감에 뉴욕 증시 급등 - YTN",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlMkluLURPMktJOHlLVkxyaGhlQlhxODZ1Yzk1RUhtbzhaa0xibEMtZ2pJX2p0bVRlcUJBXzh4LTY0M3NoSFV6UVIwS3VFMkRQQVFMRVFUOVlXUVR6aldhQVhJUDFHRWNkSXZEcjdmZ3NxeElEVnc?oc=5",
             "source": "YTN",
-            "published": "11-05 03:49",
-            "snippet": "뉴욕 증시, 중간 선거 '민주당 압승'에 급등세 YTN"
+            "published": "11-05 07:05",
+            "snippet": "미국 중간선거 이후 불확실성 개선 기대감에 뉴욕 증시 급등 YTN"
           },
           {
-            "title": "[서울데이터랩]미 뉴욕증시 일제히 상승 마감…다우 3%대 급등, 반도체주는 약세 - 서울신문",
-            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBSVp3LUNua3hrOXVaaHFGTXAzNkp0Y3dPVFRrLThFVDdEcWhQOGx0UmdiNmViWHI0WVUxNWhHVXlpRVFJUU14cHdlbm9ULUlTLUxuZWRPSXdIOV9tQ3U5ZWxHaERnX2Rnc3VCUXFuUzhfOVZaT0FQTVpmM0t3Zw?oc=5",
-            "source": "서울신문",
-            "published": "11-05 06:13",
-            "snippet": "[서울데이터랩]미 뉴욕증시 일제히 상승 마감…다우 3%대 급등, 반도체주는 약세 서울신문"
+            "title": "뉴욕증시, 미 중간선거 불확실성 해소에 일제히 급등 - KBS 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nZ2EwMVAtWjZ2LWlnSW16TGlzOG16LTVMSjNrTmNSQW5LVWllOHZZX3BNX0pGcUttbERJQnh3QkgxRWlSaDZYRU84UDMtM29nSnpCYXNpVUZraXM?oc=5",
+            "source": "KBS 뉴스",
+            "published": "11-05 06:38",
+            "snippet": "뉴욕증시, 미 중간선거 불확실성 해소에 일제히 급등 KBS 뉴스"
           },
           {
-            "title": "뉴욕증시, 美 민주 압승 속 급등 마감…다우 3%↑·유가 급락 - 뉴스핌",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hRElSdWc2WWk3WXNQUnUtbmlfd0ViSDdraUNNNFJiSUktbktHX3FHbzBBTDZsQkNnM2g3UzVzQ2tFUlJkel96MW9kNmRUNVlBMll2Vk1nUW45VU5H?oc=5",
-            "source": "뉴스핌",
-            "published": "11-05 06:19",
-            "snippet": "뉴욕증시, 美 민주 압승 속 급등 마감…다우 3%↑·유가 급락 뉴스핌"
+            "title": "美민주당 압승에 국제유가 8%대 급락, 뉴욕증시 급등 - 동아일보",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1veUY5Wjd2bEdMTjZDMnU4cEVRMHhqbzd4VHB6MmR1bWNKQkVidlhDWHVGU3daa2F1TWZKTk5IM0Z3OHkwZkdFZ1ZQWmdpVlZFY0pFcnJ1bFZaaElMYVRYelZNSTZ3UFlfQjNHNERKWVpmZnfSAWZBVV95cUxNTHR1VUd2dERUOXJCNmlMVHVudFhiTTBoY2JZdHpEY3lTd0w2N0VrTWdYcVVGRkZUYkJUSUVKRVctQ01TYXpQdXdfNzVwNWRwWk1LT3VQMUFxNDdIaGppZ3djLXMyZ2c?oc=5",
+            "source": "동아일보",
+            "published": "11-05 07:24",
+            "snippet": "美민주당 압승에 국제유가 8%대 급락, 뉴욕증시 급등 동아일보"
           },
           {
-            "title": "[속보] 뉴욕증시, 급등⋯다우 3.03%↑ - 이투데이",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56bG8yN1Ewei1WNXdRLURQcC1YcnJ0WFN4UDUxbUZKUVRpMG9PbTNScE5NNXN2M1h6Nm9xZDFqSEpRUUE4cXN2OEpHckZqWkdRSk5lQg?oc=5",
-            "source": "이투데이",
-            "published": "11-05 06:07",
-            "snippet": "[속보] 뉴욕증시, 급등⋯다우 3.03%↑ 이투데이"
-          },
-          {
-            "title": "[속보] 뉴욕증시, 민주당 중간선거 압승에 급등 마감…다우 3%↑ - 뉴스1",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xTUlyR3hVQkU0UWM5VE82am5EWjd6OGViWmdJZ3lLUlZLdTE0emMtYmZwcEtGQUNUemFsSk9UR3RrcGR6RC1PaWVKUTVkdUUwZi1Md3RTdWVIVHlKbGlYYW1DdHdOYnc?oc=5",
-            "source": "뉴스1",
-            "published": "11-05 06:00",
-            "snippet": "[속보] 뉴욕증시, 민주당 중간선거 압승에 급등 마감…다우 3%↑ 뉴스1"
+            "title": "美 민주당 '블루웨이브'에 다우 3.03% 급등... 반도체는 약세 [뉴욕증시] - 매일일보",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52Q2o3ZEhDdU16VnFNVzZBYm9BSnFLSGpsdTF5V09oQVZmNElZRWJhb1pMT2JIdjEyTjRlaDBSNkJFM2ZkWVNPR0hBUmFwM3UySHdpUmlhN05GeEhnOGh1d0ZKM3I?oc=5",
+            "source": "매일일보",
+            "published": "11-05 08:15",
+            "snippet": "美 민주당 '블루웨이브'에 다우 3.03% 급등... 반도체는 약세 [뉴욕증시] 매일일보"
           }
         ],
         "국제유가 폭락": [
+          {
+            "title": "미 민주 압승 '이란전 종식' 기대에 국제유가 폭락‥WTI 8.29%↓ - MBC 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FcWdUbmxMSV9kUl9YUm4tc2JZUllnZkhBb0xEN1RGR0ZKaDFoM3kzMEoyeUd1bHkydzJwWTM0SUVndC16WkYtT2ItSE82TUNCRDZ4T1ZaN1padlY5Smg5ZlZQNUlldDBpOFhWcnZoWl9QV1JW0gF0QVVfeXFMTm51bkVWQVpsSl9PTGM5dGRoRjFvMnotQXhpd1BIakZlQWdNQUZVMzkyaHZtYTlIOW1HajNtaFhVRjdLcGxpQnJHX3l5RE9KYklJcGFrRnI3aVNDeThlYmxxUUNVcUo1bVlaaTE3UFFqbXUzQmI?oc=5",
+            "source": "MBC 뉴스",
+            "published": "11-05 07:34",
+            "snippet": "미 민주 압승 '이란전 종식' 기대에 국제유가 폭락‥WTI 8.29%↓ MBC 뉴스"
+          },
           {
             "title": "美민주 압승 '이란전 종식' 기대에 국제유가 폭락…WTI 8.29%↓ - 연합뉴스",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nSGwwRjlJYnVtZnV2M2QyT3czVGZTYzQ3SDVoUng1SEFJT2F4WUFyUUhycVJCMEFBWVUzVjZ5TFNyRTQxZGQwVXZxX0syMG82eTBBYzRMdVhiQThRM0pHVdIBYEFVX3lxTE9nSGwwRjlJYnVtZnV2M2QyT3czVGZTYzQ3SDVoUng1SEFJT2F4WUFyUUhycVJCMEFBWVUzVjZ5TFNyRTQxZGQwVXZxX0syMG82eTBBYzRMdVhiQThRM0pHVQ?oc=5",
@@ -463,232 +460,210 @@
             "snippet": "[속보]‘전쟁 끝나겠네’…국제유가 8% 폭락, 다우 3% 급등 문화일보"
           },
           {
-            "title": "'美 민주당 압승'에 이란전 종식 기대감 최고조…국제유가 8%대 '폭락' - 뉴시안",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xajk0R3ZzQVZCcnVNaGNYLU1QOFJ3SVZLWGtoWTU5aFQ3RWdVV2Zka0JIaDN2N0tXZlJ4NzUxeFhBdXBhUHhFNkNRTmN2c0hZRk9TNUNsRUVuYW1hWXZqRDNaU1BOczRLNXFiRw?oc=5",
-            "source": "뉴시안",
-            "published": "11-05 06:23",
-            "snippet": "'美 민주당 압승'에 이란전 종식 기대감 최고조…국제유가 8%대 '폭락' 뉴시안"
+            "title": "증시 '급등' 속 트럼프 테마주 '폭락'...국제유가 8% 넘게 '급락' - YTN",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55X1R3WHVyTFpVYm9ERnozMXFvQ1BnSHc3TUx6Qzc0RGVzUUNtU3dtSWJVVERnd3pRRzhJUDJCQTkteDYyRHhaZER6T2VHUVg4dU91MkZDWm12ZmRNWUE?oc=5",
+            "source": "YTN",
+            "published": "11-05 08:06",
+            "snippet": "증시 '급등' 속 트럼프 테마주 '폭락'...국제유가 8% 넘게 '급락' YTN"
           },
           {
-            "title": "[월가 레이더] 민주당 상·하원 석권에 다우 1500P 폭등…국제유가 8% 급락 - 포커스온경제",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIWllRb19DSlNRX1NuZ1dIWnduTGhad2g0cThYcTVrc1h6SFZWRHF2WW1vV1BNcENESGEyYnNaU1IzVUo0ek01dWJ6dWJDSng0SmNlSGl6MXpINC1GSmc?oc=5",
-            "source": "포커스온경제",
-            "published": "11-05 05:20",
-            "snippet": "[월가 레이더] 민주당 상·하원 석권에 다우 1500P 폭등…국제유가 8% 급락 포커스온경제"
+            "title": "美선거 끝나자 뉴욕증시 급등…국제유가는 폭락 - 부산일보",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4ydi1ibVJoVjBRNDExZ1o0X0stX1BvZWFBYVlhRlJQa1d1aUpId1QyQ2lLanVZM1BkaktaQ0ZoOGdZbVJUby1LLUZiLTRxM3pISHJka05TSjZxQlNnN2pEWDFBcUdrclZkR2RZM25teTAzOXpk?oc=5",
+            "source": "부산일보",
+            "published": "11-05 07:00",
+            "snippet": "美선거 끝나자 뉴욕증시 급등…국제유가는 폭락 부산일보"
           },
           {
-            "title": "[국제유가] 6주 만에 배럴당 100달러 붕괴...美 민주당 압승에 종전 기대감 고조 - 파이낸셜뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBERGgwWTZicmNVZWVwTWJNS3VwSkdObUh0dW8xeTdaZHpwekgyalVUNnpub2Z1cVdfX1V5cllXMm1GT3VVV1pyNlpmSXpCWWQ4R1B1b0txRWhKZw?oc=5",
-            "source": "파이낸셜뉴스",
-            "published": "11-05 05:48",
-            "snippet": "[국제유가] 6주 만에 배럴당 100달러 붕괴...美 민주당 압승에 종전 기대감 고조 파이낸셜뉴스"
-          },
-          {
-            "title": "국제유가, 미-이란 종전 기대감에 8% 넘게 폭락...WTI, 6주만에 배럴당 90달러 밑으로 - 비욘드포스트",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JdHVoMGQ3eXd0dzFIOUxsTjhyV0hEVFBTb2JqS3ZmQ3pHamx1T1dEZHBJMjB2NVdwVkRVS1V4R2VNRHFCVmJyMlZJTXZsWGlrNFlsN19nTEF0QlFqU3prWW92dndDUWFzQnA5VWU1M3A5d2JHVnk4MENIWXM?oc=5",
-            "source": "비욘드포스트",
-            "published": "11-05 06:09",
-            "snippet": "국제유가, 미-이란 종전 기대감에 8% 넘게 폭락...WTI, 6주만에 배럴당 90달러 밑으로 비욘드포스트"
+            "title": "美민주당 압승에 국제유가 8%대 급락, 뉴욕증시 급등 - 동아일보",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1veUY5Wjd2bEdMTjZDMnU4cEVRMHhqbzd4VHB6MmR1bWNKQkVidlhDWHVGU3daa2F1TWZKTk5IM0Z3OHkwZkdFZ1ZQWmdpVlZFY0pFcnJ1bFZaaElMYVRYelZNSTZ3UFlfQjNHNERKWVpmZnfSAWZBVV95cUxNTHR1VUd2dERUOXJCNmlMVHVudFhiTTBoY2JZdHpEY3lTd0w2N0VrTWdYcVVGRkZUYkJUSUVKRVctQ01TYXpQdXdfNzVwNWRwWk1LT3VQMUFxNDdIaGppZ3djLXMyZ2c?oc=5",
+            "source": "동아일보",
+            "published": "11-05 07:24",
+            "snippet": "美민주당 압승에 국제유가 8%대 급락, 뉴욕증시 급등 동아일보"
           }
         ]
       },
       "queries": {
-        "미국 중간선거": [
-          "미국 중간선거 2026",
-          "미국 중간선거 일정",
-          "미국 중간선거 의미",
-          "미국 중간선거 2026 날짜",
-          "미국 중간선거 날짜",
-          "미국 중간선거 예측",
-          "미국 중간선거일",
-          "미국 중간선거 언제",
-          "미국 중간선거 결과",
-          "미국 중간선거 뜻"
-        ],
+        "미 중간선거 블루웨이브": [],
         "뉴욕증시 급등": [],
         "국제유가 폭락": []
       }
     },
     "keywords": [
       "코스피 변동성",
-      "서울 집값 상승",
-      "가상자산 과세 유예",
-      "미국 중간선거",
+      "9월 경상수지 흑자",
+      "AI 반도체 투자",
+      "미 중간선거 블루웨이브",
       "뉴욕증시 급등",
       "국제유가 폭락"
     ],
     "results": {
       "코스피 변동성": {
-        "headline": "롤러코스터 탄 코스피, 변동성 키운 원인은?",
+        "headline": "롤러코스터 탄 코스피, 왜 이럴까?",
         "facts": [
-          "미국 중간선거를 앞두고 경계감이 확산하면서 코스피 시장의 수급이 꼬여 지수가 5680선에서 극심한 롤러코스터 장세를 보임.",
-          "코스피 변동성지수가 단 하루 만에 7% 급등하고 日 변동성도 3개월래 최대치를 기록하는 등 불안정한 흐름이 뚜렷해짐.",
-          "주가 급등락이 반복되면서 코스피 시장에서 프로그램매수호가 일시효력표시(VI) 발동 건수가 5만 건을 넘어 역대 최다를 기록함.",
-          "투자자들의 관망세와 불확실성이 커진 가운데 기관과 외인의 수급 공방으로 인해 지수 방어와 변동성 확대가 동시에 나타남.",
-          "극심한 변동성 장세 속에서도 현대차가 2% 오르는 등 개별 종목별로 실적과 이슈에 따라 차별화된 주가 흐름이 포착됨."
+          "미국 중간선거를 앞두고 관망세가 짙어진 가운데 수급이 꼬이면서 코스피 변동성지수가 하루 만에 7% 상승함.",
+          "코스피가 5680선 안팎에서 극심한 등락을 거듭하는 과정에서 역대 최대 규모의 변동성완화장치(VI) 발동 건수를 기록함.",
+          "미 증시의 급등세에도 불구하고 국내 증시는 반도체 수급 불안과 정치적 불확실성이 겹치면서 롤러코스터 장세를 연출함.",
+          "시장 참여자들의 경계감이 최고조에 달한 상황에서 현대차 등 일부 대형주가 반등을 시도했으나 전체적인 변동성 확대를 방어하기에는 역부족이었음.",
+          "일본 증시 역시 변동성이 3개월래 최대치를 기록하는 등 아시아 주요 증시 전반에 걸쳐 투자 심리가 불안정한 모습을 보임."
         ],
         "watch": [
-          "미국 중간선거 결과에 따른 글로벌 증시 방향성",
-          "국내 증시 프로그램매매 VI 발동 추이와 수급 변화",
-          "환율 및 외국인 투자자의 자금 이탈 여부"
+          "미국 중간선거 개표 결과와 증시 방향성",
+          "반도체 업종의 수급 개선 여부",
+          "추가 변동성완화장치(VI) 발동 추이"
         ],
         "qna": [
           {
-            "q": "코스피 변동성 지수 etf는 무엇이고 어떻게 활용하는가?",
-            "a": "변동성 지수 etf는 주가가 하락하거나 변동성이 커질 때 수익이 나도록 설계된 상품이다. 시장의 공포 심리가 극대화될 때 헤지 수단으로 활용되지만 단기 등락이 심해 주의가 필요하다."
+            "q": "코스피 변동성 지수(VKOSPI)란 정확히 무엇을 의미하는가?",
+            "a": "코스피 변동성 지수는 향후 시장이 얼마나 크게 출렁일지 예상하는 투자자의 불안 심리를 수치화한 지표이다. 이 지수가 오르면 시장의 불확실성과 리스크가 그만큼 커졌음을 의미한다."
           },
           {
-            "q": "코스피 변동성 지표는 주식 투자에 어떻게 활용하는가?",
-            "a": "변동성 지표는 시장의 불안감과 위험 수준을 수치화하여 보여주는 도구이다. 지표가 급등할 때는 투자 심리가 위축된 상태이므로 신중한 접근과 리스크 관리가 요구된다."
+            "q": "최근 코스피 변동성이 이토록 심해진 이유는 무엇인가?",
+            "a": "미국 중간선거라는 거대한 정치적벤처 이벤트를 앞두고 관망 심리가 팽배해진 것이 주원인이다. 여기에 반도체 등 주도주의 수급이 꼬이면서 지수가 널뛰는 장세가 연출되었다."
           },
           {
-            "q": "코스피 변동성이 커지면 내 자산에는 어떤 영향이 있는가?",
-            "a": "시장 변동성 확대는 보유 주식의 단기적인 가격 등락 폭을 키워 자산 가치의 불안정성을 높인다. 섣부른 매매보다는 포트폴리오의 리스크를 점검하고 장기적인 관점을 유지하는 것이 바람직하다."
+            "q": "변동성 장세가 심할 때 초보 투자자는 어떻게 대처해야 하는가?",
+            "a": "단기적인 주가 등락에 일희일비하여 추격 매매를 하는 것은 손실을 키울 위험이 크다. 시장의 방향성이 확실해질 때까지 자산 비중을 조절하며 신중하게 접근할 필요가 있다."
           }
         ]
       },
-      "서울 집값 상승": {
-        "headline": "서울 집값 상승세 지속… 엇갈리는 해석들",
+      "9월 경상수지 흑자": {
+        "headline": "역대 최대 기록한 9월 경상수지",
         "facts": [
-          "이 대통령이 서울 집값이 놀라울 정도로 하락했다고 언급한 것을 두고 야당인 오세훈 시장이 집계 이래 최고라고 반박함.",
-          "대통령의 하락 발언 인용 보도에 대해 대통령실이 2차 가짜뉴스라며 시정을 요구하고 나서는 등 정치적 공방이 가열됨.",
-          "한국일보 등의 실제 통계 분석 결과 서울 집값은 90주 연속 상승세를 기록하며 실제 시장 분위기와 차이를 보임.",
-          "Chosunbiz 보도에 따르면 서울 25개 구 가운데 22개 구에서 여전히 오름세를 나타내며 하락 주권과 괴리가 발생함.",
-          "일부 지역의 조정 가능성에도 불구하고 서울 전반의 부동산 시장은 여전히 상승 추이가 꺾이지 않은 상태를 유지함."
+          "9월 경상수지가 615억 달러 흑자를 기록하며 월간 기준 사상 처음으로 600억 달러를 돌파함.",
+          "이번 흑자는 역대 최대 규모로 반도체 수출이 전년 동기 대비 260% 폭증하며 전체 실적을 강력하게 견인함.",
+          "글로벌 교역 환경의 변동 속에서도 주력 품목인 반도체의 압도적인 수출 호조가 무역 흑자 규모를 극대화하는 결정적 원인으로 작용함.",
+          "사상 첫 600억 달러 돌파라는 기록은 국내 대외 경제의 기초체력이 여전히 탄탄함을 보여주는 지표로 평가받음.",
+          "반도체 외에도 주요 산업의 수출 실적이 받쳐주면서 국가 전체의 경상수지 흑자 행진에 크게 기여함."
         ],
         "watch": [
-          "서울 25개 구별 실제 매매가 상승률 추이",
-          "정부의 부동산 정책 기조와 통계 기관 발표 내용",
-          "실거래가와 대통령 발언 간의 괴리 해소 여부"
+          "반도체 수출 호조세의 지속 가능성",
+          "글로벌 수요 변화에 따른 무역수지 추이"
         ],
         "qna": [
           {
-            "q": "서울 집값 상승률 그래프와 실제 체감 경기가 다른 이유는 무엇인가?",
-            "a": "공식 통계는 전체 평균을 반영하지만 개별 단지와 선호 지역에 따라 가격 오름세가 다르게 나타나기 때문이다. 통계 지표와 개인이 체감하는 시장 분위기 사이에는 시차와 지역별 편차가 존재한다."
+            "q": "경상수지 흑자가 사상 최대를 기록하면 우리 일상에는 어떤 좋은 점이 있는가?",
+            "a": "경상수지 흑자는 국가로 들어오는 달러가 나가는 달러보다 훨씬 많다는 뜻이다. 이는 국가 경제의 안정성을 높이고 원화 가치를 지키는 긍정적인 역할을 한다."
           },
           {
-            "q": "서울 집값 상승 원인은 주로 무엇으로 분석되는가?",
-            "a": "공급 부족 우려와 선호 지역에 대한 매수 심리가 복합적으로 작용하여 가격을 밀어올리고 있다. 시중 유동성과 금리 환경도 부동산 수요를 자극하는 요인으로 작용한다."
+            "q": "이번 경상수지 흑자를 이끈 일등 공신은 무엇인가?",
+            "a": "단연 반도체 수출의 폭발적인 증가이다. 반도체 수출액이 전년 대비 260%나 급증하면서 전체 경상수지 흑자 규모를 사상 처음으로 600억 달러 선 위에 올려놓았다."
           },
           {
-            "q": "이러한 집값 상승세가 무주택자의 내집 마련에 미치는 영향은 무엇인가?",
-            "a": "상승세가 장기화될수록 주거 비용 부담이 커지고 매수 진입 장벽이 높아질 수 있다. 정책 변화와 대출 규제를 면밀히 살피며 본인의 재정 상황에 맞는 주거 계획을 세워야 한다."
+            "q": "이렇게 수출이 잘되면 당장 내 주식 계좌나 소비에도 도움이 되는가?",
+            "a": "거시경제 지표의 호조가 곧바로 개인의 투자 수익이나 체감 경기로 직결되지는 않는다. 다만 국가 경제의 기초체력이 탄탄하다는 신호로 해석할 수 있다."
           }
         ]
       },
-      "가상자산 과세 유예": {
-        "headline": "또 미뤄지나… 정치권의 가상자산 과세 유예 제안",
+      "AI 반도체 투자": {
+        "headline": "바뀌는 AI 투자 공식과 반도체 동향",
         "facts": [
-          "민주당 김민석 의원이 정부에 가상자산 소득 과세 유예를 공식 제안하며 과세 제도의 적응 기간 필요성을 강조함.",
-          "민주당 지도부가 가상자산 과세 유예를 꺼내 든 것은 이번이 벌써 세 번째로 제도 실효성 확보를 위한 조치라고 설명함.",
-          "국제 정보교환망 미비 등 준비되지 않은 과세는 역차별을 불러올 수 있다는 정치권의 지적이 이어짐.",
-          "KBC광주방송 보도에 따르면 김민석 의원이 유예를 공식 제안했으나 구체적인 유예 기간은 제시되지 않음.",
-          "여당을 중심으로 가상자산 과세 시기를 미뤄야 한다는 목소리가 커지면서 관련 법안 논의에 관심이 집중됨."
+          "미국 증시에서 AI 투자 공식에 변화가 감지되면서 반도체 관련 주는 팔고 빅테크 및 전통주를 매수하는 흐름이 나타남.",
+          "미 의회를 장악한 민주당의 빅테크 청문회 예고로 인해 한국의 전력기기와 AI 반도체 관련 기업들이 투자 속도를 주시함.",
+          "AI 반도체 품귀 현상에도 불구하고 삼성전자와 SK하이닉스 등 국내 대표 기업들이 빅테크의 현금흐름 쇼크 여파로 주가 발목을 잡힘.",
+          "글로벌 자본이 AI 데이터센터와 반도체 분야로 대거 몰리면서 외국기업 7곳이 한국에 총 20억 달러 규모의 투자를 단행함.",
+          "전문가들은 AI 주식의 흐름이 엇갈리는 가운데 반도체 주가가 조정받을 때 분할 매수하는 전략을 유효한 투자 대안으로 제시함."
         ],
         "watch": [
-          "정부의 가상자산 과세 유예 수용 여부 및 공식 입장",
-          "국회 기획재정위원회에서의 관련 법안 처리 속도",
-          "가상자산 과세 관련 국제 정보교환망 구축 진척도"
+          "글로벌 빅테크 기업들의 AI 관련 투자 집행 속도",
+          "국내 반도체 대기업의 실적 및 현금흐름 변화"
         ],
         "qna": [
           {
-            "q": "가상자산 과세 유예 청원과 법안의 통과 가능성은 얼마나 되는가?",
-            "a": "투자자들의 반발과 정치권의 유예 제안이 맞물려 법안 개정 논의가 급물살을 탈 가능성이 높다. 다만 정부의 세수 확보 계획과 맞물려 최종 합의까지는 진통이 예상된다."
+            "q": "AI 반도체 투자와 관련해 시장에서 거품 논란이 나오는 이유는 무엇인가?",
+            "a": "천문학적인 자금이 AI 인프라에 쏟아부어지고 있지만, 실제 빅테크 기업들의 현금흐름에 부담을 주기 시작했기 때문이다. 투자의 속도 조절이 필요하다는 목소리가 커지고 있다."
           },
           {
-            "q": "가상자산 과세가 유예되면 코인 투자자들에게 어떤 이점이 있는가?",
-            "a": "세금 납부 시기가 늦춰지면서 투자 수익에 대한 즉각적인 세금 부담을 일정 기간 피할 수 있다. 세부적인 과세 인프라가 정비될 때까지 투자 자금을 보다 유연하게 운용할 수 있다."
+            "q": "글로벌 기업들이 한국의 AI 반도체와 데이터센터에 대규모로 투자하는 이유는 무엇인가?",
+            "a": "한국이 우수한 반도체 제조 생태계와 인프라를 갖추고 있기 때문이다. 글로벌 자본은 AI 시대의 핵심 공급망을 선점하기 위해 한국 시장에 지속적인 러브콜을 보내고 있다."
           },
           {
-            "q": "준비되지 않은 가상자산 과세가 역차별을 유발하는 이유는 무엇인가?",
-            "a": "국내외 거래소 간의 정보 불균형과 미흡한 과세 인프라로 인해 국내 투자자에게만 불리한 환경이 조성될 수 있기 때문이다. 공정한 과세 기준이 확립되기 전에는 시장 혼란을 야기할 수 있다."
+            "q": "반도체 주가가 조정받을 때 분할 매수하는 전략은 안전한가?",
+            "a": "분할 매수는 리스크를 분산하는 전통적인 투자법이지만 주가의 바닥을 정확히 알 수 없다는 한계가 있다. 따라서 기업의 본질적 가치와 업황을 면밀히 분석한 후 접근해야 한다."
           }
         ]
       },
-      "미국 중간선거": {
-        "headline": "미 중간선거 민주당 완승, 블루쓰나미 덮쳤다",
+      "미 중간선거 블루웨이브": {
+        "headline": "미 민주당 압승이 불러온 블루웨이브",
         "facts": [
-          "미국 중간선거에서 민주당이 상·하원을 모두 과반 탈환하며 20년 만에 동시 승리를 거두는 역사적 결과를 기록함.",
-          "BBC 등 주요 외신은 민주당이 공화당의 텃밭을 깊게 파고들며 압승을 거뒀다고 보도함.",
-          "선거 전 우려되었던 샤이 트럼프 현상은 나타나지 않았고 앵그리 트럼프 표심이 선거 결과를 좌우한 것으로 분석됨.",
-          "미국 중간선거 결과에 힘입어 국내 증시에서는 배터리주 등 관련 수혜 종목들이 급등세를 나타냄.",
-          "민주당의 상·하원 석권은 향후 바이든 정부의 국정 운영 동력 확보와 경제 정책 변화에 큰 영향을 미칠 전망임."
+          "미국 중간선거 여론조사에서 예상했던 블루 웨이브를 넘어 상·하원을 모두 민주당이 장악하는 역사적인 결과가 나타남.",
+          "미 민주당의 상·하원 동시 탈환은 트럼프 행정부의 정책에 대한 심판 성격을 띠며 금융시장에 커다란 변화를 예고함.",
+          "증권가에서는 이번 블루웨이브가 규제 완화와 정책 불확실성 해소 측면에서 금융시장에 호재로 작용하며 유가와 금리 하락을 이끌 것으로 전망함.",
+          "민주당의 압승 소식이 전해지자 뉴욕증시는 불확실성 해소와 정책 기대감을 반영하며 다우지수가 3% 이상 급등함.",
+          "정치적 지형의 급변은 에너지와 테크 등 주요 산업 섹터의 주가 흐름에 직접적인 영향을 미치며 투자자들의 포트폴리오 조정을 유도함."
         ],
         "watch": [
-          "미국 중간선거 이후 바이든 정부의 입법부 장악에 따른 정책 변화",
-          "국내 증시에서 배터리 및 친환경 관련주의 추가 상승 여부",
-          "미국 정치 지형 변화가 글로벌 공급망에 미치는 영향"
+          "미 민주당 주도 하의 입법 및 정책 추진 방향",
+          "미국 국채 금리 및 달러화의 추가 움직임"
         ],
         "qna": [
           {
-            "q": "미국 중간선거 결과가 국내 주식 시장에 미치는 의미는 무엇인가?",
-            "a": "민주당의 승리로 친환경 및 배터리 관련 정책이 탄력을 받으며 관련 국내 기업의 주가에 긍정적으로 작용했다. 정치적 불확실성이 해소되면서 글로벌 증시 전반에 매수 유입이 강화되었다."
+            "q": "블루웨이브란 정치 경제적으로 정확히 어떤 상태를 뜻하는가?",
+            "q_alt": "미 중간선거 블루 웨이브",
+            "a": "블루웨이브는 미국 민주당을 상징하는 파란색에서 유래한 말로, 행정부는 물론 상원과 하원의 권력을 모두 민주당이 장악하는 현상을 뜻한다. 이 상태가 되면 대통령이 추진하려는 정책에 강력한 동력이 생긴다."
           },
           {
-            "q": "미국 중간선거 2026의 날짜와 일정은 어떻게 진행되었는가?",
-            "a": "이번 중간선거는 2026년 11월 첫째 주에 치러져 상·하원 의원을 전면 교체하는 결과를 낳았다. 임기 중간에 행정부를 견제하고 의회 권력을 재편하는 중요한 정치적 일정이 마무리되었다."
+            "q": "미국 민주당의 상·하원 장악이 금융시장에 왜 호재로 작용하는가?",
+            "a": "선거 결과로 인해 정치적 불확실성이 해소되었기 때문이다. 시장은 정국이 안정되면서 정부의 원활한 정책 집행이 가능해질 것이라는 기대를 반영하고 있다."
           },
           {
-            "q": "미국 중간선거에서 앵그리 트럼프 표심이 의미하는 바는 무엇인가?",
-            "a": "유권자들의 현 경제 상황에 대한 불만과 분노가 투표 결과로 직결되어 특정 정당에 표를 몰아주었다는 것을 뜻한다. 민심의 향방이 예상보다 강력한 표심으로 나타나 선거 지형을 뒤흔들었다."
+            "q": "블루웨이브가 현실화되면 일반 개인의 자산 관리는 어떻게 달라져야 하는가?",
+            "a": "정치 지형 변화에 따라 수혜를 보는 업종과 타격을 입는 업종이 갈릴 수 있다. 특정 테마에 맹목적으로 투자하기보다는 정책 수혜 섹터를 꼼꼼히 따져보는 지혜가 필요하다."
           }
         ]
       },
       "뉴욕증시 급등": {
-        "headline": "선거 끝나자 뉴욕증시 폭등, 다우 3% 급반등",
+        "headline": "불확실성 해소에 일제히 솟구친 뉴욕증시",
         "facts": [
-          "미국 중간선거가 민주당의 압승으로 마무리되면서 불확실성 해소와 함께 뉴욕증시가 일제히 급등 마감함.",
-          "다우존스30산업평균지수는 하루 만에 3% 이상 오르며 53,000선을 회복하는 강한 상승세를 보임.",
-          "정치적 이벤트 종료와 함께 시장의 안도 랠리가 유입되었으나 반도체주는 상대적으로 약세를 기록함.",
-          "민주당의 상·하원 석권 소식이 전해지면서 월가에서는 다우지수가 1500포인트 이상 폭등하는 기염을 토함.",
-          "증시 급등과 동시에 국제유가가 급락하는 등 거시경제 지표들이 큰 폭의 변동성을 나타냄."
+          "미국 중간선거가 종료되면서 정치적 불확실성이 해소되고 전쟁 종식에 대한 기대감이 맞물려 뉴욕증시가 일제히 급등함.",
+          "다우지수는 선거 종료의 안도감에 힘입어 전일 대비 3% 이상 오르며 53,000선을 회복하는 강한 반등을 기록함.",
+          "민주당의 압승으로 지정학적 리스크 완화 조짐이 보이고 국제유가가 8% 이상 급락하면서 증시 상승세에 결정적인 촉매제로 작용함.",
+          "투자자들은 그동안 증시의 발목을 잡던 불확실성 요인들이 해소된 것으로 판단하고 위험 자산에 대한 매수세를 대거 유입시킴.",
+          "반도체 등 일부 업종이 약세를 보이기도 했으나 전체적인 증시 지수는 대형주를 중심으로 가파른 우상향 곡선을 그림."
         ],
         "watch": [
-          "뉴욕증시 다우지수의 53,000선 안착 여부",
-          "반도체주와 전통 산업주 간의 주가 차별화 흐름",
-          "미국 증시 급등세가 국내 코스피에 미치는 동조화 현상"
+          "뉴욕증시 상승세의 단기 과열 여부",
+          "미국 경제 지표 발표에 따른 연준의 금리 정책 기조"
         ],
         "qna": [
           {
-            "q": "뉴욕증시 급등이 나의 국내 주식 투자에 주는 시사점은 무엇인가?",
-            "a": "미국 증시의 급등은 글로벌 투자 심리를 개선해 국내 증시에도 온기를 불어넣는 요인이 된다. 다만 업종별 차별화 장세가 나타날 수 있으므로 개별 기업의 펀더멘털을 점검해야 한다."
+            "q": "미국 선거가 끝나자마자 뉴욕증시가 폭등한 근본적인 원인은 무엇인가?",
+            "a": "시장이 가장 싫어하는 불확실성이 투표 결과와 함께 해소되었기 때문이다. 여기에 지정학적 갈등이 완화될 것이라는 기대감이 더해져 매수세가 몰렸다."
           },
           {
-            "q": "미국 선거 종료 직후 다우지수가 3%나 오른 직접적인 원인은 무엇인가?",
-            "a": "가장 큰 원인은 선거라는 최대의 정치적 불확실성이 해소되었기 때문이다. 여기에 민주당 압승에 따른 정책 안정성 기대감이 복합적으로 작용해 매수세를 자극했다."
+            "q": "미국 증시의 급등이 다음 날 국내 증시에는 어떤 파급효과를 주는가?",
+            "a": "글로벌 투자 심리를 개선하여 국내 증시에도 긍정적인 온기를 불어넣는 역할을 한다. 다만 국내 고유의 수급 요인에 따라 반응 속도는 다를 수 있다."
           },
           {
-            "q": "반도체주가 뉴욕증시 급등세 속에서도 약세를 보인 이유는 무엇인가?",
-            "a": "정치적 결과물에 따른 섹터별 수혜 기대감이 엇갈리면서 자금이 다른 업종으로 이동했기 때문이다. 증시 전체가 올라도 개별 산업별 업황에 따라 희비가 엇갈릴 수 있음을 보여준다."
+            "q": "증시가 갑자기 급등할 때 투자자가 경계해야 할 점은 무엇인가?",
+            "a": "급등에 따른 피로감으로 단기 차익 실현 매물이 나올 수 있음을 염두에 두어야 한다. 분위기에 휩쓸려 무리하게 빚을 내어 투자하는 행위는 매우 위험하다."
           }
         ]
       },
       "국제유가 폭락": {
-        "headline": "종전 기대감에 국제유가 8%대 폭락, 100달러 붕괴",
+        "headline": "이란전 종식 기대감에 8%대 폭락한 유가",
         "facts": [
-          "미국 중간선거에서 민주당이 압승을 거두면서 이란전 종식에 대한 기대감이 최고조에 달함.",
-          "종전 기대감의 영향으로 서부텍사스산원유(WTI)가 8.29% 폭락하며 6주 만에 배럴당 100달러 선이 무너짐.",
-          "파이낸셜뉴스 등에 따르면 국제유가는 가파르게 하락하며 장중 WTI가 배럴당 90달러 밑으로 떨어짐.",
-          "유가 급락은 인플레이션 압력을 완화하는 요인으로 작용하며 뉴욕증시 다우지수 폭등을 이끄는 마중물이 됨.",
-          "지정학적 리스크 완화 조짐이 원유 공급 차질 우려를 해소하면서 유가 하락 폭을 키움."
+          "미 민주당의 압승과 이란전 종식에 대한 기대감이 확산되면서 국제유가가 8% 이상 급락하는 폭락세를 기록함.",
+          "서부텍사스산원유(WTI) 가격이 하루 만에 8.29% 하락하는 등 에너지 시장에 거대한 충격파가 던져짐.",
+          "정치적 지형 변화로 중동 지역의 긴장감이 완화되고 원유 공급 차질 우려가 줄어들면서 가격 하락을 주도함.",
+          "유가 폭락의 여파로 그동안 고유가 수혜를 입었던 트럼프 관련 테마주는 큰 폭으로 하락하는 정반대의 흐름을 보임.",
+          "국제유가의 급격한 하락은 전 세계적인 인플레이션 압력을 낮추고 각국 중앙은행의 통화 정책에 숨통을 트여줄 것으로 전망됨."
         ],
         "watch": [
-          "국제유가 WTI의 90달러선 지지 여부",
-          "중동 지역의 실제 종전 협상 및 군사적 긴장 완화 추이",
-          "유가 급락이 글로벌 인플레이션 및 금리 정책에 미치는 영향"
+          "중동 지역의 실제 군사적 긴장 완화 지속 여부",
+          "석유수출국기구(OPEC) 등 주요 산유국의 생산량 조절 움직임"
         ],
         "qna": [
           {
-            "q": "국제유가 폭락이 실생활과 물가에 미치는 영향은 무엇인가?",
-            "a": "유가 하락은 석유제품 가격과 운송비를 낮춰 전체적인 물가 상승 압력을 덜어주는 역할을 한다. 소비자의 에너지 비용 부담을 줄여 가계 경제에 숨통을 틔워줄 수 있다."
+            "q": "국제유가가 갑자기 8%나 폭락한 이유는 구체적으로 무엇인가?",
+            "a": "미국 선거에서 민주당이 압승을 거두면서 중동 지역의 전쟁이 종식될 수 있다는 평화적 기대감이 커졌기 때문이다. 원유 공급 불안이 해소될 것이라는 전망이 가격을 끌어내렸다."
           },
           {
-            "q": "미국 민주당 압승이 왜 이란전 종식과 유가 하락으로 이어지는가?",
-            "a": "외교적 해결을 중시하는 정권의 기조 변화가 중동 분쟁 해결에 대한 시장의 기대를 높였기 때문이다. 지정학적 리스크 해소 전망이 원유 공급 불안을 잠재워 가격을 떨어뜨렸다."
+            "q": "유가 하락은 우리의 일상적인 생활비와 물가에 어떤 영향을 미치는가?",
+            "a": "기름값과 운송비가 낮아지면서 전반적인 물가 상승 압력이 줄어드는 효과가 있다. 가계의 에너지 비용 부담을 덜어주는 긍정적인 요인으로 작용한다."
           },
           {
-            "q": "배럴당 100달러가 무너진 유가 하락세가 투자에 미치는 영향은 어떻게 봐야 하는가?",
-            "a": "에너지 비용 절감으로 수혜를 보는 항공, 운송, 제조업 등에는 긍정적인 신호로 작용한다. 반면 에너지 관련 기업들의 실적에는 부담이 될 수 있어 업종별 명암을 살피는 것이 중요하다."
+            "q": "유가 폭락 시 에너지 관련 주식에 투자할 때 주의할 점은 무엇인가?",
+            "a": "유가 변동성은 예측하기 매우 어렵기 때문에 단기 하락만 보고 성급하게 저가 매수에 나서는 것은 삼가야 한다. 산유국의 감산 정책 등 글로벌 변수를 함께 점검해야 한다."
           }
         ]
       }
@@ -710,6 +685,13 @@
           "snippet": "美 중간선거 대기에 꼬인 수급…코스피 변동성지수 하루만에 7%↑ - 머니투데이 머니투데이"
         },
         {
+          "title": "[마켓 프리뷰] 美증시 급등에도 코스피 변동성 전망…반도체 수급 주목 - 아주경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90ay1KWnFvVi1vbS1HVnBPUE15UjRMck5kZEt0eW90ekttRDV4bHcxWTI0X2VtZlNqYzFjeEtJSnRIRFNqTURadjlSaVFMUmVxdUhPRm1QdjhoUdIBWEFVX3lxTFBnYlpTN1YxT3ZVTEFUdjBlY0FhdFJ1SG1fN2RqQ05nbHNJdFhZVG90alppTVc3bXlEQTgzaHRreVFUWU1IM1VsWTV2TTltR2ZCNUJhUGRTZlo?oc=5",
+          "source": "아주경제",
+          "published": "11-05 08:14",
+          "snippet": "[마켓 프리뷰] 美증시 급등에도 코스피 변동성 전망…반도체 수급 주목 아주경제"
+        },
+        {
           "title": "[1104마감체크] 코스피, 美 중간선거 불확실성에 변동성 확대… 5680선 사수 - 인포스탁데일리",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40RURxOHNGMnhpYTNiWlptUldFNEt4Mi0zTWtYNkl2UFpsZTk1S2VGTUdtaUZrc2NfRE1zSjBhRFBMR25sc3RlZ21GR2JpYk5CVGJmNTZMWXByeTdKTVVNV3p3R3RzQkg3NkhWaVVjWmE3WW42MEE?oc=5",
           "source": "인포스탁데일리",
@@ -729,148 +711,148 @@
           "source": "MBC 뉴스",
           "published": "11-04 11:27",
           "snippet": "코스피 '롤러코스터'‥VI 발동 이미 역대 최대 MBC 뉴스"
-        },
-        {
-          "title": "코스피 변동성 급증…VI 발동 5만건 넘어 역대 최다 - 미디어스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZZDNKem4zZUk0M0RGZ2lZNHBubjNMdElnd1VOTGlSamVmbGxZcVRTTzVEWlBCT2lwY2gxenVwRzVBQ20tbVZwQWFIMGlSUGtBaDJNbXJpcjZ1WWpIVDJqdkdMb3hSeXMzOThJdNIBcEFVX3lxTFBTYjNRTFVwWjdBR1hPOXl1UXpKcUZOTGlyUkpGb213WHlMSENNWElvbnVkUERYNFdpY0pZcEN1aFBiZl9kVHVFZjNya1R2aXFmYXM3M1BnOGlwblFhQUZYRkUwbnBvenlNaU5CanpOVno?oc=5",
-          "source": "미디어스",
-          "published": "11-04 11:44",
-          "snippet": "코스피 변동성 급증…VI 발동 5만건 넘어 역대 최다 미디어스"
         }
       ],
-      "서울 집값 상승": [
+      "9월 경상수지 흑자": [
         {
-          "title": "이 대통령 \"‘집값 폭락’ 발언 왜곡 이은 2차 가짜뉴스...시정 바란다\" - JTBC",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CelBja2ZNYWpZclpudWdkSGRXZGRvTjZwZ0Nadzc2U2tkb2ZydzVSREtwd1YtVVVLRmlNNDdSNnQwMUY2ME8yV3VxcjViVnk1MHdjbQ?oc=5",
-          "source": "JTBC",
-          "published": "11-04 23:44",
-          "snippet": "이 대통령 \"‘집값 폭락’ 발언 왜곡 이은 2차 가짜뉴스...시정 바란다\" JTBC"
-        },
-        {
-          "title": "이 대통령 “서울 집값 놀라울 정도로 하락” vs 오세훈 “집계 이래 최고” - 서울일보",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xNHk5QmFBLVVXN19pWkF5dHdVcHdvZjdpckRxNXRjNmFTUFpWLVp5Z2hUQU5oWWhpSTZBM1JDWjluT3FEcjVNTEYxRGdUdE01SU43Mlo0SjhlX3NQM0RGTnlyWm5Hd0pZR0FN0gFvQVVfeXFMT2N2WFl2LXdyejFqdlNQYTV5SUpTUk5yc0hSUXM4Ymc4Q25LVDV4WjBpSzRQTlhLTnlrMkgzR0prMWZxTkhXVEZqM2V6eHBWOXRiM3dNa0xYREc4dWYzZkVoQmNOblJxNzY0ZUU5SnZJ?oc=5",
-          "source": "서울일보",
-          "published": "11-04 19:13",
-          "snippet": "이 대통령 “서울 집값 놀라울 정도로 하락” vs 오세훈 “집계 이래 최고” 서울일보"
-        },
-        {
-          "title": "이 대통령 \"집값 떨어졌다\" 인용 제목에 또 \"가짜뉴스\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DcXBRWmgtVzBjYnk0M1Rjd08tTVNMRDROQzlpZzh1S1ZoSTFteTh1eEFraGlUcEh0OVJxN3RLQThSV2t6eko2QjE1V3VmaDFZbVZpdE40dng1cGZVSlRoWVF0YXJVc213VF9qbjI1YzJ3Ump6ZVZuOdIBeEFVX3lxTE1DcXBRWmgtVzBjYnk0M1Rjd08tTVNMRDROQzlpZzh1S1ZoSTFteTh1eEFraGlUcEh0OVJxN3RLQThSV2t6eko2QjE1V3VmaDFZbVZpdE40dng1cGZVSlRoWVF0YXJVc213VF9qbjI1YzJ3Ump6ZVZuOQ?oc=5",
-          "source": "MBC 뉴스",
-          "published": "11-04 22:32",
-          "snippet": "이 대통령 \"집값 떨어졌다\" 인용 제목에 또 \"가짜뉴스\" MBC 뉴스"
-        },
-        {
-          "title": "李 서울 집값 놀라울 만큼 떨어져…실제로 따져보니 - SBS Biz",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tVXBQVERWLVowYnExQklFcTRYOWptTW5iQ3RWUC1QbExtcUNPUlZqZkZELWU2eFhwanJMelBZOEdFSVUtRWhLb1k0YXlrWG1IWk1v0gFYQVVfeXFMT1loS3FELV9RVzN5UnVPcXNHZXptN1RocENHaTRWWmJGZGZBOGE4eXg0MkZPSl9QaVJyVnJxb3BLVzRXME13Vmt3SE1aM213Zi15Q0JnekJyOA?oc=5",
-          "source": "SBS Biz",
-          "published": "11-04 19:02",
-          "snippet": "李 서울 집값 놀라울 만큼 떨어져…실제로 따져보니 SBS Biz"
-        },
-        {
-          "title": "\"집값 떨어졌다\"는 대통령 말, 사실일까... 서울은 90주 연속 상승 - 한국일보",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mUEdzYnQ4eUJIWERoYkUyQ0FHT1ExNndneFRSVG1MZlNOTXcwZFlmX25JTkZqTFExb2draVM4VVFXaVNtQ0F3SVhPYm5vN1dodDB2SVVoaE53SmM3ZFMwbFVBSHFZb3djLU1lRVJn0gFzQVVfeXFMUEFSY091MlVzbU1OQnVRTVR5Nzdwdmp6MnpteW40OE5LdmtjNkhob3pULU94YUJTQzZHRmdUTmxXTC1nR1FNT1pJbGV6SGRvVHdCMGZkVkZ3a3JqYjYwSE82ZFZvbjNISTRJc0ZwVFNPNkZTWQ?oc=5",
-          "source": "한국일보",
-          "published": "11-04 04:30",
-          "snippet": "\"집값 떨어졌다\"는 대통령 말, 사실일까... 서울은 90주 연속 상승 한국일보"
-        },
-        {
-          "title": "李 “물론 아닌 지역도 있다”… 서울 25개 구 중 22곳은 오름세 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTVZwUEhlbzNjNGZNc1l1ZWpnZzFmNFNHWnhHYmUtaEIyQVh3cWlRVFlHLUVtOVNuTVpmNENISWZrMU1RalJnUl90VjFXU0RNcjZydEcycm5FYUw0Zi1CSGF5Tk5MMHRIOTFWMHF2c1pCY0Fzamt0TVJ1RDdyajdGSHZNOGIxMkgyZ0lySXNsSC1kVWdPeUhqStIBrAFBVV95cUxPSGp6REtXVzJSMTgtbjRKSDZWU2hjSVRjd3BETno0eUZwcFk4bTRnYTlmN1h4b2s4dmRJYVJ1b2dpdFpKaTBJclFqWmRGVW1sTEVDRFpWMXlYRDdyekRpT2xTaDJVT19GbkN6YTlPQU5QTG5hZXFlVjc4Sjg5X2Q5WUE3aUtlOHFsaGxFNnlDVmV1ZG02M2c1R2N6WXFENFpHQjloQlFoczc0UEhG?oc=5",
-          "source": "Chosunbiz",
-          "published": "11-04 20:18",
-          "snippet": "李 “물론 아닌 지역도 있다”… 서울 25개 구 중 22곳은 오름세 Chosunbiz"
-        }
-      ],
-      "가상자산 과세 유예": [
-        {
-          "title": "민주당, 말 꺼내고 벌써 세 번 미뤘다…김민석, 코인과세 유예 제안 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81QURaQnpINlkzaFM0X3htRUlHRW54dmZPRVlFTm5FS24zbXhuWGV5RFRVaFc4WHhkcHphUDBnMHhUcGRDNzVxX1Qwb3M5dzBJUmc?oc=5",
-          "source": "매일경제 마켓",
-          "published": "11-05 05:59",
-          "snippet": "민주당, 말 꺼내고 벌써 세 번 미뤘다…김민석, 코인과세 유예 제안 매일경제 마켓"
-        },
-        {
-          "title": "민주당, 정부에 ‘가상자산 과세 유예’ 공식 제안…“적응기간 필요” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xVTRUZi16bzJ3ODdRTU4ta2dBNk82LXpRNWFTOHR5RXJEUk9tdkl0RDlxUnZMVFl1X2hNT2huY3hOT1NHRmhpNExtLW1LS2p5M1VZR1I1eVhJZ9IBX0FVX3lxTE5WTlQzN1dTdDBFNjVIZlRzNzdFUHdVQ3BoNTJzU1k0R1pIZXFHNXI5blJjZDNxN0MwR193WFk4VjhoYWk5Y0dFSDlWa2tZNHVJbk9CTnBTSjJaaUt1S3lR?oc=5",
-          "source": "경향신문",
-          "published": "11-04 11:32",
-          "snippet": "민주당, 정부에 ‘가상자산 과세 유예’ 공식 제안…“적응기간 필요” 경향신문"
-        },
-        {
-          "title": "김민석, 정부에 '가상자산 과세 유예' 공식 제안...기간 제시 없어 - KBC광주방송",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvbEpodXM3UTBuMkdwalUzbzlnTXdDb3Q0cUxmbFNqZGtXYWRoWTlzbXBhbm1zNmc3QWJRd3FZck5VeFRLNHZINWJzZTM1ZmdMNW44aXhLdVd6azJ4d3RvVQ?oc=5",
-          "source": "KBC광주방송",
-          "published": "11-04 10:46",
-          "snippet": "김민석, 정부에 '가상자산 과세 유예' 공식 제안...기간 제시 없어 KBC광주방송"
-        },
-        {
-          "title": "與, 정부에 가상자산 과세 유예 요청…\"실효성 확보 위한 조치\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fMnVYbDNJUi1ySjZuSFRpaE5EZTFhQ3BDMUItb3E1bTh5c3dQMXdfQS1TcXNmZlF6M2tmV1I4WlFhUXRwMGhFZ2R6Mk55NnduaWw0QU9hekN3MnJZR3ZTM0VhWFZaWkJNQUhhS0NkaGY?oc=5",
+          "title": "9월 경상수지 흑자 615억달러 '역대 최대'…사상 첫 600억弗 돌파 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KX1ljUFo4NHdJNENpcHZkLXJYWnQxLThlN3htNFRIWGdORzJRU1NCV1RVWDdxcjdOQTF5Rk0yY09XYWd3aFNSZ3ZULVdYcGZ1TUp4bi1maUVBTlFmd01XRXctUmR2MGNKQ3QzUGFwY0c?oc=5",
           "source": "연합인포맥스",
-          "published": "11-04 16:55",
-          "snippet": "與, 정부에 가상자산 과세 유예 요청…\"실효성 확보 위한 조치\" 연합인포맥스"
+          "published": "11-05 08:00",
+          "snippet": "9월 경상수지 흑자 615억달러 '역대 최대'…사상 첫 600억弗 돌파 연합인포맥스"
         },
         {
-          "title": "국제 정보교환망 미비, 가상자산 과세 미룰 이유 안 된다 [왜냐면] - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11Wm5jbDhrbmhMelIycHFhV2JMOFJld3J2czcxeUd5dWVFcWwtOVJIX3hScUhoN0lNVEZQeTE5MW0zcW9pQk8zMnZLSHlRbjVqWTdwMm5VOWs2S1d1MjZlN3FWTGRwNVk?oc=5",
+          "title": "9월 경상흑자 600억달러 사상 첫 돌파…반도체 수출 260%↑ - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CRlVzYmp5UEpBWDZaY2Z4b0xsOTA3Q1R0N0lwdng5OGlrSWFKaVV0N0ZKRlJOZExnX08xalA4eHpZVHktNEEyRXY1WnRJdlB5ekFNUHNabUFFYjTSAWBBVV95cUxNT3hLREJhbEdGbDh6RGhQUXljRndfLURxN0cxRWNZcXUzMUVObmdZekJkZmoyNlRLOUQ5Z3FoR2FCLTQ4SGw0ZEhKRDhOenpiMHNEcTVZdmEtc3RaNTYwWkU?oc=5",
+          "source": "연합뉴스",
+          "published": "11-05 08:00",
+          "snippet": "9월 경상흑자 600억달러 사상 첫 돌파…반도체 수출 260%↑ 연합뉴스"
+        },
+        {
+          "title": "9월 경상수지 흑자 사상 첫 600억달러 돌파 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fOXAzcnRuMGxYa0FwbnpUcHVsUnRJem54bXAwR0U0Y0RpeGJTc3R0bVNwWC1HUWV1emROSy04bFYwcXN4Ynl6dGxoSHFxc0ZJQ25ZQnpGMXBPZllLWl8xNEd3eVJqNUktbG95cEdPUG9mZw?oc=5",
           "source": "한겨레",
-          "published": "11-05 05:00",
-          "snippet": "국제 정보교환망 미비, 가상자산 과세 미룰 이유 안 된다 [왜냐면] 한겨레"
+          "published": "11-05 08:13",
+          "snippet": "9월 경상수지 흑자 사상 첫 600억달러 돌파 한겨레"
         },
         {
-          "title": "\"준비 안 된 과세는 역차별 부른다\"… 정치권, 가상자산 소득 과세 유예 공식 제안 - 부산경남대표방송 KNN 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91aUNEc3ZJR1lLOU5naVgxSlN2M3hUMElfSk5hVGxWcktqSy1WamI3SmZCV29SbnNDMzNKdDZzaU5yOUI0WmdYV2tnQTVTdlJEWG5SbFpHZw?oc=5",
-          "source": "부산경남대표방송 KNN 뉴스",
-          "published": "11-04 10:59",
-          "snippet": "\"준비 안 된 과세는 역차별 부른다\"… 정치권, 가상자산 소득 과세 유예 공식 제안 부산경남대표방송 KNN 뉴스"
+          "title": "9월 경상수지 614.6억달러 흑자 ‘역대 최대’…반도체 수출 260%↑ - 뉴시안",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Sd29Vdk9BMlVVaFJvMkVkS2RwUUZpVW96bmRMMFRTWjlsTXF5YjFBb2JCRW1OV3BEUTR4cTFZT1RhSGh3aHZTeWhaRUVveVp5a1BKTGlTYlRSMUk2TXZqODZxQlVEYXMxN3Jscg?oc=5",
+          "source": "뉴시안",
+          "published": "11-05 08:33",
+          "snippet": "9월 경상수지 614.6억달러 흑자 ‘역대 최대’…반도체 수출 260%↑ 뉴시안"
+        },
+        {
+          "title": "월간 경상흑자 600억달러 첫 돌파…반도체 수출 260% ‘껑충’ - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CMW1fZkg0TzBXa1FlY0ktYzlMXzNvRk9OV0xFck1qVEJZZkc2YUhqdnRlMmZWQXFzWUczNHd6b3drWmp0NGp2cFBWNzhmdHJsQWpXYVZsN3R1Z9IBX0FVX3lxTE9SWlJOQUgyMjBWNjkyVnZiTkxRZ2RkenloRXJ3LUVscEJFTHpMaXlzR09oOGVVam4yeEE2NnZRYnRaeEE1V25QbFlsUFZ4b2xGWnVIaGhCbUFMLU1lcVRZ?oc=5",
+          "source": "경향신문",
+          "published": "11-05 08:18",
+          "snippet": "월간 경상흑자 600억달러 첫 돌파…반도체 수출 260% ‘껑충’ 경향신문"
+        },
+        {
+          "title": "반도체 수출 호조에 9월 경상수지 615억달러 흑자…역대 최대 - 강원도민일보",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43cmZubVZLSnFJcE10WGdKTVFHZ0x3RFNwZHJTUG5SdjhNa1RxcThEWjl3RUwwQVVCSmFBOWpxdlJfRzNsa0Nua08tOVUwN3JUQmY4OVprd3RHM0ZRSHQ4MTZBMnRKcjhY?oc=5",
+          "source": "강원도민일보",
+          "published": "11-05 08:22",
+          "snippet": "반도체 수출 호조에 9월 경상수지 615억달러 흑자…역대 최대 강원도민일보"
         }
       ],
-      "미국 중간선거": [
+      "AI 반도체 투자": [
         {
-          "title": "미국 중간선거: 민주당, 역사적 승리…공화당 텃밭 깊게 파고들었다 - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSZWVINFZ3S3UzMzZJamNRMFg0bWZFanp6aUdkcG9qZzN3RUQyV2RnbTVjdjNsWDNVenYxS0ktam02aWlIRmJQbXRVRDVRUHlDcTVUT0o0SmFzOEF3OHfSAWNBVV95cUxPeFNfTUVjc3QxODQtQzdXQXFoRndkSWNHM2lfWnZxdW12eUdGRm9ZalpCOWw1UzE4Q2tjblVIMS1XU2ZIQmplVXRhdjdLMW9NYTVqX2dQaWlDbHVZRWRrMjVOUGc?oc=5",
-          "source": "BBC",
-          "published": "11-04 22:47",
-          "snippet": "미국 중간선거: 민주당, 역사적 승리…공화당 텃밭 깊게 파고들었다 BBC"
+          "title": "美 증시 'AI 투자 공식' 바뀌나…반도체 팔고 빅테크·전통주 샀다 - www.ebn.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FV05zeUltZkV2ZHJKQWdhR0ttcHBwSEwyUlNUdDNqaE53UUhoMlNmZkh4Uzk0NWNPOXJoT2JYb0xMMnFoZlNsUWYyMHNIQ3Ixb0xLS0Z1a0tvdzlqVFp5TjdTaUxWQnhG?oc=5",
+          "source": "www.ebn.co.kr",
+          "published": "11-05 07:02",
+          "snippet": "美 증시 'AI 투자 공식' 바뀌나…반도체 팔고 빅테크·전통주 샀다 www.ebn.co.kr"
         },
         {
-          "title": "[중간선거] 미국 휩쓴 ‘블루쓰나미’…민주, 상·하원 20년 만에 동시 탈환 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiSkI1aXFMVHF0aWxBakNUUW1YQ2Y0WHI4ampTTnNuMzNpajIzdTBVcWxZWExtNUI0T3NCMlZSdlROMkpwNWFmUmh6bGExZ1AwRU5nck11QnpDYkE?oc=5",
-          "source": "KBS 뉴스",
-          "published": "11-04 22:06",
-          "snippet": "[중간선거] 미국 휩쓴 ‘블루쓰나미’…민주, 상·하원 20년 만에 동시 탈환 KBS 뉴스"
+          "title": "美 의회 거머쥔 민주당의 빅테크 청문회 예고…韓 전력기기·AI반도체, 투자 속도 주시 - 글로벌이코노믹",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ1FnbXNBYmlrUXc1VVo4U0dlS2ZheVQyNjdZMkxVZWtaa0VSbzQ4b1JHTWF2SHBMQWZnR1hZTnpwWnJaZ0hTUjUyNG5OM3lENlg1Z0lQQUpLU3NJa2dmM0xHSk1TOFhfRlQ2Nzl6d2pteG5TN3MyUU5GZGRxdElUMWdJb3NxSE1W?oc=5",
+          "source": "글로벌이코노믹",
+          "published": "11-04 19:22",
+          "snippet": "美 의회 거머쥔 민주당의 빅테크 청문회 예고…韓 전력기기·AI반도체, 투자 속도 주시 글로벌이코노믹"
         },
         {
-          "title": "[美중간선거] '샤이 트럼프' 없었다…'앵그리 트럼프' 표심이 결과 좌우(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YT3ZXVHNFeE45UlN3cnE1UXdteFFTRUphaGU0Rk56dmVWc0VTaUpqVm1vbHp3UE1aQjFJcjN1aWpPUjZndHZMY1dOUENxRmQ2MWk3Y21kTnYweDjSAWBBVV95cUxOOFd6ZUFid3Z5NjdIOUg0aE9YMWFJSC11aEx5bzNvalZqcEZqSTlLbFViLWZNTlREVHB2MldYRk52eVJEcDNkeXBIeFlvZFg5SlRLRUpDZXgyMEpFOVFjX2M?oc=5",
+          "title": "\"AI 반도체 없어서 못 판다더니\"…삼전닉스 발목 잡은 '빅테크 현금흐름 쇼크' - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBTnY1b1Z5TWwxeDlzYlhsRWFjXzBkXzJwSjFMT1pWQzd0LXdoMUNRNllJanBna2YwT0VqWjVUTGtxVjU1N3hUVURidWtxczhLYmZYcXhsN2I4SUwzckZNWUZfYlRrdDhZcTVKRnpyX3Nic1Zvb19vSNIBeEFVX3lxTFBBTnY1b1Z5TWwxeDlzYlhsRWFjXzBkXzJwSjFMT1pWQzd0LXdoMUNRNllJanBna2YwT0VqWjVUTGtxVjU1N3hUVURidWtxczhLYmZYcXhsN2I4SUwzckZNWUZfYlRrdDhZcTVKRnpyX3Nic1Zvb19vSA?oc=5",
+          "source": "뉴시스",
+          "published": "11-05 06:02",
+          "snippet": "\"AI 반도체 없어서 못 판다더니\"…삼전닉스 발목 잡은 '빅테크 현금흐름 쇼크' 뉴시스"
+        },
+        {
+          "title": "AI 데이터센터·반도체에 글로벌 자본 몰린다…외국기업 7곳, 한국에 20억달러 투자 - 인공지능신문",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51M1VHQmY0VTF3Ty1pVndWTk54akVMcE1wWmdKR3FpbkpKNjMxZVJDbHMxTFhhTUp2Xzc1c3dWU0MwSmh3WUhlUmVPRkU3NVU5cEN3YVpDcFg1UHNVM2p0SGUyb29DZXc?oc=5",
+          "source": "인공지능신문",
+          "published": "11-04 19:07",
+          "snippet": "AI 데이터센터·반도체에 글로벌 자본 몰린다…외국기업 7곳, 한국에 20억달러 투자 인공지능신문"
+        },
+        {
+          "title": "글로벌 7개사 韓에 20억달러 투자…AI·반도체에 외자 몰린다 - 아시아투데이",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91SENaU1B5d2t2S1RNSkFwNUlSV09hSV9VTl9nbWF6U1d2anRIZHdLdE5lM3dGMDJlYWNsQWRBUU54ejE2LTVnWnI0WGNxTWZoa095b1A0cmtjdmJsWFlwdWo4NjRvY1I2LVowUHZR?oc=5",
+          "source": "아시아투데이",
+          "published": "11-04 15:23",
+          "snippet": "글로벌 7개사 韓에 20억달러 투자…AI·반도체에 외자 몰린다 아시아투데이"
+        },
+        {
+          "title": "[오늘의 투자전략]AI주 엇갈린 흐름…반도체 조정 땐 분할매수 - 이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJX3NYSlFWQnp0dV9JQTNKMzVIWEJrSlItV0RQZExNUTJNSUF3YmhTWjFwdFk1empqY3pHdlpDQ3ZpWDdkYzFaWXE1Q21JQ1RvaGFTNQ?oc=5",
+          "source": "이투데이",
+          "published": "11-05 08:07",
+          "snippet": "[오늘의 투자전략]AI주 엇갈린 흐름…반도체 조정 땐 분할매수 이투데이"
+        }
+      ],
+      "미 중간선거 블루웨이브": [
+        {
+          "title": "[美중간선거] 여론조사, 블루 웨이브 예상했지만 쓰나미는 못봤다 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54cmJRckhxNUd2cEN4T2xLRHpMeXJ0MW03eENlWmZyNFNuT2NxM2N2djN1TUFrZzIwajFEbDduaXpZTHhPRllhdHRXdHprd2JyZGZmem9iRFRncFHSAWBBVV95cUxNNExpSHM5TnN6RXAwdHpJVFRJaGo4dXcwdWlyNDQwTU45OXhGYUxhZnNqdWt5bHptZnZ3QjNVTm1BOEZoVGxic0pTdW9CMXIxcTZKc3lVdlcwZHN6VmJoc00?oc=5",
           "source": "연합뉴스",
-          "published": "11-04 19:41",
-          "snippet": "[美중간선거] '샤이 트럼프' 없었다…'앵그리 트럼프' 표심이 결과 좌우(종합) 연합뉴스"
+          "published": "11-05 08:27",
+          "snippet": "[美중간선거] 여론조사, 블루 웨이브 예상했지만 쓰나미는 못봤다 연합뉴스"
         },
         {
-          "title": "민주당, 미 중간선거서 상·하원 과반 탈환 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XZ2pZNVZ5NHY0dkpiTzZDUWZBY2hKWXhmdmNFMzctWFdRZmMtTE9YdEtHeXR5YzNZdG1faG9JR0ZkWVBWUklHaVJNVnNzdW1wN3hrRDVMV3hnb2lnR1E?oc=5",
+          "title": "[미 중간선거] ‘블루 웨이브’ 넘어 ‘블루 쓰나미’···미 민주당, 상·하원 장악 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tWlE3aVhfQkFtY0NNUV9FNkYyNDM4Uk9ERW44djhpVmM3emlKM2xzUDlWUFlWbDZfcGl4LVFCZXgxd2ZSR1dMelhhVm5fYmdBWnB2NWZKbHdoZ9IBX0FVX3lxTE5HM0RmeGdNT3VLYTd1Sl9Bb0toUmlIU3cxMl9qN09WMmdEVktUYl95SWFkdG1IZmdwLWlqWk5DdVpUV2ZhbjRnT3ZSVUJtOW1sQTRvYXQ1Y3p6RllLcWpn?oc=5",
+          "source": "경향신문",
+          "published": "11-04 17:25",
+          "snippet": "[미 중간선거] ‘블루 웨이브’ 넘어 ‘블루 쓰나미’···미 민주당, 상·하원 장악 경향신문"
+        },
+        {
+          "title": "미 민주당 상·하원 동시 탈환…역사적 ‘블루 웨이브’, 트럼프 심판했다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GOEtsY2JiUjJqcXp2QTZJY182c1hWQUs0SWZ2Qlp4d0hpU1pmUllyRWx0MS1oRzFzVXQ4UEV1R0ZQSC1MdzlmeXdod0J6WUZKM21wYlJwN2Z1Z190UlBwdURCVjJzZE5fSVAtV0d1QQ?oc=5",
+          "source": "한겨레",
+          "published": "11-05 00:54",
+          "snippet": "미 민주당 상·하원 동시 탈환…역사적 ‘블루 웨이브’, 트럼프 심판했다 한겨레"
+        },
+        {
+          "title": "IM증권 \"美 블루웨이브, 금융시장에 호재…유가·금리 하락 기대\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2dVgtRHFQMGpLMjlaa3FpVzdXZ3p6MU85SVFPcjJoTE1ham4td0UydjRSR1RsamhpRE1HS29QbWFKZ1MxY0xsblQ2QW81ZmcwSE5ZN080TmNNTHlhZEFPLW9FQ2dmb0lZUExKc0xZTVbSAXRBVV95cUxNRzFLbmxoU0FFX1lGbzVPZXZrdU1rSTBESFExTFlXcVlxVkNzZ0tBLVpkZVFBLXliXzRGUkh5Yi0zaV9fRThGNUJzWjVyblJxOGM1QlF3anZISUEzQmQ4RXJhYmg0eFZnTUJ1ZUZmeE1tM3lEcQ?oc=5",
+          "source": "연합인포맥스",
+          "published": "11-05 07:48",
+          "snippet": "IM증권 \"美 블루웨이브, 금융시장에 호재…유가·금리 하락 기대\" 연합인포맥스"
+        },
+        {
+          "title": "미 중간선거 '블루 웨이브' 넘어 '블루 쓰나미' [이슈플러스] - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lMEVqY0FHRzk2NDF2UC1kYUJOb2JVN2NqazR5V2N5T2lOX0s0YVFLVUwyV2cxS0FBcFB0V1FuUlYyNUlvMk14VnJ6TkVsZmVnWlg2ZElGUm5BRmhyTGc?oc=5",
           "source": "YTN",
-          "published": "11-04 15:38",
-          "snippet": "민주당, 미 중간선거서 상·하원 과반 탈환 YTN"
+          "published": "11-04 19:09",
+          "snippet": "미 중간선거 '블루 웨이브' 넘어 '블루 쓰나미' [이슈플러스] YTN"
         },
         {
-          "title": "미 중간선거서 민주 상·하원 모두 승리 유력 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnNVFoZmFHUy10YjNnVk5XMkNnam85QnNPVVE2b0F2Vk9acWVMVmlMVUJsbTRjMURpb0k3N1lCcGxucjk5MXFoMHF3Z1FHWTZrUzBQTnJqNTU5VDlnSXNXSkQzV0hNQW8?oc=5",
-          "source": "연합뉴스TV",
-          "published": "11-04 13:37",
-          "snippet": "미 중간선거서 민주 상·하원 모두 승리 유력 연합뉴스TV"
-        },
-        {
-          "title": "미국 중간선거 민주당 승리에 국내 배터리주 급등 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtelN4c2F0eENZRWJkU19HQUp2Y1pZeE9lTDVncEFRS3pwelhPRS1rZDB0UzBERk1CYkg0LUUzMjVtOGxwVlIzZ1ZRQ1YtVUQ5b0hJNWw0Y1l4N3JkS3FTYnh1WkU4SGU0dlZ6LTM5b0wyMHJFbzFn?oc=5",
-          "source": "Investing.com 한국어",
-          "published": "11-04 17:49",
-          "snippet": "미국 중간선거 민주당 승리에 국내 배터리주 급등 Investing.com 한국어"
+          "title": "美 중간선거 ‘블루웨이브’에 뉴욕증시 급등…다우 3%↑ - 마켓인",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzZDk5Ukx4dGFYbmpwYkNXdVhuc0ROZ2RzYXVKR0oxN3N4dHJkQWlZWG5KSWYyd1NNRkNkbl94RTRCbmJhaGszOFVJdjB5N0RLSEtwSkZxMzF4S3ZUX1gwb3FRMVFBdW40Ym9mU0FxTmF0YXM?oc=5",
+          "source": "마켓인",
+          "published": "11-05 07:52",
+          "snippet": "美 중간선거 ‘블루웨이브’에 뉴욕증시 급등…다우 3%↑ 마켓인"
         }
       ],
       "뉴욕증시 급등": [
+        {
+          "title": "전쟁 종식 기대·불확실성 완화에 뉴욕증시 급등 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XOFd6eWxpZVJFVUFPeDJ4b1lxVmtwMFdkaXoxY0xxdG5CNkhuQ0pvTkd0UzJ0bVoxRmxaVWd2WFZ6WVpZNGJWdU5YZG5sS0NTWThJc2o5U0kxamhqUzJody1yRklhaDA?oc=5",
+          "source": "연합뉴스TV",
+          "published": "11-05 08:27",
+          "snippet": "전쟁 종식 기대·불확실성 완화에 뉴욕증시 급등 연합뉴스TV"
+        },
         {
           "title": "美선거 끝나자 뉴욕증시 급등…다우 3% 오르며 53,000선 회복 - 연합뉴스",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qUlN0Y2FxZk1WaEQ2SmVfMWtac0NPVjVnUktUUmFRNGRjaXFsQXhUTFM0UExGdGFLVFZmNE93b3RuTmQxdHNSOTI4alJYN3lYQXdYRGNOdEdqdVHSAWBBVV95cUxNaUV0SHNvZ2tDbllOU01vMjRpUG5NTXVNOVNpb2tzNmJRdS1jVThlZmZqV2tpV2xQU19Wc1A0VWYwNy10SmRJVExoWHVoVTlLM3FhNXNOTl9fdzFFZGpseDQ?oc=5",
@@ -879,42 +861,42 @@
           "snippet": "美선거 끝나자 뉴욕증시 급등…다우 3% 오르며 53,000선 회복 연합뉴스"
         },
         {
-          "title": "뉴욕 증시, 중간 선거 '민주당 압승'에 급등세 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JU3VrWjZaeHcwRE1tMFF6Yzh2M1ZERWdHNE45bmF0Zl82S25obFBkb1VFSW9ZWnpockxrMXd4NVFnamVKdkpVY1k3SGE1MW80VU0yb00tZmxKTks4OXc?oc=5",
+          "title": "미국 중간선거 이후 불확실성 개선 기대감에 뉴욕 증시 급등 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlMkluLURPMktJOHlLVkxyaGhlQlhxODZ1Yzk1RUhtbzhaa0xibEMtZ2pJX2p0bVRlcUJBXzh4LTY0M3NoSFV6UVIwS3VFMkRQQVFMRVFUOVlXUVR6aldhQVhJUDFHRWNkSXZEcjdmZ3NxeElEVnc?oc=5",
           "source": "YTN",
-          "published": "11-05 03:49",
-          "snippet": "뉴욕 증시, 중간 선거 '민주당 압승'에 급등세 YTN"
+          "published": "11-05 07:05",
+          "snippet": "미국 중간선거 이후 불확실성 개선 기대감에 뉴욕 증시 급등 YTN"
         },
         {
-          "title": "[서울데이터랩]미 뉴욕증시 일제히 상승 마감…다우 3%대 급등, 반도체주는 약세 - 서울신문",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBSVp3LUNua3hrOXVaaHFGTXAzNkp0Y3dPVFRrLThFVDdEcWhQOGx0UmdiNmViWHI0WVUxNWhHVXlpRVFJUU14cHdlbm9ULUlTLUxuZWRPSXdIOV9tQ3U5ZWxHaERnX2Rnc3VCUXFuUzhfOVZaT0FQTVpmM0t3Zw?oc=5",
-          "source": "서울신문",
-          "published": "11-05 06:13",
-          "snippet": "[서울데이터랩]미 뉴욕증시 일제히 상승 마감…다우 3%대 급등, 반도체주는 약세 서울신문"
+          "title": "뉴욕증시, 미 중간선거 불확실성 해소에 일제히 급등 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nZ2EwMVAtWjZ2LWlnSW16TGlzOG16LTVMSjNrTmNSQW5LVWllOHZZX3BNX0pGcUttbERJQnh3QkgxRWlSaDZYRU84UDMtM29nSnpCYXNpVUZraXM?oc=5",
+          "source": "KBS 뉴스",
+          "published": "11-05 06:38",
+          "snippet": "뉴욕증시, 미 중간선거 불확실성 해소에 일제히 급등 KBS 뉴스"
         },
         {
-          "title": "뉴욕증시, 美 민주 압승 속 급등 마감…다우 3%↑·유가 급락 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hRElSdWc2WWk3WXNQUnUtbmlfd0ViSDdraUNNNFJiSUktbktHX3FHbzBBTDZsQkNnM2g3UzVzQ2tFUlJkel96MW9kNmRUNVlBMll2Vk1nUW45VU5H?oc=5",
-          "source": "뉴스핌",
-          "published": "11-05 06:19",
-          "snippet": "뉴욕증시, 美 민주 압승 속 급등 마감…다우 3%↑·유가 급락 뉴스핌"
+          "title": "美민주당 압승에 국제유가 8%대 급락, 뉴욕증시 급등 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1veUY5Wjd2bEdMTjZDMnU4cEVRMHhqbzd4VHB6MmR1bWNKQkVidlhDWHVGU3daa2F1TWZKTk5IM0Z3OHkwZkdFZ1ZQWmdpVlZFY0pFcnJ1bFZaaElMYVRYelZNSTZ3UFlfQjNHNERKWVpmZnfSAWZBVV95cUxNTHR1VUd2dERUOXJCNmlMVHVudFhiTTBoY2JZdHpEY3lTd0w2N0VrTWdYcVVGRkZUYkJUSUVKRVctQ01TYXpQdXdfNzVwNWRwWk1LT3VQMUFxNDdIaGppZ3djLXMyZ2c?oc=5",
+          "source": "동아일보",
+          "published": "11-05 07:24",
+          "snippet": "美민주당 압승에 국제유가 8%대 급락, 뉴욕증시 급등 동아일보"
         },
         {
-          "title": "[속보] 뉴욕증시, 급등⋯다우 3.03%↑ - 이투데이",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56bG8yN1Ewei1WNXdRLURQcC1YcnJ0WFN4UDUxbUZKUVRpMG9PbTNScE5NNXN2M1h6Nm9xZDFqSEpRUUE4cXN2OEpHckZqWkdRSk5lQg?oc=5",
-          "source": "이투데이",
-          "published": "11-05 06:07",
-          "snippet": "[속보] 뉴욕증시, 급등⋯다우 3.03%↑ 이투데이"
-        },
-        {
-          "title": "[속보] 뉴욕증시, 민주당 중간선거 압승에 급등 마감…다우 3%↑ - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xTUlyR3hVQkU0UWM5VE82am5EWjd6OGViWmdJZ3lLUlZLdTE0emMtYmZwcEtGQUNUemFsSk9UR3RrcGR6RC1PaWVKUTVkdUUwZi1Md3RTdWVIVHlKbGlYYW1DdHdOYnc?oc=5",
-          "source": "뉴스1",
-          "published": "11-05 06:00",
-          "snippet": "[속보] 뉴욕증시, 민주당 중간선거 압승에 급등 마감…다우 3%↑ 뉴스1"
+          "title": "美 민주당 '블루웨이브'에 다우 3.03% 급등... 반도체는 약세 [뉴욕증시] - 매일일보",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52Q2o3ZEhDdU16VnFNVzZBYm9BSnFLSGpsdTF5V09oQVZmNElZRWJhb1pMT2JIdjEyTjRlaDBSNkJFM2ZkWVNPR0hBUmFwM3UySHdpUmlhN05GeEhnOGh1d0ZKM3I?oc=5",
+          "source": "매일일보",
+          "published": "11-05 08:15",
+          "snippet": "美 민주당 '블루웨이브'에 다우 3.03% 급등... 반도체는 약세 [뉴욕증시] 매일일보"
         }
       ],
       "국제유가 폭락": [
+        {
+          "title": "미 민주 압승 '이란전 종식' 기대에 국제유가 폭락‥WTI 8.29%↓ - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FcWdUbmxMSV9kUl9YUm4tc2JZUllnZkhBb0xEN1RGR0ZKaDFoM3kzMEoyeUd1bHkydzJwWTM0SUVndC16WkYtT2ItSE82TUNCRDZ4T1ZaN1padlY5Smg5ZlZQNUlldDBpOFhWcnZoWl9QV1JW0gF0QVVfeXFMTm51bkVWQVpsSl9PTGM5dGRoRjFvMnotQXhpd1BIakZlQWdNQUZVMzkyaHZtYTlIOW1HajNtaFhVRjdLcGxpQnJHX3l5RE9KYklJcGFrRnI3aVNDeThlYmxxUUNVcUo1bVlaaTE3UFFqbXUzQmI?oc=5",
+          "source": "MBC 뉴스",
+          "published": "11-05 07:34",
+          "snippet": "미 민주 압승 '이란전 종식' 기대에 국제유가 폭락‥WTI 8.29%↓ MBC 뉴스"
+        },
         {
           "title": "美민주 압승 '이란전 종식' 기대에 국제유가 폭락…WTI 8.29%↓ - 연합뉴스",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nSGwwRjlJYnVtZnV2M2QyT3czVGZTYzQ3SDVoUng1SEFJT2F4WUFyUUhycVJCMEFBWVUzVjZ5TFNyRTQxZGQwVXZxX0syMG82eTBBYzRMdVhiQThRM0pHVdIBYEFVX3lxTE9nSGwwRjlJYnVtZnV2M2QyT3czVGZTYzQ3SDVoUng1SEFJT2F4WUFyUUhycVJCMEFBWVUzVjZ5TFNyRTQxZGQwVXZxX0syMG82eTBBYzRMdVhiQThRM0pHVQ?oc=5",
@@ -930,32 +912,25 @@
           "snippet": "[속보]‘전쟁 끝나겠네’…국제유가 8% 폭락, 다우 3% 급등 문화일보"
         },
         {
-          "title": "'美 민주당 압승'에 이란전 종식 기대감 최고조…국제유가 8%대 '폭락' - 뉴시안",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xajk0R3ZzQVZCcnVNaGNYLU1QOFJ3SVZLWGtoWTU5aFQ3RWdVV2Zka0JIaDN2N0tXZlJ4NzUxeFhBdXBhUHhFNkNRTmN2c0hZRk9TNUNsRUVuYW1hWXZqRDNaU1BOczRLNXFiRw?oc=5",
-          "source": "뉴시안",
-          "published": "11-05 06:23",
-          "snippet": "'美 민주당 압승'에 이란전 종식 기대감 최고조…국제유가 8%대 '폭락' 뉴시안"
+          "title": "증시 '급등' 속 트럼프 테마주 '폭락'...국제유가 8% 넘게 '급락' - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55X1R3WHVyTFpVYm9ERnozMXFvQ1BnSHc3TUx6Qzc0RGVzUUNtU3dtSWJVVERnd3pRRzhJUDJCQTkteDYyRHhaZER6T2VHUVg4dU91MkZDWm12ZmRNWUE?oc=5",
+          "source": "YTN",
+          "published": "11-05 08:06",
+          "snippet": "증시 '급등' 속 트럼프 테마주 '폭락'...국제유가 8% 넘게 '급락' YTN"
         },
         {
-          "title": "[월가 레이더] 민주당 상·하원 석권에 다우 1500P 폭등…국제유가 8% 급락 - 포커스온경제",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIWllRb19DSlNRX1NuZ1dIWnduTGhad2g0cThYcTVrc1h6SFZWRHF2WW1vV1BNcENESGEyYnNaU1IzVUo0ek01dWJ6dWJDSng0SmNlSGl6MXpINC1GSmc?oc=5",
-          "source": "포커스온경제",
-          "published": "11-05 05:20",
-          "snippet": "[월가 레이더] 민주당 상·하원 석권에 다우 1500P 폭등…국제유가 8% 급락 포커스온경제"
+          "title": "美선거 끝나자 뉴욕증시 급등…국제유가는 폭락 - 부산일보",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4ydi1ibVJoVjBRNDExZ1o0X0stX1BvZWFBYVlhRlJQa1d1aUpId1QyQ2lLanVZM1BkaktaQ0ZoOGdZbVJUby1LLUZiLTRxM3pISHJka05TSjZxQlNnN2pEWDFBcUdrclZkR2RZM25teTAzOXpk?oc=5",
+          "source": "부산일보",
+          "published": "11-05 07:00",
+          "snippet": "美선거 끝나자 뉴욕증시 급등…국제유가는 폭락 부산일보"
         },
         {
-          "title": "[국제유가] 6주 만에 배럴당 100달러 붕괴...美 민주당 압승에 종전 기대감 고조 - 파이낸셜뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBERGgwWTZicmNVZWVwTWJNS3VwSkdObUh0dW8xeTdaZHpwekgyalVUNnpub2Z1cVdfX1V5cllXMm1GT3VVV1pyNlpmSXpCWWQ4R1B1b0txRWhKZw?oc=5",
-          "source": "파이낸셜뉴스",
-          "published": "11-05 05:48",
-          "snippet": "[국제유가] 6주 만에 배럴당 100달러 붕괴...美 민주당 압승에 종전 기대감 고조 파이낸셜뉴스"
-        },
-        {
-          "title": "국제유가, 미-이란 종전 기대감에 8% 넘게 폭락...WTI, 6주만에 배럴당 90달러 밑으로 - 비욘드포스트",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JdHVoMGQ3eXd0dzFIOUxsTjhyV0hEVFBTb2JqS3ZmQ3pHamx1T1dEZHBJMjB2NVdwVkRVS1V4R2VNRHFCVmJyMlZJTXZsWGlrNFlsN19nTEF0QlFqU3prWW92dndDUWFzQnA5VWU1M3A5d2JHVnk4MENIWXM?oc=5",
-          "source": "비욘드포스트",
-          "published": "11-05 06:09",
-          "snippet": "국제유가, 미-이란 종전 기대감에 8% 넘게 폭락...WTI, 6주만에 배럴당 90달러 밑으로 비욘드포스트"
+          "title": "美민주당 압승에 국제유가 8%대 급락, 뉴욕증시 급등 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1veUY5Wjd2bEdMTjZDMnU4cEVRMHhqbzd4VHB6MmR1bWNKQkVidlhDWHVGU3daa2F1TWZKTk5IM0Z3OHkwZkdFZ1ZQWmdpVlZFY0pFcnJ1bFZaaElMYVRYelZNSTZ3UFlfQjNHNERKWVpmZnfSAWZBVV95cUxNTHR1VUd2dERUOXJCNmlMVHVudFhiTTBoY2JZdHpEY3lTd0w2N0VrTWdYcVVGRkZUYkJUSUVKRVctQ01TYXpQdXdfNzVwNWRwWk1LT3VQMUFxNDdIaGppZ3djLXMyZ2c?oc=5",
+          "source": "동아일보",
+          "published": "11-05 07:24",
+          "snippet": "美민주당 압승에 국제유가 8%대 급락, 뉴욕증시 급등 동아일보"
         }
       ]
     },
@@ -971,39 +946,22 @@
         "코스피 변동성 확대",
         "코스피 변동성 장세"
       ],
-      "서울 집값 상승": [
-        "서울 집값 상승률",
-        "서울 집값 상승률 그래프",
-        "서울 집값 상승 원인",
-        "서울 집값 상승 그래프",
-        "서울 집값 상승세",
-        "서울 집값 상승율",
-        "서울 집값 상승 추이",
-        "서울 집값 상승폭",
-        "서울 집값 상승 해결 방안"
+      "9월 경상수지 흑자": [],
+      "AI 반도체 투자": [
+        "ai 반도체 투자",
+        "ai 반도체 투자 거품",
+        "ai 버블 반도체 실전 투자법",
+        "ai 버블 반도체 실전 투자법 이형수",
+        "중국 ai 반도체 투자",
+        "주식 초고수 ai 반도체 투자",
+        "삼성 전자 ai 반도체 투자",
+        "한국 ai반도체 투자"
       ],
-      "가상자산 과세 유예": [
-        "가상자산 과세 유예 청원",
-        "가상자산 과세 유예 가능성",
-        "가상자산 과세 유예 법안",
-        "가상자산 과세 2년 유예"
-      ],
-      "미국 중간선거": [
-        "미국 중간선거 2026",
-        "미국 중간선거 일정",
-        "미국 중간선거 의미",
-        "미국 중간선거 2026 날짜",
-        "미국 중간선거 날짜",
-        "미국 중간선거 예측",
-        "미국 중간선거일",
-        "미국 중간선거 언제",
-        "미국 중간선거 결과",
-        "미국 중간선거 뜻"
-      ],
+      "미 중간선거 블루웨이브": [],
       "뉴욕증시 급등": [],
       "국제유가 폭락": []
     },
-    "newsletter_md": "# 📈 오늘의 경제 뉴스레터\n_2026-11-05 이슈 · 발행 2026-11-05_\n\n🇰🇷 **국내 경제:** `코스피 변동성` · `서울 집값 상승` · `가상자산 과세 유예`\n🌐 **해외 경제:** `미국 중간선거` · `뉴욕증시 급등` · `국제유가 폭락`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 롤러코스터 탄 코스피, 변동성 키운 원인은?\n> 키워드: 코스피 변동성\n\n**📌 무슨 일이 있었나**\n- 미국 중간선거를 앞두고 경계감이 확산하면서 코스피 시장의 수급이 꼬여 지수가 5680선에서 극심한 롤러코스터 장세를 보임.\n- 코스피 변동성지수가 단 하루 만에 7% 급등하고 日 변동성도 3개월래 최대치를 기록하는 등 불안정한 흐름이 뚜렷해짐.\n- 주가 급등락이 반복되면서 코스피 시장에서 프로그램매수호가 일시효력표시(VI) 발동 건수가 5만 건을 넘어 역대 최다를 기록함.\n- 투자자들의 관망세와 불확실성이 커진 가운데 기관과 외인의 수급 공방으로 인해 지수 방어와 변동성 확대가 동시에 나타남.\n- 극심한 변동성 장세 속에서도 현대차가 2% 오르는 등 개별 종목별로 실적과 이슈에 따라 차별화된 주가 흐름이 포착됨.\n\n**💬 핵심 Q&A**\n- **Q. 코스피 변동성 지수 etf는 무엇이고 어떻게 활용하는가?**\n  A. 변동성 지수 etf는 주가가 하락하거나 변동성이 커질 때 수익이 나도록 설계된 상품이다. 시장의 공포 심리가 극대화될 때 헤지 수단으로 활용되지만 단기 등락이 심해 주의가 필요하다.\n- **Q. 코스피 변동성 지표는 주식 투자에 어떻게 활용하는가?**\n  A. 변동성 지표는 시장의 불안감과 위험 수준을 수치화하여 보여주는 도구이다. 지표가 급등할 때는 투자 심리가 위축된 상태이므로 신중한 접근과 리스크 관리가 요구된다.\n- **Q. 코스피 변동성이 커지면 내 자산에는 어떤 영향이 있는가?**\n  A. 시장 변동성 확대는 보유 주식의 단기적인 가격 등락 폭을 키워 자산 가치의 불안정성을 높인다. 섣부른 매매보다는 포트폴리오의 리스크를 점검하고 장기적인 관점을 유지하는 것이 바람직하다.\n\n**👀 앞으로 볼 포인트**\n- 미국 중간선거 결과에 따른 글로벌 증시 방향성\n- 국내 증시 프로그램매매 VI 발동 추이와 수급 변화\n- 환율 및 외국인 투자자의 자금 이탈 여부\n\n<sub>참고: [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfMmRCMGNCZVZkdWhEWFlKWFlRSEhGV3o3a2cyanE2VzdzeFpubU11UUlEcEs5NV94aXFPNmZ2UzdyUEdOU25KV1lHV2dQbmU2V3d2Snhsc3ZERVE?oc=5) / [머니투데이](https://news.google.com/rss/articles/CBMibkFVX3lxTE50OHZ5VG9zc3gzUkxMd2tuM2s3bXM4b3Zqc0dTZkdYRWJLRDN3X1JtODgyT3BpY1JpeHp0OEtKSkkzVllZVG12XzV1Yzh2VTd1Wjl3YTFEUWZ3NTExcmYyTV9OSDZhbF9vQVc2Z1pR0gFuQVVfeXFMTnQ4dnlUb3NzeDNSTEx3a24zazdtczhvdmpzR1NmR1hFYktEM3dfUm04ODJPcGljUml4enQ4S0pKSTNWWVlUbXZfNXVjOHZVN3VaOXdhMURRZnc1MTFyZjJNX05INmFsX29BVzZnWlE?oc=5) / [인포스탁데일리](https://news.google.com/rss/articles/CBMidkFVX3lxTE40RURxOHNGMnhpYTNiWlptUldFNEt4Mi0zTWtYNkl2UFpsZTk1S2VGTUdtaUZrc2NfRE1zSjBhRFBMR25sc3RlZ21GR2JpYk5CVGJmNTZMWXByeTdKTVVNV3p3R3RzQkg3NkhWaVVjWmE3WW42MEE?oc=5)</sub>\n\n---\n\n### 2. 서울 집값 상승세 지속… 엇갈리는 해석들\n> 키워드: 서울 집값 상승\n\n**📌 무슨 일이 있었나**\n- 이 대통령이 서울 집값이 놀라울 정도로 하락했다고 언급한 것을 두고 야당인 오세훈 시장이 집계 이래 최고라고 반박함.\n- 대통령의 하락 발언 인용 보도에 대해 대통령실이 2차 가짜뉴스라며 시정을 요구하고 나서는 등 정치적 공방이 가열됨.\n- 한국일보 등의 실제 통계 분석 결과 서울 집값은 90주 연속 상승세를 기록하며 실제 시장 분위기와 차이를 보임.\n- Chosunbiz 보도에 따르면 서울 25개 구 가운데 22개 구에서 여전히 오름세를 나타내며 하락 주권과 괴리가 발생함.\n- 일부 지역의 조정 가능성에도 불구하고 서울 전반의 부동산 시장은 여전히 상승 추이가 꺾이지 않은 상태를 유지함.\n\n**💬 핵심 Q&A**\n- **Q. 서울 집값 상승률 그래프와 실제 체감 경기가 다른 이유는 무엇인가?**\n  A. 공식 통계는 전체 평균을 반영하지만 개별 단지와 선호 지역에 따라 가격 오름세가 다르게 나타나기 때문이다. 통계 지표와 개인이 체감하는 시장 분위기 사이에는 시차와 지역별 편차가 존재한다.\n- **Q. 서울 집값 상승 원인은 주로 무엇으로 분석되는가?**\n  A. 공급 부족 우려와 선호 지역에 대한 매수 심리가 복합적으로 작용하여 가격을 밀어올리고 있다. 시중 유동성과 금리 환경도 부동산 수요를 자극하는 요인으로 작용한다.\n- **Q. 이러한 집값 상승세가 무주택자의 내집 마련에 미치는 영향은 무엇인가?**\n  A. 상승세가 장기화될수록 주거 비용 부담이 커지고 매수 진입 장벽이 높아질 수 있다. 정책 변화와 대출 규제를 면밀히 살피며 본인의 재정 상황에 맞는 주거 계획을 세워야 한다.\n\n**👀 앞으로 볼 포인트**\n- 서울 25개 구별 실제 매매가 상승률 추이\n- 정부의 부동산 정책 기조와 통계 기관 발표 내용\n- 실거래가와 대통령 발언 간의 괴리 해소 여부\n\n<sub>참고: [JTBC](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CelBja2ZNYWpZclpudWdkSGRXZGRvTjZwZ0Nadzc2U2tkb2ZydzVSREtwd1YtVVVLRmlNNDdSNnQwMUY2ME8yV3VxcjViVnk1MHdjbQ?oc=5) / [서울일보](https://news.google.com/rss/articles/CBMia0FVX3lxTE9xNHk5QmFBLVVXN19pWkF5dHdVcHdvZjdpckRxNXRjNmFTUFpWLVp5Z2hUQU5oWWhpSTZBM1JDWjluT3FEcjVNTEYxRGdUdE01SU43Mlo0SjhlX3NQM0RGTnlyWm5Hd0pZR0FN0gFvQVVfeXFMT2N2WFl2LXdyejFqdlNQYTV5SUpTUk5yc0hSUXM4Ymc4Q25LVDV4WjBpSzRQTlhLTnlrMkgzR0prMWZxTkhXVEZqM2V6eHBWOXRiM3dNa0xYREc4dWYzZkVoQmNOblJxNzY0ZUU5SnZJ?oc=5) / [MBC 뉴스](https://news.google.com/rss/articles/CBMieEFVX3lxTE1DcXBRWmgtVzBjYnk0M1Rjd08tTVNMRDROQzlpZzh1S1ZoSTFteTh1eEFraGlUcEh0OVJxN3RLQThSV2t6eko2QjE1V3VmaDFZbVZpdE40dng1cGZVSlRoWVF0YXJVc213VF9qbjI1YzJ3Ump6ZVZuOdIBeEFVX3lxTE1DcXBRWmgtVzBjYnk0M1Rjd08tTVNMRDROQzlpZzh1S1ZoSTFteTh1eEFraGlUcEh0OVJxN3RLQThSV2t6eko2QjE1V3VmaDFZbVZpdE40dng1cGZVSlRoWVF0YXJVc213VF9qbjI1YzJ3Ump6ZVZuOQ?oc=5)</sub>\n\n---\n\n### 3. 또 미뤄지나… 정치권의 가상자산 과세 유예 제안\n> 키워드: 가상자산 과세 유예\n\n**📌 무슨 일이 있었나**\n- 민주당 김민석 의원이 정부에 가상자산 소득 과세 유예를 공식 제안하며 과세 제도의 적응 기간 필요성을 강조함.\n- 민주당 지도부가 가상자산 과세 유예를 꺼내 든 것은 이번이 벌써 세 번째로 제도 실효성 확보를 위한 조치라고 설명함.\n- 국제 정보교환망 미비 등 준비되지 않은 과세는 역차별을 불러올 수 있다는 정치권의 지적이 이어짐.\n- KBC광주방송 보도에 따르면 김민석 의원이 유예를 공식 제안했으나 구체적인 유예 기간은 제시되지 않음.\n- 여당을 중심으로 가상자산 과세 시기를 미뤄야 한다는 목소리가 커지면서 관련 법안 논의에 관심이 집중됨.\n\n**💬 핵심 Q&A**\n- **Q. 가상자산 과세 유예 청원과 법안의 통과 가능성은 얼마나 되는가?**\n  A. 투자자들의 반발과 정치권의 유예 제안이 맞물려 법안 개정 논의가 급물살을 탈 가능성이 높다. 다만 정부의 세수 확보 계획과 맞물려 최종 합의까지는 진통이 예상된다.\n- **Q. 가상자산 과세가 유예되면 코인 투자자들에게 어떤 이점이 있는가?**\n  A. 세금 납부 시기가 늦춰지면서 투자 수익에 대한 즉각적인 세금 부담을 일정 기간 피할 수 있다. 세부적인 과세 인프라가 정비될 때까지 투자 자금을 보다 유연하게 운용할 수 있다.\n- **Q. 준비되지 않은 가상자산 과세가 역차별을 유발하는 이유는 무엇인가?**\n  A. 국내외 거래소 간의 정보 불균형과 미흡한 과세 인프라로 인해 국내 투자자에게만 불리한 환경이 조성될 수 있기 때문이다. 공정한 과세 기준이 확립되기 전에는 시장 혼란을 야기할 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 정부의 가상자산 과세 유예 수용 여부 및 공식 입장\n- 국회 기획재정위원회에서의 관련 법안 처리 속도\n- 가상자산 과세 관련 국제 정보교환망 구축 진척도\n\n<sub>참고: [매일경제 마켓](https://news.google.com/rss/articles/CBMiUkFVX3lxTE81QURaQnpINlkzaFM0X3htRUlHRW54dmZPRVlFTm5FS24zbXhuWGV5RFRVaFc4WHhkcHphUDBnMHhUcGRDNzVxX1Qwb3M5dzBJUmc?oc=5) / [경향신문](https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xVTRUZi16bzJ3ODdRTU4ta2dBNk82LXpRNWFTOHR5RXJEUk9tdkl0RDlxUnZMVFl1X2hNT2huY3hOT1NHRmhpNExtLW1LS2p5M1VZR1I1eVhJZ9IBX0FVX3lxTE5WTlQzN1dTdDBFNjVIZlRzNzdFUHdVQ3BoNTJzU1k0R1pIZXFHNXI5blJjZDNxN0MwR193WFk4VjhoYWk5Y0dFSDlWa2tZNHVJbk9CTnBTSjJaaUt1S3lR?oc=5) / [KBC광주방송](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvbEpodXM3UTBuMkdwalUzbzlnTXdDb3Q0cUxmbFNqZGtXYWRoWTlzbXBhbm1zNmc3QWJRd3FZck5VeFRLNHZINWJzZTM1ZmdMNW44aXhLdVd6azJ4d3RvVQ?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 미 중간선거 민주당 완승, 블루쓰나미 덮쳤다\n> 키워드: 미국 중간선거\n\n**📌 무슨 일이 있었나**\n- 미국 중간선거에서 민주당이 상·하원을 모두 과반 탈환하며 20년 만에 동시 승리를 거두는 역사적 결과를 기록함.\n- BBC 등 주요 외신은 민주당이 공화당의 텃밭을 깊게 파고들며 압승을 거뒀다고 보도함.\n- 선거 전 우려되었던 샤이 트럼프 현상은 나타나지 않았고 앵그리 트럼프 표심이 선거 결과를 좌우한 것으로 분석됨.\n- 미국 중간선거 결과에 힘입어 국내 증시에서는 배터리주 등 관련 수혜 종목들이 급등세를 나타냄.\n- 민주당의 상·하원 석권은 향후 바이든 정부의 국정 운영 동력 확보와 경제 정책 변화에 큰 영향을 미칠 전망임.\n\n**💬 핵심 Q&A**\n- **Q. 미국 중간선거 결과가 국내 주식 시장에 미치는 의미는 무엇인가?**\n  A. 민주당의 승리로 친환경 및 배터리 관련 정책이 탄력을 받으며 관련 국내 기업의 주가에 긍정적으로 작용했다. 정치적 불확실성이 해소되면서 글로벌 증시 전반에 매수 유입이 강화되었다.\n- **Q. 미국 중간선거 2026의 날짜와 일정은 어떻게 진행되었는가?**\n  A. 이번 중간선거는 2026년 11월 첫째 주에 치러져 상·하원 의원을 전면 교체하는 결과를 낳았다. 임기 중간에 행정부를 견제하고 의회 권력을 재편하는 중요한 정치적 일정이 마무리되었다.\n- **Q. 미국 중간선거에서 앵그리 트럼프 표심이 의미하는 바는 무엇인가?**\n  A. 유권자들의 현 경제 상황에 대한 불만과 분노가 투표 결과로 직결되어 특정 정당에 표를 몰아주었다는 것을 뜻한다. 민심의 향방이 예상보다 강력한 표심으로 나타나 선거 지형을 뒤흔들었다.\n\n**👀 앞으로 볼 포인트**\n- 미국 중간선거 이후 바이든 정부의 입법부 장악에 따른 정책 변화\n- 국내 증시에서 배터리 및 친환경 관련주의 추가 상승 여부\n- 미국 정치 지형 변화가 글로벌 공급망에 미치는 영향\n\n<sub>참고: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSZWVINFZ3S3UzMzZJamNRMFg0bWZFanp6aUdkcG9qZzN3RUQyV2RnbTVjdjNsWDNVenYxS0ktam02aWlIRmJQbXRVRDVRUHlDcTVUT0o0SmFzOEF3OHfSAWNBVV95cUxPeFNfTUVjc3QxODQtQzdXQXFoRndkSWNHM2lfWnZxdW12eUdGRm9ZalpCOWw1UzE4Q2tjblVIMS1XU2ZIQmplVXRhdjdLMW9NYTVqX2dQaWlDbHVZRWRrMjVOUGc?oc=5) / [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiSkI1aXFMVHF0aWxBakNUUW1YQ2Y0WHI4ampTTnNuMzNpajIzdTBVcWxZWExtNUI0T3NCMlZSdlROMkpwNWFmUmh6bGExZ1AwRU5nck11QnpDYkE?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YT3ZXVHNFeE45UlN3cnE1UXdteFFTRUphaGU0Rk56dmVWc0VTaUpqVm1vbHp3UE1aQjFJcjN1aWpPUjZndHZMY1dOUENxRmQ2MWk3Y21kTnYweDjSAWBBVV95cUxOOFd6ZUFid3Z5NjdIOUg0aE9YMWFJSC11aEx5bzNvalZqcEZqSTlLbFViLWZNTlREVHB2MldYRk52eVJEcDNkeXBIeFlvZFg5SlRLRUpDZXgyMEpFOVFjX2M?oc=5)</sub>\n\n---\n\n### 2. 선거 끝나자 뉴욕증시 폭등, 다우 3% 급반등\n> 키워드: 뉴욕증시 급등\n\n**📌 무슨 일이 있었나**\n- 미국 중간선거가 민주당의 압승으로 마무리되면서 불확실성 해소와 함께 뉴욕증시가 일제히 급등 마감함.\n- 다우존스30산업평균지수는 하루 만에 3% 이상 오르며 53,000선을 회복하는 강한 상승세를 보임.\n- 정치적 이벤트 종료와 함께 시장의 안도 랠리가 유입되었으나 반도체주는 상대적으로 약세를 기록함.\n- 민주당의 상·하원 석권 소식이 전해지면서 월가에서는 다우지수가 1500포인트 이상 폭등하는 기염을 토함.\n- 증시 급등과 동시에 국제유가가 급락하는 등 거시경제 지표들이 큰 폭의 변동성을 나타냄.\n\n**💬 핵심 Q&A**\n- **Q. 뉴욕증시 급등이 나의 국내 주식 투자에 주는 시사점은 무엇인가?**\n  A. 미국 증시의 급등은 글로벌 투자 심리를 개선해 국내 증시에도 온기를 불어넣는 요인이 된다. 다만 업종별 차별화 장세가 나타날 수 있으므로 개별 기업의 펀더멘털을 점검해야 한다.\n- **Q. 미국 선거 종료 직후 다우지수가 3%나 오른 직접적인 원인은 무엇인가?**\n  A. 가장 큰 원인은 선거라는 최대의 정치적 불확실성이 해소되었기 때문이다. 여기에 민주당 압승에 따른 정책 안정성 기대감이 복합적으로 작용해 매수세를 자극했다.\n- **Q. 반도체주가 뉴욕증시 급등세 속에서도 약세를 보인 이유는 무엇인가?**\n  A. 정치적 결과물에 따른 섹터별 수혜 기대감이 엇갈리면서 자금이 다른 업종으로 이동했기 때문이다. 증시 전체가 올라도 개별 산업별 업황에 따라 희비가 엇갈릴 수 있음을 보여준다.\n\n**👀 앞으로 볼 포인트**\n- 뉴욕증시 다우지수의 53,000선 안착 여부\n- 반도체주와 전통 산업주 간의 주가 차별화 흐름\n- 미국 증시 급등세가 국내 코스피에 미치는 동조화 현상\n\n<sub>참고: [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qUlN0Y2FxZk1WaEQ2SmVfMWtac0NPVjVnUktUUmFRNGRjaXFsQXhUTFM0UExGdGFLVFZmNE93b3RuTmQxdHNSOTI4alJYN3lYQXdYRGNOdEdqdVHSAWBBVV95cUxNaUV0SHNvZ2tDbllOU01vMjRpUG5NTXVNOVNpb2tzNmJRdS1jVThlZmZqV2tpV2xQU19Wc1A0VWYwNy10SmRJVExoWHVoVTlLM3FhNXNOTl9fdzFFZGpseDQ?oc=5) / [YTN](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JU3VrWjZaeHcwRE1tMFF6Yzh2M1ZERWdHNE45bmF0Zl82S25obFBkb1VFSW9ZWnpockxrMXd4NVFnamVKdkpVY1k3SGE1MW80VU0yb00tZmxKTks4OXc?oc=5) / [서울신문](https://news.google.com/rss/articles/CBMifkFVX3lxTFBBSVp3LUNua3hrOXVaaHFGTXAzNkp0Y3dPVFRrLThFVDdEcWhQOGx0UmdiNmViWHI0WVUxNWhHVXlpRVFJUU14cHdlbm9ULUlTLUxuZWRPSXdIOV9tQ3U5ZWxHaERnX2Rnc3VCUXFuUzhfOVZaT0FQTVpmM0t3Zw?oc=5)</sub>\n\n---\n\n### 3. 종전 기대감에 국제유가 8%대 폭락, 100달러 붕괴\n> 키워드: 국제유가 폭락\n\n**📌 무슨 일이 있었나**\n- 미국 중간선거에서 민주당이 압승을 거두면서 이란전 종식에 대한 기대감이 최고조에 달함.\n- 종전 기대감의 영향으로 서부텍사스산원유(WTI)가 8.29% 폭락하며 6주 만에 배럴당 100달러 선이 무너짐.\n- 파이낸셜뉴스 등에 따르면 국제유가는 가파르게 하락하며 장중 WTI가 배럴당 90달러 밑으로 떨어짐.\n- 유가 급락은 인플레이션 압력을 완화하는 요인으로 작용하며 뉴욕증시 다우지수 폭등을 이끄는 마중물이 됨.\n- 지정학적 리스크 완화 조짐이 원유 공급 차질 우려를 해소하면서 유가 하락 폭을 키움.\n\n**💬 핵심 Q&A**\n- **Q. 국제유가 폭락이 실생활과 물가에 미치는 영향은 무엇인가?**\n  A. 유가 하락은 석유제품 가격과 운송비를 낮춰 전체적인 물가 상승 압력을 덜어주는 역할을 한다. 소비자의 에너지 비용 부담을 줄여 가계 경제에 숨통을 틔워줄 수 있다.\n- **Q. 미국 민주당 압승이 왜 이란전 종식과 유가 하락으로 이어지는가?**\n  A. 외교적 해결을 중시하는 정권의 기조 변화가 중동 분쟁 해결에 대한 시장의 기대를 높였기 때문이다. 지정학적 리스크 해소 전망이 원유 공급 불안을 잠재워 가격을 떨어뜨렸다.\n- **Q. 배럴당 100달러가 무너진 유가 하락세가 투자에 미치는 영향은 어떻게 봐야 하는가?**\n  A. 에너지 비용 절감으로 수혜를 보는 항공, 운송, 제조업 등에는 긍정적인 신호로 작용한다. 반면 에너지 관련 기업들의 실적에는 부담이 될 수 있어 업종별 명암을 살피는 것이 중요하다.\n\n**👀 앞으로 볼 포인트**\n- 국제유가 WTI의 90달러선 지지 여부\n- 중동 지역의 실제 종전 협상 및 군사적 긴장 완화 추이\n- 유가 급락이 글로벌 인플레이션 및 금리 정책에 미치는 영향\n\n<sub>참고: [연합뉴스](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nSGwwRjlJYnVtZnV2M2QyT3czVGZTYzQ3SDVoUng1SEFJT2F4WUFyUUhycVJCMEFBWVUzVjZ5TFNyRTQxZGQwVXZxX0syMG82eTBBYzRMdVhiQThRM0pHVdIBYEFVX3lxTE9nSGwwRjlJYnVtZnV2M2QyT3czVGZTYzQ3SDVoUng1SEFJT2F4WUFyUUhycVJCMEFBWVUzVjZ5TFNyRTQxZGQwVXZxX0syMG82eTBBYzRMdVhiQThRM0pHVQ?oc=5) / [문화일보](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RVkFHb2J3U0gza0EtTl9ZeXJVazVudlNOaElLekpaRVRLRHZfV3BEMThsdV9lZ0R6czBOTVBuZWl0dHZiZnB5QXZCSTVUSjRh?oc=5) / [뉴시안](https://news.google.com/rss/articles/CBMibEFVX3lxTE8xajk0R3ZzQVZCcnVNaGNYLU1QOFJ3SVZLWGtoWTU5aFQ3RWdVV2Zka0JIaDN2N0tXZlJ4NzUxeFhBdXBhUHhFNkNRTmN2c0hZRk9TNUNsRUVuYW1hWXZqRDNaU1BOczRLNXFiRw?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 제목을 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
+    "newsletter_md": "# 📈 오늘의 경제 뉴스레터\n_2026-11-05 이슈 · 발행 2026-11-05_\n\n🇰🇷 **국내 경제:** `코스피 변동성` · `9월 경상수지 흑자` · `AI 반도체 투자`\n🌐 **해외 경제:** `미 중간선거 블루웨이브` · `뉴욕증시 급등` · `국제유가 폭락`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 롤러코스터 탄 코스피, 왜 이럴까?\n> 키워드: 코스피 변동성\n\n**📌 무슨 일이 있었나**\n- 미국 중간선거를 앞두고 관망세가 짙어진 가운데 수급이 꼬이면서 코스피 변동성지수가 하루 만에 7% 상승함.\n- 코스피가 5680선 안팎에서 극심한 등락을 거듭하는 과정에서 역대 최대 규모의 변동성완화장치(VI) 발동 건수를 기록함.\n- 미 증시의 급등세에도 불구하고 국내 증시는 반도체 수급 불안과 정치적 불확실성이 겹치면서 롤러코스터 장세를 연출함.\n- 시장 참여자들의 경계감이 최고조에 달한 상황에서 현대차 등 일부 대형주가 반등을 시도했으나 전체적인 변동성 확대를 방어하기에는 역부족이었음.\n- 일본 증시 역시 변동성이 3개월래 최대치를 기록하는 등 아시아 주요 증시 전반에 걸쳐 투자 심리가 불안정한 모습을 보임.\n\n**💬 핵심 Q&A**\n- **Q. 코스피 변동성 지수(VKOSPI)란 정확히 무엇을 의미하는가?**\n  A. 코스피 변동성 지수는 향후 시장이 얼마나 크게 출렁일지 예상하는 투자자의 불안 심리를 수치화한 지표이다. 이 지수가 오르면 시장의 불확실성과 리스크가 그만큼 커졌음을 의미한다.\n- **Q. 최근 코스피 변동성이 이토록 심해진 이유는 무엇인가?**\n  A. 미국 중간선거라는 거대한 정치적벤처 이벤트를 앞두고 관망 심리가 팽배해진 것이 주원인이다. 여기에 반도체 등 주도주의 수급이 꼬이면서 지수가 널뛰는 장세가 연출되었다.\n- **Q. 변동성 장세가 심할 때 초보 투자자는 어떻게 대처해야 하는가?**\n  A. 단기적인 주가 등락에 일희일비하여 추격 매매를 하는 것은 손실을 키울 위험이 크다. 시장의 방향성이 확실해질 때까지 자산 비중을 조절하며 신중하게 접근할 필요가 있다.\n\n**👀 앞으로 볼 포인트**\n- 미국 중간선거 개표 결과와 증시 방향성\n- 반도체 업종의 수급 개선 여부\n- 추가 변동성완화장치(VI) 발동 추이\n\n<sub>참고: [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfMmRCMGNCZVZkdWhEWFlKWFlRSEhGV3o3a2cyanE2VzdzeFpubU11UUlEcEs5NV94aXFPNmZ2UzdyUEdOU25KV1lHV2dQbmU2V3d2Snhsc3ZERVE?oc=5) / [머니투데이](https://news.google.com/rss/articles/CBMibkFVX3lxTE50OHZ5VG9zc3gzUkxMd2tuM2s3bXM4b3Zqc0dTZkdYRWJLRDN3X1JtODgyT3BpY1JpeHp0OEtKSkkzVllZVG12XzV1Yzh2VTd1Wjl3YTFEUWZ3NTExcmYyTV9OSDZhbF9vQVc2Z1pR0gFuQVVfeXFMTnQ4dnlUb3NzeDNSTEx3a24zazdtczhvdmpzR1NmR1hFYktEM3dfUm04ODJPcGljUml4enQ4S0pKSTNWWVlUbXZfNXVjOHZVN3VaOXdhMURRZnc1MTFyZjJNX05INmFsX29BVzZnWlE?oc=5) / [아주경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE90ay1KWnFvVi1vbS1HVnBPUE15UjRMck5kZEt0eW90ekttRDV4bHcxWTI0X2VtZlNqYzFjeEtJSnRIRFNqTURadjlSaVFMUmVxdUhPRm1QdjhoUdIBWEFVX3lxTFBnYlpTN1YxT3ZVTEFUdjBlY0FhdFJ1SG1fN2RqQ05nbHNJdFhZVG90alppTVc3bXlEQTgzaHRreVFUWU1IM1VsWTV2TTltR2ZCNUJhUGRTZlo?oc=5)</sub>\n\n---\n\n### 2. 역대 최대 기록한 9월 경상수지\n> 키워드: 9월 경상수지 흑자\n\n**📌 무슨 일이 있었나**\n- 9월 경상수지가 615억 달러 흑자를 기록하며 월간 기준 사상 처음으로 600억 달러를 돌파함.\n- 이번 흑자는 역대 최대 규모로 반도체 수출이 전년 동기 대비 260% 폭증하며 전체 실적을 강력하게 견인함.\n- 글로벌 교역 환경의 변동 속에서도 주력 품목인 반도체의 압도적인 수출 호조가 무역 흑자 규모를 극대화하는 결정적 원인으로 작용함.\n- 사상 첫 600억 달러 돌파라는 기록은 국내 대외 경제의 기초체력이 여전히 탄탄함을 보여주는 지표로 평가받음.\n- 반도체 외에도 주요 산업의 수출 실적이 받쳐주면서 국가 전체의 경상수지 흑자 행진에 크게 기여함.\n\n**💬 핵심 Q&A**\n- **Q. 경상수지 흑자가 사상 최대를 기록하면 우리 일상에는 어떤 좋은 점이 있는가?**\n  A. 경상수지 흑자는 국가로 들어오는 달러가 나가는 달러보다 훨씬 많다는 뜻이다. 이는 국가 경제의 안정성을 높이고 원화 가치를 지키는 긍정적인 역할을 한다.\n- **Q. 이번 경상수지 흑자를 이끈 일등 공신은 무엇인가?**\n  A. 단연 반도체 수출의 폭발적인 증가이다. 반도체 수출액이 전년 대비 260%나 급증하면서 전체 경상수지 흑자 규모를 사상 처음으로 600억 달러 선 위에 올려놓았다.\n- **Q. 이렇게 수출이 잘되면 당장 내 주식 계좌나 소비에도 도움이 되는가?**\n  A. 거시경제 지표의 호조가 곧바로 개인의 투자 수익이나 체감 경기로 직결되지는 않는다. 다만 국가 경제의 기초체력이 탄탄하다는 신호로 해석할 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 반도체 수출 호조세의 지속 가능성\n- 글로벌 수요 변화에 따른 무역수지 추이\n\n<sub>참고: [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE5KX1ljUFo4NHdJNENpcHZkLXJYWnQxLThlN3htNFRIWGdORzJRU1NCV1RVWDdxcjdOQTF5Rk0yY09XYWd3aFNSZ3ZULVdYcGZ1TUp4bi1maUVBTlFmd01XRXctUmR2MGNKQ3QzUGFwY0c?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CRlVzYmp5UEpBWDZaY2Z4b0xsOTA3Q1R0N0lwdng5OGlrSWFKaVV0N0ZKRlJOZExnX08xalA4eHpZVHktNEEyRXY1WnRJdlB5ekFNUHNabUFFYjTSAWBBVV95cUxNT3hLREJhbEdGbDh6RGhQUXljRndfLURxN0cxRWNZcXUzMUVObmdZekJkZmoyNlRLOUQ5Z3FoR2FCLTQ4SGw0ZEhKRDhOenpiMHNEcTVZdmEtc3RaNTYwWkU?oc=5) / [한겨레](https://news.google.com/rss/articles/CBMickFVX3lxTE9fOXAzcnRuMGxYa0FwbnpUcHVsUnRJem54bXAwR0U0Y0RpeGJTc3R0bVNwWC1HUWV1emROSy04bFYwcXN4Ynl6dGxoSHFxc0ZJQ25ZQnpGMXBPZllLWl8xNEd3eVJqNUktbG95cEdPUG9mZw?oc=5)</sub>\n\n---\n\n### 3. 바뀌는 AI 투자 공식과 반도체 동향\n> 키워드: AI 반도체 투자\n\n**📌 무슨 일이 있었나**\n- 미국 증시에서 AI 투자 공식에 변화가 감지되면서 반도체 관련 주는 팔고 빅테크 및 전통주를 매수하는 흐름이 나타남.\n- 미 의회를 장악한 민주당의 빅테크 청문회 예고로 인해 한국의 전력기기와 AI 반도체 관련 기업들이 투자 속도를 주시함.\n- AI 반도체 품귀 현상에도 불구하고 삼성전자와 SK하이닉스 등 국내 대표 기업들이 빅테크의 현금흐름 쇼크 여파로 주가 발목을 잡힘.\n- 글로벌 자본이 AI 데이터센터와 반도체 분야로 대거 몰리면서 외국기업 7곳이 한국에 총 20억 달러 규모의 투자를 단행함.\n- 전문가들은 AI 주식의 흐름이 엇갈리는 가운데 반도체 주가가 조정받을 때 분할 매수하는 전략을 유효한 투자 대안으로 제시함.\n\n**💬 핵심 Q&A**\n- **Q. AI 반도체 투자와 관련해 시장에서 거품 논란이 나오는 이유는 무엇인가?**\n  A. 천문학적인 자금이 AI 인프라에 쏟아부어지고 있지만, 실제 빅테크 기업들의 현금흐름에 부담을 주기 시작했기 때문이다. 투자의 속도 조절이 필요하다는 목소리가 커지고 있다.\n- **Q. 글로벌 기업들이 한국의 AI 반도체와 데이터센터에 대규모로 투자하는 이유는 무엇인가?**\n  A. 한국이 우수한 반도체 제조 생태계와 인프라를 갖추고 있기 때문이다. 글로벌 자본은 AI 시대의 핵심 공급망을 선점하기 위해 한국 시장에 지속적인 러브콜을 보내고 있다.\n- **Q. 반도체 주가가 조정받을 때 분할 매수하는 전략은 안전한가?**\n  A. 분할 매수는 리스크를 분산하는 전통적인 투자법이지만 주가의 바닥을 정확히 알 수 없다는 한계가 있다. 따라서 기업의 본질적 가치와 업황을 면밀히 분석한 후 접근해야 한다.\n\n**👀 앞으로 볼 포인트**\n- 글로벌 빅테크 기업들의 AI 관련 투자 집행 속도\n- 국내 반도체 대기업의 실적 및 현금흐름 변화\n\n<sub>참고: [www.ebn.co.kr](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FV05zeUltZkV2ZHJKQWdhR0ttcHBwSEwyUlNUdDNqaE53UUhoMlNmZkh4Uzk0NWNPOXJoT2JYb0xMMnFoZlNsUWYyMHNIQ3Ixb0xLS0Z1a0tvdzlqVFp5TjdTaUxWQnhG?oc=5) / [글로벌이코노믹](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ1FnbXNBYmlrUXc1VVo4U0dlS2ZheVQyNjdZMkxVZWtaa0VSbzQ4b1JHTWF2SHBMQWZnR1hZTnpwWnJaZ0hTUjUyNG5OM3lENlg1Z0lQQUpLU3NJa2dmM0xHSk1TOFhfRlQ2Nzl6d2pteG5TN3MyUU5GZGRxdElUMWdJb3NxSE1W?oc=5) / [뉴시스](https://news.google.com/rss/articles/CBMieEFVX3lxTFBBTnY1b1Z5TWwxeDlzYlhsRWFjXzBkXzJwSjFMT1pWQzd0LXdoMUNRNllJanBna2YwT0VqWjVUTGtxVjU1N3hUVURidWtxczhLYmZYcXhsN2I4SUwzckZNWUZfYlRrdDhZcTVKRnpyX3Nic1Zvb19vSNIBeEFVX3lxTFBBTnY1b1Z5TWwxeDlzYlhsRWFjXzBkXzJwSjFMT1pWQzd0LXdoMUNRNllJanBna2YwT0VqWjVUTGtxVjU1N3hUVURidWtxczhLYmZYcXhsN2I4SUwzckZNWUZfYlRrdDhZcTVKRnpyX3Nic1Zvb19vSA?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 미 민주당 압승이 불러온 블루웨이브\n> 키워드: 미 중간선거 블루웨이브\n\n**📌 무슨 일이 있었나**\n- 미국 중간선거 여론조사에서 예상했던 블루 웨이브를 넘어 상·하원을 모두 민주당이 장악하는 역사적인 결과가 나타남.\n- 미 민주당의 상·하원 동시 탈환은 트럼프 행정부의 정책에 대한 심판 성격을 띠며 금융시장에 커다란 변화를 예고함.\n- 증권가에서는 이번 블루웨이브가 규제 완화와 정책 불확실성 해소 측면에서 금융시장에 호재로 작용하며 유가와 금리 하락을 이끌 것으로 전망함.\n- 민주당의 압승 소식이 전해지자 뉴욕증시는 불확실성 해소와 정책 기대감을 반영하며 다우지수가 3% 이상 급등함.\n- 정치적 지형의 급변은 에너지와 테크 등 주요 산업 섹터의 주가 흐름에 직접적인 영향을 미치며 투자자들의 포트폴리오 조정을 유도함.\n\n**💬 핵심 Q&A**\n- **Q. 블루웨이브란 정치 경제적으로 정확히 어떤 상태를 뜻하는가?**\n  A. 블루웨이브는 미국 민주당을 상징하는 파란색에서 유래한 말로, 행정부는 물론 상원과 하원의 권력을 모두 민주당이 장악하는 현상을 뜻한다. 이 상태가 되면 대통령이 추진하려는 정책에 강력한 동력이 생긴다.\n- **Q. 미국 민주당의 상·하원 장악이 금융시장에 왜 호재로 작용하는가?**\n  A. 선거 결과로 인해 정치적 불확실성이 해소되었기 때문이다. 시장은 정국이 안정되면서 정부의 원활한 정책 집행이 가능해질 것이라는 기대를 반영하고 있다.\n- **Q. 블루웨이브가 현실화되면 일반 개인의 자산 관리는 어떻게 달라져야 하는가?**\n  A. 정치 지형 변화에 따라 수혜를 보는 업종과 타격을 입는 업종이 갈릴 수 있다. 특정 테마에 맹목적으로 투자하기보다는 정책 수혜 섹터를 꼼꼼히 따져보는 지혜가 필요하다.\n\n**👀 앞으로 볼 포인트**\n- 미 민주당 주도 하의 입법 및 정책 추진 방향\n- 미국 국채 금리 및 달러화의 추가 움직임\n\n<sub>참고: [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE54cmJRckhxNUd2cEN4T2xLRHpMeXJ0MW03eENlWmZyNFNuT2NxM2N2djN1TUFrZzIwajFEbDduaXpZTHhPRllhdHRXdHprd2JyZGZmem9iRFRncFHSAWBBVV95cUxNNExpSHM5TnN6RXAwdHpJVFRJaGo4dXcwdWlyNDQwTU45OXhGYUxhZnNqdWt5bHptZnZ3QjNVTm1BOEZoVGxic0pTdW9CMXIxcTZKc3lVdlcwZHN6VmJoc00?oc=5) / [경향신문](https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tWlE3aVhfQkFtY0NNUV9FNkYyNDM4Uk9ERW44djhpVmM3emlKM2xzUDlWUFlWbDZfcGl4LVFCZXgxd2ZSR1dMelhhVm5fYmdBWnB2NWZKbHdoZ9IBX0FVX3lxTE5HM0RmeGdNT3VLYTd1Sl9Bb0toUmlIU3cxMl9qN09WMmdEVktUYl95SWFkdG1IZmdwLWlqWk5DdVpUV2ZhbjRnT3ZSVUJtOW1sQTRvYXQ1Y3p6RllLcWpn?oc=5) / [한겨레](https://news.google.com/rss/articles/CBMib0FVX3lxTE5GOEtsY2JiUjJqcXp2QTZJY182c1hWQUs0SWZ2Qlp4d0hpU1pmUllyRWx0MS1oRzFzVXQ4UEV1R0ZQSC1MdzlmeXdod0J6WUZKM21wYlJwN2Z1Z190UlBwdURCVjJzZE5fSVAtV0d1QQ?oc=5)</sub>\n\n---\n\n### 2. 불확실성 해소에 일제히 솟구친 뉴욕증시\n> 키워드: 뉴욕증시 급등\n\n**📌 무슨 일이 있었나**\n- 미국 중간선거가 종료되면서 정치적 불확실성이 해소되고 전쟁 종식에 대한 기대감이 맞물려 뉴욕증시가 일제히 급등함.\n- 다우지수는 선거 종료의 안도감에 힘입어 전일 대비 3% 이상 오르며 53,000선을 회복하는 강한 반등을 기록함.\n- 민주당의 압승으로 지정학적 리스크 완화 조짐이 보이고 국제유가가 8% 이상 급락하면서 증시 상승세에 결정적인 촉매제로 작용함.\n- 투자자들은 그동안 증시의 발목을 잡던 불확실성 요인들이 해소된 것으로 판단하고 위험 자산에 대한 매수세를 대거 유입시킴.\n- 반도체 등 일부 업종이 약세를 보이기도 했으나 전체적인 증시 지수는 대형주를 중심으로 가파른 우상향 곡선을 그림.\n\n**💬 핵심 Q&A**\n- **Q. 미국 선거가 끝나자마자 뉴욕증시가 폭등한 근본적인 원인은 무엇인가?**\n  A. 시장이 가장 싫어하는 불확실성이 투표 결과와 함께 해소되었기 때문이다. 여기에 지정학적 갈등이 완화될 것이라는 기대감이 더해져 매수세가 몰렸다.\n- **Q. 미국 증시의 급등이 다음 날 국내 증시에는 어떤 파급효과를 주는가?**\n  A. 글로벌 투자 심리를 개선하여 국내 증시에도 긍정적인 온기를 불어넣는 역할을 한다. 다만 국내 고유의 수급 요인에 따라 반응 속도는 다를 수 있다.\n- **Q. 증시가 갑자기 급등할 때 투자자가 경계해야 할 점은 무엇인가?**\n  A. 급등에 따른 피로감으로 단기 차익 실현 매물이 나올 수 있음을 염두에 두어야 한다. 분위기에 휩쓸려 무리하게 빚을 내어 투자하는 행위는 매우 위험하다.\n\n**👀 앞으로 볼 포인트**\n- 뉴욕증시 상승세의 단기 과열 여부\n- 미국 경제 지표 발표에 따른 연준의 금리 정책 기조\n\n<sub>참고: [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XOFd6eWxpZVJFVUFPeDJ4b1lxVmtwMFdkaXoxY0xxdG5CNkhuQ0pvTkd0UzJ0bVoxRmxaVWd2WFZ6WVpZNGJWdU5YZG5sS0NTWThJc2o5U0kxamhqUzJody1yRklhaDA?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qUlN0Y2FxZk1WaEQ2SmVfMWtac0NPVjVnUktUUmFRNGRjaXFsQXhUTFM0UExGdGFLVFZmNE93b3RuTmQxdHNSOTI4alJYN3lYQXdYRGNOdEdqdVHSAWBBVV95cUxNaUV0SHNvZ2tDbllOU01vMjRpUG5NTXVNOVNpb2tzNmJRdS1jVThlZmZqV2tpV2xQU19Wc1A0VWYwNy10SmRJVExoWHVoVTlLM3FhNXNOTl9fdzFFZGpseDQ?oc=5) / [YTN](https://news.google.com/rss/articles/CBMidkFVX3lxTFBlMkluLURPMktJOHlLVkxyaGhlQlhxODZ1Yzk1RUhtbzhaa0xibEMtZ2pJX2p0bVRlcUJBXzh4LTY0M3NoSFV6UVIwS3VFMkRQQVFMRVFUOVlXUVR6aldhQVhJUDFHRWNkSXZEcjdmZ3NxeElEVnc?oc=5)</sub>\n\n---\n\n### 3. 이란전 종식 기대감에 8%대 폭락한 유가\n> 키워드: 국제유가 폭락\n\n**📌 무슨 일이 있었나**\n- 미 민주당의 압승과 이란전 종식에 대한 기대감이 확산되면서 국제유가가 8% 이상 급락하는 폭락세를 기록함.\n- 서부텍사스산원유(WTI) 가격이 하루 만에 8.29% 하락하는 등 에너지 시장에 거대한 충격파가 던져짐.\n- 정치적 지형 변화로 중동 지역의 긴장감이 완화되고 원유 공급 차질 우려가 줄어들면서 가격 하락을 주도함.\n- 유가 폭락의 여파로 그동안 고유가 수혜를 입었던 트럼프 관련 테마주는 큰 폭으로 하락하는 정반대의 흐름을 보임.\n- 국제유가의 급격한 하락은 전 세계적인 인플레이션 압력을 낮추고 각국 중앙은행의 통화 정책에 숨통을 트여줄 것으로 전망됨.\n\n**💬 핵심 Q&A**\n- **Q. 국제유가가 갑자기 8%나 폭락한 이유는 구체적으로 무엇인가?**\n  A. 미국 선거에서 민주당이 압승을 거두면서 중동 지역의 전쟁이 종식될 수 있다는 평화적 기대감이 커졌기 때문이다. 원유 공급 불안이 해소될 것이라는 전망이 가격을 끌어내렸다.\n- **Q. 유가 하락은 우리의 일상적인 생활비와 물가에 어떤 영향을 미치는가?**\n  A. 기름값과 운송비가 낮아지면서 전반적인 물가 상승 압력이 줄어드는 효과가 있다. 가계의 에너지 비용 부담을 덜어주는 긍정적인 요인으로 작용한다.\n- **Q. 유가 폭락 시 에너지 관련 주식에 투자할 때 주의할 점은 무엇인가?**\n  A. 유가 변동성은 예측하기 매우 어렵기 때문에 단기 하락만 보고 성급하게 저가 매수에 나서는 것은 삼가야 한다. 산유국의 감산 정책 등 글로벌 변수를 함께 점검해야 한다.\n\n**👀 앞으로 볼 포인트**\n- 중동 지역의 실제 군사적 긴장 완화 지속 여부\n- 석유수출국기구(OPEC) 등 주요 산유국의 생산량 조절 움직임\n\n<sub>참고: [MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTE1FcWdUbmxMSV9kUl9YUm4tc2JZUllnZkhBb0xEN1RGR0ZKaDFoM3kzMEoyeUd1bHkydzJwWTM0SUVndC16WkYtT2ItSE82TUNCRDZ4T1ZaN1padlY5Smg5ZlZQNUlldDBpOFhWcnZoWl9QV1JW0gF0QVVfeXFMTm51bkVWQVpsSl9PTGM5dGRoRjFvMnotQXhpd1BIakZlQWdNQUZVMzkyaHZtYTlIOW1HajNtaFhVRjdLcGxpQnJHX3l5RE9KYklJcGFrRnI3aVNDeThlYmxxUUNVcUo1bVlaaTE3UFFqbXUzQmI?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nSGwwRjlJYnVtZnV2M2QyT3czVGZTYzQ3SDVoUng1SEFJT2F4WUFyUUhycVJCMEFBWVUzVjZ5TFNyRTQxZGQwVXZxX0syMG82eTBBYzRMdVhiQThRM0pHVdIBYEFVX3lxTE9nSGwwRjlJYnVtZnV2M2QyT3czVGZTYzQ3SDVoUng1SEFJT2F4WUFyUUhycVJCMEFBWVUzVjZ5TFNyRTQxZGQwVXZxX0syMG82eTBBYzRMdVhiQThRM0pHVQ?oc=5) / [문화일보](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RVkFHb2J3U0gza0EtTl9ZeXJVazVudlNOaElLekpaRVRLRHZfV3BEMThsdV9lZ0R6czBOTVBuZWl0dHZiZnB5QXZCSTVUSjRh?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 제목을 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
     "generation_mode": "gemini"
   },
   "yesterday": {
@@ -2878,5 +2836,5 @@
     "newsletter_md": "# 📈 오늘의 경제 뉴스레터\n_2026-10-30 ~ 2026-11-05 이슈 · 발행 2026-11-05_\n\n🇰🇷 **국내 경제:** `코스피 롤러코스터 장세` · `쿠팡 및 홍콩 ELS 등 기업 이슈` · `수출 1조 달러 임박`\n🌐 **해외 경제:** `미국 뉴욕증시 기술주 매도` · `국제유가 급락세` · `미국 중간선거 블루웨이브`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 코스피, 롤러코스터 장세 끝에 반등\n> 키워드: 코스피 롤러코스터 장세\n\n**📌 무슨 일이 있었나**\n- 코스피 지수는 장중 400포인트가 넘는 극심한 등락을 거듭하는 롤러코스터 장세를 보인 끝에 전장 대비 0.62퍼센트 상승한 수치로 마감함.\n- 시장 참여자들의 매매 공방 속에서 개인 투자자와 기관 투자자의 적극적인 동반 매수세가 유입되면서 지수의 하방을 지지하고 상승 전환을 이끌어냄.\n- 주요 지수가 널뛰기 양상을 보였으나 막판 매수세가 집중되면서 5680선을 안정적으로 회복하며 거래를 마감한 것으로 집계됨.\n- 코스피 시장과 함께 코스닥 지수 역시 1.5퍼센트의 상대적으로 높은 상승률을 기록하며 투자 심리가 회복되는 모습을 보여줌.\n- 장중 기준 지수의 변동 폭이 400포인트를 상회할 정도로 불확실성이 컸으나 저가 매수 유입으로 시장의 급락을 방어함.\n\n**💬 핵심 Q&A**\n- **Q. 지수가 400포인트 넘게 흔들릴 때 내 주식 계좌는 어떻게 관리해야 하는가?**\n  A. 장세가 극심한 변동성을 보일 때는 감정에 동요되어 매매하기보다 포트폴리오의 비중을 점검할 필요가 있다. 단기적인 등락에 일희일비하지 않고 시장의 추이를 차분하게 지켜보는 자세가 중요하다.\n- **Q. 롤러코스터 장세라는 것은 증시에서 구체적으로 어떤 상황을 의미하는가?**\n  A. 주가가 하루 안에서도 급등과 급락을 극심하게 오가는 불안정한 흐름을 비유적으로 이르는 말이다. 매수와 매도 세력 간의 공방이 치열할 때 주로 나타난다.\n- **Q. 개인과 기관이 동시에 매수하면 주가는 무조건 오르게 되어 있는가?**\n  A. 수급 주체의 매수세는 주가 상승에 긍정적인 영향을 미치지만 대외 경제 변수나 외국인 동향에 따라 결과는 달라질 수 있다. 따라서 수급뿐만 아니라 다양한 지표를 함께 분석해야 한다.\n\n**👀 앞으로 볼 포인트**\n- 개인과 기관의 매수세 지속 여부\n- 지수 변동성 확대에 따른 리스크 관리\n\n<sub>참고: [뉴스핌](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VREkzMExBQ2hzSXpmX0xDd1BhOGZCS2Y3Y2tjUkgwVG9hbE5iUWc2RGxJdXNYcHlNcFpSZ24zTXYtV2pPUk44Tm1tcUY3YlhDMWZrSzFXSlFjWDNy?oc=5) / [한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE90VHdaQS11aUdxeGdZa2V3QmhZQWVEREdaVG9yRTdudmhRdXB6TGhZRTZHR0V1Q3AzalVHUWFmSWFjZUE2NE9uVlg5WUNHajBXWnVESzJpSGR5UQ?oc=5) / [매일경제 마켓](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YUElrdGZBSjl2T0RvQmZhcFRXc3RINDNGUTFqclgtVlZsTzN1MHlKQ0dkcDRIRW9ITmhWeG1yTDBEN0s5MVpjUGRNeHJzSi1wclE?oc=5)</sub>\n\n---\n\n### 2. 쿠팡, 분기 매출 14조 돌파에도 적자\n> 키워드: 쿠팡 및 홍콩 ELS 등 기업 이슈\n\n**📌 무슨 일이 있었나**\n- 쿠팡Inc의 3분기 분기 매출액이 처음으로 14조 원을 돌파하는 외형적 성장을 기록했음에도 불구하고 영업적자를 기록함.\n- 공정거래위원회의 추가 제재 조치와 시장 내 치열한 할인 경쟁 여파가 겹치면서 올해 쿠팡의 연간 영업손실 규모가 2조 원에 육박할 것이라는 우려가 제기됨.\n- 쿠팡은 다가오는 수능 시험일과 연말 시즌을 대비하여 수험생 간식과 기념일 먹거리를 모아 판매하는 스위트샵 기획전을 운영함.\n- 와우 멤버스데이를 개최하여 약 37만여 개의 다양한 상품을 최대 70퍼센트까지 할인하는 대규모 판촉 행사를 진행함.\n- 카카오 및 롯데쇼핑 등 주요 유통 및 플랫폼 기업들과 함께 3분기 실적 발표를 앞두고 인공지능 투자와 수익성 회복 여부가 시험대에 오름.\n\n**💬 핵심 Q&A**\n- **Q. 매출이 14조 원을 넘었는데도 왜 적자가 발생하는 것인가?**\n  A. 외형적인 규모가 커지더라도 물류 인프라 투자나 치열한 할인 경쟁으로 인해 비용이 더 많이 발생하면 적자를 기록할 수 있다. 기업의 성장성과 수익성은 별개로 움직일 수 있음을 보여준다.\n- **Q. 공정위 제재나 할인 경쟁이 일반 소비자의 쇼핑에는 어떤 변화를 주는가?**\n  A. 기업들이 경쟁력 유지를 위해 대규모 할인 행사를 진행하여 소비자 입장에서 당장은 혜택이 늘어날 수 있다. 그러나 장기적으로는 플랫폼의 정책 변화나 가격 구조에 영향을 미칠 수 있다.\n- **Q. 이커머스 기업들의 수익성 악화 우려가 내 소비 생활에 직접적인 타격을 주는가?**\n  A. 기업들이 수익성 회복을 위해 멤버십 가격을 인상하거나 무료 배송 혜택을 조정할 가능성이 존재한다. 따라서 자주 이용하는 플랫폼의 정책 변화를 꾸준히 모니터링할 필요가 있다.\n\n**👀 앞으로 볼 포인트**\n- 쿠팡의 연간 영업손실 규모 추이\n- 공정위 제재 및 할인 경쟁의 영향\n\n<sub>참고: [연합뉴스](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CM0ctYThIUV82aHFsc0diVElTcnFOYnBOSmltRXZFQnNWdFg1T25vU0I5VFdsWEp6OThtV0lYRmtMdjNQeWdGTjJaX3dnc2JyZkJBZ01UM0RCVWlXTzJULdIBYEFVX3lxTE5CM0ctYThIUV82aHFsc0diVElTcnFOYnBOSmltRXZFQnNWdFg1T25vU0I5VFdsWEp6OThtV0lYRmtMdjNQeWdGTjJaX3dnc2JyZkJBZ01UM0RCVWlXTzJULQ?oc=5) / [뉴시스](https://news.google.com/rss/articles/CBMieEFVX3lxTE5PblQzT0trS19hY2hlTXhRVTEzOUFQU1JZc2lWSkZlV1NQSUpBVEpTRUliZ0g2bVlLR3dvNnQ4S2ZnazBvNkFtZ3EtUkJzd203TVhOdlB0X0VDWGZXSFluSzFlUUs3RXhXWHllZGwyRnNJSjY4aEtMeNIBeEFVX3lxTE5PblQzT0trS19hY2hlTXhRVTEzOUFQU1JZc2lWSkZlV1NQSUpBVEpTRUliZ0g2bVlLR3dvNnQ4S2ZnazBvNkFtZ3EtUkJzd203TVhOdlB0X0VDWGZXSFluSzFlUUs3RXhXWHllZGwyRnNJSjY4aEtMeA?oc=5) / [지디넷코리아](https://news.google.com/rss/articles/CBMiVkFVX3lxTE95UzVnZXhjRUJrOWFIOVNCNkVyTTFMUmhUSl9pTWJBQW93cEFXM0pna25JQXQ3dVY1a3JYWUF5TlhraXUwQ0dNTjNtRUFyYWVUMXpoLVpR?oc=5)</sub>\n\n---\n\n### 3. 한국 수출, 사상 첫 1조 달러 눈앞\n> 키워드: 수출 1조 달러 임박\n\n**📌 무슨 일이 있었나**\n- 한국의 올해 연간 수출액이 사상 최초로 1조 달러 돌파를 목전에 두고 있으며 이달 중 달성이 확실시되고 있음.\n- 인공지능 열풍에 힘입어 10월 수출액이 1153억 달러를 기록하며 두 달 연속 1100억 달러를 돌파하는 강력한 성장세를 보임.\n- 반도체 단일 품목에서만 564억 달러의 수출 실적을 올리며 전체 수출 확대를 견인한 것으로 나타남.\n- 이번 1조 달러 달성을 통해 한국은 미국, 중국, 독일 등에 이어 세계에서 4번째로 수출 1조 달러 클럽에 가입하는 쾌거를 이룸.\n- 남은 금액이 700억 달러 수준에 불과해 미·중·독과 어깨를 나란히 하며 글로벌 무역 강국으로서의 입지를 확고히 함.\n\n**💬 핵심 Q&A**\n- **Q. 수출 1조 달러 달성이 일반 시민들의 일상 생활에는 어떤 긍정적 효과를 주는가?**\n  A. 국가 전체의 무역 규모가 커지면 경제 성장률 제고와 고용 안정에 기여하여 전반적인 경제 활력에 도움을 준다. 다만 환율이나 물가 등 다른 거시경제 변수와 함께 체감 경기를 살펴야 한다.\n- **Q. 수출 1조 달러라는 수치가 무역 역사에서 가지는 구체적인 의미는 무엇인가?**\n  A. 전 세계에서 미국, 중국, 독일 등 손에 꼽히는 경제 대국들만 달성했던 기록에 한국이 합류한다는 것을 뜻한다. 글로벌 시장에서의 국가 경쟁력이 최고 수준에 도달했음을 의미한다.\n- **Q. 반도체 한 개 품목에 대한 수출 의존도가 높은 점을 어떻게 바라보아야 하는가?**\n  A. 반도체 산업이 호황일 때는 국가 경제에 엄청난 활력을 불어넣지만, 반대로 불황이 찾아오면 전체 수출 타격이 클 수 있다. 따라서 산업 다변화가 꾸준히 요구되는 배경이 된다.\n\n**👀 앞으로 볼 포인트**\n- 반도체 중심의 수출 호조 지속 여부\n- 글로벌 톱4 무역 국가 지위 유지\n\n<sub>참고: [자본시장뉴스](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yRVZOYVoyRFNnRmt2a3hsdkRHa2g5enFHbzJuRmxXdVdpN1F3ZnZVRTlabW5LRFl6VUJDMTdfYUhxZjl6SXppZ01KamxOaVNuaDNpRjA1YThsZ0dhOEFDU1duYjRtTVU?oc=5) / [서울신문](https://news.google.com/rss/articles/CBMib0FVX3lxTE1xc2FBVVNrb2VvWnliTTd3Y3dNRWV3YlR6Y0lhVTVlTi0tVE5QTGhaRWN4b2dGWmtIS3MxenZXQVFQR0l2dFU5TGtPbnladV9MZnV0R1Nuc2lYWGFyMklkQUFEUm5fdUdKNHBULXVlWQ?oc=5) / [JTBC](https://news.google.com/rss/articles/CBMiVEFVX3lxTE13YzV3QnRHMWxDQzAtZzVXbDMxX0NGTjBtc0ZHLWdiR3RhOXF0V214TjdYT3hmS1kxbnowc3dzVEVRMFVnTndUM0tqcTJkbUZEbDJDNg?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 뉴욕증시, 기술주 매도세에 나스닥 급락\n> 키워드: 미국 뉴욕증시 기술주 매도\n\n**📌 무슨 일이 있었나**\n- 미국 뉴욕증시에서 대형 기술주를 중심으로 매도 물량이 대거 출회되면서 증시 전반에 하방 압력을 가함.\n- 기술주 약세의 직격탄을 맞은 나스닥 지수는 2.9퍼센트 급락하는 등 주요 지수들이 큰 폭의 하락세를 기록함.\n- 반도체 기업 인텔의 주가가 일시적으로 29퍼센트 폭락하는 등 개별 종목들의 충격이 크게 나타남.\n- 일부 시장에서는 유가가 하락했음에도 불구하고 기술주 중심의 매도세가 진정되지 않으면서 혼조세를 보이거나 하락 마감함.\n- 연속된 기술주 차익 실현과 매물 출회로 인해 투자 심리가 위축되며 변동성이 확대되는 양상을 보임.\n\n**💬 핵심 Q&A**\n- **Q. 미국 기술주가 급락할 때 국내 증시에 투자하는 내 자산은 어떻게 보호해야 하는가?**\n  A. 글로벌 증시는 연동성이 높아 뉴욕증시의 기술주 매도세가 국내 IT 및 성장주에도 하락 압력으로 작용할 수 있다. 지나친 레버리지 투자를 자제하고 자산 배분을 탄탄히 할 필요가 있다.\n- **Q. 기술주 매도세란 주식시장에서 구체적으로 어떤 현상을 말하는가?**\n  A. 투자자들이 그동안 주가가 많이 오른 기술 관련 기업의 주식을 팔아 차익을 실현하려는 움직임이 집중되는 상황을 뜻한다. 매도가 몰리면 주가는 급격히 하락하게 된다.\n- **Q. 인텔 주가가 하루 만에 29퍼센트나 급락한 이유는 무엇인가?**\n  A. 실적 부진이나 사업 전망 악화 등 개별 기업의 악재에 더해 시장 전반의 기술주 기피 현상이 겹쳤기 때문이다. 개별 종목의 리스크가 얼마나 큰지 보여주는 사례이다.\n\n**👀 앞으로 볼 포인트**\n- 미국 빅테크 기업들의 주가 추가 조정 여부\n- 글로벌 반도체 및 기술주 투자 심리\n\n<sub>참고: [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxMEg4UEdnMEcxekpKalgzR1RJTHRiRVBWd2dHRWFtSmwyLXNxYkFUWWNhamhvcnBtcTNQQXd5R3BBSkU0WkVLb3MxeUxpS3JpaGxpSWJzMEZNbWfSAWBBVV95cUxPQXg2Sl9HXzdaXy01aWs2Y2oyTkRHVDQ3VkItdm11cVZBdWpXZnRUSjNteUpRVFB1am14eGhmTm1ZM2FFbjFMd00teGNaejZNSms4NWtVOGl2cFF4MWEwZ2U?oc=5) / [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtckluX1NmTTkyajZBNHI4X2VrZVVFTmQ5SjZHQkU1YW11SDk1WkZmV3ctNVJFLTJjbHlVMzkwd1RaY1NPTFRsNE1JUk1HMGw0cVd5ZnE4WE1uZFU?oc=5) / [Chosunbiz](https://news.google.com/rss/articles/CBMingFBVV95cUxPTG41bDQta3lKRWJKbjdaQU9nNlpUUFVQUDlYNkFzZDV6V0Q2SUtHTjBxdVdZNWZDQzI1bW4zSTh5eXR1UlFSbmFLMTBlZzhYdEFUY2gwVEhzdUdRSE5wdkVGSWh4SUx3ZDd3RnhMMjhMZkZ3T1VwUkM3MW0tQWJQMVZ0MURwUkM0VWdWajkxaGYteG44c25BdGpDbnItUdIBsgFBVV95cUxQbkJHTzROWDJKUnk1b0R4WkdRakJISm96RV9RbVpwc3ZsYUZVX0M0eVlFLVZUMl9lTjdFTkU4M3dublAybWtFLWZzNzJlQnFaZEFwVkxCWmMyb2JlazlZZlBjZ3dtMVFramtMVlZOR0RqTGtlQnpsZG01am5CZE9UY0tIUnFPSXp6Wlllc1M0SnpSUjd3SGx2NFlxa09BdURuT0JYNmZEV0hpdFMyaUUzMHpR?oc=5)</sub>\n\n---\n\n### 2. 미·이란 협상 기대에 국제유가 7%대 급락\n> 키워드: 국제유가 급락세\n\n**📌 무슨 일이 있었나**\n- 미국과 이란 간의 종전 및 협상 기대감이 높아지면서 공급 불안 우려가 완화되어 국제유가가 7퍼센트에서 8퍼센트 넘게 급락함.\n- 서부텍사스산원유(WTI) 가격이 배럴당 96달러선까지 떨어지는 등 큰 폭의 가격 조정을 받음.\n- 미국 정치권의 정국 변화와 맞물려 원유 공급 차질 우려가 해소된 점이 유가 하락의 주요 원인으로 작용함.\n- 국제유가의 급락세 여파로 미국 국채금리 역시 하락세를 지속하며 10년물 금리가 9월 이후 최저 수준을 기록함.\n- 미 달러화가 약세를 보이는 가운데 지정학적 리스크가 완화되면서 원유 시장의 하방 압력이 더욱 거세짐.\n\n**💬 핵심 Q&A**\n- **Q. 국제유가가 급락하면 내 주유소 기름값이나 물가에는 언제부터 반영되는가?**\n  A. 국제유가 하락분은 통상 수주 정도의 시차를 두고 국내 수입 물가와 주유소 판매 가격에 순차적으로 반영된다. 기름값 부담이 점차 줄어들 것으로 기대할 수 있다.\n- **Q. WTI 96달러선이라는 수치는 글로벌 경제에서 어떤 기준이 되는가?**\n  A. 서부텍사스산원유는 국제원유 가격의 기준이 되는 대표적인 지표로 100달러 선이 깨졌음을 의미한다. 에너지 비용 부담이 완화되고 있음을 보여주는 중요한 가격대이다.\n- **Q. 유가 하락이 미국 국채금리 하락에도 영향을 미치는 이유는 무엇인가?**\n  A. 에너지 가격이 떨어지면 인플레이션 압력이 완화되어 중앙은행의 금리 인하 기대가 커지기 때문이다. 채권 금리는 인플레이션 전망에 매우 민감하게 반응한다.\n\n**👀 앞으로 볼 포인트**\n- 서부텍사스산원유 96달러선 지지 여부\n- 미·이란 협상 진척 상황 및 달러화 추이\n\n<sub>참고: [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YcllzbEZ4bk5NYzFKQWFWall0cnlvRTVCcjdqWkp1Ul9oR0RDY01lMkZFX1VJOW1BenFZNTd5MXE4dkw4RVpCTFFaakJDbmVPMHJQdDNZRlBvU0VGYnliX1R6ZG1KTlU?oc=5) / [더구루](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzNEF3M2k2WUdPYy1zZ3lZZWFoeEJsX0NDQUNSYlVIZXpqbHdSTy1jQUdfQ2lyLWdjWGl0dVRUVlNxS3pWUERyQWVTNzRlRUZ0M1FBalc4bWE3d25BcFg5bk1PZw?oc=5) / [중앙일보](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCcklLRTY1YXp4T2tRY3ZhelQzZUcwblp3VU1sY2hUM3ZrLUxxUHBOSnFpMUV0UGFkb2lGRGtHUFFIeXBYaG1iX3p0V1hwbVM2Vk96NG53?oc=5)</sub>\n\n---\n\n### 3. 미 중간선거, 민주당 상하원 싹쓸이\n> 키워드: 미국 중간선거 블루웨이브\n\n**📌 무슨 일이 있었나**\n- 미국 중간선거에서 민주당이 상원과 하원을 모두 장악하는 이른바 블루 웨이브를 넘어 블루 쓰나미를 달성함.\n- 민주당이 의회의 주도권을 완전히 싹쓸이할 것으로 전망되면서 향후 정책 추진 속도에 큰 변화가 예상됨.\n- 미국의 정치적 지형 변화에 따라 아시아 반도체 산업 등이 직격탄을 맞을 수 있다는 우려가 제기됨.\n- 블루웨이브 현실화에 따라 금융시장의 긴장감이 높아지며 전반적인 자산 가격의 변동성 확대가 불가피해짐.\n- 뉴욕증시는 선거 결과에 따른 정책 기대와 불확실성이 혼재된 가운데 상승 출발하는 등 민감한 반응을 보임.\n\n**💬 핵심 Q&A**\n- **Q. 미국 민주당의 의회 장악이 내 해외 주식 투자 수익률에 어떤 변수로 작용하는가?**\n  A. 정부와 의회가 한 당으로 통일되면 법안 통과가 빨라지지만 특정 산업에 대한 규제가 강화될 수 있다. 따라서 규제 리스크에 노출된 업종의 주가 변동성을 주의 깊게 살펴야 한다.\n- **Q. 블루 웨이브와 블루 쓰나미라는 용어는 정치 경제적으로 어떤 상황을 뜻하는가?**\n  A. 민주당을 상징하는 파란색에서 유래한 말로 민주당이 선거에서 압승하여 행정부는 물론 입법부까지 완벽하게 장악하는 현상을 의미한다. 정책 주도권이 한쪽에 완전히 쏠리게 된다.\n- **Q. 미국 중간선거 결과가 아시아 반도체 기업들에 왜 직격탄이 될 수 있는가?**\n  A. 정권과 의회의 구성에 따라 자국 우선주의 무역 정책이나 보조금 및 규제 법안이 급물살을 탈 수 있기 때문이다. 글로벌 공급망에 속한 아시아 기업들에게는 불확실성이 커진다.\n\n**👀 앞으로 볼 포인트**\n- 미국 의회의 입법 정책 방향성\n- 아시아 반도체 등 글로벌 산업계 영향\n\n<sub>참고: [경향신문](https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tWlE3aVhfQkFtY0NNUV9FNkYyNDM4Uk9ERW44djhpVmM3emlKM2xzUDlWUFlWbDZfcGl4LVFCZXgxd2ZSR1dMelhhVm5fYmdBWnB2NWZKbHdoZ9IBX0FVX3lxTE5HM0RmeGdNT3VLYTd1Sl9Bb0toUmlIU3cxMl9qN09WMmdEVktUYl95SWFkdG1IZmdwLWlqWk5DdVpUV2ZhbjRnT3ZSVUJtOW1sQTRvYXQ1Y3p6RllLcWpn?oc=5) / [신아일보](https://news.google.com/rss/articles/CBMicEFVX3lxTE0zS0tXNVlJSjRkbzdEbG5YdVBDN095OXNYYUtOTDJLaElUNHFmRFNiX29yNFg0V29laTlzeDNHX1M5VWNfYjFpdWVRakUwNkF2RW4wU2dFVVRyQ3FJeGYzclkzU2k3UktKanFzVnJsdWo?oc=5) / [YTN](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lMEVqY0FHRzk2NDF2UC1kYUJOb2JVN2NqazR5V2N5T2lOX0s0YVFLVUwyV2cxS0FBcFB0V1FuUlYyNUlvMk14VnJ6TkVsZmVnWlg2ZElGUm5BRmhyTGc?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 제목을 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
     "generation_mode": "gemini"
   },
-  "updated_at": "2026-11-05 06:49:06 KST"
+  "updated_at": "2026-11-05 08:42:35 KST"
 }
