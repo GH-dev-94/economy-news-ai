@@ -5,209 +5,155 @@
     "end_date": "2026-11-04",
     "domestic": {
       "keywords": [
-        "코스피 지수 변동",
-        "가상자산 과세 유예",
-        "국내 기업 3분기 실적"
+        "코스피 반등",
+        "국내 기업 실적",
+        "부동산 세제개편"
       ],
       "results": {
-        "코스피 지수 변동": {
-          "headline": "코스피, 외국인 매도와 AI 우려로 급락",
+        "코스피 반등": {
+          "headline": "미국 기술주 반등에 코스피 5700선 회복",
           "facts": [
-            "코스피가 인공지능 수익성 우려와 외국인 투자자들의 대규모 매도 공세에 직면하여 전 거래일 대비 3.59% 급락하며 장을 마감한 원인 분석",
-            "장 초반 일부 바이오 및 특정 테마 종목을 중심으로 매수세가 집중되면서 5786.13포인트로 상승 출발했으나 상승분을 모두 반납한 흐름",
-            "시가총액 상위 종목인 삼성전자와 SK하이닉스 이른바 삼전닉스가 지수 하락폭보다 더 큰 낙폭을 기록하며 전체 지수를 끌어내린 양상",
-            "코스닥 시장 역시 동반 급락세를 보였으나 코스피 제약 업종은 0.58% 소폭 상승하며 전체적인 하락장 속에서 상대적으로 선방한 모습",
-            "미국 중간선거를 앞둔 경계감까지 겹치면서 투자심리가 크게 위축되어 국내 증시 전반에 매물이 출회된 시장 상황"
+            "미국 기술주 반등의 영향으로 코스피가 상승 출발했으나 장중 상승폭이 축소됨.",
+            "인공지능(AI) 서버 수요에 대한 기대감이 작용하여 코스피가 5700선을 회복함.",
+            "삼성전자와 SK하이닉스 등 대형 반도체 주식이 장초반 상승세를 기록함.",
+            "미국 중간선거를 앞두고 불확실성 완화 기대감이 더해져 반등을 탐색함."
           ],
           "watch": [
-            "미국 중간선거 결과에 따른 글로벌 증시 방향성",
-            "외국인 투자자의 국내 주식 순매도세 지속 여부",
-            "삼성전자와 SK하이닉스의 주가 반등 시점"
+            "미국 중간선거 개표 결과 추이",
+            "AI 서버 관련 반도체 수요 지속성",
+            "국내 증시의 장중 상단 저항선 돌파 여부"
           ],
           "qna": [
             {
-              "q": "코스피 지수 변동성 지수인 VKOSPI는 무엇이며 어떻게 보는가?",
-              "a": "VKOSPI는 코스피200 옵션 가격을 바탕으로 시장 참여자들이 예상하는 향후 주가 변동성을 보여주는 지표이다. 이 지수가 급등하면 시장의 불안감이 커지고 하락 위험에 대비하려는 수요가 높다는 의미로 해석한다."
+              "q": "코스피 반등 가능성과 전망은 어떻게 되는가?",
+              "a": "미국 기술주 흐름과 인공지능 서버 수요에 따라 지수의 향방이 결정된다. 선거 불확실성이 해소되는 시점이 중요한 변수이다."
             },
             {
-              "q": "대형주인 삼성전자와 SK하이닉스가 코스피 지수보다 더 크게 하락한 이유는 무엇인가?",
-              "a": "외국인 투자자들의 매도세가 시가총액 비중이 압도적인 반도체 대형주에 집중되었기 때문이다. 인공지능 산업의 수익성에 대한 시장의 우려가 커지면서 관련 핵심 종목들의 체감이 더 크게 나타났다."
+              "q": "오늘 코스피가 반등한 구체적인 이유는 무엇인가?",
+              "a": "미국 증시의 기술주 반등과 AI 서버 수요 확대 기대감이 직접적인 원인이다. 여기에 중간선거를 앞둔 불확실성 완화 심리가 복합적으로 작용했다."
             },
             {
-              "q": "이처럼 급락장이 나타날 때 개인 투자자는 장중 변동성에 어떻게 대응해야 하는가?",
-              "a": "단기적인 주가 등락에 휩쓸려 매매하기보다는 거시경제 지표와 외국인 수급 변화를 차분히 관망할 필요가 있다. 특히 변동성이 극심한 시기에는 무리한 레버리지 투자를 피하고 자산 배분을 점검하는 것이 안전하다."
+              "q": "디시 등 커뮤니티에서 언급되는 급반등 시기를 믿어도 되는가?",
+              "a": "온라인 커뮤니티의 예측은 단순한 개인 의견일 뿐이므로 맹신해서는 안 된다. 글로벌 증시 지표와 실적을 객관적으로 확인하는 태도가 필요하다."
             }
           ]
         },
-        "가상자산 과세 유예": {
-          "headline": "더불어민주당, 가상자산 소득 과세 유예 제안",
+        "국내 기업 실적": {
+          "headline": "반도체 호황과 전문의약품 성장에 3분기 실적 개선",
           "facts": [
-            "더불어민주당 김민석 의원이 가상자산 소득에 대한 과세를 유예해 줄 것을 정부에 공식적으로 제안하며 논의가 급부상한 배경",
-            "이번 제안이 현실화될 경우 가상자산 과세는 시행 시점이 연기되는 네 번째 유예 사례로 기록되는 정책적 변화",
-            "정부와 정치권이 디지털자산기본법을 우선적으로 제정하는 것이 시급하며 시장 참여자들의 적응 기간이 필요하다는 주장",
-            "KBS, 연합뉴스TV, 서울신문, 한겨레, 중앙일보 등 주요 언론들이 여당의 과세 유예 공식 제안 속보를 일제히 타전한 상황",
-            "조세일보 등 경제 매체들을 통해 과세 인프라 미비와 투자자 보호 장치 마련의 시급성이 함께 거론된 정책적 진전"
+            "반도체 호황으로 관련 기업들의 이익이 급증했으나 노동 보수 비중은 16년 만에 최저를 기록함.",
+            "해킹 여파를 털어낸 SK텔레콤의 영업이익이 이전 대비 10배 이상 대폭 증가함.",
+            "제약사들은 전문의약품의 판매 호조를 바탕으로 3분기 매출 성장을 달성함.",
+            "개인 투자자들은 삼성전자와 SK하이닉스를 매도하는 흐름을 보임."
           ],
           "watch": [
-            "정부의 가상자산 과세 유예 공식 수용 여부",
-            "디지털자산기본법 제정 관련 국회 논의 속도",
-            "가상자산 과세 유예 관련 청원 및 여론의 추이"
+            "주요 기업의 4분기 실적 발표 일정",
+            "반도체 소부장 기업의 주가 회복세",
+            "개인 투자자의 수급 유입 시점"
           ],
           "qna": [
             {
-              "q": "가상자산 과세 유예 청원과 법안 통과 가능성은 얼마나 되는가?",
-              "a": "투자자들의 지속적인 유예 요구 청원과 정치권의 거듭된 유예 제안으로 인해 실제 시행 시기가 미뤄질 가능성이 높다. 다만 정부와의 세부 조율 과정과 관련 법안 통과 여부는 지켜봐야 한다."
+              "q": "국내 기업 실적 발표 캘린더는 어디서 확인하는가?",
+              "a": "한국거래소나 각 증권사의 전자공시시스템을 통해 주요 기업의 실적 발표 일정을 조회할 수 있다. 분기별 일정에 맞춰 미리 확인하는 것이 안전하다."
             },
             {
-              "q": "가상자산 과세가 2년 추가 유예되면 코인 시장에 어떤 변화가 생기는가?",
-              "a": "세금 부담에 대한 우려가 일시적으로 해소되면서 투자 심리가 단기적으로 안정을 찾을 수 있다. 그러나 장기적으로는 디지털자산기본법 제정 등 제도적 정비가 필수적으로 수반되어야 한다."
+              "q": "반도체 호황인데 왜 개미들은 삼성전자와 닉스를 팔고 있는가?",
+              "a": "단기 주가 변동성에 따른 차익 실현이나 미국 기술주 추이를 관망하려는 심리가 작용했을 수 있다. 실적 발표 이후의 수급 변화를 지켜볼 필요가 있다."
             },
             {
-              "q": "디지털자산기본법이 우선 제정되어야 하는 이유는 무엇인가?",
-              "a": "가상자산 시장의 불확실성을 해소하고 투자자를 보호할 수 있는 실효성 있는 법적 기준이 부족하기 때문이다. 과세 집행에 앞서 건전한 시장 질서와 투자자 보호 장치를 확립하는 것이 우선이라는 판단이다."
+              "q": "기업 이익이 늘었는데 노동 보수 비중이 낮아진 이유는 무엇인가?",
+              "a": "매출과 영업이익 증가 폭에 비해 임금 총액의 상승 속도가 상대적으로 더디기 때문이다. 기술 집약적 산업 구조의 변화가 복합적으로 작용한 결과이다."
             }
           ]
         },
-        "국내 기업 3분기 실적": {
-          "headline": "SK텔레콤·제약사 웃고 K철강 울은 3분기",
+        "부동산 세제개편": {
+          "headline": "종부세 개편 공청회 개최, 실거주 중심 과세 공방",
           "facts": [
-            "SK텔레콤이 과거 해킹 여파를 온전히 털어내고 영업이익이 전년 동기 대비 10배 이상 폭증하는 호실적을 기록한 성과",
-            "국내 주요 제약사들이 전문의약품 부문의 견고한 판매 호조를 바탕으로 매출 성장을 이뤄낸 3분기 경영 실적",
-            "한국항공우주가 긍정적인 실적 전망과 함께 기업가치 재평가 기대를 받으며 증권가에서 목표가가 상향 조정된 사례",
-            "포스코는 웃고 현대제철은 울상을 지은 가운데 판매량 차이가 K철강 기업들의 3분기 희비를 갈라놓은 원인",
-            "인공지능 반도체 핵심 부품인 기판 품귀 현상이 발생함에 따라 국내 관련 기업들이 대규모 투자를 단행하며 대응에 나선 상황"
+            "종합부동산세를 보유 주택 수 기준이 아닌 가액 기준으로 전환하는 실거주 중심의 세제 개편이 추진됨.",
+            "부동산 세제 개편안 공청회에서 징벌적 과세라는 비판과 담세력 반영이라는 찬성 입장이 맞섬.",
+            "실거주 목적이 아닐 경우 세부담이 급격히 증가하는 구조로 인해 셈법이 복잡해짐.",
+            "용산구 등 지자체에서 구민들을 대상으로 부동산 세제 개편 설명회를 개최함."
           ],
           "watch": [
-            "주요 기업들의 3분기 실적 발표 일정 및 최종 성적표",
-            "AI 반도체 기판 관련 기업의 대규모 투자 효과",
-            "철강 및 제약 등 업종별 판매량 회복세 지속 여부"
+            "부동산 세제개편안 최종 확정 발표일",
+            "공동명의 과세 방식 변경 여부",
+            "국회 입법 과정에서의 여야 공방"
           ],
           "qna": [
             {
-              "q": "국내 기업들의 3분기 실적 발표 일정은 어디서 확인할 수 있는가?",
-              "a": "금융감독원 전자공시시스템인 DART나 각 증권사의 리서치 자료를 통해 상장 기업들의 실적 발표 일정을 확인할 수 있다. 기업들은 보통 분기 마감 후 한 달에서 한 달 반 사이에 실적을 공시한다."
+              "q": "부동산 세제개편안이 통과되면 내 집 세금은 어떻게 바뀌는가?",
+              "a": "주택 수 중심에서 가액 중심으로 과세 기준이 바뀌어 다주택자 중과 여부와 실거주 여부가 핵심 변수가 된다. 본인의 보유 주택 가치와 거주 형태를 대입해 세부담을 계산해야 한다."
             },
             {
-              "q": "SK텔레콤의 영업이익이 10배 이상 증가한 배경은 무엇인가?",
-              "a": "과거 발생했던 해킹 관련 일회성 비용이나 악재가 기저효과로 작용하고 본업인 통신 및 신사업 부문이 안정적인 성장을 이뤄냈기 때문이다. 비용 효율화와 함께 전문의약품처럼 탄탄한 사업 구조가 이익을 극대화했다."
+              "q": "징벌적 과세와 담세력 반영의 차이는 무엇인가?",
+              "a": "징벌적 과세는 투기 억제를 위해 다주택자에게 무거운 세금을 매기는 방식이다. 반면 담세력 반영은 실제 세금을 낼 수 있는 경제적 능력에 맞추어 공정하게 과세하자는 개념이다."
             },
             {
-              "q": "철강 기업들 사이에서도 3분기 실적 희비가 갈린 이유는 무엇인가?",
-              "a": "글로벌 철강 수요 부진 속에서도 기업별 주력 제품의 판매량과 원가 절감 능력에서 차이가 발생했기 때문이다. 판매량이 곧 실적을 결정짓는 핵심 요인으로 작용했다."
+              "q": "공동명의 주택 소유자는 세제 개편의 영향을 받는가?",
+              "a": "개편안의 세부 내용에 따라 공동명의 공제 방식이나 종부세 산정 기준이 달라질 수 있다. 관련 PDF 안내서나 공식 발표 자료를 꼼꼼히 살펴봐야 한다."
             }
           ]
         }
       },
       "news": {
-        "코스피 지수 변동": [
+        "코스피 반등": [
           {
-            "title": "코스피 5786.13 상승 출발…장 초반 매수세 집중된 '이곳' - 위키트리",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSU3puaXg5eDNmcVh0X0tVNUcySU9ick0tWEZvYXgzUW1Rc0tjNURBU25fRW5FYzBuelljcDFEXzhzUTVwaE03VndzMWNFMldOVDhCRXl3?oc=5",
-            "source": "위키트리",
-            "published": "11-04 09:05",
-            "snippet": "코스피 5786.13 상승 출발…장 초반 매수세 집중된 '이곳' 위키트리"
+            "title": "코스피, 美 기술주 반등에 상승 출발…장중 상승폭은 축소 - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yb051c0s3ZU9tbzh0YnNoX29aRXJ6V1c0SkdVcndCUlpTcHlwOXhOYXdrNXA2U1V5Yks3dUd5NmQ1c21WZ3ZkMDZDUnowQUI5Y2dwcGxzTnY0RkVBbWhzWld6RUcyMV83U0hMbGY1SWY?oc=5",
+            "source": "연합인포맥스",
+            "published": "11-04 09:42",
+            "snippet": "코스피, 美 기술주 반등에 상승 출발…장중 상승폭은 축소 연합인포맥스"
           },
           {
-            "title": "미 중간선거 경계감 속 양 지수↓ - KB Think",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QbGJoUkQ4XzZBY0hNRGFfVjE3YzZxYWU3bVhZVE9fNXZmdW1DZ1dlODB3RlJlS29JVi1QSzRNOGxONEhweW00Z01sbE44WS1DSGtMWTNFU2FqdjJsaHFzYkt1M29SVHBsX1RHOQ?oc=5",
-            "source": "KB Think",
-            "published": "11-03 16:00",
-            "snippet": "미 중간선거 경계감 속 양 지수↓ KB Think"
+            "title": "코스피 4950까지 추락 vs 6700까지 반등…美 중간선거 공식 통할까 - 주간조선",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fcl94WXhJYUdxRDM3XzJ2eWc0cmxiZEhJUGVBc2RqejdwdmM1Y2phblQ2clR6Y1BsVFVrQUpSRWt2NUIyMkdPLU1xYk5QeXBib1I3VnNteFN3WjRCV2Q4ekZrYm1feGJuNHhCOTJB0gFuQVVfeXFMTV9yX3hZeElhR3FEMzdfMnZ5ZzRybGJkSElQZUFzZGp6N3B2YzVjamFuVDZyVHpjUGxUVWtBSlJFa3Y1QjIyR08tTXFiTlB5cGJvUjdWc214U3daNEJXZDh6RmtibV94Ym40eEI5MkE?oc=5",
+            "source": "주간조선",
+            "published": "11-04 09:39",
+            "snippet": "코스피 4950까지 추락 vs 6700까지 반등…美 중간선거 공식 통할까 주간조선"
           },
           {
-            "title": "[바이오 마감 브리핑]코스피·코스닥 급락에도 선방…코스피 제약 0.58% 상승 - 메디코파마",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTblJPSmRnVjJIcDRoZUtPbmhMNTYwZnV2c013MWstRGxhWTc5V01ZOWxwZE13VDJYUGxVWDdxeWFoYnJabVR0TnZiX00taS1jbFVBOFlSdEdWVmFyUDczTXdsRnVyeUVxSVNFR2QyMC1udw?oc=5",
-            "source": "메디코파마",
-            "published": "11-03 16:30",
-            "snippet": "[바이오 마감 브리핑]코스피·코스닥 급락에도 선방…코스피 제약 0.58% 상승 메디코파마"
+            "title": "코스피, 美기술주 반등에 1%대↑…장중 상승탄력 둔화(종합) - 연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kdmxLYlo0VGdrcjZUOXJrdDZIdWMwMVNMa3diSXk0TENubnVNT2g1aHp5Yi0yVnhjVUF4Tm82Y0JuYWVpZkVrb1VsQzhPMllISGlXUXdjeVg3VW_SAWBBVV95cUxNVG1qNnczbjdFbjhJam1rNVZSS3NCUENXeDV3YWloS3BuWFRUVDJOSmZtMk9hQmRrY0tOWGt2a2FmV3JKaWpuMWlCYnNvS3VWMThHVXJka1V6NUVBaG56aWY?oc=5",
+            "source": "연합뉴스",
+            "published": "11-04 09:31",
+            "snippet": "코스피, 美기술주 반등에 1%대↑…장중 상승탄력 둔화(종합) 연합뉴스"
           },
           {
-            "title": "코스피 포인트보다 더 하락한 '삼전닉스'...언제 반등할까? - 금융소비자뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NMUJxamx3ajZMc29Qc2RocnJlQ0QzelVhUS1LLVRBeFc1UHlxSEFjUC1DUEFJTU5KdlVpQUh3VE15ME0wNEJueWZzdTFrcTZuZHVwN1pVZlhuNzZyQW5SMDg1UW5pbmJJWmc?oc=5",
-            "source": "금융소비자뉴스",
-            "published": "11-03 15:41",
-            "snippet": "코스피 포인트보다 더 하락한 '삼전닉스'...언제 반등할까? 금융소비자뉴스"
+            "title": "코스피, AI 서버 수요 기대감에 반등…5700선 회복 - 뉴스토마토",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ocjdCc21uZ01NeFc2cFAzTHM4bkFMN2JiMzYycmtvSEFYMU1YaEE3dS1iby03eC0xa2I1WEtJX3FqNjlDazRjRi1TTnQ3YWpldGlGWldnbVpJbUVTTmFyOQ?oc=5",
+            "source": "뉴스토마토",
+            "published": "11-04 09:42",
+            "snippet": "코스피, AI 서버 수요 기대감에 반등…5700선 회복 뉴스토마토"
           },
           {
-            "title": "코스피, AI 수익성 우려·외국인 팔자에 3.59% 급락…삼전닉스↓ - 매일경제",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XUnE5MnNPakEtM0I2NU11SWxMeEt5NzJPY3ZlTGV5RFM0dVl6N1BxTl9sSWQyaVlVMHNha1BPMHppZjNzLWVzNVNVb0s3bVBaeUE?oc=5",
-            "source": "매일경제",
-            "published": "11-03 15:59",
-            "snippet": "코스피, AI 수익성 우려·외국인 팔자에 3.59% 급락…삼전닉스↓ 매일경제"
-          },
-          {
-            "title": "SK이터닉스 주가, 11월 첫장 오전부터 '껑충'…코스피·코스닥 동반 상승 - CBC뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0RUZHeXFPazlPUFI3ZUI1REdidWd4SVlkc0I4X2VlODRXa29LQzlBSWJhU2k3YTlQN3JEbHJHWTI5Tl9NZ2t5U29kVUJVRzFSUmRMcGJ2ME1XVncwSEFxRkhpQXMwYnFu?oc=5",
-            "source": "CBC뉴스",
-            "published": "11-04 02:59",
-            "snippet": "SK이터닉스 주가, 11월 첫장 오전부터 '껑충'…코스피·코스닥 동반 상승 CBC뉴스"
-          }
-        ],
-        "가상자산 과세 유예": [
-          {
-            "title": "[속보] 김민석 “가상자산 소득 과세 유예 정부에 공식 제안…디지털자산기본법 우선 제정” - KBS 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96ZE0yVUpsb3YxWi1nX3VHcFRiQ1JvWFB5SWZVYnp3c0NsN2ExSl80aWVOUmIzOUhWSGY4NHhzZ2pscEtXNDBnTHRzelM5VTdTb3Awb1JtSFY5d3hOcVo1Um1HUlhSZw?oc=5",
+            "title": "코스피, 장초반 상승…미 기술주 반등에 ‘삼전닉스’↑ - KBS 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11LTI3OGVJYnA3M0szaklqR2RxRGdQaXdkX0FtekdCY2V4TWJ3LS00cmxObGREZ09yaGpxcnpWV3hFZURhOXB3MldMek9RNnRPS2J1cWNMM3c4ajQ?oc=5",
             "source": "KBS 뉴스",
-            "published": "11-04 10:07",
-            "snippet": "[속보] 김민석 “가상자산 소득 과세 유예 정부에 공식 제안…디지털자산기본법 우선 제정” KBS 뉴스"
+            "published": "11-04 09:44",
+            "snippet": "코스피, 장초반 상승…미 기술주 반등에 ‘삼전닉스’↑ KBS 뉴스"
           },
           {
-            "title": "[속보] 김민석, 정부에 ’가상자산 과세 유예’ 공식 제안 - 연합뉴스TV",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43V0JFVnFzQ0tvZXBUci1rVldDd0RrN0Z0QjBkdHpYemxTRzlJVkJMekdXdUtwRnFWeElxUFI4S3daRW1vbzFxWmN4VzNHcHBMZ1JQZWs2dFY4Q19hMWl0UFBkQjZ1Smc?oc=5",
-            "source": "연합뉴스TV",
-            "published": "11-04 10:08",
-            "snippet": "[속보] 김민석, 정부에 ’가상자산 과세 유예’ 공식 제안 연합뉴스TV"
-          },
-          {
-            "title": "與, 정부에 ‘가상자산 과세 유예’ 공식 제안 - 서울신문",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1reGlTUmo4OXlJbXlJV1BBbFg4YUlYYmdLaTIzYTFTdXJnVkpyMDJCV3g5TWg0SEpYblZfUlRhVFYzcW9maHJYcnZmcVN4RGlTZG1LaXhCZnF1TFpzQ2txWE15OG4tSy05VHNrR2NXeEQ?oc=5",
-            "source": "서울신문",
-            "published": "11-04 10:19",
-            "snippet": "與, 정부에 ‘가상자산 과세 유예’ 공식 제안 서울신문"
-          },
-          {
-            "title": "[속보] 김민석 “가상자산 소득 과세 유예 정부에 공식 제안” - 한겨레",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEN3RaRWpZWDFmQ0VicFduMWlILUJrUTA2dE5waUxpTFdlZnJzUFV5TDZNVEY2NHFpc2h5aWppckZVN3VTaVVHRGpMeW56d2FWWC0wYVN4NlBQT0cxeWNsMGlYZ3ZMelBsRnlaVi1RWXJBQm5s?oc=5",
-            "source": "한겨레",
-            "published": "11-04 10:17",
-            "snippet": "[속보] 김민석 “가상자산 소득 과세 유예 정부에 공식 제안” 한겨레"
-          },
-          {
-            "title": "[속보] 김민석, 정부에 ‘가상자산 과세 유예’ 공식 제안 - 중앙일보",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKUFNacTNlSnJqaTF0d2dYQUwybmItZFpCUzUzMXRBS2gtbEZoeVlXS2hGdFdUTmV5Vm9SYy16MUFsb0tCUWZYZC1zNEN3TEFBQjhxTWVn?oc=5",
-            "source": "중앙일보",
-            "published": "11-04 10:08",
-            "snippet": "[속보] 김민석, 정부에 ‘가상자산 과세 유예’ 공식 제안 중앙일보"
-          },
-          {
-            "title": "與, 정부에 '가상자산 과세 4번째 유예' 공식제안...\"적응기간 필요\" - 조세일보",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rZGZNV0lyMWZVOWdKVVJtakNzTEo5TGFueHNWcUczMlhmSXRSUzQ5a2xZYjlXbV9aTmpJdFNxa0o3OVBaRWhTRDBaV210UldhRGg0bmh3bWdkZGN5d2N2dTF4aE44TDIwRHNzTldyR0ZSamRn?oc=5",
-            "source": "조세일보",
-            "published": "11-04 10:43",
-            "snippet": "與, 정부에 '가상자산 과세 4번째 유예' 공식제안...\"적응기간 필요\" 조세일보"
+            "title": "美 중간선거 불확실성 완화 기대…코스피 반등 탐색 - www.ebn.co.kr",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03T2RmMmxZR2wxRnlGRS03NG5uazB0VGxUd01rSk1ZTUNGQzFRdUxIbThkZEtRaERjTDFQckIzMlFiVEk2R3g1VEpDZFp3b21mcEVmelgyTHhSX25hU2tnSWwzWEtmMmxX?oc=5",
+            "source": "www.ebn.co.kr",
+            "published": "11-04 06:43",
+            "snippet": "美 중간선거 불확실성 완화 기대…코스피 반등 탐색 www.ebn.co.kr"
           }
         ],
-        "국내 기업 3분기 실적": [
+        "국내 기업 실적": [
+          {
+            "title": "'삼전닉스' 팔아치우는 개미들…美 기술주 실적 발표 후 돌아올까 - 뉴스핌",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00Rlc5NGZqQ1FHbWdFOF9XS3EwNlN4YXR1SG1jTGpHMWMyUFpNaEY5V29ldkZvOXhUWTdMZ0NWUWNJNTVIQ2NWTEdxdlMtWTlJTkdjQzJucU52NGx2?oc=5",
+            "source": "뉴스핌",
+            "published": "11-03 15:51",
+            "snippet": "'삼전닉스' 팔아치우는 개미들…美 기술주 실적 발표 후 돌아올까 뉴스핌"
+          },
           {
             "title": "\"3분기 매출 날았다\"…제약사 웃게한 '전문의약품' - 뉴시스",
             "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XMmI3S3MwT1Rwc1VKQ2xNVFBiZVVLTzUwbGs1TUY1N2k0X25ITFJNS3k4YUw0bUdRS3oyUUNFamJld1B0ZlczT2d6dWd1d3hrODc4dDBuNDZ5TVRJN1dHXzczUTZNdTY4Zjgxd3BZVmY0T1hzNGgtRtIBeEFVX3lxTE1XMmI3S3MwT1Rwc1VKQ2xNVFBiZVVLTzUwbGs1TUY1N2k0X25ITFJNS3k4YUw0bUdRS3oyUUNFamJld1B0ZlczT2d6dWd1d3hrODc4dDBuNDZ5TVRJN1dHXzczUTZNdTY4Zjgxd3BZVmY0T1hzNGgtRg?oc=5",
             "source": "뉴시스",
             "published": "11-04 05:02",
             "snippet": "\"3분기 매출 날았다\"…제약사 웃게한 '전문의약품' 뉴시스"
-          },
-          {
-            "title": "한화투자증권 \"한국항공우주, 기업가치 재평가.. 목표가 상향\" - 글로벌이코노믹",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc2NGTV95SzN4QWZLRV80Zi1nTXYwc0V6emQ5X05MaHZTcjAtUnpBWnI5SVJsek5CQmxOSy1DdHBfZk14alpJaFJWS29SeGpPejVWbFNRbXdEdWRFMEE0V2dIWnFYYmhMVE9kOXZBTmZqdUh1TUljQ1gtX1N0RkJUNktkU1FrYlpQ?oc=5",
-            "source": "글로벌이코노믹",
-            "published": "11-04 08:57",
-            "snippet": "한화투자증권 \"한국항공우주, 기업가치 재평가.. 목표가 상향\" 글로벌이코노믹"
-          },
-          {
-            "title": "머스크 합병에 서학개미만 세금…미국 주주는 안 내는데 - 조선일보",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRkVBdUZEY0JKQnNyZUlaWWxXYWljU2dUMm43TEVCdENseDE3a1FDazI0OUFBZjZlQlpDZnBJeDdRLWlicllqeFVHSk53dEtHZ3g4akFvMHY5SGp1TENtdDhzQUlwa1lCMWZLTm56X01Hc3ZRZWtwSk9ZbGIyQ3c3LTk4WVQzaEx3Si0w?oc=5",
-            "source": "조선일보",
-            "published": "11-04 09:02",
-            "snippet": "머스크 합병에 서학개미만 세금…미국 주주는 안 내는데 조선일보"
           },
           {
             "title": "[2026 3분기 실적] 해킹 여파 털어낸 SKT…영업익 10배 이상 ↑ - 인더뉴스",
@@ -217,142 +163,201 @@
             "snippet": "[2026 3분기 실적] 해킹 여파 털어낸 SKT…영업익 10배 이상 ↑ 인더뉴스"
           },
           {
-            "title": "포스코 웃고·현대제철 울고..K-철강, 3분기 실적 희비 '판매량이 갈랐다' - 한국정경신문",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kQktvbTQzb2JvTXJfSzYxRWxfbjJ5UDFzQ09LdGFhRE9OMFJJY3JlbG5BVnN0TUI5cE85cjR1dnM2RWZaWHFCd1FWVkRZa2ZJaUE?oc=5",
-            "source": "한국정경신문",
-            "published": "11-04 09:27",
-            "snippet": "포스코 웃고·현대제철 울고..K-철강, 3분기 실적 희비 '판매량이 갈랐다' 한국정경신문"
+            "title": "반도체 호황에 기업 이익 급증…노동 보수 비중은 16년 만에 최저 - 데일리팝",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DMWNPajlXdmRLQWNyeXZGSTdBdFU5MkZ4RFROSXowS09ma3JkSllLMGhzcFlhM0lKbHU3Sld6TGFpeDNCYWJsLVo4M1llXzIwNWRnN0hHSW1RZE5hVk8xdHhSeWNvTFFf?oc=5",
+            "source": "데일리팝",
+            "published": "11-04 11:23",
+            "snippet": "반도체 호황에 기업 이익 급증…노동 보수 비중은 16년 만에 최저 데일리팝"
           },
           {
-            "title": "AI 반도체 핵심 '기판' 품귀…韓 기업 대규모 투자로 대응 - nbn 시사경제",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CQldQSkEwUmtoLU9sTG9ld0NyOTFjYmVKZnprWEpxalRzV2Z3ZlEyZDFGT3hJa2pyUy1DaXJBVEgxWnUxc3BBU1VYX2VoVEwyR3l5cnlISGdJR2s2QlZiYmk3dGU5bjZBTVE?oc=5",
-            "source": "nbn 시사경제",
-            "published": "11-04 09:50",
-            "snippet": "AI 반도체 핵심 '기판' 품귀…韓 기업 대규모 투자로 대응 nbn 시사경제"
+            "title": "[특징주] 반도체 소부장주 일제히 반등…DB하이텍 6%대 급등 - 이투데이",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HNENzRTNocWtpNUoycTdGLW5hSFZKbVhHSXFrcThBMTVEMlFQYmZoQl9kM3Y3QUhNbF9ybGI5S21heEM3RXQ3eTVFUUdHNTM2eVhKZQ?oc=5",
+            "source": "이투데이",
+            "published": "11-04 09:22",
+            "snippet": "[특징주] 반도체 소부장주 일제히 반등…DB하이텍 6%대 급등 이투데이"
+          },
+          {
+            "title": "씨티은행, 글로벌 기업금융 강화…김경호號 본격 출범 - 서울경제TV",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xczdLOV9QcmRIaWpXc21MSzZLaTBPM1BJWVN0LUZEaGxWTHZscTNiVTRXZFZGZXB1OXY1UHZiYUpteU00WkFNQkNnYkN5SlFEZGRUNkI2QXkyN2MwV3o0Nl9VODk?oc=5",
+            "source": "서울경제TV",
+            "published": "11-03 17:59",
+            "snippet": "씨티은행, 글로벌 기업금융 강화…김경호號 본격 출범 서울경제TV"
+          }
+        ],
+        "부동산 세제개편": [
+          {
+            "title": "종부세, '몇 채'가 아니라 '얼마'에 매긴다...실거주 중심 부동산세 개편 - 이로운넷",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UUmU4YjFKbnhRVWxKbXdqZEJVTFNucGpKMFN0dXJvNDBPNWNEN3IzUi1QM2k3ZmNBUGlTV1R1MG44RkVkRzVfRnRLck1NSGNHdndmVmJMWEVleFp3MUdsVzZIRU9aZw?oc=5",
+            "source": "이로운넷",
+            "published": "11-04 09:20",
+            "snippet": "종부세, '몇 채'가 아니라 '얼마'에 매긴다...실거주 중심 부동산세 개편 이로운넷"
+          },
+          {
+            "title": "부동산 세제개편 놓고 전문가 공방…“징벌적 과세” vs “담세력 반영” - Daily NTN",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mN2RGSWN5V21mZU8zQUFMQU1lUGMzeGZNdmhhWTNvUW5kTUowSnh2R2VMa0lBcGlSZHhvUC1CRlFWYUltSFEyM2ViMVBrSmkzOUJyay10RE9lX2pVRmxUQUJ2NU0?oc=5",
+            "source": "Daily NTN",
+            "published": "11-03 21:18",
+            "snippet": "부동산 세제개편 놓고 전문가 공방…“징벌적 과세” vs “담세력 반영” Daily NTN"
+          },
+          {
+            "title": "부동산 세제개편안 공청회…\"실거주 중시 방향성 타당\" vs \"세금 폭력\" - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kNlJKRG1BR2NFbVJtS0xzanQ3dEIwVkZVNHpVUDdkanFmX3R0bWREbktKT1JmRFhCSi0xbFNHb1RRcHhPdXppalRuU3lnclBBTnROLWlRVk9XS09JUGs0VnVxSWpJSlRxQXNJbUtxQUc?oc=5",
+            "source": "연합인포맥스",
+            "published": "11-03 17:25",
+            "snippet": "부동산 세제개편안 공청회…\"실거주 중시 방향성 타당\" vs \"세금 폭력\" 연합인포맥스"
+          },
+          {
+            "title": "부동산 세제개편 공청회 공방…\"주거안정 목표\" vs \"세금 폭력\" - 머니투데이 - 머니투데이",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15a3J1NTk0U1dHcFRoWkJNWFF0cDd3dzhiNWc5MjROekxjYWNubHlrb0NUVGhfb2JVZHF0MDVjMlRvcmY5VzY5czkxa0NWaGJNT3RtX2dzT3FUcTdUNXBOS0ItdFdVcFQ3TTdWZNIBckFVX3lxTE5sTUdnVWtISHJqNmRJdjRTWTVNbGJGQWhtb09UbkUtRnQ2OEoydmRWUXRBYXV1VDBvRGxrMThnVkdaWU9vd2pOT1Y2eS15bnpSRkI2aGlYZ0ItazNURDFQYmZaSG8yYTIzYjZfU2VJTGtIZw?oc=5",
+            "source": "머니투데이",
+            "published": "11-03 17:00",
+            "snippet": "부동산 세제개편 공청회 공방…\"주거안정 목표\" vs \"세금 폭력\" - 머니투데이 머니투데이"
+          },
+          {
+            "title": "실거주 아니면 껑충 뛰는 ‘세부담’…꼬이는 부동산 세제개편안 셈법은 - 매일경제",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BeXVOc3pMejV5Rm1NaHlJSGQtdTR5MEcxQ216Q1c1cGFoTzZjYVYwSldXcFUzSnN4SERqQ3pBZ3V4TzNGUHFPSDlWUW1QWlBvend0VFc2UE0?oc=5",
+            "source": "매일경제",
+            "published": "11-03 16:48",
+            "snippet": "실거주 아니면 껑충 뛰는 ‘세부담’…꼬이는 부동산 세제개편안 셈법은 매일경제"
+          },
+          {
+            "title": "용산구, 부동산 세제 개편 설명회 개최…구민 200여 명 참석 - 잡포스트",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EQzVQMl80THRlN1JDNFExeENVVERVV2gyXzJjUk5YS3g3eHZIWFlXNG85SmJmY01JU1VxTkZtZEQ3MFJPN29XTTJBellhaU5DT0hsVmNURlBTR3Zib3JZYk9YMDBsaGYwc0JXREV30gFyQVVfeXFMTkhET3FWTFR6SmhKaUFZRmJqWjhsN3dPUGZEcUlUdlpONTJ5emgzMXc0MnhRcTNlNWlRMUJTUF9ENE4zUjJnTXlUbFlZTHhYc2Z3Z3k4VjNnYVdTTEFQaEVIamxoWFJCalYwTk1OaXVCWExn?oc=5",
+            "source": "잡포스트",
+            "published": "11-04 11:48",
+            "snippet": "용산구, 부동산 세제 개편 설명회 개최…구민 200여 명 참석 잡포스트"
           }
         ]
       },
       "queries": {
-        "코스피 지수 변동": [
-          "코스피 지수 변동 그래프",
-          "코스피 지수 변동성",
-          "코스피 지수 변동률",
-          "코스피 지수 변동 추이",
-          "코스피 200 변동성 지수",
-          "코스피 200 변동성 지수 vkospi",
-          "코스피 200 변동성 지수 보는 법",
-          "코스피 지수 장중 변동",
-          "코스피 변동성 지수 급등"
+        "코스피 반등": [
+          "코스피 반등 가능성",
+          "코스피 반등 전망",
+          "코스피 반등 이유",
+          "코스피 반등 시점",
+          "코스피 반등 디시",
+          "코스피 반등 시기",
+          "코스피 반등 예측",
+          "코스피 급 반등",
+          "오늘 코스피 반등 이유"
         ],
-        "가상자산 과세 유예": [
-          "가상자산 과세 유예 청원",
-          "가상자산 과세 유예 가능성",
-          "가상자산 과세 유예 법안",
-          "가상자산 과세 2년 유예"
+        "국내 기업 실적": [
+          "국내 기업 실적 발표 캘린더",
+          "국내 기업 실적 발표",
+          "국내 기업 실적 발표일",
+          "국내 기업 4분기 실적 발표 일정",
+          "국내 기업 3분기 실적 발표 일정",
+          "국내 기업 2 분기 실적 발표 일정",
+          "국내 기업 1분기 실적발표 일정",
+          "국내 주요 기업 실적 발표"
         ],
-        "국내 기업 3분기 실적": [
-          "국내 기업 3분기 실적 발표 일정"
+        "부동산 세제개편": [
+          "부동산 세제개편안",
+          "부동산 세제개편안 정리",
+          "부동산 세제개편안 요약",
+          "부동산 세제개편안 2026",
+          "부동산 세제개편안 발표",
+          "부동산 세제개편안 pdf",
+          "부동산 세제개편 공동명의",
+          "부동산 세제개편 요약",
+          "부동산 세제개편안 발표일"
         ]
       }
     },
     "global": {
       "keywords": [
-        "뉴욕증시 혼조세",
+        "뉴욕증시 혼조",
         "미국 중간선거",
         "국제유가 하락"
       ],
       "results": {
-        "뉴욕증시 혼조세": {
-          "headline": "미 중간선거 앞두고 뉴욕증시 혼조세 마감",
+        "뉴욕증시 혼조": {
+          "headline": "미국 중간선거 경계감에 나스닥 중심 혼조 마감",
           "facts": [
-            "미국 중간선거 결과를 앞두고 경계 매물이 출회된 가운데 뉴욕증시가 혼조세로 거래를 마감한 시장 상황",
-            "엔비디아 주가가 2% 가량 상승하는 등 주요 반도체주를 중심으로 기술주가 반등세를 주도한 현상",
-            "나스닥 지수가 기술주 반등에 힘입어 전장 대비 0.8% 상승하며 상대적으로 양호한 흐름을 보인 기록",
-            "연합뉴스TV, MBC, YTN, 연합뉴스 등 주요 매체들이 일제히 중간선거 경계감 속 혼조세 마감 소식을 보도",
-            "투자자들이 중간선거의 개표 결과와 향후 정책 변화 가능성을 주시하며 대기 모드에 들어간 장세"
+            "미국 중간선거를 앞둔 경계감과 불확실성으로 인해 뉴욕증시가 혼조세를 기록함.",
+            "반도체 및 인공지능(AI) 관련 주식들이 반등 흐름을 보이면서 나스닥 지수는 상승함.",
+            "주요 기업들이 중간선거 결과와 맞물려 중요한 시장 시험대에 직면함.",
+            "투자자들이 선거 개표 결과를 주시하며 관망세를 유지함."
           ],
           "watch": [
-            "미국 중간선거 최종 개표 결과와 의회 권력 구성",
-            "엔비디아를 비롯한 대형 기술주의 주가 추이",
-            "미국 국채 금리 및 연방준비제도 통화정책 기조"
+            "미국 중간선거 최종 개표 결과",
+            "AI 관련 기업의 실적 및 주가 지속성",
+            "뉴욕증시 주요 지수의 변동성 폭"
           ],
           "qna": [
             {
-              "q": "뉴욕증시가 중간선거를 앞두고 혼조세를 보이는 이유는 무엇인가?",
-              "a": "선거 결과에 따라 향후 재정 정책, 규제 방향, 법인세 개편 등 경제 전반에 미칠 파장이 크기 때문이다. 투자자들이 불확실성을 싫어하기 때문에 투표 결과를 확인하기 전까지 적극적인 매수를 주저하는 경향이 나타난다."
+              "q": "뉴욕증시 혼조세가 국내 증시에는 어떤 영향을 주는가?",
+              "a": "미국 기술주와 반도체 주가가 나스닥 상승과 함께 움직일 때 국내 코스피에도 긍정적 자극을 준다. 다만 선거 불확실성이 해소될 때까지 변동성에 유의해야 한다."
             },
             {
-              "q": "기술주 중심의 나스닥이 반등한 배경은 어떻게 해석해야 하는가?",
-              "a": "선거 불확실성 속에서도 인공지능과 반도체 관련 대형 기술주에 대한 저가 매수세가 유입되었기 때문이다. 특히 엔비디아 같은 실적 주도주의 강세가 지수 하방을 방어하는 역할을 했다."
+              "q": "중간선거가 왜 뉴욕증시에 불확실성으로 작용하는가?",
+              "a": "선거 결과에 따라 향후 정부의 예산안이나 규제 정책 방향이 완전히 달라지기 때문이다. 정책 변화에 민감한 기업들의 주가가 일시적으로 흔들린다."
             },
             {
-              "q": "이러한 미 증시의 혼조세가 국내 증시에는 어떤 영향을 미치는가?",
-              "a": "미국 증시가 방향성을 잡지 못하고 혼조세를 보일 경우 국내 증시 역시 외국인 수급과 투자 심리가 동반 위축될 수 있다. 특히 반도체 등 연관성이 높은 업종이 직접적인 영향을 받는다."
+              "q": "AI 기업들이 시험대에 올랐다는 것은 무슨 의미인가?",
+              "a": "높아진 기대치에 부합하는 실적과 성장세를 증명해야 하는 시점임을 뜻한다. 투자자들은 실제 수익 창출 능력을 엄격하게 평가하고 있다."
             }
           ]
         },
         "미국 중간선거": {
-          "headline": "미국 전역에서 역대급 투표율 기록하며 중간선거 실시",
+          "headline": "미국 중간선거 개표 시작, 민주당 초반 우세",
           "facts": [
-            "미국 전역에서 하원 의원과 상원 의원 등을 선출하는 중간선거 투표가 본격적으로 시작된 상황",
-            "고물가 여파로 민심이 크게 요동치는 가운데 트럼프 진영과 민주당 양측 모두 승리를 자신하며 총력전을 펼친 선거 양상",
-            "주간조선 보도를 통해 코스피 지수가 선거 결과에 따라 최저 4950까지 추락하거나 최고 6700까지 반등할 수 있다는 전망이 제기된 배경",
-            "민주당이 하원에서 승리할 확률이 96%, 상원에서 78%에 달한다는 여론조사 결과와 함께 압승 여부가 최대 관건으로 부각된 국면",
-            "미국 전역의 다수 지역에서 역대 최다 투표자 수 기록을 경신할 정도로 유권자들의 투표 열기가 뜨거웠던 현상"
+            "트럼프 정부에 대한 중간평가 성격을 띤 미국 중간선거의 공식 개표가 시작됨.",
+            "개표 초반 출구조사와 초기 개표 결과 민주당이 우세를 점하는 양상을 보임.",
+            "강원도민일보 등 보도에 따르면 민주당의 하원 탈환 확률이 높게 점쳐짐.",
+            "민주당이 상·하원에서 의석을 추가로 확보할 경우 향후 조사와 탄핵 개시 가능성이 제기됨."
           ],
           "watch": [
-            "미국 중간선거 최종 개표 결과 및 상하원 의석 분포",
-            "선거 결과가 향후 바이든 정부 또는 트럼프 진영의 정책에 미칠 영향",
-            "국내 증시 및 환율에 미치는 파급 효과"
+            "미국 중간선거 최종 승패 결과",
+            "상원 및 하원 권력 구도 변화",
+            "선거 이후 미국 정치권의 정책 기조"
           ],
           "qna": [
             {
-              "q": "미국 중간선거 2026의 의미와 경제적 파급 효과는 무엇인가?",
-              "q_alt": "미국 중간선거 2026의 의미와 경제적 파급 효과는 무엇인가?",
-              "a": "중간선거는 대통령 임기 중간에 치러지는 선거로 현정권에 대한 중간 평가 성격을 가진다. 의회 권력이 어떻게 재편되느냐에 따라 향후 재정 지출, 에너지 정책, 대외 무역 정책 등이 급변할 수 있어 글로벌 경제에 큰 영향을 미친다."
+              "q": "미국 중간선거 결과가 왜 전 세계 경제에 중요한가?",
+              "a": "미국 의회 권력이 누구에게 넘어가느냐에 따라 향후 재정 정책과 대외 무역 정책이 바뀐다. 이는 글로벌 환율과 증시 흐름에 직접적인 파장을 일으킨다."
             },
             {
-              "q": "미국 중간선거 결과에 따라 코스피가 4950에서 6700까지 움직인다는 예측은 어떻게 봐야 하는가?",
-              "a": "선거 결과가 미칠 극단적인 시나리오를 가정한 분석일 뿐이며 실제 주가는 다양한 글로벌 변수에 의해 결정된다. 정치적 이벤트는 단기 변동성을 키우는 요인이므로 맹신하기보다는 참고용으로만 활용해야 한다."
+              "q": "중간선거의 뜻과 임기 주기는 어떻게 되는가?",
+              "a": "대통령 임기 4년의 중간 지점에 치러지는 국회의원 선거를 의미한다. 하원의원 전원과 상원의원의 일부를 새로 선출하여 행정부를 견제하는 역할을 한다."
             },
             {
-              "q": "역대 최다 투표자 수를 기록할 정도로 이번 중간선거 열기가 뜨거운 이유는 무엇인가?",
-              "a": "고물가 등 경제적 어려움에 직면한 유권자들의 정치적 불만과 변화에 대한 열망이 크기 때문이다. 양당 모두 지지층 결집에 사활을 걸면서 투표 참여율이 급증했다."
+              "q": "하원 탈환이 이루어지면 트럼프 정부에 어떤 타격이 오는가?",
+              "a": "의회 입법 주도권을 잃게 되며 행정부 견제와 청문회 및 조사 활동이 강화된다. 국정 운영 동력이 약화될 수 있어 금융시장이 민감하게 반응한다."
             }
           ]
         },
         "국제유가 하락": {
-          "headline": "미·이란 종전 협상 기대에 국제유가 이틀째 하락",
+          "headline": "종전 협상 기대감에 국제유가 한 달 만에 최저 하락",
           "facts": [
-            "전쟁 종식 협상이 진전될 것이라는 기대감이 확산되면서 국제유가가 이틀 연속 하락세를 기록한 현상",
-            "브렌트유가 약 한 달 만에 최저 수준으로 떨어졌으며 WTI 역시 0.38% 하락하며 약세를 보인 수치",
-            "미국과 이란 간의 종전 협상에 진전이 보인 것이 유가 하락을 이끌어낸 직접적인 원인",
-            "호르무즈 해협의 지정학적 긴장감이 여전히 잠재적인 변수로 남아 있으나 단기적으로는 공급 차질 우려가 완화된 상황",
-            "연합뉴스TV, 이투데이, 한국NGO신문, 브릿지경제, YTN, 뉴스1 등 언론들이 일제히 국제유가 하락 소식을 긴급 타전"
+            "전쟁 종식 협상에 대한 기대감이 높아지면서 국제유가가 이틀 연속 하락함.",
+            "미국과 이란의 종전 협상 진전 소식에 힘입어 서부텍사스산원유(WTI)와 브렌트유가 내림세를 보임.",
+            "브렌트유는 배럴당 103달러대를 기록하며 한 달 만에 최저 수준으로 떨어짐.",
+            "호르무즈 해협의 지정학적 긴장감은 여전히 유가 변동성의 잠재적 변수로 남아 있음."
           ],
           "watch": [
-            "미국과 이란의 종전 협상 추가 진행 상황",
-            "호르무즈 해협 등 중동 지역의 지정학적 긴장 유지 여부",
-            "국제유가 하락세가 국내 물가 및 수혜주에 미치는 영향"
+            "미국과 이란의 종전 협상 추가 진전 여부",
+            "호르무즈 해협의 군사적 긴장 상태",
+            "국제유가 하락에 따른 수혜 업종 주가"
           ],
           "qna": [
             {
-              "q": "국내 경제에서 국제유가 하락 수혜주는 어떤 업종이 있는가?",
-              "a": "유가가 하락하면 원가 부담이 줄어드는 항공, 해운, 석유화학 등의 업종이 대표적인 수혜주로 꼽힌다. 연료비와 원재료비 절감이 이익 개선으로 이어질 수 있기 때문이다."
+              "q": "국제유가 하락 이유와 배경은 무엇인가?",
+              "a": "미국과 이란 간의 전쟁 종식 협상이 진전 조상을 보였기 때문이다. 공급 차질 우려가 완화되면서 원유 매도 물량이 출회되었다."
             },
             {
-              "q": "전쟁 종식 협상 외에 국제유가를 하락시키는 다른 주요 원인은 무엇인가?",
-              "a": "글로벌 경제 성장세 둔화로 인한 원유 수요 감소 우려와 주요 산유국들의 생산량 정책 등이 복합적으로 작용한다. 특히 수요 측면의 부진은 유가 하방 압력을 높이는 주요인이다."
+              "q": "유가 하락이 내 지갑과 생활에는 어떤 수혜를 주는가?",
+              "a": "석유 제품 가격 안정으로 이어져 운송비나 물류비 부담이 줄어드는 효과가 있다. 다만 환율이나 다른 원자재 가격 변동도 함께 살펴봐야 한다."
             },
             {
-              "q": "호르무즈 긴장이 여전히 변수라는데 유가가 다시 급등할 가능성은 있는가?",
-              "a": "중동 지역은 지정학적 리스크가 상존하는 지역이므로 협상에 차질이 생기거나 물리적 충돌이 발생하면 언제든 유가가 반등할 수 있다. 따라서 유가 하락세가 추세로 굳어질지 예단하기는 이르다."
+              "q": "호르무즈 긴장이 변수라는 것은 무슨 뜻인가?",
+              "a": "중동 지역의 지정학적 위험이 완전히 해소되지 않아 언제든 공급 불안이 재발할 수 있음을 의미한다. 유가가 다시 반등할 가능성을 열어두어야 한다."
             }
           ]
         }
       },
       "news": {
-        "뉴욕증시 혼조세": [
+        "뉴욕증시 혼조": [
           {
             "title": "중간선거 경계감 속 뉴욕증시 혼조…기술주 반등에 나스닥 0.8%↑ - 연합뉴스TV",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LMDhvcGticFZVeDF5ekdHUVVZbUFLaFpfdVUxV0dtWFdLTkx3bEl2RTlBSS1HWE9SaVd4Rjg4cHhuRTd0djZzSnBPTDY2VUdqVlFNWE40eXZ4c2lZakcxeWgzVUszSjg?oc=5",
@@ -361,18 +366,11 @@
             "snippet": "중간선거 경계감 속 뉴욕증시 혼조…기술주 반등에 나스닥 0.8%↑ 연합뉴스TV"
           },
           {
-            "title": "중간선거 결과 앞두고 뉴욕증시 혼조세 마감 - MBC 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uV2dBSjAxekFjTTAxcEpiR1I2V1p4Q1lWVHZtNEIxRnJEeFNNaFluMjFzNkV0TmRGRGZOT3ZsQXFibzB2Q2tUUHc4dFBSZUNHV2tCSkRIMFF2VlQ1UmkzbUxkVF9rcVM3c1hCekNuMmhkcV9TZ2dxX2FB0gF6QVVfeXFMTUUza3FvY1JEUm1TZDNBME0yeWVsR2FDQjhMTVdibkxuZEJQeFowZjZtR3ZSMXBUdlRHTTVmUUs4TlB2ZjJZR3RHNDBZZVJLUWR0YU1hYVRxOTF2UkxfMFRROUhwbkhMV3dfVl9BVHJRMTJESkU1WHN1VGc?oc=5",
-            "source": "MBC 뉴스",
-            "published": "11-04 08:14",
-            "snippet": "중간선거 결과 앞두고 뉴욕증시 혼조세 마감 MBC 뉴스"
-          },
-          {
-            "title": "뉴욕 증시, 중간선거 결과 주시하며 혼조세로 마감 - YTN",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PNENydF9IVUNPLVhYM2RVMVdlZm0zZGs5NW9VX0JEVHhtczdJWjBEeGcwaHI4Um83ODRaaE8wT2pLclFXWWlWQ0NKOUtkbXJiSTZOdkR3dl9IbTczTEE?oc=5",
-            "source": "YTN",
-            "published": "11-04 06:58",
-            "snippet": "뉴욕 증시, 중간선거 결과 주시하며 혼조세로 마감 YTN"
+            "title": "[뉴욕증시] 중간선거 불확실성에 혼조…나스닥 0.83%↑ - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwczhTTmpSTXpCdTZNTmMzeUM0cmxBYXRPVUpzZEZVcEw4NmI1SGVpeXlmLThJNFViM0dDQmxlbXNNTWROcEplT3VLRG1zenlOVXoyY3N1emc5WUE2a0d6cGNnVjFNY1AxTmlNSi1vZFo?oc=5",
+            "source": "연합인포맥스",
+            "published": "11-04 06:50",
+            "snippet": "[뉴욕증시] 중간선거 불확실성에 혼조…나스닥 0.83%↑ 연합인포맥스"
           },
           {
             "title": "뉴욕증시, 중간선거 경계 혼조…반도체주 반등에 나스닥 0.8%↑(종합) - 연합뉴스",
@@ -382,21 +380,49 @@
             "snippet": "뉴욕증시, 중간선거 경계 혼조…반도체주 반등에 나스닥 0.8%↑(종합) 연합뉴스"
           },
           {
-            "title": "뉴욕증시, 중간선거 결과 대기하며 혼조 출발 - 연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUMTU3MWZzTHQ4THEwU2xvSWVobC1JQmNWeHhPRHltaXF1b0NDcGZMY3RtZERfZGVIcXI5VmJNd2RvSTR5VWFlekJST2gtbFZMYjNwSHc0QjRGRG9icUctR0NCdnk5c3prdzFDb3ZlREM?oc=5",
-            "source": "연합인포맥스",
-            "published": "11-04 00:01",
-            "snippet": "뉴욕증시, 중간선거 결과 대기하며 혼조 출발 연합인포맥스"
+            "title": "뉴욕증시, 혼조 마감…AI주 반등에 나스닥 0.83%↑ - 뉴스핌",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yeS1GTTM4SmRGb3lmeC16NXV4VXdLaEFORl8xUjVVSFB2YXAtM0JiY1ZKaXNtSWU5T2pSVVZfZWVBWHdPOE5DTkh6eWZpbGNMekRFNFBqX054OEtW?oc=5",
+            "source": "뉴스핌",
+            "published": "11-04 06:29",
+            "snippet": "뉴욕증시, 혼조 마감…AI주 반등에 나스닥 0.83%↑ 뉴스핌"
           },
           {
-            "title": "[개장] 뉴욕증시, 중간선거 결과 대기하며 혼조..엔비디아 2%↑ By 알파경제 alphabiz - Investing.com 한국어",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9saTZqLVZYTkZITmZFYnRQTE1kWFdKS0xHTzdEbzBDZlctQm1DOUVGWVB5a3ozZWx0R2QwQllqYXFVNHV5dEEyOFZwdENQMnh4STU0WHhkWUxpaGY3N0tZNHJGekdEeHd2dnNjN05fUTI?oc=5",
-            "source": "Investing.com 한국어",
-            "published": "11-04 09:49",
-            "snippet": "[개장] 뉴욕증시, 중간선거 결과 대기하며 혼조..엔비디아 2%↑ By 알파경제 alphabiz Investing.com 한국어"
+            "title": "중간선거 주시 속 뉴욕증시 혼조…AI 기업도 시험대 - 네이버페이 머니스토리",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rYUJrRXRWcjJmV1BWbXdXRzZPRFBNNDRwSkI3bXhzOC0wdTVWSm5fRktjcFVQQUJGbWtqVjB4ODVBQVpGQlYwNk1rck5KWDh0RXJsSzVLaVk?oc=5",
+            "source": "네이버페이 머니스토리",
+            "published": "11-04 09:16",
+            "snippet": "중간선거 주시 속 뉴욕증시 혼조…AI 기업도 시험대 네이버페이 머니스토리"
+          },
+          {
+            "title": "뉴욕증시, 중간선거 결과 기다리며 혼조 마감 - Chosunbiz",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNW42YklyNkM3bDZBWlNCT1duTkU0UlBfdHkyblpfeS1TbDJIbG9UWVFjai1wNW16Zk9Gbkw3RklEOFZaRC0tc3hrc0Yyd2lvNklvbzFRUXZGMDF2R3RuOHl1blVRVW52NXlxcDN6WEFqY29PYlh0UkJJMkZpa2laS3d4QklYbHRTT3JiMjRsQzl4TGxuTVg0Qlo5Z1luZ9IBsgFBVV95cUxQa2YyY2l4UTFWenVEUHBMck93YkhZMWRuRldIajFNRDhoRDJXZndSZVRhRTl2b01jTWhKR3FxYTY0OHNuNkJkVzB3RlZFdmlyZ3hDSlN1by0yVk5fcHdRY1ZBeFZzOFdzbU1lRDRxVmZOeDRUejYtVGxDckc4X1VReUhoS20yVUs2LU1ZSXltWW0xaTNDdlU5VnRkTnp5ZlR0Q3BualoyRUM1QV9EYTlXYTBn?oc=5",
+            "source": "Chosunbiz",
+            "published": "11-04 07:36",
+            "snippet": "뉴욕증시, 중간선거 결과 기다리며 혼조 마감 Chosunbiz"
           }
         ],
         "미국 중간선거": [
+          {
+            "title": "미국 중간선거 개표초반 민주당 우세…\"하원탈환 확률 100%\" - 연합뉴스TV",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tRE1IQk5nMV9yS0FUOVQ5OFppVzM3T0V2LXFva0lJNjJNaldBdG0tM1pOU1NqUVlKRkx4bkJEWHlpYlRBdFBKVGZwRWFJdkU1SGxEcl9xVFlQdG9nbTJBVE0tYmd3S0U?oc=5",
+            "source": "연합뉴스TV",
+            "published": "11-04 11:38",
+            "snippet": "미국 중간선거 개표초반 민주당 우세…\"하원탈환 확률 100%\" 연합뉴스TV"
+          },
+          {
+            "title": "미국 중간선거‥격전지·판세 출구조사 결과는? - MBC 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HclZqS0thR2Exb0h1TFN4WDM2cGwxb3gyTWdzc0czZkdJZldnTjlNUzdMZnY3YnlVT3RWZlFVM2pxQ0dXTVZxckswOUItZnczV3g5MXU5Z2hUem1zVHdhMmJRdkx4cjNOdk9oSDZTY0tOR0Js0gF0QVVfeXFMUEtXWU1ybjJpUkswUkR1XzNyT1E3NXlHbnNJUXJ0RG5DMjhHQ1F6UE5KQ0U5Wlp2QkpOWnFaby1ESGRsVXlVMFdFVmVFT1pzZFdsSmZDV19XM0lBamVHUlc1Q0pQX1lDMll6aXlnQWR0bng0YmY?oc=5",
+            "source": "MBC 뉴스",
+            "published": "11-04 11:15",
+            "snippet": "미국 중간선거‥격전지·판세 출구조사 결과는? MBC 뉴스"
+          },
+          {
+            "title": "‘트럼프 정부 중간평가’ 美 중간선거 개표 시작 - 중앙일보",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxTWdTbmstOGs4UzlTUW9BZE00VmdHR29fbHM2WlJ4MHUtME9fQjd0MHl0blBRMjZ0VU5KVWVPMTc3eEQyS3N0QWR6TDFmN3pSTFhZX1FB?oc=5",
+            "source": "중앙일보",
+            "published": "11-04 10:45",
+            "snippet": "‘트럼프 정부 중간평가’ 美 중간선거 개표 시작 중앙일보"
+          },
           {
             "title": "코스피 4950까지 추락 vs 6700까지 반등…美 중간선거 공식 통할까 - 주간조선",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fLTAxS0JnTUluWnV6TmFYcENYS2psaU5DOU4wM1VvUHFFN20zd29OR29nN09CX3JMcTVpYllvVHlScXlncjc2TWhXVnZsNTVTSW5VNDZXNnJ2U2FKNGRFUjBLaERfSWNkMUHSAW5BVV95cUxNX3JfeFl4SWFHcUQzN18ydnlnNHJsYmRISVBlQXNkano3cHZjNWNqYW5UNnJUemNQbFRVa0FKUkVrdjVCMjJHTy1NcWJOUHlwYm9SN1ZzbXhTd1o0QldkOHpGa2JtX3hibjR4QjkyQQ?oc=5",
@@ -405,39 +431,18 @@
             "snippet": "코스피 4950까지 추락 vs 6700까지 반등…美 중간선거 공식 통할까 주간조선"
           },
           {
-            "title": "美전역서 중간선거 투표…투표 행렬 이어져 - 연합뉴스TV",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnWnpKV1kxS0lzbmpPa3lKVmRId2R1cWlOcWg3SlVtYzQtQnNrN1JYaXhhSmNUU084SU1McUxLdjh5OEllQkZtVW4tZVVPckphaXhBOWZmVUx1aTVZdHVvVnh2ZW5PYnM?oc=5",
-            "source": "연합뉴스TV",
-            "published": "11-04 07:37",
-            "snippet": "美전역서 중간선거 투표…투표 행렬 이어져 연합뉴스TV"
+            "title": "[중간선거] \"민주, 상원+4·하원+3석 탈환시 조사·탄핵 개시 가능성\" - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uS3VyV29YLVkzUzJuTkE2VVZaWUg5LWNxNEg1QkRhVktqeG12LS1EMk03SE1DYlVhNWRMaF9wdnBGS2hqOGxKcEtQUDFoMlZvNFVxcnp6aEtaTkZacmlzSVdZUm81djM2QXk0SndKSlU?oc=5",
+            "source": "연합인포맥스",
+            "published": "11-04 10:40",
+            "snippet": "[중간선거] \"민주, 상원+4·하원+3석 탈환시 조사·탄핵 개시 가능성\" 연합인포맥스"
           },
           {
-            "title": "미국 중간선거일 맞아 고물가에 민심 요동...트럼프·민주당 승리 자신 - YTN",
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xd0VJdkVOeWJFeVU1c2x5N1VGUTRIajFCejVxdWlEVTd6MWJmNHdKNW5jWEpxM0psSUV1Y01qdmpQRFctb09fZmp1ZXM0bEI5RWw4RFQ2dEJVVDRlTjdmcl9WMmEwa3VRWHJBaFFXNA?oc=5",
-            "source": "YTN",
-            "published": "11-04 09:28",
-            "snippet": "미국 중간선거일 맞아 고물가에 민심 요동...트럼프·민주당 승리 자신 YTN"
-          },
-          {
-            "title": "[미 중간선거] “민주당 하원 승리 확률 96%”···관건은 ‘승리냐 압승이냐’ - 경향신문",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UazBWNDh2bnRHMjZsa2lLVW5OV3U1R2luQjRyaE9KZkJ5ZVdxZkJZbTRRSV9mc3NYNy1JYmt0S2x5WlFRekhPc05Kb0FrZ2txUmFUbmQwMnA1Z9IBX0FVX3lxTFAyQjVtb3FpSGd1cWVZSHlRLUgyRG01LW0wamd0N2pQeWRET3NvY2I4N2lxR3pNTi1rRXJoSVRqbHpiSHpDd0l3Z2NqbWZITVd1dzYxVXhndEFuTWdzYTFV?oc=5",
-            "source": "경향신문",
-            "published": "11-04 07:25",
-            "snippet": "[미 중간선거] “민주당 하원 승리 확률 96%”···관건은 ‘승리냐 압승이냐’ 경향신문"
-          },
-          {
-            "title": "중간선거 투표 진행‥\"민주 승리확률 하원 96%, 상원 78%\" - MBC 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1tNElUUVdQM1huTm95UEZrY2dtNWx5UmxtRnBpWU02M2JNVFFDcmgzeHJuYnR4V09sLXhyTERGVi10ZjBibW4yTkNTeFI4MjV4QUJMM0hkekxIR2syVjk2VDZua3FjUkRUQ0JCc3FyaW5MbnJ4RVdz0gF3QVVfeXFMTmJkRmNNXy1jakpRck4ybmszc2NpSktWX3JkLVM3RU9laGxUUlF6RmRXTjRvTzhkSE1MdEtPeVU5RlFodGRUTjRlLTVYNF9hcmZwNnh2ZmlaNEJETjd2S1NGWTV3aHIyZnhFUW10SGdWc2ZDUVVtTHM?oc=5",
-            "source": "MBC 뉴스",
-            "published": "11-04 09:33",
-            "snippet": "중간선거 투표 진행‥\"민주 승리확률 하원 96%, 상원 78%\" MBC 뉴스"
-          },
-          {
-            "title": "미 중간선거 열기 활활…‘역대 최다 투표자 수’ 기록 경신 지역 속출 - 한겨레",
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fNXRBdU1WR2lpWGpFa3RobE5oc1FMWkJuUWc0QUVtY3o3U2tERUkyVFc4UTdONWNWQld6TmtsRnlyZXI1T3NWczJscG1qa3JYOE9ESHByZGpHX3VCZ1FBUmkwQTAzZnlfS19mbTdScw?oc=5",
-            "source": "한겨레",
-            "published": "11-04 08:57",
-            "snippet": "미 중간선거 열기 활활…‘역대 최다 투표자 수’ 기록 경신 지역 속출 한겨레"
+            "title": "[속보] 미국 중간선거 민주당 초반 압승 기세…“하원 탈환 확률 100%” - 강원도민일보",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pWkpkaHJ1VzZKZ1hwVHVLaGtvcmFpWjMtN3RtdkFGNnI3bEpBczJ2SWM1Zk00a2VUcWYyeWR2bGhld1phTUVrZjE5enpmZjgxbjhPR3pFTC05WXIwUmhLLTc2RGRfUE0?oc=5",
+            "source": "강원도민일보",
+            "published": "11-04 11:31",
+            "snippet": "[속보] 미국 중간선거 민주당 초반 압승 기세…“하원 탈환 확률 100%” 강원도민일보"
           }
         ],
         "국제유가 하락": [
@@ -486,7 +491,10 @@
         ]
       },
       "queries": {
-        "뉴욕증시 혼조세": [],
+        "뉴욕증시 혼조": [
+          "뉴욕증시 혼조 마감",
+          "뉴욕증시 혼조세"
+        ],
         "미국 중간선거": [
           "미국 중간선거 2026",
           "미국 중간선거 일정",
@@ -494,9 +502,9 @@
           "미국 중간선거 2026 날짜",
           "미국 중간선거 날짜",
           "미국 중간선거 언제",
-          "미국 중간선거일",
-          "미국 중간선거 예측",
           "미국 중간선거 결과",
+          "미국 중간선거 예측",
+          "미국 중간선거일",
           "미국 중간선거 뜻"
         ],
         "국제유가 하락": [
@@ -507,300 +515,242 @@
       }
     },
     "keywords": [
-      "코스피 지수 변동",
-      "가상자산 과세 유예",
-      "국내 기업 3분기 실적",
-      "뉴욕증시 혼조세",
+      "코스피 반등",
+      "국내 기업 실적",
+      "부동산 세제개편",
+      "뉴욕증시 혼조",
       "미국 중간선거",
       "국제유가 하락"
     ],
     "results": {
-      "코스피 지수 변동": {
-        "headline": "코스피, 외국인 매도와 AI 우려로 급락",
+      "코스피 반등": {
+        "headline": "미국 기술주 반등에 코스피 5700선 회복",
         "facts": [
-          "코스피가 인공지능 수익성 우려와 외국인 투자자들의 대규모 매도 공세에 직면하여 전 거래일 대비 3.59% 급락하며 장을 마감한 원인 분석",
-          "장 초반 일부 바이오 및 특정 테마 종목을 중심으로 매수세가 집중되면서 5786.13포인트로 상승 출발했으나 상승분을 모두 반납한 흐름",
-          "시가총액 상위 종목인 삼성전자와 SK하이닉스 이른바 삼전닉스가 지수 하락폭보다 더 큰 낙폭을 기록하며 전체 지수를 끌어내린 양상",
-          "코스닥 시장 역시 동반 급락세를 보였으나 코스피 제약 업종은 0.58% 소폭 상승하며 전체적인 하락장 속에서 상대적으로 선방한 모습",
-          "미국 중간선거를 앞둔 경계감까지 겹치면서 투자심리가 크게 위축되어 국내 증시 전반에 매물이 출회된 시장 상황"
+          "미국 기술주 반등의 영향으로 코스피가 상승 출발했으나 장중 상승폭이 축소됨.",
+          "인공지능(AI) 서버 수요에 대한 기대감이 작용하여 코스피가 5700선을 회복함.",
+          "삼성전자와 SK하이닉스 등 대형 반도체 주식이 장초반 상승세를 기록함.",
+          "미국 중간선거를 앞두고 불확실성 완화 기대감이 더해져 반등을 탐색함."
         ],
         "watch": [
-          "미국 중간선거 결과에 따른 글로벌 증시 방향성",
-          "외국인 투자자의 국내 주식 순매도세 지속 여부",
-          "삼성전자와 SK하이닉스의 주가 반등 시점"
+          "미국 중간선거 개표 결과 추이",
+          "AI 서버 관련 반도체 수요 지속성",
+          "국내 증시의 장중 상단 저항선 돌파 여부"
         ],
         "qna": [
           {
-            "q": "코스피 지수 변동성 지수인 VKOSPI는 무엇이며 어떻게 보는가?",
-            "a": "VKOSPI는 코스피200 옵션 가격을 바탕으로 시장 참여자들이 예상하는 향후 주가 변동성을 보여주는 지표이다. 이 지수가 급등하면 시장의 불안감이 커지고 하락 위험에 대비하려는 수요가 높다는 의미로 해석한다."
+            "q": "코스피 반등 가능성과 전망은 어떻게 되는가?",
+            "a": "미국 기술주 흐름과 인공지능 서버 수요에 따라 지수의 향방이 결정된다. 선거 불확실성이 해소되는 시점이 중요한 변수이다."
           },
           {
-            "q": "대형주인 삼성전자와 SK하이닉스가 코스피 지수보다 더 크게 하락한 이유는 무엇인가?",
-            "a": "외국인 투자자들의 매도세가 시가총액 비중이 압도적인 반도체 대형주에 집중되었기 때문이다. 인공지능 산업의 수익성에 대한 시장의 우려가 커지면서 관련 핵심 종목들의 체감이 더 크게 나타났다."
+            "q": "오늘 코스피가 반등한 구체적인 이유는 무엇인가?",
+            "a": "미국 증시의 기술주 반등과 AI 서버 수요 확대 기대감이 직접적인 원인이다. 여기에 중간선거를 앞둔 불확실성 완화 심리가 복합적으로 작용했다."
           },
           {
-            "q": "이처럼 급락장이 나타날 때 개인 투자자는 장중 변동성에 어떻게 대응해야 하는가?",
-            "a": "단기적인 주가 등락에 휩쓸려 매매하기보다는 거시경제 지표와 외국인 수급 변화를 차분히 관망할 필요가 있다. 특히 변동성이 극심한 시기에는 무리한 레버리지 투자를 피하고 자산 배분을 점검하는 것이 안전하다."
+            "q": "디시 등 커뮤니티에서 언급되는 급반등 시기를 믿어도 되는가?",
+            "a": "온라인 커뮤니티의 예측은 단순한 개인 의견일 뿐이므로 맹신해서는 안 된다. 글로벌 증시 지표와 실적을 객관적으로 확인하는 태도가 필요하다."
           }
         ]
       },
-      "가상자산 과세 유예": {
-        "headline": "더불어민주당, 가상자산 소득 과세 유예 제안",
+      "국내 기업 실적": {
+        "headline": "반도체 호황과 전문의약품 성장에 3분기 실적 개선",
         "facts": [
-          "더불어민주당 김민석 의원이 가상자산 소득에 대한 과세를 유예해 줄 것을 정부에 공식적으로 제안하며 논의가 급부상한 배경",
-          "이번 제안이 현실화될 경우 가상자산 과세는 시행 시점이 연기되는 네 번째 유예 사례로 기록되는 정책적 변화",
-          "정부와 정치권이 디지털자산기본법을 우선적으로 제정하는 것이 시급하며 시장 참여자들의 적응 기간이 필요하다는 주장",
-          "KBS, 연합뉴스TV, 서울신문, 한겨레, 중앙일보 등 주요 언론들이 여당의 과세 유예 공식 제안 속보를 일제히 타전한 상황",
-          "조세일보 등 경제 매체들을 통해 과세 인프라 미비와 투자자 보호 장치 마련의 시급성이 함께 거론된 정책적 진전"
+          "반도체 호황으로 관련 기업들의 이익이 급증했으나 노동 보수 비중은 16년 만에 최저를 기록함.",
+          "해킹 여파를 털어낸 SK텔레콤의 영업이익이 이전 대비 10배 이상 대폭 증가함.",
+          "제약사들은 전문의약품의 판매 호조를 바탕으로 3분기 매출 성장을 달성함.",
+          "개인 투자자들은 삼성전자와 SK하이닉스를 매도하는 흐름을 보임."
         ],
         "watch": [
-          "정부의 가상자산 과세 유예 공식 수용 여부",
-          "디지털자산기본법 제정 관련 국회 논의 속도",
-          "가상자산 과세 유예 관련 청원 및 여론의 추이"
+          "주요 기업의 4분기 실적 발표 일정",
+          "반도체 소부장 기업의 주가 회복세",
+          "개인 투자자의 수급 유입 시점"
         ],
         "qna": [
           {
-            "q": "가상자산 과세 유예 청원과 법안 통과 가능성은 얼마나 되는가?",
-            "a": "투자자들의 지속적인 유예 요구 청원과 정치권의 거듭된 유예 제안으로 인해 실제 시행 시기가 미뤄질 가능성이 높다. 다만 정부와의 세부 조율 과정과 관련 법안 통과 여부는 지켜봐야 한다."
+            "q": "국내 기업 실적 발표 캘린더는 어디서 확인하는가?",
+            "a": "한국거래소나 각 증권사의 전자공시시스템을 통해 주요 기업의 실적 발표 일정을 조회할 수 있다. 분기별 일정에 맞춰 미리 확인하는 것이 안전하다."
           },
           {
-            "q": "가상자산 과세가 2년 추가 유예되면 코인 시장에 어떤 변화가 생기는가?",
-            "a": "세금 부담에 대한 우려가 일시적으로 해소되면서 투자 심리가 단기적으로 안정을 찾을 수 있다. 그러나 장기적으로는 디지털자산기본법 제정 등 제도적 정비가 필수적으로 수반되어야 한다."
+            "q": "반도체 호황인데 왜 개미들은 삼성전자와 닉스를 팔고 있는가?",
+            "a": "단기 주가 변동성에 따른 차익 실현이나 미국 기술주 추이를 관망하려는 심리가 작용했을 수 있다. 실적 발표 이후의 수급 변화를 지켜볼 필요가 있다."
           },
           {
-            "q": "디지털자산기본법이 우선 제정되어야 하는 이유는 무엇인가?",
-            "a": "가상자산 시장의 불확실성을 해소하고 투자자를 보호할 수 있는 실효성 있는 법적 기준이 부족하기 때문이다. 과세 집행에 앞서 건전한 시장 질서와 투자자 보호 장치를 확립하는 것이 우선이라는 판단이다."
+            "q": "기업 이익이 늘었는데 노동 보수 비중이 낮아진 이유는 무엇인가?",
+            "a": "매출과 영업이익 증가 폭에 비해 임금 총액의 상승 속도가 상대적으로 더디기 때문이다. 기술 집약적 산업 구조의 변화가 복합적으로 작용한 결과이다."
           }
         ]
       },
-      "국내 기업 3분기 실적": {
-        "headline": "SK텔레콤·제약사 웃고 K철강 울은 3분기",
+      "부동산 세제개편": {
+        "headline": "종부세 개편 공청회 개최, 실거주 중심 과세 공방",
         "facts": [
-          "SK텔레콤이 과거 해킹 여파를 온전히 털어내고 영업이익이 전년 동기 대비 10배 이상 폭증하는 호실적을 기록한 성과",
-          "국내 주요 제약사들이 전문의약품 부문의 견고한 판매 호조를 바탕으로 매출 성장을 이뤄낸 3분기 경영 실적",
-          "한국항공우주가 긍정적인 실적 전망과 함께 기업가치 재평가 기대를 받으며 증권가에서 목표가가 상향 조정된 사례",
-          "포스코는 웃고 현대제철은 울상을 지은 가운데 판매량 차이가 K철강 기업들의 3분기 희비를 갈라놓은 원인",
-          "인공지능 반도체 핵심 부품인 기판 품귀 현상이 발생함에 따라 국내 관련 기업들이 대규모 투자를 단행하며 대응에 나선 상황"
+          "종합부동산세를 보유 주택 수 기준이 아닌 가액 기준으로 전환하는 실거주 중심의 세제 개편이 추진됨.",
+          "부동산 세제 개편안 공청회에서 징벌적 과세라는 비판과 담세력 반영이라는 찬성 입장이 맞섬.",
+          "실거주 목적이 아닐 경우 세부담이 급격히 증가하는 구조로 인해 셈법이 복잡해짐.",
+          "용산구 등 지자체에서 구민들을 대상으로 부동산 세제 개편 설명회를 개최함."
         ],
         "watch": [
-          "주요 기업들의 3분기 실적 발표 일정 및 최종 성적표",
-          "AI 반도체 기판 관련 기업의 대규모 투자 효과",
-          "철강 및 제약 등 업종별 판매량 회복세 지속 여부"
+          "부동산 세제개편안 최종 확정 발표일",
+          "공동명의 과세 방식 변경 여부",
+          "국회 입법 과정에서의 여야 공방"
         ],
         "qna": [
           {
-            "q": "국내 기업들의 3분기 실적 발표 일정은 어디서 확인할 수 있는가?",
-            "a": "금융감독원 전자공시시스템인 DART나 각 증권사의 리서치 자료를 통해 상장 기업들의 실적 발표 일정을 확인할 수 있다. 기업들은 보통 분기 마감 후 한 달에서 한 달 반 사이에 실적을 공시한다."
+            "q": "부동산 세제개편안이 통과되면 내 집 세금은 어떻게 바뀌는가?",
+            "a": "주택 수 중심에서 가액 중심으로 과세 기준이 바뀌어 다주택자 중과 여부와 실거주 여부가 핵심 변수가 된다. 본인의 보유 주택 가치와 거주 형태를 대입해 세부담을 계산해야 한다."
           },
           {
-            "q": "SK텔레콤의 영업이익이 10배 이상 증가한 배경은 무엇인가?",
-            "a": "과거 발생했던 해킹 관련 일회성 비용이나 악재가 기저효과로 작용하고 본업인 통신 및 신사업 부문이 안정적인 성장을 이뤄냈기 때문이다. 비용 효율화와 함께 전문의약품처럼 탄탄한 사업 구조가 이익을 극대화했다."
+            "q": "징벌적 과세와 담세력 반영의 차이는 무엇인가?",
+            "a": "징벌적 과세는 투기 억제를 위해 다주택자에게 무거운 세금을 매기는 방식이다. 반면 담세력 반영은 실제 세금을 낼 수 있는 경제적 능력에 맞추어 공정하게 과세하자는 개념이다."
           },
           {
-            "q": "철강 기업들 사이에서도 3분기 실적 희비가 갈린 이유는 무엇인가?",
-            "a": "글로벌 철강 수요 부진 속에서도 기업별 주력 제품의 판매량과 원가 절감 능력에서 차이가 발생했기 때문이다. 판매량이 곧 실적을 결정짓는 핵심 요인으로 작용했다."
+            "q": "공동명의 주택 소유자는 세제 개편의 영향을 받는가?",
+            "a": "개편안의 세부 내용에 따라 공동명의 공제 방식이나 종부세 산정 기준이 달라질 수 있다. 관련 PDF 안내서나 공식 발표 자료를 꼼꼼히 살펴봐야 한다."
           }
         ]
       },
-      "뉴욕증시 혼조세": {
-        "headline": "미 중간선거 앞두고 뉴욕증시 혼조세 마감",
+      "뉴욕증시 혼조": {
+        "headline": "미국 중간선거 경계감에 나스닥 중심 혼조 마감",
         "facts": [
-          "미국 중간선거 결과를 앞두고 경계 매물이 출회된 가운데 뉴욕증시가 혼조세로 거래를 마감한 시장 상황",
-          "엔비디아 주가가 2% 가량 상승하는 등 주요 반도체주를 중심으로 기술주가 반등세를 주도한 현상",
-          "나스닥 지수가 기술주 반등에 힘입어 전장 대비 0.8% 상승하며 상대적으로 양호한 흐름을 보인 기록",
-          "연합뉴스TV, MBC, YTN, 연합뉴스 등 주요 매체들이 일제히 중간선거 경계감 속 혼조세 마감 소식을 보도",
-          "투자자들이 중간선거의 개표 결과와 향후 정책 변화 가능성을 주시하며 대기 모드에 들어간 장세"
+          "미국 중간선거를 앞둔 경계감과 불확실성으로 인해 뉴욕증시가 혼조세를 기록함.",
+          "반도체 및 인공지능(AI) 관련 주식들이 반등 흐름을 보이면서 나스닥 지수는 상승함.",
+          "주요 기업들이 중간선거 결과와 맞물려 중요한 시장 시험대에 직면함.",
+          "투자자들이 선거 개표 결과를 주시하며 관망세를 유지함."
         ],
         "watch": [
-          "미국 중간선거 최종 개표 결과와 의회 권력 구성",
-          "엔비디아를 비롯한 대형 기술주의 주가 추이",
-          "미국 국채 금리 및 연방준비제도 통화정책 기조"
+          "미국 중간선거 최종 개표 결과",
+          "AI 관련 기업의 실적 및 주가 지속성",
+          "뉴욕증시 주요 지수의 변동성 폭"
         ],
         "qna": [
           {
-            "q": "뉴욕증시가 중간선거를 앞두고 혼조세를 보이는 이유는 무엇인가?",
-            "a": "선거 결과에 따라 향후 재정 정책, 규제 방향, 법인세 개편 등 경제 전반에 미칠 파장이 크기 때문이다. 투자자들이 불확실성을 싫어하기 때문에 투표 결과를 확인하기 전까지 적극적인 매수를 주저하는 경향이 나타난다."
+            "q": "뉴욕증시 혼조세가 국내 증시에는 어떤 영향을 주는가?",
+            "a": "미국 기술주와 반도체 주가가 나스닥 상승과 함께 움직일 때 국내 코스피에도 긍정적 자극을 준다. 다만 선거 불확실성이 해소될 때까지 변동성에 유의해야 한다."
           },
           {
-            "q": "기술주 중심의 나스닥이 반등한 배경은 어떻게 해석해야 하는가?",
-            "a": "선거 불확실성 속에서도 인공지능과 반도체 관련 대형 기술주에 대한 저가 매수세가 유입되었기 때문이다. 특히 엔비디아 같은 실적 주도주의 강세가 지수 하방을 방어하는 역할을 했다."
+            "q": "중간선거가 왜 뉴욕증시에 불확실성으로 작용하는가?",
+            "a": "선거 결과에 따라 향후 정부의 예산안이나 규제 정책 방향이 완전히 달라지기 때문이다. 정책 변화에 민감한 기업들의 주가가 일시적으로 흔들린다."
           },
           {
-            "q": "이러한 미 증시의 혼조세가 국내 증시에는 어떤 영향을 미치는가?",
-            "a": "미국 증시가 방향성을 잡지 못하고 혼조세를 보일 경우 국내 증시 역시 외국인 수급과 투자 심리가 동반 위축될 수 있다. 특히 반도체 등 연관성이 높은 업종이 직접적인 영향을 받는다."
+            "q": "AI 기업들이 시험대에 올랐다는 것은 무슨 의미인가?",
+            "a": "높아진 기대치에 부합하는 실적과 성장세를 증명해야 하는 시점임을 뜻한다. 투자자들은 실제 수익 창출 능력을 엄격하게 평가하고 있다."
           }
         ]
       },
       "미국 중간선거": {
-        "headline": "미국 전역에서 역대급 투표율 기록하며 중간선거 실시",
+        "headline": "미국 중간선거 개표 시작, 민주당 초반 우세",
         "facts": [
-          "미국 전역에서 하원 의원과 상원 의원 등을 선출하는 중간선거 투표가 본격적으로 시작된 상황",
-          "고물가 여파로 민심이 크게 요동치는 가운데 트럼프 진영과 민주당 양측 모두 승리를 자신하며 총력전을 펼친 선거 양상",
-          "주간조선 보도를 통해 코스피 지수가 선거 결과에 따라 최저 4950까지 추락하거나 최고 6700까지 반등할 수 있다는 전망이 제기된 배경",
-          "민주당이 하원에서 승리할 확률이 96%, 상원에서 78%에 달한다는 여론조사 결과와 함께 압승 여부가 최대 관건으로 부각된 국면",
-          "미국 전역의 다수 지역에서 역대 최다 투표자 수 기록을 경신할 정도로 유권자들의 투표 열기가 뜨거웠던 현상"
+          "트럼프 정부에 대한 중간평가 성격을 띤 미국 중간선거의 공식 개표가 시작됨.",
+          "개표 초반 출구조사와 초기 개표 결과 민주당이 우세를 점하는 양상을 보임.",
+          "강원도민일보 등 보도에 따르면 민주당의 하원 탈환 확률이 높게 점쳐짐.",
+          "민주당이 상·하원에서 의석을 추가로 확보할 경우 향후 조사와 탄핵 개시 가능성이 제기됨."
         ],
         "watch": [
-          "미국 중간선거 최종 개표 결과 및 상하원 의석 분포",
-          "선거 결과가 향후 바이든 정부 또는 트럼프 진영의 정책에 미칠 영향",
-          "국내 증시 및 환율에 미치는 파급 효과"
+          "미국 중간선거 최종 승패 결과",
+          "상원 및 하원 권력 구도 변화",
+          "선거 이후 미국 정치권의 정책 기조"
         ],
         "qna": [
           {
-            "q": "미국 중간선거 2026의 의미와 경제적 파급 효과는 무엇인가?",
-            "q_alt": "미국 중간선거 2026의 의미와 경제적 파급 효과는 무엇인가?",
-            "a": "중간선거는 대통령 임기 중간에 치러지는 선거로 현정권에 대한 중간 평가 성격을 가진다. 의회 권력이 어떻게 재편되느냐에 따라 향후 재정 지출, 에너지 정책, 대외 무역 정책 등이 급변할 수 있어 글로벌 경제에 큰 영향을 미친다."
+            "q": "미국 중간선거 결과가 왜 전 세계 경제에 중요한가?",
+            "a": "미국 의회 권력이 누구에게 넘어가느냐에 따라 향후 재정 정책과 대외 무역 정책이 바뀐다. 이는 글로벌 환율과 증시 흐름에 직접적인 파장을 일으킨다."
           },
           {
-            "q": "미국 중간선거 결과에 따라 코스피가 4950에서 6700까지 움직인다는 예측은 어떻게 봐야 하는가?",
-            "a": "선거 결과가 미칠 극단적인 시나리오를 가정한 분석일 뿐이며 실제 주가는 다양한 글로벌 변수에 의해 결정된다. 정치적 이벤트는 단기 변동성을 키우는 요인이므로 맹신하기보다는 참고용으로만 활용해야 한다."
+            "q": "중간선거의 뜻과 임기 주기는 어떻게 되는가?",
+            "a": "대통령 임기 4년의 중간 지점에 치러지는 국회의원 선거를 의미한다. 하원의원 전원과 상원의원의 일부를 새로 선출하여 행정부를 견제하는 역할을 한다."
           },
           {
-            "q": "역대 최다 투표자 수를 기록할 정도로 이번 중간선거 열기가 뜨거운 이유는 무엇인가?",
-            "a": "고물가 등 경제적 어려움에 직면한 유권자들의 정치적 불만과 변화에 대한 열망이 크기 때문이다. 양당 모두 지지층 결집에 사활을 걸면서 투표 참여율이 급증했다."
+            "q": "하원 탈환이 이루어지면 트럼프 정부에 어떤 타격이 오는가?",
+            "a": "의회 입법 주도권을 잃게 되며 행정부 견제와 청문회 및 조사 활동이 강화된다. 국정 운영 동력이 약화될 수 있어 금융시장이 민감하게 반응한다."
           }
         ]
       },
       "국제유가 하락": {
-        "headline": "미·이란 종전 협상 기대에 국제유가 이틀째 하락",
+        "headline": "종전 협상 기대감에 국제유가 한 달 만에 최저 하락",
         "facts": [
-          "전쟁 종식 협상이 진전될 것이라는 기대감이 확산되면서 국제유가가 이틀 연속 하락세를 기록한 현상",
-          "브렌트유가 약 한 달 만에 최저 수준으로 떨어졌으며 WTI 역시 0.38% 하락하며 약세를 보인 수치",
-          "미국과 이란 간의 종전 협상에 진전이 보인 것이 유가 하락을 이끌어낸 직접적인 원인",
-          "호르무즈 해협의 지정학적 긴장감이 여전히 잠재적인 변수로 남아 있으나 단기적으로는 공급 차질 우려가 완화된 상황",
-          "연합뉴스TV, 이투데이, 한국NGO신문, 브릿지경제, YTN, 뉴스1 등 언론들이 일제히 국제유가 하락 소식을 긴급 타전"
+          "전쟁 종식 협상에 대한 기대감이 높아지면서 국제유가가 이틀 연속 하락함.",
+          "미국과 이란의 종전 협상 진전 소식에 힘입어 서부텍사스산원유(WTI)와 브렌트유가 내림세를 보임.",
+          "브렌트유는 배럴당 103달러대를 기록하며 한 달 만에 최저 수준으로 떨어짐.",
+          "호르무즈 해협의 지정학적 긴장감은 여전히 유가 변동성의 잠재적 변수로 남아 있음."
         ],
         "watch": [
-          "미국과 이란의 종전 협상 추가 진행 상황",
-          "호르무즈 해협 등 중동 지역의 지정학적 긴장 유지 여부",
-          "국제유가 하락세가 국내 물가 및 수혜주에 미치는 영향"
+          "미국과 이란의 종전 협상 추가 진전 여부",
+          "호르무즈 해협의 군사적 긴장 상태",
+          "국제유가 하락에 따른 수혜 업종 주가"
         ],
         "qna": [
           {
-            "q": "국내 경제에서 국제유가 하락 수혜주는 어떤 업종이 있는가?",
-            "a": "유가가 하락하면 원가 부담이 줄어드는 항공, 해운, 석유화학 등의 업종이 대표적인 수혜주로 꼽힌다. 연료비와 원재료비 절감이 이익 개선으로 이어질 수 있기 때문이다."
+            "q": "국제유가 하락 이유와 배경은 무엇인가?",
+            "a": "미국과 이란 간의 전쟁 종식 협상이 진전 조상을 보였기 때문이다. 공급 차질 우려가 완화되면서 원유 매도 물량이 출회되었다."
           },
           {
-            "q": "전쟁 종식 협상 외에 국제유가를 하락시키는 다른 주요 원인은 무엇인가?",
-            "a": "글로벌 경제 성장세 둔화로 인한 원유 수요 감소 우려와 주요 산유국들의 생산량 정책 등이 복합적으로 작용한다. 특히 수요 측면의 부진은 유가 하방 압력을 높이는 주요인이다."
+            "q": "유가 하락이 내 지갑과 생활에는 어떤 수혜를 주는가?",
+            "a": "석유 제품 가격 안정으로 이어져 운송비나 물류비 부담이 줄어드는 효과가 있다. 다만 환율이나 다른 원자재 가격 변동도 함께 살펴봐야 한다."
           },
           {
-            "q": "호르무즈 긴장이 여전히 변수라는데 유가가 다시 급등할 가능성은 있는가?",
-            "a": "중동 지역은 지정학적 리스크가 상존하는 지역이므로 협상에 차질이 생기거나 물리적 충돌이 발생하면 언제든 유가가 반등할 수 있다. 따라서 유가 하락세가 추세로 굳어질지 예단하기는 이르다."
+            "q": "호르무즈 긴장이 변수라는 것은 무슨 뜻인가?",
+            "a": "중동 지역의 지정학적 위험이 완전히 해소되지 않아 언제든 공급 불안이 재발할 수 있음을 의미한다. 유가가 다시 반등할 가능성을 열어두어야 한다."
           }
         ]
       }
     },
     "news": {
-      "코스피 지수 변동": [
+      "코스피 반등": [
         {
-          "title": "코스피 5786.13 상승 출발…장 초반 매수세 집중된 '이곳' - 위키트리",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSU3puaXg5eDNmcVh0X0tVNUcySU9ick0tWEZvYXgzUW1Rc0tjNURBU25fRW5FYzBuelljcDFEXzhzUTVwaE03VndzMWNFMldOVDhCRXl3?oc=5",
-          "source": "위키트리",
-          "published": "11-04 09:05",
-          "snippet": "코스피 5786.13 상승 출발…장 초반 매수세 집중된 '이곳' 위키트리"
+          "title": "코스피, 美 기술주 반등에 상승 출발…장중 상승폭은 축소 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yb051c0s3ZU9tbzh0YnNoX29aRXJ6V1c0SkdVcndCUlpTcHlwOXhOYXdrNXA2U1V5Yks3dUd5NmQ1c21WZ3ZkMDZDUnowQUI5Y2dwcGxzTnY0RkVBbWhzWld6RUcyMV83U0hMbGY1SWY?oc=5",
+          "source": "연합인포맥스",
+          "published": "11-04 09:42",
+          "snippet": "코스피, 美 기술주 반등에 상승 출발…장중 상승폭은 축소 연합인포맥스"
         },
         {
-          "title": "미 중간선거 경계감 속 양 지수↓ - KB Think",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QbGJoUkQ4XzZBY0hNRGFfVjE3YzZxYWU3bVhZVE9fNXZmdW1DZ1dlODB3RlJlS29JVi1QSzRNOGxONEhweW00Z01sbE44WS1DSGtMWTNFU2FqdjJsaHFzYkt1M29SVHBsX1RHOQ?oc=5",
-          "source": "KB Think",
-          "published": "11-03 16:00",
-          "snippet": "미 중간선거 경계감 속 양 지수↓ KB Think"
+          "title": "코스피 4950까지 추락 vs 6700까지 반등…美 중간선거 공식 통할까 - 주간조선",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fcl94WXhJYUdxRDM3XzJ2eWc0cmxiZEhJUGVBc2RqejdwdmM1Y2phblQ2clR6Y1BsVFVrQUpSRWt2NUIyMkdPLU1xYk5QeXBib1I3VnNteFN3WjRCV2Q4ekZrYm1feGJuNHhCOTJB0gFuQVVfeXFMTV9yX3hZeElhR3FEMzdfMnZ5ZzRybGJkSElQZUFzZGp6N3B2YzVjamFuVDZyVHpjUGxUVWtBSlJFa3Y1QjIyR08tTXFiTlB5cGJvUjdWc214U3daNEJXZDh6RmtibV94Ym40eEI5MkE?oc=5",
+          "source": "주간조선",
+          "published": "11-04 09:39",
+          "snippet": "코스피 4950까지 추락 vs 6700까지 반등…美 중간선거 공식 통할까 주간조선"
         },
         {
-          "title": "[바이오 마감 브리핑]코스피·코스닥 급락에도 선방…코스피 제약 0.58% 상승 - 메디코파마",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTblJPSmRnVjJIcDRoZUtPbmhMNTYwZnV2c013MWstRGxhWTc5V01ZOWxwZE13VDJYUGxVWDdxeWFoYnJabVR0TnZiX00taS1jbFVBOFlSdEdWVmFyUDczTXdsRnVyeUVxSVNFR2QyMC1udw?oc=5",
-          "source": "메디코파마",
-          "published": "11-03 16:30",
-          "snippet": "[바이오 마감 브리핑]코스피·코스닥 급락에도 선방…코스피 제약 0.58% 상승 메디코파마"
+          "title": "코스피, 美기술주 반등에 1%대↑…장중 상승탄력 둔화(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kdmxLYlo0VGdrcjZUOXJrdDZIdWMwMVNMa3diSXk0TENubnVNT2g1aHp5Yi0yVnhjVUF4Tm82Y0JuYWVpZkVrb1VsQzhPMllISGlXUXdjeVg3VW_SAWBBVV95cUxNVG1qNnczbjdFbjhJam1rNVZSS3NCUENXeDV3YWloS3BuWFRUVDJOSmZtMk9hQmRrY0tOWGt2a2FmV3JKaWpuMWlCYnNvS3VWMThHVXJka1V6NUVBaG56aWY?oc=5",
+          "source": "연합뉴스",
+          "published": "11-04 09:31",
+          "snippet": "코스피, 美기술주 반등에 1%대↑…장중 상승탄력 둔화(종합) 연합뉴스"
         },
         {
-          "title": "코스피 포인트보다 더 하락한 '삼전닉스'...언제 반등할까? - 금융소비자뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NMUJxamx3ajZMc29Qc2RocnJlQ0QzelVhUS1LLVRBeFc1UHlxSEFjUC1DUEFJTU5KdlVpQUh3VE15ME0wNEJueWZzdTFrcTZuZHVwN1pVZlhuNzZyQW5SMDg1UW5pbmJJWmc?oc=5",
-          "source": "금융소비자뉴스",
-          "published": "11-03 15:41",
-          "snippet": "코스피 포인트보다 더 하락한 '삼전닉스'...언제 반등할까? 금융소비자뉴스"
+          "title": "코스피, AI 서버 수요 기대감에 반등…5700선 회복 - 뉴스토마토",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ocjdCc21uZ01NeFc2cFAzTHM4bkFMN2JiMzYycmtvSEFYMU1YaEE3dS1iby03eC0xa2I1WEtJX3FqNjlDazRjRi1TTnQ3YWpldGlGWldnbVpJbUVTTmFyOQ?oc=5",
+          "source": "뉴스토마토",
+          "published": "11-04 09:42",
+          "snippet": "코스피, AI 서버 수요 기대감에 반등…5700선 회복 뉴스토마토"
         },
         {
-          "title": "코스피, AI 수익성 우려·외국인 팔자에 3.59% 급락…삼전닉스↓ - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XUnE5MnNPakEtM0I2NU11SWxMeEt5NzJPY3ZlTGV5RFM0dVl6N1BxTl9sSWQyaVlVMHNha1BPMHppZjNzLWVzNVNVb0s3bVBaeUE?oc=5",
-          "source": "매일경제",
-          "published": "11-03 15:59",
-          "snippet": "코스피, AI 수익성 우려·외국인 팔자에 3.59% 급락…삼전닉스↓ 매일경제"
-        },
-        {
-          "title": "SK이터닉스 주가, 11월 첫장 오전부터 '껑충'…코스피·코스닥 동반 상승 - CBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0RUZHeXFPazlPUFI3ZUI1REdidWd4SVlkc0I4X2VlODRXa29LQzlBSWJhU2k3YTlQN3JEbHJHWTI5Tl9NZ2t5U29kVUJVRzFSUmRMcGJ2ME1XVncwSEFxRkhpQXMwYnFu?oc=5",
-          "source": "CBC뉴스",
-          "published": "11-04 02:59",
-          "snippet": "SK이터닉스 주가, 11월 첫장 오전부터 '껑충'…코스피·코스닥 동반 상승 CBC뉴스"
-        }
-      ],
-      "가상자산 과세 유예": [
-        {
-          "title": "[속보] 김민석 “가상자산 소득 과세 유예 정부에 공식 제안…디지털자산기본법 우선 제정” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96ZE0yVUpsb3YxWi1nX3VHcFRiQ1JvWFB5SWZVYnp3c0NsN2ExSl80aWVOUmIzOUhWSGY4NHhzZ2pscEtXNDBnTHRzelM5VTdTb3Awb1JtSFY5d3hOcVo1Um1HUlhSZw?oc=5",
+          "title": "코스피, 장초반 상승…미 기술주 반등에 ‘삼전닉스’↑ - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11LTI3OGVJYnA3M0szaklqR2RxRGdQaXdkX0FtekdCY2V4TWJ3LS00cmxObGREZ09yaGpxcnpWV3hFZURhOXB3MldMek9RNnRPS2J1cWNMM3c4ajQ?oc=5",
           "source": "KBS 뉴스",
-          "published": "11-04 10:07",
-          "snippet": "[속보] 김민석 “가상자산 소득 과세 유예 정부에 공식 제안…디지털자산기본법 우선 제정” KBS 뉴스"
+          "published": "11-04 09:44",
+          "snippet": "코스피, 장초반 상승…미 기술주 반등에 ‘삼전닉스’↑ KBS 뉴스"
         },
         {
-          "title": "[속보] 김민석, 정부에 ’가상자산 과세 유예’ 공식 제안 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43V0JFVnFzQ0tvZXBUci1rVldDd0RrN0Z0QjBkdHpYemxTRzlJVkJMekdXdUtwRnFWeElxUFI4S3daRW1vbzFxWmN4VzNHcHBMZ1JQZWs2dFY4Q19hMWl0UFBkQjZ1Smc?oc=5",
-          "source": "연합뉴스TV",
-          "published": "11-04 10:08",
-          "snippet": "[속보] 김민석, 정부에 ’가상자산 과세 유예’ 공식 제안 연합뉴스TV"
-        },
-        {
-          "title": "與, 정부에 ‘가상자산 과세 유예’ 공식 제안 - 서울신문",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1reGlTUmo4OXlJbXlJV1BBbFg4YUlYYmdLaTIzYTFTdXJnVkpyMDJCV3g5TWg0SEpYblZfUlRhVFYzcW9maHJYcnZmcVN4RGlTZG1LaXhCZnF1TFpzQ2txWE15OG4tSy05VHNrR2NXeEQ?oc=5",
-          "source": "서울신문",
-          "published": "11-04 10:19",
-          "snippet": "與, 정부에 ‘가상자산 과세 유예’ 공식 제안 서울신문"
-        },
-        {
-          "title": "[속보] 김민석 “가상자산 소득 과세 유예 정부에 공식 제안” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEN3RaRWpZWDFmQ0VicFduMWlILUJrUTA2dE5waUxpTFdlZnJzUFV5TDZNVEY2NHFpc2h5aWppckZVN3VTaVVHRGpMeW56d2FWWC0wYVN4NlBQT0cxeWNsMGlYZ3ZMelBsRnlaVi1RWXJBQm5s?oc=5",
-          "source": "한겨레",
-          "published": "11-04 10:17",
-          "snippet": "[속보] 김민석 “가상자산 소득 과세 유예 정부에 공식 제안” 한겨레"
-        },
-        {
-          "title": "[속보] 김민석, 정부에 ‘가상자산 과세 유예’ 공식 제안 - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKUFNacTNlSnJqaTF0d2dYQUwybmItZFpCUzUzMXRBS2gtbEZoeVlXS2hGdFdUTmV5Vm9SYy16MUFsb0tCUWZYZC1zNEN3TEFBQjhxTWVn?oc=5",
-          "source": "중앙일보",
-          "published": "11-04 10:08",
-          "snippet": "[속보] 김민석, 정부에 ‘가상자산 과세 유예’ 공식 제안 중앙일보"
-        },
-        {
-          "title": "與, 정부에 '가상자산 과세 4번째 유예' 공식제안...\"적응기간 필요\" - 조세일보",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rZGZNV0lyMWZVOWdKVVJtakNzTEo5TGFueHNWcUczMlhmSXRSUzQ5a2xZYjlXbV9aTmpJdFNxa0o3OVBaRWhTRDBaV210UldhRGg0bmh3bWdkZGN5d2N2dTF4aE44TDIwRHNzTldyR0ZSamRn?oc=5",
-          "source": "조세일보",
-          "published": "11-04 10:43",
-          "snippet": "與, 정부에 '가상자산 과세 4번째 유예' 공식제안...\"적응기간 필요\" 조세일보"
+          "title": "美 중간선거 불확실성 완화 기대…코스피 반등 탐색 - www.ebn.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03T2RmMmxZR2wxRnlGRS03NG5uazB0VGxUd01rSk1ZTUNGQzFRdUxIbThkZEtRaERjTDFQckIzMlFiVEk2R3g1VEpDZFp3b21mcEVmelgyTHhSX25hU2tnSWwzWEtmMmxX?oc=5",
+          "source": "www.ebn.co.kr",
+          "published": "11-04 06:43",
+          "snippet": "美 중간선거 불확실성 완화 기대…코스피 반등 탐색 www.ebn.co.kr"
         }
       ],
-      "국내 기업 3분기 실적": [
+      "국내 기업 실적": [
+        {
+          "title": "'삼전닉스' 팔아치우는 개미들…美 기술주 실적 발표 후 돌아올까 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00Rlc5NGZqQ1FHbWdFOF9XS3EwNlN4YXR1SG1jTGpHMWMyUFpNaEY5V29ldkZvOXhUWTdMZ0NWUWNJNTVIQ2NWTEdxdlMtWTlJTkdjQzJucU52NGx2?oc=5",
+          "source": "뉴스핌",
+          "published": "11-03 15:51",
+          "snippet": "'삼전닉스' 팔아치우는 개미들…美 기술주 실적 발표 후 돌아올까 뉴스핌"
+        },
         {
           "title": "\"3분기 매출 날았다\"…제약사 웃게한 '전문의약품' - 뉴시스",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XMmI3S3MwT1Rwc1VKQ2xNVFBiZVVLTzUwbGs1TUY1N2k0X25ITFJNS3k4YUw0bUdRS3oyUUNFamJld1B0ZlczT2d6dWd1d3hrODc4dDBuNDZ5TVRJN1dHXzczUTZNdTY4Zjgxd3BZVmY0T1hzNGgtRtIBeEFVX3lxTE1XMmI3S3MwT1Rwc1VKQ2xNVFBiZVVLTzUwbGs1TUY1N2k0X25ITFJNS3k4YUw0bUdRS3oyUUNFamJld1B0ZlczT2d6dWd1d3hrODc4dDBuNDZ5TVRJN1dHXzczUTZNdTY4Zjgxd3BZVmY0T1hzNGgtRg?oc=5",
           "source": "뉴시스",
           "published": "11-04 05:02",
           "snippet": "\"3분기 매출 날았다\"…제약사 웃게한 '전문의약품' 뉴시스"
-        },
-        {
-          "title": "한화투자증권 \"한국항공우주, 기업가치 재평가.. 목표가 상향\" - 글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc2NGTV95SzN4QWZLRV80Zi1nTXYwc0V6emQ5X05MaHZTcjAtUnpBWnI5SVJsek5CQmxOSy1DdHBfZk14alpJaFJWS29SeGpPejVWbFNRbXdEdWRFMEE0V2dIWnFYYmhMVE9kOXZBTmZqdUh1TUljQ1gtX1N0RkJUNktkU1FrYlpQ?oc=5",
-          "source": "글로벌이코노믹",
-          "published": "11-04 08:57",
-          "snippet": "한화투자증권 \"한국항공우주, 기업가치 재평가.. 목표가 상향\" 글로벌이코노믹"
-        },
-        {
-          "title": "머스크 합병에 서학개미만 세금…미국 주주는 안 내는데 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRkVBdUZEY0JKQnNyZUlaWWxXYWljU2dUMm43TEVCdENseDE3a1FDazI0OUFBZjZlQlpDZnBJeDdRLWlicllqeFVHSk53dEtHZ3g4akFvMHY5SGp1TENtdDhzQUlwa1lCMWZLTm56X01Hc3ZRZWtwSk9ZbGIyQ3c3LTk4WVQzaEx3Si0w?oc=5",
-          "source": "조선일보",
-          "published": "11-04 09:02",
-          "snippet": "머스크 합병에 서학개미만 세금…미국 주주는 안 내는데 조선일보"
         },
         {
           "title": "[2026 3분기 실적] 해킹 여파 털어낸 SKT…영업익 10배 이상 ↑ - 인더뉴스",
@@ -810,21 +760,72 @@
           "snippet": "[2026 3분기 실적] 해킹 여파 털어낸 SKT…영업익 10배 이상 ↑ 인더뉴스"
         },
         {
-          "title": "포스코 웃고·현대제철 울고..K-철강, 3분기 실적 희비 '판매량이 갈랐다' - 한국정경신문",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kQktvbTQzb2JvTXJfSzYxRWxfbjJ5UDFzQ09LdGFhRE9OMFJJY3JlbG5BVnN0TUI5cE85cjR1dnM2RWZaWHFCd1FWVkRZa2ZJaUE?oc=5",
-          "source": "한국정경신문",
-          "published": "11-04 09:27",
-          "snippet": "포스코 웃고·현대제철 울고..K-철강, 3분기 실적 희비 '판매량이 갈랐다' 한국정경신문"
+          "title": "반도체 호황에 기업 이익 급증…노동 보수 비중은 16년 만에 최저 - 데일리팝",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DMWNPajlXdmRLQWNyeXZGSTdBdFU5MkZ4RFROSXowS09ma3JkSllLMGhzcFlhM0lKbHU3Sld6TGFpeDNCYWJsLVo4M1llXzIwNWRnN0hHSW1RZE5hVk8xdHhSeWNvTFFf?oc=5",
+          "source": "데일리팝",
+          "published": "11-04 11:23",
+          "snippet": "반도체 호황에 기업 이익 급증…노동 보수 비중은 16년 만에 최저 데일리팝"
         },
         {
-          "title": "AI 반도체 핵심 '기판' 품귀…韓 기업 대규모 투자로 대응 - nbn 시사경제",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CQldQSkEwUmtoLU9sTG9ld0NyOTFjYmVKZnprWEpxalRzV2Z3ZlEyZDFGT3hJa2pyUy1DaXJBVEgxWnUxc3BBU1VYX2VoVEwyR3l5cnlISGdJR2s2QlZiYmk3dGU5bjZBTVE?oc=5",
-          "source": "nbn 시사경제",
-          "published": "11-04 09:50",
-          "snippet": "AI 반도체 핵심 '기판' 품귀…韓 기업 대규모 투자로 대응 nbn 시사경제"
+          "title": "[특징주] 반도체 소부장주 일제히 반등…DB하이텍 6%대 급등 - 이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HNENzRTNocWtpNUoycTdGLW5hSFZKbVhHSXFrcThBMTVEMlFQYmZoQl9kM3Y3QUhNbF9ybGI5S21heEM3RXQ3eTVFUUdHNTM2eVhKZQ?oc=5",
+          "source": "이투데이",
+          "published": "11-04 09:22",
+          "snippet": "[특징주] 반도체 소부장주 일제히 반등…DB하이텍 6%대 급등 이투데이"
+        },
+        {
+          "title": "씨티은행, 글로벌 기업금융 강화…김경호號 본격 출범 - 서울경제TV",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xczdLOV9QcmRIaWpXc21MSzZLaTBPM1BJWVN0LUZEaGxWTHZscTNiVTRXZFZGZXB1OXY1UHZiYUpteU00WkFNQkNnYkN5SlFEZGRUNkI2QXkyN2MwV3o0Nl9VODk?oc=5",
+          "source": "서울경제TV",
+          "published": "11-03 17:59",
+          "snippet": "씨티은행, 글로벌 기업금융 강화…김경호號 본격 출범 서울경제TV"
         }
       ],
-      "뉴욕증시 혼조세": [
+      "부동산 세제개편": [
+        {
+          "title": "종부세, '몇 채'가 아니라 '얼마'에 매긴다...실거주 중심 부동산세 개편 - 이로운넷",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UUmU4YjFKbnhRVWxKbXdqZEJVTFNucGpKMFN0dXJvNDBPNWNEN3IzUi1QM2k3ZmNBUGlTV1R1MG44RkVkRzVfRnRLck1NSGNHdndmVmJMWEVleFp3MUdsVzZIRU9aZw?oc=5",
+          "source": "이로운넷",
+          "published": "11-04 09:20",
+          "snippet": "종부세, '몇 채'가 아니라 '얼마'에 매긴다...실거주 중심 부동산세 개편 이로운넷"
+        },
+        {
+          "title": "부동산 세제개편 놓고 전문가 공방…“징벌적 과세” vs “담세력 반영” - Daily NTN",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mN2RGSWN5V21mZU8zQUFMQU1lUGMzeGZNdmhhWTNvUW5kTUowSnh2R2VMa0lBcGlSZHhvUC1CRlFWYUltSFEyM2ViMVBrSmkzOUJyay10RE9lX2pVRmxUQUJ2NU0?oc=5",
+          "source": "Daily NTN",
+          "published": "11-03 21:18",
+          "snippet": "부동산 세제개편 놓고 전문가 공방…“징벌적 과세” vs “담세력 반영” Daily NTN"
+        },
+        {
+          "title": "부동산 세제개편안 공청회…\"실거주 중시 방향성 타당\" vs \"세금 폭력\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kNlJKRG1BR2NFbVJtS0xzanQ3dEIwVkZVNHpVUDdkanFmX3R0bWREbktKT1JmRFhCSi0xbFNHb1RRcHhPdXppalRuU3lnclBBTnROLWlRVk9XS09JUGs0VnVxSWpJSlRxQXNJbUtxQUc?oc=5",
+          "source": "연합인포맥스",
+          "published": "11-03 17:25",
+          "snippet": "부동산 세제개편안 공청회…\"실거주 중시 방향성 타당\" vs \"세금 폭력\" 연합인포맥스"
+        },
+        {
+          "title": "부동산 세제개편 공청회 공방…\"주거안정 목표\" vs \"세금 폭력\" - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15a3J1NTk0U1dHcFRoWkJNWFF0cDd3dzhiNWc5MjROekxjYWNubHlrb0NUVGhfb2JVZHF0MDVjMlRvcmY5VzY5czkxa0NWaGJNT3RtX2dzT3FUcTdUNXBOS0ItdFdVcFQ3TTdWZNIBckFVX3lxTE5sTUdnVWtISHJqNmRJdjRTWTVNbGJGQWhtb09UbkUtRnQ2OEoydmRWUXRBYXV1VDBvRGxrMThnVkdaWU9vd2pOT1Y2eS15bnpSRkI2aGlYZ0ItazNURDFQYmZaSG8yYTIzYjZfU2VJTGtIZw?oc=5",
+          "source": "머니투데이",
+          "published": "11-03 17:00",
+          "snippet": "부동산 세제개편 공청회 공방…\"주거안정 목표\" vs \"세금 폭력\" - 머니투데이 머니투데이"
+        },
+        {
+          "title": "실거주 아니면 껑충 뛰는 ‘세부담’…꼬이는 부동산 세제개편안 셈법은 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BeXVOc3pMejV5Rm1NaHlJSGQtdTR5MEcxQ216Q1c1cGFoTzZjYVYwSldXcFUzSnN4SERqQ3pBZ3V4TzNGUHFPSDlWUW1QWlBvend0VFc2UE0?oc=5",
+          "source": "매일경제",
+          "published": "11-03 16:48",
+          "snippet": "실거주 아니면 껑충 뛰는 ‘세부담’…꼬이는 부동산 세제개편안 셈법은 매일경제"
+        },
+        {
+          "title": "용산구, 부동산 세제 개편 설명회 개최…구민 200여 명 참석 - 잡포스트",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EQzVQMl80THRlN1JDNFExeENVVERVV2gyXzJjUk5YS3g3eHZIWFlXNG85SmJmY01JU1VxTkZtZEQ3MFJPN29XTTJBellhaU5DT0hsVmNURlBTR3Zib3JZYk9YMDBsaGYwc0JXREV30gFyQVVfeXFMTkhET3FWTFR6SmhKaUFZRmJqWjhsN3dPUGZEcUlUdlpONTJ5emgzMXc0MnhRcTNlNWlRMUJTUF9ENE4zUjJnTXlUbFlZTHhYc2Z3Z3k4VjNnYVdTTEFQaEVIamxoWFJCalYwTk1OaXVCWExn?oc=5",
+          "source": "잡포스트",
+          "published": "11-04 11:48",
+          "snippet": "용산구, 부동산 세제 개편 설명회 개최…구민 200여 명 참석 잡포스트"
+        }
+      ],
+      "뉴욕증시 혼조": [
         {
           "title": "중간선거 경계감 속 뉴욕증시 혼조…기술주 반등에 나스닥 0.8%↑ - 연합뉴스TV",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LMDhvcGticFZVeDF5ekdHUVVZbUFLaFpfdVUxV0dtWFdLTkx3bEl2RTlBSS1HWE9SaVd4Rjg4cHhuRTd0djZzSnBPTDY2VUdqVlFNWE40eXZ4c2lZakcxeWgzVUszSjg?oc=5",
@@ -833,18 +834,11 @@
           "snippet": "중간선거 경계감 속 뉴욕증시 혼조…기술주 반등에 나스닥 0.8%↑ 연합뉴스TV"
         },
         {
-          "title": "중간선거 결과 앞두고 뉴욕증시 혼조세 마감 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uV2dBSjAxekFjTTAxcEpiR1I2V1p4Q1lWVHZtNEIxRnJEeFNNaFluMjFzNkV0TmRGRGZOT3ZsQXFibzB2Q2tUUHc4dFBSZUNHV2tCSkRIMFF2VlQ1UmkzbUxkVF9rcVM3c1hCekNuMmhkcV9TZ2dxX2FB0gF6QVVfeXFMTUUza3FvY1JEUm1TZDNBME0yeWVsR2FDQjhMTVdibkxuZEJQeFowZjZtR3ZSMXBUdlRHTTVmUUs4TlB2ZjJZR3RHNDBZZVJLUWR0YU1hYVRxOTF2UkxfMFRROUhwbkhMV3dfVl9BVHJRMTJESkU1WHN1VGc?oc=5",
-          "source": "MBC 뉴스",
-          "published": "11-04 08:14",
-          "snippet": "중간선거 결과 앞두고 뉴욕증시 혼조세 마감 MBC 뉴스"
-        },
-        {
-          "title": "뉴욕 증시, 중간선거 결과 주시하며 혼조세로 마감 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PNENydF9IVUNPLVhYM2RVMVdlZm0zZGs5NW9VX0JEVHhtczdJWjBEeGcwaHI4Um83ODRaaE8wT2pLclFXWWlWQ0NKOUtkbXJiSTZOdkR3dl9IbTczTEE?oc=5",
-          "source": "YTN",
-          "published": "11-04 06:58",
-          "snippet": "뉴욕 증시, 중간선거 결과 주시하며 혼조세로 마감 YTN"
+          "title": "[뉴욕증시] 중간선거 불확실성에 혼조…나스닥 0.83%↑ - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwczhTTmpSTXpCdTZNTmMzeUM0cmxBYXRPVUpzZEZVcEw4NmI1SGVpeXlmLThJNFViM0dDQmxlbXNNTWROcEplT3VLRG1zenlOVXoyY3N1emc5WUE2a0d6cGNnVjFNY1AxTmlNSi1vZFo?oc=5",
+          "source": "연합인포맥스",
+          "published": "11-04 06:50",
+          "snippet": "[뉴욕증시] 중간선거 불확실성에 혼조…나스닥 0.83%↑ 연합인포맥스"
         },
         {
           "title": "뉴욕증시, 중간선거 경계 혼조…반도체주 반등에 나스닥 0.8%↑(종합) - 연합뉴스",
@@ -854,21 +848,49 @@
           "snippet": "뉴욕증시, 중간선거 경계 혼조…반도체주 반등에 나스닥 0.8%↑(종합) 연합뉴스"
         },
         {
-          "title": "뉴욕증시, 중간선거 결과 대기하며 혼조 출발 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUMTU3MWZzTHQ4THEwU2xvSWVobC1JQmNWeHhPRHltaXF1b0NDcGZMY3RtZERfZGVIcXI5VmJNd2RvSTR5VWFlekJST2gtbFZMYjNwSHc0QjRGRG9icUctR0NCdnk5c3prdzFDb3ZlREM?oc=5",
-          "source": "연합인포맥스",
-          "published": "11-04 00:01",
-          "snippet": "뉴욕증시, 중간선거 결과 대기하며 혼조 출발 연합인포맥스"
+          "title": "뉴욕증시, 혼조 마감…AI주 반등에 나스닥 0.83%↑ - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yeS1GTTM4SmRGb3lmeC16NXV4VXdLaEFORl8xUjVVSFB2YXAtM0JiY1ZKaXNtSWU5T2pSVVZfZWVBWHdPOE5DTkh6eWZpbGNMekRFNFBqX054OEtW?oc=5",
+          "source": "뉴스핌",
+          "published": "11-04 06:29",
+          "snippet": "뉴욕증시, 혼조 마감…AI주 반등에 나스닥 0.83%↑ 뉴스핌"
         },
         {
-          "title": "[개장] 뉴욕증시, 중간선거 결과 대기하며 혼조..엔비디아 2%↑ By 알파경제 alphabiz - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9saTZqLVZYTkZITmZFYnRQTE1kWFdKS0xHTzdEbzBDZlctQm1DOUVGWVB5a3ozZWx0R2QwQllqYXFVNHV5dEEyOFZwdENQMnh4STU0WHhkWUxpaGY3N0tZNHJGekdEeHd2dnNjN05fUTI?oc=5",
-          "source": "Investing.com 한국어",
-          "published": "11-04 09:49",
-          "snippet": "[개장] 뉴욕증시, 중간선거 결과 대기하며 혼조..엔비디아 2%↑ By 알파경제 alphabiz Investing.com 한국어"
+          "title": "중간선거 주시 속 뉴욕증시 혼조…AI 기업도 시험대 - 네이버페이 머니스토리",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rYUJrRXRWcjJmV1BWbXdXRzZPRFBNNDRwSkI3bXhzOC0wdTVWSm5fRktjcFVQQUJGbWtqVjB4ODVBQVpGQlYwNk1rck5KWDh0RXJsSzVLaVk?oc=5",
+          "source": "네이버페이 머니스토리",
+          "published": "11-04 09:16",
+          "snippet": "중간선거 주시 속 뉴욕증시 혼조…AI 기업도 시험대 네이버페이 머니스토리"
+        },
+        {
+          "title": "뉴욕증시, 중간선거 결과 기다리며 혼조 마감 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNW42YklyNkM3bDZBWlNCT1duTkU0UlBfdHkyblpfeS1TbDJIbG9UWVFjai1wNW16Zk9Gbkw3RklEOFZaRC0tc3hrc0Yyd2lvNklvbzFRUXZGMDF2R3RuOHl1blVRVW52NXlxcDN6WEFqY29PYlh0UkJJMkZpa2laS3d4QklYbHRTT3JiMjRsQzl4TGxuTVg0Qlo5Z1luZ9IBsgFBVV95cUxQa2YyY2l4UTFWenVEUHBMck93YkhZMWRuRldIajFNRDhoRDJXZndSZVRhRTl2b01jTWhKR3FxYTY0OHNuNkJkVzB3RlZFdmlyZ3hDSlN1by0yVk5fcHdRY1ZBeFZzOFdzbU1lRDRxVmZOeDRUejYtVGxDckc4X1VReUhoS20yVUs2LU1ZSXltWW0xaTNDdlU5VnRkTnp5ZlR0Q3BualoyRUM1QV9EYTlXYTBn?oc=5",
+          "source": "Chosunbiz",
+          "published": "11-04 07:36",
+          "snippet": "뉴욕증시, 중간선거 결과 기다리며 혼조 마감 Chosunbiz"
         }
       ],
       "미국 중간선거": [
+        {
+          "title": "미국 중간선거 개표초반 민주당 우세…\"하원탈환 확률 100%\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tRE1IQk5nMV9yS0FUOVQ5OFppVzM3T0V2LXFva0lJNjJNaldBdG0tM1pOU1NqUVlKRkx4bkJEWHlpYlRBdFBKVGZwRWFJdkU1SGxEcl9xVFlQdG9nbTJBVE0tYmd3S0U?oc=5",
+          "source": "연합뉴스TV",
+          "published": "11-04 11:38",
+          "snippet": "미국 중간선거 개표초반 민주당 우세…\"하원탈환 확률 100%\" 연합뉴스TV"
+        },
+        {
+          "title": "미국 중간선거‥격전지·판세 출구조사 결과는? - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HclZqS0thR2Exb0h1TFN4WDM2cGwxb3gyTWdzc0czZkdJZldnTjlNUzdMZnY3YnlVT3RWZlFVM2pxQ0dXTVZxckswOUItZnczV3g5MXU5Z2hUem1zVHdhMmJRdkx4cjNOdk9oSDZTY0tOR0Js0gF0QVVfeXFMUEtXWU1ybjJpUkswUkR1XzNyT1E3NXlHbnNJUXJ0RG5DMjhHQ1F6UE5KQ0U5Wlp2QkpOWnFaby1ESGRsVXlVMFdFVmVFT1pzZFdsSmZDV19XM0lBamVHUlc1Q0pQX1lDMll6aXlnQWR0bng0YmY?oc=5",
+          "source": "MBC 뉴스",
+          "published": "11-04 11:15",
+          "snippet": "미국 중간선거‥격전지·판세 출구조사 결과는? MBC 뉴스"
+        },
+        {
+          "title": "‘트럼프 정부 중간평가’ 美 중간선거 개표 시작 - 중앙일보",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxTWdTbmstOGs4UzlTUW9BZE00VmdHR29fbHM2WlJ4MHUtME9fQjd0MHl0blBRMjZ0VU5KVWVPMTc3eEQyS3N0QWR6TDFmN3pSTFhZX1FB?oc=5",
+          "source": "중앙일보",
+          "published": "11-04 10:45",
+          "snippet": "‘트럼프 정부 중간평가’ 美 중간선거 개표 시작 중앙일보"
+        },
         {
           "title": "코스피 4950까지 추락 vs 6700까지 반등…美 중간선거 공식 통할까 - 주간조선",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fLTAxS0JnTUluWnV6TmFYcENYS2psaU5DOU4wM1VvUHFFN20zd29OR29nN09CX3JMcTVpYllvVHlScXlncjc2TWhXVnZsNTVTSW5VNDZXNnJ2U2FKNGRFUjBLaERfSWNkMUHSAW5BVV95cUxNX3JfeFl4SWFHcUQzN18ydnlnNHJsYmRISVBlQXNkano3cHZjNWNqYW5UNnJUemNQbFRVa0FKUkVrdjVCMjJHTy1NcWJOUHlwYm9SN1ZzbXhTd1o0QldkOHpGa2JtX3hibjR4QjkyQQ?oc=5",
@@ -877,39 +899,18 @@
           "snippet": "코스피 4950까지 추락 vs 6700까지 반등…美 중간선거 공식 통할까 주간조선"
         },
         {
-          "title": "美전역서 중간선거 투표…투표 행렬 이어져 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnWnpKV1kxS0lzbmpPa3lKVmRId2R1cWlOcWg3SlVtYzQtQnNrN1JYaXhhSmNUU084SU1McUxLdjh5OEllQkZtVW4tZVVPckphaXhBOWZmVUx1aTVZdHVvVnh2ZW5PYnM?oc=5",
-          "source": "연합뉴스TV",
-          "published": "11-04 07:37",
-          "snippet": "美전역서 중간선거 투표…투표 행렬 이어져 연합뉴스TV"
+          "title": "[중간선거] \"민주, 상원+4·하원+3석 탈환시 조사·탄핵 개시 가능성\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uS3VyV29YLVkzUzJuTkE2VVZaWUg5LWNxNEg1QkRhVktqeG12LS1EMk03SE1DYlVhNWRMaF9wdnBGS2hqOGxKcEtQUDFoMlZvNFVxcnp6aEtaTkZacmlzSVdZUm81djM2QXk0SndKSlU?oc=5",
+          "source": "연합인포맥스",
+          "published": "11-04 10:40",
+          "snippet": "[중간선거] \"민주, 상원+4·하원+3석 탈환시 조사·탄핵 개시 가능성\" 연합인포맥스"
         },
         {
-          "title": "미국 중간선거일 맞아 고물가에 민심 요동...트럼프·민주당 승리 자신 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xd0VJdkVOeWJFeVU1c2x5N1VGUTRIajFCejVxdWlEVTd6MWJmNHdKNW5jWEpxM0psSUV1Y01qdmpQRFctb09fZmp1ZXM0bEI5RWw4RFQ2dEJVVDRlTjdmcl9WMmEwa3VRWHJBaFFXNA?oc=5",
-          "source": "YTN",
-          "published": "11-04 09:28",
-          "snippet": "미국 중간선거일 맞아 고물가에 민심 요동...트럼프·민주당 승리 자신 YTN"
-        },
-        {
-          "title": "[미 중간선거] “민주당 하원 승리 확률 96%”···관건은 ‘승리냐 압승이냐’ - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UazBWNDh2bnRHMjZsa2lLVW5OV3U1R2luQjRyaE9KZkJ5ZVdxZkJZbTRRSV9mc3NYNy1JYmt0S2x5WlFRekhPc05Kb0FrZ2txUmFUbmQwMnA1Z9IBX0FVX3lxTFAyQjVtb3FpSGd1cWVZSHlRLUgyRG01LW0wamd0N2pQeWRET3NvY2I4N2lxR3pNTi1rRXJoSVRqbHpiSHpDd0l3Z2NqbWZITVd1dzYxVXhndEFuTWdzYTFV?oc=5",
-          "source": "경향신문",
-          "published": "11-04 07:25",
-          "snippet": "[미 중간선거] “민주당 하원 승리 확률 96%”···관건은 ‘승리냐 압승이냐’ 경향신문"
-        },
-        {
-          "title": "중간선거 투표 진행‥\"민주 승리확률 하원 96%, 상원 78%\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1tNElUUVdQM1huTm95UEZrY2dtNWx5UmxtRnBpWU02M2JNVFFDcmgzeHJuYnR4V09sLXhyTERGVi10ZjBibW4yTkNTeFI4MjV4QUJMM0hkekxIR2syVjk2VDZua3FjUkRUQ0JCc3FyaW5MbnJ4RVdz0gF3QVVfeXFMTmJkRmNNXy1jakpRck4ybmszc2NpSktWX3JkLVM3RU9laGxUUlF6RmRXTjRvTzhkSE1MdEtPeVU5RlFodGRUTjRlLTVYNF9hcmZwNnh2ZmlaNEJETjd2S1NGWTV3aHIyZnhFUW10SGdWc2ZDUVVtTHM?oc=5",
-          "source": "MBC 뉴스",
-          "published": "11-04 09:33",
-          "snippet": "중간선거 투표 진행‥\"민주 승리확률 하원 96%, 상원 78%\" MBC 뉴스"
-        },
-        {
-          "title": "미 중간선거 열기 활활…‘역대 최다 투표자 수’ 기록 경신 지역 속출 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fNXRBdU1WR2lpWGpFa3RobE5oc1FMWkJuUWc0QUVtY3o3U2tERUkyVFc4UTdONWNWQld6TmtsRnlyZXI1T3NWczJscG1qa3JYOE9ESHByZGpHX3VCZ1FBUmkwQTAzZnlfS19mbTdScw?oc=5",
-          "source": "한겨레",
-          "published": "11-04 08:57",
-          "snippet": "미 중간선거 열기 활활…‘역대 최다 투표자 수’ 기록 경신 지역 속출 한겨레"
+          "title": "[속보] 미국 중간선거 민주당 초반 압승 기세…“하원 탈환 확률 100%” - 강원도민일보",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pWkpkaHJ1VzZKZ1hwVHVLaGtvcmFpWjMtN3RtdkFGNnI3bEpBczJ2SWM1Zk00a2VUcWYyeWR2bGhld1phTUVrZjE5enpmZjgxbjhPR3pFTC05WXIwUmhLLTc2RGRfUE0?oc=5",
+          "source": "강원도민일보",
+          "published": "11-04 11:31",
+          "snippet": "[속보] 미국 중간선거 민주당 초반 압승 기세…“하원 탈환 확률 100%” 강원도민일보"
         }
       ],
       "국제유가 하락": [
@@ -958,27 +959,42 @@
       ]
     },
     "queries": {
-      "코스피 지수 변동": [
-        "코스피 지수 변동 그래프",
-        "코스피 지수 변동성",
-        "코스피 지수 변동률",
-        "코스피 지수 변동 추이",
-        "코스피 200 변동성 지수",
-        "코스피 200 변동성 지수 vkospi",
-        "코스피 200 변동성 지수 보는 법",
-        "코스피 지수 장중 변동",
-        "코스피 변동성 지수 급등"
+      "코스피 반등": [
+        "코스피 반등 가능성",
+        "코스피 반등 전망",
+        "코스피 반등 이유",
+        "코스피 반등 시점",
+        "코스피 반등 디시",
+        "코스피 반등 시기",
+        "코스피 반등 예측",
+        "코스피 급 반등",
+        "오늘 코스피 반등 이유"
       ],
-      "가상자산 과세 유예": [
-        "가상자산 과세 유예 청원",
-        "가상자산 과세 유예 가능성",
-        "가상자산 과세 유예 법안",
-        "가상자산 과세 2년 유예"
+      "국내 기업 실적": [
+        "국내 기업 실적 발표 캘린더",
+        "국내 기업 실적 발표",
+        "국내 기업 실적 발표일",
+        "국내 기업 4분기 실적 발표 일정",
+        "국내 기업 3분기 실적 발표 일정",
+        "국내 기업 2 분기 실적 발표 일정",
+        "국내 기업 1분기 실적발표 일정",
+        "국내 주요 기업 실적 발표"
       ],
-      "국내 기업 3분기 실적": [
-        "국내 기업 3분기 실적 발표 일정"
+      "부동산 세제개편": [
+        "부동산 세제개편안",
+        "부동산 세제개편안 정리",
+        "부동산 세제개편안 요약",
+        "부동산 세제개편안 2026",
+        "부동산 세제개편안 발표",
+        "부동산 세제개편안 pdf",
+        "부동산 세제개편 공동명의",
+        "부동산 세제개편 요약",
+        "부동산 세제개편안 발표일"
       ],
-      "뉴욕증시 혼조세": [],
+      "뉴욕증시 혼조": [
+        "뉴욕증시 혼조 마감",
+        "뉴욕증시 혼조세"
+      ],
       "미국 중간선거": [
         "미국 중간선거 2026",
         "미국 중간선거 일정",
@@ -986,9 +1002,9 @@
         "미국 중간선거 2026 날짜",
         "미국 중간선거 날짜",
         "미국 중간선거 언제",
-        "미국 중간선거일",
-        "미국 중간선거 예측",
         "미국 중간선거 결과",
+        "미국 중간선거 예측",
+        "미국 중간선거일",
         "미국 중간선거 뜻"
       ],
       "국제유가 하락": [
@@ -997,7 +1013,7 @@
         "국제유가 하락세"
       ]
     },
-    "newsletter_md": "# 📈 오늘의 경제 뉴스레터\n_2026-11-04 이슈 · 발행 2026-11-04_\n\n🇰🇷 **국내 경제:** `코스피 지수 변동` · `가상자산 과세 유예` · `국내 기업 3분기 실적`\n🌐 **해외 경제:** `뉴욕증시 혼조세` · `미국 중간선거` · `국제유가 하락`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 코스피, 외국인 매도와 AI 우려로 급락\n> 키워드: 코스피 지수 변동\n\n**📌 무슨 일이 있었나**\n- 코스피가 인공지능 수익성 우려와 외국인 투자자들의 대규모 매도 공세에 직면하여 전 거래일 대비 3.59% 급락하며 장을 마감한 원인 분석\n- 장 초반 일부 바이오 및 특정 테마 종목을 중심으로 매수세가 집중되면서 5786.13포인트로 상승 출발했으나 상승분을 모두 반납한 흐름\n- 시가총액 상위 종목인 삼성전자와 SK하이닉스 이른바 삼전닉스가 지수 하락폭보다 더 큰 낙폭을 기록하며 전체 지수를 끌어내린 양상\n- 코스닥 시장 역시 동반 급락세를 보였으나 코스피 제약 업종은 0.58% 소폭 상승하며 전체적인 하락장 속에서 상대적으로 선방한 모습\n- 미국 중간선거를 앞둔 경계감까지 겹치면서 투자심리가 크게 위축되어 국내 증시 전반에 매물이 출회된 시장 상황\n\n**💬 핵심 Q&A**\n- **Q. 코스피 지수 변동성 지수인 VKOSPI는 무엇이며 어떻게 보는가?**\n  A. VKOSPI는 코스피200 옵션 가격을 바탕으로 시장 참여자들이 예상하는 향후 주가 변동성을 보여주는 지표이다. 이 지수가 급등하면 시장의 불안감이 커지고 하락 위험에 대비하려는 수요가 높다는 의미로 해석한다.\n- **Q. 대형주인 삼성전자와 SK하이닉스가 코스피 지수보다 더 크게 하락한 이유는 무엇인가?**\n  A. 외국인 투자자들의 매도세가 시가총액 비중이 압도적인 반도체 대형주에 집중되었기 때문이다. 인공지능 산업의 수익성에 대한 시장의 우려가 커지면서 관련 핵심 종목들의 체감이 더 크게 나타났다.\n- **Q. 이처럼 급락장이 나타날 때 개인 투자자는 장중 변동성에 어떻게 대응해야 하는가?**\n  A. 단기적인 주가 등락에 휩쓸려 매매하기보다는 거시경제 지표와 외국인 수급 변화를 차분히 관망할 필요가 있다. 특히 변동성이 극심한 시기에는 무리한 레버리지 투자를 피하고 자산 배분을 점검하는 것이 안전하다.\n\n**👀 앞으로 볼 포인트**\n- 미국 중간선거 결과에 따른 글로벌 증시 방향성\n- 외국인 투자자의 국내 주식 순매도세 지속 여부\n- 삼성전자와 SK하이닉스의 주가 반등 시점\n\n<sub>참고: [위키트리](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSU3puaXg5eDNmcVh0X0tVNUcySU9ick0tWEZvYXgzUW1Rc0tjNURBU25fRW5FYzBuelljcDFEXzhzUTVwaE03VndzMWNFMldOVDhCRXl3?oc=5) / [KB Think](https://news.google.com/rss/articles/CBMibEFVX3lxTE5QbGJoUkQ4XzZBY0hNRGFfVjE3YzZxYWU3bVhZVE9fNXZmdW1DZ1dlODB3RlJlS29JVi1QSzRNOGxONEhweW00Z01sbE44WS1DSGtMWTNFU2FqdjJsaHFzYkt1M29SVHBsX1RHOQ?oc=5) / [메디코파마](https://news.google.com/rss/articles/CBMickFVX3lxTFBTblJPSmRnVjJIcDRoZUtPbmhMNTYwZnV2c013MWstRGxhWTc5V01ZOWxwZE13VDJYUGxVWDdxeWFoYnJabVR0TnZiX00taS1jbFVBOFlSdEdWVmFyUDczTXdsRnVyeUVxSVNFR2QyMC1udw?oc=5)</sub>\n\n---\n\n### 2. 더불어민주당, 가상자산 소득 과세 유예 제안\n> 키워드: 가상자산 과세 유예\n\n**📌 무슨 일이 있었나**\n- 더불어민주당 김민석 의원이 가상자산 소득에 대한 과세를 유예해 줄 것을 정부에 공식적으로 제안하며 논의가 급부상한 배경\n- 이번 제안이 현실화될 경우 가상자산 과세는 시행 시점이 연기되는 네 번째 유예 사례로 기록되는 정책적 변화\n- 정부와 정치권이 디지털자산기본법을 우선적으로 제정하는 것이 시급하며 시장 참여자들의 적응 기간이 필요하다는 주장\n- KBS, 연합뉴스TV, 서울신문, 한겨레, 중앙일보 등 주요 언론들이 여당의 과세 유예 공식 제안 속보를 일제히 타전한 상황\n- 조세일보 등 경제 매체들을 통해 과세 인프라 미비와 투자자 보호 장치 마련의 시급성이 함께 거론된 정책적 진전\n\n**💬 핵심 Q&A**\n- **Q. 가상자산 과세 유예 청원과 법안 통과 가능성은 얼마나 되는가?**\n  A. 투자자들의 지속적인 유예 요구 청원과 정치권의 거듭된 유예 제안으로 인해 실제 시행 시기가 미뤄질 가능성이 높다. 다만 정부와의 세부 조율 과정과 관련 법안 통과 여부는 지켜봐야 한다.\n- **Q. 가상자산 과세가 2년 추가 유예되면 코인 시장에 어떤 변화가 생기는가?**\n  A. 세금 부담에 대한 우려가 일시적으로 해소되면서 투자 심리가 단기적으로 안정을 찾을 수 있다. 그러나 장기적으로는 디지털자산기본법 제정 등 제도적 정비가 필수적으로 수반되어야 한다.\n- **Q. 디지털자산기본법이 우선 제정되어야 하는 이유는 무엇인가?**\n  A. 가상자산 시장의 불확실성을 해소하고 투자자를 보호할 수 있는 실효성 있는 법적 기준이 부족하기 때문이다. 과세 집행에 앞서 건전한 시장 질서와 투자자 보호 장치를 확립하는 것이 우선이라는 판단이다.\n\n**👀 앞으로 볼 포인트**\n- 정부의 가상자산 과세 유예 공식 수용 여부\n- 디지털자산기본법 제정 관련 국회 논의 속도\n- 가상자산 과세 유예 관련 청원 및 여론의 추이\n\n<sub>참고: [KBS 뉴스](https://news.google.com/rss/articles/CBMiZkFVX3lxTE96ZE0yVUpsb3YxWi1nX3VHcFRiQ1JvWFB5SWZVYnp3c0NsN2ExSl80aWVOUmIzOUhWSGY4NHhzZ2pscEtXNDBnTHRzelM5VTdTb3Awb1JtSFY5d3hOcVo1Um1HUlhSZw?oc=5) / [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43V0JFVnFzQ0tvZXBUci1rVldDd0RrN0Z0QjBkdHpYemxTRzlJVkJMekdXdUtwRnFWeElxUFI4S3daRW1vbzFxWmN4VzNHcHBMZ1JQZWs2dFY4Q19hMWl0UFBkQjZ1Smc?oc=5) / [서울신문](https://news.google.com/rss/articles/CBMicEFVX3lxTE1reGlTUmo4OXlJbXlJV1BBbFg4YUlYYmdLaTIzYTFTdXJnVkpyMDJCV3g5TWg0SEpYblZfUlRhVFYzcW9maHJYcnZmcVN4RGlTZG1LaXhCZnF1TFpzQ2txWE15OG4tSy05VHNrR2NXeEQ?oc=5)</sub>\n\n---\n\n### 3. SK텔레콤·제약사 웃고 K철강 울은 3분기\n> 키워드: 국내 기업 3분기 실적\n\n**📌 무슨 일이 있었나**\n- SK텔레콤이 과거 해킹 여파를 온전히 털어내고 영업이익이 전년 동기 대비 10배 이상 폭증하는 호실적을 기록한 성과\n- 국내 주요 제약사들이 전문의약품 부문의 견고한 판매 호조를 바탕으로 매출 성장을 이뤄낸 3분기 경영 실적\n- 한국항공우주가 긍정적인 실적 전망과 함께 기업가치 재평가 기대를 받으며 증권가에서 목표가가 상향 조정된 사례\n- 포스코는 웃고 현대제철은 울상을 지은 가운데 판매량 차이가 K철강 기업들의 3분기 희비를 갈라놓은 원인\n- 인공지능 반도체 핵심 부품인 기판 품귀 현상이 발생함에 따라 국내 관련 기업들이 대규모 투자를 단행하며 대응에 나선 상황\n\n**💬 핵심 Q&A**\n- **Q. 국내 기업들의 3분기 실적 발표 일정은 어디서 확인할 수 있는가?**\n  A. 금융감독원 전자공시시스템인 DART나 각 증권사의 리서치 자료를 통해 상장 기업들의 실적 발표 일정을 확인할 수 있다. 기업들은 보통 분기 마감 후 한 달에서 한 달 반 사이에 실적을 공시한다.\n- **Q. SK텔레콤의 영업이익이 10배 이상 증가한 배경은 무엇인가?**\n  A. 과거 발생했던 해킹 관련 일회성 비용이나 악재가 기저효과로 작용하고 본업인 통신 및 신사업 부문이 안정적인 성장을 이뤄냈기 때문이다. 비용 효율화와 함께 전문의약품처럼 탄탄한 사업 구조가 이익을 극대화했다.\n- **Q. 철강 기업들 사이에서도 3분기 실적 희비가 갈린 이유는 무엇인가?**\n  A. 글로벌 철강 수요 부진 속에서도 기업별 주력 제품의 판매량과 원가 절감 능력에서 차이가 발생했기 때문이다. 판매량이 곧 실적을 결정짓는 핵심 요인으로 작용했다.\n\n**👀 앞으로 볼 포인트**\n- 주요 기업들의 3분기 실적 발표 일정 및 최종 성적표\n- AI 반도체 기판 관련 기업의 대규모 투자 효과\n- 철강 및 제약 등 업종별 판매량 회복세 지속 여부\n\n<sub>참고: [뉴시스](https://news.google.com/rss/articles/CBMieEFVX3lxTE1XMmI3S3MwT1Rwc1VKQ2xNVFBiZVVLTzUwbGs1TUY1N2k0X25ITFJNS3k4YUw0bUdRS3oyUUNFamJld1B0ZlczT2d6dWd1d3hrODc4dDBuNDZ5TVRJN1dHXzczUTZNdTY4Zjgxd3BZVmY0T1hzNGgtRtIBeEFVX3lxTE1XMmI3S3MwT1Rwc1VKQ2xNVFBiZVVLTzUwbGs1TUY1N2k0X25ITFJNS3k4YUw0bUdRS3oyUUNFamJld1B0ZlczT2d6dWd1d3hrODc4dDBuNDZ5TVRJN1dHXzczUTZNdTY4Zjgxd3BZVmY0T1hzNGgtRg?oc=5) / [글로벌이코노믹](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc2NGTV95SzN4QWZLRV80Zi1nTXYwc0V6emQ5X05MaHZTcjAtUnpBWnI5SVJsek5CQmxOSy1DdHBfZk14alpJaFJWS29SeGpPejVWbFNRbXdEdWRFMEE0V2dIWnFYYmhMVE9kOXZBTmZqdUh1TUljQ1gtX1N0RkJUNktkU1FrYlpQ?oc=5) / [조선일보](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRkVBdUZEY0JKQnNyZUlaWWxXYWljU2dUMm43TEVCdENseDE3a1FDazI0OUFBZjZlQlpDZnBJeDdRLWlicllqeFVHSk53dEtHZ3g4akFvMHY5SGp1TENtdDhzQUlwa1lCMWZLTm56X01Hc3ZRZWtwSk9ZbGIyQ3c3LTk4WVQzaEx3Si0w?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 미 중간선거 앞두고 뉴욕증시 혼조세 마감\n> 키워드: 뉴욕증시 혼조세\n\n**📌 무슨 일이 있었나**\n- 미국 중간선거 결과를 앞두고 경계 매물이 출회된 가운데 뉴욕증시가 혼조세로 거래를 마감한 시장 상황\n- 엔비디아 주가가 2% 가량 상승하는 등 주요 반도체주를 중심으로 기술주가 반등세를 주도한 현상\n- 나스닥 지수가 기술주 반등에 힘입어 전장 대비 0.8% 상승하며 상대적으로 양호한 흐름을 보인 기록\n- 연합뉴스TV, MBC, YTN, 연합뉴스 등 주요 매체들이 일제히 중간선거 경계감 속 혼조세 마감 소식을 보도\n- 투자자들이 중간선거의 개표 결과와 향후 정책 변화 가능성을 주시하며 대기 모드에 들어간 장세\n\n**💬 핵심 Q&A**\n- **Q. 뉴욕증시가 중간선거를 앞두고 혼조세를 보이는 이유는 무엇인가?**\n  A. 선거 결과에 따라 향후 재정 정책, 규제 방향, 법인세 개편 등 경제 전반에 미칠 파장이 크기 때문이다. 투자자들이 불확실성을 싫어하기 때문에 투표 결과를 확인하기 전까지 적극적인 매수를 주저하는 경향이 나타난다.\n- **Q. 기술주 중심의 나스닥이 반등한 배경은 어떻게 해석해야 하는가?**\n  A. 선거 불확실성 속에서도 인공지능과 반도체 관련 대형 기술주에 대한 저가 매수세가 유입되었기 때문이다. 특히 엔비디아 같은 실적 주도주의 강세가 지수 하방을 방어하는 역할을 했다.\n- **Q. 이러한 미 증시의 혼조세가 국내 증시에는 어떤 영향을 미치는가?**\n  A. 미국 증시가 방향성을 잡지 못하고 혼조세를 보일 경우 국내 증시 역시 외국인 수급과 투자 심리가 동반 위축될 수 있다. 특히 반도체 등 연관성이 높은 업종이 직접적인 영향을 받는다.\n\n**👀 앞으로 볼 포인트**\n- 미국 중간선거 최종 개표 결과와 의회 권력 구성\n- 엔비디아를 비롯한 대형 기술주의 주가 추이\n- 미국 국채 금리 및 연방준비제도 통화정책 기조\n\n<sub>참고: [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LMDhvcGticFZVeDF5ekdHUVVZbUFLaFpfdVUxV0dtWFdLTkx3bEl2RTlBSS1HWE9SaVd4Rjg4cHhuRTd0djZzSnBPTDY2VUdqVlFNWE40eXZ4c2lZakcxeWgzVUszSjg?oc=5) / [MBC 뉴스](https://news.google.com/rss/articles/CBMiekFVX3lxTE1uV2dBSjAxekFjTTAxcEpiR1I2V1p4Q1lWVHZtNEIxRnJEeFNNaFluMjFzNkV0TmRGRGZOT3ZsQXFibzB2Q2tUUHc4dFBSZUNHV2tCSkRIMFF2VlQ1UmkzbUxkVF9rcVM3c1hCekNuMmhkcV9TZ2dxX2FB0gF6QVVfeXFMTUUza3FvY1JEUm1TZDNBME0yeWVsR2FDQjhMTVdibkxuZEJQeFowZjZtR3ZSMXBUdlRHTTVmUUs4TlB2ZjJZR3RHNDBZZVJLUWR0YU1hYVRxOTF2UkxfMFRROUhwbkhMV3dfVl9BVHJRMTJESkU1WHN1VGc?oc=5) / [YTN](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PNENydF9IVUNPLVhYM2RVMVdlZm0zZGs5NW9VX0JEVHhtczdJWjBEeGcwaHI4Um83ODRaaE8wT2pLclFXWWlWQ0NKOUtkbXJiSTZOdkR3dl9IbTczTEE?oc=5)</sub>\n\n---\n\n### 2. 미국 전역에서 역대급 투표율 기록하며 중간선거 실시\n> 키워드: 미국 중간선거\n\n**📌 무슨 일이 있었나**\n- 미국 전역에서 하원 의원과 상원 의원 등을 선출하는 중간선거 투표가 본격적으로 시작된 상황\n- 고물가 여파로 민심이 크게 요동치는 가운데 트럼프 진영과 민주당 양측 모두 승리를 자신하며 총력전을 펼친 선거 양상\n- 주간조선 보도를 통해 코스피 지수가 선거 결과에 따라 최저 4950까지 추락하거나 최고 6700까지 반등할 수 있다는 전망이 제기된 배경\n- 민주당이 하원에서 승리할 확률이 96%, 상원에서 78%에 달한다는 여론조사 결과와 함께 압승 여부가 최대 관건으로 부각된 국면\n- 미국 전역의 다수 지역에서 역대 최다 투표자 수 기록을 경신할 정도로 유권자들의 투표 열기가 뜨거웠던 현상\n\n**💬 핵심 Q&A**\n- **Q. 미국 중간선거 2026의 의미와 경제적 파급 효과는 무엇인가?**\n  A. 중간선거는 대통령 임기 중간에 치러지는 선거로 현정권에 대한 중간 평가 성격을 가진다. 의회 권력이 어떻게 재편되느냐에 따라 향후 재정 지출, 에너지 정책, 대외 무역 정책 등이 급변할 수 있어 글로벌 경제에 큰 영향을 미친다.\n- **Q. 미국 중간선거 결과에 따라 코스피가 4950에서 6700까지 움직인다는 예측은 어떻게 봐야 하는가?**\n  A. 선거 결과가 미칠 극단적인 시나리오를 가정한 분석일 뿐이며 실제 주가는 다양한 글로벌 변수에 의해 결정된다. 정치적 이벤트는 단기 변동성을 키우는 요인이므로 맹신하기보다는 참고용으로만 활용해야 한다.\n- **Q. 역대 최다 투표자 수를 기록할 정도로 이번 중간선거 열기가 뜨거운 이유는 무엇인가?**\n  A. 고물가 등 경제적 어려움에 직면한 유권자들의 정치적 불만과 변화에 대한 열망이 크기 때문이다. 양당 모두 지지층 결집에 사활을 걸면서 투표 참여율이 급증했다.\n\n**👀 앞으로 볼 포인트**\n- 미국 중간선거 최종 개표 결과 및 상하원 의석 분포\n- 선거 결과가 향후 바이든 정부 또는 트럼프 진영의 정책에 미칠 영향\n- 국내 증시 및 환율에 미치는 파급 효과\n\n<sub>참고: [주간조선](https://news.google.com/rss/articles/CBMiakFVX3lxTE9fLTAxS0JnTUluWnV6TmFYcENYS2psaU5DOU4wM1VvUHFFN20zd29OR29nN09CX3JMcTVpYllvVHlScXlncjc2TWhXVnZsNTVTSW5VNDZXNnJ2U2FKNGRFUjBLaERfSWNkMUHSAW5BVV95cUxNX3JfeFl4SWFHcUQzN18ydnlnNHJsYmRISVBlQXNkano3cHZjNWNqYW5UNnJUemNQbFRVa0FKUkVrdjVCMjJHTy1NcWJOUHlwYm9SN1ZzbXhTd1o0QldkOHpGa2JtX3hibjR4QjkyQQ?oc=5) / [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnWnpKV1kxS0lzbmpPa3lKVmRId2R1cWlOcWg3SlVtYzQtQnNrN1JYaXhhSmNUU084SU1McUxLdjh5OEllQkZtVW4tZVVPckphaXhBOWZmVUx1aTVZdHVvVnh2ZW5PYnM?oc=5) / [YTN](https://news.google.com/rss/articles/CBMib0FVX3lxTE5xd0VJdkVOeWJFeVU1c2x5N1VGUTRIajFCejVxdWlEVTd6MWJmNHdKNW5jWEpxM0psSUV1Y01qdmpQRFctb09fZmp1ZXM0bEI5RWw4RFQ2dEJVVDRlTjdmcl9WMmEwa3VRWHJBaFFXNA?oc=5)</sub>\n\n---\n\n### 3. 미·이란 종전 협상 기대에 국제유가 이틀째 하락\n> 키워드: 국제유가 하락\n\n**📌 무슨 일이 있었나**\n- 전쟁 종식 협상이 진전될 것이라는 기대감이 확산되면서 국제유가가 이틀 연속 하락세를 기록한 현상\n- 브렌트유가 약 한 달 만에 최저 수준으로 떨어졌으며 WTI 역시 0.38% 하락하며 약세를 보인 수치\n- 미국과 이란 간의 종전 협상에 진전이 보인 것이 유가 하락을 이끌어낸 직접적인 원인\n- 호르무즈 해협의 지정학적 긴장감이 여전히 잠재적인 변수로 남아 있으나 단기적으로는 공급 차질 우려가 완화된 상황\n- 연합뉴스TV, 이투데이, 한국NGO신문, 브릿지경제, YTN, 뉴스1 등 언론들이 일제히 국제유가 하락 소식을 긴급 타전\n\n**💬 핵심 Q&A**\n- **Q. 국내 경제에서 국제유가 하락 수혜주는 어떤 업종이 있는가?**\n  A. 유가가 하락하면 원가 부담이 줄어드는 항공, 해운, 석유화학 등의 업종이 대표적인 수혜주로 꼽힌다. 연료비와 원재료비 절감이 이익 개선으로 이어질 수 있기 때문이다.\n- **Q. 전쟁 종식 협상 외에 국제유가를 하락시키는 다른 주요 원인은 무엇인가?**\n  A. 글로벌 경제 성장세 둔화로 인한 원유 수요 감소 우려와 주요 산유국들의 생산량 정책 등이 복합적으로 작용한다. 특히 수요 측면의 부진은 유가 하방 압력을 높이는 주요인이다.\n- **Q. 호르무즈 긴장이 여전히 변수라는데 유가가 다시 급등할 가능성은 있는가?**\n  A. 중동 지역은 지정학적 리스크가 상존하는 지역이므로 협상에 차질이 생기거나 물리적 충돌이 발생하면 언제든 유가가 반등할 수 있다. 따라서 유가 하락세가 추세로 굳어질지 예단하기는 이르다.\n\n**👀 앞으로 볼 포인트**\n- 미국과 이란의 종전 협상 추가 진행 상황\n- 호르무즈 해협 등 중동 지역의 지정학적 긴장 유지 여부\n- 국제유가 하락세가 국내 물가 및 수혜주에 미치는 영향\n\n<sub>참고: [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85Qzd2eFFiSFBDdDhIeXpQRWIwTnUxZWxXMURqN2FCUVc3ZU93S0hMOVVENG9uNFV0YW9rcnN3OUtxSEVlb2piMUo2bXluWERwb0lLQ016ZHFhWDdlWERvTWdlUTJRSzg?oc=5) / [이투데이](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JMWh6RnpWMFJSTTlqN3RuaVp1WXlwNmNZUXJqLS1tYkprR2xlWURKem84NzdKZTBoVWE2ajU0YzZlNjIxUEZVZWFYVTBGNTNRbDhBaQ?oc=5) / [한국NGO신문](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VdXZNaTdkdjVXb0tXNC1YbmUwMWRmLTNkaGl4OXJ4LW9UUWpHSTlTQWhyVFZ4VVFwMU1GN3AyRnZZWGVNUFlvZndWU2YtMEtzZHZPLTVtYnJpeUVWR2hvVTJJZnpxcHZi?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 제목을 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
+    "newsletter_md": "# 📈 오늘의 경제 뉴스레터\n_2026-11-04 이슈 · 발행 2026-11-04_\n\n🇰🇷 **국내 경제:** `코스피 반등` · `국내 기업 실적` · `부동산 세제개편`\n🌐 **해외 경제:** `뉴욕증시 혼조` · `미국 중간선거` · `국제유가 하락`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 미국 기술주 반등에 코스피 5700선 회복\n> 키워드: 코스피 반등\n\n**📌 무슨 일이 있었나**\n- 미국 기술주 반등의 영향으로 코스피가 상승 출발했으나 장중 상승폭이 축소됨.\n- 인공지능(AI) 서버 수요에 대한 기대감이 작용하여 코스피가 5700선을 회복함.\n- 삼성전자와 SK하이닉스 등 대형 반도체 주식이 장초반 상승세를 기록함.\n- 미국 중간선거를 앞두고 불확실성 완화 기대감이 더해져 반등을 탐색함.\n\n**💬 핵심 Q&A**\n- **Q. 코스피 반등 가능성과 전망은 어떻게 되는가?**\n  A. 미국 기술주 흐름과 인공지능 서버 수요에 따라 지수의 향방이 결정된다. 선거 불확실성이 해소되는 시점이 중요한 변수이다.\n- **Q. 오늘 코스피가 반등한 구체적인 이유는 무엇인가?**\n  A. 미국 증시의 기술주 반등과 AI 서버 수요 확대 기대감이 직접적인 원인이다. 여기에 중간선거를 앞둔 불확실성 완화 심리가 복합적으로 작용했다.\n- **Q. 디시 등 커뮤니티에서 언급되는 급반등 시기를 믿어도 되는가?**\n  A. 온라인 커뮤니티의 예측은 단순한 개인 의견일 뿐이므로 맹신해서는 안 된다. 글로벌 증시 지표와 실적을 객관적으로 확인하는 태도가 필요하다.\n\n**👀 앞으로 볼 포인트**\n- 미국 중간선거 개표 결과 추이\n- AI 서버 관련 반도체 수요 지속성\n- 국내 증시의 장중 상단 저항선 돌파 여부\n\n<sub>참고: [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE8yb051c0s3ZU9tbzh0YnNoX29aRXJ6V1c0SkdVcndCUlpTcHlwOXhOYXdrNXA2U1V5Yks3dUd5NmQ1c21WZ3ZkMDZDUnowQUI5Y2dwcGxzTnY0RkVBbWhzWld6RUcyMV83U0hMbGY1SWY?oc=5) / [주간조선](https://news.google.com/rss/articles/CBMibkFVX3lxTE1fcl94WXhJYUdxRDM3XzJ2eWc0cmxiZEhJUGVBc2RqejdwdmM1Y2phblQ2clR6Y1BsVFVrQUpSRWt2NUIyMkdPLU1xYk5QeXBib1I3VnNteFN3WjRCV2Q4ekZrYm1feGJuNHhCOTJB0gFuQVVfeXFMTV9yX3hZeElhR3FEMzdfMnZ5ZzRybGJkSElQZUFzZGp6N3B2YzVjamFuVDZyVHpjUGxUVWtBSlJFa3Y1QjIyR08tTXFiTlB5cGJvUjdWc214U3daNEJXZDh6RmtibV94Ym40eEI5MkE?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kdmxLYlo0VGdrcjZUOXJrdDZIdWMwMVNMa3diSXk0TENubnVNT2g1aHp5Yi0yVnhjVUF4Tm82Y0JuYWVpZkVrb1VsQzhPMllISGlXUXdjeVg3VW_SAWBBVV95cUxNVG1qNnczbjdFbjhJam1rNVZSS3NCUENXeDV3YWloS3BuWFRUVDJOSmZtMk9hQmRrY0tOWGt2a2FmV3JKaWpuMWlCYnNvS3VWMThHVXJka1V6NUVBaG56aWY?oc=5)</sub>\n\n---\n\n### 2. 반도체 호황과 전문의약품 성장에 3분기 실적 개선\n> 키워드: 국내 기업 실적\n\n**📌 무슨 일이 있었나**\n- 반도체 호황으로 관련 기업들의 이익이 급증했으나 노동 보수 비중은 16년 만에 최저를 기록함.\n- 해킹 여파를 털어낸 SK텔레콤의 영업이익이 이전 대비 10배 이상 대폭 증가함.\n- 제약사들은 전문의약품의 판매 호조를 바탕으로 3분기 매출 성장을 달성함.\n- 개인 투자자들은 삼성전자와 SK하이닉스를 매도하는 흐름을 보임.\n\n**💬 핵심 Q&A**\n- **Q. 국내 기업 실적 발표 캘린더는 어디서 확인하는가?**\n  A. 한국거래소나 각 증권사의 전자공시시스템을 통해 주요 기업의 실적 발표 일정을 조회할 수 있다. 분기별 일정에 맞춰 미리 확인하는 것이 안전하다.\n- **Q. 반도체 호황인데 왜 개미들은 삼성전자와 닉스를 팔고 있는가?**\n  A. 단기 주가 변동성에 따른 차익 실현이나 미국 기술주 추이를 관망하려는 심리가 작용했을 수 있다. 실적 발표 이후의 수급 변화를 지켜볼 필요가 있다.\n- **Q. 기업 이익이 늘었는데 노동 보수 비중이 낮아진 이유는 무엇인가?**\n  A. 매출과 영업이익 증가 폭에 비해 임금 총액의 상승 속도가 상대적으로 더디기 때문이다. 기술 집약적 산업 구조의 변화가 복합적으로 작용한 결과이다.\n\n**👀 앞으로 볼 포인트**\n- 주요 기업의 4분기 실적 발표 일정\n- 반도체 소부장 기업의 주가 회복세\n- 개인 투자자의 수급 유입 시점\n\n<sub>참고: [뉴스핌](https://news.google.com/rss/articles/CBMiXEFVX3lxTE00Rlc5NGZqQ1FHbWdFOF9XS3EwNlN4YXR1SG1jTGpHMWMyUFpNaEY5V29ldkZvOXhUWTdMZ0NWUWNJNTVIQ2NWTEdxdlMtWTlJTkdjQzJucU52NGx2?oc=5) / [뉴시스](https://news.google.com/rss/articles/CBMieEFVX3lxTE1XMmI3S3MwT1Rwc1VKQ2xNVFBiZVVLTzUwbGs1TUY1N2k0X25ITFJNS3k4YUw0bUdRS3oyUUNFamJld1B0ZlczT2d6dWd1d3hrODc4dDBuNDZ5TVRJN1dHXzczUTZNdTY4Zjgxd3BZVmY0T1hzNGgtRtIBeEFVX3lxTE1XMmI3S3MwT1Rwc1VKQ2xNVFBiZVVLTzUwbGs1TUY1N2k0X25ITFJNS3k4YUw0bUdRS3oyUUNFamJld1B0ZlczT2d6dWd1d3hrODc4dDBuNDZ5TVRJN1dHXzczUTZNdTY4Zjgxd3BZVmY0T1hzNGgtRg?oc=5) / [인더뉴스](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfN3ZIS3FlNElFT2dhUXIwQmhLY3dMYlpMS0xyNlZuZ0JobUd3c1hJazYxRFV4bkEzU2Q1NWJmSGNURmRKdDlSOWw0N2hpejRGZGl4ejVUZ05SZWUzVFZUR04ydnk?oc=5)</sub>\n\n---\n\n### 3. 종부세 개편 공청회 개최, 실거주 중심 과세 공방\n> 키워드: 부동산 세제개편\n\n**📌 무슨 일이 있었나**\n- 종합부동산세를 보유 주택 수 기준이 아닌 가액 기준으로 전환하는 실거주 중심의 세제 개편이 추진됨.\n- 부동산 세제 개편안 공청회에서 징벌적 과세라는 비판과 담세력 반영이라는 찬성 입장이 맞섬.\n- 실거주 목적이 아닐 경우 세부담이 급격히 증가하는 구조로 인해 셈법이 복잡해짐.\n- 용산구 등 지자체에서 구민들을 대상으로 부동산 세제 개편 설명회를 개최함.\n\n**💬 핵심 Q&A**\n- **Q. 부동산 세제개편안이 통과되면 내 집 세금은 어떻게 바뀌는가?**\n  A. 주택 수 중심에서 가액 중심으로 과세 기준이 바뀌어 다주택자 중과 여부와 실거주 여부가 핵심 변수가 된다. 본인의 보유 주택 가치와 거주 형태를 대입해 세부담을 계산해야 한다.\n- **Q. 징벌적 과세와 담세력 반영의 차이는 무엇인가?**\n  A. 징벌적 과세는 투기 억제를 위해 다주택자에게 무거운 세금을 매기는 방식이다. 반면 담세력 반영은 실제 세금을 낼 수 있는 경제적 능력에 맞추어 공정하게 과세하자는 개념이다.\n- **Q. 공동명의 주택 소유자는 세제 개편의 영향을 받는가?**\n  A. 개편안의 세부 내용에 따라 공동명의 공제 방식이나 종부세 산정 기준이 달라질 수 있다. 관련 PDF 안내서나 공식 발표 자료를 꼼꼼히 살펴봐야 한다.\n\n**👀 앞으로 볼 포인트**\n- 부동산 세제개편안 최종 확정 발표일\n- 공동명의 과세 방식 변경 여부\n- 국회 입법 과정에서의 여야 공방\n\n<sub>참고: [이로운넷](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UUmU4YjFKbnhRVWxKbXdqZEJVTFNucGpKMFN0dXJvNDBPNWNEN3IzUi1QM2k3ZmNBUGlTV1R1MG44RkVkRzVfRnRLck1NSGNHdndmVmJMWEVleFp3MUdsVzZIRU9aZw?oc=5) / [Daily NTN](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mN2RGSWN5V21mZU8zQUFMQU1lUGMzeGZNdmhhWTNvUW5kTUowSnh2R2VMa0lBcGlSZHhvUC1CRlFWYUltSFEyM2ViMVBrSmkzOUJyay10RE9lX2pVRmxUQUJ2NU0?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE9kNlJKRG1BR2NFbVJtS0xzanQ3dEIwVkZVNHpVUDdkanFmX3R0bWREbktKT1JmRFhCSi0xbFNHb1RRcHhPdXppalRuU3lnclBBTnROLWlRVk9XS09JUGs0VnVxSWpJSlRxQXNJbUtxQUc?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 미국 중간선거 경계감에 나스닥 중심 혼조 마감\n> 키워드: 뉴욕증시 혼조\n\n**📌 무슨 일이 있었나**\n- 미국 중간선거를 앞둔 경계감과 불확실성으로 인해 뉴욕증시가 혼조세를 기록함.\n- 반도체 및 인공지능(AI) 관련 주식들이 반등 흐름을 보이면서 나스닥 지수는 상승함.\n- 주요 기업들이 중간선거 결과와 맞물려 중요한 시장 시험대에 직면함.\n- 투자자들이 선거 개표 결과를 주시하며 관망세를 유지함.\n\n**💬 핵심 Q&A**\n- **Q. 뉴욕증시 혼조세가 국내 증시에는 어떤 영향을 주는가?**\n  A. 미국 기술주와 반도체 주가가 나스닥 상승과 함께 움직일 때 국내 코스피에도 긍정적 자극을 준다. 다만 선거 불확실성이 해소될 때까지 변동성에 유의해야 한다.\n- **Q. 중간선거가 왜 뉴욕증시에 불확실성으로 작용하는가?**\n  A. 선거 결과에 따라 향후 정부의 예산안이나 규제 정책 방향이 완전히 달라지기 때문이다. 정책 변화에 민감한 기업들의 주가가 일시적으로 흔들린다.\n- **Q. AI 기업들이 시험대에 올랐다는 것은 무슨 의미인가?**\n  A. 높아진 기대치에 부합하는 실적과 성장세를 증명해야 하는 시점임을 뜻한다. 투자자들은 실제 수익 창출 능력을 엄격하게 평가하고 있다.\n\n**👀 앞으로 볼 포인트**\n- 미국 중간선거 최종 개표 결과\n- AI 관련 기업의 실적 및 주가 지속성\n- 뉴욕증시 주요 지수의 변동성 폭\n\n<sub>참고: [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LMDhvcGticFZVeDF5ekdHUVVZbUFLaFpfdVUxV0dtWFdLTkx3bEl2RTlBSS1HWE9SaVd4Rjg4cHhuRTd0djZzSnBPTDY2VUdqVlFNWE40eXZ4c2lZakcxeWgzVUszSjg?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTFBwczhTTmpSTXpCdTZNTmMzeUM0cmxBYXRPVUpzZEZVcEw4NmI1SGVpeXlmLThJNFViM0dDQmxlbXNNTWROcEplT3VLRG1zenlOVXoyY3N1emc5WUE2a0d6cGNnVjFNY1AxTmlNSi1vZFo?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iZzhVV0hmTTVQWjlQNjhhVGFLc1ZRbC1SRFdtelZPYi1SMHRVRGE2eHh4RW9WbDdRUGFkM1FMa1pjWjMydXprRkFJYjl2dTBwTW05YnJ0cHgxMEnSAWBBVV95cUxONlBLN2JPUG1MXzhsUkNhZ2VkNXRwS1Etc3h2eXVZQW96ZlF5S2NEQzFVbVlUdlQtYklYMXpLVzN4NTNMSjFJZHB4cEZpX0Z6eHdjeFNmVkFxeVJiN0MxVkQ?oc=5)</sub>\n\n---\n\n### 2. 미국 중간선거 개표 시작, 민주당 초반 우세\n> 키워드: 미국 중간선거\n\n**📌 무슨 일이 있었나**\n- 트럼프 정부에 대한 중간평가 성격을 띤 미국 중간선거의 공식 개표가 시작됨.\n- 개표 초반 출구조사와 초기 개표 결과 민주당이 우세를 점하는 양상을 보임.\n- 강원도민일보 등 보도에 따르면 민주당의 하원 탈환 확률이 높게 점쳐짐.\n- 민주당이 상·하원에서 의석을 추가로 확보할 경우 향후 조사와 탄핵 개시 가능성이 제기됨.\n\n**💬 핵심 Q&A**\n- **Q. 미국 중간선거 결과가 왜 전 세계 경제에 중요한가?**\n  A. 미국 의회 권력이 누구에게 넘어가느냐에 따라 향후 재정 정책과 대외 무역 정책이 바뀐다. 이는 글로벌 환율과 증시 흐름에 직접적인 파장을 일으킨다.\n- **Q. 중간선거의 뜻과 임기 주기는 어떻게 되는가?**\n  A. 대통령 임기 4년의 중간 지점에 치러지는 국회의원 선거를 의미한다. 하원의원 전원과 상원의원의 일부를 새로 선출하여 행정부를 견제하는 역할을 한다.\n- **Q. 하원 탈환이 이루어지면 트럼프 정부에 어떤 타격이 오는가?**\n  A. 의회 입법 주도권을 잃게 되며 행정부 견제와 청문회 및 조사 활동이 강화된다. 국정 운영 동력이 약화될 수 있어 금융시장이 민감하게 반응한다.\n\n**👀 앞으로 볼 포인트**\n- 미국 중간선거 최종 승패 결과\n- 상원 및 하원 권력 구도 변화\n- 선거 이후 미국 정치권의 정책 기조\n\n<sub>참고: [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tRE1IQk5nMV9yS0FUOVQ5OFppVzM3T0V2LXFva0lJNjJNaldBdG0tM1pOU1NqUVlKRkx4bkJEWHlpYlRBdFBKVGZwRWFJdkU1SGxEcl9xVFlQdG9nbTJBVE0tYmd3S0U?oc=5) / [MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTE5HclZqS0thR2Exb0h1TFN4WDM2cGwxb3gyTWdzc0czZkdJZldnTjlNUzdMZnY3YnlVT3RWZlFVM2pxQ0dXTVZxckswOUItZnczV3g5MXU5Z2hUem1zVHdhMmJRdkx4cjNOdk9oSDZTY0tOR0Js0gF0QVVfeXFMUEtXWU1ybjJpUkswUkR1XzNyT1E3NXlHbnNJUXJ0RG5DMjhHQ1F6UE5KQ0U5Wlp2QkpOWnFaby1ESGRsVXlVMFdFVmVFT1pzZFdsSmZDV19XM0lBamVHUlc1Q0pQX1lDMll6aXlnQWR0bng0YmY?oc=5) / [중앙일보](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxTWdTbmstOGs4UzlTUW9BZE00VmdHR29fbHM2WlJ4MHUtME9fQjd0MHl0blBRMjZ0VU5KVWVPMTc3eEQyS3N0QWR6TDFmN3pSTFhZX1FB?oc=5)</sub>\n\n---\n\n### 3. 종전 협상 기대감에 국제유가 한 달 만에 최저 하락\n> 키워드: 국제유가 하락\n\n**📌 무슨 일이 있었나**\n- 전쟁 종식 협상에 대한 기대감이 높아지면서 국제유가가 이틀 연속 하락함.\n- 미국과 이란의 종전 협상 진전 소식에 힘입어 서부텍사스산원유(WTI)와 브렌트유가 내림세를 보임.\n- 브렌트유는 배럴당 103달러대를 기록하며 한 달 만에 최저 수준으로 떨어짐.\n- 호르무즈 해협의 지정학적 긴장감은 여전히 유가 변동성의 잠재적 변수로 남아 있음.\n\n**💬 핵심 Q&A**\n- **Q. 국제유가 하락 이유와 배경은 무엇인가?**\n  A. 미국과 이란 간의 전쟁 종식 협상이 진전 조상을 보였기 때문이다. 공급 차질 우려가 완화되면서 원유 매도 물량이 출회되었다.\n- **Q. 유가 하락이 내 지갑과 생활에는 어떤 수혜를 주는가?**\n  A. 석유 제품 가격 안정으로 이어져 운송비나 물류비 부담이 줄어드는 효과가 있다. 다만 환율이나 다른 원자재 가격 변동도 함께 살펴봐야 한다.\n- **Q. 호르무즈 긴장이 변수라는 것은 무슨 뜻인가?**\n  A. 중동 지역의 지정학적 위험이 완전히 해소되지 않아 언제든 공급 불안이 재발할 수 있음을 의미한다. 유가가 다시 반등할 가능성을 열어두어야 한다.\n\n**👀 앞으로 볼 포인트**\n- 미국과 이란의 종전 협상 추가 진전 여부\n- 호르무즈 해협의 군사적 긴장 상태\n- 국제유가 하락에 따른 수혜 업종 주가\n\n<sub>참고: [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85Qzd2eFFiSFBDdDhIeXpQRWIwTnUxZWxXMURqN2FCUVc3ZU93S0hMOVVENG9uNFV0YW9rcnN3OUtxSEVlb2piMUo2bXluWERwb0lLQ016ZHFhWDdlWERvTWdlUTJRSzg?oc=5) / [이투데이](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JMWh6RnpWMFJSTTlqN3RuaVp1WXlwNmNZUXJqLS1tYkprR2xlWURKem84NzdKZTBoVWE2ajU0YzZlNjIxUEZVZWFYVTBGNTNRbDhBaQ?oc=5) / [한국NGO신문](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VdXZNaTdkdjVXb0tXNC1YbmUwMWRmLTNkaGl4OXJ4LW9UUWpHSTlTQWhyVFZ4VVFwMU1GN3AyRnZZWGVNUFlvZndWU2YtMEtzZHZPLTVtYnJpeUVWR2hvVTJJZnpxcHZi?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 제목을 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
     "generation_mode": "gemini"
   },
   "yesterday": {
@@ -2948,5 +2964,5 @@
     "newsletter_md": "# 📈 오늘의 경제 뉴스레터\n_2026-10-29 ~ 2026-11-04 이슈 · 발행 2026-11-04_\n\n🇰🇷 **국내 경제:** `코스피 급락` · `수출 9천억 달러` · `부동산 세제 개편`\n🌐 **해외 경제:** `미 연준 금리 동결` · `뉴욕증시 기술주 투매` · `국제 유가 급락`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 코스피, 미국발 AI 쇼크와 대형주 부진에 3%대 급락\n> 키워드: 코스피 급락\n\n**📌 무슨 일이 있었나**\n- 미국발 인공지능 쇼크와 알파벳의 실적 충격 여파로 매도 사이드카가 발동되며 코스피가 3.6% 하락하는 급락세를 기록함.\n- 삼성전자가 실적 발표 이후 4% 넘게 급락하고 주요 기술주들이 약세를 보이며 지수가 6천 선을 다시 하회함.\n- 미국 기술주 하락의 직접적인 영향에 더해 미·이란 전쟁 위기 우려까지 겹치면서 투자 심리가 급격히 위축됨.\n- 유가 급락에도 불구하고 AI 투자에 대한 근본적인 불안감이 해소되지 못하면서 코스피 5,700선까지 후퇴함.\n- 유가증권시장의 거센 하락 압력 속에서 코스닥 지수 역시 4% 이상 동반 하락하며 시장 전반에 큰 충격을 줌.\n\n**💬 핵심 Q&A**\n- **Q. 코스피 급락의 결정적인 이유는 무엇인가?**\n  A. 미국발 인공지능 쇼크와 알파벳의 충격적인 실적 발표가 국내 대형 기술주 매도세를 자극했기 때문이다. 여기에 미·이란 전쟁 위기까지 고조되면서 투자 심리가 악화된 결과이다.\n- **Q. 주식 시장에서 말하는 매도 사이드카란 어떤 상황을 의미하는가?**\n  A. 선물 가격이 급락하여 현물 시장에 미치는 충격을 완화하기 위해 프로그램 매도 호가를 일시적으로 정지하는 제도이다. 시장의 극단적인 불안과 투매 현상을 방지하기 위해 발동된다.\n- **Q. 이러한 급락 장세에서 투자자는 자산 관리를 어떻게 접근해야 하는가?**\n  A. 지수 변동성이 극심할 때는 감정적인 대응을 자제하고 보유 자산의 리스크를 점검할 필요가 있다. 단기적인 주가 등락에 흔들리기보다 글로벌 매크로 지표와 기업 본질을 차분히 살펴야 한다.\n\n**👀 앞으로 볼 포인트**\n- 미국 기술주 추가 하락 여부와 글로벌 AI 투자 심리 회복 가능성\n- 중동 지정학적 리스크 전개 양상과 국내 대형주 실적 추이\n- 국내 증시의 외국인 자금 이탈 규모와 지수 방어선 지지 여부\n\n<sub>참고: [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84dHc5c0djTUZPSHkzc2pJUlFSVTRKYk9CLS1ZZHI0MEpkTE5mT1ZkTWxIRHdRRmlVVnZCQ2pzUkw3SE92V1lCREM0ZGxTaVJXSHZtM09qMWVrWnJrc1JFeGJZWUJxYTg?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE43ZnVqNVRGUVg5X240cXFxd24wYWJDYnJjZVN0ZnVwclJ4LWpEOUlzanRJbnJMOUxibHRueHNfeklXc0l1YVV4LXlOLXZYSnpNeUlITnRvd2g4Rm80Z1lXSHItLVUxUmgtQnYwNVRyQ0Q?oc=5) / [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TVE5jVFhOMWIycE12VVd1S3JqYmV1aXM1d0tyYkRHTnZqVWUwSl9oYVA0WV82TFFRSl9SdGVhR2FrSmNoN3BVYzh1cXVnY1FPT2tNOTNycGtFRWc?oc=5)</sub>\n\n---\n\n### 2. 한국 수출, 사상 첫 9천억 달러 돌파하며 1조 달러 눈앞\n> 키워드: 수출 9천억 달러\n\n**📌 무슨 일이 있었나**\n- 반도체 수출의 급증세에 힘입어 1월부터 10월까지의 누적 한국 수출액이 사상 최초로 9천억 달러를 돌파함.\n- 10월 한 달 동안만 1천153억 달러를 기록하며 연간 기준 꿈의 1조 달러 달성 전망을 매우 밝게 만듦.\n- 이번 성과로 한국은 미국, 중국, 독일과 함께 세계에서 네 번째로 큰 수출 규모를 기록하며 위상을 공고히 함.\n- 정부와 대통령실은 사상 첫 9천억 달러 돌파 소식을 전하며 국가 경제의 저력을 강조하고 관계자들을 격려함.\n- 주력 품목인 반도체를 중심으로 한 수출 호조가 지속되면서 11월 중순 이후 1조 달러 고지 달성이 확실시됨.\n\n**💬 핵심 Q&A**\n- **Q. 수출 9천억 달러 돌파가 내수 경기나 일반 가계 경제에 미치는 영향은 무엇인가?**\n  A. 국가 전체의 외화 획득과 무역 흑자 확대는 거시 경제 지표를 개선하고 국가 신인도를 높이는 긍정적 요인이다. 다만 체감 경기로 이어지기까지는 고용과 내수 소비로의 온기 확산이 필요하다.\n- **Q. 수출 1조 달러라는 수치가 글로벌 경제에서 가지는 의미는 무엇인가?**\n  A. 세계에서 손꼽히는 무역 강국 지위를 유지하고 있음을 증명하는 핵심 지표이다. 미·중·독에 이어 세계 4위 규모의 무역 대국 반열에 올라선 것을 의미한다.\n- **Q. 앞으로 수출 증가세를 유지하기 위해 주목해야 할 경제적 변수는 무엇인가?**\n  A. 글로벌 반도체 업황의 사이클과 주요국의 보호무역주의 정책 변화를 주시해야 한다. 환율 변동성과 공급망 안정성도 수출 실적에 큰 영향을 미치는 핵심 변수이다.\n\n**👀 앞으로 볼 포인트**\n- 11월 중 연간 수출 1조 달러 최종 달성 여부와 주력 품목 실적\n- 글로벌 교역량 변동 및 주요 교역국(미·중·독)과의 수출 경쟁 구도\n- 반도체 외 기타 산업군의 수출 견인차 역할 지속 여부\n\n<sub>참고: [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Ub0d3eGg0OVNSa3IwTkFnZW8yN0w4TXN2VTlsaVI2T2JTeUpiWm5UX1V1VjA5dEMzMmVxZkNLaTNNdkNkU2NrOVpBUTNWTzZmNG1fb05JcDZSbnpVODFsMTk4YXlGRGM?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XTk53MnNnTHkzWEx3Wm5ldTA0NmZ6WHR4VXZ4NF9NOHZjeldsdjYtQlh6X0RaT3QtcUxnQ3JZNk1IZGgyVDJKbjgxQV9TOFJMSmhPZEJXMUR1VTTSAWBBVV95cUxQTzhwT1h1dDlfOGg0dk9IUnQzZGdHekdVV1RmUHREeUFHVm9vU0pYbWV2cmZCSFZuQVNVdEptVGc1VEJHMUhYUDhBWDJQYWVSVVY2NkNLZ1lEMFFKOXJkWVE?oc=5) / [JTBC](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDeXlFYUtXckUzVjhuUEZMMGFpLVBwOUpBTzlSSURORjlQNnFwZHNjQWUxRmRPZWhCN1cyMllFdjFwLVhFSnkxdnJfcXVsd0pERkxzag?oc=5)</sub>\n\n---\n\n### 3. 부동산 세제 개편안 공청회 개최, 실거주 요건 두고 팽팽한 공방\n> 키워드: 부동산 세제 개편\n\n**📌 무슨 일이 있었나**\n- 정부와 국회가 추진하는 부동산 세제개편안을 두고 징벌적 과세라는 비판과 담세력 반영이라는 주장이 맞서 공방이 벌어짐.\n- 실거주 여부에 따라 세부담이 크게 껑충 뛰는 구조를 두고 주거 안정 목표라는 당위성과 세금 폭력이라는 반발이 팽팽히 대립함.\n- 국회 심사 과정에서 비거주 1주택자의 보호 범위를 어떻게 설정할지가 이번 개편안의 가장 핵심적인 쟁점으로 부각됨.\n- 실거주를 중시하는 정책 방향성의 타당성을 인정하는 의견과 함께 선량한 납세자에게 과도한 짐을 지운다는 지적이 제기됨.\n- 안 살면 세금 혜택이 줄어드는 1주택자 규제 조항을 포함한 세제개편안 보도자료를 바탕으로 구체적인 입법 심사가 돌입함.\n\n**💬 핵심 Q&A**\n- **Q. 부동산 세제 개편안이 1주택 실거주자와 비거주자의 세금에 미치는 영향은 어떻게 되는가?**\n  A. 실거주 목적의 1주택자는 세제 혜택이 유지되거나 보호받는 반면, 실거주하지 않는 비거주 1주택자는 세부담이 대폭 늘어날 수 있다. 주거 안정성을 높이고 투기 수요를 차단하려는 목적에서 설계되었다.\n- **Q. 이번 세제 개편안을 둘러싼 전문가들의 핵심 쟁점은 무엇인가?**\n  A. 주거 안정과 담세력 반영이라는 명목으로 세부담을 강화해야 한다는 입장과, 재산권 침해 및 징벌적 과세라는 주장이 충돌하고 있다. 특히 거주 여부에 따른 차등 과세의 형평성이 주된 쟁점이다.\n- **Q. 개편안 시행을 앞두고 부동산 소유자들이 주의해야 할 점은 무엇인가?**\n  A. 자신의 주택 보유 형태가 실거주 요건에 부합하는지 2026년 기준 개편안 원문과 보도자료를 통해 정확히 확인해야 한다. 향후 세부담 시뮬레이션을 미리 파악하고 정책 변화에 대비할 필요가 있다.\n\n**👀 앞으로 볼 포인트**\n- 국회 심사 과정에서 비거주 1주택자 보호 범위 수정 여부\n- 여야 합의를 통한 최종 부동산 세제개편안 확정 시기\n- 세부담 변동에 따른 주택 시장 매물 출하 및 가격 반응\n\n<sub>참고: [Daily NTN](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mN2RGSWN5V21mZU8zQUFMQU1lUGMzeGZNdmhhWTNvUW5kTUowSnh2R2VMa0lBcGlSZHhvUC1CRlFWYUltSFEyM2ViMVBrSmkzOUJyay10RE9lX2pVRmxUQUJ2NU0?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE9kNlJKRG1BR2NFbVJtS0xzanQ3dEIwVkZVNHpVUDdkanFmX3R0bWREbktKT1JmRFhCSi0xbFNHb1RRcHhPdXppalRuU3lnclBBTnROLWlRVk9XS09JUGs0VnVxSWpJSlRxQXNJbUtxQUc?oc=5) / [매일경제](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BeXVOc3pMejV5Rm1NaHlJSGQtdTR5MEcxQ216Q1c1cGFoTzZjYVYwSldXcFUzSnN4SERqQ3pBZ3V4TzNGUHFPSDlWUW1QWlBvend0VFc2UE0?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 미 연준, 기준금리 동결하며 숨 고르기…12월 인상 가능성 대두\n> 키워드: 미 연준 금리 동결\n\n**📌 무슨 일이 있었나**\n- 미 연방준비제도가 기준금리를 3.75~4.00% 수준으로 동결하며 통화 정책의 속도 조절과 숨 고기에 돌입함.\n- 금리 동결 결정과 함께 향후 회의 횟수를 줄이기로 하면서 시장 일각에서는 물가 대응 의지가 약화되었다는 평가가 나옴.\n- 회의 직후 연준 관계자가 12월 회의를 예단하지 않는다고 밝혔으나 금융시장에서는 12월 추가 인상 가능성에 무게를 둠.\n- 미국의 금리 동결 조치에도 불구하고 한국은행이 11월 기준금리를 인상할 가능성이 높다는 전망이 제기됨.\n- 글로벌 빅테크 기업들의 실적 희비가 엇갈리는 가운데 연준의 신중한 금리 정책이 금융시장의 변동성 요인으로 작용함.\n\n**💬 핵심 Q&A**\n- **Q. 미 연준이 기준금리를 동결했는데도 한국은행이 금리를 올릴 수 있는 이유는 무엇인가?**\n  A. 미국이 금리를 동결하며 숨 고기에 들어갔더라도 국내 인플레이션 압력이나 가계부채, 환율 안정을 위해 한국은행이 독자적으로 금리 인상을 단행할 수 있기 때문이다. 국가별 경제 상황과 물가 지표가 다르기 때문에 정책 디커플링이 발생한다.\n- **Q. 기준금리 동결과 추가 인상 가능성이 대출을 받은 개인의 이자 부담에 미치는 영향은 무엇인가?**\n  A. 금리가 당장 동결되었더라도 시장 금리가 높은 수준을 유지하거나 추가 인상 압박을 받으면 주택담보대출이나 신용대출의 이자 부담이 가중된다. 변동금리 차주라면 향후 금리 경로를 주의 깊게 모니터링해야 한다.\n- **Q. 연준이 금리 결정 회의 횟수를 줄이는 이유는 무엇을 의미하는가?**\n  A. 경제 지표 발표 주기에 맞춰 통화 정책의 효율성을 높이고 불필요한 시장 혼선을 줄이려는 의도가 담겨 있다. 다만 시장에서는 통화 당국의 물가 대응 기조를 더 신중하게 해석하려는 경향이 나타난다.\n\n**👀 앞으로 볼 포인트**\n- 12월 미 연방공개시장위원회 회의에서의 추가 금리 인상 여부\n- 미 연준의 향후 통화 정책 방향성과 금리 인하 또는 인상 속도\n- 한국은행의 11월 기준금리 결정 및 국내 시장 금리 파급 효과\n\n<sub>참고: [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lVkwzWjFqVzN4MVdWMkZHbDhqWXdvMGtSZTdBbDlNcFZhVEhZZXlVSTZMQWpZcXNxN2dVZ1pEaFMyVTFBM2E0ck5oVTlvX09LRmllbkU3a0JnMGU4aDVaa0ZKZG9TVTQ?oc=5) / [중앙일보](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHZEtyVWU0anhfTG1kWmZsbG5FUC1abVlsek1zMlRGMHRRbDJWTjVsc2t4SEt1a1YwazNleHh1MS1xU1RmdXExSzZaU2xvSDU2dm8tUk1R?oc=5) / [조선일보](https://news.google.com/rss/articles/CBMijgFBVV95cUxNa3VDclZVWlpTeFNSVFF6Rm45WWkxcHFSUURzcGVId18wSXpYdko5akFadlp1UU1vYkFjUk5VVGNLbWtoNUJQNjB1ZC1DRlRRbDJNdU03TTBaYlc5OENKU2IzdkZEbkhzQzY2c2RKMFQwTFhUZHRsV2wzdVZsM2ZEdkJVbU9HLWRfakF1bElR?oc=5)</sub>\n\n---\n\n### 2. 아마존·알파벳 쇼크 여파, 뉴욕증시 기술주 전방위 투매 발생\n> 키워드: 뉴욕증시 기술주 투매\n\n**📌 무슨 일이 있었나**\n- 아마존과 알파벳의 실적 쇼크 여파로 인해 뉴욕증시 전반에 대규모 기술주 투매 현상이 발생함.\n- 알파벳 주가가 12% 급락하고 인텔 주가가 28.58% 폭락하는 등 주요 기술 기업들이 큰 타격을 입음.\n- 필라델피아 반도체지수가 7.20% 급락하고 나스닥 지수가 747포인트 하락하는 등 일명 검은 금요일 장세를 연출함.\n- 레버리지 반도체 ETF인 속슬 종목이 25% 폭락하는 등 파괴적인 매도 물량이 쏟아짐.\n- 기술주 투매와 함께 국채 금리와 유가는 상승하고 금값은 하락하는 등 자산 시장 전반의 변동성이 극대화됨.\n\n**💬 핵심 Q&A**\n- **Q. 미국 뉴욕증시의 기술주 투매 현상이 국내 증시와 내 자산에 미치는 파급 경로는 무엇인가?**\n  A. 미국 기술주 폭락은 외국인 투자자의 위험 자산 회피 성향을 자극하여 국내 증시의 동반 하락과 원화 약세를 유발한다. 해외 주식이나 국내 반도체 관련 펀드에 투자한 개인의 자산 가치에 직접적인 하방 압력으로 작용한다.\n- **Q. 미국 증시에서 종종 발생하는 투매와 서킷브레이커는 어떤 상황을 뜻하는가?**\n  A. 시장 참여자들의 공포 심리로 인해 주식을 가리지 않고 대거 내다 파는 현상을 투매라고 한다. 서킷브레이커는 주가가 폭락할 때 시장의 과열을 식히기 위해 매매를 일시 정지하는 비상 제도이다.\n- **Q. 이처럼 극심한 변동성과 투매 장세에서 투자자가 취해야 할 마음가짐은 무엇인가?**\n  A. 공포에 매도 동참하기보다 보유 자산의 펀더멘털을 점검하고 포트폴리오의 리스크를 분산해야 한다. 레버리지 상품처럼 변동성이 큰 자산은 손실 위험이 배가되므로 각별한 주의가 필요하다.\n\n**👀 앞으로 볼 포인트**\n- 미국 빅테크 기업들의 주가 하락세가 진정되고 바닥을 다지는지 여부\n- 필라델피아 반도체지수의 추가 하락 위험 및 국내 반도체주 연동성\n- 뉴욕증시 투매 이후 글로벌 증시의 안전자산 선호 심리 변화\n\n<sub>참고: [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTFBOQUM1b0Mzc09CY3J6TnFIODN5SzAteHVXd2duUW04U3JmMDRrbzdrRmFlaVgtdER3R2sxR0U0SzNkejlRbF9jTUV3ZXkxZVZsRzczSVg0ZXFBWTk0LTFqeVFKZm1KX3R5STBETnNIUzE?oc=5) / [글로벌이코노믹](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQWg3MTBHX0w3QWFpLUZCR0FBblhNRmgySVc4VVpDaFhEUG9nVG00Q1JUUWRMNEZpc2h0UjJ1aUFqQ3hXQ1JFem1fYlltcnlFSlhqWnRCd0VjOU9jRkxNZUE1TTJ5R3BrOEhOQ3RIMVprcXF5b2U5UHdPYy1iSDNHYnNLdUN1bXVG?oc=5) / [아시아경제](https://news.google.com/rss/articles/CBMiYEFVX3lxTE83MmNqWWF4SnZ0Q3ZIcTlfTExWUzhXVk10eDh6clBzdjh1ZmM5d0dJVnhrdWlFWGFnSlpVMzNZTGJBN3gtdTNWS0pDSnNKa0h1eks0X0R3ajlkMWJ3dXlRNA?oc=5)</sub>\n\n---\n\n### 3. 미·이란 종전 기대감에 국제유가 7%대 급락, 정유주 타격\n> 키워드: 국제 유가 급락\n\n**📌 무슨 일이 있었나**\n- 미·이란 종전 협상에 대한 기대감이 고조되고 트럼프의 이란과의 합의 가능성 발언이 나오면서 국제유가가 7%대 급락을 기록함.\n- 국제유가가 큰 폭으로 떨어지면서 미국 국채금리가 하락세를 지속해 10년물 금리가 9월 이후 최저 수준을 기록함.\n- 유가 급락의 영향으로 증시 내 정유주들이 더 큰 폭의 하락 마감세를 보이며 투자 심리가 위축됨.\n- 유가가 급락했음에도 불구하고 코스피가 3%대 하락을 기록하는 등 AI 투자 불안감을 완전히 상쇄하지는 못함.\n- 원유 가격 급락과 함께 달러화 약세가 겹쳤으며 미·이란 종전 기대감 덕분에 금값은 2% 반등하는 등 자산별 엇갈린 흐름이 나타남.\n\n**💬 핵심 Q&A**\n- **Q. 국제유가 급락이 일반 소비자의 실생활과 물가에 미치는 영향은 무엇인가?**\n  A. 유가 하락은 원유를 수입하는 국내 경제의 원가 부담을 낮추어 향후 석유제품 가격과 전체 물가 상승률을 안정시키는 데 도움을 준다. 다만 환율이나 세금 구조에 따라 체감까지는 시차가 발생할 수 있다.\n- **Q. 유가가 급락했는데도 왜 정유주 주가는 오히려 더 크게 하락하는가?**\n  A. 정유사는 보유한 원유 재고의 평가 손실이 발생할 수 있고 정제마진 악화 우려가 커지기 때문이다. 유가 하락이 원가 절감에는 유리하지만 단기적으로는 정유 기업의 실적에 부정적인 영향을 미친다.\n- **Q. 지정학적 리스크가 완화될 때 원자재 시장과 안전자산은 어떻게 움직이는가?**\n  A. 전쟁 위기가 줄어들면 공급 차질 우려가 해소되면서 원유 등 위험 자산 가격은 급락하는 경향이 강하다. 반면 불확실성이 줄어들거나 달러화가 약세를 보일 때 금 같은 전통적 안전자산은 반등하기도 한다.\n\n**👀 앞으로 볼 포인트**\n- 미·이란 종전 협상 진척 상황 및 중동 지정학적 리스크의 실질적 해소 여부\n- 국제유가 추가 하락에 따른 국내 정유 및 에너지 관련 주가 흐름\n- 유가 하락이 글로벌 물가 상승률 안정에 미치는 긍정적 파급 효과\n\n<sub>참고: [더구루](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzNEF3M2k2WUdPYy1zZ3lZZWFoeEJsX0NDQUNSYlVIZXpqbHdSTy1jQUdfQ2lyLWdjWGl0dVRUVlNxS3pWUERyQWVTNzRlRUZ0M1FBalc4bWE3d25BcFg5bk1PZw?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyRUxaMHNWM1BLTVdOLXdOUFpvdVpyX29lb1RIY09SdGJlSHlxLXBkM1lELW54bElFclFZTjl4LVFiMDdEX3FBc1NVTFVWRHRzWi0ybWRha0pYSVHSAWBBVV95cUxQSU8tV29OQ0FHQ3VvLXdGWTlRMExwXzVwY0h1TVBJZHRiRFhqSFdFdlFUOFFvOEV4el8wbHIxY2ItMzNpQkhoOWlBZkVDWTV0QUNnaHdnWU1QNkVPU0J0Zm0?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE10V1RNeElnX3ZEMlphenlyeF9JU0pEOUpZYWtFZTA1VnVIM3R4MXpXVnoza3dRTzc1QjFIX0trSjBYLXJzZFgtYjAwZzR3ZkFBalh5RUI5SHNRYVB0VTEtckc1cWdyRmI2eUlHbm5iVDk?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 제목을 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
     "generation_mode": "gemini"
   },
-  "updated_at": "2026-11-04 10:58:20 KST"
+  "updated_at": "2026-11-04 12:53:05 KST"
 }
