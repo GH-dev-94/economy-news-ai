@@ -5,538 +5,942 @@
     "end_date": "2026-11-07",
     "domestic": {
       "keywords": [
-        "코스피",
-        "기준금리",
-        "부동산"
+        "코스피 변동성",
+        "강남 부동산 약세",
+        "국내 반도체 투자"
       ],
       "results": {
-        "코스피": {
-          "headline": "코스피 지수와 SK하이닉스 주가의 향방은",
+        "코스피 변동성": {
+          "headline": "코스피 출렁이자 변동성지수 60선 돌파",
           "facts": [
-            "수집된 기사가 존재하지 않아 코스피 지수의 구체적인 변동 폭이나 거래대금 수치를 현재 시점에서 정확하게 확인하는 것이 불가능함",
-            "투자자들 사이에서 코스피지수와 코스피 주가 흐름을 파악하기 위한 실시간 검색과 지수 관련 정보 탐색이 지속해서 이루어짐",
-            "시가총액 상위 종목인 코스피 하이닉스 주가와 SK하이닉스 관련 실시간 주가 동향에 대한 시장 참여자들의 관심이 매우 집중됨",
-            "주식 시장에 처음 진입하는 투자자들을 중심으로 코스피 뜻과 쉽게 이해하는 기초 용어에 대한 학습 수요가 꾸준히 확인됨",
-            "지수 방향성을 가늠하기 위한 코스피 선물 시장의 움직임과 코스피 코스닥 지수의 상대적인 등락 비교 분석이 수반됨"
+            "미국 반도체주 폭락 여파로 코스피 시장이 급락하면서 코스피 변동성지수가 3개월 만에 60선을 웃도는 기록적인 수치를 나타냄.",
+            "노무라는 향후 3개월 동안 코스피 목표치로 7500~8000을 제시하면서 단기적인 변동성은 불가피할 것으로 전망함.",
+            "주가 하락에 따른 불안감 속에서 개미 투자자들의 계좌를 지키기 위한 다양한 변동성 투자법에 대한 관심이 급증함.",
+            "지속되는 증시 급락으로 인해 투자자들의 불안 심리가 가중되면서 변동성 지표가 가파른 상승 곡선을 그림."
           ],
           "watch": [
-            "외국인과 기관의 코스피 시장 수급 변화",
-            "하이닉스를 비롯한 반도체 대형주 주가 흐름"
+            "미국 반도체주 주가 흐름",
+            "코스피 변동성지수 추가 상승 여부",
+            "외국인 투자자 매매 동향"
           ],
           "qna": [
             {
-              "q": "코스피의 정확한 의미와 구성 종목은 무엇인가?",
-              "a": "코스피는 한국거래소에 상장된 우량 기업들의 주식 가격 변동을 종합적으로 나타내는 대표적인 주가지수이다. 국내 증시에 상장된 모든 보통주를 대상으로 산출하며 한국 경제의 전체적인 주식 시장 흐름을 대변한다."
+              "q": "코스피 변동성 지수는 무엇이고 왜 치솟는가?",
+              "a": "변동성 지수는 시장의 불안 공포 심리를 나타내는 지표이다. 주가가 급락할 때 이 지수가 치솟는다."
             },
             {
-              "q": "초보 투자자가 코스피 선물 시장을 주의 깊게 봐야 하는 이유는 무엇인가?",
-              "a": "코스피 선물은 미래의 특정 시점에 지수를 거래하는 파생상품으로 현물 시장의 방향성을 선행해서 보여주는 경향이 있다. 다만 변동성이 매우 크기 때문에 일반 초보 투자자는 시장의 전체적인 심리를 파악하는 용도로만 참고할 필요가 있다."
+              "q": "변동성 장세에서 내 계좌를 지키는 투자법은 무엇인가?",
+              "a": "급격한 매매를 자제하고 위험 관리 중심의 자산 배분 전략을 세우는 것이 중요하다."
             },
             {
-              "q": "SK하이닉스 주가 변동이 전체 코스피 지수에 미치는 영향은 얼마나 큰가?",
-              "a": "SK하이닉스는 코스피 시장에서 시가총액 비중이 매우 높은 대형 반도체 종목에 해당한다. 따라서 이 종목의 주가 등락은 코스피 전체 지수의 방향성에 직접적이고 강력한 상승 또는 하락 압력을 행사한다."
+              "q": "변동성 지수 ETF는 어떻게 활용해야 하는가?",
+              "a": "지수 변동성을 추종하는 상품으로 단기적인 위험 헤지 수단으로 쓰이지만 변동이 커 주의가 필요하다."
             }
           ]
         },
-        "기준금리": {
-          "headline": "한국과 미국의 기준금리 추이와 시장 영향",
+        "강남 부동산 약세": {
+          "headline": "강남 아파트값 하락 거래 속출의 진실",
           "facts": [
-            "수집된 기사가 존재하지 않아 현재 한국은행과 미국 연준의 구체적인 기준금리 결정 수치나 발표 결과를 확인할 수 없음",
-            "글로벌 경제 환경 속에서 기준금리 미국 동향과 한국의 기준금리 추이를 비교하려는 시장의 관심이 지속해서 유지됨",
-            "기준금리 인상 또는 동화 정책의 방향성이 대출 이자와 자산 시장 전반에 미치는 영향에 대한 분석 수요가 존재함",
-            "기준금리와 국채금리의 상호 관계를 파악하여 시중 유동성의 흐름과 채권 가격의 변동 양상을 해석하려는 움직임이 나타남",
-            "향후 통화정책 방향을 가늠하기 위한 기준금리 발표일 일정과 영어식 명칭 및 기초 개념에 대한 검색이 이루어짐"
+            "강남3구 아파트 시장이 9주째 하락세를 기록하며 원베일리 단지에서 14억 원 하락 거래가 발생함.",
+            "일주일 사이에 강남3구에서 5% 이상 하락한 거래가 16건 접수되었고 일부는 30% 폭락 거래를 보임.",
+            "11월 전국적으로 4만 가구에 달하는 대규모 분양 공급을 앞두고 있어 청약 시장의 긴장감이 높아짐.",
+            "일부 단지에서 급락 거래가 속출하고 있음에도 불구하고 일반 대중이 체감하는 집값 하락세는 제한적임."
           ],
           "watch": [
-            "한국은행 금융통화위원회의 향후 금리 결정",
-            "기준금리 변동에 따른 시중 은행 대출금리 반응"
+            "강남3구 추가 하락 거래 확산 여부",
+            "11월 대규모 분양 물량의 청약 경쟁률",
+            "부동산 시장 통계와 실제 체감 가격의 괴리"
           ],
           "qna": [
             {
-              "q": "기준금리는 내 일상생활과 대출 금리에 구체적으로 어떤 영향을 주는가?",
-              "a": "기준금리가 오르면 시중 은행의 조달 비용이 증가하여 주택담보대출과 신용대출 금리가 연쇄적으로 상승한다. 이는 가계의 원리금 상환 부담을 키우고 소비 여력을 위축시키는 결과를 낳는다."
+              "q": "강남 아파트값이 내린다는데 왜 체감하기 어려운가?",
+              "a": "일부 단지에서 급락 거래가 나오지만 전체 시장으로 확산하는 속도가 더디기 때문이다."
             },
             {
-              "q": "기준금리와 국채금리는 서로 어떤 밀접한 관계를 가지고 움직이는가?",
-              "a": "기준금리는 중앙은행이 결정하는 단기 금리이며 국채금리는 시장에서 거래되는 중장기 금리이다. 기준금리 인상 기대감이 높아지면 국채 매도가 늘어나면서 국채금리도 함께 상승하는 경향을 보인다."
+              "q": "내 집 마련을 미루고 지금 하락장을 기다려야 하는가?",
+              "a": "지역별 수급 상황과 공급 물량을 함께 살피며 신중하게 접근해야 한다."
             },
             {
-              "q": "기준금리 인상이 주식 시장과 부동산 시장에는 어떤 신호로 작용하는가?",
-              "a": "기준금리 인상은 시중의 유동성을 흡수하고 자금 조달 비용을 높이기 때문에 위험 자산인 주식과 레버리지를 활용하는 부동산에 하방 압력으로 작용한다. 다만 이러한 영향은 당시의 경기 둔화 여부와 물가 상승률 등 복합적인 요인에 따라 다르게 나타난다."
+              "q": "11월 대규모 분양 공급이 주택 시장에 미치는 영향은 무엇인가?",
+              "a": "공급 확대가 실수요자의 선택 폭을 넓히며 가격 안정화 요인으로 작용한다."
             }
           ]
         },
-        "부동산": {
-          "headline": "부동산 시세 조회와 매물 사이트 활용법",
+        "국내 반도체 투자": {
+          "headline": "미국 AI 규제 우려에 코스피 5000선 붕괴",
           "facts": [
-            "수집된 기사가 부재하여 특정 지역의 구체적인 아파트 가격 변동률이나 거래량 수치를 파악하는 것이 불가능함",
-            "주택 구입이나 임대차 계약을 준비하는 수요자들이 부동산 네이버 및 부동산114 같은 주요 플랫폼을 적극 활용함",
-            "정확한 부동산 시세 조회 방법을 통해 실거래가와 호가를 비교하고 시장의 가격 흐름을 파악하려는 시도가 이어짐",
-            "투명하고 안전한 거래를 유도하기 위한 부동산거래 전자계약시스템의 활용법에 대한 관심이 꾸준히 증가함",
-            "부동산 뜻과 기초적인 시장 참여 구조를 이해하려는 초보 수요자들의 정보 탐색 활동이 지속해서 확인됨"
+            "미국의 AI 규제 우려와 반도체 쇼크가 겹치면서 코스피 지수가 장중 5000선 아래로 붕괴됨.",
+            "외국인 투자자들이 하루 만에 2조 8천억 원어치를 매도하며 국내 증시에 큰 충격을 가함.",
+            "삼성전자와 SK하이닉스는 반도체 수요가 여전히 견조하여 없어서 못 판다는 입장을 유지함.",
+            "반도체 소재 분야의 국내 투자가 확대되는 가운데 관련 외국기업이 정부 포상을 수상함."
           ],
           "watch": [
-            "주요 부동산 플랫폼의 매물 수와 거래량 추이",
-            "정부의 부동산 관련 규제 및 정책 변화"
+            "미국 AI 관련 규제 정책의 방향성",
+            "외국인 투자자의 국내 반도체주 순매수 복귀 여부",
+            "삼성전자와 SK하이닉스의 실제 실적 발표"
           ],
           "qna": [
             {
-              "q": "부동산 시세를 조회할 때 네이버나 부동산114 같은 플랫폼의 호가와 실제 거래가는 어떤 차이가 있는가?",
-              "a": "호가는 매도자가 희망하는 가격으로 실제 거래 가능한 가격보다 높게 형성되는 경우가 많다. 반면 실거래가는 실제로 계약이 체결되어 신고된 가격이므로 현재의 정확한 시장 가치를 판단하는 데 더욱 객관적인 지표가 된다."
+              "q": "미국 AI 규제가 왜 국내 반도체주에 타격을 주는가?",
+              "a": "글로벌 AI 투자 심리가 위축되면서 반도체 수출 기업들의 실적 우려가 커지기 때문이다."
             },
             {
-              "q": "부동산거래 전자계약시스템을 활용하면 일반 매수자에게 어떤 실질적인 이점이 있는가?",
-              "a": "전자계약시스템을 이용하면 종이 계약서 대신 온라인으로 안전하게 계약을 체결할 수 있어 문서 위조나 이중 계약 등의 사기 피해를 예방할 수 있다. 또한 주택임대차 신고가 자동으로 처리되고 버팀목 전세대출 등에서 금리 우대 혜택을 받을 수 있다."
+              "q": "외국인이 2조 원 넘게 파는데 개인 투자자는 어떻게 대응해야 하는가?",
+              "a": "단기적인 주가 급락에 동요하기보다 기업의 본질적 실적을 점검하는 태도가 필요하다."
             },
             {
-              "q": "내 집 마련을 고민하는 무주택자가 부동산 매물 사이트를 볼 때 가장 먼저 확인해야 할 점은 무엇인가?",
-              "a": "단순히 호가만 바라보기보다는 동일 단지 내에서 최근 몇 달간 실제로 거래된 가격의 추이를 면밀히 살펴봐야 한다. 아울러 대출 금리 환경과 본인의 상환 능력을 함께 고려하여 보수적으로 자금 계획을 세울 필요가 있다."
+              "q": "삼성과 SK가 반도체 물량이 부족하다고 하는데 주가는 왜 떨어지는가?",
+              "a": "실적과 별개로 글로벌 거시경제 환경과 정책적 불확실성이 주가에 먼저 반영되기 때문이다."
             }
           ]
         }
       },
       "news": {
-        "코스피": [],
-        "기준금리": [],
-        "부동산": []
+        "코스피 변동성": [
+          {
+            "title": "증시급락에 코스피 변동성지수 껑충…3개월만에 60선 웃돌아 - 연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0UVFYbmJRWHoxU082d29tU2ZfMXJ0aWhpenhTenRXQTNTOEdBcC16aUp5cUxrVWRVUFVuSFliTHVqUmhjdEFRWkx5bi1vc25UeC14WHFPemJ5aGZZcV9SMtIBYEFVX3lxTFB0UVFYbmJRWHoxU082d29tU2ZfMXJ0aWhpenhTenRXQTNTOEdBcC16aUp5cUxrVWRVUFVuSFliTHVqUmhjdEFRWkx5bi1vc25UeC14WHFPemJ5aGZZcV9SMg?oc=5",
+            "source": "연합뉴스",
+            "published": "11-06 10:38",
+            "snippet": "증시급락에 코스피 변동성지수 껑충…3개월만에 60선 웃돌아 연합뉴스"
+          },
+          {
+            "title": "증시급락에 코스피 변동성지수 껑충…3개월만에 60선 웃돌아 - 매일경제 마켓",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxM1BfSHJLQnEzcDRIZFBKREtJU0oyT2lvSlVVdnE3Y0V5RkFyYXpwdUpfZDZVenR1YTFkTUlmSWd1VTBKcVRBSHUyQ2dDR1A2VVE?oc=5",
+            "source": "매일경제 마켓",
+            "published": "11-06 10:38",
+            "snippet": "증시급락에 코스피 변동성지수 껑충…3개월만에 60선 웃돌아 매일경제 마켓"
+          },
+          {
+            "title": "노무라, 코스피 3개월 목표 7500~8000 제시…“단기 변동성 불가피” - Chosunbiz",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNlRLYUU3ZmpPaXFvWEFzOXA4bVEyS0NwQU9LUzdhaHBSb2s1UXlETzFTX3ltVXpmdnJ3Yzcxa3kyaXBnd3gyTnUzV0s5SGtZeVp6bkNZeTU0bk1XZXFWRDd4dnIxLXVJcWJWWTRtcEluOXRzYkhhNGpOeVVTNzNLWEZNb1JvQ2dU0gGcAUFVX3lxTE1WRjgtallYRXJSQWt2WGNPMzdRYlZtUEJtZDVjZUU5TmVwNHF0aUNwWXdva2Zpcy1qeDAzRG80eWpKajBCVWhwQ2NOMUFvazRCcVgzV1BfWGFaQmthR3JxY3dfS0QzY25Ecm5uQXFRc1hQMEpxMDVsQ1JyaDdOVHJYQWlDNm1TdUxqQ3hXeDdzelEzaks1T2dETHFlVQ?oc=5",
+            "source": "Chosunbiz",
+            "published": "11-06 14:49",
+            "snippet": "노무라, 코스피 3개월 목표 7500~8000 제시…“단기 변동성 불가피” Chosunbiz"
+          },
+          {
+            "title": "\"내가 사면 떨어진다는 것 인정해라\"…개미 계좌 지키는 변동성 투자법 - 비즈워치",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5eHlvTGhZS1pvQXpwTXphVDc2REVMMVRfRk9ISXVGTThHclltemtNWWk3RkFrU3JhZVlEWG9QZ0tLRkFMNF9wdC0zV1JZR1k2TElNZHZqblVLcGpLbC04d0FZU0ZZYWI5TGc?oc=5",
+            "source": "비즈워치",
+            "published": "11-06 10:23",
+            "snippet": "\"내가 사면 떨어진다는 것 인정해라\"…개미 계좌 지키는 변동성 투자법 비즈워치"
+          },
+          {
+            "title": "코스피 급락에 변동성지수 60선 돌파…3개월 만 - 이데일리",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNGZxTzZvdTlybWFhd3dtbVRUSjNRUkpXcjJTSEhzbVR4RUkxVFdxV3pITF9kWG9GRkg4LWlRMlYtelJBWXpoSGhUNVdQOHVtWTJseHZ0dloxNHMwdEMzR1ZCSTFLb29OQjFsUVBqTDBkelg0ZHFrNVl2NC1HSG9FRQ?oc=5",
+            "source": "이데일리",
+            "published": "11-06 11:06",
+            "snippet": "코스피 급락에 변동성지수 60선 돌파…3개월 만 이데일리"
+          },
+          {
+            "title": "\"美 반도체주 12% 폭락…코스피도 변동성 확대 전망\" - 뉴스투데이",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vU0pMaU40bnpwZkZhU0d5Nk1zSlczd09zellNNUg1TEw1SS0tVU5nUUJPRmRmb0s1ZEsxVFFxdnNFX0tnTHlfMDB5eU9TWHZwU2V2Vm9hS1pwVmNTenc?oc=5",
+            "source": "뉴스투데이",
+            "published": "11-06 09:02",
+            "snippet": "\"美 반도체주 12% 폭락…코스피도 변동성 확대 전망\" 뉴스투데이"
+          }
+        ],
+        "강남 부동산 약세": [
+          {
+            "title": "‘폭락’한다는 강남 아파트, 왜 체감되지 않을까[부동산 취재로그] - 이데일리",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWHlFdmV1SjhBNFpXb0E0amlud2ZFWnFDaEsxR3p1OUs0b3pYS3FSUTEzNHhTUmpORTlNOW41YmwyNWptYUNjckkxcXhQdks2MGJpdXRJa1R5WEpjcEo0U0FNQ0RBTG1qQzBWU2RGVEhRN1ZHMWhFWEp5Q3gxUnNxYg?oc=5",
+            "source": "이데일리",
+            "published": "11-07 07:00",
+            "snippet": "‘폭락’한다는 강남 아파트, 왜 체감되지 않을까[부동산 취재로그] 이데일리"
+          },
+          {
+            "title": "집값 하락 (강남3구만), 틀린 말은 아니지만 - 비즈워치",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BWmhUbW9vWmU3TWx0R1FjdEZNYWhUemdreUU5TjRnRE1CdWlHTUo5X3ZoTTNRb185V2cydXNkREdyOC10OXRIOGstWVhjemVfMEpwOTFDTDFTR2F0eklYUnVJVk1EdnpOMlFqc2s5aEo?oc=5",
+            "source": "비즈워치",
+            "published": "11-07 08:00",
+            "snippet": "집값 하락 (강남3구만), 틀린 말은 아니지만 비즈워치"
+          },
+          {
+            "title": "[통계로 보는 부동산] 강남3구 9주째 하락·분양 전망도 먹구름…11월 4만가구 공급 앞둬 - 아주경제",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aN09DYzJHamtUZzFYNkZoQnFvNXRPLWM1TllMeVlKcktfLWlyYjl2OFUwN3dacVgtZ28wamQySkRYT0ItNmN3VzhlenpNZmRkUjRHSnFSeTbSAVhBVV95cUxPWjdPQ2MyR2prVGcxWDZGaEJxbzV0Ty1jNU5ZTHlZSnJLXy1pcmI5djhVMDd3WnFYLWdvMGpkMkpEWE9CLTZjd1c4ZXp6TWZkZFI0R0pxUnk2?oc=5",
+            "source": "아주경제",
+            "published": "11-07 06:00",
+            "snippet": "[통계로 보는 부동산] 강남3구 9주째 하락·분양 전망도 먹구름…11월 4만가구 공급 앞둬 아주경제"
+          },
+          {
+            "title": "콧대 높던 원베일리 14억 ‘뚝’...강남 아파트값 하락 거래 속출 - 매일경제",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wZWM3eUNuUndTRlNRVnJIVUtSOGNsdXczVzJDTi0yQVVzXzZkZi1UZU4zdXVSeGhtaFVEQmRFWkw3R0lPQXBiMzhHSEpBbVRNNndzblJ3?oc=5",
+            "source": "매일경제",
+            "published": "11-06 16:09",
+            "snippet": "콧대 높던 원베일리 14억 ‘뚝’...강남 아파트값 하락 거래 속출 매일경제"
+          },
+          {
+            "title": "강남3구서 일주일 새 5% 이상 하락거래 16건…30% 하락도 - 뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjT19qOUR6d29uTjJDRXRTS3FxVENGczVTdjFzQWJVWkoyWF9FeUpyRXY3QmVIM0lJWFozSmVGelo1clBuUGlhcTdSWEkxNmU4SnBmdlpmUnhyaEVrbWFFNUxfLXZuUWJlSFRXakpLZWpxdzlNNS1kZdIBeEFVX3lxTFBjT19qOUR6d29uTjJDRXRTS3FxVENGczVTdjFzQWJVWkoyWF9FeUpyRXY3QmVIM0lJWFozSmVGelo1clBuUGlhcTdSWEkxNmU4SnBmdlpmUnhyaEVrbWFFNUxfLXZuUWJlSFRXakpLZWpxdzlNNS1kZQ?oc=5",
+            "source": "뉴시스",
+            "published": "11-06 09:55",
+            "snippet": "강남3구서 일주일 새 5% 이상 하락거래 16건…30% 하락도 뉴시스"
+          },
+          {
+            "title": "11월 둘째 주 '5215가구' 청약… 평택·수원·시흥 등 경기권 집중 - 머니투데이 - 머니투데이",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pSE1XOW9HZFJxUzhSSXNoMHpzUWw4eGcxcTZwb0c1cnBXTE5JZ3NUVGZtWm02alNLQVlUYl9walR0TlRLMGp3N2xqcENtY1RMOFRUSGlhQUR5ZEhoQnRHWWdQX0N4Z3VKZ3F3N3VJNNIBb0FVX3lxTE1pSE1XOW9HZFJxUzhSSXNoMHpzUWw4eGcxcTZwb0c1cnBXTE5JZ3NUVGZtWm02alNLQVlUYl9walR0TlRLMGp3N2xqcENtY1RMOFRUSGlhQUR5ZEhoQnRHWWdQX0N4Z3VKZ3F3N3VJNA?oc=5",
+            "source": "머니투데이",
+            "published": "11-06 15:49",
+            "snippet": "11월 둘째 주 '5215가구' 청약… 평택·수원·시흥 등 경기권 집중 - 머니투데이 머니투데이"
+          }
+        ],
+        "국내 반도체 투자": [
+          {
+            "title": "반도체 소재 분야 국내 투자 확대… 외국기업의 날 정부 포상 수상 - 올포칩",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCRGFERzd2enNPYzFFUklUdnJYQUNsZFMxbDY4V3BDNWd0X3pPNjBsMHFPaWdjdUFGT29JeDA0UVhUbG91WlZkeExJZ19SNnFmeXMyRXlINnc3M0lXOVNIVA?oc=5",
+            "source": "올포칩",
+            "published": "11-07 03:15",
+            "snippet": "반도체 소재 분야 국내 투자 확대… 외국기업의 날 정부 포상 수상 올포칩"
+          },
+          {
+            "title": "국내복귀 포럼, 기업과 지역 잇는 투자유치 플랫폼으로 진화 - 헬로티",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CU0xEYzUwY1dmQ0JITXptYzlTek43enFvUWU5LWlaakNJc1YtaXJLT01HWENVYWJIeXdTbFRMLVhUdjRwSGJ1NFB0WnFKLVVncTRMRmR3NV9GUGVsNjM4?oc=5",
+            "source": "헬로티",
+            "published": "11-06 15:19",
+            "snippet": "국내복귀 포럼, 기업과 지역 잇는 투자유치 플랫폼으로 진화 헬로티"
+          },
+          {
+            "title": "코스피 장중 5000선 붕괴…미국 AI 규제 우려에 외국인 2.8조 매도, 반도체 실적이 반등 변수 - 시사프리즘",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83WDNCdXhoZkhVYzVtcnY4T1M4VW1fZlJ0aF9ycG1nc3J2X0VZV09RZkZIRXZGMnd1QjI3RWNoakFjMFpMQ3BtckQ5Y2JhY3llam1uQnlVT3RoRUlTeFBmbGd4amw3M29a?oc=5",
+            "source": "시사프리즘",
+            "published": "11-06 18:24",
+            "snippet": "코스피 장중 5000선 붕괴…미국 AI 규제 우려에 외국인 2.8조 매도, 반도체 실적이 반등 변수 시사프리즘"
+          },
+          {
+            "title": "美 반도체 쇼크에 코스피 5,000선 붕괴…개미 투자자 직격탄 - 미디어스",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBZ0RNdXdWRElMUFVwTzBEdkl5ZUQ0NzB0amtCNkhJenJSVU9LSWtYOWN2WXhfeFhMLTB5Q0J6RWU2STdvQzhCUUtYMXp0VVd4Qy0xb2d1N2RPNDBCOUFMS0F6allYUVdnbHJObdIBcEFVX3lxTE5mdFdHQ1hsSnN6VVF6TTRQNnVFQ3M1UFdnclRmN29ZMEE2UGpzaEZwb3NGZHFfcHB4VXIycndhY0laMVNNaXFzRlEweEp5RlJzMks0VEJpZlNVdWE3ZXk0OTJsdTJHNzdlQndjb2ROems?oc=5",
+            "source": "미디어스",
+            "published": "11-06 11:16",
+            "snippet": "美 반도체 쇼크에 코스피 5,000선 붕괴…개미 투자자 직격탄 미디어스"
+          },
+          {
+            "title": "AI 반도체 급락에 짐 쌌다…투자자들 대거 몰린 종목 - 한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96eG1nWHg4V3RfYXp1RFNEaGw5QTA5UXlCdWlqUm5mMmcxWEV0Nkg5UlBGUVctemo1ZEdEMEFmX2FZVXV1RzZrU3F5aVVDWXlURkIzMGpXMVhuQQ?oc=5",
+            "source": "한국경제",
+            "published": "11-06 08:38",
+            "snippet": "AI 반도체 급락에 짐 쌌다…투자자들 대거 몰린 종목 한국경제"
+          },
+          {
+            "title": "美 ‘블루 쓰나미’ AI 투자 제동 우려에도…삼성·SK는 “반도체 없어서 못 판다” - 서울경제",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NU1lZMUtaVEVjYVIwZG1SX0h2UEQ0OENieUNyWGlrWkExRFJWX2M3UUtVcEVwYkk2ZDlBQWJ0NkFCeHF4TnhrOThjOHJfdUpjQ2fSAVNBVV95cUxQek5odVlrWlZlOFVmNS1pT1JLT1k5WTJrU01JS2RsdTYwOTBYb3F5bTJzalIyaWh3TmR1QTE3NUR4ck93cFlMNE5EN09ONFFadFpDNA?oc=5",
+            "source": "서울경제",
+            "published": "11-06 10:54",
+            "snippet": "美 ‘블루 쓰나미’ AI 투자 제동 우려에도…삼성·SK는 “반도체 없어서 못 판다” 서울경제"
+          }
+        ]
       },
       "queries": {
-        "코스피": [
-          "코스피지수",
-          "코스피 주가",
-          "코스피 지수 실시간",
-          "코스피 하이닉스 주가",
-          "코스피 뜻",
-          "코스피 sk하이닉스 주가",
-          "코스피 선물",
-          "코스피 코스닥 지수",
-          "코스피랩",
-          "코스피 뜻 쉽게"
+        "코스피 변동성": [
+          "코스피 변동성 지수",
+          "코스피 변동성 이유",
+          "코스피 변동성 지수 etf",
+          "코스피 변동성 etf",
+          "코스피 변동성 지표",
+          "코스피 변동성지수 보는 법",
+          "코스피 변동성 증가",
+          "코스피 변동성 확대",
+          "코스피 변동성 장세"
         ],
-        "기준금리": [
-          "기준금리 영어로",
-          "기준금리 미국",
-          "기준금리 뜻",
-          "기준금리 한국",
-          "기준금리 인상",
-          "기준금리 추이",
-          "기준금리와 국채금리 관계",
-          "기준금리란",
-          "기준금리 발표일",
-          "기준금리 인상 뜻"
-        ],
-        "부동산": [
-          "부동산114",
-          "부동산 매물 사이트",
-          "부동산 네이버",
-          "부동산 시세 조회",
-          "부동산 시세 조회 방법",
-          "부동산 시세",
-          "부동산거래 전자계약시스템",
-          "부동산 매물",
-          "부동산114 시세",
-          "부동산 뜻"
-        ]
+        "강남 부동산 약세": [],
+        "국내 반도체 투자": []
       }
     },
     "global": {
       "keywords": [
-        "미국 연준",
-        "뉴욕증시",
-        "국제 유가"
+        "뉴욕증시 저가매수",
+        "미국 깜짝 고용",
+        "국제 유가 보합"
       ],
       "results": {
-        "미국 연준": {
-          "headline": "미국 연준의 금리 전망과 통화정책 방향",
+        "뉴욕증시 저가매수": {
+          "headline": "기술주 폭락 맞은 뉴욕증시 저가 매수",
           "facts": [
-            "수집된 기사가 존재하지 않아 미국 연방준비제도의 구체적인 금리 결정 내용이나 성명서 문구를 확인할 수 없음",
-            "글로벌 금융 시장의 향방을 좌우하는 미국 연준 금리 인상 여부와 향후 금리 전망에 이목이 집중됨",
-            "미국 연준 의장의 공식 발언 내용과 통화정책 기조 변화에 따라 국내외 증시와 환율이 민감하게 반응함",
-            "미국 연준 금리 발표 일정과 발표일에 맞춰 환율과 채권 시장의 변동성을 관리하려는 투자 전략이 수립됨",
-            "미국 연준 뜻과 중앙은행의 독립적인 통화정책 운용 메커니즘을 이해하려는 학습 수요가 꾸준히 존재함"
+            "블루 쓰나미 여파로 기술주가 폭락한 이후 저가 매수세가 유입되면서 뉴욕증시가 혼조세로 마감함.",
+            "나스닥 지수는 기술주 중심의 저가 매수세에 힘입어 1.09% 상승하며 반등에 성공함.",
+            "폭락 장세 속에서 증시가 한숨을 돌린 가운데 채권 가격은 내리고 달러 가치는 상승함.",
+            "AI 관련 기술주를 중심으로 저가 매수 유입이 나타나며 증시 회복을 이끎."
           ],
           "watch": [
-            "미국 연준 주요 인사의 금리 관련 발언",
-            "미국 물가 지표 발표에 따른 연준의 정책 반응"
+            "미국 국채 금리와 달러화 가치 추이",
+            "AI 기술주 저가 매수세의 지속 여부",
+            "블루 쓰나미 정치적 이슈의 시장 파장"
           ],
           "qna": [
             {
-              "q": "미국 연준의 금리 결정이 한국 경제와 내 자산에 직접적으로 어떤 영향을 미치는가?",
-              "a": "미국 연준이 금리를 올리면 한미 간 금리 차이가 벌어지면서 외국인 자금이 유출되고 원달러 환율이 상승할 압력을 받는다. 이는 수입 물가를 높여 국내 물가 전반에 부정적인 부담을 줄 수 있다."
+              "q": "블루 쓰나미 여파가 뉴욕증시에 어떤 충격을 주었는가?",
+              "a": "정치적 정책 변화에 대한 우려로 기술주 중심의 대규모 매물이 출회되었다."
             },
             {
-              "q": "미국 연준 의장의 발언 하나에 글로벌 증시가 크게 흔들리는 이유는 무엇인가?",
-              "a": "연준 의장은 세계 최대 경제 대국의 통화정책을 총괄하는 수장으로 전 세계 달러 유동성의 향방을 쥐고 있기 때문이다. 의장의 한마디는 향후 금리 인상이나 인하의 시점을 가늠하는 가장 중요한 힌트가 되기 때문에 시장 참여자들이 즉각 반응한다."
+              "q": "폭락 직후 유입되는 저가 매수는 안전한 투자 전략인가?",
+              "a": "단기 반등을 노린 접근은 변동성이 커서 리스크 관리가 반드시 동반되어야 한다."
             },
             {
-              "q": "연준의 금리 전망을 해석할 때 일반 투자자가 주의해야 할 점은 무엇인가?",
-              "a": "연준의 전망은 고정된 것이 아니라 향후 발표되는 고용 지표와 소비자물가지수 등의 경제 데이터에 따라 수시로 수정된다. 따라서 단기적인 전망에 맹신하기보다는 거시경제 지표의 큰 흐름을 유연하게 관찰하는 자세가 필요하다."
+              "q": "나스닥 반등이 국내 증시에도 긍정적 영향을 미치는가?",
+              "a": "미국 기술주 심리가 개선되면 국내 IT 및 반도체주에도 온기가 전해질 수 있다."
             }
           ]
         },
-        "뉴욕증시": {
-          "headline": "뉴욕증시 마감 시황과 실시간 지수 동향",
+        "미국 깜짝 고용": {
+          "headline": "미국 10월 일자리 16만 5천 개 깜짝 증가",
           "facts": [
-            "수집된 기사가 존재하지 않아 뉴욕증시의 구체적인 마감 지수나 상승 및 하락 폭을 수치로 제시할 수 없음",
-            "국내 투자자들이 글로벌 증시의 흐름을 파악하기 위해 뉴욕증시 실시간 시황과 마감 현황을 지속해서 모니터링함",
-            "시차로 인해 야간에 진행되는 뉴욕증시 개장시간과 마감시간에 맞춰 국내 파생 및 해외 주식 투자자들이 대응함",
-            "미국 증시의 공식 휴장일 일정과 주요 경제 지표 발표 시간에 따른 증시 변동성에 대한 관심이 유지됨",
-            "뉴욕증시 뜻과 다우존스, 나스닥 등 주요 지수의 구성 방식에 대한 기초적인 정보 탐색이 이루어짐"
+            "미국의 10월 일자리가 16만 5천 개 증가하는 깜짝 고용 지표가 발표됨.",
+            "견조한 고용 지표로 인해 연방준비제도의 12월 추가 금리 인상 전망에 무게가 실림.",
+            "고용 지표 호조 소식에 미국 국채 금리가 약세를 보이고 달러화는 급등세를 기록함.",
+            "깜짝 고용 발표 이후 AMD 주가가 11% 급등하는 등 기술주 회복세와 맞물림."
           ],
           "watch": [
-            "뉴욕증시 기술주 중심의 실시간 주가 변동성",
-            "미국 국채금리 변화에 따른 뉴욕증시 마감 결과"
+            "미 연방준비제도의 12월 금리 결정",
+            "미국 고용 지표 호조에 따른 달러 환율 변동",
+            "국채 금리 움직임에 따른 시장 반응"
           ],
           "qna": [
             {
-              "q": "뉴욕증시의 마감 결과가 다음 날 국내 코스피 시장에 미치는 영향은 얼마나 큰가?",
-              "a": "뉴욕증시는 세계 금융 시장의 중심이기 때문에 전날 밤 미국 증시가 폭등하거나 폭락하면 다음 날 아침 국내 증시의 시초가에 직접적인 연동 효과를 준다. 특히 대형 기술주 중심의 나스닥 지수 움직임은 국내 반도체 주가에 큰 파급력을 미친다."
+              "q": "고용이 잘 되었는데 왜 금리 인상 전망이 강화되는가?",
+              "a": "경기가 과열될 경우 물가를 잡기 위해 중앙은행이 금리를 올릴 가능성이 커지기 때문이다."
             },
             {
-              "q": "국내 투자자가 뉴욕증시 개장시간과 마감시간을 정확히 알아야 하는 실질적인 이유는 무엇인가?",
-              "a": "미국 증시는 서머타임 적용 여부에 따라 개장 시간이 달라지므로 해외 주식을 직접 거래하거나 관련 파생상품을 다루는 투자자에게는 필수적인 시간 정보이다. 시간에 따른 유동성 변화를 파악해야 불필요한 슬리피지나 변동성 위험을 줄일 수 있다."
+              "q": "미국 깜짝 고용 발표가 내 자산 생활에 미치는 영향은 무엇인가?",
+              "a": "환율 상승과 금리 압박으로 인해 대출 이자나 수입 물가에 부담으로 작용할 수 있다."
             },
             {
-              "q": "뉴욕증시 지수를 볼 때 다우지수와 나스닥지수를 각각 어떻게 구분해서 이해해야 하는가?",
-              "a": "다우지수는 미국을 대표하는 전통 우량 기업 30개 종목으로 구성되어 전통적인 경기 흐름을 보여준다. 반면 나스닥지수는 기술주와 성장주 위주로 구성되어 있어 혁신 산업의 성장성과 시장의 위험선호 심리를 더 민감하게 반영한다."
+              "q": "고용 지표가 달러 환율을 왜 급등시키는가?",
+              "a": "미국 경제가 탄탄하다는 신호로 해석되어 달러화의 매력도가 높아지기 때문이다."
             }
           ]
         },
-        "국제 유가": {
-          "headline": "국제 유가 실시간 가격 변동 그래프 분석",
+        "국제 유가 보합": {
+          "headline": "중동 정세 주시하며 국제유가 보합 마감",
           "facts": [
-            "수집된 기사가 존재하지 않아 서부텍사스산원유나 브렌트유의 구체적인 국제 유가 실시간 가격 수치를 확인할 수 없음",
-            "에너지 가격 변동이 물가와 제조 원가에 미치는 영향을 파악하기 위해 국제 유가 실시간 차트 조회가 빈번하게 발생함",
-            "국제 유가 변동 그래프의 추이를 분석하여 향후 석유류 제품 가격과 국내 물가 상승 압력을 예측하려는 시도가 있음",
-            "글로벌 원유 수급 상황과 지정학적 리스크가 국제 유가 가격 지수에 실시간으로 반영되는 양상이 나타남",
-            "국제 유가 뜻과 원유 선물 시장의 가격 결정 메커니즘에 대한 일반 독자들의 정보 탐색이 이루어짐"
+            "국제유가는 중동 정세를 주시하는 가운데 WTI가 0.34% 소폭 상승하며 보합권에서 마감함.",
+            "이란 협상 기대감의 영향으로 주간 기준으로는 큰 폭의 낙폭을 기록함.",
+            "국내 주유소 기름값은 25주 연속 하락세를 보이나 소비자가 체감하는 물가는 제자리걸음임.",
+            "미국 국채 금리가 급락하고 달러가 보합세를 보이는 등 안전자산 선호 심리가 강화됨."
           ],
           "watch": [
-            "산유국 연합체의 산유량 정책 변화",
-            "중동 지역 정세에 따른 국제 유가 변동성"
+            "중동 지정학적 리스크의 전개 양상",
+            "이란 관련 협상 진행 상황",
+            "국내 주유소 기름값의 하락세 지속 여부"
           ],
           "qna": [
             {
-              "q": "국제 유가가 급등할 경우 내 주머니 사정과 일상생활에는 어떤 변화가 생기는가?",
-              "a": "국제 유가가 오르면 정유 제품 가격이 상승하여 주유소 휘발유와 경유 가격이 비싸진다. 이는 물류 비용 증가로 이어져 식료품과 공공요금 등 전반적인 물가 상승을 유발하는 부작용을 낳는다."
+              "q": "국제유가가 보합세를 보이는데 왜 주유소 체감 가격은 그대로인가?",
+              "a": "유통 시차와 세금 구조 등으로 인해 국제유가 변동이 주유소 가격에 반영되는 데 시간이 걸린다."
             },
             {
-              "q": "국제 유가 실시간 차트와 변동 그래프를 볼 때 투자 관점에서 주목해야 할 핵심 포인트는 무엇인가?",
-              "a": "단기적인 가격 등락보다는 주요 저항선이나 지지선을 돌파하는 추세의 변화를 읽는 것이 중요하다. 공급 측면의 돌발 변수와 수요 측면의 경기 둔화 우려가 어떻게 충돌하는지 종합적으로 파악할 필요가 있다."
+              "q": "이란 협상 기대감이 유가에 어떤 변화를 주는가?",
+              "a": "지정학적 불안감이 완화되면서 공급 차질 우려가 줄어들어 유가 하락 압력으로 작용한다."
             },
             {
-              "q": "국제 유가 등락은 국내 주식 시장의 업종별 주가에 어떤 명암을 남기는가?",
-              "a": "유가 상승은 정유주나 자원 개발 관련 기업의 실적에는 호재로 작용하지만 항공, 해운, 화학 등 연료 비용 비중이 높은 업종에는 원가 부담을 가중시켜 악재로 작용한다."
+              "q": "유가 보합과 안전자산 선호가 경제에 주는 시그널은 무엇인가?",
+              "a": "시장 참여자들이 불확실성을 경계하며 리스크를 줄이는 방어적 태세를 취하고 있음을 뜻한다."
             }
           ]
         }
       },
       "news": {
-        "미국 연준": [],
-        "뉴욕증시": [],
-        "국제 유가": []
+        "뉴욕증시 저가매수": [
+          {
+            "title": "[뉴욕증시-1보] '블루 쓰나미' 여파 속 저가 매수 모색…혼조 마감 - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VVDUxd3BnNEdfZlJMN0stQmVheWxsT3d6Rmh3Um1qRC1XWHk1X3pORkQycmM3NFBXSnFWczNpUEF5VU5BX2lnX09fZnRQMU1Zc2RJSU9oWU9lYldBaUNpN0ZubDFpNlR2YVBrSjRYQVXSAXRBVV95cUxNemE5WGx6aVgwRVN0NG5pWFFVV0kwekdEUWhkRWx0bHR1Q3ptMXZ3eFVJcVJSdk9mT3p5ZXB5N1YydlFZNlZXVHNYZk1RdEJDRzNUZEpMWThWaWVHU0lHVi11SENvQmtFVVVrWlF0OG9xMzJwOQ?oc=5",
+            "source": "연합인포맥스",
+            "published": "11-07 06:16",
+            "snippet": "[뉴욕증시-1보] '블루 쓰나미' 여파 속 저가 매수 모색…혼조 마감 연합인포맥스"
+          },
+          {
+            "title": "뉴욕 증시 반등...반도체주 중심 저가 매수세 - YTN",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OTjcwLXphcnRxNG9rOFYtb2hVQTh0RHVERzBfX0sycUNSSHRRYVUxY2gySEhoNmNMdFdOVUlGbW5rcmhCTHh5MXdWYUVWYlVqT2JTWlNvdU5vTzBNT1E?oc=5",
+            "source": "YTN",
+            "published": "11-07 08:26",
+            "snippet": "뉴욕 증시 반등...반도체주 중심 저가 매수세 YTN"
+          },
+          {
+            "title": "뉴욕증시, AI주 저가 매수에 혼조 마감…나스닥 1.09%↑ - 뉴스핌",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03ZVhHTkI5UUdLWDJndzUwX2owX3dqNHlVbjlubm1OcmlORC1fR3JoSGREMmE4NzFyV2dfQk9DT3ROOWhjd0c4Q0I3amM1Z1BNeE9NRlNINDNKcm5o?oc=5",
+            "source": "뉴스핌",
+            "published": "11-07 06:21",
+            "snippet": "뉴욕증시, AI주 저가 매수에 혼조 마감…나스닥 1.09%↑ 뉴스핌"
+          },
+          {
+            "title": "[뉴욕마켓워치] 폭락 뒤 저가 매수로 한숨 돌린 증시…채권↓달러↑ - KB Think",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE91ek12TTZuNWt3UjdtMWJoaVkya1BEMXBFTFh6TTU2QXc2dl9ZVEZNTUs2OWdyclhHNjNQZnM0cEl2Rm9oLUpsa2Z2cUVuY0JkMEduRzRmOEtQZ3Z6NlZKOFY5aXhRWXpRd2NlZEJOb0ZVZw?oc=5",
+            "source": "KB Think",
+            "published": "11-07 06:59",
+            "snippet": "[뉴욕마켓워치] 폭락 뒤 저가 매수로 한숨 돌린 증시…채권↓달러↑ KB Think"
+          },
+          {
+            "title": "뉴욕증시, AI 기술주 폭락 후 저가 매수세…나스닥 1.1%↑(종합) - 연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xb3F1aU5RXzhvckgyd3VfQjFTRGFkR1ZaWlZpUTdvQTZKaFEya0tRSUJMaHVEQy1FelhZYWQ0SzMzN0h1SDU0NjhRcjUwN0U0X1c1UlZKQ0RYVGZyTS01QdIBYEFVX3lxTE8xb3F1aU5RXzhvckgyd3VfQjFTRGFkR1ZaWlZpUTdvQTZKaFEya0tRSUJMaHVEQy1FelhZYWQ0SzMzN0h1SDU0NjhRcjUwN0U0X1c1UlZKQ0RYVGZyTS01QQ?oc=5",
+            "source": "연합뉴스",
+            "published": "11-07 06:44",
+            "snippet": "뉴욕증시, AI 기술주 폭락 후 저가 매수세…나스닥 1.1%↑(종합) 연합뉴스"
+          },
+          {
+            "title": "뉴욕증시, 기술주 저가 매수에 반등…나스닥 1.09% 상승 - 동아일보",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QOVp2VFY3bzBDbkFiNlR6R1lnYWpjU3h4VkJBVzVad1g2eUt4QzVfYUcxYmhDM1E5bmpVTzZOQjNPM1FzLUt5TGZFQ3BjSFVvT081ZjNoQ1VhTXRVZ0pLbHF1MFJKX3lMQm5WRUo5QW1YbGPSAWZBVV95cUxOVmlRZG9JTzg5a2dSSVN5S1hqYTdKYTJzVFROaG94M21hNVctdWNQbjhDcXg2dzVOeVdEZDFmaWZxNWFXTkZ3TDF6elM4cWdjS01tNlU2NnJXSDdGeFY4OXo1WGpUWUE?oc=5",
+            "source": "동아일보",
+            "published": "11-07 08:25",
+            "snippet": "뉴욕증시, 기술주 저가 매수에 반등…나스닥 1.09% 상승 동아일보"
+          }
+        ],
+        "미국 깜짝 고용": [
+          {
+            "title": "美 10월 일자리 16만5000개 ‘깜짝 증가’… 연준 금리 인상 가능성에 무게 실리나 - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ2ZSUS0zdk4xeVBFWFV1b1dPVkJ0dDliWkFOcHdXUnVOVzdzVmc0c0NMWEt1SEFfUnAwUVVjaExELVJGV2YxZ0VCb3BpSjNIeXJNTURrbXJhQVE2cnVRLTdBdC15TGNhNm1nSTVFdGhfaGxKdTBBdTBDQzJ2MThKTUZrTDRUYWpL?oc=5",
+            "source": "조선일보",
+            "published": "11-06 23:13",
+            "snippet": "美 10월 일자리 16만5000개 ‘깜짝 증가’… 연준 금리 인상 가능성에 무게 실리나 조선일보"
+          },
+          {
+            "title": "미국 10월 고용 16만5천 명 ‘깜짝 증가’…12월 금리 인상 전망 강화 - KBS 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQSDhpSkl4Z0ZlbFNYOGZjQ29GU0xmR0lQVi1FR3pRVE8xQ2JOcEpIbkJ2Y3VFUFBKZ1lrVXowZHE4NGRwalBvSWRPWjFnaU1WeWFRb01hVDlWVDg?oc=5",
+            "source": "KBS 뉴스",
+            "published": "11-07 00:06",
+            "snippet": "미국 10월 고용 16만5천 명 ‘깜짝 증가’…12월 금리 인상 전망 강화 KBS 뉴스"
+          },
+          {
+            "title": "美 10월 고용 16만5천명 '깜짝 증가'…12월 금리인상 전망 강화 - 조세금융신문",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ramNsbjE5VUg1X1dQRnlqbzdfRVJVZDlPZVB2VlAtOVpsdHRPRlNtSXZhajNRS05sWjdBOXJfX3BELVc0UXlPZlFJWkFNbWZ4S2xsRDdvTVRaYlU2SnZSUA?oc=5",
+            "source": "조세금융신문",
+            "published": "11-07 08:32",
+            "snippet": "美 10월 고용 16만5천명 '깜짝 증가'…12월 금리인상 전망 강화 조세금융신문"
+          },
+          {
+            "title": "국채선물, '깜짝 고용' 美 국채 약세 속 혼조…10년물 8틱↑ - KB Think",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BeDdTYV9QWVZXV1ByM1djNmhHYnFJblBHVldSSGFrSTh2dnBSc3paZDFhMGJfdlA0T3IyNTNkNE1ERUpmM3BORVE2X1hjX1M2RzBPbFhfeHpPazBpdjE0aW50WncwWENBTm9KU21JZTh6UQ?oc=5",
+            "source": "KB Think",
+            "published": "11-07 06:31",
+            "snippet": "국채선물, '깜짝 고용' 美 국채 약세 속 혼조…10년물 8틱↑ KB Think"
+          },
+          {
+            "title": "[뉴욕환시] 달러 급등…기술주 회복 속 美 '깜짝' 고용 - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1EOUtlWW5xRTY0TzdWZGN6VktRaElwVGFwWTdJWHJ6SlNOTmZ2ZWxDaDgzWVY0bUQ2OFJOcERPXzdCeGI5VkdBNjVXanF0MGI2eGdER3NDcWRJNUl3eUZORFdiWjItRlp1Q2lFRGxuZVM?oc=5",
+            "source": "연합인포맥스",
+            "published": "11-07 08:19",
+            "snippet": "[뉴욕환시] 달러 급등…기술주 회복 속 美 '깜짝' 고용 연합인포맥스"
+          },
+          {
+            "title": "[월가 레이더] 美 고용 16.5만명 '깜짝 증가'…AMD 11% 급등·나스닥 반등 - 포커스온경제",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90OXRQd3VNLU9JbGcxckw5amRMcS01YWdSTXQ3SmV2WFNQX3lBTWdpLUZ1cmdPQ0tlNTZ1YWRHVm03T2g1UjY3S2ZTS0pKbFk5OHNTUUp6UzZSR1NuZVE?oc=5",
+            "source": "포커스온경제",
+            "published": "11-07 05:10",
+            "snippet": "[월가 레이더] 美 고용 16.5만명 '깜짝 증가'…AMD 11% 급등·나스닥 반등 포커스온경제"
+          }
+        ],
+        "국제 유가 보합": [
+          {
+            "title": "국제유가, 중동 정세 주시 속 보합권 마감…WTI 0.34%↑ - 연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4U3FXXzkxd1ZrZWZpaXZKaXlTUjJ0aEhjeUZwSDliWWxnaXRCaGhQdkdqTzZCWnN1RUNFUkE5T1Q2Ykk1cXJlV0RJR2hlZFhrRlpVWWMxSk5tbHPSAWBBVV95cUxQZzljcVFCRk1aWW5vcGVMTXB5UjUzQmZZOGVnYUFjV1NTa0FIcEtLNTFrZkNWXy02bjJaV0FBejFOMktSLXA2YUFuTFJvYk40TnNjSWxPcmhfX3NrMEliaXY?oc=5",
+            "source": "연합뉴스",
+            "published": "11-07 05:45",
+            "snippet": "국제유가, 중동 정세 주시 속 보합권 마감…WTI 0.34%↑ 연합뉴스"
+          },
+          {
+            "title": "국제유가, 중동 리스크 관망 속에 보합권 마감... WTI 0.34%↑ - 글로벌경제신문",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDSUU5ZUExLUlhZi11WXBNWUxld19lUWZVbnRzX1lIUDJUbXkyMjNOVTg0UmhiRUVKVmI3QlZmclMxUEhWcTdLeEpERk84WmhvVmc4dWhDd1NmY1ZmMWp1UEU2b0ZyY0luam9nUNIBcEFVX3lxTFBLbkw5V3JBbkpuclFqQmZ0bzk4U2lKSmQxZkYyNUxXOExoQWhScWNuU05MZl9DdXNvMVVqYzE1T1hKSWh1ZzAyOGE0bVh0cW4zMUNhaTdxcUlJZl9iUnFhY1p4OWlDNVJDUjlUdWstWG4?oc=5",
+            "source": "글로벌경제신문",
+            "published": "11-07 07:23",
+            "snippet": "국제유가, 중동 리스크 관망 속에 보합권 마감... WTI 0.34%↑ 글로벌경제신문"
+          },
+          {
+            "title": "주유소 기름값 25주 연속 하락…소비자 체감은 '제자리' - 뉴시안",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05NF9XZzZMZGk1N25aVFdhMzEzTzlyWm80c2p6bDVEUDBhNWRQMnkzaDc0Q3h4c3lOWEkzdXlfZmp5YmF3czZhcy1PRnRCRnJNNUR4V3p2WF82WUkxdjF0NGhxVFozQk9wWDJmZg?oc=5",
+            "source": "뉴시안",
+            "published": "11-07 06:41",
+            "snippet": "주유소 기름값 25주 연속 하락…소비자 체감은 '제자리' 뉴시안"
+          },
+          {
+            "title": "국제유가, 소폭 상승에도 주간 낙폭 16%⋯이란 협상 기대 영향 [상보] - 이투데이",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuS0RrZ1FxSjNjZjZ1MFlUclB6cGwtbFBaVHMyM25XdWNWdXdrX3FBeEM3Q3ZwTFVCS3FmWjJ1U0llTGxFSk8xR0plemV3R05rczNwRQ?oc=5",
+            "source": "이투데이",
+            "published": "11-07 07:03",
+            "snippet": "국제유가, 소폭 상승에도 주간 낙폭 16%⋯이란 협상 기대 영향 [상보] 이투데이"
+          },
+          {
+            "title": "[채권/외환] 美 국채 금리 급락·달러 보합…AI 투자 우려에 안전자산 선호 강화 - 뉴스핌",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iR0t1b3YyNTlKaURLa2wyVGZMNlVnN3VIbTlGZW1QaE1vOEZWM2RDNmRiNV9KdlN5dDdJaUlCaUx3SmNjbGp0aXJleHJTMHg2aHBFdmN2MlRSSkl4?oc=5",
+            "source": "뉴스핌",
+            "published": "11-06 07:21",
+            "snippet": "[채권/외환] 美 국채 금리 급락·달러 보합…AI 투자 우려에 안전자산 선호 강화 뉴스핌"
+          },
+          {
+            "title": "AI주 저가 매수에 나스닥 1% 반등…\"한동안 변동성 장세\"[월스트리트in] - 이데일리",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQV0VXcm1lOXFKRHh3ODBEcFJhcnVtQU00QmloYjNOd2ExcnRpYUlGanhUYkFsQnNFSXZ5Uk9hdlVCcVpoQnh2UnRRNlA3WWRlY0phNTVrTktBTlJMaFN5Qm1aWFdfNXkxWkxzU2ZKbXdaaVJ4WlEwZVBybHJPWDZlRA?oc=5",
+            "source": "이데일리",
+            "published": "11-07 06:44",
+            "snippet": "AI주 저가 매수에 나스닥 1% 반등…\"한동안 변동성 장세\"[월스트리트in] 이데일리"
+          }
+        ]
       },
       "queries": {
-        "미국 연준": [
-          "미국 연준 금리",
-          "미국 연준 의장",
-          "미국 연준 금리 발표일",
-          "미국 연준 금리 인상",
-          "미국 연준 금리 발표",
-          "미국 연준 기준금리",
-          "미국 연준 뜻",
-          "미국 연준 금리 전망",
-          "미국 연준 금리 발표 일정",
-          "미국 연준 의장 뜻"
-        ],
-        "뉴욕증시": [
-          "뉴욕증시 개장시간",
-          "뉴욕증시 현황",
-          "뉴욕증시 휴장일",
-          "뉴욕증시 실시간",
-          "뉴욕증시 마감",
-          "뉴욕증시 지수",
-          "뉴욕증시 속보",
-          "뉴욕증시 마감시간",
-          "뉴욕증시 시황",
-          "뉴욕증시 뜻"
-        ],
-        "국제 유가": [
-          "국제 유가 실시간 가격",
-          "국제 유가 실시간 차트",
-          "국제 유가 차트",
-          "국제 유가 실시간",
-          "국제 유가 변동 그래프",
-          "국제 유가 가격",
-          "국제 유가 지수",
-          "국제 유가 실시간 사이트",
-          "국제 유가 추이",
-          "국제 유가 뜻"
-        ]
+        "뉴욕증시 저가매수": [],
+        "미국 깜짝 고용": [],
+        "국제 유가 보합": []
       }
     },
     "keywords": [
-      "코스피",
-      "기준금리",
-      "부동산",
-      "미국 연준",
-      "뉴욕증시",
-      "국제 유가"
+      "코스피 변동성",
+      "강남 부동산 약세",
+      "국내 반도체 투자",
+      "뉴욕증시 저가매수",
+      "미국 깜짝 고용",
+      "국제 유가 보합"
     ],
     "results": {
-      "코스피": {
-        "headline": "코스피 지수와 SK하이닉스 주가의 향방은",
+      "코스피 변동성": {
+        "headline": "코스피 출렁이자 변동성지수 60선 돌파",
         "facts": [
-          "수집된 기사가 존재하지 않아 코스피 지수의 구체적인 변동 폭이나 거래대금 수치를 현재 시점에서 정확하게 확인하는 것이 불가능함",
-          "투자자들 사이에서 코스피지수와 코스피 주가 흐름을 파악하기 위한 실시간 검색과 지수 관련 정보 탐색이 지속해서 이루어짐",
-          "시가총액 상위 종목인 코스피 하이닉스 주가와 SK하이닉스 관련 실시간 주가 동향에 대한 시장 참여자들의 관심이 매우 집중됨",
-          "주식 시장에 처음 진입하는 투자자들을 중심으로 코스피 뜻과 쉽게 이해하는 기초 용어에 대한 학습 수요가 꾸준히 확인됨",
-          "지수 방향성을 가늠하기 위한 코스피 선물 시장의 움직임과 코스피 코스닥 지수의 상대적인 등락 비교 분석이 수반됨"
+          "미국 반도체주 폭락 여파로 코스피 시장이 급락하면서 코스피 변동성지수가 3개월 만에 60선을 웃도는 기록적인 수치를 나타냄.",
+          "노무라는 향후 3개월 동안 코스피 목표치로 7500~8000을 제시하면서 단기적인 변동성은 불가피할 것으로 전망함.",
+          "주가 하락에 따른 불안감 속에서 개미 투자자들의 계좌를 지키기 위한 다양한 변동성 투자법에 대한 관심이 급증함.",
+          "지속되는 증시 급락으로 인해 투자자들의 불안 심리가 가중되면서 변동성 지표가 가파른 상승 곡선을 그림."
         ],
         "watch": [
-          "외국인과 기관의 코스피 시장 수급 변화",
-          "하이닉스를 비롯한 반도체 대형주 주가 흐름"
+          "미국 반도체주 주가 흐름",
+          "코스피 변동성지수 추가 상승 여부",
+          "외국인 투자자 매매 동향"
         ],
         "qna": [
           {
-            "q": "코스피의 정확한 의미와 구성 종목은 무엇인가?",
-            "a": "코스피는 한국거래소에 상장된 우량 기업들의 주식 가격 변동을 종합적으로 나타내는 대표적인 주가지수이다. 국내 증시에 상장된 모든 보통주를 대상으로 산출하며 한국 경제의 전체적인 주식 시장 흐름을 대변한다."
+            "q": "코스피 변동성 지수는 무엇이고 왜 치솟는가?",
+            "a": "변동성 지수는 시장의 불안 공포 심리를 나타내는 지표이다. 주가가 급락할 때 이 지수가 치솟는다."
           },
           {
-            "q": "초보 투자자가 코스피 선물 시장을 주의 깊게 봐야 하는 이유는 무엇인가?",
-            "a": "코스피 선물은 미래의 특정 시점에 지수를 거래하는 파생상품으로 현물 시장의 방향성을 선행해서 보여주는 경향이 있다. 다만 변동성이 매우 크기 때문에 일반 초보 투자자는 시장의 전체적인 심리를 파악하는 용도로만 참고할 필요가 있다."
+            "q": "변동성 장세에서 내 계좌를 지키는 투자법은 무엇인가?",
+            "a": "급격한 매매를 자제하고 위험 관리 중심의 자산 배분 전략을 세우는 것이 중요하다."
           },
           {
-            "q": "SK하이닉스 주가 변동이 전체 코스피 지수에 미치는 영향은 얼마나 큰가?",
-            "a": "SK하이닉스는 코스피 시장에서 시가총액 비중이 매우 높은 대형 반도체 종목에 해당한다. 따라서 이 종목의 주가 등락은 코스피 전체 지수의 방향성에 직접적이고 강력한 상승 또는 하락 압력을 행사한다."
+            "q": "변동성 지수 ETF는 어떻게 활용해야 하는가?",
+            "a": "지수 변동성을 추종하는 상품으로 단기적인 위험 헤지 수단으로 쓰이지만 변동이 커 주의가 필요하다."
           }
         ]
       },
-      "기준금리": {
-        "headline": "한국과 미국의 기준금리 추이와 시장 영향",
+      "강남 부동산 약세": {
+        "headline": "강남 아파트값 하락 거래 속출의 진실",
         "facts": [
-          "수집된 기사가 존재하지 않아 현재 한국은행과 미국 연준의 구체적인 기준금리 결정 수치나 발표 결과를 확인할 수 없음",
-          "글로벌 경제 환경 속에서 기준금리 미국 동향과 한국의 기준금리 추이를 비교하려는 시장의 관심이 지속해서 유지됨",
-          "기준금리 인상 또는 동화 정책의 방향성이 대출 이자와 자산 시장 전반에 미치는 영향에 대한 분석 수요가 존재함",
-          "기준금리와 국채금리의 상호 관계를 파악하여 시중 유동성의 흐름과 채권 가격의 변동 양상을 해석하려는 움직임이 나타남",
-          "향후 통화정책 방향을 가늠하기 위한 기준금리 발표일 일정과 영어식 명칭 및 기초 개념에 대한 검색이 이루어짐"
+          "강남3구 아파트 시장이 9주째 하락세를 기록하며 원베일리 단지에서 14억 원 하락 거래가 발생함.",
+          "일주일 사이에 강남3구에서 5% 이상 하락한 거래가 16건 접수되었고 일부는 30% 폭락 거래를 보임.",
+          "11월 전국적으로 4만 가구에 달하는 대규모 분양 공급을 앞두고 있어 청약 시장의 긴장감이 높아짐.",
+          "일부 단지에서 급락 거래가 속출하고 있음에도 불구하고 일반 대중이 체감하는 집값 하락세는 제한적임."
         ],
         "watch": [
-          "한국은행 금융통화위원회의 향후 금리 결정",
-          "기준금리 변동에 따른 시중 은행 대출금리 반응"
+          "강남3구 추가 하락 거래 확산 여부",
+          "11월 대규모 분양 물량의 청약 경쟁률",
+          "부동산 시장 통계와 실제 체감 가격의 괴리"
         ],
         "qna": [
           {
-            "q": "기준금리는 내 일상생활과 대출 금리에 구체적으로 어떤 영향을 주는가?",
-            "a": "기준금리가 오르면 시중 은행의 조달 비용이 증가하여 주택담보대출과 신용대출 금리가 연쇄적으로 상승한다. 이는 가계의 원리금 상환 부담을 키우고 소비 여력을 위축시키는 결과를 낳는다."
+            "q": "강남 아파트값이 내린다는데 왜 체감하기 어려운가?",
+            "a": "일부 단지에서 급락 거래가 나오지만 전체 시장으로 확산하는 속도가 더디기 때문이다."
           },
           {
-            "q": "기준금리와 국채금리는 서로 어떤 밀접한 관계를 가지고 움직이는가?",
-            "a": "기준금리는 중앙은행이 결정하는 단기 금리이며 국채금리는 시장에서 거래되는 중장기 금리이다. 기준금리 인상 기대감이 높아지면 국채 매도가 늘어나면서 국채금리도 함께 상승하는 경향을 보인다."
+            "q": "내 집 마련을 미루고 지금 하락장을 기다려야 하는가?",
+            "a": "지역별 수급 상황과 공급 물량을 함께 살피며 신중하게 접근해야 한다."
           },
           {
-            "q": "기준금리 인상이 주식 시장과 부동산 시장에는 어떤 신호로 작용하는가?",
-            "a": "기준금리 인상은 시중의 유동성을 흡수하고 자금 조달 비용을 높이기 때문에 위험 자산인 주식과 레버리지를 활용하는 부동산에 하방 압력으로 작용한다. 다만 이러한 영향은 당시의 경기 둔화 여부와 물가 상승률 등 복합적인 요인에 따라 다르게 나타난다."
+            "q": "11월 대규모 분양 공급이 주택 시장에 미치는 영향은 무엇인가?",
+            "a": "공급 확대가 실수요자의 선택 폭을 넓히며 가격 안정화 요인으로 작용한다."
           }
         ]
       },
-      "부동산": {
-        "headline": "부동산 시세 조회와 매물 사이트 활용법",
+      "국내 반도체 투자": {
+        "headline": "미국 AI 규제 우려에 코스피 5000선 붕괴",
         "facts": [
-          "수집된 기사가 부재하여 특정 지역의 구체적인 아파트 가격 변동률이나 거래량 수치를 파악하는 것이 불가능함",
-          "주택 구입이나 임대차 계약을 준비하는 수요자들이 부동산 네이버 및 부동산114 같은 주요 플랫폼을 적극 활용함",
-          "정확한 부동산 시세 조회 방법을 통해 실거래가와 호가를 비교하고 시장의 가격 흐름을 파악하려는 시도가 이어짐",
-          "투명하고 안전한 거래를 유도하기 위한 부동산거래 전자계약시스템의 활용법에 대한 관심이 꾸준히 증가함",
-          "부동산 뜻과 기초적인 시장 참여 구조를 이해하려는 초보 수요자들의 정보 탐색 활동이 지속해서 확인됨"
+          "미국의 AI 규제 우려와 반도체 쇼크가 겹치면서 코스피 지수가 장중 5000선 아래로 붕괴됨.",
+          "외국인 투자자들이 하루 만에 2조 8천억 원어치를 매도하며 국내 증시에 큰 충격을 가함.",
+          "삼성전자와 SK하이닉스는 반도체 수요가 여전히 견조하여 없어서 못 판다는 입장을 유지함.",
+          "반도체 소재 분야의 국내 투자가 확대되는 가운데 관련 외국기업이 정부 포상을 수상함."
         ],
         "watch": [
-          "주요 부동산 플랫폼의 매물 수와 거래량 추이",
-          "정부의 부동산 관련 규제 및 정책 변화"
+          "미국 AI 관련 규제 정책의 방향성",
+          "외국인 투자자의 국내 반도체주 순매수 복귀 여부",
+          "삼성전자와 SK하이닉스의 실제 실적 발표"
         ],
         "qna": [
           {
-            "q": "부동산 시세를 조회할 때 네이버나 부동산114 같은 플랫폼의 호가와 실제 거래가는 어떤 차이가 있는가?",
-            "a": "호가는 매도자가 희망하는 가격으로 실제 거래 가능한 가격보다 높게 형성되는 경우가 많다. 반면 실거래가는 실제로 계약이 체결되어 신고된 가격이므로 현재의 정확한 시장 가치를 판단하는 데 더욱 객관적인 지표가 된다."
+            "q": "미국 AI 규제가 왜 국내 반도체주에 타격을 주는가?",
+            "a": "글로벌 AI 투자 심리가 위축되면서 반도체 수출 기업들의 실적 우려가 커지기 때문이다."
           },
           {
-            "q": "부동산거래 전자계약시스템을 활용하면 일반 매수자에게 어떤 실질적인 이점이 있는가?",
-            "a": "전자계약시스템을 이용하면 종이 계약서 대신 온라인으로 안전하게 계약을 체결할 수 있어 문서 위조나 이중 계약 등의 사기 피해를 예방할 수 있다. 또한 주택임대차 신고가 자동으로 처리되고 버팀목 전세대출 등에서 금리 우대 혜택을 받을 수 있다."
+            "q": "외국인이 2조 원 넘게 파는데 개인 투자자는 어떻게 대응해야 하는가?",
+            "a": "단기적인 주가 급락에 동요하기보다 기업의 본질적 실적을 점검하는 태도가 필요하다."
           },
           {
-            "q": "내 집 마련을 고민하는 무주택자가 부동산 매물 사이트를 볼 때 가장 먼저 확인해야 할 점은 무엇인가?",
-            "a": "단순히 호가만 바라보기보다는 동일 단지 내에서 최근 몇 달간 실제로 거래된 가격의 추이를 면밀히 살펴봐야 한다. 아울러 대출 금리 환경과 본인의 상환 능력을 함께 고려하여 보수적으로 자금 계획을 세울 필요가 있다."
+            "q": "삼성과 SK가 반도체 물량이 부족하다고 하는데 주가는 왜 떨어지는가?",
+            "a": "실적과 별개로 글로벌 거시경제 환경과 정책적 불확실성이 주가에 먼저 반영되기 때문이다."
           }
         ]
       },
-      "미국 연준": {
-        "headline": "미국 연준의 금리 전망과 통화정책 방향",
+      "뉴욕증시 저가매수": {
+        "headline": "기술주 폭락 맞은 뉴욕증시 저가 매수",
         "facts": [
-          "수집된 기사가 존재하지 않아 미국 연방준비제도의 구체적인 금리 결정 내용이나 성명서 문구를 확인할 수 없음",
-          "글로벌 금융 시장의 향방을 좌우하는 미국 연준 금리 인상 여부와 향후 금리 전망에 이목이 집중됨",
-          "미국 연준 의장의 공식 발언 내용과 통화정책 기조 변화에 따라 국내외 증시와 환율이 민감하게 반응함",
-          "미국 연준 금리 발표 일정과 발표일에 맞춰 환율과 채권 시장의 변동성을 관리하려는 투자 전략이 수립됨",
-          "미국 연준 뜻과 중앙은행의 독립적인 통화정책 운용 메커니즘을 이해하려는 학습 수요가 꾸준히 존재함"
+          "블루 쓰나미 여파로 기술주가 폭락한 이후 저가 매수세가 유입되면서 뉴욕증시가 혼조세로 마감함.",
+          "나스닥 지수는 기술주 중심의 저가 매수세에 힘입어 1.09% 상승하며 반등에 성공함.",
+          "폭락 장세 속에서 증시가 한숨을 돌린 가운데 채권 가격은 내리고 달러 가치는 상승함.",
+          "AI 관련 기술주를 중심으로 저가 매수 유입이 나타나며 증시 회복을 이끎."
         ],
         "watch": [
-          "미국 연준 주요 인사의 금리 관련 발언",
-          "미국 물가 지표 발표에 따른 연준의 정책 반응"
+          "미국 국채 금리와 달러화 가치 추이",
+          "AI 기술주 저가 매수세의 지속 여부",
+          "블루 쓰나미 정치적 이슈의 시장 파장"
         ],
         "qna": [
           {
-            "q": "미국 연준의 금리 결정이 한국 경제와 내 자산에 직접적으로 어떤 영향을 미치는가?",
-            "a": "미국 연준이 금리를 올리면 한미 간 금리 차이가 벌어지면서 외국인 자금이 유출되고 원달러 환율이 상승할 압력을 받는다. 이는 수입 물가를 높여 국내 물가 전반에 부정적인 부담을 줄 수 있다."
+            "q": "블루 쓰나미 여파가 뉴욕증시에 어떤 충격을 주었는가?",
+            "a": "정치적 정책 변화에 대한 우려로 기술주 중심의 대규모 매물이 출회되었다."
           },
           {
-            "q": "미국 연준 의장의 발언 하나에 글로벌 증시가 크게 흔들리는 이유는 무엇인가?",
-            "a": "연준 의장은 세계 최대 경제 대국의 통화정책을 총괄하는 수장으로 전 세계 달러 유동성의 향방을 쥐고 있기 때문이다. 의장의 한마디는 향후 금리 인상이나 인하의 시점을 가늠하는 가장 중요한 힌트가 되기 때문에 시장 참여자들이 즉각 반응한다."
+            "q": "폭락 직후 유입되는 저가 매수는 안전한 투자 전략인가?",
+            "a": "단기 반등을 노린 접근은 변동성이 커서 리스크 관리가 반드시 동반되어야 한다."
           },
           {
-            "q": "연준의 금리 전망을 해석할 때 일반 투자자가 주의해야 할 점은 무엇인가?",
-            "a": "연준의 전망은 고정된 것이 아니라 향후 발표되는 고용 지표와 소비자물가지수 등의 경제 데이터에 따라 수시로 수정된다. 따라서 단기적인 전망에 맹신하기보다는 거시경제 지표의 큰 흐름을 유연하게 관찰하는 자세가 필요하다."
+            "q": "나스닥 반등이 국내 증시에도 긍정적 영향을 미치는가?",
+            "a": "미국 기술주 심리가 개선되면 국내 IT 및 반도체주에도 온기가 전해질 수 있다."
           }
         ]
       },
-      "뉴욕증시": {
-        "headline": "뉴욕증시 마감 시황과 실시간 지수 동향",
+      "미국 깜짝 고용": {
+        "headline": "미국 10월 일자리 16만 5천 개 깜짝 증가",
         "facts": [
-          "수집된 기사가 존재하지 않아 뉴욕증시의 구체적인 마감 지수나 상승 및 하락 폭을 수치로 제시할 수 없음",
-          "국내 투자자들이 글로벌 증시의 흐름을 파악하기 위해 뉴욕증시 실시간 시황과 마감 현황을 지속해서 모니터링함",
-          "시차로 인해 야간에 진행되는 뉴욕증시 개장시간과 마감시간에 맞춰 국내 파생 및 해외 주식 투자자들이 대응함",
-          "미국 증시의 공식 휴장일 일정과 주요 경제 지표 발표 시간에 따른 증시 변동성에 대한 관심이 유지됨",
-          "뉴욕증시 뜻과 다우존스, 나스닥 등 주요 지수의 구성 방식에 대한 기초적인 정보 탐색이 이루어짐"
+          "미국의 10월 일자리가 16만 5천 개 증가하는 깜짝 고용 지표가 발표됨.",
+          "견조한 고용 지표로 인해 연방준비제도의 12월 추가 금리 인상 전망에 무게가 실림.",
+          "고용 지표 호조 소식에 미국 국채 금리가 약세를 보이고 달러화는 급등세를 기록함.",
+          "깜짝 고용 발표 이후 AMD 주가가 11% 급등하는 등 기술주 회복세와 맞물림."
         ],
         "watch": [
-          "뉴욕증시 기술주 중심의 실시간 주가 변동성",
-          "미국 국채금리 변화에 따른 뉴욕증시 마감 결과"
+          "미 연방준비제도의 12월 금리 결정",
+          "미국 고용 지표 호조에 따른 달러 환율 변동",
+          "국채 금리 움직임에 따른 시장 반응"
         ],
         "qna": [
           {
-            "q": "뉴욕증시의 마감 결과가 다음 날 국내 코스피 시장에 미치는 영향은 얼마나 큰가?",
-            "a": "뉴욕증시는 세계 금융 시장의 중심이기 때문에 전날 밤 미국 증시가 폭등하거나 폭락하면 다음 날 아침 국내 증시의 시초가에 직접적인 연동 효과를 준다. 특히 대형 기술주 중심의 나스닥 지수 움직임은 국내 반도체 주가에 큰 파급력을 미친다."
+            "q": "고용이 잘 되었는데 왜 금리 인상 전망이 강화되는가?",
+            "a": "경기가 과열될 경우 물가를 잡기 위해 중앙은행이 금리를 올릴 가능성이 커지기 때문이다."
           },
           {
-            "q": "국내 투자자가 뉴욕증시 개장시간과 마감시간을 정확히 알아야 하는 실질적인 이유는 무엇인가?",
-            "a": "미국 증시는 서머타임 적용 여부에 따라 개장 시간이 달라지므로 해외 주식을 직접 거래하거나 관련 파생상품을 다루는 투자자에게는 필수적인 시간 정보이다. 시간에 따른 유동성 변화를 파악해야 불필요한 슬리피지나 변동성 위험을 줄일 수 있다."
+            "q": "미국 깜짝 고용 발표가 내 자산 생활에 미치는 영향은 무엇인가?",
+            "a": "환율 상승과 금리 압박으로 인해 대출 이자나 수입 물가에 부담으로 작용할 수 있다."
           },
           {
-            "q": "뉴욕증시 지수를 볼 때 다우지수와 나스닥지수를 각각 어떻게 구분해서 이해해야 하는가?",
-            "a": "다우지수는 미국을 대표하는 전통 우량 기업 30개 종목으로 구성되어 전통적인 경기 흐름을 보여준다. 반면 나스닥지수는 기술주와 성장주 위주로 구성되어 있어 혁신 산업의 성장성과 시장의 위험선호 심리를 더 민감하게 반영한다."
+            "q": "고용 지표가 달러 환율을 왜 급등시키는가?",
+            "a": "미국 경제가 탄탄하다는 신호로 해석되어 달러화의 매력도가 높아지기 때문이다."
           }
         ]
       },
-      "국제 유가": {
-        "headline": "국제 유가 실시간 가격 변동 그래프 분석",
+      "국제 유가 보합": {
+        "headline": "중동 정세 주시하며 국제유가 보합 마감",
         "facts": [
-          "수집된 기사가 존재하지 않아 서부텍사스산원유나 브렌트유의 구체적인 국제 유가 실시간 가격 수치를 확인할 수 없음",
-          "에너지 가격 변동이 물가와 제조 원가에 미치는 영향을 파악하기 위해 국제 유가 실시간 차트 조회가 빈번하게 발생함",
-          "국제 유가 변동 그래프의 추이를 분석하여 향후 석유류 제품 가격과 국내 물가 상승 압력을 예측하려는 시도가 있음",
-          "글로벌 원유 수급 상황과 지정학적 리스크가 국제 유가 가격 지수에 실시간으로 반영되는 양상이 나타남",
-          "국제 유가 뜻과 원유 선물 시장의 가격 결정 메커니즘에 대한 일반 독자들의 정보 탐색이 이루어짐"
+          "국제유가는 중동 정세를 주시하는 가운데 WTI가 0.34% 소폭 상승하며 보합권에서 마감함.",
+          "이란 협상 기대감의 영향으로 주간 기준으로는 큰 폭의 낙폭을 기록함.",
+          "국내 주유소 기름값은 25주 연속 하락세를 보이나 소비자가 체감하는 물가는 제자리걸음임.",
+          "미국 국채 금리가 급락하고 달러가 보합세를 보이는 등 안전자산 선호 심리가 강화됨."
         ],
         "watch": [
-          "산유국 연합체의 산유량 정책 변화",
-          "중동 지역 정세에 따른 국제 유가 변동성"
+          "중동 지정학적 리스크의 전개 양상",
+          "이란 관련 협상 진행 상황",
+          "국내 주유소 기름값의 하락세 지속 여부"
         ],
         "qna": [
           {
-            "q": "국제 유가가 급등할 경우 내 주머니 사정과 일상생활에는 어떤 변화가 생기는가?",
-            "a": "국제 유가가 오르면 정유 제품 가격이 상승하여 주유소 휘발유와 경유 가격이 비싸진다. 이는 물류 비용 증가로 이어져 식료품과 공공요금 등 전반적인 물가 상승을 유발하는 부작용을 낳는다."
+            "q": "국제유가가 보합세를 보이는데 왜 주유소 체감 가격은 그대로인가?",
+            "a": "유통 시차와 세금 구조 등으로 인해 국제유가 변동이 주유소 가격에 반영되는 데 시간이 걸린다."
           },
           {
-            "q": "국제 유가 실시간 차트와 변동 그래프를 볼 때 투자 관점에서 주목해야 할 핵심 포인트는 무엇인가?",
-            "a": "단기적인 가격 등락보다는 주요 저항선이나 지지선을 돌파하는 추세의 변화를 읽는 것이 중요하다. 공급 측면의 돌발 변수와 수요 측면의 경기 둔화 우려가 어떻게 충돌하는지 종합적으로 파악할 필요가 있다."
+            "q": "이란 협상 기대감이 유가에 어떤 변화를 주는가?",
+            "a": "지정학적 불안감이 완화되면서 공급 차질 우려가 줄어들어 유가 하락 압력으로 작용한다."
           },
           {
-            "q": "국제 유가 등락은 국내 주식 시장의 업종별 주가에 어떤 명암을 남기는가?",
-            "a": "유가 상승은 정유주나 자원 개발 관련 기업의 실적에는 호재로 작용하지만 항공, 해운, 화학 등 연료 비용 비중이 높은 업종에는 원가 부담을 가중시켜 악재로 작용한다."
+            "q": "유가 보합과 안전자산 선호가 경제에 주는 시그널은 무엇인가?",
+            "a": "시장 참여자들이 불확실성을 경계하며 리스크를 줄이는 방어적 태세를 취하고 있음을 뜻한다."
           }
         ]
       }
     },
     "news": {
-      "코스피": [],
-      "기준금리": [],
-      "부동산": [],
-      "미국 연준": [],
-      "뉴욕증시": [],
-      "국제 유가": []
-    },
-    "queries": {
-      "코스피": [
-        "코스피지수",
-        "코스피 주가",
-        "코스피 지수 실시간",
-        "코스피 하이닉스 주가",
-        "코스피 뜻",
-        "코스피 sk하이닉스 주가",
-        "코스피 선물",
-        "코스피 코스닥 지수",
-        "코스피랩",
-        "코스피 뜻 쉽게"
+      "코스피 변동성": [
+        {
+          "title": "증시급락에 코스피 변동성지수 껑충…3개월만에 60선 웃돌아 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0UVFYbmJRWHoxU082d29tU2ZfMXJ0aWhpenhTenRXQTNTOEdBcC16aUp5cUxrVWRVUFVuSFliTHVqUmhjdEFRWkx5bi1vc25UeC14WHFPemJ5aGZZcV9SMtIBYEFVX3lxTFB0UVFYbmJRWHoxU082d29tU2ZfMXJ0aWhpenhTenRXQTNTOEdBcC16aUp5cUxrVWRVUFVuSFliTHVqUmhjdEFRWkx5bi1vc25UeC14WHFPemJ5aGZZcV9SMg?oc=5",
+          "source": "연합뉴스",
+          "published": "11-06 10:38",
+          "snippet": "증시급락에 코스피 변동성지수 껑충…3개월만에 60선 웃돌아 연합뉴스"
+        },
+        {
+          "title": "증시급락에 코스피 변동성지수 껑충…3개월만에 60선 웃돌아 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxM1BfSHJLQnEzcDRIZFBKREtJU0oyT2lvSlVVdnE3Y0V5RkFyYXpwdUpfZDZVenR1YTFkTUlmSWd1VTBKcVRBSHUyQ2dDR1A2VVE?oc=5",
+          "source": "매일경제 마켓",
+          "published": "11-06 10:38",
+          "snippet": "증시급락에 코스피 변동성지수 껑충…3개월만에 60선 웃돌아 매일경제 마켓"
+        },
+        {
+          "title": "노무라, 코스피 3개월 목표 7500~8000 제시…“단기 변동성 불가피” - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNlRLYUU3ZmpPaXFvWEFzOXA4bVEyS0NwQU9LUzdhaHBSb2s1UXlETzFTX3ltVXpmdnJ3Yzcxa3kyaXBnd3gyTnUzV0s5SGtZeVp6bkNZeTU0bk1XZXFWRDd4dnIxLXVJcWJWWTRtcEluOXRzYkhhNGpOeVVTNzNLWEZNb1JvQ2dU0gGcAUFVX3lxTE1WRjgtallYRXJSQWt2WGNPMzdRYlZtUEJtZDVjZUU5TmVwNHF0aUNwWXdva2Zpcy1qeDAzRG80eWpKajBCVWhwQ2NOMUFvazRCcVgzV1BfWGFaQmthR3JxY3dfS0QzY25Ecm5uQXFRc1hQMEpxMDVsQ1JyaDdOVHJYQWlDNm1TdUxqQ3hXeDdzelEzaks1T2dETHFlVQ?oc=5",
+          "source": "Chosunbiz",
+          "published": "11-06 14:49",
+          "snippet": "노무라, 코스피 3개월 목표 7500~8000 제시…“단기 변동성 불가피” Chosunbiz"
+        },
+        {
+          "title": "\"내가 사면 떨어진다는 것 인정해라\"…개미 계좌 지키는 변동성 투자법 - 비즈워치",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5eHlvTGhZS1pvQXpwTXphVDc2REVMMVRfRk9ISXVGTThHclltemtNWWk3RkFrU3JhZVlEWG9QZ0tLRkFMNF9wdC0zV1JZR1k2TElNZHZqblVLcGpLbC04d0FZU0ZZYWI5TGc?oc=5",
+          "source": "비즈워치",
+          "published": "11-06 10:23",
+          "snippet": "\"내가 사면 떨어진다는 것 인정해라\"…개미 계좌 지키는 변동성 투자법 비즈워치"
+        },
+        {
+          "title": "코스피 급락에 변동성지수 60선 돌파…3개월 만 - 이데일리",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNGZxTzZvdTlybWFhd3dtbVRUSjNRUkpXcjJTSEhzbVR4RUkxVFdxV3pITF9kWG9GRkg4LWlRMlYtelJBWXpoSGhUNVdQOHVtWTJseHZ0dloxNHMwdEMzR1ZCSTFLb29OQjFsUVBqTDBkelg0ZHFrNVl2NC1HSG9FRQ?oc=5",
+          "source": "이데일리",
+          "published": "11-06 11:06",
+          "snippet": "코스피 급락에 변동성지수 60선 돌파…3개월 만 이데일리"
+        },
+        {
+          "title": "\"美 반도체주 12% 폭락…코스피도 변동성 확대 전망\" - 뉴스투데이",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vU0pMaU40bnpwZkZhU0d5Nk1zSlczd09zellNNUg1TEw1SS0tVU5nUUJPRmRmb0s1ZEsxVFFxdnNFX0tnTHlfMDB5eU9TWHZwU2V2Vm9hS1pwVmNTenc?oc=5",
+          "source": "뉴스투데이",
+          "published": "11-06 09:02",
+          "snippet": "\"美 반도체주 12% 폭락…코스피도 변동성 확대 전망\" 뉴스투데이"
+        }
       ],
-      "기준금리": [
-        "기준금리 영어로",
-        "기준금리 미국",
-        "기준금리 뜻",
-        "기준금리 한국",
-        "기준금리 인상",
-        "기준금리 추이",
-        "기준금리와 국채금리 관계",
-        "기준금리란",
-        "기준금리 발표일",
-        "기준금리 인상 뜻"
+      "강남 부동산 약세": [
+        {
+          "title": "‘폭락’한다는 강남 아파트, 왜 체감되지 않을까[부동산 취재로그] - 이데일리",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWHlFdmV1SjhBNFpXb0E0amlud2ZFWnFDaEsxR3p1OUs0b3pYS3FSUTEzNHhTUmpORTlNOW41YmwyNWptYUNjckkxcXhQdks2MGJpdXRJa1R5WEpjcEo0U0FNQ0RBTG1qQzBWU2RGVEhRN1ZHMWhFWEp5Q3gxUnNxYg?oc=5",
+          "source": "이데일리",
+          "published": "11-07 07:00",
+          "snippet": "‘폭락’한다는 강남 아파트, 왜 체감되지 않을까[부동산 취재로그] 이데일리"
+        },
+        {
+          "title": "집값 하락 (강남3구만), 틀린 말은 아니지만 - 비즈워치",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BWmhUbW9vWmU3TWx0R1FjdEZNYWhUemdreUU5TjRnRE1CdWlHTUo5X3ZoTTNRb185V2cydXNkREdyOC10OXRIOGstWVhjemVfMEpwOTFDTDFTR2F0eklYUnVJVk1EdnpOMlFqc2s5aEo?oc=5",
+          "source": "비즈워치",
+          "published": "11-07 08:00",
+          "snippet": "집값 하락 (강남3구만), 틀린 말은 아니지만 비즈워치"
+        },
+        {
+          "title": "[통계로 보는 부동산] 강남3구 9주째 하락·분양 전망도 먹구름…11월 4만가구 공급 앞둬 - 아주경제",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aN09DYzJHamtUZzFYNkZoQnFvNXRPLWM1TllMeVlKcktfLWlyYjl2OFUwN3dacVgtZ28wamQySkRYT0ItNmN3VzhlenpNZmRkUjRHSnFSeTbSAVhBVV95cUxPWjdPQ2MyR2prVGcxWDZGaEJxbzV0Ty1jNU5ZTHlZSnJLXy1pcmI5djhVMDd3WnFYLWdvMGpkMkpEWE9CLTZjd1c4ZXp6TWZkZFI0R0pxUnk2?oc=5",
+          "source": "아주경제",
+          "published": "11-07 06:00",
+          "snippet": "[통계로 보는 부동산] 강남3구 9주째 하락·분양 전망도 먹구름…11월 4만가구 공급 앞둬 아주경제"
+        },
+        {
+          "title": "콧대 높던 원베일리 14억 ‘뚝’...강남 아파트값 하락 거래 속출 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wZWM3eUNuUndTRlNRVnJIVUtSOGNsdXczVzJDTi0yQVVzXzZkZi1UZU4zdXVSeGhtaFVEQmRFWkw3R0lPQXBiMzhHSEpBbVRNNndzblJ3?oc=5",
+          "source": "매일경제",
+          "published": "11-06 16:09",
+          "snippet": "콧대 높던 원베일리 14억 ‘뚝’...강남 아파트값 하락 거래 속출 매일경제"
+        },
+        {
+          "title": "강남3구서 일주일 새 5% 이상 하락거래 16건…30% 하락도 - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjT19qOUR6d29uTjJDRXRTS3FxVENGczVTdjFzQWJVWkoyWF9FeUpyRXY3QmVIM0lJWFozSmVGelo1clBuUGlhcTdSWEkxNmU4SnBmdlpmUnhyaEVrbWFFNUxfLXZuUWJlSFRXakpLZWpxdzlNNS1kZdIBeEFVX3lxTFBjT19qOUR6d29uTjJDRXRTS3FxVENGczVTdjFzQWJVWkoyWF9FeUpyRXY3QmVIM0lJWFozSmVGelo1clBuUGlhcTdSWEkxNmU4SnBmdlpmUnhyaEVrbWFFNUxfLXZuUWJlSFRXakpLZWpxdzlNNS1kZQ?oc=5",
+          "source": "뉴시스",
+          "published": "11-06 09:55",
+          "snippet": "강남3구서 일주일 새 5% 이상 하락거래 16건…30% 하락도 뉴시스"
+        },
+        {
+          "title": "11월 둘째 주 '5215가구' 청약… 평택·수원·시흥 등 경기권 집중 - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pSE1XOW9HZFJxUzhSSXNoMHpzUWw4eGcxcTZwb0c1cnBXTE5JZ3NUVGZtWm02alNLQVlUYl9walR0TlRLMGp3N2xqcENtY1RMOFRUSGlhQUR5ZEhoQnRHWWdQX0N4Z3VKZ3F3N3VJNNIBb0FVX3lxTE1pSE1XOW9HZFJxUzhSSXNoMHpzUWw4eGcxcTZwb0c1cnBXTE5JZ3NUVGZtWm02alNLQVlUYl9walR0TlRLMGp3N2xqcENtY1RMOFRUSGlhQUR5ZEhoQnRHWWdQX0N4Z3VKZ3F3N3VJNA?oc=5",
+          "source": "머니투데이",
+          "published": "11-06 15:49",
+          "snippet": "11월 둘째 주 '5215가구' 청약… 평택·수원·시흥 등 경기권 집중 - 머니투데이 머니투데이"
+        }
       ],
-      "부동산": [
-        "부동산114",
-        "부동산 매물 사이트",
-        "부동산 네이버",
-        "부동산 시세 조회",
-        "부동산 시세 조회 방법",
-        "부동산 시세",
-        "부동산거래 전자계약시스템",
-        "부동산 매물",
-        "부동산114 시세",
-        "부동산 뜻"
+      "국내 반도체 투자": [
+        {
+          "title": "반도체 소재 분야 국내 투자 확대… 외국기업의 날 정부 포상 수상 - 올포칩",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCRGFERzd2enNPYzFFUklUdnJYQUNsZFMxbDY4V3BDNWd0X3pPNjBsMHFPaWdjdUFGT29JeDA0UVhUbG91WlZkeExJZ19SNnFmeXMyRXlINnc3M0lXOVNIVA?oc=5",
+          "source": "올포칩",
+          "published": "11-07 03:15",
+          "snippet": "반도체 소재 분야 국내 투자 확대… 외국기업의 날 정부 포상 수상 올포칩"
+        },
+        {
+          "title": "국내복귀 포럼, 기업과 지역 잇는 투자유치 플랫폼으로 진화 - 헬로티",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CU0xEYzUwY1dmQ0JITXptYzlTek43enFvUWU5LWlaakNJc1YtaXJLT01HWENVYWJIeXdTbFRMLVhUdjRwSGJ1NFB0WnFKLVVncTRMRmR3NV9GUGVsNjM4?oc=5",
+          "source": "헬로티",
+          "published": "11-06 15:19",
+          "snippet": "국내복귀 포럼, 기업과 지역 잇는 투자유치 플랫폼으로 진화 헬로티"
+        },
+        {
+          "title": "코스피 장중 5000선 붕괴…미국 AI 규제 우려에 외국인 2.8조 매도, 반도체 실적이 반등 변수 - 시사프리즘",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83WDNCdXhoZkhVYzVtcnY4T1M4VW1fZlJ0aF9ycG1nc3J2X0VZV09RZkZIRXZGMnd1QjI3RWNoakFjMFpMQ3BtckQ5Y2JhY3llam1uQnlVT3RoRUlTeFBmbGd4amw3M29a?oc=5",
+          "source": "시사프리즘",
+          "published": "11-06 18:24",
+          "snippet": "코스피 장중 5000선 붕괴…미국 AI 규제 우려에 외국인 2.8조 매도, 반도체 실적이 반등 변수 시사프리즘"
+        },
+        {
+          "title": "美 반도체 쇼크에 코스피 5,000선 붕괴…개미 투자자 직격탄 - 미디어스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBZ0RNdXdWRElMUFVwTzBEdkl5ZUQ0NzB0amtCNkhJenJSVU9LSWtYOWN2WXhfeFhMLTB5Q0J6RWU2STdvQzhCUUtYMXp0VVd4Qy0xb2d1N2RPNDBCOUFMS0F6allYUVdnbHJObdIBcEFVX3lxTE5mdFdHQ1hsSnN6VVF6TTRQNnVFQ3M1UFdnclRmN29ZMEE2UGpzaEZwb3NGZHFfcHB4VXIycndhY0laMVNNaXFzRlEweEp5RlJzMks0VEJpZlNVdWE3ZXk0OTJsdTJHNzdlQndjb2ROems?oc=5",
+          "source": "미디어스",
+          "published": "11-06 11:16",
+          "snippet": "美 반도체 쇼크에 코스피 5,000선 붕괴…개미 투자자 직격탄 미디어스"
+        },
+        {
+          "title": "AI 반도체 급락에 짐 쌌다…투자자들 대거 몰린 종목 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96eG1nWHg4V3RfYXp1RFNEaGw5QTA5UXlCdWlqUm5mMmcxWEV0Nkg5UlBGUVctemo1ZEdEMEFmX2FZVXV1RzZrU3F5aVVDWXlURkIzMGpXMVhuQQ?oc=5",
+          "source": "한국경제",
+          "published": "11-06 08:38",
+          "snippet": "AI 반도체 급락에 짐 쌌다…투자자들 대거 몰린 종목 한국경제"
+        },
+        {
+          "title": "美 ‘블루 쓰나미’ AI 투자 제동 우려에도…삼성·SK는 “반도체 없어서 못 판다” - 서울경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NU1lZMUtaVEVjYVIwZG1SX0h2UEQ0OENieUNyWGlrWkExRFJWX2M3UUtVcEVwYkk2ZDlBQWJ0NkFCeHF4TnhrOThjOHJfdUpjQ2fSAVNBVV95cUxQek5odVlrWlZlOFVmNS1pT1JLT1k5WTJrU01JS2RsdTYwOTBYb3F5bTJzalIyaWh3TmR1QTE3NUR4ck93cFlMNE5EN09ONFFadFpDNA?oc=5",
+          "source": "서울경제",
+          "published": "11-06 10:54",
+          "snippet": "美 ‘블루 쓰나미’ AI 투자 제동 우려에도…삼성·SK는 “반도체 없어서 못 판다” 서울경제"
+        }
       ],
-      "미국 연준": [
-        "미국 연준 금리",
-        "미국 연준 의장",
-        "미국 연준 금리 발표일",
-        "미국 연준 금리 인상",
-        "미국 연준 금리 발표",
-        "미국 연준 기준금리",
-        "미국 연준 뜻",
-        "미국 연준 금리 전망",
-        "미국 연준 금리 발표 일정",
-        "미국 연준 의장 뜻"
+      "뉴욕증시 저가매수": [
+        {
+          "title": "[뉴욕증시-1보] '블루 쓰나미' 여파 속 저가 매수 모색…혼조 마감 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VVDUxd3BnNEdfZlJMN0stQmVheWxsT3d6Rmh3Um1qRC1XWHk1X3pORkQycmM3NFBXSnFWczNpUEF5VU5BX2lnX09fZnRQMU1Zc2RJSU9oWU9lYldBaUNpN0ZubDFpNlR2YVBrSjRYQVXSAXRBVV95cUxNemE5WGx6aVgwRVN0NG5pWFFVV0kwekdEUWhkRWx0bHR1Q3ptMXZ3eFVJcVJSdk9mT3p5ZXB5N1YydlFZNlZXVHNYZk1RdEJDRzNUZEpMWThWaWVHU0lHVi11SENvQmtFVVVrWlF0OG9xMzJwOQ?oc=5",
+          "source": "연합인포맥스",
+          "published": "11-07 06:16",
+          "snippet": "[뉴욕증시-1보] '블루 쓰나미' 여파 속 저가 매수 모색…혼조 마감 연합인포맥스"
+        },
+        {
+          "title": "뉴욕 증시 반등...반도체주 중심 저가 매수세 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OTjcwLXphcnRxNG9rOFYtb2hVQTh0RHVERzBfX0sycUNSSHRRYVUxY2gySEhoNmNMdFdOVUlGbW5rcmhCTHh5MXdWYUVWYlVqT2JTWlNvdU5vTzBNT1E?oc=5",
+          "source": "YTN",
+          "published": "11-07 08:26",
+          "snippet": "뉴욕 증시 반등...반도체주 중심 저가 매수세 YTN"
+        },
+        {
+          "title": "뉴욕증시, AI주 저가 매수에 혼조 마감…나스닥 1.09%↑ - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03ZVhHTkI5UUdLWDJndzUwX2owX3dqNHlVbjlubm1OcmlORC1fR3JoSGREMmE4NzFyV2dfQk9DT3ROOWhjd0c4Q0I3amM1Z1BNeE9NRlNINDNKcm5o?oc=5",
+          "source": "뉴스핌",
+          "published": "11-07 06:21",
+          "snippet": "뉴욕증시, AI주 저가 매수에 혼조 마감…나스닥 1.09%↑ 뉴스핌"
+        },
+        {
+          "title": "[뉴욕마켓워치] 폭락 뒤 저가 매수로 한숨 돌린 증시…채권↓달러↑ - KB Think",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE91ek12TTZuNWt3UjdtMWJoaVkya1BEMXBFTFh6TTU2QXc2dl9ZVEZNTUs2OWdyclhHNjNQZnM0cEl2Rm9oLUpsa2Z2cUVuY0JkMEduRzRmOEtQZ3Z6NlZKOFY5aXhRWXpRd2NlZEJOb0ZVZw?oc=5",
+          "source": "KB Think",
+          "published": "11-07 06:59",
+          "snippet": "[뉴욕마켓워치] 폭락 뒤 저가 매수로 한숨 돌린 증시…채권↓달러↑ KB Think"
+        },
+        {
+          "title": "뉴욕증시, AI 기술주 폭락 후 저가 매수세…나스닥 1.1%↑(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xb3F1aU5RXzhvckgyd3VfQjFTRGFkR1ZaWlZpUTdvQTZKaFEya0tRSUJMaHVEQy1FelhZYWQ0SzMzN0h1SDU0NjhRcjUwN0U0X1c1UlZKQ0RYVGZyTS01QdIBYEFVX3lxTE8xb3F1aU5RXzhvckgyd3VfQjFTRGFkR1ZaWlZpUTdvQTZKaFEya0tRSUJMaHVEQy1FelhZYWQ0SzMzN0h1SDU0NjhRcjUwN0U0X1c1UlZKQ0RYVGZyTS01QQ?oc=5",
+          "source": "연합뉴스",
+          "published": "11-07 06:44",
+          "snippet": "뉴욕증시, AI 기술주 폭락 후 저가 매수세…나스닥 1.1%↑(종합) 연합뉴스"
+        },
+        {
+          "title": "뉴욕증시, 기술주 저가 매수에 반등…나스닥 1.09% 상승 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QOVp2VFY3bzBDbkFiNlR6R1lnYWpjU3h4VkJBVzVad1g2eUt4QzVfYUcxYmhDM1E5bmpVTzZOQjNPM1FzLUt5TGZFQ3BjSFVvT081ZjNoQ1VhTXRVZ0pLbHF1MFJKX3lMQm5WRUo5QW1YbGPSAWZBVV95cUxOVmlRZG9JTzg5a2dSSVN5S1hqYTdKYTJzVFROaG94M21hNVctdWNQbjhDcXg2dzVOeVdEZDFmaWZxNWFXTkZ3TDF6elM4cWdjS01tNlU2NnJXSDdGeFY4OXo1WGpUWUE?oc=5",
+          "source": "동아일보",
+          "published": "11-07 08:25",
+          "snippet": "뉴욕증시, 기술주 저가 매수에 반등…나스닥 1.09% 상승 동아일보"
+        }
       ],
-      "뉴욕증시": [
-        "뉴욕증시 개장시간",
-        "뉴욕증시 현황",
-        "뉴욕증시 휴장일",
-        "뉴욕증시 실시간",
-        "뉴욕증시 마감",
-        "뉴욕증시 지수",
-        "뉴욕증시 속보",
-        "뉴욕증시 마감시간",
-        "뉴욕증시 시황",
-        "뉴욕증시 뜻"
+      "미국 깜짝 고용": [
+        {
+          "title": "美 10월 일자리 16만5000개 ‘깜짝 증가’… 연준 금리 인상 가능성에 무게 실리나 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ2ZSUS0zdk4xeVBFWFV1b1dPVkJ0dDliWkFOcHdXUnVOVzdzVmc0c0NMWEt1SEFfUnAwUVVjaExELVJGV2YxZ0VCb3BpSjNIeXJNTURrbXJhQVE2cnVRLTdBdC15TGNhNm1nSTVFdGhfaGxKdTBBdTBDQzJ2MThKTUZrTDRUYWpL?oc=5",
+          "source": "조선일보",
+          "published": "11-06 23:13",
+          "snippet": "美 10월 일자리 16만5000개 ‘깜짝 증가’… 연준 금리 인상 가능성에 무게 실리나 조선일보"
+        },
+        {
+          "title": "미국 10월 고용 16만5천 명 ‘깜짝 증가’…12월 금리 인상 전망 강화 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQSDhpSkl4Z0ZlbFNYOGZjQ29GU0xmR0lQVi1FR3pRVE8xQ2JOcEpIbkJ2Y3VFUFBKZ1lrVXowZHE4NGRwalBvSWRPWjFnaU1WeWFRb01hVDlWVDg?oc=5",
+          "source": "KBS 뉴스",
+          "published": "11-07 00:06",
+          "snippet": "미국 10월 고용 16만5천 명 ‘깜짝 증가’…12월 금리 인상 전망 강화 KBS 뉴스"
+        },
+        {
+          "title": "美 10월 고용 16만5천명 '깜짝 증가'…12월 금리인상 전망 강화 - 조세금융신문",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ramNsbjE5VUg1X1dQRnlqbzdfRVJVZDlPZVB2VlAtOVpsdHRPRlNtSXZhajNRS05sWjdBOXJfX3BELVc0UXlPZlFJWkFNbWZ4S2xsRDdvTVRaYlU2SnZSUA?oc=5",
+          "source": "조세금융신문",
+          "published": "11-07 08:32",
+          "snippet": "美 10월 고용 16만5천명 '깜짝 증가'…12월 금리인상 전망 강화 조세금융신문"
+        },
+        {
+          "title": "국채선물, '깜짝 고용' 美 국채 약세 속 혼조…10년물 8틱↑ - KB Think",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BeDdTYV9QWVZXV1ByM1djNmhHYnFJblBHVldSSGFrSTh2dnBSc3paZDFhMGJfdlA0T3IyNTNkNE1ERUpmM3BORVE2X1hjX1M2RzBPbFhfeHpPazBpdjE0aW50WncwWENBTm9KU21JZTh6UQ?oc=5",
+          "source": "KB Think",
+          "published": "11-07 06:31",
+          "snippet": "국채선물, '깜짝 고용' 美 국채 약세 속 혼조…10년물 8틱↑ KB Think"
+        },
+        {
+          "title": "[뉴욕환시] 달러 급등…기술주 회복 속 美 '깜짝' 고용 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1EOUtlWW5xRTY0TzdWZGN6VktRaElwVGFwWTdJWHJ6SlNOTmZ2ZWxDaDgzWVY0bUQ2OFJOcERPXzdCeGI5VkdBNjVXanF0MGI2eGdER3NDcWRJNUl3eUZORFdiWjItRlp1Q2lFRGxuZVM?oc=5",
+          "source": "연합인포맥스",
+          "published": "11-07 08:19",
+          "snippet": "[뉴욕환시] 달러 급등…기술주 회복 속 美 '깜짝' 고용 연합인포맥스"
+        },
+        {
+          "title": "[월가 레이더] 美 고용 16.5만명 '깜짝 증가'…AMD 11% 급등·나스닥 반등 - 포커스온경제",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90OXRQd3VNLU9JbGcxckw5amRMcS01YWdSTXQ3SmV2WFNQX3lBTWdpLUZ1cmdPQ0tlNTZ1YWRHVm03T2g1UjY3S2ZTS0pKbFk5OHNTUUp6UzZSR1NuZVE?oc=5",
+          "source": "포커스온경제",
+          "published": "11-07 05:10",
+          "snippet": "[월가 레이더] 美 고용 16.5만명 '깜짝 증가'…AMD 11% 급등·나스닥 반등 포커스온경제"
+        }
       ],
-      "국제 유가": [
-        "국제 유가 실시간 가격",
-        "국제 유가 실시간 차트",
-        "국제 유가 차트",
-        "국제 유가 실시간",
-        "국제 유가 변동 그래프",
-        "국제 유가 가격",
-        "국제 유가 지수",
-        "국제 유가 실시간 사이트",
-        "국제 유가 추이",
-        "국제 유가 뜻"
+      "국제 유가 보합": [
+        {
+          "title": "국제유가, 중동 정세 주시 속 보합권 마감…WTI 0.34%↑ - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4U3FXXzkxd1ZrZWZpaXZKaXlTUjJ0aEhjeUZwSDliWWxnaXRCaGhQdkdqTzZCWnN1RUNFUkE5T1Q2Ykk1cXJlV0RJR2hlZFhrRlpVWWMxSk5tbHPSAWBBVV95cUxQZzljcVFCRk1aWW5vcGVMTXB5UjUzQmZZOGVnYUFjV1NTa0FIcEtLNTFrZkNWXy02bjJaV0FBejFOMktSLXA2YUFuTFJvYk40TnNjSWxPcmhfX3NrMEliaXY?oc=5",
+          "source": "연합뉴스",
+          "published": "11-07 05:45",
+          "snippet": "국제유가, 중동 정세 주시 속 보합권 마감…WTI 0.34%↑ 연합뉴스"
+        },
+        {
+          "title": "국제유가, 중동 리스크 관망 속에 보합권 마감... WTI 0.34%↑ - 글로벌경제신문",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDSUU5ZUExLUlhZi11WXBNWUxld19lUWZVbnRzX1lIUDJUbXkyMjNOVTg0UmhiRUVKVmI3QlZmclMxUEhWcTdLeEpERk84WmhvVmc4dWhDd1NmY1ZmMWp1UEU2b0ZyY0luam9nUNIBcEFVX3lxTFBLbkw5V3JBbkpuclFqQmZ0bzk4U2lKSmQxZkYyNUxXOExoQWhScWNuU05MZl9DdXNvMVVqYzE1T1hKSWh1ZzAyOGE0bVh0cW4zMUNhaTdxcUlJZl9iUnFhY1p4OWlDNVJDUjlUdWstWG4?oc=5",
+          "source": "글로벌경제신문",
+          "published": "11-07 07:23",
+          "snippet": "국제유가, 중동 리스크 관망 속에 보합권 마감... WTI 0.34%↑ 글로벌경제신문"
+        },
+        {
+          "title": "주유소 기름값 25주 연속 하락…소비자 체감은 '제자리' - 뉴시안",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05NF9XZzZMZGk1N25aVFdhMzEzTzlyWm80c2p6bDVEUDBhNWRQMnkzaDc0Q3h4c3lOWEkzdXlfZmp5YmF3czZhcy1PRnRCRnJNNUR4V3p2WF82WUkxdjF0NGhxVFozQk9wWDJmZg?oc=5",
+          "source": "뉴시안",
+          "published": "11-07 06:41",
+          "snippet": "주유소 기름값 25주 연속 하락…소비자 체감은 '제자리' 뉴시안"
+        },
+        {
+          "title": "국제유가, 소폭 상승에도 주간 낙폭 16%⋯이란 협상 기대 영향 [상보] - 이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuS0RrZ1FxSjNjZjZ1MFlUclB6cGwtbFBaVHMyM25XdWNWdXdrX3FBeEM3Q3ZwTFVCS3FmWjJ1U0llTGxFSk8xR0plemV3R05rczNwRQ?oc=5",
+          "source": "이투데이",
+          "published": "11-07 07:03",
+          "snippet": "국제유가, 소폭 상승에도 주간 낙폭 16%⋯이란 협상 기대 영향 [상보] 이투데이"
+        },
+        {
+          "title": "[채권/외환] 美 국채 금리 급락·달러 보합…AI 투자 우려에 안전자산 선호 강화 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iR0t1b3YyNTlKaURLa2wyVGZMNlVnN3VIbTlGZW1QaE1vOEZWM2RDNmRiNV9KdlN5dDdJaUlCaUx3SmNjbGp0aXJleHJTMHg2aHBFdmN2MlRSSkl4?oc=5",
+          "source": "뉴스핌",
+          "published": "11-06 07:21",
+          "snippet": "[채권/외환] 美 국채 금리 급락·달러 보합…AI 투자 우려에 안전자산 선호 강화 뉴스핌"
+        },
+        {
+          "title": "AI주 저가 매수에 나스닥 1% 반등…\"한동안 변동성 장세\"[월스트리트in] - 이데일리",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQV0VXcm1lOXFKRHh3ODBEcFJhcnVtQU00QmloYjNOd2ExcnRpYUlGanhUYkFsQnNFSXZ5Uk9hdlVCcVpoQnh2UnRRNlA3WWRlY0phNTVrTktBTlJMaFN5Qm1aWFdfNXkxWkxzU2ZKbXdaaVJ4WlEwZVBybHJPWDZlRA?oc=5",
+          "source": "이데일리",
+          "published": "11-07 06:44",
+          "snippet": "AI주 저가 매수에 나스닥 1% 반등…\"한동안 변동성 장세\"[월스트리트in] 이데일리"
+        }
       ]
     },
-    "newsletter_md": "# 📈 오늘의 경제 뉴스레터\n_2026-11-07 이슈 · 발행 2026-11-07_\n\n🇰🇷 **국내 경제:** `코스피` · `기준금리` · `부동산`\n🌐 **해외 경제:** `미국 연준` · `뉴욕증시` · `국제 유가`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 코스피 지수와 SK하이닉스 주가의 향방은\n> 키워드: 코스피\n\n**📌 무슨 일이 있었나**\n- 수집된 기사가 존재하지 않아 코스피 지수의 구체적인 변동 폭이나 거래대금 수치를 현재 시점에서 정확하게 확인하는 것이 불가능함\n- 투자자들 사이에서 코스피지수와 코스피 주가 흐름을 파악하기 위한 실시간 검색과 지수 관련 정보 탐색이 지속해서 이루어짐\n- 시가총액 상위 종목인 코스피 하이닉스 주가와 SK하이닉스 관련 실시간 주가 동향에 대한 시장 참여자들의 관심이 매우 집중됨\n- 주식 시장에 처음 진입하는 투자자들을 중심으로 코스피 뜻과 쉽게 이해하는 기초 용어에 대한 학습 수요가 꾸준히 확인됨\n- 지수 방향성을 가늠하기 위한 코스피 선물 시장의 움직임과 코스피 코스닥 지수의 상대적인 등락 비교 분석이 수반됨\n\n**💬 핵심 Q&A**\n- **Q. 코스피의 정확한 의미와 구성 종목은 무엇인가?**\n  A. 코스피는 한국거래소에 상장된 우량 기업들의 주식 가격 변동을 종합적으로 나타내는 대표적인 주가지수이다. 국내 증시에 상장된 모든 보통주를 대상으로 산출하며 한국 경제의 전체적인 주식 시장 흐름을 대변한다.\n- **Q. 초보 투자자가 코스피 선물 시장을 주의 깊게 봐야 하는 이유는 무엇인가?**\n  A. 코스피 선물은 미래의 특정 시점에 지수를 거래하는 파생상품으로 현물 시장의 방향성을 선행해서 보여주는 경향이 있다. 다만 변동성이 매우 크기 때문에 일반 초보 투자자는 시장의 전체적인 심리를 파악하는 용도로만 참고할 필요가 있다.\n- **Q. SK하이닉스 주가 변동이 전체 코스피 지수에 미치는 영향은 얼마나 큰가?**\n  A. SK하이닉스는 코스피 시장에서 시가총액 비중이 매우 높은 대형 반도체 종목에 해당한다. 따라서 이 종목의 주가 등락은 코스피 전체 지수의 방향성에 직접적이고 강력한 상승 또는 하락 압력을 행사한다.\n\n**👀 앞으로 볼 포인트**\n- 외국인과 기관의 코스피 시장 수급 변화\n- 하이닉스를 비롯한 반도체 대형주 주가 흐름\n\n---\n\n### 2. 한국과 미국의 기준금리 추이와 시장 영향\n> 키워드: 기준금리\n\n**📌 무슨 일이 있었나**\n- 수집된 기사가 존재하지 않아 현재 한국은행과 미국 연준의 구체적인 기준금리 결정 수치나 발표 결과를 확인할 수 없음\n- 글로벌 경제 환경 속에서 기준금리 미국 동향과 한국의 기준금리 추이를 비교하려는 시장의 관심이 지속해서 유지됨\n- 기준금리 인상 또는 동화 정책의 방향성이 대출 이자와 자산 시장 전반에 미치는 영향에 대한 분석 수요가 존재함\n- 기준금리와 국채금리의 상호 관계를 파악하여 시중 유동성의 흐름과 채권 가격의 변동 양상을 해석하려는 움직임이 나타남\n- 향후 통화정책 방향을 가늠하기 위한 기준금리 발표일 일정과 영어식 명칭 및 기초 개념에 대한 검색이 이루어짐\n\n**💬 핵심 Q&A**\n- **Q. 기준금리는 내 일상생활과 대출 금리에 구체적으로 어떤 영향을 주는가?**\n  A. 기준금리가 오르면 시중 은행의 조달 비용이 증가하여 주택담보대출과 신용대출 금리가 연쇄적으로 상승한다. 이는 가계의 원리금 상환 부담을 키우고 소비 여력을 위축시키는 결과를 낳는다.\n- **Q. 기준금리와 국채금리는 서로 어떤 밀접한 관계를 가지고 움직이는가?**\n  A. 기준금리는 중앙은행이 결정하는 단기 금리이며 국채금리는 시장에서 거래되는 중장기 금리이다. 기준금리 인상 기대감이 높아지면 국채 매도가 늘어나면서 국채금리도 함께 상승하는 경향을 보인다.\n- **Q. 기준금리 인상이 주식 시장과 부동산 시장에는 어떤 신호로 작용하는가?**\n  A. 기준금리 인상은 시중의 유동성을 흡수하고 자금 조달 비용을 높이기 때문에 위험 자산인 주식과 레버리지를 활용하는 부동산에 하방 압력으로 작용한다. 다만 이러한 영향은 당시의 경기 둔화 여부와 물가 상승률 등 복합적인 요인에 따라 다르게 나타난다.\n\n**👀 앞으로 볼 포인트**\n- 한국은행 금융통화위원회의 향후 금리 결정\n- 기준금리 변동에 따른 시중 은행 대출금리 반응\n\n---\n\n### 3. 부동산 시세 조회와 매물 사이트 활용법\n> 키워드: 부동산\n\n**📌 무슨 일이 있었나**\n- 수집된 기사가 부재하여 특정 지역의 구체적인 아파트 가격 변동률이나 거래량 수치를 파악하는 것이 불가능함\n- 주택 구입이나 임대차 계약을 준비하는 수요자들이 부동산 네이버 및 부동산114 같은 주요 플랫폼을 적극 활용함\n- 정확한 부동산 시세 조회 방법을 통해 실거래가와 호가를 비교하고 시장의 가격 흐름을 파악하려는 시도가 이어짐\n- 투명하고 안전한 거래를 유도하기 위한 부동산거래 전자계약시스템의 활용법에 대한 관심이 꾸준히 증가함\n- 부동산 뜻과 기초적인 시장 참여 구조를 이해하려는 초보 수요자들의 정보 탐색 활동이 지속해서 확인됨\n\n**💬 핵심 Q&A**\n- **Q. 부동산 시세를 조회할 때 네이버나 부동산114 같은 플랫폼의 호가와 실제 거래가는 어떤 차이가 있는가?**\n  A. 호가는 매도자가 희망하는 가격으로 실제 거래 가능한 가격보다 높게 형성되는 경우가 많다. 반면 실거래가는 실제로 계약이 체결되어 신고된 가격이므로 현재의 정확한 시장 가치를 판단하는 데 더욱 객관적인 지표가 된다.\n- **Q. 부동산거래 전자계약시스템을 활용하면 일반 매수자에게 어떤 실질적인 이점이 있는가?**\n  A. 전자계약시스템을 이용하면 종이 계약서 대신 온라인으로 안전하게 계약을 체결할 수 있어 문서 위조나 이중 계약 등의 사기 피해를 예방할 수 있다. 또한 주택임대차 신고가 자동으로 처리되고 버팀목 전세대출 등에서 금리 우대 혜택을 받을 수 있다.\n- **Q. 내 집 마련을 고민하는 무주택자가 부동산 매물 사이트를 볼 때 가장 먼저 확인해야 할 점은 무엇인가?**\n  A. 단순히 호가만 바라보기보다는 동일 단지 내에서 최근 몇 달간 실제로 거래된 가격의 추이를 면밀히 살펴봐야 한다. 아울러 대출 금리 환경과 본인의 상환 능력을 함께 고려하여 보수적으로 자금 계획을 세울 필요가 있다.\n\n**👀 앞으로 볼 포인트**\n- 주요 부동산 플랫폼의 매물 수와 거래량 추이\n- 정부의 부동산 관련 규제 및 정책 변화\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 미국 연준의 금리 전망과 통화정책 방향\n> 키워드: 미국 연준\n\n**📌 무슨 일이 있었나**\n- 수집된 기사가 존재하지 않아 미국 연방준비제도의 구체적인 금리 결정 내용이나 성명서 문구를 확인할 수 없음\n- 글로벌 금융 시장의 향방을 좌우하는 미국 연준 금리 인상 여부와 향후 금리 전망에 이목이 집중됨\n- 미국 연준 의장의 공식 발언 내용과 통화정책 기조 변화에 따라 국내외 증시와 환율이 민감하게 반응함\n- 미국 연준 금리 발표 일정과 발표일에 맞춰 환율과 채권 시장의 변동성을 관리하려는 투자 전략이 수립됨\n- 미국 연준 뜻과 중앙은행의 독립적인 통화정책 운용 메커니즘을 이해하려는 학습 수요가 꾸준히 존재함\n\n**💬 핵심 Q&A**\n- **Q. 미국 연준의 금리 결정이 한국 경제와 내 자산에 직접적으로 어떤 영향을 미치는가?**\n  A. 미국 연준이 금리를 올리면 한미 간 금리 차이가 벌어지면서 외국인 자금이 유출되고 원달러 환율이 상승할 압력을 받는다. 이는 수입 물가를 높여 국내 물가 전반에 부정적인 부담을 줄 수 있다.\n- **Q. 미국 연준 의장의 발언 하나에 글로벌 증시가 크게 흔들리는 이유는 무엇인가?**\n  A. 연준 의장은 세계 최대 경제 대국의 통화정책을 총괄하는 수장으로 전 세계 달러 유동성의 향방을 쥐고 있기 때문이다. 의장의 한마디는 향후 금리 인상이나 인하의 시점을 가늠하는 가장 중요한 힌트가 되기 때문에 시장 참여자들이 즉각 반응한다.\n- **Q. 연준의 금리 전망을 해석할 때 일반 투자자가 주의해야 할 점은 무엇인가?**\n  A. 연준의 전망은 고정된 것이 아니라 향후 발표되는 고용 지표와 소비자물가지수 등의 경제 데이터에 따라 수시로 수정된다. 따라서 단기적인 전망에 맹신하기보다는 거시경제 지표의 큰 흐름을 유연하게 관찰하는 자세가 필요하다.\n\n**👀 앞으로 볼 포인트**\n- 미국 연준 주요 인사의 금리 관련 발언\n- 미국 물가 지표 발표에 따른 연준의 정책 반응\n\n---\n\n### 2. 뉴욕증시 마감 시황과 실시간 지수 동향\n> 키워드: 뉴욕증시\n\n**📌 무슨 일이 있었나**\n- 수집된 기사가 존재하지 않아 뉴욕증시의 구체적인 마감 지수나 상승 및 하락 폭을 수치로 제시할 수 없음\n- 국내 투자자들이 글로벌 증시의 흐름을 파악하기 위해 뉴욕증시 실시간 시황과 마감 현황을 지속해서 모니터링함\n- 시차로 인해 야간에 진행되는 뉴욕증시 개장시간과 마감시간에 맞춰 국내 파생 및 해외 주식 투자자들이 대응함\n- 미국 증시의 공식 휴장일 일정과 주요 경제 지표 발표 시간에 따른 증시 변동성에 대한 관심이 유지됨\n- 뉴욕증시 뜻과 다우존스, 나스닥 등 주요 지수의 구성 방식에 대한 기초적인 정보 탐색이 이루어짐\n\n**💬 핵심 Q&A**\n- **Q. 뉴욕증시의 마감 결과가 다음 날 국내 코스피 시장에 미치는 영향은 얼마나 큰가?**\n  A. 뉴욕증시는 세계 금융 시장의 중심이기 때문에 전날 밤 미국 증시가 폭등하거나 폭락하면 다음 날 아침 국내 증시의 시초가에 직접적인 연동 효과를 준다. 특히 대형 기술주 중심의 나스닥 지수 움직임은 국내 반도체 주가에 큰 파급력을 미친다.\n- **Q. 국내 투자자가 뉴욕증시 개장시간과 마감시간을 정확히 알아야 하는 실질적인 이유는 무엇인가?**\n  A. 미국 증시는 서머타임 적용 여부에 따라 개장 시간이 달라지므로 해외 주식을 직접 거래하거나 관련 파생상품을 다루는 투자자에게는 필수적인 시간 정보이다. 시간에 따른 유동성 변화를 파악해야 불필요한 슬리피지나 변동성 위험을 줄일 수 있다.\n- **Q. 뉴욕증시 지수를 볼 때 다우지수와 나스닥지수를 각각 어떻게 구분해서 이해해야 하는가?**\n  A. 다우지수는 미국을 대표하는 전통 우량 기업 30개 종목으로 구성되어 전통적인 경기 흐름을 보여준다. 반면 나스닥지수는 기술주와 성장주 위주로 구성되어 있어 혁신 산업의 성장성과 시장의 위험선호 심리를 더 민감하게 반영한다.\n\n**👀 앞으로 볼 포인트**\n- 뉴욕증시 기술주 중심의 실시간 주가 변동성\n- 미국 국채금리 변화에 따른 뉴욕증시 마감 결과\n\n---\n\n### 3. 국제 유가 실시간 가격 변동 그래프 분석\n> 키워드: 국제 유가\n\n**📌 무슨 일이 있었나**\n- 수집된 기사가 존재하지 않아 서부텍사스산원유나 브렌트유의 구체적인 국제 유가 실시간 가격 수치를 확인할 수 없음\n- 에너지 가격 변동이 물가와 제조 원가에 미치는 영향을 파악하기 위해 국제 유가 실시간 차트 조회가 빈번하게 발생함\n- 국제 유가 변동 그래프의 추이를 분석하여 향후 석유류 제품 가격과 국내 물가 상승 압력을 예측하려는 시도가 있음\n- 글로벌 원유 수급 상황과 지정학적 리스크가 국제 유가 가격 지수에 실시간으로 반영되는 양상이 나타남\n- 국제 유가 뜻과 원유 선물 시장의 가격 결정 메커니즘에 대한 일반 독자들의 정보 탐색이 이루어짐\n\n**💬 핵심 Q&A**\n- **Q. 국제 유가가 급등할 경우 내 주머니 사정과 일상생활에는 어떤 변화가 생기는가?**\n  A. 국제 유가가 오르면 정유 제품 가격이 상승하여 주유소 휘발유와 경유 가격이 비싸진다. 이는 물류 비용 증가로 이어져 식료품과 공공요금 등 전반적인 물가 상승을 유발하는 부작용을 낳는다.\n- **Q. 국제 유가 실시간 차트와 변동 그래프를 볼 때 투자 관점에서 주목해야 할 핵심 포인트는 무엇인가?**\n  A. 단기적인 가격 등락보다는 주요 저항선이나 지지선을 돌파하는 추세의 변화를 읽는 것이 중요하다. 공급 측면의 돌발 변수와 수요 측면의 경기 둔화 우려가 어떻게 충돌하는지 종합적으로 파악할 필요가 있다.\n- **Q. 국제 유가 등락은 국내 주식 시장의 업종별 주가에 어떤 명암을 남기는가?**\n  A. 유가 상승은 정유주나 자원 개발 관련 기업의 실적에는 호재로 작용하지만 항공, 해운, 화학 등 연료 비용 비중이 높은 업종에는 원가 부담을 가중시켜 악재로 작용한다.\n\n**👀 앞으로 볼 포인트**\n- 산유국 연합체의 산유량 정책 변화\n- 중동 지역 정세에 따른 국제 유가 변동성\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 제목을 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
-    "generation_mode": "fallback"
+    "queries": {
+      "코스피 변동성": [
+        "코스피 변동성 지수",
+        "코스피 변동성 이유",
+        "코스피 변동성 지수 etf",
+        "코스피 변동성 etf",
+        "코스피 변동성 지표",
+        "코스피 변동성지수 보는 법",
+        "코스피 변동성 증가",
+        "코스피 변동성 확대",
+        "코스피 변동성 장세"
+      ],
+      "강남 부동산 약세": [],
+      "국내 반도체 투자": [],
+      "뉴욕증시 저가매수": [],
+      "미국 깜짝 고용": [],
+      "국제 유가 보합": []
+    },
+    "newsletter_md": "# 📈 오늘의 경제 뉴스레터\n_2026-11-07 이슈 · 발행 2026-11-07_\n\n🇰🇷 **국내 경제:** `코스피 변동성` · `강남 부동산 약세` · `국내 반도체 투자`\n🌐 **해외 경제:** `뉴욕증시 저가매수` · `미국 깜짝 고용` · `국제 유가 보합`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 코스피 출렁이자 변동성지수 60선 돌파\n> 키워드: 코스피 변동성\n\n**📌 무슨 일이 있었나**\n- 미국 반도체주 폭락 여파로 코스피 시장이 급락하면서 코스피 변동성지수가 3개월 만에 60선을 웃도는 기록적인 수치를 나타냄.\n- 노무라는 향후 3개월 동안 코스피 목표치로 7500~8000을 제시하면서 단기적인 변동성은 불가피할 것으로 전망함.\n- 주가 하락에 따른 불안감 속에서 개미 투자자들의 계좌를 지키기 위한 다양한 변동성 투자법에 대한 관심이 급증함.\n- 지속되는 증시 급락으로 인해 투자자들의 불안 심리가 가중되면서 변동성 지표가 가파른 상승 곡선을 그림.\n\n**💬 핵심 Q&A**\n- **Q. 코스피 변동성 지수는 무엇이고 왜 치솟는가?**\n  A. 변동성 지수는 시장의 불안 공포 심리를 나타내는 지표이다. 주가가 급락할 때 이 지수가 치솟는다.\n- **Q. 변동성 장세에서 내 계좌를 지키는 투자법은 무엇인가?**\n  A. 급격한 매매를 자제하고 위험 관리 중심의 자산 배분 전략을 세우는 것이 중요하다.\n- **Q. 변동성 지수 ETF는 어떻게 활용해야 하는가?**\n  A. 지수 변동성을 추종하는 상품으로 단기적인 위험 헤지 수단으로 쓰이지만 변동이 커 주의가 필요하다.\n\n**👀 앞으로 볼 포인트**\n- 미국 반도체주 주가 흐름\n- 코스피 변동성지수 추가 상승 여부\n- 외국인 투자자 매매 동향\n\n<sub>참고: [연합뉴스](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0UVFYbmJRWHoxU082d29tU2ZfMXJ0aWhpenhTenRXQTNTOEdBcC16aUp5cUxrVWRVUFVuSFliTHVqUmhjdEFRWkx5bi1vc25UeC14WHFPemJ5aGZZcV9SMtIBYEFVX3lxTFB0UVFYbmJRWHoxU082d29tU2ZfMXJ0aWhpenhTenRXQTNTOEdBcC16aUp5cUxrVWRVUFVuSFliTHVqUmhjdEFRWkx5bi1vc25UeC14WHFPemJ5aGZZcV9SMg?oc=5) / [매일경제 마켓](https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxM1BfSHJLQnEzcDRIZFBKREtJU0oyT2lvSlVVdnE3Y0V5RkFyYXpwdUpfZDZVenR1YTFkTUlmSWd1VTBKcVRBSHUyQ2dDR1A2VVE?oc=5) / [Chosunbiz](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNlRLYUU3ZmpPaXFvWEFzOXA4bVEyS0NwQU9LUzdhaHBSb2s1UXlETzFTX3ltVXpmdnJ3Yzcxa3kyaXBnd3gyTnUzV0s5SGtZeVp6bkNZeTU0bk1XZXFWRDd4dnIxLXVJcWJWWTRtcEluOXRzYkhhNGpOeVVTNzNLWEZNb1JvQ2dU0gGcAUFVX3lxTE1WRjgtallYRXJSQWt2WGNPMzdRYlZtUEJtZDVjZUU5TmVwNHF0aUNwWXdva2Zpcy1qeDAzRG80eWpKajBCVWhwQ2NOMUFvazRCcVgzV1BfWGFaQmthR3JxY3dfS0QzY25Ecm5uQXFRc1hQMEpxMDVsQ1JyaDdOVHJYQWlDNm1TdUxqQ3hXeDdzelEzaks1T2dETHFlVQ?oc=5)</sub>\n\n---\n\n### 2. 강남 아파트값 하락 거래 속출의 진실\n> 키워드: 강남 부동산 약세\n\n**📌 무슨 일이 있었나**\n- 강남3구 아파트 시장이 9주째 하락세를 기록하며 원베일리 단지에서 14억 원 하락 거래가 발생함.\n- 일주일 사이에 강남3구에서 5% 이상 하락한 거래가 16건 접수되었고 일부는 30% 폭락 거래를 보임.\n- 11월 전국적으로 4만 가구에 달하는 대규모 분양 공급을 앞두고 있어 청약 시장의 긴장감이 높아짐.\n- 일부 단지에서 급락 거래가 속출하고 있음에도 불구하고 일반 대중이 체감하는 집값 하락세는 제한적임.\n\n**💬 핵심 Q&A**\n- **Q. 강남 아파트값이 내린다는데 왜 체감하기 어려운가?**\n  A. 일부 단지에서 급락 거래가 나오지만 전체 시장으로 확산하는 속도가 더디기 때문이다.\n- **Q. 내 집 마련을 미루고 지금 하락장을 기다려야 하는가?**\n  A. 지역별 수급 상황과 공급 물량을 함께 살피며 신중하게 접근해야 한다.\n- **Q. 11월 대규모 분양 공급이 주택 시장에 미치는 영향은 무엇인가?**\n  A. 공급 확대가 실수요자의 선택 폭을 넓히며 가격 안정화 요인으로 작용한다.\n\n**👀 앞으로 볼 포인트**\n- 강남3구 추가 하락 거래 확산 여부\n- 11월 대규모 분양 물량의 청약 경쟁률\n- 부동산 시장 통계와 실제 체감 가격의 괴리\n\n<sub>참고: [이데일리](https://news.google.com/rss/articles/CBMigAFBVV95cUxNWHlFdmV1SjhBNFpXb0E0amlud2ZFWnFDaEsxR3p1OUs0b3pYS3FSUTEzNHhTUmpORTlNOW41YmwyNWptYUNjckkxcXhQdks2MGJpdXRJa1R5WEpjcEo0U0FNQ0RBTG1qQzBWU2RGVEhRN1ZHMWhFWEp5Q3gxUnNxYg?oc=5) / [비즈워치](https://news.google.com/rss/articles/CBMicEFVX3lxTE1BWmhUbW9vWmU3TWx0R1FjdEZNYWhUemdreUU5TjRnRE1CdWlHTUo5X3ZoTTNRb185V2cydXNkREdyOC10OXRIOGstWVhjemVfMEpwOTFDTDFTR2F0eklYUnVJVk1EdnpOMlFqc2s5aEo?oc=5) / [아주경제](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aN09DYzJHamtUZzFYNkZoQnFvNXRPLWM1TllMeVlKcktfLWlyYjl2OFUwN3dacVgtZ28wamQySkRYT0ItNmN3VzhlenpNZmRkUjRHSnFSeTbSAVhBVV95cUxPWjdPQ2MyR2prVGcxWDZGaEJxbzV0Ty1jNU5ZTHlZSnJLXy1pcmI5djhVMDd3WnFYLWdvMGpkMkpEWE9CLTZjd1c4ZXp6TWZkZFI0R0pxUnk2?oc=5)</sub>\n\n---\n\n### 3. 미국 AI 규제 우려에 코스피 5000선 붕괴\n> 키워드: 국내 반도체 투자\n\n**📌 무슨 일이 있었나**\n- 미국의 AI 규제 우려와 반도체 쇼크가 겹치면서 코스피 지수가 장중 5000선 아래로 붕괴됨.\n- 외국인 투자자들이 하루 만에 2조 8천억 원어치를 매도하며 국내 증시에 큰 충격을 가함.\n- 삼성전자와 SK하이닉스는 반도체 수요가 여전히 견조하여 없어서 못 판다는 입장을 유지함.\n- 반도체 소재 분야의 국내 투자가 확대되는 가운데 관련 외국기업이 정부 포상을 수상함.\n\n**💬 핵심 Q&A**\n- **Q. 미국 AI 규제가 왜 국내 반도체주에 타격을 주는가?**\n  A. 글로벌 AI 투자 심리가 위축되면서 반도체 수출 기업들의 실적 우려가 커지기 때문이다.\n- **Q. 외국인이 2조 원 넘게 파는데 개인 투자자는 어떻게 대응해야 하는가?**\n  A. 단기적인 주가 급락에 동요하기보다 기업의 본질적 실적을 점검하는 태도가 필요하다.\n- **Q. 삼성과 SK가 반도체 물량이 부족하다고 하는데 주가는 왜 떨어지는가?**\n  A. 실적과 별개로 글로벌 거시경제 환경과 정책적 불확실성이 주가에 먼저 반영되기 때문이다.\n\n**👀 앞으로 볼 포인트**\n- 미국 AI 관련 규제 정책의 방향성\n- 외국인 투자자의 국내 반도체주 순매수 복귀 여부\n- 삼성전자와 SK하이닉스의 실제 실적 발표\n\n<sub>참고: [올포칩](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCRGFERzd2enNPYzFFUklUdnJYQUNsZFMxbDY4V3BDNWd0X3pPNjBsMHFPaWdjdUFGT29JeDA0UVhUbG91WlZkeExJZ19SNnFmeXMyRXlINnc3M0lXOVNIVA?oc=5) / [헬로티](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CU0xEYzUwY1dmQ0JITXptYzlTek43enFvUWU5LWlaakNJc1YtaXJLT01HWENVYWJIeXdTbFRMLVhUdjRwSGJ1NFB0WnFKLVVncTRMRmR3NV9GUGVsNjM4?oc=5) / [시사프리즘](https://news.google.com/rss/articles/CBMiaEFVX3lxTE83WDNCdXhoZkhVYzVtcnY4T1M4VW1fZlJ0aF9ycG1nc3J2X0VZV09RZkZIRXZGMnd1QjI3RWNoakFjMFpMQ3BtckQ5Y2JhY3llam1uQnlVT3RoRUlTeFBmbGd4amw3M29a?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 기술주 폭락 맞은 뉴욕증시 저가 매수\n> 키워드: 뉴욕증시 저가매수\n\n**📌 무슨 일이 있었나**\n- 블루 쓰나미 여파로 기술주가 폭락한 이후 저가 매수세가 유입되면서 뉴욕증시가 혼조세로 마감함.\n- 나스닥 지수는 기술주 중심의 저가 매수세에 힘입어 1.09% 상승하며 반등에 성공함.\n- 폭락 장세 속에서 증시가 한숨을 돌린 가운데 채권 가격은 내리고 달러 가치는 상승함.\n- AI 관련 기술주를 중심으로 저가 매수 유입이 나타나며 증시 회복을 이끎.\n\n**💬 핵심 Q&A**\n- **Q. 블루 쓰나미 여파가 뉴욕증시에 어떤 충격을 주었는가?**\n  A. 정치적 정책 변화에 대한 우려로 기술주 중심의 대규모 매물이 출회되었다.\n- **Q. 폭락 직후 유입되는 저가 매수는 안전한 투자 전략인가?**\n  A. 단기 반등을 노린 접근은 변동성이 커서 리스크 관리가 반드시 동반되어야 한다.\n- **Q. 나스닥 반등이 국내 증시에도 긍정적 영향을 미치는가?**\n  A. 미국 기술주 심리가 개선되면 국내 IT 및 반도체주에도 온기가 전해질 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 미국 국채 금리와 달러화 가치 추이\n- AI 기술주 저가 매수세의 지속 여부\n- 블루 쓰나미 정치적 이슈의 시장 파장\n\n<sub>참고: [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE1VVDUxd3BnNEdfZlJMN0stQmVheWxsT3d6Rmh3Um1qRC1XWHk1X3pORkQycmM3NFBXSnFWczNpUEF5VU5BX2lnX09fZnRQMU1Zc2RJSU9oWU9lYldBaUNpN0ZubDFpNlR2YVBrSjRYQVXSAXRBVV95cUxNemE5WGx6aVgwRVN0NG5pWFFVV0kwekdEUWhkRWx0bHR1Q3ptMXZ3eFVJcVJSdk9mT3p5ZXB5N1YydlFZNlZXVHNYZk1RdEJDRzNUZEpMWThWaWVHU0lHVi11SENvQmtFVVVrWlF0OG9xMzJwOQ?oc=5) / [YTN](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OTjcwLXphcnRxNG9rOFYtb2hVQTh0RHVERzBfX0sycUNSSHRRYVUxY2gySEhoNmNMdFdOVUlGbW5rcmhCTHh5MXdWYUVWYlVqT2JTWlNvdU5vTzBNT1E?oc=5) / [뉴스핌](https://news.google.com/rss/articles/CBMiXEFVX3lxTE03ZVhHTkI5UUdLWDJndzUwX2owX3dqNHlVbjlubm1OcmlORC1fR3JoSGREMmE4NzFyV2dfQk9DT3ROOWhjd0c4Q0I3amM1Z1BNeE9NRlNINDNKcm5o?oc=5)</sub>\n\n---\n\n### 2. 미국 10월 일자리 16만 5천 개 깜짝 증가\n> 키워드: 미국 깜짝 고용\n\n**📌 무슨 일이 있었나**\n- 미국의 10월 일자리가 16만 5천 개 증가하는 깜짝 고용 지표가 발표됨.\n- 견조한 고용 지표로 인해 연방준비제도의 12월 추가 금리 인상 전망에 무게가 실림.\n- 고용 지표 호조 소식에 미국 국채 금리가 약세를 보이고 달러화는 급등세를 기록함.\n- 깜짝 고용 발표 이후 AMD 주가가 11% 급등하는 등 기술주 회복세와 맞물림.\n\n**💬 핵심 Q&A**\n- **Q. 고용이 잘 되었는데 왜 금리 인상 전망이 강화되는가?**\n  A. 경기가 과열될 경우 물가를 잡기 위해 중앙은행이 금리를 올릴 가능성이 커지기 때문이다.\n- **Q. 미국 깜짝 고용 발표가 내 자산 생활에 미치는 영향은 무엇인가?**\n  A. 환율 상승과 금리 압박으로 인해 대출 이자나 수입 물가에 부담으로 작용할 수 있다.\n- **Q. 고용 지표가 달러 환율을 왜 급등시키는가?**\n  A. 미국 경제가 탄탄하다는 신호로 해석되어 달러화의 매력도가 높아지기 때문이다.\n\n**👀 앞으로 볼 포인트**\n- 미 연방준비제도의 12월 금리 결정\n- 미국 고용 지표 호조에 따른 달러 환율 변동\n- 국채 금리 움직임에 따른 시장 반응\n\n<sub>참고: [조선일보](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ2ZSUS0zdk4xeVBFWFV1b1dPVkJ0dDliWkFOcHdXUnVOVzdzVmc0c0NMWEt1SEFfUnAwUVVjaExELVJGV2YxZ0VCb3BpSjNIeXJNTURrbXJhQVE2cnVRLTdBdC15TGNhNm1nSTVFdGhfaGxKdTBBdTBDQzJ2MThKTUZrTDRUYWpL?oc=5) / [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQSDhpSkl4Z0ZlbFNYOGZjQ29GU0xmR0lQVi1FR3pRVE8xQ2JOcEpIbkJ2Y3VFUFBKZ1lrVXowZHE4NGRwalBvSWRPWjFnaU1WeWFRb01hVDlWVDg?oc=5) / [조세금융신문](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ramNsbjE5VUg1X1dQRnlqbzdfRVJVZDlPZVB2VlAtOVpsdHRPRlNtSXZhajNRS05sWjdBOXJfX3BELVc0UXlPZlFJWkFNbWZ4S2xsRDdvTVRaYlU2SnZSUA?oc=5)</sub>\n\n---\n\n### 3. 중동 정세 주시하며 국제유가 보합 마감\n> 키워드: 국제 유가 보합\n\n**📌 무슨 일이 있었나**\n- 국제유가는 중동 정세를 주시하는 가운데 WTI가 0.34% 소폭 상승하며 보합권에서 마감함.\n- 이란 협상 기대감의 영향으로 주간 기준으로는 큰 폭의 낙폭을 기록함.\n- 국내 주유소 기름값은 25주 연속 하락세를 보이나 소비자가 체감하는 물가는 제자리걸음임.\n- 미국 국채 금리가 급락하고 달러가 보합세를 보이는 등 안전자산 선호 심리가 강화됨.\n\n**💬 핵심 Q&A**\n- **Q. 국제유가가 보합세를 보이는데 왜 주유소 체감 가격은 그대로인가?**\n  A. 유통 시차와 세금 구조 등으로 인해 국제유가 변동이 주유소 가격에 반영되는 데 시간이 걸린다.\n- **Q. 이란 협상 기대감이 유가에 어떤 변화를 주는가?**\n  A. 지정학적 불안감이 완화되면서 공급 차질 우려가 줄어들어 유가 하락 압력으로 작용한다.\n- **Q. 유가 보합과 안전자산 선호가 경제에 주는 시그널은 무엇인가?**\n  A. 시장 참여자들이 불확실성을 경계하며 리스크를 줄이는 방어적 태세를 취하고 있음을 뜻한다.\n\n**👀 앞으로 볼 포인트**\n- 중동 지정학적 리스크의 전개 양상\n- 이란 관련 협상 진행 상황\n- 국내 주유소 기름값의 하락세 지속 여부\n\n<sub>참고: [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4U3FXXzkxd1ZrZWZpaXZKaXlTUjJ0aEhjeUZwSDliWWxnaXRCaGhQdkdqTzZCWnN1RUNFUkE5T1Q2Ykk1cXJlV0RJR2hlZFhrRlpVWWMxSk5tbHPSAWBBVV95cUxQZzljcVFCRk1aWW5vcGVMTXB5UjUzQmZZOGVnYUFjV1NTa0FIcEtLNTFrZkNWXy02bjJaV0FBejFOMktSLXA2YUFuTFJvYk40TnNjSWxPcmhfX3NrMEliaXY?oc=5) / [글로벌경제신문](https://news.google.com/rss/articles/CBMibEFVX3lxTFBDSUU5ZUExLUlhZi11WXBNWUxld19lUWZVbnRzX1lIUDJUbXkyMjNOVTg0UmhiRUVKVmI3QlZmclMxUEhWcTdLeEpERk84WmhvVmc4dWhDd1NmY1ZmMWp1UEU2b0ZyY0luam9nUNIBcEFVX3lxTFBLbkw5V3JBbkpuclFqQmZ0bzk4U2lKSmQxZkYyNUxXOExoQWhScWNuU05MZl9DdXNvMVVqYzE1T1hKSWh1ZzAyOGE0bVh0cW4zMUNhaTdxcUlJZl9iUnFhY1p4OWlDNVJDUjlUdWstWG4?oc=5) / [뉴시안](https://news.google.com/rss/articles/CBMibEFVX3lxTE05NF9XZzZMZGk1N25aVFdhMzEzTzlyWm80c2p6bDVEUDBhNWRQMnkzaDc0Q3h4c3lOWEkzdXlfZmp5YmF3czZhcy1PRnRCRnJNNUR4V3p2WF82WUkxdjF0NGhxVFozQk9wWDJmZg?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 제목을 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
+    "generation_mode": "gemini"
   },
   "yesterday": {
     "period_label": "2026년 11월 6일 (금)",
@@ -1628,5 +2032,5 @@
     "newsletter_md": "# 📈 오늘의 경제 뉴스레터\n_2026-11-01 ~ 2026-11-07 이슈 · 발행 2026-11-07_\n\n🇰🇷 **국내 경제:** `코스피` · `기준금리` · `부동산`\n🌐 **해외 경제:** `미국 연준` · `뉴욕증시` · `국제 유가`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 코스피 흐름과 주요 연관 검색어 분석\n> 키워드: 코스피\n\n**📌 무슨 일이 있었나**\n- 국내 증시의 전반적인 방향성을 파악하기 위해 코스피지수와 개별 주가 흐름을 확인하는 투자자들의 관심 집중.\n- 대장주인 SK하이닉스를 비롯한 반도체 관련 종목의 주가 변동성에 대한 시장 참여자들의 실시간 모니터링 지속.\n- 주식 시장의 기초 개념인 코스피의 정의와 코스닥 지수와의 차이점을 이해하려는 초보 투자자들의 검색량 증가.\n- 파생상품 시장 참여를 위한 코스피 선물 거래 현황 및 관련 투자 지표 확인에 대한 시장의 지속적인 요구 확인.\n- 신규 투자 정보 플랫폼인 코스피랩 활용법과 기초 용어인 코스피 뜻을 쉽게 파악하려는 학습 수요 확대.\n\n**💬 핵심 Q&A**\n- **Q. 초보 투자자가 알아야 할 코스피의 정확한 뜻과 코스닥과의 차이는 무엇인가?**\n  A. 코스피는 한국거래소에 상장된 대기업 중심의 유가증권시장 지수이며, 코스닥은 중소·벤처기업 중심의 시장을 의미한다. 두 시장은 상장 기업의 규모와 성격에서 차이가 난다.\n- **Q. 실시간 코스피 지수와 SK하이닉스 같은 특정 주가의 등락은 내 자산에 어떤 영향을 주는가?**\n  A. 지수와 대형주의 등락은 국내 경제 전반의 체력을 보여주는 지표로, 간접적으로 펀드나 주식 계좌의 수익률에 직접적인 영향을 미친다. 다만 단기 변동성에 일희일비하기보다 장기적인 포트폴리오 관점 유지가 필요하다.\n- **Q. 코스피 선물이란 무엇이며 일반 투자자도 주의 깊게 보아야 하는가?**\n  A. 코스피 선물이란 미래의 특정 시점에 지수를 사거나 팔기로 약정하는 파생상품이다. 현물 시장의 방향성을 선행해서 보여주는 경향이 있어 시장 흐름을 읽는 보조 지표로 활용된다.\n\n**👀 앞으로 볼 포인트**\n- 시가총액 상위 종목의 주가 추이\n- 코스피와 코스닥 지수의 디커플링 여부\n- 선물 시장 동향에 따른 외국인 수급 변화\n\n---\n\n### 2. 기준금리의 이해와 국내외 경제 파급효과\n> 키워드: 기준금리\n\n**📌 무슨 일이 있었나**\n- 국가 경제의 통화 정책 방향을 결정하는 한국 및 미국의 기준금리 수준과 향후 추이에 대한 대중적 관심 집중.\n- 기준금리의 정확한 정의와 영어 명칭 및 경제 내에서 작동하는 기본적인 메커니즘을 파악하려는 정보 탐색.\n- 중앙은행의 기준금리 인상 여부가 시중 은행의 대출 및 예금 금리에 미치는 영향과 배경에 대한 분석 필요성 대두.\n- 매년 정해진 기준금리 발표일에 쏠리는 금융 시장의 이목과 경제 주체들의 민첩한 자금 운용 계획 수립.\n- 통화 당국의 정책 결정과 밀접하게 연관된 기준금리와 국채금리 간의 상관관계 및 수익률 곡선 변화 파악.\n\n**💬 핵심 Q&A**\n- **Q. 기준금리가 인상될 때 내 대출 이자와 예금 금리는 구체적으로 어떻게 변동하는가?**\n  A. 기준금리가 오르면 시중 은행의 조달 비용이 증가하여 주택담보대출과 신용대출 금리가 동반 상승한다. 동시에 예금 금리도 함께 올라 저축하는 이들에게는 유리한 환경이 조성된다.\n- **Q. 한국의 기준금리와 미국의 기준금리 추이를 함께 비교하고 살펴보아야 하는 이유는 무엇인가?**\n  A. 한미 간 금리 차이가 벌어질 경우 국내 자본 유출 압력이 높아질 수 있기 때문에 한국은행이 통화 정책을 운용할 때 미국의 금리 수준을 주요 변수로 고려한다.\n- **Q. 기준금리와 국채금리 사이에는 어떤 경제적 관계가 존재하는가?**\n  A. 기준금리는 중앙은행이 단기적으로 조절하는 정책 금리인 반면, 국채금리는 시장에서 거래되는 중장기 금리이다. 기준금리 인상 기대감이 높아지면 국채금리도 선반영되어 함께 오르는 경향을 보인다.\n\n**👀 앞으로 볼 포인트**\n- 한국은행 금융통화위원회의 금리 결정\n- 국채금리와 기준금리 간의 역전 현상\n- 가계대출 금리에 미치는 실시간 파급 효과\n\n---\n\n### 3. 부동산 시장 동향과 시세 조회 활용법\n> 키워드: 부동산\n\n**📌 무슨 일이 있었나**\n- 전국 주택 가격의 객관적인 흐름을 파악하기 위한 부동산114 및 네이버 등 주요 매물 사이트 활용 증가.\n- 정확한 주택 매매 및 전·월세 시세 조회를 수행하기 위한 다양한 플랫폼의 가격 산정 방식 확인.\n- 투명한 주택 거래 질서 확립을 위한 부동산거래 전자계약시스템의 이용 방법 및 도입 취지 숙지.\n- 급변하는 주택 시장 환경 속에서 실수요자 중심의 매물 탐색과 적정 가격 판단 기준 설정.\n- 부동산 시장의 기초 용어와 시세 조회 과정에서 유의해야 할 필수 체크포인트 점검.\n\n**💬 핵심 Q&A**\n- **Q. 온라인 부동산 매물 사이트와 시세 조회 플랫폼의 가격 정보는 실제 거래가와 얼마나 일치하는가?**\n  A. 플랫폼에 나타나는 시세는 호가나 최근 신고가를 바탕으로 산정되므로 실제 현장 계약가와는 다소 차이가 날 수 있다. 따라서 정확한 판단을 위해 국토교통부 실거래가 시스템을 교차 검증하는 것이 안전하다.\n- **Q. 부동산거래 전자계약시스템을 이용하면 일반 계약자에세 어떤 실질적 혜택이 주어지는가?**\n  A. 전자계약을 체결할 경우 거래 신고가 자동으로 이루어지고 대출 금리 우대 혜택이나 등기 수수료 절감 등의 부가적인 이점을 누릴 수 있다. 계약의 안정성과 투명성이 크게 높아진다는 장점이 있다.\n- **Q. 내 집 마련을 준비하는 일반인이 현재의 부동산 시세 추이를 어떻게 해석하고 접근해야 하는가?**\n  A. 단기적인 가격 등락에 휘둘리기보다 자신의 소득 수준과 자금 조달 능력을 먼저 점검해야 한다. 금리 환경과 대출 규제 변화를 종합적으로 고려하여 보수적인 자금 계획을 세울 필요가 있다.\n\n**👀 앞으로 볼 포인트**\n- 주요 플랫폼의 주간 아파트 매매 및 전세가 변동률\n- 부동산거래 전자계약시스템의 활용 실적 추이\n- 지역별 실거래가와 호가의 괴리율\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 미국 연준의 통화정책과 글로벌 증시 영향\n> 키워드: 미국 연준\n\n**📌 무슨 일이 있었나**\n- 세계 경제에 지대한 영향력을 행사하는 미국 연준의 기준금리 결정 및 향후 정책 방향에 대한 전 세계적 이목 집중.\n- 미국 연준 의장의 공식 발언 내용과 기자회견 메시지가 글로벌 금융 시장의 주가와 환율에 미치는 즉각적인 반응 확인.\n- 매년 사전에 예고된 미국 연준의 금리 발표일과 정례 회의 일정에 맞춘 시장 참여자들의 포트폴리오 재조정.\n- 인플레이션 압력 완화와 고용 지표 호조에 따른 미국 연준의 금리 인상 또는 동결 기조 변화 분석.\n- 미국 연준의 정확한 역할과 권한을 이해하기 위한 중앙은행 제도 및 의장 직위의 의미 파악.\n\n**💬 핵심 Q&A**\n- **Q. 미국 연준의 금리 발표와 의장의 발언이 한국의 일반 가계 경제와 내 자산에 구체적으로 어떤 파급을 미치는가?**\n  A. 연준이 금리를 올리면 국내 시장금리도 상승 압박을 받아 대출이자가 늘어나고 원화 가치가 약세로 돌아설 수 있다. 이는 수입 물가 상승으로 이어져 국내 체감 물가에 부담을 준다.\n- **Q. 미국 연준 의장의 뜻과 권한은 구체적으로 어떤 방식으로 글로벌 경제를 움직이는가?**\n  A. 연준 의장은 세계 최대 경제 대국인 미국의 통화 정책을 총괄하며, 금리 조정을 통해 달러 유동성을 조절한다. 이 결정은 전 세계 자금의 흐름과 위험 자산 선호도를 결정짓는 핵심 요인이다.\n- **Q. 연준의 금리 전망과 발표 일정을 미리 확인하는 것이 왜 투자에서 중요한가?**\n  A. 발표 시기마다 금융 시장의 변동성이 극심해지기 때문에 일정을 미리 파악하고 리스크를 관리하는 것이 필수적이다. 예상치 못한 결정이 나올 경우 자산 가격이 급변할 수 있어 사전 대비가 필요하다.\n\n**👀 앞으로 볼 포인트**\n- 연방공개시장위원회(FOMC) 성명서 문구 변화\n- 연준 의장의 금리 인하 또는 동결 시사 발언\n- 미국 고용 및 물가 지표 발표 결과\n\n---\n\n### 2. 뉴욕증시 마감 시황과 글로벌 증시 연동성\n> 키워드: 뉴욕증시\n\n**📌 무슨 일이 있었나**\n- 국내 증시 개장 전 글로벌 시장의 방향성을 가늠하기 위한 뉴욕증시 개장 시간 및 마감 시황 확인.\n- 다우존스, S&P500, 나스닥 등 주요 뉴욕증시 지수의 실시간 등락 현황과 업종별 주가 흐름 분석.\n- 공휴일 및 특별 사유로 인한 뉴욕증시 휴장일 일정을 미리 파악하여 자금 결제 및 환전 일정 조율.\n- 글로벌 경제 뉴스와 실시간 속보에 민감하게 반응하는 뉴욕증시 마감 직전의 지수 변동성 주시.\n- 글로벌 금융의 중심지인 뉴욕증시가 갖는 역사적 의미와 전 세계 자본 시장에서의 핵심 역할 이해.\n\n**💬 핵심 Q&A**\n- **Q. 시차가 있는 뉴욕증시의 개장 및 마감 시간이 한국 투자자들의 실전 매매에 어떤 의미를 갖는가?**\n  A. 뉴욕증시는 한국 시간으로 밤늦은 시각에 열려 새벽에 마감되므로, 다음 날 아침 국내 증시가 열릴 때 밤사이의 글로벌 호재나 악재를 곧바로 반영하는 통로가 된다.\n- **Q. 뉴욕증시의 실시간 지수와 마감 시황이 국내 수출 기업 주가에 미치는 영향은 무엇인가?**\n  A. 미국 증시가 강세를 보이면 투자 심리가 개선되어 국내에 상장된 글로벌 IT나 자동차 등 수출 주도형 대형주에도 긍정적인 온기가 전달될 가능성이 높다.\n- **Q. 뉴욕증시 휴장일에는 국내 증시나 환율 시장이 어떤 반응을 보이는가?**\n  A. 미국 시장이 휴장할 경우 글로벌 유동성 공급과 지표 발표가 부재하여 국내 증시 역시 거래량이 줄어들고 방향성을 잡지 못한 채 좁은 횡보세를 보이는 경우가 많다.\n\n**👀 앞으로 볼 포인트**\n- 뉴욕증시 기술주 중심의 나스닥 지수 흐름\n- 국내 증시와 뉴욕증시의 디커플링 현상 발생 여부\n- 주요 기업의 실적 발표에 따른 장 마감 후 시간외 거래 동향\n\n---\n\n### 3. 국제 유가 변동 추이와 국내 경제 영향\n> 키워드: 국제 유가\n\n**📌 무슨 일이 있었나**\n- 에너지 시장의 수급 불균형과 지정학적 리스크를 반영하는 국제 유가 실시간 가격 및 차트 분석.\n- 브렌트유와 WTI 등 주요 원유의 실시간 가격 변동 그래프를 활용한 중장기 가격 추이 파악.\n- 원유 선물 시장의 지수 산정 방식과 글로벌 유가 사이트가 제공하는 통계 데이터 검토.\n- 국제 유가 상승 및 하락이 글로벌 인플레이션 압력과 각국 중앙은행의 통화 정책에 미치는 인과관계 규명.\n- 에너지 가격 변동이 실물 경제와 소비자에 미치는 파급 효과를 이해하기 위한 국제 유가의 정의 숙지.\n\n**💬 핵심 Q&A**\n- **Q. 국제 유가 실시간 가격과 차트의 변동이 내 주머니 사정과 물가에 구체적으로 어떤 타격을 주는가?**\n  A. 국제 유가가 오르면 석유제품 가격은 물론이고 원료를 수입해 가공하는 모든 공산품과 물류비용이 함께 올라 전반적인 소비자 물가가 치솟게 된다.\n- **Q. 국제 유가 변동 그래프를 볼 때 단순 가격 외에 어떤 추이를 눈여겨보아야 하는가?**\n  A. 가격의 절대 수준도 중요하지만 변동 폭이 얼마나 가파른지, 그리고 상승세가 지속되는 기간이 어느 정도인지를 파악하여 원가 압박의 지속성을 가늠해야 한다.\n- **Q. 국제 유가의 급등락은 국내 증시와 환율에 어떠한 연쇄 반응을 일으키는가?**\n  A. 유가 급등은 무역수지 적자를 유발하고 원화 가치를 떨어뜨려 환율 상승을 부추기며, 기업들의 제조 원가 부담을 높여 주식 시장 전반에 악재로 작용할 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 석유수출국기구(OPEC+)의 원유 생산량 조절 정책\n- 주요 산유국의 지정학적 갈등에 따른 공급 차질 우려\n- 국내 주유소 휘발유 및 경유 가격의 시차 반영 속도\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 제목을 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
     "generation_mode": "fallback"
   },
-  "updated_at": "2026-11-07 06:40:35 KST"
+  "updated_at": "2026-11-07 08:38:29 KST"
 }
