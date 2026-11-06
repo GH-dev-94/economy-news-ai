@@ -5,189 +5,203 @@
     "end_date": "2026-11-06",
     "domestic": {
       "keywords": [
-        "코스피 붕괴",
-        "증시 긴급 대응",
-        "국내 부동산 시장"
+        "코스피 급락",
+        "반도체주 폭락",
+        "부동산 규제"
       ],
       "results": {
-        "코스피 붕괴": {
-          "headline": "코스피 5000선 붕괴와 서킷브레이커 발동",
+        "코스피 급락": {
+          "headline": "코스피 6% 급락, 5천 선 붕괴 위기",
           "facts": [
-            "미국 중간선거 여파와 AI 투자심리 악화의 직격탄을 맞은 코스피가 8% 폭락하며 장중 5000선이 붕괴됨에 따라 서킷브레이커가 발동됨",
-            "미국의 데이터센터 규제 강화 조치와 함께 신용 및 투자 관련 잡음이 복합적으로 작용하여 국내 증시 하방 압력을 가중시킴",
-            "주가 급락 사태를 두고 야권에서 정부의 억지 부양 정책과 거품 붕괴를 강하게 비판하며 직접적인 정부 책임론을 제기함",
-            "한동훈 전 대표 등이 코스피 붕괴로 인해 국민의 피눈물이 나고 있다며 대통령의 직접적인 입장 표명과 해명을 강력히 요구함",
-            "온라인 커뮤니티와 주식 관련 채널을 중심으로 이번 폭락 사태와 관련된 밈과 관련 게시글이 급증하며 투자자들의 불안감이 확산됨"
+            "미국발 AI 쇼크와 블루웨이브 영향으로 코스피가 6% 넘게 급락하여 5059.69로 마감함에 따른 증시 불안 심화",
+            "장중 한때 5000선이 붕괴되고 9달 만에 최저 수준을 기록하며 시장 전체에 서킷브레이커가 발동되는 충격 발생",
+            "씨티 등 주요 금융기관에서는 코스피 급락 상황 속에서도 11월 금리 인상 전망을 그대로 유지한다는 입장을 발표함",
+            "주가 급락에 따른 증시 충격을 완화하기 위해 정부가 긴급 대책회의를 개최하고 증권사 관련 규제를 우선적으로 완화함",
+            "외국인 투자자들의 대규모 투매 물량이 쏟아지면서 단 이틀 만에 지수가 11% 폭락하는 전례 없는 하락세 기록"
           ],
           "watch": [
-            "정부 및 정치권의 추가적인 증시 안정화 대책 발표 여부",
-            "미국 데이터센터 관련 후속 규제 조치가 미칠 글로벌 영향",
-            "개인투자자들의 신용 반대매매 및 추가 자금 이탈 가능성"
+            "정부의 추가 시장 안정화 대책 실효성",
+            "외국인 투자자의 지속적인 순매도 여부",
+            "5000선 지지 여부 및 반대매매 규모 확산"
           ],
           "qna": [
             {
-              "q": "인터넷에서 코스피 붕괴 관련 밈이나 시리즈가 돌던데 투자자들 반응이 왜 이렇게 심각한가?",
-              "a": "사상 처음으로 5000선을 기록했던 지수가 하루아침에 무너지고 서킷브레이커까지 발동되면서 체감하는 충격이 매우 크기 때문이다. 온라인상에서는 허탈감과 불안감을 자조적인 밈으로 표현하며 커뮤니티마다 우려가 쏟아지고 있다."
+              "q": "코스피가 갑자기 왜 이렇게 큰 폭으로 급락한 것인가?",
+              "a": "미국 증시의 기술주 폭락과 블루웨이브 여파로 인한 AI 공포감이 국내 증시에 직접적인 충격을 주었기 때문이다. 외국인 투자자의 대규모 매도세가 겹치면서 지수가 급격히 무너졌다."
             },
             {
-              "q": "주식 커뮤니티나 디시 등에서 코스피 붕괴 이유로 정확히 무엇을 지목하고 있는가?",
-              "a": "투자자들은 미국 중간선거 결과로 인한 정치 지형 변화와 AI 데이터센터 규제 강화가 기술주 투매를 촉발한 핵심 원인으로 보고 있다. 여기에 국내 신용융자 관련 잡음까지 겹치면서 하락 폭을 키웠다고 분석한다."
+              "q": "주가 급락으로 인해 내 주식 계좌에 반대매매가 발생할 위험이 있는가?",
+              "a": "주가가 급락하면 신용융자나 미수거래를 이용한 투자자들의 반대매매 규모가 급증할 수 있다. 본인의 계좌 상태와 증거금 비율을 수시로 확인하는 주의가 필요하다."
             },
             {
-              "q": "이렇게 지수가 급격히 무너질 때 자산을 지키기 위해 일반 개인이 취할 수 있는 현실적인 태도는 무엇인가?",
-              "a": "패닉 바잉이나 공포에 의한 무차별적인 손절매를 자제하고 자신의 대출 레버리지 비율을 점검하는 것이 현명하다. 시장의 변동성이 과도한 시기에는 추가적인 위험 자산 투자를 보류하고 현금 비중을 유지하는 전략이 필요하다."
+              "q": "주식 시장이 급락할 때 투자자는 어떻게 대응하는 것이 현명한가?",
+              "a": "공포 심리에 매도하기보다 시장의 변동성 원인을 차분히 분석하는 자세가 중요하다. 무리한 레버리지 투자를 자제하고 리스크 관리에 집중해야 한다."
             }
           ]
         },
-        "증시 긴급 대응": {
-          "headline": "증시 급락에 정부 F4 긴급 대응 가동",
+        "반도체주 폭락": {
+          "headline": "미국발 AI 충격에 반도체주 동반 폭락",
           "facts": [
-            "증시가 급격한 폭락세를 보임에 따라 경제 부처 수장들인 F4가 긴급 회의를 소집하여 시장 안정을 위한 대응책을 마련함",
-            "주가 급락으로 인해 발생할 수 있는 과도한 반대매매 물량을 사전에 차단하기 위한 목적으로 구체적인 조치를 확정함",
-            "국내 증권사들이 운용하는 신용융자 담보비율 유지 의무를 향후 3개월 동안 전면 면제하는 방안을 즉각 시행함",
-            "기존에 140% 수준으로 엄격하게 적용되던 신용융자 담보비율 의무화 조치를 한시적으로 유예하여 투자자 부담을 완화함",
-            "금융당국과 관련 기관의 합동 대응을 통해 증시 변동성 확대에 따른 시장 참여자들의 불안 심리를 진정시키고자 함"
+            "미국 반도체지수가 12% 폭락하는 극심한 부진을 겪으면서 국내 증시 프리마켓에서 삼성전자와 SK하이닉스가 각각 11%와 13% 하락함",
+            "월스트리트에서 반도체주 폭락이 아직 서막에 불과할 수 있다는 3대 경고음을 제기하며 투자자들의 불안감을 고조시킴",
+            "최태원 SK그룹 회장이 반도체주 폭락 사태와 관련하여 현재 시장의 흐름이 합리적이지 않다는 입장을 공개적으로 밝힘",
+            "이틀 동안 이어진 반도체주 폭락과 외국인의 6조 원 규모 투매로 인해 코스피 지수가 5000선 근처까지 밀려남",
+            "증권가에서는 이번 반도체주 폭락을 단기적인 악재로 평가하면서 저가 매수 기회로 활용할 수 있다는 전망을 제시함"
           ],
           "watch": [
-            "신용융자 담보비율 면제 조치 이후 반대매매 물량 감소 추이",
-            "추가적인 시장 안정화 대책 및 금융당국의 모니터링 결과",
-            "증권사들의 자발적인 리스크 관리 및 유동성 공급 상황"
+            "미국 반도체지수의 기술적 반등 여부",
+            "삼성전자와 SK하이닉스의 주가 방어력",
+            "글로벌 AI 산업에 대한 투자 심리 회복"
           ],
           "qna": [
             {
-              "q": "정부가 시행한 신용융자 담보비율 의무 3개월 면제가 내 투자 계좌에는 어떤 직접적인 변화를 주는가?",
-              "a": "주가 하락으로 인해 담보가치가 떨어지더라도 증권사가 강제로 주식을 팔아치우는 반대매매 시점을 3개월 동안 유예받을 수 있다. 당장의 강제 청산 위험을 덜어주어 숨통을 틔워주는 조치이다."
+              "q": "미국 반도체주가 폭락하게 된 구체적인 이유는 무엇인가?",
+              "a": "미국 증시에서 발생한 AI 관련 기술주 투매 현상과 정치적 이벤트인 블루웨이브 충격이 복합적으로 작용했다. 이로 인해 글로벌 반도체 전반에 대한 투자 심리가 급격히 악화되었다."
             },
             {
-              "q": "정부의 F4 긴급 대응이 무엇을 뜻하는 용어이며 증시에 얼마나 강력한 효력을 발휘하는가?",
-              "a": "기획재정부 장관, 금융위원장, 한국은행 총재, 금융감독원장 등 경제 수장 4명을 지칭하는 표현으로 시장 위기 시 신속한 정책 공조를 상징한다. 한시적인 규제 유예를 통해 급한 불을 끄는 효과는 있지만 근본적인 글로벌 악재를 해소하기에는 한계가 있다."
+              "q": "지금 시점에서 반도체주를 매수하는 전략은 올바른가?",
+              "a": "일부 증권가는 저가 매수 기회로 보지만 변동성이 매우 높은 상태이다. 단기적 반등을 낙관하기보다 철저한 리스크 관리가 선행되어야 한다."
             },
             {
-              "q": "담보비율 면제 기간이 끝난 뒤에 주가가 회복되지 않으면 더 큰 폭탄이 돌아오는 것은 아닌가?",
-              "a": "3개월의 유예 기간은 문제 해결이 아니라 시간을 벌어주는 조치이므로 기간 내에 증시가 반등하지 못하면 한꺼번에 반대매매가 쏟아질 위험이 존재한다. 따라서 이 기간 동안 자산 포트폴리오를 재정비하고 부채 규모를 줄이는 노력이 필수적이다."
+              "q": "반도체주 폭락이 국내 경제와 일반 가계에 미치는 영향은 무엇인가?",
+              "a": "국내 수출과 증시에서 반도체 비중이 매우 높아 대기업 주가 하락은 경제 전반의 투자 심리를 위축시킨다. 개인 투자자의 자산 증식에도 직간접적인 타격을 준다."
             }
           ]
         },
-        "국내 부동산 시장": {
-          "headline": "국내 부동산 시장 규제설 부인과 동향",
+        "부동산 규제": {
+          "headline": "부동산 추가 규제설에 정부가 전면 부인",
           "facts": [
-            "대출이 막히고 추가적인 고강도 규제가 도입된다는 내용의 부동산 지라시가 시장에 퍼지자 정부가 사실무근이라며 즉각 해명함",
-            "한국부동산원이 발표한 11월 1주 주간 아파트 동향에 따르면 전국 매매가격은 0.07%, 전세가격은 0.10% 상승하며 양극화가 심화됨",
-            "서초구청이 재건축초과이익환수제가 주택 공급을 위축시키는 주원인이라고 지적하며 중앙정부에 제도 폐지를 공식적으로 건의함",
-            "국민연금 부동산실 관련 논란이 담당 센터장 해임으로 일단락되었으나 공적 연기금 운용에서의 내부 견제 한계를 드러냄",
-            "경기주택도시공사(GH)가 가평 지역의 전원주택용지 25필지를 대상으로 추첨 방식을 통한 공급 절차를 진행함"
+            "수원 권선, 안양 만안, 부천 등 지역에 추가 부동산 규제를 가하고 25억 원을 초과하는 주택의 대출을 전면 금지한다는 내용의 지라시가 확산됨",
+            "일부 온라인 커뮤니티와 메신저를 중심으로 25억 넘는 집 대출이 금지된다는 허위 사실이 무분별하게 퍼져나감",
+            "국토교통부는 11월 주택시장 추가 규제설과 대출 금지 루머에 대해 전혀 사실무근이라는 공식 입장을 발표함",
+            "정부는 시장을 교란하는 부동산 지라시 확산에 대응하여 강력한 수사를 의뢰하겠다는 방침을 세움",
+            "혼란을 방지하기 위해 기존 계약대로 정상적인 대출을 받을 수 있도록 필요한 조치를 이미 완료했다고 밝힘"
           ],
           "watch": [
-            "정부의 추가 주택 공급 정책 및 재건축 규제 완화 여부",
-            "주간 아파트 가격 상승세 지속 및 지역별 양극화 추이",
-            "시중에 유포되는 부동산 관련 미확인 지라시의 확산 여부"
+            "부동산 시장 내 허위 지라시 추가 유포 여부",
+            "정부의 시장 교란 행위 수사 결과",
+            "실제 주택시장 대출 및 규제 지역 변화 추이"
           ],
           "qna": [
             {
-              "q": "대출 규제 관련 지라시가 돌았을 때 무주택자나 실수요자는 어떻게 대처해야 하는가?",
-              "a": "출처가 불분명한 루머에 흔들려 급하게 계약을 체결하거나 패닉 바잉에 나서는 것은 매우 위험하다. 정부가 공식적으로 사실무근임을 밝힌 만큼 실제 발표되는 제도 변화와 실수요자 기준의 대출 여건을 차분히 확인해야 한다."
+              "q": "25억 넘는 집의 대출이 금지된다는 소문은 사실인가?",
+              "a": "국토교통부가 공식적으로 사실무근이라고 발표한 명백한 허위 지라시다. 기존 규제와 동일하게 정상적인 대출 진행이 가능하다."
             },
             {
-              "q": "재건축초과이익환수제가 폐지되면 일반 아파트 시장과 내 집 마련 계획에는 어떤 변화가 생기는가?",
-              "a": "재건축 사업의 수익성이 개선되면서 정비사업 속도가 빨라져 장기적으로 서울 핵심지의 주택 공급이 원활해질 수 있다. 다만 단기적으로는 주변 지역의 재건축 기대 심리를 자극해 가격 불안 요인으로 작용할 가능성도 배제할 수 없다."
+              "q": "부동산 규제지역은 현재 어떻게 확인하고 관리되는가?",
+              "a": "정부의 공식 발표와 국토교통부 채널을 통해 규제지역 현황을 확인할 수 있다. 근거 없는 소문에 동요하지 않는 태도가 필요하다."
             },
             {
-              "q": "전국 아파트 매매와 전세 가격이 동반 상승하고 양극화가 심해지는 상황에서 어떤 지역을 주목해야 하는가?",
-              "a": "선호도가 집중되는 상급지와 그렇지 않은 지방 간의 격차가 벌어지고 있으므로 무리한 추격 매수보다는 입지와 교통 여건이 검증된 곳을 선별하는 시각이 필요하다. 특히 전세가율과 실수요 유입을 꼼꼼히 따져보는 보수적인 접근이 요구된다."
+              "q": "이러한 가짜 부동산 뉴스가 내 집 마련 계획에 미치는 영향은 무엇인가?",
+              "a": "근거 없는 불안감을 조성하여 소비자의 자금 계획을 혼란스럽게 만든다. 정부의 공식 발표를 기준으로 냉정하게 판단해야 한다."
             }
           ]
         }
       },
       "news": {
-        "코스피 붕괴": [
+        "코스피 급락": [
           {
-            "title": "[속보]코스피, 8% 폭락에 서킷브레이커…5000선 붕괴 - 경향신문",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50SlhNUC1UVDJMeFBiVzU0TnUtaGZ1azV4VFVRRTZtd181Yzd0MTVzcjh6Z09FdXJtRnU3WWgwbUp4QXVGelBIbndUMThSZkFKSzFtbm1RODVQZ9IBX0FVX3lxTE9SUTNvaGRyckxkSVVKOXRZSzlYTjRmVXp1YldMX09xclQ4TGhibTM4aS1USmh0YVJFdHl5QlQtNzZndlh1ek1LMm1EdjFRRVdsY09aTUNyMXFUZ0NkV09B?oc=5",
-            "source": "경향신문",
-            "published": "11-06 09:08",
-            "snippet": "[속보]코스피, 8% 폭락에 서킷브레이커…5000선 붕괴 경향신문"
+            "title": "씨티 \"코스피 급락에도 11월 금리 인상 전망 유지\" - 연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ocDU2SGJOdWJxZEtqN2pndnpfVVlya09hWkhWN04ydEo0aGcwcGFGcDlKT2JEREgwTnFMTHpBRkNYX1pBWnFGbGl0bGNSZzh4MGFpQ1JlbmxqQ1HSAWBBVV95cUxPWU5seVFxbWtKazRtN2JyZlV2TXpjTGZxLS1nSndiS1V3M2ZQQWpoS01YYVdIT1hHNzZsUEdsN3NtU3pIeDVHN2Q5ZGFwVzFNOEZjNXVrS0FTS2RjWUpHTzk?oc=5",
+            "source": "연합뉴스",
+            "published": "11-06 16:44",
+            "snippet": "씨티 \"코스피 급락에도 11월 금리 인상 전망 유지\" 연합뉴스"
           },
           {
-            "title": "'블루 쓰나미'에 쓸려간 코스피...장중 5,000 붕괴 [이슈ON] - YTN",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUS0EyemQ1RGdoU3Z3ODg2ZzBRcTE3cENYSFp5MmI4U2FKRF9WZ0s5UkZnSm12eDc4TDFaV3NJNHZNVGdiaWE4bXRBanBMWVVOZnBMbE5TbWZoU19ha2c?oc=5",
+            "title": "’AI 쇼크’에 코스피 급락…정부, 긴급 처방 - 연합뉴스TV",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JcXNmT3EyRFptbndjYlhSMS15MGFKeXlkeEVzeXV2SWtiZTl5UThrdVdrenJwUkVTaXFOV1p4aENBMl95OF9Tc21LSlc2LVJlR1g5ckFQMGVLMHJxTFE4eE9rbVl3Rk0?oc=5",
+            "source": "연합뉴스TV",
+            "published": "11-06 14:17",
+            "snippet": "’AI 쇼크’에 코스피 급락…정부, 긴급 처방 연합뉴스TV"
+          },
+          {
+            "title": "'급한대로' 증권사 규제부터 푼다...코스피 급락에 긴급 대책회의 [자막뉴스] - YTN",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vRWhIYzF3bi1wdWZlVFJVR1V6NzZsa1o0dU9zdE5yRWEtSDJDZEQ5M2hFUlJpZEU4b0E1M2IwdkN3MTkxUnk0YVJsQmQ0ZF9sTERINVJPQW0talVkTUE?oc=5",
             "source": "YTN",
-            "published": "11-06 15:55",
-            "snippet": "'블루 쓰나미'에 쓸려간 코스피...장중 5,000 붕괴 [이슈ON] YTN"
+            "published": "11-06 15:27",
+            "snippet": "'급한대로' 증권사 규제부터 푼다...코스피 급락에 긴급 대책회의 [자막뉴스] YTN"
           },
           {
-            "title": "코스피, AI 투심 악화에 붕괴…미 데이터센터 규제에 신용·투자 잡음까지 - 한겨레",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CTTBHRXJRaTFVbl80Z1RYMGpPNVZYdG4tWDJxcWVPR0trNEVJT1AwQWZZTXE5QVR4czNLVWE4SnNmM1Q5X0RoU0Q5QktMWWk1akY1YU1lTkl4YS1nRlFPc3psRXhuaVE?oc=5",
-            "source": "한겨레",
-            "published": "11-06 15:15",
-            "snippet": "코스피, AI 투심 악화에 붕괴…미 데이터센터 규제에 신용·투자 잡음까지 한겨레"
+            "title": "코스피, 6% 급락 마감…9달 만에 장중 5천 선 아래로 - KBS 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nNEh6TGZnQU9xdVh3aGgwb055dVlyU0RqOUhvQnhhaTNORzAtNmRVY0VVTm9fMmRZTkczRkxBQllzLXgwOTlKOHZVV2tCbHlTaW80X3lvdFVSMGc?oc=5",
+            "source": "KBS 뉴스",
+            "published": "11-06 17:06",
+            "snippet": "코스피, 6% 급락 마감…9달 만에 장중 5천 선 아래로 KBS 뉴스"
           },
           {
-            "title": "한동훈, 코스피 5000 붕괴에 \"국민 피눈물…李대통령 직접 밝혀야\" | - 주간조선",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuWVNHd2xXbVdJRjk4SzNTem5UOTV2dW05bzlaNTZTZEFvMzNib2NFSWZqVHFaT3hpTW8xX1hFd3N2WHg0NFl3X0hZSmxQUDlhcnpFVkludHd6VGRUSTRWTTMxMGFVXzU1MEF0UGFB?oc=5",
-            "source": "주간조선",
-            "published": "11-06 11:53",
-            "snippet": "한동훈, 코스피 5000 붕괴에 \"국민 피눈물…李대통령 직접 밝혀야\" | 주간조선"
-          },
-          {
-            "title": "野, 코스피 5,000 붕괴에 \"억지 부양하더니 국민 피눈물\" 총공세 - 연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtOXdBeGtlVmVJMnZsdmlZUFpYREdkTU5EUHQxMHlDeGpoMDFkX1NFYmJMWWdKTm1LYXV6dzctdjQyWmRBcURtOE1IdnNtM29sRjIydndtOG84ZjVQWWJ5SDA2OFBGejN1M0hhU1l2M28?oc=5",
+            "title": "[증시-마감] 블루웨이브發 AI공포에 코스피 6% 급락…5,000 턱걸이 - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wd2ZSR3Ytb3J1RFEySGo2bksxMWowLUJJU0FvYjFJQTZEaklGV3lta3M4WDNnX29DYlZXWmc5eW5PVXA2NXE5cDBycHdnSENrNHdpVkpad1Zad25RWmlveWYwNXotX1RKSm5VazYtZWc?oc=5",
             "source": "연합인포맥스",
-            "published": "11-06 12:05",
-            "snippet": "野, 코스피 5,000 붕괴에 \"억지 부양하더니 국민 피눈물\" 총공세 연합인포맥스"
+            "published": "11-06 16:03",
+            "snippet": "[증시-마감] 블루웨이브發 AI공포에 코스피 6% 급락…5,000 턱걸이 연합인포맥스"
           },
           {
-            "title": "야권, 코스피 5천 붕괴에 \"거품 꺼졌다\"‥정부 책임론 주장 - MBC 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IVzBUMzhwZFlNZDNnY0dOS0VMVlRaU3kxSWh2NS0wdTV4VTJHblI2QUh5bDNFN2VhZF9LdV9NakdSUW5TQ2MtY20zN19vSUdkWFZHRFA2bHBsSzVBMko0OW5KVG16Uk9qaU1UaTVQTXZpTXhTVVdSNNIBeEFVX3lxTE5KR2xTdjBaSkdPeHRLWEE5cjRITy12bmRISlp6bV8ySWtobi1DMmZjMDNzQ0JtLXB5VVg5Qmg1ZlhFZmVoN2paTEZtVzhia0VZQ1B3LV9jNV9qbHp3OGFCYnBwTWRQRGx3M25lSk42bGQ1a0NYMG53bw?oc=5",
-            "source": "MBC 뉴스",
-            "published": "11-06 11:28",
-            "snippet": "야권, 코스피 5천 붕괴에 \"거품 꺼졌다\"‥정부 책임론 주장 MBC 뉴스"
+            "title": "코스피, 6% 급락한 5059.69 마감…장중 '5000선' 붕괴·서킷브레이커 발동 - 인더스트리뉴스",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE45X2V2eE53Y21UMWR6S3hWc2ZYajRiak9UMkp4MHlrd0VTN1pUQWFnQlFWMllrY0pHNDNtV0ViaTFlb2M3U2NUcnFvbmRjb3M1emdEbnlDbDBYWFhnc1h1SmlLTEprbU1LWlJYTUUwUGFIUQ?oc=5",
+            "source": "인더스트리뉴스",
+            "published": "11-06 18:07",
+            "snippet": "코스피, 6% 급락한 5059.69 마감…장중 '5000선' 붕괴·서킷브레이커 발동 인더스트리뉴스"
           }
         ],
-        "증시 긴급 대응": [
+        "반도체주 폭락": [
           {
-            "title": "정부, 증시 급락에 긴급 대응‥신용융자 담보비율 의무 3개월 면제 - MBC 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MdzhWSUc5X092ckExV1owUEU5c09GR1g3OFl0eVY4by1VZkFaTHBSWGZiNHI1bjdlVGlEMHFNcGQ0WTdTYzdWaHBUZEZqLXhsRzJCNmtFbFV6ZjJrVUhxalU1TmNVN2RPaEtJVTJ4dy01ZkFO0gF0QVVfeXFMTWgzY29iS0wtSG1EUG84QkdnWkhBaTA3bS1ZMmNxTE9sQ3JFT043aVdtWHktOUNkbi1EenNYb3pqN0o5VnR1WjYwODJsSWliVTNMc0JKSkdIY0U4aFJoVU5hd1dJWGFoSy1aNDU2SF83T0Z1LUQ?oc=5",
-            "source": "MBC 뉴스",
-            "published": "11-06 12:10",
-            "snippet": "정부, 증시 급락에 긴급 대응‥신용융자 담보비율 의무 3개월 면제 MBC 뉴스"
+            "title": "반도체주 폭락 이제 서막일 수도...월가가 주목하는 3대 경고음 - 글로벌이코노믹",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVjlRVkJfMTZIMU1JWjdMV3AtakVwRlQwSVhiVkVoTy1kZEhkM1FkUzFXN2pILTVRM3B3SHQwTnllRzQ5WTJtYVNYYVhuczRxdGUxZl9LRWRRNjZ5dUJCeVl2UUZsbHZOSlI1TExiemQzY242djc1T2E3bFZNaXI3UTZEQ3hucW1X?oc=5",
+            "source": "글로벌이코노믹",
+            "published": "11-06 11:02",
+            "snippet": "반도체주 폭락 이제 서막일 수도...월가가 주목하는 3대 경고음 글로벌이코노믹"
           },
           {
-            "title": "증시 급락에 과도한 반대매매 막는다…“신용융자 담보비율 의무 3개월 면제” - 전자신문",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83TkNWVU55eURFR0FSdHpKYTZVNHZKWDl5cHFGa3Vta2hEUG9HYXA4SDZRS1kwaGF2Ym03YjNmczdXRWloZzUwWUFncklQUQ?oc=5",
-            "source": "전자신문",
-            "published": "11-06 13:58",
-            "snippet": "증시 급락에 과도한 반대매매 막는다…“신용융자 담보비율 의무 3개월 면제” 전자신문"
+            "title": "[특징주] 美 반도체주 폭락에 프리마켓서 삼성전자 11%·SK하이닉스 13%↓ - 뉴스핌",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lekV2dzBxblFYb2I2ZzllXzBLR3ZyWlBKdERvcW91d0RzWURNUlNZNzNxZFlhUkZfSWVvY2VURDJiTnJ4ZXBEeDFWZUJIUEV2R2RZSmRCMTRkdTA5?oc=5",
+            "source": "뉴스핌",
+            "published": "11-06 08:26",
+            "snippet": "[특징주] 美 반도체주 폭락에 프리마켓서 삼성전자 11%·SK하이닉스 13%↓ 뉴스핌"
           },
           {
-            "title": "증시 급락에 정부 긴급 대응…신용융자 담보비율 140% 의무 3개월 면제 - 조세일보",
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90dXd5WTVxVE5ZLURpT3ctSjZzQ1RKX2ozazR2MGltUWRvUlVKbW1lbzFSRVk1RzQzWnYxZ0JhOVJIUXl6NVdwdjhYQWxlYTJDUFJwT1lia2Vzd005SXRPcS1LNVp6bUFyTHpycUFscw?oc=5",
-            "source": "조세일보",
-            "published": "11-06 13:53",
-            "snippet": "증시 급락에 정부 긴급 대응…신용융자 담보비율 140% 의무 3개월 면제 조세일보"
+            "title": "“코스피 5000선 가까스로 지켰다”…이틀 새 11% 폭락, 외국인 6조원 투매 - 디지털데일리",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsaUpIM0NaWnRtazhGSmdCQTM0RVYwSmtMejFaYTlVcXVCRE81a2oyajVZVHlPdjVxWEwtbmVHOEI0OVd1VWcyUWJhNGJBbkpXZWE2eTVPZjlWZUcweklvMzFRT2I?oc=5",
+            "source": "디지털데일리",
+            "published": "11-06 15:58",
+            "snippet": "“코스피 5000선 가까스로 지켰다”…이틀 새 11% 폭락, 외국인 6조원 투매 디지털데일리"
           },
           {
-            "title": "F4, 증시 급락에 긴급 대응… 신용융자 담보비율 유지의무 3개월 면제 - 서울신문",
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56c1NfUXNvV203eVFjaVBZMG1xWVB6LUpOS1hET1lDSEdudkJEVlRfT2FVdllzN2lfYUx6WnBmUjFqN3kwVzBfWW9GZ2hOMGxhZURDamFtSGk2NTlPdmx0QmhRUnVGUDB0X1NTdDVxZw?oc=5",
-            "source": "서울신문",
-            "published": "11-06 12:33",
-            "snippet": "F4, 증시 급락에 긴급 대응… 신용융자 담보비율 유지의무 3개월 면제 서울신문"
+            "title": "반도체주 폭락에 입 연 최태원…“시장은 합리적이지 않다” - 한스경제",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDQ2J0bURPTnJLV0RUbGJiaklydllOd2J0ZUdJSHNTeGRhTV9ERUJJVEg5M3JjY0hrTjZ4RnJEVjNkRlEyNURhN3FGTnlYWmFnWGhqa1Y4QlRGbEk0ZjZKN2l0UEo1WmlvN2hR?oc=5",
+            "source": "한스경제",
+            "published": "11-06 13:30",
+            "snippet": "반도체주 폭락에 입 연 최태원…“시장은 합리적이지 않다” 한스경제"
           },
           {
-            "title": "증시 급락에 'F4 긴급 대응'…증권사 신용융자 담보비율 유지 의무 석 달 면제 - 프라임경제",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qRGtNbEJJNWlZdnJSdl9nWlV1VmoxQjZ5ei1FWWpRLTZrOG1iLXdGX2dTTlZNX05IR01YdXRwQ3VscG9EZkkwVnFkS1RqOHZMbVI4NE95WnU4QlRWdEVrNFp1aHZ5T25ia2ttVHVwWXpvUQ?oc=5",
-            "source": "프라임경제",
-            "published": "11-06 14:08",
-            "snippet": "증시 급락에 'F4 긴급 대응'…증권사 신용융자 담보비율 유지 의무 석 달 면제 프라임경제"
+            "title": "美 반도체지수 12% 폭락…코스피 장중 5000선 붕괴 - 엠에스투데이",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyQlRISS1LdEF3RE1fYjRwTEIxNkNnYXlMM1dmdDFqaUJDMDdrT3BaYzNFLXJrX3A0Z0tzbEJ0MHdyeXVXc2ZPanZpSWJ1SGd0dUxpVFBXSDVNU0VkUE5JOEFyR1NnRDZfVHFsNk1VTFbSAXBBVV95cUxQMkJUSEktS3RBd0RNX2I0cExCMTZDZ2F5TDNXZnQxamlCQzA3a09wWmMzRS1ya19wNGdLc2xCdDB3cnl1V3NmT2p2aUlidUhndHVMaVRQV0g1TVNFZFBOSThBckdTZ0Q2X1RxbDZNVUxW?oc=5",
+            "source": "엠에스투데이",
+            "published": "11-06 16:04",
+            "snippet": "美 반도체지수 12% 폭락…코스피 장중 5000선 붕괴 엠에스투데이"
           },
           {
-            "title": "증시 급락에 당국 긴급 대응…신용융자 담보비율 의무 3개월 면제 - 마켓인",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zdUt4T3J1ZzVZelZWczZLWXNxVS1BVlhNU20zNmFNcnRETm5aNE16c05iS2QxSEZiVWdiWURDcUk2aTVDT3djTFlwNmN6clE5N2FCTTdqRG5DQm5hUkl1dGhJQlZKS2tCeEZKcktGX1dsaEE?oc=5",
-            "source": "마켓인",
-            "published": "11-06 14:13",
-            "snippet": "증시 급락에 당국 긴급 대응…신용융자 담보비율 의무 3개월 면제 마켓인"
+            "title": "반도체주 또 폭락, 지금 팔아야 하나...증권가 \"단기 악재, 저가 매수 기회\" - 녹색경제신문",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MX0s5TFczMzJrZmR6bzFBVDlHQk9yQ2F5NkRGU2lfS2ltSG1iaHo5NXJEdngxMExfR2xOdU15bUVqQ3hpc3FFX0R0YXNrUzN5VkNzMmlQVmprZlBHZEVEcmtuS01ETFNp?oc=5",
+            "source": "녹색경제신문",
+            "published": "11-06 11:36",
+            "snippet": "반도체주 또 폭락, 지금 팔아야 하나...증권가 \"단기 악재, 저가 매수 기회\" 녹색경제신문"
           }
         ],
-        "국내 부동산 시장": [
+        "부동산 규제": [
+          {
+            "title": "25억 넘는 집 대출 금지?...국토부 \"부동산 규제 허위 사실, 수사 의뢰\" - 머니투데이 - 머니투데이",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvNllaOTVJa1JSd2lCX1B1Z2FfWjE1NkIycVhaMHh3ZUpDWWxjZEVtc0V2U2hfLUV3VUJySHZIZWhrNmpidmFWSjAxU1lneEtuaVFVb3hjVGhPZFRPaGtmWjN3Z0IzRExVd2fSAW9BVV95cUxOcXFwS255R3ZZZ2JsZWRHYUdtclpaS2RmZnQ2SVIyX0tKSXpNYkoxNkhPXzlOTmF4UjhQTFdxLVhabWFfUjdobV95YVZDZjNYdENaYWRHQWk2OUtOZ1FNRmxIa2JlR0t4aWhDOWpJY3M?oc=5",
+            "source": "머니투데이",
+            "published": "11-06 12:03",
+            "snippet": "25억 넘는 집 대출 금지?...국토부 \"부동산 규제 허위 사실, 수사 의뢰\" - 머니투데이 머니투데이"
+          },
+          {
+            "title": "국토부, 11월 주택시장 추가 규제설에 \"사실무근\" - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sOUI0X3dMM3p1MU5fd2NnZEVqdjl2SEpPanp2LWV3ajBZOVpYN3BNNnlXZ09MWTNoeGNuS2g4X2JyYmxPR196OE5LcnpvRjA2WXNWUjlMVUpvTFpMMEEteUdLNkRScHluTTlLelZ5cHc?oc=5",
+            "source": "연합인포맥스",
+            "published": "11-06 09:46",
+            "snippet": "국토부, 11월 주택시장 추가 규제설에 \"사실무근\" 연합인포맥스"
+          },
           {
             "title": "\"대출 막히고 규제?\"…또 퍼진 부동산 지라시에 정부 \"사실 아냐\" - 한국경제",
             "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wZFNWM1dwMlU2bFd4bzVyWDZfMDNSbHExZTJqdE9DY2ltWG1rSnpEakVzdnVHcGlnYXM1TUh6OGRfNU5uZTlyaFNfTUNDcjdMNTNHY3hjR1pSQQ?oc=5",
@@ -196,158 +210,163 @@
             "snippet": "\"대출 막히고 규제?\"…또 퍼진 부동산 지라시에 정부 \"사실 아냐\" 한국경제"
           },
           {
-            "title": "해임으로 끝난 국민연금 부동산실 논란…센터필드가 드러낸 내부 견제의 한계 - 인베스트조선",
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT015MHg5Qnh5OG9acXpqWUdEX2hmT01IczQ4clRidEQxUnhGXzJhQmYxTTZfTkQyeXhGd3NjdElpUTBBSm1PRWxCWS1FNXFwd040WnZhck9oTGIxNzFYSnVnZXhBdFkySkFvaVp5T3A5RVk0MWFESktoSkhKcEpJOWZpRQ?oc=5",
-            "source": "인베스트조선",
-            "published": "11-05 15:50",
-            "snippet": "해임으로 끝난 국민연금 부동산실 논란…센터필드가 드러낸 내부 견제의 한계 인베스트조선"
+            "title": "[단독]\"수원 권선·안양 만안도 규제, 25억 넘으면 대출 0원\" 또 퍼진 부동산 규제 지라시 - 땅집고",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YZnU5RFpRdml5ZWtoZ25aV3dXVUs4elZ6YnhtTXpPUDBQaDJ4Q2RmYV92R25LbWFmRnJfRDBscE5DSVZCTGRnd2kyX0djVGhLMUQzOURSNHUwUnF1NkM4NGowdzFRcjJETUFrTm0xUkY5Tks1YVU4SllyUmRZLXPSAXNBVV95cUxOUk1PS1BGd0kwSFdmcTdTdTJ1UmllNm1vOFpoSlViVWd3ZnZzUDM3RnItRmJkWEhqaGZaZHNFSzVxaXRjbTlqc1NodTVyeFAzc1NWTDJRbDBNeldQTXdNQTB0bWJIZk1sQlFmSVpHUGU5LUZr?oc=5",
+            "source": "땅집고",
+            "published": "11-06 10:59",
+            "snippet": "[단독]\"수원 권선·안양 만안도 규제, 25억 넘으면 대출 0원\" 또 퍼진 부동산 규제 지라시 땅집고"
           },
           {
-            "title": "미국 대중국 금융견제 무색...월가 딤섬본드 발행 러시 - 아주경제",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93QmZDcW1wRkJEd3A1Tm9QQk5reGRNbkl2VW5DZWZjZG9aX0VUczBuYlVlMmxDU2x5TzJTTkhyeno1OGVrVjJYZmo4b1NrdHFuLVoydWQ0M05zUdIBWEFVX3lxTE5qT25jMWpKX1YxWElXV0x4OG1jSWdlZTZDelJFUmJzaFNfcUk5NUlWSHZUck00UmU4NFFDTWlxMTd4TWx6Mm9MZjVTX2JzcjdQRUdibENGekE?oc=5",
-            "source": "아주경제",
-            "published": "11-06 09:18",
-            "snippet": "미국 대중국 금융견제 무색...월가 딤섬본드 발행 러시 아주경제"
+            "title": "\"부천·수원·안양 추가 규제\" 부동산 대책설 확산…국토부 \"사실무근\" - 진일보 | 전남일보",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KYThlODNZaElxXzIzZ05CVmtvaDUtZHdPeHlvaWxHT2dvNDM4RU9zSUlrNHZfY2lxVVJFdzJsTGg2b0FZQ3JzQ0c2dVA4Y2VrZHFjbWVBWGZ6Z0R4TFZSSEoxVXVuN20zR18xYnZUcw?oc=5",
+            "source": "진일보 | 전남일보",
+            "published": "11-06 14:50",
+            "snippet": "\"부천·수원·안양 추가 규제\" 부동산 대책설 확산…국토부 \"사실무근\" 진일보 | 전남일보"
           },
           {
-            "title": "한국부동산원 11월 1주 주간 아파트 동향… 전국 매매 0.07%·전세 0.10% 상승 및 시장 양극화 심화 - 청년투데이",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNSTc0czlHdzVRR2pGb0tUVlBsSUczQlFwUHhFWXhNOWVGZDgtLXJLZzI0QmU1cTZkNHc0TjVUdnZ5NkcyRWpReTNBSkV6Q194RXRrNXhOekhaZ3lIVC1aQVlDZW9fQnd1ZUE?oc=5",
-            "source": "청년투데이",
-            "published": "11-05 14:01",
-            "snippet": "한국부동산원 11월 1주 주간 아파트 동향… 전국 매매 0.07%·전세 0.10% 상승 및 시장 양극화 심화 청년투데이"
-          },
-          {
-            "title": "GH, 가평 전원주택용지 25필지 추첨 공급 - 한국경제",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Fc20xanJING92TWVTYm9Hd2dKYkNROGp0NnhjRmJMRnhZVGdXbkZzbEZSUU90Z0NOU2tqVmNkcS02YzF4aVYxeFZlcUU2THpYX3V0aG5YV3VLZw?oc=5",
-            "source": "한국경제",
-            "published": "11-06 16:41",
-            "snippet": "GH, 가평 전원주택용지 25필지 추첨 공급 한국경제"
-          },
-          {
-            "title": "서초구 \"재초환은 주택공급 위축\"…정부에 폐지 건의 - 한국경제",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8waFJoaTVmUEtfRDFUcUdKdENHUGp4cWlTYXkyZjkwOUFnR3NvWS1wdi1WdmZUUFQ3OWNyRzE2NXU4RmtIZEt1UGFkR2U4NjJFX01GbGJHT2owdw?oc=5",
-            "source": "한국경제",
-            "published": "11-06 07:32",
-            "snippet": "서초구 \"재초환은 주택공급 위축\"…정부에 폐지 건의 한국경제"
+            "title": "\"25억원 넘으면 대출 금지?\"... 정부, 부동산 규제설 전면 부인 - 엠투데이",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Hc29QejY0TFdiU0JMeHVmcWdLTW1BeGloZWtqT21UQkpIcEotdHNkUGlma09WdE1DcXpqSndQZzl6QTcwMV9ZaC1zUy1xUFpoZEhCamFmYl9zMjJ6QUpNcXBfQjBfX3N6bVNIMGlzaw?oc=5",
+            "source": "엠투데이",
+            "published": "11-06 13:09",
+            "snippet": "\"25억원 넘으면 대출 금지?\"... 정부, 부동산 규제설 전면 부인 엠투데이"
           }
         ]
       },
       "queries": {
-        "코스피 붕괴": [
-          "코스피 붕괴 디시",
-          "코스피 붕괴 이유",
-          "코스피 붕괴 모음",
-          "코스피 붕괴 짤",
-          "코스피 붕괴 펨코",
-          "코스피 붕괴 시리즈",
-          "코스피 붕괴 밈",
-          "코스피 붕괴 위험",
-          "코스피 붕괴 더쿠"
+        "코스피 급락": [
+          "코스피 급락 이유",
+          "코스피 급락에 따른 주식 시장 반대매매 규모와 최근 증시 현황을 알려줘",
+          "코스피 급락 주",
+          "코스피 급락에 따른 주식 반대매매 규모와 증시 전망에 대해 알려줘",
+          "코스피 급락 디시",
+          "코스피 급락 나무위키",
+          "코스피 급락 이유 디시",
+          "코스피 급락 사유",
+          "코스피 급락 순위"
         ],
-        "증시 긴급 대응": [],
-        "국내 부동산 시장": [
-          "국내 부동산 시장 규모",
-          "국내 부동산 시장 전망",
-          "국내 부동산 시장 현황",
-          "국내 상업용 부동산 시장 규모"
+        "반도체주 폭락": [
+          "반도체주 폭락 이유",
+          "미국 반도체주 폭락",
+          "미국 반도체주 폭락 이유"
+        ],
+        "부동산 규제": [
+          "부동산 규제 우려에 기존 계약대로 대출을 받도록 이미 조치 완료",
+          "부동산 규제지역",
+          "부동산 규제지역 현황",
+          "부동산 규제지역 현황 2026",
+          "부동산 규제지역 정리",
+          "부동산 규제 정리",
+          "부동산 규제지역 확인",
+          "부동산 규제 완화",
+          "부동산 규제지역 지도",
+          "부동산 규제 뜻"
         ]
       }
     },
     "global": {
       "keywords": [
-        "나스닥 폭락",
-        "美 중간선거 여파",
-        "원 달러 환율 급등"
+        "뉴욕증시 나스닥 폭락",
+        "미국 중간선거",
+        "원달러 환율 급등"
       ],
       "results": {
-        "나스닥 폭락": {
-          "headline": "나스닥 5.5% 폭락과 AI 거품론 확산",
+        "뉴욕증시 나스닥 폭락": {
+          "headline": "나스닥 5.5% 폭락, 기술주 투매 장세",
           "facts": [
-            "미국 뉴욕증시에서 기술주 중심의 나스닥 지수가 5.5% 폭락하며 하루 만에 시가총액 2조 5000억 달러가 증발함",
-            "미국 정치권에서 AI 관련 규제론자들이 대거 약진한 영향과 함께 AI 데이터센터를 둘러싼 규제 우려가 투매를 촉발함",
-            "미국 기술주 투매 현상의 직격탄을 맞은 국내 삼성전자와 SK하이닉스 등 반도체 대형주들이 프리마켓에서 10%대 급락세를 보임",
-            "나스닥의 급격한 하락은 '블루 웨이브' 등 정치적 변화와 맞물려 AI 기업들의 향후 성장성에 대한 의구심을 증폭시킴",
-            "반등 하루 만에 다시 찾아온 대규모 폭락으로 인해 글로벌 증시 전반에 걸쳐 극단적인 위험 회피 심리가 빠르게 확산됨"
+            "뉴욕증시가 반등 하루 만에 급락세로 돌아서며 나스닥 지수가 장중 4% 이상 하락하는 조정국면에 진입함",
+            "중간선거발 AI 발작과 기술주 투매 현상이 겹치면서 나스닥 지수가 최종 5.5% 폭락하여 마감함",
+            "AI 관련주들이 일제히 무너지면서 미 증시 전체에서 무려 2조 5천억 달러에서 3조 달러에 달하는 시가총액이 증발함",
+            "기술주 중심의 매도 물량이 쏟아지면서 시장 전반에 패닉 셀링 현상이 확산되는 결과를 낳음",
+            "예상치 못한 정치 및 경제적 악재들이 복합적으로 작용하여 뉴욕증시의 주요 지수가 큰 폭으로 하락함"
           ],
           "watch": [
-            "미국 기술주 추가 하락 여부 및 주요 빅테크 기업들의 주가 방어력",
-            "국내 반도체 대형주들의 본장 개장 후 실제 주가 방어 여부",
-            "미국 AI 데이터센터 관련 입법 및 규제 동향"
+            "미국 기술주의 추가 하락 여부",
+            "글로벌 증시의 연쇄적인 패닉 현상 진정 여부",
+            "미국 연방준비제도의 통화정책 기조 변화"
           ],
           "qna": [
             {
-              "q": "나스닥 폭락 이유와 관련해 디시 등 커뮤니티에서 언급되는 주기나 역사적 패턴이 실제 존재하는가?",
-              "a": "역사적으로 기술주가 단기간에 급등한 이후 정치적 규제나 금리 이슈가 겹치면 큰 폭의 조정장이 찾아오는 패턴이 반복되어 왔다. 이번에도 AI 관련 인프라 투자 과열 논란과 규제론 부각이 맞물리면서 주기적인 투매 현상이 재현된 것으로 풀이된다."
+              "q": "뉴욕증시의 나스닥이 단 하루 만에 5% 넘게 폭락한 주된 이유는 무엇인가?",
+              "a": "중간선거 전후로 불거진 정치적 불확실성과 AI 산업에 대한 고평가 논란이 겹쳤기 때문이다. 기술주 중심의 대규모 투매가 지수를 급격히 끌어내렸다."
             },
             {
-              "q": "미국 나스닥 시장에서 2조 5천억 달러가 증발했다는 것이 내 국내 주식 계좌와는 무슨 상관인가?",
-              "a": "글로벌 증시의 동조화 현상으로 인해 미국 기술주가 무너지면 한국의 대표 수출 종목인 삼성전자와 하이닉스 같은 반도체 주식들이 외국인 매도세로 인해 곧바로 직격탄을 맞는다. 국내 증시의 외국인 수급이 악화되면서 전체 지수를 끌어내리는 도화선이 된다."
+              "q": "미국 증시의 급락이 국내 투자자의 자산에는 어떤 영향을 미치는가?",
+              "a": "글로벌 증시의 동조화 현상으로 인해 국내 코스피와 기술주 시장에도 즉각적인 하방 압력으로 작용한다. 해외 주식을 보유한 투자자에게도 직접적인 평가손실을 안겨준다."
             },
             {
-              "q": "이처럼 나스닥이 큰 폭으로 폭락하는 장세에서 저가 매수를 노리는 전략은 타당한가?",
-              "a": "폭락장에서 바닥을 정확히 예측하고 무리하게 매수하는 것은 '떨어지는 칼날을 잡는 것'과 같아 큰 손실로 이어질 수 있다. 추세가 하방으로 꺾인 시점에는 변동성이 진정되거나 규제 불확실성이 해소되는 신호를 확인하고 접근하는 편이 안전하다."
+              "q": "조정국면에 진입한 미국 증시를 향후 어떻게 바라보아야 하는가?",
+              "a": "단기적인 시장 충격이 클 수 있으므로 감정에 휘둘린 매매를 피해야 한다. 거시경제 지표와 기업 실적을 차분히 모니터링할 필요가 있다."
             }
           ]
         },
-        "美 중간선거 여파": {
-          "headline": "美 중간선거 여파 시장 핵심 이슈 및 동향",
+        "미국 중간선거": {
+          "headline": "미국 중간선거 참패와 증시 대반전",
           "facts": [
-            "美 중간선거 여파에 中 증시 일제히 하락… 반도체주 약세 - Chosunbiz",
-            "중간선거 여파·AI 투자 불안에 미 기술주 폭락...시총 4340조 증발 - AI타임스",
-            "최태원 “美 중간선거 하나에도 시장 ‘영향’…롤러코스터 염두해야” - 경기일보",
-            "미 중간선거 '쓰나미'…한국 증시만 왜 직격탄? [몇층이세요] - YTN"
+            "2026년 미국 중간선거에서 트럼프 진영이 참패하는 결과가 나타나면서 정치 지형에 큰 변화가 발생함",
+            "중간선거 참패의 여파로 한때 70달러를 웃돌던 트럼프 코인 가격이 1.1달러 수준까지 폭락함",
+            "트럼프의 중간선거 패배 소식 이후 역설적으로 미국 증시는 불확실성 해소로 해석되며 깜짝 반등을 기록함",
+            "블루웨이브 현상 발생 이후 미국 정책 변화가 한국 산업과 경제에 미칠 영향에 대한 분석이 활발히 진행됨",
+            "미래에셋자산운용 등 금융업계에서는 중간선거 결과 이후 주목해야 할 TIGER ETF 상품들을 소개함"
           ],
           "watch": [
-            "美 중간선거 여파 관련 금융당국 공식 발표",
-            "시중 금리 및 거시 지표 변화"
+            "미국 중간선거 이후 의회의 입법 권력 구도",
+            "트럼프 관련 자산의 추가 가격 변동성",
+            "미국 새 정책 기조가 한국 수출 기업에 미칠 영향"
           ],
           "qna": [
             {
-              "q": "美 중간선거 여파 이슈가 개인에게 미치는 실질적인 영향은 무엇인가?",
-              "a": "금리와 환율, 투자 자산 가치에 시차를 두고 반영되므로 포트폴리오 점검이 필요하다."
+              "q": "미국 중간선거 결과가 왜 미국 증시의 반등을 이끌어냈는가?",
+              "a": "선거 결과로 인한 정치적 불확실성이 해소되었기 때문이다. 시장은 이를 권력의 분산과 안정성 확보로 받아들이며 긍정적으로 반응했다."
             },
             {
-              "q": "앞으로 시장에서 가장 주목할 관전 포인트는 무엇인가?",
-              "a": "공식 정책 지표와 주요 기업 실적 발표에 따라 단기 변동성이 결정될 수 있다."
+              "q": "트럼프 코인의 가격이 급격하게 폭락한 이유는 무엇인가?",
+              "a": "트럼프의 중간선거 패배로 인해 정치적 영향력과 기대감이 급감했기 때문이다. 투심이 빠르게 얼어붙으면서 가치가 수직 낙하했다."
             },
             {
-              "q": "초보 투자자가 지금 주의해야 할 행동은 무엇인가?",
-              "a": "과도한 레버리지를 피하고 분할 접근 관점을 유지하는 것이 바람직하다."
+              "q": "미국 중간선거 결과가 한국의 일반 경제나 산업에 주는 의미는 무엇인가?",
+              "a": "미국의 향후 대외 정책과 산업 지원 방향이 완전히 달라질 수 있기 때문이다. 국내 관련 산업의 주가와 수출 전략에도 적지 않은 변화를 예고한다."
             }
           ]
         },
-        "원 달러 환율 급등": {
-          "headline": "블루웨이브 충격에 원달러 환율 1350원대 돌파",
+        "원달러 환율 급등": {
+          "headline": "원·달러 환율 14원 폭등, 1350원대 진입",
           "facts": [
-            "미국 중간선거에서의 이른바 '블루 웨이브' 여파로 인해 원/달러 환율이 14.5원 급등하며 6개월 만에 최대 폭의 상승 기록을 세움",
-            "달러 인덱스(DXY) 강세와 증시 불안, 선물 시장의 압력이 복합적으로 작용하면서 달러/원 환율이 한 달 만에 최고치인 1360원대로 진입함",
-            "환율이 급등하여 한 달 만의 최고치를 기록하자 수출업체들의 네고 물량이 대거 출회되면서 1350원대에서 일단 숨 고르기 장세를 보임",
-            "미국 기술주 투매 현상으로 인해 글로벌 금융시장에 위험 회피 심리가 극대화되면서 원화 가치가 큰 폭으로 하락함",
-            "미 중간선거의 충격으로 환율이 단숨에 1350원대를 돌파하자 연말 시점에 환율이 다시 안정될 수 있을지 시장의 관심이 집중됨"
+            "미국발 AI 규제 쇼크와 블루웨이브 충격이 겹치면서 원·달러 환율이 14.5원 급등하여 1356.6원에 마감함",
+            "이번 환율 상승 폭은 약 6개월 만에 최대치를 기록하며 원화 가치가 큰 직격탄을 맞음",
+            "달러인덱스 상승과 국내 증시 폭락 및 선물 시장의 압력이 복합적으로 작용하여 환율이 한 달 만에 최고치로 치솟음",
+            "외국인 투자자들의 대거 주식 순매도와 자금 이탈 현상이 원화 약세를 부추기는 주요 원인으로 작용함",
+            "글로벌 금융시장의 불안정성 확대가 안전자산인 달러화 선호 현상을 강하게 자극함"
           ],
           "watch": [
-            "원/달러 환율의 1360원대 안착 여부 및 추가 상승 압력",
-            "수출업체들의 네고 물량 출회 지속성 및 외환당국의 미세조정 여부",
-            "미국 달러화 인덱스의 향후 방향성"
+            "원·달러 환율의 1360원대 안착 여부",
+            "외국인 자금의 국내 증시 이탈 규모",
+            "외환당국의 시장 안정화 개입 여부"
           ],
           "qna": [
             {
-              "q": "원/달러 환율이 1350원대를 넘어 급등하면 해외 여행이나 직구를 주로 하는 개인에게는 어떤 실질적 타격이 있는가?",
-              "a": "원화 가치가 하락한 만큼 해외 상품을 구매하거나 달러를 환전할 때 지불해야 하는 원화 비용이 크게 늘어난다. 해외 여행 경비나 해외 직구 비용이 전반적으로 상승하여 체감 물가가 높아지게 된다."
+              "q": "원·달러 환율이 하루 만에 14원 이상 급등한 근본적인 이유는 무엇인가?",
+              "a": "미국 증시 폭락과 블루웨이브에 따른 글로벌 달러 강세 현상이 원화 가치를 떨어뜨렸기 때문이다. 국내 증시에서 외국인 자금이 이탈한 것도 큰 원인이다."
             },
             {
-              "q": "환율이 급등할 때 뉴스에 나오는 '네고 물량 와르르'라는 표현이 무슨 뜻이며 환율을 어떻게 진정시키는가?",
-              "a": "수출 기업들이 달러로 벌어들인 돈을 국내에서 쓰기 위해 원화로 바꾸려고 시장에 내다 파는 달러 매도 물량을 뜻한다. 환율이 고점에 달했을 때 이러한 네고 물량이 쏟아지면 달러 공급이 늘어나면서 환율의 추가 급등을 막는 완충 역할을 한다."
+              "q": "환율 급등이 나의 일상적인 경제생활이나 소비에 어떤 영향을 미치는가?",
+              "a": "수입 원자재 가격이 상승하여 물가 압력이 커지고 해외직구 비용이나 유학 비용 등이 비싸진다. 전체적인 수입 물가 상승으로 가계 부담이 가중된다."
             },
             {
-              "q": "연말에 환율이 다시 내려갈 것이라는 기대가 있는데 지금 달러를 사거나 팔아야 하는가?",
-              "a": "정치적 이벤트와 글로벌 위험 회피 심리로 인해 단기 변동성이 커진 상태이므로 환율 방향성을 단정하여 거래하는 것은 위험하다. 환율은 대외 변수에 매우 민감하게 움직이므로 실수요 목적이 아니라면 환차익을 노린 단기 투자는 자제하는 것이 바람직하다."
+              "q": "환율이 치솟는 시기에 개인은 자산을 어떻게 관리하는 것이 현명한가?",
+              "a": "환율 변동성에 따른 환손실 위험을 고려하여 외화 자산과 원화 자산의 포트폴리오를 점검해야 한다. 무리한 환 투기성 거래는 자제하는 편이 안전하다."
             }
           ]
         }
       },
       "news": {
-        "나스닥 폭락": [
+        "뉴욕증시 나스닥 폭락": [
+          {
+            "title": "뉴욕증시 급락 반전…나스닥 장중 4% 이상↓ 조정국면 진입 - 연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rUF9wVHpjMlAwcTZnNGpfMlNQenFwX1dVSjExRm90aHlwMGduM2hKS2VBYTd3eDByeXZmLUt6V1NmRmUwZHhJZGVfUmZyME82OUN4U2t0MmhBQWfSAWBBVV95cUxONmlGcld3ZnNzRFVwdXROT05nOU1vVHp2Zk55NGllSG5yc1F6WWRrUndWMWVfdVpqY2VrLU9ybUdTVjc5MHA0el9PVlliTXozR3RPMWtBQUtWTVB1Q2dmM1Q?oc=5",
+            "source": "연합뉴스",
+            "published": "11-06 01:50",
+            "snippet": "뉴욕증시 급락 반전…나스닥 장중 4% 이상↓ 조정국면 진입 연합뉴스"
+          },
           {
             "title": "나스닥 5.5% 폭락…AI 관련주 무너지며 시총 2조5천억달러 증발 - 한겨레",
             "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVUnNFSG5ER0hwNTUyamVqZ3hvWnpiNjI2cy15c0hLTG5lbFFxckJwZHlrcFpqM0IyS0lIYlFNZ19HQmlyV3EyLWZSLXhJQ3BWQzlDT1VLLXg2SVQ1djAzcENWLWRnYUNlUS1rTVliQQ?oc=5",
@@ -356,86 +375,86 @@
             "snippet": "나스닥 5.5% 폭락…AI 관련주 무너지며 시총 2조5천억달러 증발 한겨레"
           },
           {
-            "title": "“2조5000억 달러 증발”…나스닥 폭락시킨 AI 데이터센터의 역설 - 동아일보",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tQ18yMkIxZVBMXzZIU2gyZl9Hb3MzdE9nRUNqRUdBbnhyOVk3cXYwS0YxUVJpMXdpY0tqb3liZm03dTJlZ2FYeHJJcHhfaFQzZXB2bko1eGkwS3EwY2t3OXRTUUdRekpyYWxCS0taN1N1WGfSAWZBVV95cUxQT2pvMWR4djVSbnVoSk9oeldRUGg3dUVReklnRmZSNWhXS2F1azVIYkJwQjZDMjlhTzJQNkQwd1FYOUo0MmZNWm5WZ085LW1JT3d4TDVfZkRaZUdIWE84RWpzclpBOEE?oc=5",
-            "source": "동아일보",
-            "published": "11-06 15:21",
-            "snippet": "“2조5000억 달러 증발”…나스닥 폭락시킨 AI 데이터센터의 역설 동아일보"
-          },
-          {
-            "title": "美 AI 규제론자 대거 약진…나스닥은 폭락 - 연합뉴스TV",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44emJoZllBVVFySU9tT2ZxeW82MUl6WjFLTHplZVVPbEVfZ01fSlFKaWNKekthVFNVOXRCUTB0ZW1fM3FaVzdiTkprMTZZNV9DZkYybDNlZEFIQ2ZZT1N2NTBHaEJSV1E?oc=5",
-            "source": "연합뉴스TV",
-            "published": "11-06 12:50",
-            "snippet": "美 AI 규제론자 대거 약진…나스닥은 폭락 연합뉴스TV"
-          },
-          {
-            "title": "美 나스닥 폭락에 삼전닉스 또 직격탄…프리마켓 10%대 급락 - 비즈워치",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rcHlLZk5PWDVkYzFUcEdXVUUzT2hlWmtBcmx6OXNWbFN0ZnctX1R3SEtlSkhYeFVhcTlKNF9MOUVzRi1zSEs4YmdXaE9qRzAzMTZzcmpVVWxVTEZER0g3a25Qb1lXZWVrQ2c?oc=5",
-            "source": "비즈워치",
-            "published": "11-06 08:29",
-            "snippet": "美 나스닥 폭락에 삼전닉스 또 직격탄…프리마켓 10%대 급락 비즈워치"
-          },
-          {
-            "title": "‘블루 쓰나미’에 폭락한 나스닥···AI 기업들이 떨고 있는 이유는 - 경향신문",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zMGc3Si1YNy1pT1NuejZHa0pIZkZXZ01hckNnX2E4RHROU2ZrU0VadnlfY0Q1dWxKc1pEQXFNMVZ0ekNld0IwX3h2ZlFPTE5KRDNzYXNtZWxPV1JiUmNJ0gFfQVVfeXFMTzMwZzdKLVg3LWlPU256NkdrSkhmRldnTWFyQ2dfYThEdE5TZmtTRVp2eV9jRDV1bEpzWkRBcU0xVnR6Q2V3QjBfeHZmUU9MTkpEM3Nhc21lbE9XUmJSY0k?oc=5",
-            "source": "경향신문",
-            "published": "11-06 13:12",
-            "snippet": "‘블루 쓰나미’에 폭락한 나스닥···AI 기업들이 떨고 있는 이유는 경향신문"
-          },
-          {
             "title": "뉴욕증시 반등 하루 만에 폭락...기술주 투매에 나스닥 5.5%↓ - YTN 사이언스",
             "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb1B5WWVzQngza0xnU0RWZUVkSTg2c2xOQ3Y0ZVFiT0NsMlpEV1Z6cXFFUWRpX0stLWIzOUluUWtWQ2c0Q0NmX0llcWt1TmpKN0RoYkhZZ1Y1OHRPeWNkckZjSnI0ZGpHZFJOWnBqZHNtdjBlY3kyTkx3Wmc3QXpNcDRISnY2TmtQNjBESg?oc=5",
             "source": "YTN 사이언스",
             "published": "11-06 11:00",
             "snippet": "뉴욕증시 반등 하루 만에 폭락...기술주 투매에 나스닥 5.5%↓ YTN 사이언스"
+          },
+          {
+            "title": "AI 기술주 투매에 폭락…나스닥 5.5%↓ [뉴욕증시 브리핑] - 한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CTXc5dFhOdDBtSW5fYUYwRl9zUXNMRURHZEVuWGZtVlNIeG84bFlNblhWcmpVX3g2cE5fbnZ6ZmVBQkhQbWtTa0QtZzQ5UWtTWDNJNS10aXY1UQ?oc=5",
+            "source": "한국경제",
+            "published": "11-06 07:13",
+            "snippet": "AI 기술주 투매에 폭락…나스닥 5.5%↓ [뉴욕증시 브리핑] 한국경제"
+          },
+          {
+            "title": "간밤 미 증시 3조 달러 증발, 나스닥 5% 폭락 충격 - 네이버페이 머니스토리",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzLTkwN1VOTE9pc0pGaTkwQ3FnbjBvVUJRUWVRMDJNYk5tOVhQc2xpb1VQWVhsWTA0eDA1ZmVDVjFiTG9xUGNud1g0OGpJM1ZCYU45VENvdHNPZw?oc=5",
+            "source": "네이버페이 머니스토리",
+            "published": "11-06 09:08",
+            "snippet": "간밤 미 증시 3조 달러 증발, 나스닥 5% 폭락 충격 네이버페이 머니스토리"
+          },
+          {
+            "title": "뉴욕증시, 중간선거발 'AI 발작'에 급락 마감…나스닥 5.5% 폭락 - 뉴스핌",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtdDFQNGdaQXYwX1JJS3prcXZtX0QxcGRScE56R0dMbTV0Tm1YTzZuV0MxS2NacVg3elh6NUNpdTZFTVRkR2k1RXVoaHFXUEJfR3lvd04tUFZYT0R2?oc=5",
+            "source": "뉴스핌",
+            "published": "11-06 06:21",
+            "snippet": "뉴욕증시, 중간선거발 'AI 발작'에 급락 마감…나스닥 5.5% 폭락 뉴스핌"
           }
         ],
-        "美 중간선거 여파": [
+        "미국 중간선거": [
           {
-            "title": "美 중간선거 여파에 中 증시 일제히 하락… 반도체주 약세 - Chosunbiz",
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOVZhMUtEeENlZlBKTlVEQ1U1QXVqZ1lwbkxYTDQ2Q0lsQXVQTEtia0lmRUE0U0Z0OXlJU3RDbWM0a3hfNFRHUkVzMHZpdFpCc0MxMkZkbnVsd2RpcmhYa3p0cEVVMC1mX3lDZGpUUGVMM2o1TUh1V3ZBOFpNVkN1RkNSVjNDUDRYcjdxV2stNUJwZDZaRmJaTEdKSjJ1UdIBsgFBVV95cUxPRjFJWmFyOW1qMEE3SERrdzRVLVVROG5mRjk4eU1VQkVWZHdTWkZsYWpJUzZfQ0E1ZmtpRWtYcC1RZlFtWGtpdVh3MkJ0SWVEdFdRT015WDNocWdvLURzTmlvdmg4VXlkUWNfNGRhY1djaVBxTzY5bGNGbHh4UGZJVko2bWZLQTlBVm5ZUXN5YUFyb3FGd0ZSSE5mMThvT2txcnY0ZGZ3R1AyU0ZjaHJ1ZkJR?oc=5",
-            "source": "Chosunbiz",
-            "published": "11-06 14:56",
-            "snippet": "美 중간선거 여파에 中 증시 일제히 하락… 반도체주 약세 Chosunbiz"
+            "title": "2026 미국 중간선거 주요 순간들...지금까지 어떤 일 있었나 - BBC",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHdU1XVjNBdlpMR1ZXTjRMSEtqN1R6OHBYMXY2dHNXb2J4UGZKVlkyUTNXaHlwYll2WU5QZjBMUzhOQndNYW50WnVtaHZzeWp0R0lSaU9iTjI4Mk81X0HSAWNBVV95cUxQeVNUYUhYWXFyeDRnUDhxck9JYWhUMXhFdWFYUUFPU0F0cU5CQWJMdWJRaFZPUk1xZFpTdW1ZMGJIM3NLcjNGR2JJTmVGalcyUHdrYXdnU25pdUVlQXBLMFBvOW8?oc=5",
+            "source": "BBC",
+            "published": "11-05 16:30",
+            "snippet": "2026 미국 중간선거 주요 순간들...지금까지 어떤 일 있었나 BBC"
           },
           {
-            "title": "중간선거 여파·AI 투자 불안에 미 기술주 폭락...시총 4340조 증발 - AI타임스",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyRDBpbkpRV3lOZ2pweDhTU0M2S2dRV01uQkN1dFdIeWtOazJIb3BST0s3cjdOcmNKRkRTUHh4WW1KeGJvSzdsSHFzaXd2YkJxMEZJR2JaR3lqaE5qd0F4a3pKSjRZOXRxT2c?oc=5",
-            "source": "AI타임스",
-            "published": "11-06 12:31",
-            "snippet": "중간선거 여파·AI 투자 불안에 미 기술주 폭락...시총 4340조 증발 AI타임스"
+            "title": "미래에셋자산운용, 미국 중간선거 이후 주목할 TIGER ETF 소개 By 인포스탁데일리 - Investing.com 한국어",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpZndvaU9uZ056TEpKeElKLWdFQkdneHdveXlGWTNOVmZkV19EcmVSMzJWeU5MYVB5MjZ3U29nN3FBNGZtZzA0WDVHbk1ma0FVbnZQVEh4cnlwQmNOZGxTRWJob0RBRHhuc1FOellQRVM?oc=5",
+            "source": "Investing.com 한국어",
+            "published": "11-06 12:27",
+            "snippet": "미래에셋자산운용, 미국 중간선거 이후 주목할 TIGER ETF 소개 By 인포스탁데일리 Investing.com 한국어"
           },
           {
-            "title": "최태원 “美 중간선거 하나에도 시장 ‘영향’…롤러코스터 염두해야” - 경기일보",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rdno1RHRFTk8wLXZaUzZJMVdLX2pkOVZ0VFNwcWtzb1pHUDFHa2pzRVVhVnBMbFhOU2JsTExDM2JtZXh2S2k5Vll3SGx5U3dWMFgtdnJDZGJLeDQ?oc=5",
-            "source": "경기일보",
-            "published": "11-06 08:57",
-            "snippet": "최태원 “美 중간선거 하나에도 시장 ‘영향’…롤러코스터 염두해야” 경기일보"
+            "title": "트럼프 중간선거 패배 후 미국 증시 깜짝 반등한 이유 - 녹색경제신문",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hUncwZzYyVXlYU1RSdXBiU1d1d2lUdVlwMmJRNmVYTWcydlk0VDRPX0JWTVZzRXlnY1hCcHAtbXgwM3kyX2NRSjJNa0VmbDNDRnV6SlNKQjFmd3Q0NDdRU0E0LWNGbGgz?oc=5",
+            "source": "녹색경제신문",
+            "published": "11-06 15:39",
+            "snippet": "트럼프 중간선거 패배 후 미국 증시 깜짝 반등한 이유 녹색경제신문"
           },
           {
-            "title": "미 중간선거 '쓰나미'…한국 증시만 왜 직격탄? [몇층이세요] - YTN",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85VWxvWUZuUVFyLXlEMDdGYnFaQjVEbjZWdEhUUEhCcDFRMlU5c3VMZlRQN045eV9GRFdicDRNYjhHUUlMckhyZXdSaVZvZkZhUlpQYWNON0Vzb0VTU2c?oc=5",
-            "source": "YTN",
-            "published": "11-06 09:00",
-            "snippet": "미 중간선거 '쓰나미'…한국 증시만 왜 직격탄? [몇층이세요] YTN"
+            "title": "70달러 웃돌던 ’트럼프 코인’, 중간선거 참패에 1.1달러로 추락 - 연합뉴스TV",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5X0lVMVU2QVVWY2p6S0FOZllIRzBZUVVfS1FWWEFLNEh5VmV6SW9YbUQxSDRnSEdON3VUazBMa0xGUjRpTjRLVWpXUG5pQXAwNVRMVndwb1I1WWNUcUpOSFAzaG81WVE?oc=5",
+            "source": "연합뉴스TV",
+            "published": "11-06 13:43",
+            "snippet": "70달러 웃돌던 ’트럼프 코인’, 중간선거 참패에 1.1달러로 추락 연합뉴스TV"
           },
           {
-            "title": "[OBS 뉴스 오늘] 미 중간선거 결과, 국제 경제 영향은? - OBS경인TV",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yT3c2YXBqSlpwRVhoaVkxM1oyaUNFU0xXZng4Qmx2aDBUWTFOTmRGMzlzYzByeVZLS0hhZ3l5TV9lbkxMdFhsRDlrZGNjQS1LSHlnS3E0YzJpQ2NDbnlrd3NENWQ4dzFkT3ItTnlB?oc=5",
-            "source": "OBS경인TV",
-            "published": "11-06 16:34",
-            "snippet": "[OBS 뉴스 오늘] 미 중간선거 결과, 국제 경제 영향은? OBS경인TV"
+            "title": "2026 미국 중간선거: Blue Wave 이후, 미국 정책과 한국 산업 - kpmg.com",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE50SHZJeGg2Ui1xTFJiZ1cyZjk4b3VYc1hBdHZfUnRSdDc1NnZvV21CUlNzLWZaT3puQWl3YS0zNW9OUkREUHJOSHlQSVRRYW93eUxQeGlCX0xOQlV6bnlod3ZzRzNvZ2F3WGRibEcxa29KQQ?oc=5",
+            "source": "kpmg.com",
+            "published": "11-05 09:20",
+            "snippet": "2026 미국 중간선거: Blue Wave 이후, 미국 정책과 한국 산업 kpmg.com"
           },
           {
-            "title": "美 중간선거 여파 '증시 폭락'에 금값 반등…국채금리·달러 하락 - 조세일보",
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GWkJIUlMtMFRiN2c0NlVwc0ZxckVIUk05eDlBel9RSDZPZjZYWDcxcEFlWDJVNUpoczdaUWFXOExmRHdRdVduYV9nUEF5aGg4TFU1WGJicFpDbEt2R1BBQjB4ZUd0aXRmbnEyZ084UQ?oc=5",
+            "title": "미국 중간선거의 대반전: 좌파의 정책도 선거에서 승리할 수 있다 - 참세상",
+            "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5xYXlwX0s2alNWSVEwRXBQWWRwYU5xbEI1ZXRkRndaUm1hMHBfRHJGUVRjdFRvWV9NTU14Nzhvbkx4QQ?oc=5",
+            "source": "참세상",
+            "published": "11-06 10:41",
+            "snippet": "미국 중간선거의 대반전: 좌파의 정책도 선거에서 승리할 수 있다 참세상"
+          }
+        ],
+        "원달러 환율 급등": [
+          {
+            "title": "원·달러 환율 14원 이상 '급등'…美 AI 규제 쇼크에 원화 '직격탄' - 조세일보",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92X2NwelFvOUlwRWFJSDFRRmlVSGhpR2VQWFNFNDFwcFpVYzlnRHlFbENLY0lNU0U2WFlsVDRlYmMxS2MxcDJjNkJlN1BhdnZBbElwdFh6VUlNSVRkZ3JaOU4tN0liUE54blc4eGRoRQ?oc=5",
             "source": "조세일보",
-            "published": "11-06 09:10",
-            "snippet": "美 중간선거 여파 '증시 폭락'에 금값 반등…국채금리·달러 하락 조세일보"
-          }
-        ],
-        "원 달러 환율 급등": [
+            "published": "11-06 17:11",
+            "snippet": "원·달러 환율 14원 이상 '급등'…美 AI 규제 쇼크에 원화 '직격탄' 조세일보"
+          },
           {
             "title": "'블루쓰나미'에 원/달러 환율, 14.5원 '쑥'…6개월만에 최대폭 상승 - 머니투데이 - 머니투데이",
             "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tb0ZBc2o2RHBFR3JSMGxUOGt6YTJObERTcC1LQUJPVVFUWG5lazQ5ZGpzdkRkcWVyTkhaRGlkTEl1SmZHeHJJcEVGSUJqX2hMOW5iOG5YLU92YzJSd2lXSDJQUlVsaTRVMVdn0gFwQVVfeXFMT1h4MExJbWd1M3FLX2JTR3NBX2JOQVR2bl9pS1ZqU1F1aUFKQ0pDLVJWVUczUHd4X0x0bEpNM2I5c3ZLbl9rZmdWVDRRNVlkRGUzTlAyMk5wdlpsMWRlYkx1TWJ6MU9jaVNxem81LTJqLQ?oc=5",
@@ -451,11 +470,11 @@
             "snippet": "1,360원대로 급등한 달러-원…'DXY·증시·선물' 압력에 한 달 만에 최고(상보) 연합인포맥스"
           },
           {
-            "title": "[외환-마감] 한 달 만의 최고치에 '네고 와르르'…1,350원대서 숨돌리기 - KB Think",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhSEZGb0pmNWJ6WUF1QXBjMmZJN2h5eFB1dWF1el9xT1NsMkc5WTczNDU1Mk8wTzVJaHU3aGJXZmZfdGhIS01Jd0kyVW40MmRRektVLVpWYWxFNkhBOHloMlFZQmhQQm1IN0k4blVrcFFEZw?oc=5",
-            "source": "KB Think",
-            "published": "11-06 16:28",
-            "snippet": "[외환-마감] 한 달 만의 최고치에 '네고 와르르'…1,350원대서 숨돌리기 KB Think"
+            "title": "폭락장에 원·달러 급등…14.5원 오른 1356.6원 마감(종합) - 뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIMjU5UUQ3SDRaTmVnWlNkcENpNmxORzBKUnkwcWlTOFdXV180S04tS1c5Y3JmeS1yVTgtbG94MW03VzkzemV3bVY1ZUdqY1lCeUFra0puaVhXTUhxU09RVNIBeEFVX3lxTE5CbnlBQ1BVeHhMTV9oc1I2OWd5X1ZKcUlhQmEyajEzQkduNXN3dW8zVWtpTV9zMTJSMDFVbURPTjlMNUl5dXVwNGViVlNjbmt0ekY4YTRMRGxlTXhkc205djJIRmx1bzRsUjIyS2RKNTRRMWFyVHMwYg?oc=5",
+            "source": "뉴시스",
+            "published": "11-06 16:10",
+            "snippet": "폭락장에 원·달러 급등…14.5원 오른 1356.6원 마감(종합) 뉴시스"
           },
           {
             "title": "환율도 ‘블루웨이브’ 직격탄...6개월만 최대폭 급등 - 서울경제",
@@ -465,312 +484,321 @@
             "snippet": "환율도 ‘블루웨이브’ 직격탄...6개월만 최대폭 급등 서울경제"
           },
           {
-            "title": "美 기술주 투매에 위험 회피 확산…달러·원 환율 급등 출발 - 뉴스1",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xeklFU1FWYnZvRXlNSGNhTWpTRXNxRHpzc0JPb3M5SktjYUFaTTk5MnFUakZxOU5QRlpHdEJ3OXh6b0JMVHlFM1hpRlNjUGdQbWVjcTZidHllX2s?oc=5",
-            "source": "뉴스1",
-            "published": "11-06 09:37",
-            "snippet": "美 기술주 투매에 위험 회피 확산…달러·원 환율 급등 출발 뉴스1"
-          },
-          {
-            "title": "美 중간선거 충격에 환율 1350원대 급등…연말엔 다시 내릴까 - 더팩트",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80TVpyalJRdHAwRUNzWUxTd2lMVEVIQ3hCNnBLNXNRaHoydXRyT3Y4N1BRMXkzZkJ5dkM4UWp3Q0szN2ZIYTBqUGl4Ny1JdW5JU05nLdIBVEFVX3lxTE80TVpyalJRdHAwRUNzWUxTd2lMVEVIQ3hCNnBLNXNRaHoydXRyT3Y4N1BRMXkzZkJ5dkM4UWp3Q0szN2ZIYTBqUGl4Ny1JdW5JU05nLQ?oc=5",
-            "source": "더팩트",
-            "published": "11-06 10:51",
-            "snippet": "美 중간선거 충격에 환율 1350원대 급등…연말엔 다시 내릴까 더팩트"
+            "title": "'미국발 AI 충격'에 원·달러 환율 14.5원 급등 - 아시아타임즈",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IZWN4M3d3cTZibHR1U0l0NER3S2QwWXFYMlg5YVEtRDdMVTIyWHRsV0l3MnUyS3VTcmV5M0xraWx0RzU5VS1HV1VBNEktMjVIaTE5SnlPQXI2MmwwTHc?oc=5",
+            "source": "아시아타임즈",
+            "published": "11-06 16:32",
+            "snippet": "'미국발 AI 충격'에 원·달러 환율 14.5원 급등 아시아타임즈"
           }
         ]
       },
       "queries": {
-        "나스닥 폭락": [
-          "나스닥 폭락 이유",
-          "나스닥 폭락 역사",
-          "나스닥 폭락 디시",
-          "나스닥 폭락 가능성",
-          "나스닥 폭락 주기",
-          "나스닥 폭락장",
-          "나스닥 폭락 이유 디시",
-          "나스닥 폭락 짤",
-          "나스닥 폭락 시기"
+        "뉴욕증시 나스닥 폭락": [],
+        "미국 중간선거": [
+          "미국 중간선거 2026",
+          "미국 중간선거 일정",
+          "미국 중간선거 의미",
+          "미국 중간선거 2026 날짜",
+          "미국 중간선거 날짜",
+          "미국 중간선거 예측",
+          "미국 중간선거일",
+          "미국 중간선거 언제",
+          "미국 중간선거 결과",
+          "미국 중간선거 뜻"
         ],
-        "美 중간선거 여파": [],
-        "원 달러 환율 급등": [
-          "원/달러 환율 급등",
-          "원/달러 환율 급등 이유"
+        "원달러 환율 급등": [
+          "원달러 환율 급등 이유"
         ]
       }
     },
     "keywords": [
-      "코스피 붕괴",
-      "증시 긴급 대응",
-      "국내 부동산 시장",
-      "나스닥 폭락",
-      "美 중간선거 여파",
-      "원 달러 환율 급등"
+      "코스피 급락",
+      "반도체주 폭락",
+      "부동산 규제",
+      "뉴욕증시 나스닥 폭락",
+      "미국 중간선거",
+      "원달러 환율 급등"
     ],
     "results": {
-      "코스피 붕괴": {
-        "headline": "코스피 5000선 붕괴와 서킷브레이커 발동",
+      "코스피 급락": {
+        "headline": "코스피 6% 급락, 5천 선 붕괴 위기",
         "facts": [
-          "미국 중간선거 여파와 AI 투자심리 악화의 직격탄을 맞은 코스피가 8% 폭락하며 장중 5000선이 붕괴됨에 따라 서킷브레이커가 발동됨",
-          "미국의 데이터센터 규제 강화 조치와 함께 신용 및 투자 관련 잡음이 복합적으로 작용하여 국내 증시 하방 압력을 가중시킴",
-          "주가 급락 사태를 두고 야권에서 정부의 억지 부양 정책과 거품 붕괴를 강하게 비판하며 직접적인 정부 책임론을 제기함",
-          "한동훈 전 대표 등이 코스피 붕괴로 인해 국민의 피눈물이 나고 있다며 대통령의 직접적인 입장 표명과 해명을 강력히 요구함",
-          "온라인 커뮤니티와 주식 관련 채널을 중심으로 이번 폭락 사태와 관련된 밈과 관련 게시글이 급증하며 투자자들의 불안감이 확산됨"
+          "미국발 AI 쇼크와 블루웨이브 영향으로 코스피가 6% 넘게 급락하여 5059.69로 마감함에 따른 증시 불안 심화",
+          "장중 한때 5000선이 붕괴되고 9달 만에 최저 수준을 기록하며 시장 전체에 서킷브레이커가 발동되는 충격 발생",
+          "씨티 등 주요 금융기관에서는 코스피 급락 상황 속에서도 11월 금리 인상 전망을 그대로 유지한다는 입장을 발표함",
+          "주가 급락에 따른 증시 충격을 완화하기 위해 정부가 긴급 대책회의를 개최하고 증권사 관련 규제를 우선적으로 완화함",
+          "외국인 투자자들의 대규모 투매 물량이 쏟아지면서 단 이틀 만에 지수가 11% 폭락하는 전례 없는 하락세 기록"
         ],
         "watch": [
-          "정부 및 정치권의 추가적인 증시 안정화 대책 발표 여부",
-          "미국 데이터센터 관련 후속 규제 조치가 미칠 글로벌 영향",
-          "개인투자자들의 신용 반대매매 및 추가 자금 이탈 가능성"
+          "정부의 추가 시장 안정화 대책 실효성",
+          "외국인 투자자의 지속적인 순매도 여부",
+          "5000선 지지 여부 및 반대매매 규모 확산"
         ],
         "qna": [
           {
-            "q": "인터넷에서 코스피 붕괴 관련 밈이나 시리즈가 돌던데 투자자들 반응이 왜 이렇게 심각한가?",
-            "a": "사상 처음으로 5000선을 기록했던 지수가 하루아침에 무너지고 서킷브레이커까지 발동되면서 체감하는 충격이 매우 크기 때문이다. 온라인상에서는 허탈감과 불안감을 자조적인 밈으로 표현하며 커뮤니티마다 우려가 쏟아지고 있다."
+            "q": "코스피가 갑자기 왜 이렇게 큰 폭으로 급락한 것인가?",
+            "a": "미국 증시의 기술주 폭락과 블루웨이브 여파로 인한 AI 공포감이 국내 증시에 직접적인 충격을 주었기 때문이다. 외국인 투자자의 대규모 매도세가 겹치면서 지수가 급격히 무너졌다."
           },
           {
-            "q": "주식 커뮤니티나 디시 등에서 코스피 붕괴 이유로 정확히 무엇을 지목하고 있는가?",
-            "a": "투자자들은 미국 중간선거 결과로 인한 정치 지형 변화와 AI 데이터센터 규제 강화가 기술주 투매를 촉발한 핵심 원인으로 보고 있다. 여기에 국내 신용융자 관련 잡음까지 겹치면서 하락 폭을 키웠다고 분석한다."
+            "q": "주가 급락으로 인해 내 주식 계좌에 반대매매가 발생할 위험이 있는가?",
+            "a": "주가가 급락하면 신용융자나 미수거래를 이용한 투자자들의 반대매매 규모가 급증할 수 있다. 본인의 계좌 상태와 증거금 비율을 수시로 확인하는 주의가 필요하다."
           },
           {
-            "q": "이렇게 지수가 급격히 무너질 때 자산을 지키기 위해 일반 개인이 취할 수 있는 현실적인 태도는 무엇인가?",
-            "a": "패닉 바잉이나 공포에 의한 무차별적인 손절매를 자제하고 자신의 대출 레버리지 비율을 점검하는 것이 현명하다. 시장의 변동성이 과도한 시기에는 추가적인 위험 자산 투자를 보류하고 현금 비중을 유지하는 전략이 필요하다."
+            "q": "주식 시장이 급락할 때 투자자는 어떻게 대응하는 것이 현명한가?",
+            "a": "공포 심리에 매도하기보다 시장의 변동성 원인을 차분히 분석하는 자세가 중요하다. 무리한 레버리지 투자를 자제하고 리스크 관리에 집중해야 한다."
           }
         ]
       },
-      "증시 긴급 대응": {
-        "headline": "증시 급락에 정부 F4 긴급 대응 가동",
+      "반도체주 폭락": {
+        "headline": "미국발 AI 충격에 반도체주 동반 폭락",
         "facts": [
-          "증시가 급격한 폭락세를 보임에 따라 경제 부처 수장들인 F4가 긴급 회의를 소집하여 시장 안정을 위한 대응책을 마련함",
-          "주가 급락으로 인해 발생할 수 있는 과도한 반대매매 물량을 사전에 차단하기 위한 목적으로 구체적인 조치를 확정함",
-          "국내 증권사들이 운용하는 신용융자 담보비율 유지 의무를 향후 3개월 동안 전면 면제하는 방안을 즉각 시행함",
-          "기존에 140% 수준으로 엄격하게 적용되던 신용융자 담보비율 의무화 조치를 한시적으로 유예하여 투자자 부담을 완화함",
-          "금융당국과 관련 기관의 합동 대응을 통해 증시 변동성 확대에 따른 시장 참여자들의 불안 심리를 진정시키고자 함"
+          "미국 반도체지수가 12% 폭락하는 극심한 부진을 겪으면서 국내 증시 프리마켓에서 삼성전자와 SK하이닉스가 각각 11%와 13% 하락함",
+          "월스트리트에서 반도체주 폭락이 아직 서막에 불과할 수 있다는 3대 경고음을 제기하며 투자자들의 불안감을 고조시킴",
+          "최태원 SK그룹 회장이 반도체주 폭락 사태와 관련하여 현재 시장의 흐름이 합리적이지 않다는 입장을 공개적으로 밝힘",
+          "이틀 동안 이어진 반도체주 폭락과 외국인의 6조 원 규모 투매로 인해 코스피 지수가 5000선 근처까지 밀려남",
+          "증권가에서는 이번 반도체주 폭락을 단기적인 악재로 평가하면서 저가 매수 기회로 활용할 수 있다는 전망을 제시함"
         ],
         "watch": [
-          "신용융자 담보비율 면제 조치 이후 반대매매 물량 감소 추이",
-          "추가적인 시장 안정화 대책 및 금융당국의 모니터링 결과",
-          "증권사들의 자발적인 리스크 관리 및 유동성 공급 상황"
+          "미국 반도체지수의 기술적 반등 여부",
+          "삼성전자와 SK하이닉스의 주가 방어력",
+          "글로벌 AI 산업에 대한 투자 심리 회복"
         ],
         "qna": [
           {
-            "q": "정부가 시행한 신용융자 담보비율 의무 3개월 면제가 내 투자 계좌에는 어떤 직접적인 변화를 주는가?",
-            "a": "주가 하락으로 인해 담보가치가 떨어지더라도 증권사가 강제로 주식을 팔아치우는 반대매매 시점을 3개월 동안 유예받을 수 있다. 당장의 강제 청산 위험을 덜어주어 숨통을 틔워주는 조치이다."
+            "q": "미국 반도체주가 폭락하게 된 구체적인 이유는 무엇인가?",
+            "a": "미국 증시에서 발생한 AI 관련 기술주 투매 현상과 정치적 이벤트인 블루웨이브 충격이 복합적으로 작용했다. 이로 인해 글로벌 반도체 전반에 대한 투자 심리가 급격히 악화되었다."
           },
           {
-            "q": "정부의 F4 긴급 대응이 무엇을 뜻하는 용어이며 증시에 얼마나 강력한 효력을 발휘하는가?",
-            "a": "기획재정부 장관, 금융위원장, 한국은행 총재, 금융감독원장 등 경제 수장 4명을 지칭하는 표현으로 시장 위기 시 신속한 정책 공조를 상징한다. 한시적인 규제 유예를 통해 급한 불을 끄는 효과는 있지만 근본적인 글로벌 악재를 해소하기에는 한계가 있다."
+            "q": "지금 시점에서 반도체주를 매수하는 전략은 올바른가?",
+            "a": "일부 증권가는 저가 매수 기회로 보지만 변동성이 매우 높은 상태이다. 단기적 반등을 낙관하기보다 철저한 리스크 관리가 선행되어야 한다."
           },
           {
-            "q": "담보비율 면제 기간이 끝난 뒤에 주가가 회복되지 않으면 더 큰 폭탄이 돌아오는 것은 아닌가?",
-            "a": "3개월의 유예 기간은 문제 해결이 아니라 시간을 벌어주는 조치이므로 기간 내에 증시가 반등하지 못하면 한꺼번에 반대매매가 쏟아질 위험이 존재한다. 따라서 이 기간 동안 자산 포트폴리오를 재정비하고 부채 규모를 줄이는 노력이 필수적이다."
+            "q": "반도체주 폭락이 국내 경제와 일반 가계에 미치는 영향은 무엇인가?",
+            "a": "국내 수출과 증시에서 반도체 비중이 매우 높아 대기업 주가 하락은 경제 전반의 투자 심리를 위축시킨다. 개인 투자자의 자산 증식에도 직간접적인 타격을 준다."
           }
         ]
       },
-      "국내 부동산 시장": {
-        "headline": "국내 부동산 시장 규제설 부인과 동향",
+      "부동산 규제": {
+        "headline": "부동산 추가 규제설에 정부가 전면 부인",
         "facts": [
-          "대출이 막히고 추가적인 고강도 규제가 도입된다는 내용의 부동산 지라시가 시장에 퍼지자 정부가 사실무근이라며 즉각 해명함",
-          "한국부동산원이 발표한 11월 1주 주간 아파트 동향에 따르면 전국 매매가격은 0.07%, 전세가격은 0.10% 상승하며 양극화가 심화됨",
-          "서초구청이 재건축초과이익환수제가 주택 공급을 위축시키는 주원인이라고 지적하며 중앙정부에 제도 폐지를 공식적으로 건의함",
-          "국민연금 부동산실 관련 논란이 담당 센터장 해임으로 일단락되었으나 공적 연기금 운용에서의 내부 견제 한계를 드러냄",
-          "경기주택도시공사(GH)가 가평 지역의 전원주택용지 25필지를 대상으로 추첨 방식을 통한 공급 절차를 진행함"
+          "수원 권선, 안양 만안, 부천 등 지역에 추가 부동산 규제를 가하고 25억 원을 초과하는 주택의 대출을 전면 금지한다는 내용의 지라시가 확산됨",
+          "일부 온라인 커뮤니티와 메신저를 중심으로 25억 넘는 집 대출이 금지된다는 허위 사실이 무분별하게 퍼져나감",
+          "국토교통부는 11월 주택시장 추가 규제설과 대출 금지 루머에 대해 전혀 사실무근이라는 공식 입장을 발표함",
+          "정부는 시장을 교란하는 부동산 지라시 확산에 대응하여 강력한 수사를 의뢰하겠다는 방침을 세움",
+          "혼란을 방지하기 위해 기존 계약대로 정상적인 대출을 받을 수 있도록 필요한 조치를 이미 완료했다고 밝힘"
         ],
         "watch": [
-          "정부의 추가 주택 공급 정책 및 재건축 규제 완화 여부",
-          "주간 아파트 가격 상승세 지속 및 지역별 양극화 추이",
-          "시중에 유포되는 부동산 관련 미확인 지라시의 확산 여부"
+          "부동산 시장 내 허위 지라시 추가 유포 여부",
+          "정부의 시장 교란 행위 수사 결과",
+          "실제 주택시장 대출 및 규제 지역 변화 추이"
         ],
         "qna": [
           {
-            "q": "대출 규제 관련 지라시가 돌았을 때 무주택자나 실수요자는 어떻게 대처해야 하는가?",
-            "a": "출처가 불분명한 루머에 흔들려 급하게 계약을 체결하거나 패닉 바잉에 나서는 것은 매우 위험하다. 정부가 공식적으로 사실무근임을 밝힌 만큼 실제 발표되는 제도 변화와 실수요자 기준의 대출 여건을 차분히 확인해야 한다."
+            "q": "25억 넘는 집의 대출이 금지된다는 소문은 사실인가?",
+            "a": "국토교통부가 공식적으로 사실무근이라고 발표한 명백한 허위 지라시다. 기존 규제와 동일하게 정상적인 대출 진행이 가능하다."
           },
           {
-            "q": "재건축초과이익환수제가 폐지되면 일반 아파트 시장과 내 집 마련 계획에는 어떤 변화가 생기는가?",
-            "a": "재건축 사업의 수익성이 개선되면서 정비사업 속도가 빨라져 장기적으로 서울 핵심지의 주택 공급이 원활해질 수 있다. 다만 단기적으로는 주변 지역의 재건축 기대 심리를 자극해 가격 불안 요인으로 작용할 가능성도 배제할 수 없다."
+            "q": "부동산 규제지역은 현재 어떻게 확인하고 관리되는가?",
+            "a": "정부의 공식 발표와 국토교통부 채널을 통해 규제지역 현황을 확인할 수 있다. 근거 없는 소문에 동요하지 않는 태도가 필요하다."
           },
           {
-            "q": "전국 아파트 매매와 전세 가격이 동반 상승하고 양극화가 심해지는 상황에서 어떤 지역을 주목해야 하는가?",
-            "a": "선호도가 집중되는 상급지와 그렇지 않은 지방 간의 격차가 벌어지고 있으므로 무리한 추격 매수보다는 입지와 교통 여건이 검증된 곳을 선별하는 시각이 필요하다. 특히 전세가율과 실수요 유입을 꼼꼼히 따져보는 보수적인 접근이 요구된다."
+            "q": "이러한 가짜 부동산 뉴스가 내 집 마련 계획에 미치는 영향은 무엇인가?",
+            "a": "근거 없는 불안감을 조성하여 소비자의 자금 계획을 혼란스럽게 만든다. 정부의 공식 발표를 기준으로 냉정하게 판단해야 한다."
           }
         ]
       },
-      "나스닥 폭락": {
-        "headline": "나스닥 5.5% 폭락과 AI 거품론 확산",
+      "뉴욕증시 나스닥 폭락": {
+        "headline": "나스닥 5.5% 폭락, 기술주 투매 장세",
         "facts": [
-          "미국 뉴욕증시에서 기술주 중심의 나스닥 지수가 5.5% 폭락하며 하루 만에 시가총액 2조 5000억 달러가 증발함",
-          "미국 정치권에서 AI 관련 규제론자들이 대거 약진한 영향과 함께 AI 데이터센터를 둘러싼 규제 우려가 투매를 촉발함",
-          "미국 기술주 투매 현상의 직격탄을 맞은 국내 삼성전자와 SK하이닉스 등 반도체 대형주들이 프리마켓에서 10%대 급락세를 보임",
-          "나스닥의 급격한 하락은 '블루 웨이브' 등 정치적 변화와 맞물려 AI 기업들의 향후 성장성에 대한 의구심을 증폭시킴",
-          "반등 하루 만에 다시 찾아온 대규모 폭락으로 인해 글로벌 증시 전반에 걸쳐 극단적인 위험 회피 심리가 빠르게 확산됨"
+          "뉴욕증시가 반등 하루 만에 급락세로 돌아서며 나스닥 지수가 장중 4% 이상 하락하는 조정국면에 진입함",
+          "중간선거발 AI 발작과 기술주 투매 현상이 겹치면서 나스닥 지수가 최종 5.5% 폭락하여 마감함",
+          "AI 관련주들이 일제히 무너지면서 미 증시 전체에서 무려 2조 5천억 달러에서 3조 달러에 달하는 시가총액이 증발함",
+          "기술주 중심의 매도 물량이 쏟아지면서 시장 전반에 패닉 셀링 현상이 확산되는 결과를 낳음",
+          "예상치 못한 정치 및 경제적 악재들이 복합적으로 작용하여 뉴욕증시의 주요 지수가 큰 폭으로 하락함"
         ],
         "watch": [
-          "미국 기술주 추가 하락 여부 및 주요 빅테크 기업들의 주가 방어력",
-          "국내 반도체 대형주들의 본장 개장 후 실제 주가 방어 여부",
-          "미국 AI 데이터센터 관련 입법 및 규제 동향"
+          "미국 기술주의 추가 하락 여부",
+          "글로벌 증시의 연쇄적인 패닉 현상 진정 여부",
+          "미국 연방준비제도의 통화정책 기조 변화"
         ],
         "qna": [
           {
-            "q": "나스닥 폭락 이유와 관련해 디시 등 커뮤니티에서 언급되는 주기나 역사적 패턴이 실제 존재하는가?",
-            "a": "역사적으로 기술주가 단기간에 급등한 이후 정치적 규제나 금리 이슈가 겹치면 큰 폭의 조정장이 찾아오는 패턴이 반복되어 왔다. 이번에도 AI 관련 인프라 투자 과열 논란과 규제론 부각이 맞물리면서 주기적인 투매 현상이 재현된 것으로 풀이된다."
+            "q": "뉴욕증시의 나스닥이 단 하루 만에 5% 넘게 폭락한 주된 이유는 무엇인가?",
+            "a": "중간선거 전후로 불거진 정치적 불확실성과 AI 산업에 대한 고평가 논란이 겹쳤기 때문이다. 기술주 중심의 대규모 투매가 지수를 급격히 끌어내렸다."
           },
           {
-            "q": "미국 나스닥 시장에서 2조 5천억 달러가 증발했다는 것이 내 국내 주식 계좌와는 무슨 상관인가?",
-            "a": "글로벌 증시의 동조화 현상으로 인해 미국 기술주가 무너지면 한국의 대표 수출 종목인 삼성전자와 하이닉스 같은 반도체 주식들이 외국인 매도세로 인해 곧바로 직격탄을 맞는다. 국내 증시의 외국인 수급이 악화되면서 전체 지수를 끌어내리는 도화선이 된다."
+            "q": "미국 증시의 급락이 국내 투자자의 자산에는 어떤 영향을 미치는가?",
+            "a": "글로벌 증시의 동조화 현상으로 인해 국내 코스피와 기술주 시장에도 즉각적인 하방 압력으로 작용한다. 해외 주식을 보유한 투자자에게도 직접적인 평가손실을 안겨준다."
           },
           {
-            "q": "이처럼 나스닥이 큰 폭으로 폭락하는 장세에서 저가 매수를 노리는 전략은 타당한가?",
-            "a": "폭락장에서 바닥을 정확히 예측하고 무리하게 매수하는 것은 '떨어지는 칼날을 잡는 것'과 같아 큰 손실로 이어질 수 있다. 추세가 하방으로 꺾인 시점에는 변동성이 진정되거나 규제 불확실성이 해소되는 신호를 확인하고 접근하는 편이 안전하다."
+            "q": "조정국면에 진입한 미국 증시를 향후 어떻게 바라보아야 하는가?",
+            "a": "단기적인 시장 충격이 클 수 있으므로 감정에 휘둘린 매매를 피해야 한다. 거시경제 지표와 기업 실적을 차분히 모니터링할 필요가 있다."
           }
         ]
       },
-      "美 중간선거 여파": {
-        "headline": "美 중간선거 여파 시장 핵심 이슈 및 동향",
+      "미국 중간선거": {
+        "headline": "미국 중간선거 참패와 증시 대반전",
         "facts": [
-          "美 중간선거 여파에 中 증시 일제히 하락… 반도체주 약세 - Chosunbiz",
-          "중간선거 여파·AI 투자 불안에 미 기술주 폭락...시총 4340조 증발 - AI타임스",
-          "최태원 “美 중간선거 하나에도 시장 ‘영향’…롤러코스터 염두해야” - 경기일보",
-          "미 중간선거 '쓰나미'…한국 증시만 왜 직격탄? [몇층이세요] - YTN"
+          "2026년 미국 중간선거에서 트럼프 진영이 참패하는 결과가 나타나면서 정치 지형에 큰 변화가 발생함",
+          "중간선거 참패의 여파로 한때 70달러를 웃돌던 트럼프 코인 가격이 1.1달러 수준까지 폭락함",
+          "트럼프의 중간선거 패배 소식 이후 역설적으로 미국 증시는 불확실성 해소로 해석되며 깜짝 반등을 기록함",
+          "블루웨이브 현상 발생 이후 미국 정책 변화가 한국 산업과 경제에 미칠 영향에 대한 분석이 활발히 진행됨",
+          "미래에셋자산운용 등 금융업계에서는 중간선거 결과 이후 주목해야 할 TIGER ETF 상품들을 소개함"
         ],
         "watch": [
-          "美 중간선거 여파 관련 금융당국 공식 발표",
-          "시중 금리 및 거시 지표 변화"
+          "미국 중간선거 이후 의회의 입법 권력 구도",
+          "트럼프 관련 자산의 추가 가격 변동성",
+          "미국 새 정책 기조가 한국 수출 기업에 미칠 영향"
         ],
         "qna": [
           {
-            "q": "美 중간선거 여파 이슈가 개인에게 미치는 실질적인 영향은 무엇인가?",
-            "a": "금리와 환율, 투자 자산 가치에 시차를 두고 반영되므로 포트폴리오 점검이 필요하다."
+            "q": "미국 중간선거 결과가 왜 미국 증시의 반등을 이끌어냈는가?",
+            "a": "선거 결과로 인한 정치적 불확실성이 해소되었기 때문이다. 시장은 이를 권력의 분산과 안정성 확보로 받아들이며 긍정적으로 반응했다."
           },
           {
-            "q": "앞으로 시장에서 가장 주목할 관전 포인트는 무엇인가?",
-            "a": "공식 정책 지표와 주요 기업 실적 발표에 따라 단기 변동성이 결정될 수 있다."
+            "q": "트럼프 코인의 가격이 급격하게 폭락한 이유는 무엇인가?",
+            "a": "트럼프의 중간선거 패배로 인해 정치적 영향력과 기대감이 급감했기 때문이다. 투심이 빠르게 얼어붙으면서 가치가 수직 낙하했다."
           },
           {
-            "q": "초보 투자자가 지금 주의해야 할 행동은 무엇인가?",
-            "a": "과도한 레버리지를 피하고 분할 접근 관점을 유지하는 것이 바람직하다."
+            "q": "미국 중간선거 결과가 한국의 일반 경제나 산업에 주는 의미는 무엇인가?",
+            "a": "미국의 향후 대외 정책과 산업 지원 방향이 완전히 달라질 수 있기 때문이다. 국내 관련 산업의 주가와 수출 전략에도 적지 않은 변화를 예고한다."
           }
         ]
       },
-      "원 달러 환율 급등": {
-        "headline": "블루웨이브 충격에 원달러 환율 1350원대 돌파",
+      "원달러 환율 급등": {
+        "headline": "원·달러 환율 14원 폭등, 1350원대 진입",
         "facts": [
-          "미국 중간선거에서의 이른바 '블루 웨이브' 여파로 인해 원/달러 환율이 14.5원 급등하며 6개월 만에 최대 폭의 상승 기록을 세움",
-          "달러 인덱스(DXY) 강세와 증시 불안, 선물 시장의 압력이 복합적으로 작용하면서 달러/원 환율이 한 달 만에 최고치인 1360원대로 진입함",
-          "환율이 급등하여 한 달 만의 최고치를 기록하자 수출업체들의 네고 물량이 대거 출회되면서 1350원대에서 일단 숨 고르기 장세를 보임",
-          "미국 기술주 투매 현상으로 인해 글로벌 금융시장에 위험 회피 심리가 극대화되면서 원화 가치가 큰 폭으로 하락함",
-          "미 중간선거의 충격으로 환율이 단숨에 1350원대를 돌파하자 연말 시점에 환율이 다시 안정될 수 있을지 시장의 관심이 집중됨"
+          "미국발 AI 규제 쇼크와 블루웨이브 충격이 겹치면서 원·달러 환율이 14.5원 급등하여 1356.6원에 마감함",
+          "이번 환율 상승 폭은 약 6개월 만에 최대치를 기록하며 원화 가치가 큰 직격탄을 맞음",
+          "달러인덱스 상승과 국내 증시 폭락 및 선물 시장의 압력이 복합적으로 작용하여 환율이 한 달 만에 최고치로 치솟음",
+          "외국인 투자자들의 대거 주식 순매도와 자금 이탈 현상이 원화 약세를 부추기는 주요 원인으로 작용함",
+          "글로벌 금융시장의 불안정성 확대가 안전자산인 달러화 선호 현상을 강하게 자극함"
         ],
         "watch": [
-          "원/달러 환율의 1360원대 안착 여부 및 추가 상승 압력",
-          "수출업체들의 네고 물량 출회 지속성 및 외환당국의 미세조정 여부",
-          "미국 달러화 인덱스의 향후 방향성"
+          "원·달러 환율의 1360원대 안착 여부",
+          "외국인 자금의 국내 증시 이탈 규모",
+          "외환당국의 시장 안정화 개입 여부"
         ],
         "qna": [
           {
-            "q": "원/달러 환율이 1350원대를 넘어 급등하면 해외 여행이나 직구를 주로 하는 개인에게는 어떤 실질적 타격이 있는가?",
-            "a": "원화 가치가 하락한 만큼 해외 상품을 구매하거나 달러를 환전할 때 지불해야 하는 원화 비용이 크게 늘어난다. 해외 여행 경비나 해외 직구 비용이 전반적으로 상승하여 체감 물가가 높아지게 된다."
+            "q": "원·달러 환율이 하루 만에 14원 이상 급등한 근본적인 이유는 무엇인가?",
+            "a": "미국 증시 폭락과 블루웨이브에 따른 글로벌 달러 강세 현상이 원화 가치를 떨어뜨렸기 때문이다. 국내 증시에서 외국인 자금이 이탈한 것도 큰 원인이다."
           },
           {
-            "q": "환율이 급등할 때 뉴스에 나오는 '네고 물량 와르르'라는 표현이 무슨 뜻이며 환율을 어떻게 진정시키는가?",
-            "a": "수출 기업들이 달러로 벌어들인 돈을 국내에서 쓰기 위해 원화로 바꾸려고 시장에 내다 파는 달러 매도 물량을 뜻한다. 환율이 고점에 달했을 때 이러한 네고 물량이 쏟아지면 달러 공급이 늘어나면서 환율의 추가 급등을 막는 완충 역할을 한다."
+            "q": "환율 급등이 나의 일상적인 경제생활이나 소비에 어떤 영향을 미치는가?",
+            "a": "수입 원자재 가격이 상승하여 물가 압력이 커지고 해외직구 비용이나 유학 비용 등이 비싸진다. 전체적인 수입 물가 상승으로 가계 부담이 가중된다."
           },
           {
-            "q": "연말에 환율이 다시 내려갈 것이라는 기대가 있는데 지금 달러를 사거나 팔아야 하는가?",
-            "a": "정치적 이벤트와 글로벌 위험 회피 심리로 인해 단기 변동성이 커진 상태이므로 환율 방향성을 단정하여 거래하는 것은 위험하다. 환율은 대외 변수에 매우 민감하게 움직이므로 실수요 목적이 아니라면 환차익을 노린 단기 투자는 자제하는 것이 바람직하다."
+            "q": "환율이 치솟는 시기에 개인은 자산을 어떻게 관리하는 것이 현명한가?",
+            "a": "환율 변동성에 따른 환손실 위험을 고려하여 외화 자산과 원화 자산의 포트폴리오를 점검해야 한다. 무리한 환 투기성 거래는 자제하는 편이 안전하다."
           }
         ]
       }
     },
     "news": {
-      "코스피 붕괴": [
+      "코스피 급락": [
         {
-          "title": "[속보]코스피, 8% 폭락에 서킷브레이커…5000선 붕괴 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50SlhNUC1UVDJMeFBiVzU0TnUtaGZ1azV4VFVRRTZtd181Yzd0MTVzcjh6Z09FdXJtRnU3WWgwbUp4QXVGelBIbndUMThSZkFKSzFtbm1RODVQZ9IBX0FVX3lxTE9SUTNvaGRyckxkSVVKOXRZSzlYTjRmVXp1YldMX09xclQ4TGhibTM4aS1USmh0YVJFdHl5QlQtNzZndlh1ek1LMm1EdjFRRVdsY09aTUNyMXFUZ0NkV09B?oc=5",
-          "source": "경향신문",
-          "published": "11-06 09:08",
-          "snippet": "[속보]코스피, 8% 폭락에 서킷브레이커…5000선 붕괴 경향신문"
+          "title": "씨티 \"코스피 급락에도 11월 금리 인상 전망 유지\" - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ocDU2SGJOdWJxZEtqN2pndnpfVVlya09hWkhWN04ydEo0aGcwcGFGcDlKT2JEREgwTnFMTHpBRkNYX1pBWnFGbGl0bGNSZzh4MGFpQ1JlbmxqQ1HSAWBBVV95cUxPWU5seVFxbWtKazRtN2JyZlV2TXpjTGZxLS1nSndiS1V3M2ZQQWpoS01YYVdIT1hHNzZsUEdsN3NtU3pIeDVHN2Q5ZGFwVzFNOEZjNXVrS0FTS2RjWUpHTzk?oc=5",
+          "source": "연합뉴스",
+          "published": "11-06 16:44",
+          "snippet": "씨티 \"코스피 급락에도 11월 금리 인상 전망 유지\" 연합뉴스"
         },
         {
-          "title": "'블루 쓰나미'에 쓸려간 코스피...장중 5,000 붕괴 [이슈ON] - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUS0EyemQ1RGdoU3Z3ODg2ZzBRcTE3cENYSFp5MmI4U2FKRF9WZ0s5UkZnSm12eDc4TDFaV3NJNHZNVGdiaWE4bXRBanBMWVVOZnBMbE5TbWZoU19ha2c?oc=5",
+          "title": "’AI 쇼크’에 코스피 급락…정부, 긴급 처방 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JcXNmT3EyRFptbndjYlhSMS15MGFKeXlkeEVzeXV2SWtiZTl5UThrdVdrenJwUkVTaXFOV1p4aENBMl95OF9Tc21LSlc2LVJlR1g5ckFQMGVLMHJxTFE4eE9rbVl3Rk0?oc=5",
+          "source": "연합뉴스TV",
+          "published": "11-06 14:17",
+          "snippet": "’AI 쇼크’에 코스피 급락…정부, 긴급 처방 연합뉴스TV"
+        },
+        {
+          "title": "'급한대로' 증권사 규제부터 푼다...코스피 급락에 긴급 대책회의 [자막뉴스] - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vRWhIYzF3bi1wdWZlVFJVR1V6NzZsa1o0dU9zdE5yRWEtSDJDZEQ5M2hFUlJpZEU4b0E1M2IwdkN3MTkxUnk0YVJsQmQ0ZF9sTERINVJPQW0talVkTUE?oc=5",
           "source": "YTN",
-          "published": "11-06 15:55",
-          "snippet": "'블루 쓰나미'에 쓸려간 코스피...장중 5,000 붕괴 [이슈ON] YTN"
+          "published": "11-06 15:27",
+          "snippet": "'급한대로' 증권사 규제부터 푼다...코스피 급락에 긴급 대책회의 [자막뉴스] YTN"
         },
         {
-          "title": "코스피, AI 투심 악화에 붕괴…미 데이터센터 규제에 신용·투자 잡음까지 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CTTBHRXJRaTFVbl80Z1RYMGpPNVZYdG4tWDJxcWVPR0trNEVJT1AwQWZZTXE5QVR4czNLVWE4SnNmM1Q5X0RoU0Q5QktMWWk1akY1YU1lTkl4YS1nRlFPc3psRXhuaVE?oc=5",
-          "source": "한겨레",
-          "published": "11-06 15:15",
-          "snippet": "코스피, AI 투심 악화에 붕괴…미 데이터센터 규제에 신용·투자 잡음까지 한겨레"
+          "title": "코스피, 6% 급락 마감…9달 만에 장중 5천 선 아래로 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nNEh6TGZnQU9xdVh3aGgwb055dVlyU0RqOUhvQnhhaTNORzAtNmRVY0VVTm9fMmRZTkczRkxBQllzLXgwOTlKOHZVV2tCbHlTaW80X3lvdFVSMGc?oc=5",
+          "source": "KBS 뉴스",
+          "published": "11-06 17:06",
+          "snippet": "코스피, 6% 급락 마감…9달 만에 장중 5천 선 아래로 KBS 뉴스"
         },
         {
-          "title": "한동훈, 코스피 5000 붕괴에 \"국민 피눈물…李대통령 직접 밝혀야\" | - 주간조선",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuWVNHd2xXbVdJRjk4SzNTem5UOTV2dW05bzlaNTZTZEFvMzNib2NFSWZqVHFaT3hpTW8xX1hFd3N2WHg0NFl3X0hZSmxQUDlhcnpFVkludHd6VGRUSTRWTTMxMGFVXzU1MEF0UGFB?oc=5",
-          "source": "주간조선",
-          "published": "11-06 11:53",
-          "snippet": "한동훈, 코스피 5000 붕괴에 \"국민 피눈물…李대통령 직접 밝혀야\" | 주간조선"
-        },
-        {
-          "title": "野, 코스피 5,000 붕괴에 \"억지 부양하더니 국민 피눈물\" 총공세 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtOXdBeGtlVmVJMnZsdmlZUFpYREdkTU5EUHQxMHlDeGpoMDFkX1NFYmJMWWdKTm1LYXV6dzctdjQyWmRBcURtOE1IdnNtM29sRjIydndtOG84ZjVQWWJ5SDA2OFBGejN1M0hhU1l2M28?oc=5",
+          "title": "[증시-마감] 블루웨이브發 AI공포에 코스피 6% 급락…5,000 턱걸이 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wd2ZSR3Ytb3J1RFEySGo2bksxMWowLUJJU0FvYjFJQTZEaklGV3lta3M4WDNnX29DYlZXWmc5eW5PVXA2NXE5cDBycHdnSENrNHdpVkpad1Zad25RWmlveWYwNXotX1RKSm5VazYtZWc?oc=5",
           "source": "연합인포맥스",
-          "published": "11-06 12:05",
-          "snippet": "野, 코스피 5,000 붕괴에 \"억지 부양하더니 국민 피눈물\" 총공세 연합인포맥스"
+          "published": "11-06 16:03",
+          "snippet": "[증시-마감] 블루웨이브發 AI공포에 코스피 6% 급락…5,000 턱걸이 연합인포맥스"
         },
         {
-          "title": "야권, 코스피 5천 붕괴에 \"거품 꺼졌다\"‥정부 책임론 주장 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IVzBUMzhwZFlNZDNnY0dOS0VMVlRaU3kxSWh2NS0wdTV4VTJHblI2QUh5bDNFN2VhZF9LdV9NakdSUW5TQ2MtY20zN19vSUdkWFZHRFA2bHBsSzVBMko0OW5KVG16Uk9qaU1UaTVQTXZpTXhTVVdSNNIBeEFVX3lxTE5KR2xTdjBaSkdPeHRLWEE5cjRITy12bmRISlp6bV8ySWtobi1DMmZjMDNzQ0JtLXB5VVg5Qmg1ZlhFZmVoN2paTEZtVzhia0VZQ1B3LV9jNV9qbHp3OGFCYnBwTWRQRGx3M25lSk42bGQ1a0NYMG53bw?oc=5",
-          "source": "MBC 뉴스",
-          "published": "11-06 11:28",
-          "snippet": "야권, 코스피 5천 붕괴에 \"거품 꺼졌다\"‥정부 책임론 주장 MBC 뉴스"
+          "title": "코스피, 6% 급락한 5059.69 마감…장중 '5000선' 붕괴·서킷브레이커 발동 - 인더스트리뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE45X2V2eE53Y21UMWR6S3hWc2ZYajRiak9UMkp4MHlrd0VTN1pUQWFnQlFWMllrY0pHNDNtV0ViaTFlb2M3U2NUcnFvbmRjb3M1emdEbnlDbDBYWFhnc1h1SmlLTEprbU1LWlJYTUUwUGFIUQ?oc=5",
+          "source": "인더스트리뉴스",
+          "published": "11-06 18:07",
+          "snippet": "코스피, 6% 급락한 5059.69 마감…장중 '5000선' 붕괴·서킷브레이커 발동 인더스트리뉴스"
         }
       ],
-      "증시 긴급 대응": [
+      "반도체주 폭락": [
         {
-          "title": "정부, 증시 급락에 긴급 대응‥신용융자 담보비율 의무 3개월 면제 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MdzhWSUc5X092ckExV1owUEU5c09GR1g3OFl0eVY4by1VZkFaTHBSWGZiNHI1bjdlVGlEMHFNcGQ0WTdTYzdWaHBUZEZqLXhsRzJCNmtFbFV6ZjJrVUhxalU1TmNVN2RPaEtJVTJ4dy01ZkFO0gF0QVVfeXFMTWgzY29iS0wtSG1EUG84QkdnWkhBaTA3bS1ZMmNxTE9sQ3JFT043aVdtWHktOUNkbi1EenNYb3pqN0o5VnR1WjYwODJsSWliVTNMc0JKSkdIY0U4aFJoVU5hd1dJWGFoSy1aNDU2SF83T0Z1LUQ?oc=5",
-          "source": "MBC 뉴스",
-          "published": "11-06 12:10",
-          "snippet": "정부, 증시 급락에 긴급 대응‥신용융자 담보비율 의무 3개월 면제 MBC 뉴스"
+          "title": "반도체주 폭락 이제 서막일 수도...월가가 주목하는 3대 경고음 - 글로벌이코노믹",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVjlRVkJfMTZIMU1JWjdMV3AtakVwRlQwSVhiVkVoTy1kZEhkM1FkUzFXN2pILTVRM3B3SHQwTnllRzQ5WTJtYVNYYVhuczRxdGUxZl9LRWRRNjZ5dUJCeVl2UUZsbHZOSlI1TExiemQzY242djc1T2E3bFZNaXI3UTZEQ3hucW1X?oc=5",
+          "source": "글로벌이코노믹",
+          "published": "11-06 11:02",
+          "snippet": "반도체주 폭락 이제 서막일 수도...월가가 주목하는 3대 경고음 글로벌이코노믹"
         },
         {
-          "title": "증시 급락에 과도한 반대매매 막는다…“신용융자 담보비율 의무 3개월 면제” - 전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83TkNWVU55eURFR0FSdHpKYTZVNHZKWDl5cHFGa3Vta2hEUG9HYXA4SDZRS1kwaGF2Ym03YjNmczdXRWloZzUwWUFncklQUQ?oc=5",
-          "source": "전자신문",
-          "published": "11-06 13:58",
-          "snippet": "증시 급락에 과도한 반대매매 막는다…“신용융자 담보비율 의무 3개월 면제” 전자신문"
+          "title": "[특징주] 美 반도체주 폭락에 프리마켓서 삼성전자 11%·SK하이닉스 13%↓ - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lekV2dzBxblFYb2I2ZzllXzBLR3ZyWlBKdERvcW91d0RzWURNUlNZNzNxZFlhUkZfSWVvY2VURDJiTnJ4ZXBEeDFWZUJIUEV2R2RZSmRCMTRkdTA5?oc=5",
+          "source": "뉴스핌",
+          "published": "11-06 08:26",
+          "snippet": "[특징주] 美 반도체주 폭락에 프리마켓서 삼성전자 11%·SK하이닉스 13%↓ 뉴스핌"
         },
         {
-          "title": "증시 급락에 정부 긴급 대응…신용융자 담보비율 140% 의무 3개월 면제 - 조세일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90dXd5WTVxVE5ZLURpT3ctSjZzQ1RKX2ozazR2MGltUWRvUlVKbW1lbzFSRVk1RzQzWnYxZ0JhOVJIUXl6NVdwdjhYQWxlYTJDUFJwT1lia2Vzd005SXRPcS1LNVp6bUFyTHpycUFscw?oc=5",
-          "source": "조세일보",
-          "published": "11-06 13:53",
-          "snippet": "증시 급락에 정부 긴급 대응…신용융자 담보비율 140% 의무 3개월 면제 조세일보"
+          "title": "“코스피 5000선 가까스로 지켰다”…이틀 새 11% 폭락, 외국인 6조원 투매 - 디지털데일리",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsaUpIM0NaWnRtazhGSmdCQTM0RVYwSmtMejFaYTlVcXVCRE81a2oyajVZVHlPdjVxWEwtbmVHOEI0OVd1VWcyUWJhNGJBbkpXZWE2eTVPZjlWZUcweklvMzFRT2I?oc=5",
+          "source": "디지털데일리",
+          "published": "11-06 15:58",
+          "snippet": "“코스피 5000선 가까스로 지켰다”…이틀 새 11% 폭락, 외국인 6조원 투매 디지털데일리"
         },
         {
-          "title": "F4, 증시 급락에 긴급 대응… 신용융자 담보비율 유지의무 3개월 면제 - 서울신문",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56c1NfUXNvV203eVFjaVBZMG1xWVB6LUpOS1hET1lDSEdudkJEVlRfT2FVdllzN2lfYUx6WnBmUjFqN3kwVzBfWW9GZ2hOMGxhZURDamFtSGk2NTlPdmx0QmhRUnVGUDB0X1NTdDVxZw?oc=5",
-          "source": "서울신문",
-          "published": "11-06 12:33",
-          "snippet": "F4, 증시 급락에 긴급 대응… 신용융자 담보비율 유지의무 3개월 면제 서울신문"
+          "title": "반도체주 폭락에 입 연 최태원…“시장은 합리적이지 않다” - 한스경제",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDQ2J0bURPTnJLV0RUbGJiaklydllOd2J0ZUdJSHNTeGRhTV9ERUJJVEg5M3JjY0hrTjZ4RnJEVjNkRlEyNURhN3FGTnlYWmFnWGhqa1Y4QlRGbEk0ZjZKN2l0UEo1WmlvN2hR?oc=5",
+          "source": "한스경제",
+          "published": "11-06 13:30",
+          "snippet": "반도체주 폭락에 입 연 최태원…“시장은 합리적이지 않다” 한스경제"
         },
         {
-          "title": "증시 급락에 'F4 긴급 대응'…증권사 신용융자 담보비율 유지 의무 석 달 면제 - 프라임경제",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qRGtNbEJJNWlZdnJSdl9nWlV1VmoxQjZ5ei1FWWpRLTZrOG1iLXdGX2dTTlZNX05IR01YdXRwQ3VscG9EZkkwVnFkS1RqOHZMbVI4NE95WnU4QlRWdEVrNFp1aHZ5T25ia2ttVHVwWXpvUQ?oc=5",
-          "source": "프라임경제",
-          "published": "11-06 14:08",
-          "snippet": "증시 급락에 'F4 긴급 대응'…증권사 신용융자 담보비율 유지 의무 석 달 면제 프라임경제"
+          "title": "美 반도체지수 12% 폭락…코스피 장중 5000선 붕괴 - 엠에스투데이",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyQlRISS1LdEF3RE1fYjRwTEIxNkNnYXlMM1dmdDFqaUJDMDdrT3BaYzNFLXJrX3A0Z0tzbEJ0MHdyeXVXc2ZPanZpSWJ1SGd0dUxpVFBXSDVNU0VkUE5JOEFyR1NnRDZfVHFsNk1VTFbSAXBBVV95cUxQMkJUSEktS3RBd0RNX2I0cExCMTZDZ2F5TDNXZnQxamlCQzA3a09wWmMzRS1ya19wNGdLc2xCdDB3cnl1V3NmT2p2aUlidUhndHVMaVRQV0g1TVNFZFBOSThBckdTZ0Q2X1RxbDZNVUxW?oc=5",
+          "source": "엠에스투데이",
+          "published": "11-06 16:04",
+          "snippet": "美 반도체지수 12% 폭락…코스피 장중 5000선 붕괴 엠에스투데이"
         },
         {
-          "title": "증시 급락에 당국 긴급 대응…신용융자 담보비율 의무 3개월 면제 - 마켓인",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zdUt4T3J1ZzVZelZWczZLWXNxVS1BVlhNU20zNmFNcnRETm5aNE16c05iS2QxSEZiVWdiWURDcUk2aTVDT3djTFlwNmN6clE5N2FCTTdqRG5DQm5hUkl1dGhJQlZKS2tCeEZKcktGX1dsaEE?oc=5",
-          "source": "마켓인",
-          "published": "11-06 14:13",
-          "snippet": "증시 급락에 당국 긴급 대응…신용융자 담보비율 의무 3개월 면제 마켓인"
+          "title": "반도체주 또 폭락, 지금 팔아야 하나...증권가 \"단기 악재, 저가 매수 기회\" - 녹색경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MX0s5TFczMzJrZmR6bzFBVDlHQk9yQ2F5NkRGU2lfS2ltSG1iaHo5NXJEdngxMExfR2xOdU15bUVqQ3hpc3FFX0R0YXNrUzN5VkNzMmlQVmprZlBHZEVEcmtuS01ETFNp?oc=5",
+          "source": "녹색경제신문",
+          "published": "11-06 11:36",
+          "snippet": "반도체주 또 폭락, 지금 팔아야 하나...증권가 \"단기 악재, 저가 매수 기회\" 녹색경제신문"
         }
       ],
-      "국내 부동산 시장": [
+      "부동산 규제": [
+        {
+          "title": "25억 넘는 집 대출 금지?...국토부 \"부동산 규제 허위 사실, 수사 의뢰\" - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvNllaOTVJa1JSd2lCX1B1Z2FfWjE1NkIycVhaMHh3ZUpDWWxjZEVtc0V2U2hfLUV3VUJySHZIZWhrNmpidmFWSjAxU1lneEtuaVFVb3hjVGhPZFRPaGtmWjN3Z0IzRExVd2fSAW9BVV95cUxOcXFwS255R3ZZZ2JsZWRHYUdtclpaS2RmZnQ2SVIyX0tKSXpNYkoxNkhPXzlOTmF4UjhQTFdxLVhabWFfUjdobV95YVZDZjNYdENaYWRHQWk2OUtOZ1FNRmxIa2JlR0t4aWhDOWpJY3M?oc=5",
+          "source": "머니투데이",
+          "published": "11-06 12:03",
+          "snippet": "25억 넘는 집 대출 금지?...국토부 \"부동산 규제 허위 사실, 수사 의뢰\" - 머니투데이 머니투데이"
+        },
+        {
+          "title": "국토부, 11월 주택시장 추가 규제설에 \"사실무근\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sOUI0X3dMM3p1MU5fd2NnZEVqdjl2SEpPanp2LWV3ajBZOVpYN3BNNnlXZ09MWTNoeGNuS2g4X2JyYmxPR196OE5LcnpvRjA2WXNWUjlMVUpvTFpMMEEteUdLNkRScHluTTlLelZ5cHc?oc=5",
+          "source": "연합인포맥스",
+          "published": "11-06 09:46",
+          "snippet": "국토부, 11월 주택시장 추가 규제설에 \"사실무근\" 연합인포맥스"
+        },
         {
           "title": "\"대출 막히고 규제?\"…또 퍼진 부동산 지라시에 정부 \"사실 아냐\" - 한국경제",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wZFNWM1dwMlU2bFd4bzVyWDZfMDNSbHExZTJqdE9DY2ltWG1rSnpEakVzdnVHcGlnYXM1TUh6OGRfNU5uZTlyaFNfTUNDcjdMNTNHY3hjR1pSQQ?oc=5",
@@ -779,42 +807,35 @@
           "snippet": "\"대출 막히고 규제?\"…또 퍼진 부동산 지라시에 정부 \"사실 아냐\" 한국경제"
         },
         {
-          "title": "해임으로 끝난 국민연금 부동산실 논란…센터필드가 드러낸 내부 견제의 한계 - 인베스트조선",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT015MHg5Qnh5OG9acXpqWUdEX2hmT01IczQ4clRidEQxUnhGXzJhQmYxTTZfTkQyeXhGd3NjdElpUTBBSm1PRWxCWS1FNXFwd040WnZhck9oTGIxNzFYSnVnZXhBdFkySkFvaVp5T3A5RVk0MWFESktoSkhKcEpJOWZpRQ?oc=5",
-          "source": "인베스트조선",
-          "published": "11-05 15:50",
-          "snippet": "해임으로 끝난 국민연금 부동산실 논란…센터필드가 드러낸 내부 견제의 한계 인베스트조선"
+          "title": "[단독]\"수원 권선·안양 만안도 규제, 25억 넘으면 대출 0원\" 또 퍼진 부동산 규제 지라시 - 땅집고",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YZnU5RFpRdml5ZWtoZ25aV3dXVUs4elZ6YnhtTXpPUDBQaDJ4Q2RmYV92R25LbWFmRnJfRDBscE5DSVZCTGRnd2kyX0djVGhLMUQzOURSNHUwUnF1NkM4NGowdzFRcjJETUFrTm0xUkY5Tks1YVU4SllyUmRZLXPSAXNBVV95cUxOUk1PS1BGd0kwSFdmcTdTdTJ1UmllNm1vOFpoSlViVWd3ZnZzUDM3RnItRmJkWEhqaGZaZHNFSzVxaXRjbTlqc1NodTVyeFAzc1NWTDJRbDBNeldQTXdNQTB0bWJIZk1sQlFmSVpHUGU5LUZr?oc=5",
+          "source": "땅집고",
+          "published": "11-06 10:59",
+          "snippet": "[단독]\"수원 권선·안양 만안도 규제, 25억 넘으면 대출 0원\" 또 퍼진 부동산 규제 지라시 땅집고"
         },
         {
-          "title": "미국 대중국 금융견제 무색...월가 딤섬본드 발행 러시 - 아주경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93QmZDcW1wRkJEd3A1Tm9QQk5reGRNbkl2VW5DZWZjZG9aX0VUczBuYlVlMmxDU2x5TzJTTkhyeno1OGVrVjJYZmo4b1NrdHFuLVoydWQ0M05zUdIBWEFVX3lxTE5qT25jMWpKX1YxWElXV0x4OG1jSWdlZTZDelJFUmJzaFNfcUk5NUlWSHZUck00UmU4NFFDTWlxMTd4TWx6Mm9MZjVTX2JzcjdQRUdibENGekE?oc=5",
-          "source": "아주경제",
-          "published": "11-06 09:18",
-          "snippet": "미국 대중국 금융견제 무색...월가 딤섬본드 발행 러시 아주경제"
+          "title": "\"부천·수원·안양 추가 규제\" 부동산 대책설 확산…국토부 \"사실무근\" - 진일보 | 전남일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KYThlODNZaElxXzIzZ05CVmtvaDUtZHdPeHlvaWxHT2dvNDM4RU9zSUlrNHZfY2lxVVJFdzJsTGg2b0FZQ3JzQ0c2dVA4Y2VrZHFjbWVBWGZ6Z0R4TFZSSEoxVXVuN20zR18xYnZUcw?oc=5",
+          "source": "진일보 | 전남일보",
+          "published": "11-06 14:50",
+          "snippet": "\"부천·수원·안양 추가 규제\" 부동산 대책설 확산…국토부 \"사실무근\" 진일보 | 전남일보"
         },
         {
-          "title": "한국부동산원 11월 1주 주간 아파트 동향… 전국 매매 0.07%·전세 0.10% 상승 및 시장 양극화 심화 - 청년투데이",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNSTc0czlHdzVRR2pGb0tUVlBsSUczQlFwUHhFWXhNOWVGZDgtLXJLZzI0QmU1cTZkNHc0TjVUdnZ5NkcyRWpReTNBSkV6Q194RXRrNXhOekhaZ3lIVC1aQVlDZW9fQnd1ZUE?oc=5",
-          "source": "청년투데이",
-          "published": "11-05 14:01",
-          "snippet": "한국부동산원 11월 1주 주간 아파트 동향… 전국 매매 0.07%·전세 0.10% 상승 및 시장 양극화 심화 청년투데이"
-        },
-        {
-          "title": "GH, 가평 전원주택용지 25필지 추첨 공급 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Fc20xanJING92TWVTYm9Hd2dKYkNROGp0NnhjRmJMRnhZVGdXbkZzbEZSUU90Z0NOU2tqVmNkcS02YzF4aVYxeFZlcUU2THpYX3V0aG5YV3VLZw?oc=5",
-          "source": "한국경제",
-          "published": "11-06 16:41",
-          "snippet": "GH, 가평 전원주택용지 25필지 추첨 공급 한국경제"
-        },
-        {
-          "title": "서초구 \"재초환은 주택공급 위축\"…정부에 폐지 건의 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8waFJoaTVmUEtfRDFUcUdKdENHUGp4cWlTYXkyZjkwOUFnR3NvWS1wdi1WdmZUUFQ3OWNyRzE2NXU4RmtIZEt1UGFkR2U4NjJFX01GbGJHT2owdw?oc=5",
-          "source": "한국경제",
-          "published": "11-06 07:32",
-          "snippet": "서초구 \"재초환은 주택공급 위축\"…정부에 폐지 건의 한국경제"
+          "title": "\"25억원 넘으면 대출 금지?\"... 정부, 부동산 규제설 전면 부인 - 엠투데이",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Hc29QejY0TFdiU0JMeHVmcWdLTW1BeGloZWtqT21UQkpIcEotdHNkUGlma09WdE1DcXpqSndQZzl6QTcwMV9ZaC1zUy1xUFpoZEhCamFmYl9zMjJ6QUpNcXBfQjBfX3N6bVNIMGlzaw?oc=5",
+          "source": "엠투데이",
+          "published": "11-06 13:09",
+          "snippet": "\"25억원 넘으면 대출 금지?\"... 정부, 부동산 규제설 전면 부인 엠투데이"
         }
       ],
-      "나스닥 폭락": [
+      "뉴욕증시 나스닥 폭락": [
+        {
+          "title": "뉴욕증시 급락 반전…나스닥 장중 4% 이상↓ 조정국면 진입 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rUF9wVHpjMlAwcTZnNGpfMlNQenFwX1dVSjExRm90aHlwMGduM2hKS2VBYTd3eDByeXZmLUt6V1NmRmUwZHhJZGVfUmZyME82OUN4U2t0MmhBQWfSAWBBVV95cUxONmlGcld3ZnNzRFVwdXROT05nOU1vVHp2Zk55NGllSG5yc1F6WWRrUndWMWVfdVpqY2VrLU9ybUdTVjc5MHA0el9PVlliTXozR3RPMWtBQUtWTVB1Q2dmM1Q?oc=5",
+          "source": "연합뉴스",
+          "published": "11-06 01:50",
+          "snippet": "뉴욕증시 급락 반전…나스닥 장중 4% 이상↓ 조정국면 진입 연합뉴스"
+        },
         {
           "title": "나스닥 5.5% 폭락…AI 관련주 무너지며 시총 2조5천억달러 증발 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVUnNFSG5ER0hwNTUyamVqZ3hvWnpiNjI2cy15c0hLTG5lbFFxckJwZHlrcFpqM0IyS0lIYlFNZ19HQmlyV3EyLWZSLXhJQ3BWQzlDT1VLLXg2SVQ1djAzcENWLWRnYUNlUS1rTVliQQ?oc=5",
@@ -823,86 +844,86 @@
           "snippet": "나스닥 5.5% 폭락…AI 관련주 무너지며 시총 2조5천억달러 증발 한겨레"
         },
         {
-          "title": "“2조5000억 달러 증발”…나스닥 폭락시킨 AI 데이터센터의 역설 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tQ18yMkIxZVBMXzZIU2gyZl9Hb3MzdE9nRUNqRUdBbnhyOVk3cXYwS0YxUVJpMXdpY0tqb3liZm03dTJlZ2FYeHJJcHhfaFQzZXB2bko1eGkwS3EwY2t3OXRTUUdRekpyYWxCS0taN1N1WGfSAWZBVV95cUxQT2pvMWR4djVSbnVoSk9oeldRUGg3dUVReklnRmZSNWhXS2F1azVIYkJwQjZDMjlhTzJQNkQwd1FYOUo0MmZNWm5WZ085LW1JT3d4TDVfZkRaZUdIWE84RWpzclpBOEE?oc=5",
-          "source": "동아일보",
-          "published": "11-06 15:21",
-          "snippet": "“2조5000억 달러 증발”…나스닥 폭락시킨 AI 데이터센터의 역설 동아일보"
-        },
-        {
-          "title": "美 AI 규제론자 대거 약진…나스닥은 폭락 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44emJoZllBVVFySU9tT2ZxeW82MUl6WjFLTHplZVVPbEVfZ01fSlFKaWNKekthVFNVOXRCUTB0ZW1fM3FaVzdiTkprMTZZNV9DZkYybDNlZEFIQ2ZZT1N2NTBHaEJSV1E?oc=5",
-          "source": "연합뉴스TV",
-          "published": "11-06 12:50",
-          "snippet": "美 AI 규제론자 대거 약진…나스닥은 폭락 연합뉴스TV"
-        },
-        {
-          "title": "美 나스닥 폭락에 삼전닉스 또 직격탄…프리마켓 10%대 급락 - 비즈워치",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rcHlLZk5PWDVkYzFUcEdXVUUzT2hlWmtBcmx6OXNWbFN0ZnctX1R3SEtlSkhYeFVhcTlKNF9MOUVzRi1zSEs4YmdXaE9qRzAzMTZzcmpVVWxVTEZER0g3a25Qb1lXZWVrQ2c?oc=5",
-          "source": "비즈워치",
-          "published": "11-06 08:29",
-          "snippet": "美 나스닥 폭락에 삼전닉스 또 직격탄…프리마켓 10%대 급락 비즈워치"
-        },
-        {
-          "title": "‘블루 쓰나미’에 폭락한 나스닥···AI 기업들이 떨고 있는 이유는 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zMGc3Si1YNy1pT1NuejZHa0pIZkZXZ01hckNnX2E4RHROU2ZrU0VadnlfY0Q1dWxKc1pEQXFNMVZ0ekNld0IwX3h2ZlFPTE5KRDNzYXNtZWxPV1JiUmNJ0gFfQVVfeXFMTzMwZzdKLVg3LWlPU256NkdrSkhmRldnTWFyQ2dfYThEdE5TZmtTRVp2eV9jRDV1bEpzWkRBcU0xVnR6Q2V3QjBfeHZmUU9MTkpEM3Nhc21lbE9XUmJSY0k?oc=5",
-          "source": "경향신문",
-          "published": "11-06 13:12",
-          "snippet": "‘블루 쓰나미’에 폭락한 나스닥···AI 기업들이 떨고 있는 이유는 경향신문"
-        },
-        {
           "title": "뉴욕증시 반등 하루 만에 폭락...기술주 투매에 나스닥 5.5%↓ - YTN 사이언스",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb1B5WWVzQngza0xnU0RWZUVkSTg2c2xOQ3Y0ZVFiT0NsMlpEV1Z6cXFFUWRpX0stLWIzOUluUWtWQ2c0Q0NmX0llcWt1TmpKN0RoYkhZZ1Y1OHRPeWNkckZjSnI0ZGpHZFJOWnBqZHNtdjBlY3kyTkx3Wmc3QXpNcDRISnY2TmtQNjBESg?oc=5",
           "source": "YTN 사이언스",
           "published": "11-06 11:00",
           "snippet": "뉴욕증시 반등 하루 만에 폭락...기술주 투매에 나스닥 5.5%↓ YTN 사이언스"
+        },
+        {
+          "title": "AI 기술주 투매에 폭락…나스닥 5.5%↓ [뉴욕증시 브리핑] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CTXc5dFhOdDBtSW5fYUYwRl9zUXNMRURHZEVuWGZtVlNIeG84bFlNblhWcmpVX3g2cE5fbnZ6ZmVBQkhQbWtTa0QtZzQ5UWtTWDNJNS10aXY1UQ?oc=5",
+          "source": "한국경제",
+          "published": "11-06 07:13",
+          "snippet": "AI 기술주 투매에 폭락…나스닥 5.5%↓ [뉴욕증시 브리핑] 한국경제"
+        },
+        {
+          "title": "간밤 미 증시 3조 달러 증발, 나스닥 5% 폭락 충격 - 네이버페이 머니스토리",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzLTkwN1VOTE9pc0pGaTkwQ3FnbjBvVUJRUWVRMDJNYk5tOVhQc2xpb1VQWVhsWTA0eDA1ZmVDVjFiTG9xUGNud1g0OGpJM1ZCYU45VENvdHNPZw?oc=5",
+          "source": "네이버페이 머니스토리",
+          "published": "11-06 09:08",
+          "snippet": "간밤 미 증시 3조 달러 증발, 나스닥 5% 폭락 충격 네이버페이 머니스토리"
+        },
+        {
+          "title": "뉴욕증시, 중간선거발 'AI 발작'에 급락 마감…나스닥 5.5% 폭락 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtdDFQNGdaQXYwX1JJS3prcXZtX0QxcGRScE56R0dMbTV0Tm1YTzZuV0MxS2NacVg3elh6NUNpdTZFTVRkR2k1RXVoaHFXUEJfR3lvd04tUFZYT0R2?oc=5",
+          "source": "뉴스핌",
+          "published": "11-06 06:21",
+          "snippet": "뉴욕증시, 중간선거발 'AI 발작'에 급락 마감…나스닥 5.5% 폭락 뉴스핌"
         }
       ],
-      "美 중간선거 여파": [
+      "미국 중간선거": [
         {
-          "title": "美 중간선거 여파에 中 증시 일제히 하락… 반도체주 약세 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOVZhMUtEeENlZlBKTlVEQ1U1QXVqZ1lwbkxYTDQ2Q0lsQXVQTEtia0lmRUE0U0Z0OXlJU3RDbWM0a3hfNFRHUkVzMHZpdFpCc0MxMkZkbnVsd2RpcmhYa3p0cEVVMC1mX3lDZGpUUGVMM2o1TUh1V3ZBOFpNVkN1RkNSVjNDUDRYcjdxV2stNUJwZDZaRmJaTEdKSjJ1UdIBsgFBVV95cUxPRjFJWmFyOW1qMEE3SERrdzRVLVVROG5mRjk4eU1VQkVWZHdTWkZsYWpJUzZfQ0E1ZmtpRWtYcC1RZlFtWGtpdVh3MkJ0SWVEdFdRT015WDNocWdvLURzTmlvdmg4VXlkUWNfNGRhY1djaVBxTzY5bGNGbHh4UGZJVko2bWZLQTlBVm5ZUXN5YUFyb3FGd0ZSSE5mMThvT2txcnY0ZGZ3R1AyU0ZjaHJ1ZkJR?oc=5",
-          "source": "Chosunbiz",
-          "published": "11-06 14:56",
-          "snippet": "美 중간선거 여파에 中 증시 일제히 하락… 반도체주 약세 Chosunbiz"
+          "title": "2026 미국 중간선거 주요 순간들...지금까지 어떤 일 있었나 - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHdU1XVjNBdlpMR1ZXTjRMSEtqN1R6OHBYMXY2dHNXb2J4UGZKVlkyUTNXaHlwYll2WU5QZjBMUzhOQndNYW50WnVtaHZzeWp0R0lSaU9iTjI4Mk81X0HSAWNBVV95cUxQeVNUYUhYWXFyeDRnUDhxck9JYWhUMXhFdWFYUUFPU0F0cU5CQWJMdWJRaFZPUk1xZFpTdW1ZMGJIM3NLcjNGR2JJTmVGalcyUHdrYXdnU25pdUVlQXBLMFBvOW8?oc=5",
+          "source": "BBC",
+          "published": "11-05 16:30",
+          "snippet": "2026 미국 중간선거 주요 순간들...지금까지 어떤 일 있었나 BBC"
         },
         {
-          "title": "중간선거 여파·AI 투자 불안에 미 기술주 폭락...시총 4340조 증발 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyRDBpbkpRV3lOZ2pweDhTU0M2S2dRV01uQkN1dFdIeWtOazJIb3BST0s3cjdOcmNKRkRTUHh4WW1KeGJvSzdsSHFzaXd2YkJxMEZJR2JaR3lqaE5qd0F4a3pKSjRZOXRxT2c?oc=5",
-          "source": "AI타임스",
-          "published": "11-06 12:31",
-          "snippet": "중간선거 여파·AI 투자 불안에 미 기술주 폭락...시총 4340조 증발 AI타임스"
+          "title": "미래에셋자산운용, 미국 중간선거 이후 주목할 TIGER ETF 소개 By 인포스탁데일리 - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpZndvaU9uZ056TEpKeElKLWdFQkdneHdveXlGWTNOVmZkV19EcmVSMzJWeU5MYVB5MjZ3U29nN3FBNGZtZzA0WDVHbk1ma0FVbnZQVEh4cnlwQmNOZGxTRWJob0RBRHhuc1FOellQRVM?oc=5",
+          "source": "Investing.com 한국어",
+          "published": "11-06 12:27",
+          "snippet": "미래에셋자산운용, 미국 중간선거 이후 주목할 TIGER ETF 소개 By 인포스탁데일리 Investing.com 한국어"
         },
         {
-          "title": "최태원 “美 중간선거 하나에도 시장 ‘영향’…롤러코스터 염두해야” - 경기일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rdno1RHRFTk8wLXZaUzZJMVdLX2pkOVZ0VFNwcWtzb1pHUDFHa2pzRVVhVnBMbFhOU2JsTExDM2JtZXh2S2k5Vll3SGx5U3dWMFgtdnJDZGJLeDQ?oc=5",
-          "source": "경기일보",
-          "published": "11-06 08:57",
-          "snippet": "최태원 “美 중간선거 하나에도 시장 ‘영향’…롤러코스터 염두해야” 경기일보"
+          "title": "트럼프 중간선거 패배 후 미국 증시 깜짝 반등한 이유 - 녹색경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hUncwZzYyVXlYU1RSdXBiU1d1d2lUdVlwMmJRNmVYTWcydlk0VDRPX0JWTVZzRXlnY1hCcHAtbXgwM3kyX2NRSjJNa0VmbDNDRnV6SlNKQjFmd3Q0NDdRU0E0LWNGbGgz?oc=5",
+          "source": "녹색경제신문",
+          "published": "11-06 15:39",
+          "snippet": "트럼프 중간선거 패배 후 미국 증시 깜짝 반등한 이유 녹색경제신문"
         },
         {
-          "title": "미 중간선거 '쓰나미'…한국 증시만 왜 직격탄? [몇층이세요] - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85VWxvWUZuUVFyLXlEMDdGYnFaQjVEbjZWdEhUUEhCcDFRMlU5c3VMZlRQN045eV9GRFdicDRNYjhHUUlMckhyZXdSaVZvZkZhUlpQYWNON0Vzb0VTU2c?oc=5",
-          "source": "YTN",
-          "published": "11-06 09:00",
-          "snippet": "미 중간선거 '쓰나미'…한국 증시만 왜 직격탄? [몇층이세요] YTN"
+          "title": "70달러 웃돌던 ’트럼프 코인’, 중간선거 참패에 1.1달러로 추락 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5X0lVMVU2QVVWY2p6S0FOZllIRzBZUVVfS1FWWEFLNEh5VmV6SW9YbUQxSDRnSEdON3VUazBMa0xGUjRpTjRLVWpXUG5pQXAwNVRMVndwb1I1WWNUcUpOSFAzaG81WVE?oc=5",
+          "source": "연합뉴스TV",
+          "published": "11-06 13:43",
+          "snippet": "70달러 웃돌던 ’트럼프 코인’, 중간선거 참패에 1.1달러로 추락 연합뉴스TV"
         },
         {
-          "title": "[OBS 뉴스 오늘] 미 중간선거 결과, 국제 경제 영향은? - OBS경인TV",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yT3c2YXBqSlpwRVhoaVkxM1oyaUNFU0xXZng4Qmx2aDBUWTFOTmRGMzlzYzByeVZLS0hhZ3l5TV9lbkxMdFhsRDlrZGNjQS1LSHlnS3E0YzJpQ2NDbnlrd3NENWQ4dzFkT3ItTnlB?oc=5",
-          "source": "OBS경인TV",
-          "published": "11-06 16:34",
-          "snippet": "[OBS 뉴스 오늘] 미 중간선거 결과, 국제 경제 영향은? OBS경인TV"
+          "title": "2026 미국 중간선거: Blue Wave 이후, 미국 정책과 한국 산업 - kpmg.com",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE50SHZJeGg2Ui1xTFJiZ1cyZjk4b3VYc1hBdHZfUnRSdDc1NnZvV21CUlNzLWZaT3puQWl3YS0zNW9OUkREUHJOSHlQSVRRYW93eUxQeGlCX0xOQlV6bnlod3ZzRzNvZ2F3WGRibEcxa29KQQ?oc=5",
+          "source": "kpmg.com",
+          "published": "11-05 09:20",
+          "snippet": "2026 미국 중간선거: Blue Wave 이후, 미국 정책과 한국 산업 kpmg.com"
         },
         {
-          "title": "美 중간선거 여파 '증시 폭락'에 금값 반등…국채금리·달러 하락 - 조세일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GWkJIUlMtMFRiN2c0NlVwc0ZxckVIUk05eDlBel9RSDZPZjZYWDcxcEFlWDJVNUpoczdaUWFXOExmRHdRdVduYV9nUEF5aGg4TFU1WGJicFpDbEt2R1BBQjB4ZUd0aXRmbnEyZ084UQ?oc=5",
+          "title": "미국 중간선거의 대반전: 좌파의 정책도 선거에서 승리할 수 있다 - 참세상",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5xYXlwX0s2alNWSVEwRXBQWWRwYU5xbEI1ZXRkRndaUm1hMHBfRHJGUVRjdFRvWV9NTU14Nzhvbkx4QQ?oc=5",
+          "source": "참세상",
+          "published": "11-06 10:41",
+          "snippet": "미국 중간선거의 대반전: 좌파의 정책도 선거에서 승리할 수 있다 참세상"
+        }
+      ],
+      "원달러 환율 급등": [
+        {
+          "title": "원·달러 환율 14원 이상 '급등'…美 AI 규제 쇼크에 원화 '직격탄' - 조세일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92X2NwelFvOUlwRWFJSDFRRmlVSGhpR2VQWFNFNDFwcFpVYzlnRHlFbENLY0lNU0U2WFlsVDRlYmMxS2MxcDJjNkJlN1BhdnZBbElwdFh6VUlNSVRkZ3JaOU4tN0liUE54blc4eGRoRQ?oc=5",
           "source": "조세일보",
-          "published": "11-06 09:10",
-          "snippet": "美 중간선거 여파 '증시 폭락'에 금값 반등…국채금리·달러 하락 조세일보"
-        }
-      ],
-      "원 달러 환율 급등": [
+          "published": "11-06 17:11",
+          "snippet": "원·달러 환율 14원 이상 '급등'…美 AI 규제 쇼크에 원화 '직격탄' 조세일보"
+        },
         {
           "title": "'블루쓰나미'에 원/달러 환율, 14.5원 '쑥'…6개월만에 최대폭 상승 - 머니투데이 - 머니투데이",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tb0ZBc2o2RHBFR3JSMGxUOGt6YTJObERTcC1LQUJPVVFUWG5lazQ5ZGpzdkRkcWVyTkhaRGlkTEl1SmZHeHJJcEVGSUJqX2hMOW5iOG5YLU92YzJSd2lXSDJQUlVsaTRVMVdn0gFwQVVfeXFMT1h4MExJbWd1M3FLX2JTR3NBX2JOQVR2bl9pS1ZqU1F1aUFKQ0pDLVJWVUczUHd4X0x0bEpNM2I5c3ZLbl9rZmdWVDRRNVlkRGUzTlAyMk5wdlpsMWRlYkx1TWJ6MU9jaVNxem81LTJqLQ?oc=5",
@@ -918,11 +939,11 @@
           "snippet": "1,360원대로 급등한 달러-원…'DXY·증시·선물' 압력에 한 달 만에 최고(상보) 연합인포맥스"
         },
         {
-          "title": "[외환-마감] 한 달 만의 최고치에 '네고 와르르'…1,350원대서 숨돌리기 - KB Think",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhSEZGb0pmNWJ6WUF1QXBjMmZJN2h5eFB1dWF1el9xT1NsMkc5WTczNDU1Mk8wTzVJaHU3aGJXZmZfdGhIS01Jd0kyVW40MmRRektVLVpWYWxFNkhBOHloMlFZQmhQQm1IN0k4blVrcFFEZw?oc=5",
-          "source": "KB Think",
-          "published": "11-06 16:28",
-          "snippet": "[외환-마감] 한 달 만의 최고치에 '네고 와르르'…1,350원대서 숨돌리기 KB Think"
+          "title": "폭락장에 원·달러 급등…14.5원 오른 1356.6원 마감(종합) - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIMjU5UUQ3SDRaTmVnWlNkcENpNmxORzBKUnkwcWlTOFdXV180S04tS1c5Y3JmeS1yVTgtbG94MW03VzkzemV3bVY1ZUdqY1lCeUFra0puaVhXTUhxU09RVNIBeEFVX3lxTE5CbnlBQ1BVeHhMTV9oc1I2OWd5X1ZKcUlhQmEyajEzQkduNXN3dW8zVWtpTV9zMTJSMDFVbURPTjlMNUl5dXVwNGViVlNjbmt0ekY4YTRMRGxlTXhkc205djJIRmx1bzRsUjIyS2RKNTRRMWFyVHMwYg?oc=5",
+          "source": "뉴시스",
+          "published": "11-06 16:10",
+          "snippet": "폭락장에 원·달러 급등…14.5원 오른 1356.6원 마감(종합) 뉴시스"
         },
         {
           "title": "환율도 ‘블루웨이브’ 직격탄...6개월만 최대폭 급등 - 서울경제",
@@ -932,58 +953,61 @@
           "snippet": "환율도 ‘블루웨이브’ 직격탄...6개월만 최대폭 급등 서울경제"
         },
         {
-          "title": "美 기술주 투매에 위험 회피 확산…달러·원 환율 급등 출발 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xeklFU1FWYnZvRXlNSGNhTWpTRXNxRHpzc0JPb3M5SktjYUFaTTk5MnFUakZxOU5QRlpHdEJ3OXh6b0JMVHlFM1hpRlNjUGdQbWVjcTZidHllX2s?oc=5",
-          "source": "뉴스1",
-          "published": "11-06 09:37",
-          "snippet": "美 기술주 투매에 위험 회피 확산…달러·원 환율 급등 출발 뉴스1"
-        },
-        {
-          "title": "美 중간선거 충격에 환율 1350원대 급등…연말엔 다시 내릴까 - 더팩트",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80TVpyalJRdHAwRUNzWUxTd2lMVEVIQ3hCNnBLNXNRaHoydXRyT3Y4N1BRMXkzZkJ5dkM4UWp3Q0szN2ZIYTBqUGl4Ny1JdW5JU05nLdIBVEFVX3lxTE80TVpyalJRdHAwRUNzWUxTd2lMVEVIQ3hCNnBLNXNRaHoydXRyT3Y4N1BRMXkzZkJ5dkM4UWp3Q0szN2ZIYTBqUGl4Ny1JdW5JU05nLQ?oc=5",
-          "source": "더팩트",
-          "published": "11-06 10:51",
-          "snippet": "美 중간선거 충격에 환율 1350원대 급등…연말엔 다시 내릴까 더팩트"
+          "title": "'미국발 AI 충격'에 원·달러 환율 14.5원 급등 - 아시아타임즈",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IZWN4M3d3cTZibHR1U0l0NER3S2QwWXFYMlg5YVEtRDdMVTIyWHRsV0l3MnUyS3VTcmV5M0xraWx0RzU5VS1HV1VBNEktMjVIaTE5SnlPQXI2MmwwTHc?oc=5",
+          "source": "아시아타임즈",
+          "published": "11-06 16:32",
+          "snippet": "'미국발 AI 충격'에 원·달러 환율 14.5원 급등 아시아타임즈"
         }
       ]
     },
     "queries": {
-      "코스피 붕괴": [
-        "코스피 붕괴 디시",
-        "코스피 붕괴 이유",
-        "코스피 붕괴 모음",
-        "코스피 붕괴 짤",
-        "코스피 붕괴 펨코",
-        "코스피 붕괴 시리즈",
-        "코스피 붕괴 밈",
-        "코스피 붕괴 위험",
-        "코스피 붕괴 더쿠"
+      "코스피 급락": [
+        "코스피 급락 이유",
+        "코스피 급락에 따른 주식 시장 반대매매 규모와 최근 증시 현황을 알려줘",
+        "코스피 급락 주",
+        "코스피 급락에 따른 주식 반대매매 규모와 증시 전망에 대해 알려줘",
+        "코스피 급락 디시",
+        "코스피 급락 나무위키",
+        "코스피 급락 이유 디시",
+        "코스피 급락 사유",
+        "코스피 급락 순위"
       ],
-      "증시 긴급 대응": [],
-      "국내 부동산 시장": [
-        "국내 부동산 시장 규모",
-        "국내 부동산 시장 전망",
-        "국내 부동산 시장 현황",
-        "국내 상업용 부동산 시장 규모"
+      "반도체주 폭락": [
+        "반도체주 폭락 이유",
+        "미국 반도체주 폭락",
+        "미국 반도체주 폭락 이유"
       ],
-      "나스닥 폭락": [
-        "나스닥 폭락 이유",
-        "나스닥 폭락 역사",
-        "나스닥 폭락 디시",
-        "나스닥 폭락 가능성",
-        "나스닥 폭락 주기",
-        "나스닥 폭락장",
-        "나스닥 폭락 이유 디시",
-        "나스닥 폭락 짤",
-        "나스닥 폭락 시기"
+      "부동산 규제": [
+        "부동산 규제 우려에 기존 계약대로 대출을 받도록 이미 조치 완료",
+        "부동산 규제지역",
+        "부동산 규제지역 현황",
+        "부동산 규제지역 현황 2026",
+        "부동산 규제지역 정리",
+        "부동산 규제 정리",
+        "부동산 규제지역 확인",
+        "부동산 규제 완화",
+        "부동산 규제지역 지도",
+        "부동산 규제 뜻"
       ],
-      "美 중간선거 여파": [],
-      "원 달러 환율 급등": [
-        "원/달러 환율 급등",
-        "원/달러 환율 급등 이유"
+      "뉴욕증시 나스닥 폭락": [],
+      "미국 중간선거": [
+        "미국 중간선거 2026",
+        "미국 중간선거 일정",
+        "미국 중간선거 의미",
+        "미국 중간선거 2026 날짜",
+        "미국 중간선거 날짜",
+        "미국 중간선거 예측",
+        "미국 중간선거일",
+        "미국 중간선거 언제",
+        "미국 중간선거 결과",
+        "미국 중간선거 뜻"
+      ],
+      "원달러 환율 급등": [
+        "원달러 환율 급등 이유"
       ]
     },
-    "newsletter_md": "# 📈 오늘의 경제 뉴스레터\n_2026-11-06 이슈 · 발행 2026-11-06_\n\n🇰🇷 **국내 경제:** `코스피 붕괴` · `증시 긴급 대응` · `국내 부동산 시장`\n🌐 **해외 경제:** `나스닥 폭락` · `美 중간선거 여파` · `원 달러 환율 급등`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 코스피 5000선 붕괴와 서킷브레이커 발동\n> 키워드: 코스피 붕괴\n\n**📌 무슨 일이 있었나**\n- 미국 중간선거 여파와 AI 투자심리 악화의 직격탄을 맞은 코스피가 8% 폭락하며 장중 5000선이 붕괴됨에 따라 서킷브레이커가 발동됨\n- 미국의 데이터센터 규제 강화 조치와 함께 신용 및 투자 관련 잡음이 복합적으로 작용하여 국내 증시 하방 압력을 가중시킴\n- 주가 급락 사태를 두고 야권에서 정부의 억지 부양 정책과 거품 붕괴를 강하게 비판하며 직접적인 정부 책임론을 제기함\n- 한동훈 전 대표 등이 코스피 붕괴로 인해 국민의 피눈물이 나고 있다며 대통령의 직접적인 입장 표명과 해명을 강력히 요구함\n- 온라인 커뮤니티와 주식 관련 채널을 중심으로 이번 폭락 사태와 관련된 밈과 관련 게시글이 급증하며 투자자들의 불안감이 확산됨\n\n**💬 핵심 Q&A**\n- **Q. 인터넷에서 코스피 붕괴 관련 밈이나 시리즈가 돌던데 투자자들 반응이 왜 이렇게 심각한가?**\n  A. 사상 처음으로 5000선을 기록했던 지수가 하루아침에 무너지고 서킷브레이커까지 발동되면서 체감하는 충격이 매우 크기 때문이다. 온라인상에서는 허탈감과 불안감을 자조적인 밈으로 표현하며 커뮤니티마다 우려가 쏟아지고 있다.\n- **Q. 주식 커뮤니티나 디시 등에서 코스피 붕괴 이유로 정확히 무엇을 지목하고 있는가?**\n  A. 투자자들은 미국 중간선거 결과로 인한 정치 지형 변화와 AI 데이터센터 규제 강화가 기술주 투매를 촉발한 핵심 원인으로 보고 있다. 여기에 국내 신용융자 관련 잡음까지 겹치면서 하락 폭을 키웠다고 분석한다.\n- **Q. 이렇게 지수가 급격히 무너질 때 자산을 지키기 위해 일반 개인이 취할 수 있는 현실적인 태도는 무엇인가?**\n  A. 패닉 바잉이나 공포에 의한 무차별적인 손절매를 자제하고 자신의 대출 레버리지 비율을 점검하는 것이 현명하다. 시장의 변동성이 과도한 시기에는 추가적인 위험 자산 투자를 보류하고 현금 비중을 유지하는 전략이 필요하다.\n\n**👀 앞으로 볼 포인트**\n- 정부 및 정치권의 추가적인 증시 안정화 대책 발표 여부\n- 미국 데이터센터 관련 후속 규제 조치가 미칠 글로벌 영향\n- 개인투자자들의 신용 반대매매 및 추가 자금 이탈 가능성\n\n<sub>참고: [경향신문](https://news.google.com/rss/articles/CBMiWkFVX3lxTE50SlhNUC1UVDJMeFBiVzU0TnUtaGZ1azV4VFVRRTZtd181Yzd0MTVzcjh6Z09FdXJtRnU3WWgwbUp4QXVGelBIbndUMThSZkFKSzFtbm1RODVQZ9IBX0FVX3lxTE9SUTNvaGRyckxkSVVKOXRZSzlYTjRmVXp1YldMX09xclQ4TGhibTM4aS1USmh0YVJFdHl5QlQtNzZndlh1ek1LMm1EdjFRRVdsY09aTUNyMXFUZ0NkV09B?oc=5) / [YTN](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUS0EyemQ1RGdoU3Z3ODg2ZzBRcTE3cENYSFp5MmI4U2FKRF9WZ0s5UkZnSm12eDc4TDFaV3NJNHZNVGdiaWE4bXRBanBMWVVOZnBMbE5TbWZoU19ha2c?oc=5) / [한겨레](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CTTBHRXJRaTFVbl80Z1RYMGpPNVZYdG4tWDJxcWVPR0trNEVJT1AwQWZZTXE5QVR4czNLVWE4SnNmM1Q5X0RoU0Q5QktMWWk1akY1YU1lTkl4YS1nRlFPc3psRXhuaVE?oc=5)</sub>\n\n---\n\n### 2. 증시 급락에 정부 F4 긴급 대응 가동\n> 키워드: 증시 긴급 대응\n\n**📌 무슨 일이 있었나**\n- 증시가 급격한 폭락세를 보임에 따라 경제 부처 수장들인 F4가 긴급 회의를 소집하여 시장 안정을 위한 대응책을 마련함\n- 주가 급락으로 인해 발생할 수 있는 과도한 반대매매 물량을 사전에 차단하기 위한 목적으로 구체적인 조치를 확정함\n- 국내 증권사들이 운용하는 신용융자 담보비율 유지 의무를 향후 3개월 동안 전면 면제하는 방안을 즉각 시행함\n- 기존에 140% 수준으로 엄격하게 적용되던 신용융자 담보비율 의무화 조치를 한시적으로 유예하여 투자자 부담을 완화함\n- 금융당국과 관련 기관의 합동 대응을 통해 증시 변동성 확대에 따른 시장 참여자들의 불안 심리를 진정시키고자 함\n\n**💬 핵심 Q&A**\n- **Q. 정부가 시행한 신용융자 담보비율 의무 3개월 면제가 내 투자 계좌에는 어떤 직접적인 변화를 주는가?**\n  A. 주가 하락으로 인해 담보가치가 떨어지더라도 증권사가 강제로 주식을 팔아치우는 반대매매 시점을 3개월 동안 유예받을 수 있다. 당장의 강제 청산 위험을 덜어주어 숨통을 틔워주는 조치이다.\n- **Q. 정부의 F4 긴급 대응이 무엇을 뜻하는 용어이며 증시에 얼마나 강력한 효력을 발휘하는가?**\n  A. 기획재정부 장관, 금융위원장, 한국은행 총재, 금융감독원장 등 경제 수장 4명을 지칭하는 표현으로 시장 위기 시 신속한 정책 공조를 상징한다. 한시적인 규제 유예를 통해 급한 불을 끄는 효과는 있지만 근본적인 글로벌 악재를 해소하기에는 한계가 있다.\n- **Q. 담보비율 면제 기간이 끝난 뒤에 주가가 회복되지 않으면 더 큰 폭탄이 돌아오는 것은 아닌가?**\n  A. 3개월의 유예 기간은 문제 해결이 아니라 시간을 벌어주는 조치이므로 기간 내에 증시가 반등하지 못하면 한꺼번에 반대매매가 쏟아질 위험이 존재한다. 따라서 이 기간 동안 자산 포트폴리오를 재정비하고 부채 규모를 줄이는 노력이 필수적이다.\n\n**👀 앞으로 볼 포인트**\n- 신용융자 담보비율 면제 조치 이후 반대매매 물량 감소 추이\n- 추가적인 시장 안정화 대책 및 금융당국의 모니터링 결과\n- 증권사들의 자발적인 리스크 관리 및 유동성 공급 상황\n\n<sub>참고: [MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTE5MdzhWSUc5X092ckExV1owUEU5c09GR1g3OFl0eVY4by1VZkFaTHBSWGZiNHI1bjdlVGlEMHFNcGQ0WTdTYzdWaHBUZEZqLXhsRzJCNmtFbFV6ZjJrVUhxalU1TmNVN2RPaEtJVTJ4dy01ZkFO0gF0QVVfeXFMTWgzY29iS0wtSG1EUG84QkdnWkhBaTA3bS1ZMmNxTE9sQ3JFT043aVdtWHktOUNkbi1EenNYb3pqN0o5VnR1WjYwODJsSWliVTNMc0JKSkdIY0U4aFJoVU5hd1dJWGFoSy1aNDU2SF83T0Z1LUQ?oc=5) / [전자신문](https://news.google.com/rss/articles/CBMiTkFVX3lxTE83TkNWVU55eURFR0FSdHpKYTZVNHZKWDl5cHFGa3Vta2hEUG9HYXA4SDZRS1kwaGF2Ym03YjNmczdXRWloZzUwWUFncklQUQ?oc=5) / [조세일보](https://news.google.com/rss/articles/CBMib0FVX3lxTE90dXd5WTVxVE5ZLURpT3ctSjZzQ1RKX2ozazR2MGltUWRvUlVKbW1lbzFSRVk1RzQzWnYxZ0JhOVJIUXl6NVdwdjhYQWxlYTJDUFJwT1lia2Vzd005SXRPcS1LNVp6bUFyTHpycUFscw?oc=5)</sub>\n\n---\n\n### 3. 국내 부동산 시장 규제설 부인과 동향\n> 키워드: 국내 부동산 시장\n\n**📌 무슨 일이 있었나**\n- 대출이 막히고 추가적인 고강도 규제가 도입된다는 내용의 부동산 지라시가 시장에 퍼지자 정부가 사실무근이라며 즉각 해명함\n- 한국부동산원이 발표한 11월 1주 주간 아파트 동향에 따르면 전국 매매가격은 0.07%, 전세가격은 0.10% 상승하며 양극화가 심화됨\n- 서초구청이 재건축초과이익환수제가 주택 공급을 위축시키는 주원인이라고 지적하며 중앙정부에 제도 폐지를 공식적으로 건의함\n- 국민연금 부동산실 관련 논란이 담당 센터장 해임으로 일단락되었으나 공적 연기금 운용에서의 내부 견제 한계를 드러냄\n- 경기주택도시공사(GH)가 가평 지역의 전원주택용지 25필지를 대상으로 추첨 방식을 통한 공급 절차를 진행함\n\n**💬 핵심 Q&A**\n- **Q. 대출 규제 관련 지라시가 돌았을 때 무주택자나 실수요자는 어떻게 대처해야 하는가?**\n  A. 출처가 불분명한 루머에 흔들려 급하게 계약을 체결하거나 패닉 바잉에 나서는 것은 매우 위험하다. 정부가 공식적으로 사실무근임을 밝힌 만큼 실제 발표되는 제도 변화와 실수요자 기준의 대출 여건을 차분히 확인해야 한다.\n- **Q. 재건축초과이익환수제가 폐지되면 일반 아파트 시장과 내 집 마련 계획에는 어떤 변화가 생기는가?**\n  A. 재건축 사업의 수익성이 개선되면서 정비사업 속도가 빨라져 장기적으로 서울 핵심지의 주택 공급이 원활해질 수 있다. 다만 단기적으로는 주변 지역의 재건축 기대 심리를 자극해 가격 불안 요인으로 작용할 가능성도 배제할 수 없다.\n- **Q. 전국 아파트 매매와 전세 가격이 동반 상승하고 양극화가 심해지는 상황에서 어떤 지역을 주목해야 하는가?**\n  A. 선호도가 집중되는 상급지와 그렇지 않은 지방 간의 격차가 벌어지고 있으므로 무리한 추격 매수보다는 입지와 교통 여건이 검증된 곳을 선별하는 시각이 필요하다. 특히 전세가율과 실수요 유입을 꼼꼼히 따져보는 보수적인 접근이 요구된다.\n\n**👀 앞으로 볼 포인트**\n- 정부의 추가 주택 공급 정책 및 재건축 규제 완화 여부\n- 주간 아파트 가격 상승세 지속 및 지역별 양극화 추이\n- 시중에 유포되는 부동산 관련 미확인 지라시의 확산 여부\n\n<sub>참고: [한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wZFNWM1dwMlU2bFd4bzVyWDZfMDNSbHExZTJqdE9DY2ltWG1rSnpEakVzdnVHcGlnYXM1TUh6OGRfNU5uZTlyaFNfTUNDcjdMNTNHY3hjR1pSQQ?oc=5) / [인베스트조선](https://news.google.com/rss/articles/CBMigwFBVV95cUxQT015MHg5Qnh5OG9acXpqWUdEX2hmT01IczQ4clRidEQxUnhGXzJhQmYxTTZfTkQyeXhGd3NjdElpUTBBSm1PRWxCWS1FNXFwd040WnZhck9oTGIxNzFYSnVnZXhBdFkySkFvaVp5T3A5RVk0MWFESktoSkhKcEpJOWZpRQ?oc=5) / [아주경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE93QmZDcW1wRkJEd3A1Tm9QQk5reGRNbkl2VW5DZWZjZG9aX0VUczBuYlVlMmxDU2x5TzJTTkhyeno1OGVrVjJYZmo4b1NrdHFuLVoydWQ0M05zUdIBWEFVX3lxTE5qT25jMWpKX1YxWElXV0x4OG1jSWdlZTZDelJFUmJzaFNfcUk5NUlWSHZUck00UmU4NFFDTWlxMTd4TWx6Mm9MZjVTX2JzcjdQRUdibENGekE?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 나스닥 5.5% 폭락과 AI 거품론 확산\n> 키워드: 나스닥 폭락\n\n**📌 무슨 일이 있었나**\n- 미국 뉴욕증시에서 기술주 중심의 나스닥 지수가 5.5% 폭락하며 하루 만에 시가총액 2조 5000억 달러가 증발함\n- 미국 정치권에서 AI 관련 규제론자들이 대거 약진한 영향과 함께 AI 데이터센터를 둘러싼 규제 우려가 투매를 촉발함\n- 미국 기술주 투매 현상의 직격탄을 맞은 국내 삼성전자와 SK하이닉스 등 반도체 대형주들이 프리마켓에서 10%대 급락세를 보임\n- 나스닥의 급격한 하락은 '블루 웨이브' 등 정치적 변화와 맞물려 AI 기업들의 향후 성장성에 대한 의구심을 증폭시킴\n- 반등 하루 만에 다시 찾아온 대규모 폭락으로 인해 글로벌 증시 전반에 걸쳐 극단적인 위험 회피 심리가 빠르게 확산됨\n\n**💬 핵심 Q&A**\n- **Q. 나스닥 폭락 이유와 관련해 디시 등 커뮤니티에서 언급되는 주기나 역사적 패턴이 실제 존재하는가?**\n  A. 역사적으로 기술주가 단기간에 급등한 이후 정치적 규제나 금리 이슈가 겹치면 큰 폭의 조정장이 찾아오는 패턴이 반복되어 왔다. 이번에도 AI 관련 인프라 투자 과열 논란과 규제론 부각이 맞물리면서 주기적인 투매 현상이 재현된 것으로 풀이된다.\n- **Q. 미국 나스닥 시장에서 2조 5천억 달러가 증발했다는 것이 내 국내 주식 계좌와는 무슨 상관인가?**\n  A. 글로벌 증시의 동조화 현상으로 인해 미국 기술주가 무너지면 한국의 대표 수출 종목인 삼성전자와 하이닉스 같은 반도체 주식들이 외국인 매도세로 인해 곧바로 직격탄을 맞는다. 국내 증시의 외국인 수급이 악화되면서 전체 지수를 끌어내리는 도화선이 된다.\n- **Q. 이처럼 나스닥이 큰 폭으로 폭락하는 장세에서 저가 매수를 노리는 전략은 타당한가?**\n  A. 폭락장에서 바닥을 정확히 예측하고 무리하게 매수하는 것은 '떨어지는 칼날을 잡는 것'과 같아 큰 손실로 이어질 수 있다. 추세가 하방으로 꺾인 시점에는 변동성이 진정되거나 규제 불확실성이 해소되는 신호를 확인하고 접근하는 편이 안전하다.\n\n**👀 앞으로 볼 포인트**\n- 미국 기술주 추가 하락 여부 및 주요 빅테크 기업들의 주가 방어력\n- 국내 반도체 대형주들의 본장 개장 후 실제 주가 방어 여부\n- 미국 AI 데이터센터 관련 입법 및 규제 동향\n\n<sub>참고: [한겨레](https://news.google.com/rss/articles/CBMib0FVX3lxTFBVUnNFSG5ER0hwNTUyamVqZ3hvWnpiNjI2cy15c0hLTG5lbFFxckJwZHlrcFpqM0IyS0lIYlFNZ19HQmlyV3EyLWZSLXhJQ3BWQzlDT1VLLXg2SVQ1djAzcENWLWRnYUNlUS1rTVliQQ?oc=5) / [동아일보](https://news.google.com/rss/articles/CBMic0FVX3lxTE4tQ18yMkIxZVBMXzZIU2gyZl9Hb3MzdE9nRUNqRUdBbnhyOVk3cXYwS0YxUVJpMXdpY0tqb3liZm03dTJlZ2FYeHJJcHhfaFQzZXB2bko1eGkwS3EwY2t3OXRTUUdRekpyYWxCS0taN1N1WGfSAWZBVV95cUxQT2pvMWR4djVSbnVoSk9oeldRUGg3dUVReklnRmZSNWhXS2F1azVIYkJwQjZDMjlhTzJQNkQwd1FYOUo0MmZNWm5WZ085LW1JT3d4TDVfZkRaZUdIWE84RWpzclpBOEE?oc=5) / [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44emJoZllBVVFySU9tT2ZxeW82MUl6WjFLTHplZVVPbEVfZ01fSlFKaWNKekthVFNVOXRCUTB0ZW1fM3FaVzdiTkprMTZZNV9DZkYybDNlZEFIQ2ZZT1N2NTBHaEJSV1E?oc=5)</sub>\n\n---\n\n### 2. 美 중간선거 여파 시장 핵심 이슈 및 동향\n> 키워드: 美 중간선거 여파\n\n**📌 무슨 일이 있었나**\n- 美 중간선거 여파에 中 증시 일제히 하락… 반도체주 약세 - Chosunbiz\n- 중간선거 여파·AI 투자 불안에 미 기술주 폭락...시총 4340조 증발 - AI타임스\n- 최태원 “美 중간선거 하나에도 시장 ‘영향’…롤러코스터 염두해야” - 경기일보\n- 미 중간선거 '쓰나미'…한국 증시만 왜 직격탄? [몇층이세요] - YTN\n\n**💬 핵심 Q&A**\n- **Q. 美 중간선거 여파 이슈가 개인에게 미치는 실질적인 영향은 무엇인가?**\n  A. 금리와 환율, 투자 자산 가치에 시차를 두고 반영되므로 포트폴리오 점검이 필요하다.\n- **Q. 앞으로 시장에서 가장 주목할 관전 포인트는 무엇인가?**\n  A. 공식 정책 지표와 주요 기업 실적 발표에 따라 단기 변동성이 결정될 수 있다.\n- **Q. 초보 투자자가 지금 주의해야 할 행동은 무엇인가?**\n  A. 과도한 레버리지를 피하고 분할 접근 관점을 유지하는 것이 바람직하다.\n\n**👀 앞으로 볼 포인트**\n- 美 중간선거 여파 관련 금융당국 공식 발표\n- 시중 금리 및 거시 지표 변화\n\n<sub>참고: [Chosunbiz](https://news.google.com/rss/articles/CBMingFBVV95cUxOOVZhMUtEeENlZlBKTlVEQ1U1QXVqZ1lwbkxYTDQ2Q0lsQXVQTEtia0lmRUE0U0Z0OXlJU3RDbWM0a3hfNFRHUkVzMHZpdFpCc0MxMkZkbnVsd2RpcmhYa3p0cEVVMC1mX3lDZGpUUGVMM2o1TUh1V3ZBOFpNVkN1RkNSVjNDUDRYcjdxV2stNUJwZDZaRmJaTEdKSjJ1UdIBsgFBVV95cUxPRjFJWmFyOW1qMEE3SERrdzRVLVVROG5mRjk4eU1VQkVWZHdTWkZsYWpJUzZfQ0E1ZmtpRWtYcC1RZlFtWGtpdVh3MkJ0SWVEdFdRT015WDNocWdvLURzTmlvdmg4VXlkUWNfNGRhY1djaVBxTzY5bGNGbHh4UGZJVko2bWZLQTlBVm5ZUXN5YUFyb3FGd0ZSSE5mMThvT2txcnY0ZGZ3R1AyU0ZjaHJ1ZkJR?oc=5) / [AI타임스](https://news.google.com/rss/articles/CBMiakFVX3lxTFAyRDBpbkpRV3lOZ2pweDhTU0M2S2dRV01uQkN1dFdIeWtOazJIb3BST0s3cjdOcmNKRkRTUHh4WW1KeGJvSzdsSHFzaXd2YkJxMEZJR2JaR3lqaE5qd0F4a3pKSjRZOXRxT2c?oc=5) / [경기일보](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rdno1RHRFTk8wLXZaUzZJMVdLX2pkOVZ0VFNwcWtzb1pHUDFHa2pzRVVhVnBMbFhOU2JsTExDM2JtZXh2S2k5Vll3SGx5U3dWMFgtdnJDZGJLeDQ?oc=5)</sub>\n\n---\n\n### 3. 블루웨이브 충격에 원달러 환율 1350원대 돌파\n> 키워드: 원 달러 환율 급등\n\n**📌 무슨 일이 있었나**\n- 미국 중간선거에서의 이른바 '블루 웨이브' 여파로 인해 원/달러 환율이 14.5원 급등하며 6개월 만에 최대 폭의 상승 기록을 세움\n- 달러 인덱스(DXY) 강세와 증시 불안, 선물 시장의 압력이 복합적으로 작용하면서 달러/원 환율이 한 달 만에 최고치인 1360원대로 진입함\n- 환율이 급등하여 한 달 만의 최고치를 기록하자 수출업체들의 네고 물량이 대거 출회되면서 1350원대에서 일단 숨 고르기 장세를 보임\n- 미국 기술주 투매 현상으로 인해 글로벌 금융시장에 위험 회피 심리가 극대화되면서 원화 가치가 큰 폭으로 하락함\n- 미 중간선거의 충격으로 환율이 단숨에 1350원대를 돌파하자 연말 시점에 환율이 다시 안정될 수 있을지 시장의 관심이 집중됨\n\n**💬 핵심 Q&A**\n- **Q. 원/달러 환율이 1350원대를 넘어 급등하면 해외 여행이나 직구를 주로 하는 개인에게는 어떤 실질적 타격이 있는가?**\n  A. 원화 가치가 하락한 만큼 해외 상품을 구매하거나 달러를 환전할 때 지불해야 하는 원화 비용이 크게 늘어난다. 해외 여행 경비나 해외 직구 비용이 전반적으로 상승하여 체감 물가가 높아지게 된다.\n- **Q. 환율이 급등할 때 뉴스에 나오는 '네고 물량 와르르'라는 표현이 무슨 뜻이며 환율을 어떻게 진정시키는가?**\n  A. 수출 기업들이 달러로 벌어들인 돈을 국내에서 쓰기 위해 원화로 바꾸려고 시장에 내다 파는 달러 매도 물량을 뜻한다. 환율이 고점에 달했을 때 이러한 네고 물량이 쏟아지면 달러 공급이 늘어나면서 환율의 추가 급등을 막는 완충 역할을 한다.\n- **Q. 연말에 환율이 다시 내려갈 것이라는 기대가 있는데 지금 달러를 사거나 팔아야 하는가?**\n  A. 정치적 이벤트와 글로벌 위험 회피 심리로 인해 단기 변동성이 커진 상태이므로 환율 방향성을 단정하여 거래하는 것은 위험하다. 환율은 대외 변수에 매우 민감하게 움직이므로 실수요 목적이 아니라면 환차익을 노린 단기 투자는 자제하는 것이 바람직하다.\n\n**👀 앞으로 볼 포인트**\n- 원/달러 환율의 1360원대 안착 여부 및 추가 상승 압력\n- 수출업체들의 네고 물량 출회 지속성 및 외환당국의 미세조정 여부\n- 미국 달러화 인덱스의 향후 방향성\n\n<sub>참고: [머니투데이](https://news.google.com/rss/articles/CBMia0FVX3lxTE1tb0ZBc2o2RHBFR3JSMGxUOGt6YTJObERTcC1LQUJPVVFUWG5lazQ5ZGpzdkRkcWVyTkhaRGlkTEl1SmZHeHJJcEVGSUJqX2hMOW5iOG5YLU92YzJSd2lXSDJQUlVsaTRVMVdn0gFwQVVfeXFMT1h4MExJbWd1M3FLX2JTR3NBX2JOQVR2bl9pS1ZqU1F1aUFKQ0pDLVJWVUczUHd4X0x0bEpNM2I5c3ZLbl9rZmdWVDRRNVlkRGUzTlAyMk5wdlpsMWRlYkx1TWJ6MU9jaVNxem81LTJqLQ?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTFA2N2RkcHFENlVyS1pmUHRXNzZNcGlPeHJSRTFxMWtXQjFsOTM5OE9mbUV1R2Z1anhzYWlKUFRaT3Rja3Z3dGplWkhGUWhnZDA3OXl4WERjbndJMENoYTdVM1VsWTVPRkNYa2c4TmhDc20?oc=5) / [KB Think](https://news.google.com/rss/articles/CBMickFVX3lxTFBhSEZGb0pmNWJ6WUF1QXBjMmZJN2h5eFB1dWF1el9xT1NsMkc5WTczNDU1Mk8wTzVJaHU3aGJXZmZfdGhIS01Jd0kyVW40MmRRektVLVpWYWxFNkhBOHloMlFZQmhQQm1IN0k4blVrcFFEZw?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 제목을 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
+    "newsletter_md": "# 📈 오늘의 경제 뉴스레터\n_2026-11-06 이슈 · 발행 2026-11-06_\n\n🇰🇷 **국내 경제:** `코스피 급락` · `반도체주 폭락` · `부동산 규제`\n🌐 **해외 경제:** `뉴욕증시 나스닥 폭락` · `미국 중간선거` · `원달러 환율 급등`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 코스피 6% 급락, 5천 선 붕괴 위기\n> 키워드: 코스피 급락\n\n**📌 무슨 일이 있었나**\n- 미국발 AI 쇼크와 블루웨이브 영향으로 코스피가 6% 넘게 급락하여 5059.69로 마감함에 따른 증시 불안 심화\n- 장중 한때 5000선이 붕괴되고 9달 만에 최저 수준을 기록하며 시장 전체에 서킷브레이커가 발동되는 충격 발생\n- 씨티 등 주요 금융기관에서는 코스피 급락 상황 속에서도 11월 금리 인상 전망을 그대로 유지한다는 입장을 발표함\n- 주가 급락에 따른 증시 충격을 완화하기 위해 정부가 긴급 대책회의를 개최하고 증권사 관련 규제를 우선적으로 완화함\n- 외국인 투자자들의 대규모 투매 물량이 쏟아지면서 단 이틀 만에 지수가 11% 폭락하는 전례 없는 하락세 기록\n\n**💬 핵심 Q&A**\n- **Q. 코스피가 갑자기 왜 이렇게 큰 폭으로 급락한 것인가?**\n  A. 미국 증시의 기술주 폭락과 블루웨이브 여파로 인한 AI 공포감이 국내 증시에 직접적인 충격을 주었기 때문이다. 외국인 투자자의 대규모 매도세가 겹치면서 지수가 급격히 무너졌다.\n- **Q. 주가 급락으로 인해 내 주식 계좌에 반대매매가 발생할 위험이 있는가?**\n  A. 주가가 급락하면 신용융자나 미수거래를 이용한 투자자들의 반대매매 규모가 급증할 수 있다. 본인의 계좌 상태와 증거금 비율을 수시로 확인하는 주의가 필요하다.\n- **Q. 주식 시장이 급락할 때 투자자는 어떻게 대응하는 것이 현명한가?**\n  A. 공포 심리에 매도하기보다 시장의 변동성 원인을 차분히 분석하는 자세가 중요하다. 무리한 레버리지 투자를 자제하고 리스크 관리에 집중해야 한다.\n\n**👀 앞으로 볼 포인트**\n- 정부의 추가 시장 안정화 대책 실효성\n- 외국인 투자자의 지속적인 순매도 여부\n- 5000선 지지 여부 및 반대매매 규모 확산\n\n<sub>참고: [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ocDU2SGJOdWJxZEtqN2pndnpfVVlya09hWkhWN04ydEo0aGcwcGFGcDlKT2JEREgwTnFMTHpBRkNYX1pBWnFGbGl0bGNSZzh4MGFpQ1JlbmxqQ1HSAWBBVV95cUxPWU5seVFxbWtKazRtN2JyZlV2TXpjTGZxLS1nSndiS1V3M2ZQQWpoS01YYVdIT1hHNzZsUEdsN3NtU3pIeDVHN2Q5ZGFwVzFNOEZjNXVrS0FTS2RjWUpHTzk?oc=5) / [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JcXNmT3EyRFptbndjYlhSMS15MGFKeXlkeEVzeXV2SWtiZTl5UThrdVdrenJwUkVTaXFOV1p4aENBMl95OF9Tc21LSlc2LVJlR1g5ckFQMGVLMHJxTFE4eE9rbVl3Rk0?oc=5) / [YTN](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vRWhIYzF3bi1wdWZlVFJVR1V6NzZsa1o0dU9zdE5yRWEtSDJDZEQ5M2hFUlJpZEU4b0E1M2IwdkN3MTkxUnk0YVJsQmQ0ZF9sTERINVJPQW0talVkTUE?oc=5)</sub>\n\n---\n\n### 2. 미국발 AI 충격에 반도체주 동반 폭락\n> 키워드: 반도체주 폭락\n\n**📌 무슨 일이 있었나**\n- 미국 반도체지수가 12% 폭락하는 극심한 부진을 겪으면서 국내 증시 프리마켓에서 삼성전자와 SK하이닉스가 각각 11%와 13% 하락함\n- 월스트리트에서 반도체주 폭락이 아직 서막에 불과할 수 있다는 3대 경고음을 제기하며 투자자들의 불안감을 고조시킴\n- 최태원 SK그룹 회장이 반도체주 폭락 사태와 관련하여 현재 시장의 흐름이 합리적이지 않다는 입장을 공개적으로 밝힘\n- 이틀 동안 이어진 반도체주 폭락과 외국인의 6조 원 규모 투매로 인해 코스피 지수가 5000선 근처까지 밀려남\n- 증권가에서는 이번 반도체주 폭락을 단기적인 악재로 평가하면서 저가 매수 기회로 활용할 수 있다는 전망을 제시함\n\n**💬 핵심 Q&A**\n- **Q. 미국 반도체주가 폭락하게 된 구체적인 이유는 무엇인가?**\n  A. 미국 증시에서 발생한 AI 관련 기술주 투매 현상과 정치적 이벤트인 블루웨이브 충격이 복합적으로 작용했다. 이로 인해 글로벌 반도체 전반에 대한 투자 심리가 급격히 악화되었다.\n- **Q. 지금 시점에서 반도체주를 매수하는 전략은 올바른가?**\n  A. 일부 증권가는 저가 매수 기회로 보지만 변동성이 매우 높은 상태이다. 단기적 반등을 낙관하기보다 철저한 리스크 관리가 선행되어야 한다.\n- **Q. 반도체주 폭락이 국내 경제와 일반 가계에 미치는 영향은 무엇인가?**\n  A. 국내 수출과 증시에서 반도체 비중이 매우 높아 대기업 주가 하락은 경제 전반의 투자 심리를 위축시킨다. 개인 투자자의 자산 증식에도 직간접적인 타격을 준다.\n\n**👀 앞으로 볼 포인트**\n- 미국 반도체지수의 기술적 반등 여부\n- 삼성전자와 SK하이닉스의 주가 방어력\n- 글로벌 AI 산업에 대한 투자 심리 회복\n\n<sub>참고: [글로벌이코노믹](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVjlRVkJfMTZIMU1JWjdMV3AtakVwRlQwSVhiVkVoTy1kZEhkM1FkUzFXN2pILTVRM3B3SHQwTnllRzQ5WTJtYVNYYVhuczRxdGUxZl9LRWRRNjZ5dUJCeVl2UUZsbHZOSlI1TExiemQzY242djc1T2E3bFZNaXI3UTZEQ3hucW1X?oc=5) / [뉴스핌](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lekV2dzBxblFYb2I2ZzllXzBLR3ZyWlBKdERvcW91d0RzWURNUlNZNzNxZFlhUkZfSWVvY2VURDJiTnJ4ZXBEeDFWZUJIUEV2R2RZSmRCMTRkdTA5?oc=5) / [디지털데일리](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsaUpIM0NaWnRtazhGSmdCQTM0RVYwSmtMejFaYTlVcXVCRE81a2oyajVZVHlPdjVxWEwtbmVHOEI0OVd1VWcyUWJhNGJBbkpXZWE2eTVPZjlWZUcweklvMzFRT2I?oc=5)</sub>\n\n---\n\n### 3. 부동산 추가 규제설에 정부가 전면 부인\n> 키워드: 부동산 규제\n\n**📌 무슨 일이 있었나**\n- 수원 권선, 안양 만안, 부천 등 지역에 추가 부동산 규제를 가하고 25억 원을 초과하는 주택의 대출을 전면 금지한다는 내용의 지라시가 확산됨\n- 일부 온라인 커뮤니티와 메신저를 중심으로 25억 넘는 집 대출이 금지된다는 허위 사실이 무분별하게 퍼져나감\n- 국토교통부는 11월 주택시장 추가 규제설과 대출 금지 루머에 대해 전혀 사실무근이라는 공식 입장을 발표함\n- 정부는 시장을 교란하는 부동산 지라시 확산에 대응하여 강력한 수사를 의뢰하겠다는 방침을 세움\n- 혼란을 방지하기 위해 기존 계약대로 정상적인 대출을 받을 수 있도록 필요한 조치를 이미 완료했다고 밝힘\n\n**💬 핵심 Q&A**\n- **Q. 25억 넘는 집의 대출이 금지된다는 소문은 사실인가?**\n  A. 국토교통부가 공식적으로 사실무근이라고 발표한 명백한 허위 지라시다. 기존 규제와 동일하게 정상적인 대출 진행이 가능하다.\n- **Q. 부동산 규제지역은 현재 어떻게 확인하고 관리되는가?**\n  A. 정부의 공식 발표와 국토교통부 채널을 통해 규제지역 현황을 확인할 수 있다. 근거 없는 소문에 동요하지 않는 태도가 필요하다.\n- **Q. 이러한 가짜 부동산 뉴스가 내 집 마련 계획에 미치는 영향은 무엇인가?**\n  A. 근거 없는 불안감을 조성하여 소비자의 자금 계획을 혼란스럽게 만든다. 정부의 공식 발표를 기준으로 냉정하게 판단해야 한다.\n\n**👀 앞으로 볼 포인트**\n- 부동산 시장 내 허위 지라시 추가 유포 여부\n- 정부의 시장 교란 행위 수사 결과\n- 실제 주택시장 대출 및 규제 지역 변화 추이\n\n<sub>참고: [머니투데이](https://news.google.com/rss/articles/CBMiakFVX3lxTFBvNllaOTVJa1JSd2lCX1B1Z2FfWjE1NkIycVhaMHh3ZUpDWWxjZEVtc0V2U2hfLUV3VUJySHZIZWhrNmpidmFWSjAxU1lneEtuaVFVb3hjVGhPZFRPaGtmWjN3Z0IzRExVd2fSAW9BVV95cUxOcXFwS255R3ZZZ2JsZWRHYUdtclpaS2RmZnQ2SVIyX0tKSXpNYkoxNkhPXzlOTmF4UjhQTFdxLVhabWFfUjdobV95YVZDZjNYdENaYWRHQWk2OUtOZ1FNRmxIa2JlR0t4aWhDOWpJY3M?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE1sOUI0X3dMM3p1MU5fd2NnZEVqdjl2SEpPanp2LWV3ajBZOVpYN3BNNnlXZ09MWTNoeGNuS2g4X2JyYmxPR196OE5LcnpvRjA2WXNWUjlMVUpvTFpMMEEteUdLNkRScHluTTlLelZ5cHc?oc=5) / [한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wZFNWM1dwMlU2bFd4bzVyWDZfMDNSbHExZTJqdE9DY2ltWG1rSnpEakVzdnVHcGlnYXM1TUh6OGRfNU5uZTlyaFNfTUNDcjdMNTNHY3hjR1pSQQ?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 나스닥 5.5% 폭락, 기술주 투매 장세\n> 키워드: 뉴욕증시 나스닥 폭락\n\n**📌 무슨 일이 있었나**\n- 뉴욕증시가 반등 하루 만에 급락세로 돌아서며 나스닥 지수가 장중 4% 이상 하락하는 조정국면에 진입함\n- 중간선거발 AI 발작과 기술주 투매 현상이 겹치면서 나스닥 지수가 최종 5.5% 폭락하여 마감함\n- AI 관련주들이 일제히 무너지면서 미 증시 전체에서 무려 2조 5천억 달러에서 3조 달러에 달하는 시가총액이 증발함\n- 기술주 중심의 매도 물량이 쏟아지면서 시장 전반에 패닉 셀링 현상이 확산되는 결과를 낳음\n- 예상치 못한 정치 및 경제적 악재들이 복합적으로 작용하여 뉴욕증시의 주요 지수가 큰 폭으로 하락함\n\n**💬 핵심 Q&A**\n- **Q. 뉴욕증시의 나스닥이 단 하루 만에 5% 넘게 폭락한 주된 이유는 무엇인가?**\n  A. 중간선거 전후로 불거진 정치적 불확실성과 AI 산업에 대한 고평가 논란이 겹쳤기 때문이다. 기술주 중심의 대규모 투매가 지수를 급격히 끌어내렸다.\n- **Q. 미국 증시의 급락이 국내 투자자의 자산에는 어떤 영향을 미치는가?**\n  A. 글로벌 증시의 동조화 현상으로 인해 국내 코스피와 기술주 시장에도 즉각적인 하방 압력으로 작용한다. 해외 주식을 보유한 투자자에게도 직접적인 평가손실을 안겨준다.\n- **Q. 조정국면에 진입한 미국 증시를 향후 어떻게 바라보아야 하는가?**\n  A. 단기적인 시장 충격이 클 수 있으므로 감정에 휘둘린 매매를 피해야 한다. 거시경제 지표와 기업 실적을 차분히 모니터링할 필요가 있다.\n\n**👀 앞으로 볼 포인트**\n- 미국 기술주의 추가 하락 여부\n- 글로벌 증시의 연쇄적인 패닉 현상 진정 여부\n- 미국 연방준비제도의 통화정책 기조 변화\n\n<sub>참고: [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rUF9wVHpjMlAwcTZnNGpfMlNQenFwX1dVSjExRm90aHlwMGduM2hKS2VBYTd3eDByeXZmLUt6V1NmRmUwZHhJZGVfUmZyME82OUN4U2t0MmhBQWfSAWBBVV95cUxONmlGcld3ZnNzRFVwdXROT05nOU1vVHp2Zk55NGllSG5yc1F6WWRrUndWMWVfdVpqY2VrLU9ybUdTVjc5MHA0el9PVlliTXozR3RPMWtBQUtWTVB1Q2dmM1Q?oc=5) / [한겨레](https://news.google.com/rss/articles/CBMib0FVX3lxTFBVUnNFSG5ER0hwNTUyamVqZ3hvWnpiNjI2cy15c0hLTG5lbFFxckJwZHlrcFpqM0IyS0lIYlFNZ19HQmlyV3EyLWZSLXhJQ3BWQzlDT1VLLXg2SVQ1djAzcENWLWRnYUNlUS1rTVliQQ?oc=5) / [YTN 사이언스](https://news.google.com/rss/articles/CBMijAFBVV95cUxPb1B5WWVzQngza0xnU0RWZUVkSTg2c2xOQ3Y0ZVFiT0NsMlpEV1Z6cXFFUWRpX0stLWIzOUluUWtWQ2c0Q0NmX0llcWt1TmpKN0RoYkhZZ1Y1OHRPeWNkckZjSnI0ZGpHZFJOWnBqZHNtdjBlY3kyTkx3Wmc3QXpNcDRISnY2TmtQNjBESg?oc=5)</sub>\n\n---\n\n### 2. 미국 중간선거 참패와 증시 대반전\n> 키워드: 미국 중간선거\n\n**📌 무슨 일이 있었나**\n- 2026년 미국 중간선거에서 트럼프 진영이 참패하는 결과가 나타나면서 정치 지형에 큰 변화가 발생함\n- 중간선거 참패의 여파로 한때 70달러를 웃돌던 트럼프 코인 가격이 1.1달러 수준까지 폭락함\n- 트럼프의 중간선거 패배 소식 이후 역설적으로 미국 증시는 불확실성 해소로 해석되며 깜짝 반등을 기록함\n- 블루웨이브 현상 발생 이후 미국 정책 변화가 한국 산업과 경제에 미칠 영향에 대한 분석이 활발히 진행됨\n- 미래에셋자산운용 등 금융업계에서는 중간선거 결과 이후 주목해야 할 TIGER ETF 상품들을 소개함\n\n**💬 핵심 Q&A**\n- **Q. 미국 중간선거 결과가 왜 미국 증시의 반등을 이끌어냈는가?**\n  A. 선거 결과로 인한 정치적 불확실성이 해소되었기 때문이다. 시장은 이를 권력의 분산과 안정성 확보로 받아들이며 긍정적으로 반응했다.\n- **Q. 트럼프 코인의 가격이 급격하게 폭락한 이유는 무엇인가?**\n  A. 트럼프의 중간선거 패배로 인해 정치적 영향력과 기대감이 급감했기 때문이다. 투심이 빠르게 얼어붙으면서 가치가 수직 낙하했다.\n- **Q. 미국 중간선거 결과가 한국의 일반 경제나 산업에 주는 의미는 무엇인가?**\n  A. 미국의 향후 대외 정책과 산업 지원 방향이 완전히 달라질 수 있기 때문이다. 국내 관련 산업의 주가와 수출 전략에도 적지 않은 변화를 예고한다.\n\n**👀 앞으로 볼 포인트**\n- 미국 중간선거 이후 의회의 입법 권력 구도\n- 트럼프 관련 자산의 추가 가격 변동성\n- 미국 새 정책 기조가 한국 수출 기업에 미칠 영향\n\n<sub>참고: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHdU1XVjNBdlpMR1ZXTjRMSEtqN1R6OHBYMXY2dHNXb2J4UGZKVlkyUTNXaHlwYll2WU5QZjBMUzhOQndNYW50WnVtaHZzeWp0R0lSaU9iTjI4Mk81X0HSAWNBVV95cUxQeVNUYUhYWXFyeDRnUDhxck9JYWhUMXhFdWFYUUFPU0F0cU5CQWJMdWJRaFZPUk1xZFpTdW1ZMGJIM3NLcjNGR2JJTmVGalcyUHdrYXdnU25pdUVlQXBLMFBvOW8?oc=5) / [Investing.com 한국어](https://news.google.com/rss/articles/CBMicEFVX3lxTFBpZndvaU9uZ056TEpKeElKLWdFQkdneHdveXlGWTNOVmZkV19EcmVSMzJWeU5MYVB5MjZ3U29nN3FBNGZtZzA0WDVHbk1ma0FVbnZQVEh4cnlwQmNOZGxTRWJob0RBRHhuc1FOellQRVM?oc=5) / [녹색경제신문](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hUncwZzYyVXlYU1RSdXBiU1d1d2lUdVlwMmJRNmVYTWcydlk0VDRPX0JWTVZzRXlnY1hCcHAtbXgwM3kyX2NRSjJNa0VmbDNDRnV6SlNKQjFmd3Q0NDdRU0E0LWNGbGgz?oc=5)</sub>\n\n---\n\n### 3. 원·달러 환율 14원 폭등, 1350원대 진입\n> 키워드: 원달러 환율 급등\n\n**📌 무슨 일이 있었나**\n- 미국발 AI 규제 쇼크와 블루웨이브 충격이 겹치면서 원·달러 환율이 14.5원 급등하여 1356.6원에 마감함\n- 이번 환율 상승 폭은 약 6개월 만에 최대치를 기록하며 원화 가치가 큰 직격탄을 맞음\n- 달러인덱스 상승과 국내 증시 폭락 및 선물 시장의 압력이 복합적으로 작용하여 환율이 한 달 만에 최고치로 치솟음\n- 외국인 투자자들의 대거 주식 순매도와 자금 이탈 현상이 원화 약세를 부추기는 주요 원인으로 작용함\n- 글로벌 금융시장의 불안정성 확대가 안전자산인 달러화 선호 현상을 강하게 자극함\n\n**💬 핵심 Q&A**\n- **Q. 원·달러 환율이 하루 만에 14원 이상 급등한 근본적인 이유는 무엇인가?**\n  A. 미국 증시 폭락과 블루웨이브에 따른 글로벌 달러 강세 현상이 원화 가치를 떨어뜨렸기 때문이다. 국내 증시에서 외국인 자금이 이탈한 것도 큰 원인이다.\n- **Q. 환율 급등이 나의 일상적인 경제생활이나 소비에 어떤 영향을 미치는가?**\n  A. 수입 원자재 가격이 상승하여 물가 압력이 커지고 해외직구 비용이나 유학 비용 등이 비싸진다. 전체적인 수입 물가 상승으로 가계 부담이 가중된다.\n- **Q. 환율이 치솟는 시기에 개인은 자산을 어떻게 관리하는 것이 현명한가?**\n  A. 환율 변동성에 따른 환손실 위험을 고려하여 외화 자산과 원화 자산의 포트폴리오를 점검해야 한다. 무리한 환 투기성 거래는 자제하는 편이 안전하다.\n\n**👀 앞으로 볼 포인트**\n- 원·달러 환율의 1360원대 안착 여부\n- 외국인 자금의 국내 증시 이탈 규모\n- 외환당국의 시장 안정화 개입 여부\n\n<sub>참고: [조세일보](https://news.google.com/rss/articles/CBMib0FVX3lxTE92X2NwelFvOUlwRWFJSDFRRmlVSGhpR2VQWFNFNDFwcFpVYzlnRHlFbENLY0lNU0U2WFlsVDRlYmMxS2MxcDJjNkJlN1BhdnZBbElwdFh6VUlNSVRkZ3JaOU4tN0liUE54blc4eGRoRQ?oc=5) / [머니투데이](https://news.google.com/rss/articles/CBMia0FVX3lxTE1tb0ZBc2o2RHBFR3JSMGxUOGt6YTJObERTcC1LQUJPVVFUWG5lazQ5ZGpzdkRkcWVyTkhaRGlkTEl1SmZHeHJJcEVGSUJqX2hMOW5iOG5YLU92YzJSd2lXSDJQUlVsaTRVMVdn0gFwQVVfeXFMT1h4MExJbWd1M3FLX2JTR3NBX2JOQVR2bl9pS1ZqU1F1aUFKQ0pDLVJWVUczUHd4X0x0bEpNM2I5c3ZLbl9rZmdWVDRRNVlkRGUzTlAyMk5wdlpsMWRlYkx1TWJ6MU9jaVNxem81LTJqLQ?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTFA2N2RkcHFENlVyS1pmUHRXNzZNcGlPeHJSRTFxMWtXQjFsOTM5OE9mbUV1R2Z1anhzYWlKUFRaT3Rja3Z3dGplWkhGUWhnZDA3OXl4WERjbndJMENoYTdVM1VsWTVPRkNYa2c4TmhDc20?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 제목을 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
     "generation_mode": "gemini"
   },
   "yesterday": {
@@ -2920,5 +2944,5 @@
     "newsletter_md": "# 📈 오늘의 경제 뉴스레터\n_2026-10-31 ~ 2026-11-06 이슈 · 발행 2026-11-06_\n\n🇰🇷 **국내 경제:** `코스피 급락` · `부동산 대출` · `국내 기업`\n🌐 **해외 경제:** `미국 연준(FOMC)` · `뉴욕증시(나스닥)` · `국제유가`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 반도체 쇼크와 블루웨이브, 흔들리는 코스피\n> 키워드: 코스피 급락\n\n**📌 무슨 일이 있었나**\n- 미국 반도체 시장의 부진을 뜻하는 이른바 반도체 쇼크 영향으로 코스피 지수가 3% 넘게 급락하며 시장 과열을 식히기 위한 매도 사이드카가 발동된 상황\n- 미국 대선에서 민주당이 압승을 거두는 블루 쓰나미 여파가 국내 증시를 덮치면서 삼성전자의 주가가 장중 한때 심리적 저지선인 20만 원 선 아래로 붕괴함\n- 미국 민주당의 데이터센터 관련 규제 강화 우려가 확산되면서 데이터센터 건설 중단 공포가 투자 심리를 급격히 위축시켜 코스피 지수의 하락세를 주도한 결과\n- 코스피와 코스닥 지수가 동반으로 5%대 이상의 기록적인 폭락세를 보였으며 대장주인 삼성전자는 7%, SK하이닉스는 9% 급락하며 반도체주 위주로 매도세 집중\n- 미국 정치 지형 변화인 블루웨이브 쇼크가 현실화되면서 국내 기술주 전반에 대한 외국인과 기관의 매도 물량이 한꺼번에 쏟아져 나오며 증시 변동성이 극대화된 국면\n\n**💬 핵심 Q&A**\n- **Q. 주가 급락 시 발생하는 반대매매는 개인 투자자에게 어떤 영향을 주는가?**\n  A. 반대매매는 빌린 돈으로 산 주식 가치가 일정 수준 이하로 떨어질 때 증권사가 강제로 주식을 파는 절차이다. 이는 추가적인 하락 압력을 가해 개인의 자산 손실을 키울 위험이 매우 크다.\n- **Q. 코스피가 급락하는 주요 원인을 무엇으로 분석해야 하는가?**\n  A. 주로 미국 대선 결과에 따른 정책 변화와 글로벌 반도체 업황의 불확실성이 복합적으로 작용한 결과이다. 대외 의존도가 높은 국내 시장 특성상 해외 변동성에 민감하게 반응할 수밖에 없다.\n- **Q. 블루웨이브라는 정치적 상황이 왜 국내 반도체주에 타격을 주는가?**\n  A. 민주당의 승리가 데이터센터 규제나 기업 증세로 이어질 것이라는 우려가 시장에 선반영되었기 때문이다. 기술 기업들의 비용 부담 증가가 예상되면서 반도체 수요 감소 우려가 확산된 결과이다.\n\n**👀 앞으로 볼 포인트**\n- 삼성전자의 20만 원 선 회복 및 지지 여부\n- 미국 민주당의 IT 및 데이터센터 규제 정책 구체화\n\n<sub>참고: [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XMXViSHZtQ2VKNUJCZmxKMkdpSHhLd3FsN0JjajBZREVSNWlYd3JRN01PaFBld0lHOVRhMUItcE1TZUNRajZMNHFFTzJZLWViSlVkX29CMXg4cUV5RGFmM2Z4aHhZWkU?oc=5) / [YTN](https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yclZtTTBPVjdzeEZlV3NMQzBYT2lvNjd3UlUyOGVacnJHTS1GX2hYNWtxMnBpREdzM3hrdDFLLWJDWjAwb3ZBeENrNlNQY0k3Vi1fU05JeUFWbXVzeFE?oc=5) / [인베스트조선](https://news.google.com/rss/articles/CBMigwFBVV95cUxNT0doOENSRER6eUhDYXA5UGtCbzVsTTNXVENUWTl2UE5hYU5Rc194VmNUMzVYSmswVm1sODRqUjNJdHJGc0RFN08wc1hwbzliS3JqdTJoQUQxd09rQTdUSDZKNFlucElvWFU1WlRKZGVWYmVvQ0pxemxIVFUwTjl2VjF2RQ?oc=5)</sub>\n\n---\n\n### 2. 꽁꽁 묶인 대출 규제와 서울 아파트 거래절벽\n> 키워드: 부동산 대출\n\n**📌 무슨 일이 있었나**\n- 정부의 강력한 부동산 대출 규제 기조 속에서 정치권 일각에서는 비판을 받더라도 현재의 규제 강도를 늦추지 않고 유지해야 한다는 강력한 목소리가 나오는 상황\n- 서울 등 수도권 아파트 매매 시장에서 대출 규제 강화와 금리 인상 여파가 겹치면서 거래가 급감하는 이른바 거래절벽 현상이 현장에서 본격적으로 나타나기 시작함\n- 고가 아파트 구매 시 대출 한도를 결정하는 기준이 실제 매매가가 아닌 감정가로 설정되면서 14억 원 아파트의 대출 가능액이 4억 원에 그치는 등 실효성 논란 발생\n- 일본 금융 시장 내에서도 부동산으로 대출이 과도하게 쏠리는 현상이 포착되면서 과거 버블 경제 붕괴와 같은 위기가 재발할지 정부 차원의 노심초사 분위기 형성\n- 인터넷 전문은행들이 정부의 대출 재개 신호를 기다리며 빗장을 풀지 고민하고 있으나 가계대출 관리 강화 기조에 밀려 실제 대출 공급 여력이 제한적인 흐름 지속\n\n**💬 핵심 Q&A**\n- **Q. 부동산 대출 한도를 결정하는 감정가와 매매가는 어떻게 다른가?**\n  A. 매매가는 실제 시장에서 거래되는 금액이고 감정가는 전문 기관이 공식적으로 평가한 가치이다. 대출 기준이 감정가로 묶이면 실제 필요한 자금보다 대출액이 훨씬 적게 나올 수 있어 주의가 필요하다.\n- **Q. 현재의 대출 규제가 내 집 마련 계획에 어떤 영향을 끼치는가?**\n  A. 대출 한도가 줄어들고 금리가 높아지면 실질적인 주택 구매력이 대폭 낮아지는 결과를 초래한다. 자금 조달 계획을 세울 때 보수적인 접근과 철저한 이자 부담 계산이 필수가 된 시점이다.\n- **Q. 정부가 대출 규제를 지속적으로 강화하려는 이유는 무엇인가?**\n  A. 가계 부채의 급격한 증가를 막고 부동산 가격 거품을 억제하여 시장 안정을 꾀하기 위함이다. 금융 시장의 건전성을 확보함으로써 잠재적인 경제 위기를 선제적으로 차단하려는 목적이 크다.\n\n**👀 앞으로 볼 포인트**\n- 가계대출 금리의 추가 인상 및 인터넷 은행 대출 재개 시점\n- 수도권 아파트 거래량 회복 및 매수 심리 변화 추이\n\n<sub>참고: [주간조선](https://news.google.com/rss/articles/CBMiakFVX3lxTE85RlRaQi1pR1dYUGUtX2h5SlpXbnluUm44cmM4Q0hDSjdiV3I1NlJxcDBERC0yM1I0SUZnVm9xbHlxTTY1ZkRVV3pVZ05JTjhQTE1GOV9Ta0ZxZkYxQW9rQ1R3eXF4N3JXWEHSAW5BVV95cUxPOGZGV2JpeDlDejhKcEtMNFN4Y3A2Vnd3b3NKNms3OWJMNWlWVDcxMXN1bVBMNHNMQVJRdGptTzROa0RnLU91U1NGR19KQVptaTluR1pOS2o5bG16blUtQ3Rzb1VaWjZvaThLUkNqUQ?oc=5) / [뉴스1](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BRFc4bW5scHEzOEVfazBEaXZraXA2bWlZVnVtTl9IM1VIZEVWc1R6YTY5UDZ4Y1A3M09XdjA4Ty1qVEExQmxhS0pOR0xBQW8xbUJWTmQ4LUNrVE0?oc=5) / [한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FT2I0QkR4WTVlVGEzZThDUmNPWVdlRmE4S3NiYURDZUlzZGFDdmwtM2lzbkUydjA1SFFHNGFnTEJ2WjllbDVYR0FYYjYwbEZLTlYxeF91WGw5QQ?oc=5)</sub>\n\n---\n\n### 3. 미 군함 건조부터 AI 가드레일까지, 국내 기업 행보\n> 키워드: 국내 기업\n\n**📌 무슨 일이 있었나**\n- 한화가 국내 기업으로서는 최초로 미국 군함 건조 사업에 직접 참여하며 방산 분야에서 글로벌 경쟁력을 증명하고 북미 시장 진출의 역사적인 교두보를 마련함\n- 정부가 국내 생산세액공제 혜택을 받지 못하는 적자 기업에 직접 보조금을 지급하는 정책의 도입 여부에 대해 아직 구체적으로 결정된 바가 없음을 공식적으로 밝힘\n- 국내 보안 및 솔루션 기업들이 인공지능 기술의 안전한 활용을 위한 AI 가드레일 시장에 진출하며 기업용 AI 통제 기술 선점과 신시장 확보를 위해 발 빠르게 움직임\n- 한국에너지공단 주관으로 국제감축사업 협력의 장이 열려 국내 주요 기업들과 투자기관들이 한자리에 모여 기후 위기 대응 및 글로벌 수소 비즈니스 협력 방안 논의\n- 국내 기업이 자체 개발한 반도체 환경 설비를 경기도 평택 사업장에서 실증하며 반도체 제조 공정의 친환경화와 핵심 장비의 국산화 성공 가능성을 한층 높인 사례\n\n**💬 핵심 Q&A**\n- **Q. 국내 기업들이 AI 가드레일 시장 진출에 공을 들이는 이유는 무엇인가?**\n  A. AI 활용이 늘어남에 따라 보안과 윤리적 통제의 중요성이 전 세계적으로 커지고 있기 때문이다. 이 시장을 선점하면 향후 강화될 글로벌 AI 규제 속에서 기술적 우위를 점할 수 있다.\n- **Q. 적자 기업에 대한 직접 보조금 지급 정책은 왜 논란이 되는가?**\n  A. 전략 산업의 경쟁력 유지에는 도움이 되지만 세금 낭비나 시장 원리 왜곡이라는 비판이 뒤따를 수 있기 때문이다. 정부는 아직 확정된 바가 없다며 신중한 검토 입장을 보이고 있다.\n- **Q. 한화의 미국 군함 건조 참여는 경제적으로 어떤 의미를 갖는가?**\n  A. 한국 조선 기술이 세계 최고 수준임을 입증하며 방산 수출의 영토를 넓힌 성과이다. 이는 향후 미국 국방부와의 지속적인 대규모 수주 협력 가능성을 열어둔 것으로 평가받는다.\n\n**👀 앞으로 볼 포인트**\n- 적자 기업 대상 직접 보조금 지급 정책의 최종 확정 여부\n- 글로벌 수소 비즈니스 시장 내 국내 기업의 실질적 점유율\n\n<sub>참고: [경향신문](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CeGM4T1JhZ3p5SndKTGN2X0tCTlFuSDJWd1lVZExfblNqRmRQSWdVUElMWGY3QVpBeUFvZnVocms0Q3FRemdkSmVweHNpcFZyc3VlR2ZjOWZxZ9IBX0FVX3lxTE1aXzBJRUVXNU1RSkNpTEs3alVFVlJ6eFEwM3dnTkgyV0dlaGFjcVJJUFo1MmxkSFpDNWR5aDQwQm5uVW5EeGNKTkM1Mnp4al96MlVjNlBQVUhmUWN4R0NN?oc=5) / [대한민국 정책브리핑](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLWU3R252VFVMTmhCYjRoTS13ZVFSU3ZUOXVLT0tQNlAwLV9LTHhFNEJIaEFkSmQ1X0ZIZmxKZG1TYTU3WnAwa01TaFhxVGRNTFBqMGZUYXNlUGkyc29rMTNxLVVEdDZGZUFDck9Jb1ItSHZFaWE5YzhSWDRZTm0zc0MwLTh0aU5S?oc=5) / [AI타임스](https://news.google.com/rss/articles/CBMiakFVX3lxTE1hUzhWczAtVlJ1Mll4RW9Vam9oNGVpdExlMmZMNzhERXBaWDBmTW1XMFFsNUp2RmZCd1FuVTNrN25pWXB3M3B6Zm1SbUNmNjVmbkpUZzhhLU5mcU94aXJnY0F4Tm84b0F6X0E?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 금리 동결에도 여전한 긴축 압박과 연준의 고민\n> 키워드: 미국 연준(FOMC)\n\n**📌 무슨 일이 있었나**\n- 미국 연방준비제도가 기준금리를 동결했음에도 불구하고 위원들 사이에서 여전히 추가 긴축이 필요하다는 매파적 목소리와 작고 잦은 조정 선호 의견이 동시에 제기됨\n- 금리 동결 조치에도 불구하고 시중 가계의 이자 부담은 줄어들지 않고 여전히 높은 수준을 유지하고 있어 소비자들의 실질적인 경제적 고통이 가중되는 현상 지속\n- 미 달러화 가치가 연준의 금리 동결 결정에도 불구하고 강세 전망을 유지하며 글로벌 금융 시장 내 안전 자산 선호와 달러 우위 현상이 당분간 지속될 것으로 예측\n- 정례 금리 결정 횟수가 줄어드는 가운데 시장에서는 연준이 예고 없이 갑작스럽게 금리를 인상할 수 있다는 불확실성에 대비해야 한다는 경계심이 투자자들 사이에 확산\n- 12월 추가 금리 인상 가능성이 대두되면서 금리가 내리기 전 높은 수익률을 확보하려는 투자자들이 미국 10년물 국채 ETF로 자금을 집중시키는 투자 행태 포착\n\n**💬 핵심 Q&A**\n- **Q. 금리는 동결되었는데 왜 가계의 이자 부담은 여전히 높은 수준인가?**\n  A. 기존에 이미 많이 오른 금리가 대출 상품에 반영되어 있고 연준이 여전히 긴축 기조를 유지하고 있기 때문이다. 기준금리가 실제로 인하되지 않는 한 이자 비용 감소를 기대하기는 어렵다.\n- **Q. 투자자들이 최근 미국 국채 ETF에 큰 관심을 가지는 이유는 무엇인가?**\n  A. 현재의 높은 금리 수준이 정점이라고 판단하여 향후 금리 하락 시 채권 가격 상승에 따른 매매 차익을 기대하기 때문이다. 또한 경기 불확실성에 대비한 안전 자산 확보 목적도 있다.\n- **Q. 연준 위원들이 언급한 작고 잦은 조정은 시장에 어떤 의미인가?**\n  A. 경제에 급격한 충격을 주지 않으면서 물가를 잡기 위해 금리를 미세하게 자주 조정하겠다는 전략이다. 이는 정책의 유연성을 높이려는 의도이나 시장의 예측 가능성은 낮아질 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 12월 FOMC 회의에서의 추가 금리 인상 여부 확정\n- 미국 소비자 물가 지수 변화에 따른 연준 위원들의 입장 변화\n\n<sub>참고: [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoSlJwM0V6SkZOVUVnVWh6Ql92bG5DbUFqUXpfemR0eXlyZW0wYjEwT09YcjFTNVBTR1M4c1ZBT1VBV19nZGt5MGhyVHk2bXQ3YThOSEx1eGlkRlHSAWBBVV95cUxOYWRFMmQ2RUZBbzJ6RlNqbEVYSUpFcHRyQlFSbHJvdERXZ2o0NHF5VG9ONHBEcFR2aERNNFlpQ0xMUjFCMUtoVjN1X1NXWEx2cWpJdzJZdjFwOXJzWGFrcGc?oc=5) / [뉴스앤포스트](https://news.google.com/rss/articles/CBMib0FVX3lxTFBaVEFMMzZmR1pxbkdIVkJCdy0ySGZLS3RNZU1iRFpsWEdfak5qcGZLQkFRc2hmMmN0cm5NbWpyWkhNS21vdDI4Uk1SSjRPTVZua05PSG5GdGp1M1JJUWdPVHlia1BKVkxhRFBFemNuSQ?oc=5) / [네이버 프리미엄콘텐츠](https://news.google.com/rss/articles/CBMikgFBVV95cUxPbTdGUk1GMXlFcWlIZDNuRHQ5SmtaVVBPTVRIeFNuUnhENndCR1daQU56R0dQU080UDM0RDhsMXAxeDQ1M2dkVFBmSTZVZ0ZUTnZYZ3lROTdOQzBCczc2V29PQUtXV0hVTTVWTUttZ2pNQjFRYzFFRjBUNVhJbHVVeWNVMllTX0Fyc2I2alJHaVQyZw?oc=5)</sub>\n\n---\n\n### 2. 기술주 투매와 블루 쓰나미, 나스닥의 기록적 급락\n> 키워드: 뉴욕증시(나스닥)\n\n**📌 무슨 일이 있었나**\n- 뉴욕증시가 상승세를 이어가지 못하고 급격히 하락 반전하며 나스닥 지수가 장중 4% 이상 폭락하는 등 본격적인 시장 조정 국면에 진입한 것으로 공식 분석됨\n- 미국 대선 결과 블루 쓰나미가 현실화되면서 인공지능 관련 기업들에 대한 규제가 대폭 강화될 것이라는 공포가 확산되어 나스닥 지수가 3%대 급락세를 기록한 상황\n- 기술주를 중심으로 한 대규모 매도세가 확대되면서 인텔 주가가 하루 만에 29%나 폭락하는 등 주요 반도체 및 대형 IT 기업들의 주가가 일제히 하락하며 마감함\n- 나스닥 지수가 장중 한때 5.5%까지 떨어지는 극심한 변동성을 보이며 투자자들 사이에서 기술주에 대한 투매 현상이 발생해 시장의 불안감이 최고조에 달한 국면\n- 블루웨이브 쇼크로 인한 규제 우려와 실적 부진에 대한 근심거리가 겹치면서 반등의 실마리를 찾지 못한 채 나스닥 지수가 하락 압력을 매우 강하게 받는 중임\n\n**💬 핵심 Q&A**\n- **Q. 뉴욕증시와 나스닥은 구체적으로 어떤 차이가 있는가?**\n  A. 뉴욕증시는 뉴욕증권거래소와 나스닥을 모두 포함한 미국 증시 전체를 일컫는 말이다. 나스닥은 그중에서도 IT, 바이오 등 첨단 기술 기업들이 주로 상장된 특정 시장을 의미한다.\n- **Q. 나스닥 지수가 5% 넘게 급락한 것이 국내 개인 투자자에게 어떤 영향을 주는가?**\n  A. 글로벌 증시의 동조화 현상으로 인해 국내 반도체나 IT 관련 주가도 함께 하락할 가능성이 매우 높다. 미국 기술주의 부진은 국내 수출 기업들의 주가에도 부정적인 신호로 작용한다.\n- **Q. 최근 기술주 투매 현상이 일어나는 근본적인 이유는 무엇인가?**\n  A. 금리 인상 압박과 새로운 정책 규제 우려로 인해 미래 수익에 대한 불확실성이 커졌기 때문이다. 투자자들이 위험 자산인 기술주에서 자금을 회수하여 안전한 곳으로 옮기려는 움직임의 결과이다.\n\n**👀 앞으로 볼 포인트**\n- AI 기업에 대한 미국 정부의 실제 규제 법안 발표 내용\n- 인텔 등 주요 빅테크 기업들의 기술적 반등 시점 및 실적 발표\n\n<sub>참고: [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rUF9wVHpjMlAwcTZnNGpfMlNQenFwX1dVSjExRm90aHlwMGduM2hKS2VBYTd3eDByeXZmLUt6V1NmRmUwZHhJZGVfUmZyME82OUN4U2t0MmhBQWfSAWBBVV95cUxONmlGcld3ZnNzRFVwdXROT05nOU1vVHp2Zk55NGllSG5yc1F6WWRrUndWMWVfdVpqY2VrLU9ybUdTVjc5MHA0el9PVlliTXozR3RPMWtBQUtWTVB1Q2dmM1Q?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE1nTkhNWmpPNk9EZTVSTG5FZUZqdmxaNVNDc1FES2xfOC1jQ0txMjd1MXFzOEdPb1ExNzlQUEswY0JWWFlsNUNsV1hyWTNPcVZYcGhzcXhZdk0wcm16a0EySkk3WEp0SFBzOGlrMlZvMV8?oc=5) / [Chosunbiz](https://news.google.com/rss/articles/CBMingFBVV95cUxNcDlJV29xZmh5aklWb2FsV3dQODV1cE9Rck5wMk5KcmMyNFZtNEJ1b2dZZy1kYVpUbHVXM1J1RXZlZ2VOd3RsLVBFOFN5SlRBTFhNZ1F2a1ZTWGtiTzBrT19PeEttUDVWWkotWkJzbVJSak5xUmU2SE5BSGJIQkZxclJna0ZVZnhJeThvRzhJT0RVSmlxY3Vzc0NpZ05mQdIBsgFBVV95cUxNTTFaQnZrbVlRcnNqRk10clljVmpNVVg3QlN1SmVnMkZ2WHdha3c0YUo2TEh2T3FaYUU5b0RvakFPc25ERC1LSk9iVUY5N0gzWVhUVFBVRmJuZmh6elBGc1kxbmZGWHNlaldReExVWF9qUVlZbjBkbWtna3Z1cHh1RGtwZm5oQkFsa3E4SVhma2VlRlkzaVJwaEpVbWE0TVNIMXhXNFhZLXR1U01mOTBuN2Fn?oc=5)</sub>\n\n---\n\n### 3. 종전 기대감에 8% 폭락한 유가와 에너지 시장\n> 키워드: 국제유가\n\n**📌 무슨 일이 있었나**\n- 미국 민주당이 의회를 장악하며 전쟁 종식에 대한 기대감이 급격히 커지자 국제유가가 하루 만에 8% 넘게 폭락하며 글로벌 에너지 시장에 커다란 충격을 준 상황\n- 미국과 이란 사이의 협상 타결과 종전 기대감이 시장에 즉각 반영되면서 서부 텍사스산 원유 가격이 배럴당 96달러 선까지 떨어지는 등 기록적인 하락세를 기록함\n- 민주당의 압승이 이란과의 전쟁 위협을 낮추고 원유 공급 불안을 해소할 것이라는 전망이 지배적으로 작용하며 원유 선물 시장에서 대규모 매도 물량이 쏟아진 결과\n- 이전에는 미국과 이란 간의 확전 우려가 지속되면서 브렌트유 가격이 지난 4월 이후 최고치를 경신하는 등 에너지 가격이 2%대 급등하며 불안한 흐름이 지속됨\n- 전쟁 종식 가능성이라는 대형 호재가 시장에 반영되면서 국제유가가 폭락세를 보임에 따라 고물가 압박을 받던 글로벌 경제에 다소 숨통이 트일 것이라는 낙관적 전망\n\n**💬 핵심 Q&A**\n- **Q. 국제유가가 급락하면 우리 실생활 물가는 어떻게 변하는가?**\n  A. 휘발유와 경유 가격이 시차를 두고 내려가며 물류 비용 감소로 인해 전반적인 물가 안정에 도움을 준다. 다만 주유소 판매 가격에 실제 반영되기까지는 보통 2~3주의 시간이 소요된다.\n- **Q. 유가 뉴스에서 자주 보이는 WTI와 브렌트유는 무엇을 의미하는가?**\n  A. WTI는 미국 서부 지역에서 생산되는 원유이고 브렌트유는 북해에서 생산되는 원유를 뜻한다. 각각 북미 시장과 유럽·아시아 시장의 원유 가격을 결정하는 핵심 지표로 활용된다.\n- **Q. 미국과 이란의 종전 기대감이 왜 유가 하락의 직접적인 원인이 되는가?**\n  A. 중동의 지정학적 위험이 사라지면 원유 공급이 원활해질 것이라는 기대가 커지기 때문이다. 공급 과잉 가능성이 제기되면서 가격을 떠받치던 위험 프리미엄이 빠르게 빠지게 된다.\n\n**👀 앞으로 볼 포인트**\n- 미국과 이란 간의 실제 협상 진전 및 공식 합의 발표\n- 국제유가의 배럴당 90달러 선 유지 여부 및 공급량 변화\n\n<sub>참고: [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YcllzbEZ4bk5NYzFKQWFWall0cnlvRTVCcjdqWkp1Ul9oR0RDY01lMkZFX1VJOW1BenFZNTd5MXE4dkw4RVpCTFFaakJDbmVPMHJQdDNZRlBvU0VGYnliX1R6ZG1KTlU?oc=5) / [KBC광주방송](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Qc2V3T2tGQmt5cEU3aTE3RDdVUzBxc2Z1T0ZndmxGWGdfd0pBTWVxX0pGSWlzTzdKS3dHNUFUbGpsNUdlRVIwc1ROS3ZKQmRhQ0NWRmRfakNXMldwMnRfRA?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1STZkazhIMFFrNFQ0TFNPT2RiSTJjc25GUklCU19WV0R3RmVEZlJ0eWg2UlA5bjc5OE4wZWRiZDFuQ3BTd2VxZzVWZzduNW5Mbl9rRXBPNVJWME3SAWBBVV95cUxNTXhGemdWcklsTHJxTU81N0U4aERmQ0h3UmdjZ2ExeWtfTnN6amVLa3VtRFRKNTlhdXFEMHFqUGNVSHBLT3U0N25UV0FmSkpENXF5dklqb0pOeVoyR1VVN3Y?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 제목을 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
     "generation_mode": "gemini"
   },
-  "updated_at": "2026-11-06 17:18:10 KST"
+  "updated_at": "2026-11-06 19:00:47 KST"
 }
