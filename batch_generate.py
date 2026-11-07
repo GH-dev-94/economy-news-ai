@@ -165,19 +165,22 @@ def run_batch(only=None):
         else:
             targets = only
     else:
-        # 스마트 자동 판단:
-        # 어제 날짜(yesterday.start_date)가 실제 어제(yesterday_dt)와 다르면 (새로운 날 시작 시)
-        # 하루 1회 전체(today, yesterday, week) 갱신.
-        # 그 외 장중 2시간마다의 주기 실행은 Gemini API 무료 쿼터(20회/일) 절약을 위해 'today'만 집중 갱신!
+        # 스마트 4시간 주기 자동 판단 (KST 기준):
+        # 1. 00시대(새벽 00:00~00:59) 실행이거나, 날짜가 바뀌어 어제 날짜가 일치하지 않는 경우:
+        #    -> '어제'와 '지난 일주일', 그리고 '오늘' 전체(today, yesterday, week)를 갱신
+        # 2. 그 외 시간(04시, 08시, 12시, 16시, 20시 등):
+        #    -> API 쿼터 절약 및 최신성 유지를 위해 '오늘(today)' 뉴스만 갱신
         prev_yesterday = output.get("yesterday", {}).get("start_date")
         expected_yesterday = f"{yesterday_dt:%Y-%m-%d}"
         has_all_keys = all(k in output for k in ["today", "yesterday", "week"])
+        is_midnight_slot = (now.hour == 0)
 
-        if not has_all_keys or prev_yesterday != expected_yesterday:
-            print(f"[스마트 주기] 새 날짜 감지(기존: {prev_yesterday} -> 현재: {expected_yesterday}) -> 전체(today, yesterday, week) 갱신")
+        if not has_all_keys or prev_yesterday != expected_yesterday or is_midnight_slot:
+            reason = "자정 00시 정기 풀 갱신" if is_midnight_slot else f"새 날짜/초기 상태 감지(기존: {prev_yesterday} -> 현재: {expected_yesterday})"
+            print(f"[스마트 주기] {reason} -> 전체(today, yesterday, week) 갱신")
             targets = ["today", "yesterday", "week"]
         else:
-            print(f"[스마트 주기] 당일 주기 갱신 -> API 무료 쿼터 절약을 위해 'today' 집중 갱신")
+            print(f"[스마트 주기] 당일 4시간 간격 갱신 (현재 시각: {now.hour}시) -> 'today'만 집중 갱신")
             targets = ["today"]
 
     print(f"=== [경제 뉴스 AI 배치 생성 시작] ===")
