@@ -5,98 +5,108 @@
     "end_date": "2026-11-07",
     "domestic": {
       "keywords": [
-        "코스피 급락세",
-        "강남3구 집값 하락",
-        "서학개미 미주식 매수"
+        "코스피 폭락과 서학개미",
+        "서울 집값 및 주택공급",
+        "국내 기업 실적 발표"
       ],
       "results": {
-        "코스피 급락세": {
-          "headline": "검은 금요일 맞은 코스피 6% 폭락",
+        "코스피 폭락과 서학개미": {
+          "headline": "국내 증시 추락에 서학개미 미국행",
           "facts": [
-            "7일 국내 증시에서 코스피가 블루웨이브 발 AI 공포 여파로 전 거래일 대비 6% 넘게 급락하며 5,000선 턱걸이로 마감한 상황.",
-            "이날 급락세로 인해 코스피는 약 9개월 만에 장중 5,000선 아래로 내려앉으며 투자자들에게 큰 충격을 안겨준 모습.",
-            "미국 AI 기업들의 실적 우려와 정치적 불확실성이 겹치면서 국내 증시의 변동성을 키우고 투자 심리를 급격히 위축시킴.",
-            "증권가에서는 1만 포인트를 갈 수 있다는 장기 전망과 단기 급락세 사이에서 다양한 분석과 전망을 내놓고 있는 중.",
-            "국내 증시의 가파른 하락세를 피하고자 많은 개인투자자들이 미국 주식 시장으로 대거 자금을 이동시키는 현상이 나타남."
+            "국내 증시의 극심한 부진과 환율 하락이 겹치면서 일주일 사이에 서학개미들이 미국 주식 약 3조 원을 대거 순매수한 것으로 나타남.",
+            "국내 대표 종목인 삼성전자와 SK하이닉스 등이 큰 폭으로 폭락하면서 주식을 매도하지 못한 투자자들이 패닉 상태에 빠진 상황임.",
+            "국내 증시를 피해 미국 시장으로 넘어간 서학개미들이 테슬라와 엔비디아 등 주요 기술주마저 폭락을 겪으면서 이중고에 직면함.",
+            "국내 주식시장의 하락세 지속과 환율 변동성 확대가 맞물리면서 개인 투자자들의 해외 자산 이동 현상이 한층 더 가속화됨.",
+            "투자자들이 국내 증시의 부진을 탈출하기 위해 미국 주식 집중 매수에 나섰으나 글로벌 빅테크 주가 하락으로 추가 손실 우려가 큼."
           ],
           "watch": [
-            "5,000선 지지 여부와 외국인 순매도 흐름 파악",
-            "미국 AI 관련 기업들의 추가 실적 발표 주시"
+            "국내 주요 반도체 주가 반등 여부",
+            "미국 빅테크 주가 변동성과 환율 추이",
+            "개인 투자자들의 추가 해외 송금 규모"
           ],
           "qna": [
             {
-              "q": "국내 증시가 이렇게 급락하면 내 자산에는 어떤 타격이 있는가?",
-              "a": "국내 주식형 펀드나 직접 투자한 종목의 평가 손실이 발생할 수 있다. 다만 감정에 휩쓸려 무작정 매도하기보다 포트폴리오를 점검하는 신중함이 필요하다."
+              "q": "국내 증시가 떨어지면 왜 환율도 함께 고려해야 하는가?",
+              "a": "환율 하락은 원화 가치가 강세임을 뜻하며 환전 비용이나 환차손에 영향을 준다. 따라서 해외 주식 투자 시 환율 변동에 따른 수익률 변화를 함께 계산해야 한다."
             },
             {
-              "q": "기사에서 언급된 블루웨이브란 정확히 무엇을 뜻하는가?",
-              "a": "미국 민주당이 백악관과 상하원을 모두 장악하는 정치적 상황을 의미한다. 이러한 구도가 규제 강화로 이어져 기술주에 악영향을 줄 것이란 공포가 확산했다."
+              "q": "서학개미들이 테슬라나 엔비디아 같은 종목에 몰리는 이유는 무엇인가?",
+              "a": "국내 증시의 성장 정체와 실망감으로 인해 상대적으로 유동성이 풍부하고 성장성이 높다고 평가받는 미국 대표 기술주로 자금이 집중되는 것이다."
             },
             {
-              "q": "지수가 5,000선까지 무너졌는데 지금이라도 주식을 다 팔아야 하는가?",
-              "a": "단기 급락에 따른 공포로 손절매를 서두르기보다는 시장의 변동성 원인을 차분히 분석해야 한다. 개인의 투자 성향에 맞춘 리스크 관리가 우선이다."
+              "q": "삼전닉스 폭락으로 패닉에 빠진 개미들이 지금 취할 수 있는 현실적 대응은 무엇인가?",
+              "a": "단기적인 주가 급락에 따른 공포감으로 무리한 매도나 빚투 청산을 하기보다 기업의 펀더멘털과 자산 배분 상황을 차분히 점검하는 태도가 필요하다."
             }
           ]
         },
-        "강남3구 집값 하락": {
-          "headline": "강남3구만 내린 서울 집값의 진실",
+        "서울 집값 및 주택공급": {
+          "headline": "서울 집값 양극화와 주택공급 전망",
           "facts": [
-            "최근 서울 아파트 시장에서 성북구 등이 상승률 1위를 기록한 반면 강남 3구는 최하위권에 머무는 이례적인 현상이 포착됨.",
-            "강남권에서는 일부 급매물이 35억 원 가량 뚝 떨어지는 하락 거래가 발생하며 시장 안정 기조를 뒷받침하는 모습.",
-            "부동산 통계에 따르면 강남 3구 집값은 9주째 하락세를 기록하고 있으며 11월 4만 가구 공급을 앞두고 있음.",
-            "대통령이 연일 집값 하락 안정을 언급하는 가운데 강남만 내린 서울 집값 통계를 두고 정부의 섣부른 판단이라는 지적이 나옴.",
-            "일각에서는 강남이 내리는 동안 다른 지역의 집값이 3억 5천만 원이나 뛰는 등 양극화 현상이 더욱 심화되는 양상."
+            "서울 강남 3구 아파트 가격이 9주째 하락세를 기록하는 동시에 11월에 약 4만 가구 규모의 주택 공급이 예정된 상태임.",
+            "홍지선 국토교통부 장관이 수도권 주택 공급의 80퍼센트를 담당하는 민간 부문의 역할 중요성을 강조하며 지원 방침을 밝힘.",
+            "낮은 집값 수준만으로는 주택 수요를 흡수하기 어렵기 때문에 외곽 지역의 미분양 해법으로 정주 경쟁력 강화가 대두됨.",
+            "서울 내 일부 지역은 집값이 하락하는 반면 외곽 지역은 상승하면서 서울 아파트 가격의 100주 연속 상승 현실화 가능성이 거론됨.",
+            "부동산 시장 전반의 침체 우려와 함께 분양 전망에도 먹구름이 드리우면서 수도권 주택 시장의 지역별 양극화가 심화함."
           ],
           "watch": [
-            "11월 서울 지역 4만 가구 공급 물량의 실제 영향",
-            "강남 3구 하락세가 서울 타 지역으로 확산하는지 여부"
+            "강남 3구 하락세 지속 여부",
+            "11월 수도권 4만 가구 공급 실적",
+            "외곽 지역 미분양 해소 방안 추진"
           ],
           "qna": [
             {
-              "q": "강남 집값만 떨어진다면 무주택자의 내 집 마련 기회가 온 것인가?",
-              "a": "강남 3구의 가격이 주춤하고 있으나 여전히 진입 장벽이 높고 다른 지역은 오르는 곳도 있다. 따라서 실수요자는 자금 계획을 보수적으로 세워야 한다."
+              "q": "강남 집값은 떨어지는데 외곽 집값은 오르는 양극화 현상이 내 자산에 어떤 영향을 미치는가?",
+              "a": "지역별로 수요가 갈리는 차별화 장세가 지속됨을 의미한다. 따라서 거주지와 투자 목적에 따라 자산 포트폴리오를 다르게 구성해야 할 필요성이 커진다."
             },
             {
-              "q": "통계에 나오는 강남 3구는 구체적으로 어떤 지역들을 말하는가?",
-              "a": "서울의 강남구, 서초구, 송파구를 통칭하는 표현이다. 부동산 시장에서 고가 주택 밀집 지역의 선행 지표 역할을 주로 담당한다."
+              "q": "부동산 시장에서 정주 경쟁력이란 정확히 무엇을 뜻하는가?",
+              "a": "교통, 교육, 문화, 편의시설 등 거주민이 일상생활을 영위하는 데 필요한 종합적인 정주 여건의 우수성을 의미한다. 단순히 집값이 낮다고 해서 수요가 몰리지 않는 이유를 설명하는 개념이다."
             },
             {
-              "q": "정부의 시장 안정 기대와 실제 체감 경기 사이에 차이가 나는 이유는 무엇인가?",
-              "a": "일부 지역의 하락세만 부각되었을 뿐 서민들이 느끼는 주거 비용이나 타 지역 상승 압박은 여전하기 때문이다. 시장을 단편적으로 보기보다 종합적으로 해석해야 한다."
+              "q": "민간 주도가 강조되는 수도권 주택 공급 정책이 향후 분양가에 미칠 영향은 어떻게 봐야 하는가?",
+              "a": "민간 참여 확대는 신규 물량 공급을 원활하게 할 수 있지만 사업성과 공사비 등의 변수에 따라 분양가 조정 폭이 달라질 수 있으므로 개별 단지의 분양 조건을 면밀히 살펴야 한다."
             }
           ]
         },
-        "서학개미 미주식 매수": {
-          "headline": "국장 떠나 미장으로 향한 서학개미 3조",
+        "국내 기업 실적 발표": {
+          "headline": "국내 기업 실적과 AI 쏠림 현상",
           "facts": [
-            "국내 증시가 급락세를 보인 11월 첫 주 동안 서학개미들이 미국 주식을 3조 원 가까이 폭풍 매수한 것으로 집계됨.",
-            "국내 장의 부진과 폭락에 실망한 투자자들이 대거 이탈하여 미국 증시로 자금을 빠르게 이동시키는 양상을 보임.",
-            "일주일이라는 짧은 기간 동안 사상 최대 수준에 달하는 3조 원이라는 막대한 자금이 미국 주식 매수에 쏠림.",
-            "YTN과 연합뉴스 등 주요 언론들도 국내 증시 급락장 속에서 미국 주식으로 달려간 투자자들의 행보를 집중 보도함.",
-            "이러한 해외 주식 투자 열풍은 국내 자본 유출 우려와 함께 개인투자자들의 투자처 다변화 현상을 동시에 보여줌."
+            "급락세를 겪은 코스피 시장의 투자자 시선이 미국 인공지능 기업들의 실적 발표 결과로 집중되고 있는 상황임.",
+            "AI 반도체 관련 기업들이 높은 성장을 기록하고 아이폰 관련 실적도 신기록을 세우며 어닝시즌의 주요 승자로 부각됨.",
+            "증권사들의 3분기 실적이 유가증권 운용 손익에 따라 큰 희비가 엇갈리는 등 금융업권 내에서도 차별화가 나타남.",
+            "유통업계에서는 김장 할인전과 빼빼로데이 등 주요 이벤트와 함께 관련 기업들의 실적 발표가 예정되어 있음.",
+            "검은 한 주를 보낸 코스피가 반등하기 위한 핵심 열쇠로 미국 AI 실적과 물가 지표가 결정적인 변수로 작용함."
           ],
           "watch": [
-            "서학개미의 미 주식 순매수세가 지속될지 여부",
-            "환율 변동이 해외 투자 수익률에 미치는 영향"
+            "미국 AI 기업 실적 발표 결과",
+            "국내 주요 증권사 운용 손익 추이",
+            "미국 물가 지표(CPI·PPI) 발표"
           ],
           "qna": [
             {
-              "q": "국내 주식을 팔고 미국 주식으로 갈아타면 내 자산 안전성에 어떤 변화가 생기는가?",
-              "a": "기초 자산이 달러로 바뀌기 때문에 환율 변동 리스크에 노출된다. 무조건적인 수익을 보장하지 않으므로 환율 추이를 함께 고려해야 한다."
+              "q": "국내 기업 실적 발표 캘린더는 어디서 확인하고 어떻게 활용해야 하는가?",
+              "a": "증권사 HTS나 금융 정보 플랫폼의 실적 발표 일정을 통해 확인한다. 주요 기업의 실적 발표 시기를 미리 파악하면 예상치 못한 주가 변동성에 대비하는 데 도움이 된다."
             },
             {
-              "q": "서학개미라는 용어는 정확히 어떤 투자자들을 지칭하는 말인가?",
-              "a": "국내 주식 시장 대신 미국의 대형 기술주나 해외 주식에 직접 투자하는 국내 개인투자자들을 뜻하는 신조어이다."
+              "q": "미국 AI 기업의 실적이 왜 국내 코스피 지수에 큰 영향을 미치는가?",
+              "a": "국내 대형 반도체 기업들이 글로벌 AI 밸류체인에 깊게 연동되어 있기 때문이다. 미국의 AI 실적이 부진하면 국내 반도체 수출과 관련 주가도 동반 하락하는 경향이 크다."
             },
             {
-              "q": "모두가 미국 주식을 산다고 해서 나도 따라 사는 것이 현명한 판단인가?",
-              "a": "군중심리에 휩쓸린 묻지마 투자는 큰 손실로 이어질 수 있다. 자신의 투자 목적과 위험 감수 능력을 먼저 점검하는 태도가 필요하다."
+              "q": "증권사들의 3분기 실적이 운용손익에 따라 갈렸다는 것은 투자자에게 무엇을 시사하는가?",
+              "a": "전통적인 브로커리지 수수료 수익 외에도 시장 상황에 따른 자기자본 투자 및 유가증권 운용 능력이 증권사 실적의 핵심 변수임을 보여준다."
             }
           ]
         }
       },
       "news": {
-        "코스피 급락세": [
+        "코스피 폭락과 서학개미": [
+          {
+            "title": "코스피 급락에 서학개미 미국행 가속…일주일 새 3조원 순매수 - 산경투데이",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1EYnFMSVB4bVFrVTdQX0JPQUYtczUyVnNvZ2g3bUlKT19uMG9UNG1PRXpsUGh2ME53akQ4UXRoRVdrSGNwV0RzcURDc2pycjY0blRvckUtUVdEd2xXMkk3dV8xcVVldWZ2TXNmVmxwbnbSAXRBVV95cUxPS3hVZ0RDQVBGSk5sUmlFSXZxLUs5YmVUaV9DRXhIRl9fZWN5am9ZTGx2dG1SdjkzZUtHUVJ0S1IzQVlUakpEb1h4MGp1QTdSMG1GUWFJUS16UTd3WGY1azJMSG5UQ2JzUmlZM1A2SHJhX0drWQ?oc=5",
+            "source": "산경투데이",
+            "published": "11-07 09:58",
+            "snippet": "코스피 급락에 서학개미 미국행 가속…일주일 새 3조원 순매수 산경투데이"
+          },
           {
             "title": "코스피 급락에…서학개미, 미국 주식 3조원 쓸어담았다 - 서울경제",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yUEpOQVlXZTJ5ZUJtYm9kWGtqckxWNHpfSnVoYWt3UFVVUjhCU2hnMDJ2Q3A3T1RwWENRODNfdEt2ZXp2Tml5SWhFVC1rVG9rRnfSAVNBVV95cUxPdjRxb0dIdlRYTzJYdmh3N00tLWx3MFlvSVVreWhFb1VLNEFhZTZZb3JNUHgwOHJnNjROUHF1bVFYZXJjTlFiZmJ1UkwwVVo4Q0xEYw?oc=5",
@@ -105,70 +115,35 @@
             "snippet": "코스피 급락에…서학개미, 미국 주식 3조원 쓸어담았다 서울경제"
           },
           {
-            "title": "급락한 코스피, 美 AI기업 실적에 쏠린 눈 - 블루밍비트",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hWlZiNlBWYmJvZGl1Y1c0QlRBUm9sM0d5TW5YdHpxejdiRkZoaWtSLW1rR3BYWTlVZFpYOTZtdXdMRXZmSmJhVjhNQUVjWDFL?oc=5",
-            "source": "블루밍비트",
-            "published": "11-07 08:20",
-            "snippet": "급락한 코스피, 美 AI기업 실적에 쏠린 눈 블루밍비트"
+            "title": "국내 증시 부진·환율 하락에 서학개미 美주식 '폭풍 매수' - www.ebn.co.kr",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tSlkzbnJJWE1IV3pob3A2UHZFUVo4cUY0bVR5V09idGo4THdHUzZOaGg0VWt0dUxjVUwxR3U4eHptZG50SXFfYW1NTDNBVkViLVgwM3BabjR4VUJDVkZJQnMteHRieERw?oc=5",
+            "source": "www.ebn.co.kr",
+            "published": "11-07 08:29",
+            "snippet": "국내 증시 부진·환율 하락에 서학개미 美주식 '폭풍 매수' www.ebn.co.kr"
           },
           {
-            "title": "[증시-마감] 블루웨이브發 AI공포에 코스피 6% 급락…5,000 턱걸이 - 연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wd2ZSR3Ytb3J1RFEySGo2bksxMWowLUJJU0FvYjFJQTZEaklGV3lta3M4WDNnX29DYlZXWmc5eW5PVXA2NXE5cDBycHdnSENrNHdpVkpad1Zad25RWmlveWYwNXotX1RKSm5VazYtZWc?oc=5",
-            "source": "연합인포맥스",
-            "published": "11-06 16:03",
-            "snippet": "[증시-마감] 블루웨이브發 AI공포에 코스피 6% 급락…5,000 턱걸이 연합인포맥스"
+            "title": "“주식 못 빼 집 잔금도 못 치를 판”…삼전닉스 폭락에 개미들 패닉 - 중앙일보",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hdVVYWUxmazBaaWVhYlNnU05MbHN1MUpGYmd0VkJNb1dXSTVld3lmaUR3V3Q4NjU2MW5TMjBxb3RPOTB5Tk5YcDhpVUhXTVlKT013UkRn?oc=5",
+            "source": "중앙일보",
+            "published": "11-06 16:04",
+            "snippet": "“주식 못 빼 집 잔금도 못 치를 판”…삼전닉스 폭락에 개미들 패닉 중앙일보"
           },
           {
-            "title": "코스피 급락에도 1만 간다고?...증권가 전망 살펴보니 - 조세일보",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yMXhIYTd0WGVVRVQtSVNmc3N2eXRrVVZjOVlJZm0tazZTalRtdWxTUmx6eTBqbWhSajhGMG1DQUliY0s1RVNwRl9oOGV2dC1ISVRuSnRZUXRFQ3M0dEhj?oc=5",
-            "source": "조세일보",
-            "published": "11-07 06:00",
-            "snippet": "코스피 급락에도 1만 간다고?...증권가 전망 살펴보니 조세일보"
+            "title": "국장 피해 미장 갔다가… 테슬라·엔비디아도 폭락 ‘개미 이중고’ - Chosunbiz",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMmxkU3VkNTA0RXA5T1NfZzBPUXlEbUpKY0ZraUcwbDNvZUFfNTNtTVdzS0IzYmlROU0yT0dNVW9ENmJWWE5Lem9JcWZTS1ZSd2FZMFVyUFJXZUg5V3FIVHduWVlLcVFlRUlkcDMya3JoNVpuUDluR3lRaHl4eC1KNWlDa1dEUTlq0gGcAUFVX3lxTE1nVmJLblRJZ2xvWHlBNUFBellYakpqZTlvZ3luNGhMSWZsVEJOaEFvdDNXYXozaGNuRTNyNEdQcHk0S0MtZ0RnLWpZWElGdERmRDJiNWZPOVctZjUtMnJjeVk1ejhDbjVzeDJZN0s3QlhMN2NYYkJYLS1PZ3pGdFFrRDhHWmEwSjhfZVVNZGhUVWEwRFI0NWxIaVdHbg?oc=5",
+            "source": "Chosunbiz",
+            "published": "11-06 16:43",
+            "snippet": "국장 피해 미장 갔다가… 테슬라·엔비디아도 폭락 ‘개미 이중고’ Chosunbiz"
           },
           {
-            "title": "코스피, 6% 급락 마감…9달 만에 장중 5천 선 아래로 - KBS 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nNEh6TGZnQU9xdVh3aGgwb055dVlyU0RqOUhvQnhhaTNORzAtNmRVY0VVTm9fMmRZTkczRkxBQllzLXgwOTlKOHZVV2tCbHlTaW80X3lvdFVSMGc?oc=5",
-            "source": "KBS 뉴스",
-            "published": "11-06 17:06",
-            "snippet": "코스피, 6% 급락 마감…9달 만에 장중 5천 선 아래로 KBS 뉴스"
-          },
-          {
-            "title": "'검은 금요일'…코스피, 6% 넘게 급락해 5,000선 턱걸이 마감 - 연합뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SZHMydjFyQmZ2V05TVXllUUp1WjBpUUROX01BSzNhZ1pyd0hOdE1aWDFBNHNucGt3M0ZEWVF6eDFDSmJ6S25Sb19lMEh2RExmT255YXpCWmpyUDTSAWBBVV95cUxQY0JnWVpQSkllYVh0NVpJMzltTkI1NDNwV3U4bG16VGs2S3BvYzZHVXgyZFROVV9jMF83UmpaY0ItQnVkbUpybTBONXlyXzBzOU1Jb2R0Wjd6d003WXUtdWM?oc=5",
-            "source": "연합뉴스",
-            "published": "11-06 15:35",
-            "snippet": "'검은 금요일'…코스피, 6% 넘게 급락해 5,000선 턱걸이 마감 연합뉴스"
+            "title": "국내 증시 부진에 서학개미 '우르르'…美 주식 3조 폭풍 매수 - SBS Biz",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15dV9uWXlaU2VRRGNRV3VrVVItUTJpZ3pwUzhZVzZfYlZzNDVrZ1Nld3dINVRENS1xOXI4OWVNa3R0ZDhPaUJwVXZxWkszUi1tb0400gFYQVVfeXFMTzFIZHhWSlZGT0hjUjFyS2R5R2ZXbWZFTWNkWVNoU0RQUFAzX0xsZ2M1QzJxcnEzWWVNNC1aZVdZcFpaRzBEMHlXd1N3c3FpX251QVVyNkJIaw?oc=5",
+            "source": "SBS Biz",
+            "published": "11-07 09:43",
+            "snippet": "국내 증시 부진에 서학개미 '우르르'…美 주식 3조 폭풍 매수 SBS Biz"
           }
         ],
-        "강남3구 집값 하락": [
-          {
-            "title": "집값 하락 (강남3구만), 틀린 말은 아니지만 - 비즈워치",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BWmhUbW9vWmU3TWx0R1FjdEZNYWhUemdreUU5TjRnRE1CdWlHTUo5X3ZoTTNRb185V2cydXNkREdyOC10OXRIOGstWVhjemVfMEpwOTFDTDFTR2F0eklYUnVJVk1EdnpOMlFqc2s5aEo?oc=5",
-            "source": "비즈워치",
-            "published": "11-07 08:00",
-            "snippet": "집값 하락 (강남3구만), 틀린 말은 아니지만 비즈워치"
-          },
-          {
-            "title": "연일 ‘집값 하락’ 얘기하는 대통령…진실은? - KBS 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Wb1FRZDVtUG5janlPUnQ1c0Uzb3BDRXRraEU3NlhsLTVjUUlWMkpUbTVvOXl5Z2dEYzJHXzRHMGZUdGdXVkVZMENQZmh4ZWpZM0NBRXpDWEpPTWUtYXhONTFHQlVKQQ?oc=5",
-            "source": "KBS 뉴스",
-            "published": "11-07 08:00",
-            "snippet": "연일 ‘집값 하락’ 얘기하는 대통령…진실은? KBS 뉴스"
-          },
-          {
-            "title": "뒤바뀐 서울 집값 상승률… 성북 1위, 강남 3구는 최하위권 - 조선일보",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa2xJR2d2dWZqMFJHX2tqb0R6VzVIT1p2UWRpXzZ3X0ctbURaRmE4OHowTkpYamZHZHlHemNlV0hDV2tnbGluWjdqTVRreURyUmlHRjZWYnhReXhmdWZsTldPZ2c1S0UtUExYZUxnaFF1SzdnMHJVNmVkVXI5ZnplWHFKdGJjOU15?oc=5",
-            "source": "조선일보",
-            "published": "11-07 00:37",
-            "snippet": "뒤바뀐 서울 집값 상승률… 성북 1위, 강남 3구는 최하위권 조선일보"
-          },
-          {
-            "title": "강남 급매물 35억 ‘뚝’ 떨어졌는데…집값 3.5억 ‘껑충’ 뛰는 곳 보니 - 매일경제 마켓",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zZmYtc1lkMW9WZmxyNVc3SWtmVktMdU9hbm9qemdLUFJLVHdTR0I4eC1FZDJhOFVWLU1qWnVXUWpTT1loQ0Q2NlpyeldWQVk4UUE?oc=5",
-            "source": "매일경제 마켓",
-            "published": "11-07 11:04",
-            "snippet": "강남 급매물 35억 ‘뚝’ 떨어졌는데…집값 3.5억 ‘껑충’ 뛰는 곳 보니 매일경제 마켓"
-          },
+        "서울 집값 및 주택공급": [
           {
             "title": "[통계로 보는 부동산] 강남3구 9주째 하락·분양 전망도 먹구름…11월 4만가구 공급 앞둬 - 아주경제",
             "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwX2tvOGs0b0o4djZrVEYtM2sySV9nN0ZOSlNhT3hSZGhjamNUQml0a0FnTjRGTGhvVEhCMUZiOHdlNzIxc2d5R1k3UmJzUHhlbjZrRjVLOFZkd9IBWEFVX3lxTE9aN09DYzJHamtUZzFYNkZoQnFvNXRPLWM1TllMeVlKcktfLWlyYjl2OFUwN3dacVgtZ28wamQySkRYT0ItNmN3VzhlenpNZmRkUjRHSnFSeTY?oc=5",
@@ -177,185 +152,210 @@
             "snippet": "[통계로 보는 부동산] 강남3구 9주째 하락·분양 전망도 먹구름…11월 4만가구 공급 앞둬 아주경제"
           },
           {
-            "title": "강남만 내린 서울 집값…정부의 섣부른 '시장 안정 기대' - 미디어펜",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1Rlc0OHRUMEZvVGpuREFPZmZCdkpnQlJKajZYelA4Mk1IRU93czQ2YVpuTTZnV1lEZmFnZG52VXN1SGhHLWgxV0ZBbUZTejJzNDBoVdIBWEFVX3lxTE5Ib2dObFJTeFRSUm40b0VQdERZVllDamxvaWswX09qX2w0cjNuYmpvZWNxVFlQZWdIa2RKcXg0ZUd6LTdpNFJtY0dNM3doUWJzdGl5Nm1ibi0?oc=5",
-            "source": "미디어펜",
-            "published": "11-07 08:43",
-            "snippet": "강남만 내린 서울 집값…정부의 섣부른 '시장 안정 기대' 미디어펜"
+            "title": "홍지선 국토장관 “수도권 주택공급 80% 담당 민간 역할 중요” - 이투데이",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBxTWxRbl80bFptekNSVFFRdEVWWmRjRHFXaC02bnZiZHdZajNqX0xDR3JNckFvaG5JSVBGbDR3ck13MGJvUjlBal9lYTRZSnJqWUxERTdDdmpwQTlWYWlYX255REMtQVhHTjZGN2VxZWhzM2wx?oc=5",
+            "source": "이투데이",
+            "published": "11-06 14:27",
+            "snippet": "홍지선 국토장관 “수도권 주택공급 80% 담당 민간 역할 중요” 이투데이"
+          },
+          {
+            "title": "홍지선 수도권 주택공급 80% 담당하는 민간 역할 중요…지원 총력 - 아주경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zc2NLRzJIbmJoQ2ZNLU80Ym9XNUxGMF9nZU01SVpTSE5jMHl0cEpYazVLblRWd3dKbEZzMVUwMkdIODdJbEhDcWFCLTdoRkY1cXA2ZEpydTB1d9IBWEFVX3lxTFBmSmxXVFZxbl80MTc3eUZlQlpXZGZ1cjVYN0d5U2xIdWVHTFFCWFliNDQ0MDVrUXA3N05Xb3gxZEpPYk51YnF3SkRxVGQ1NTNjZ19vTk5hbHQ?oc=5",
+            "source": "아주경제",
+            "published": "11-06 14:37",
+            "snippet": "홍지선 수도권 주택공급 80% 담당하는 민간 역할 중요…지원 총력 아주경제"
+          },
+          {
+            "title": "모두가 집주인이 되는 세상? 부동산 ‘87년 체제’ 바꿀 때가 됐다 - 시사IN",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Ma2U3M0ZSeXNJdXQxeERMbjloSWpUQlc3b0xERWFWdnlMOWdlV0E3TUU5N3dxQ2VROTJlQjJpNWdaY2RfX3dEUU1lVWQ4VWlxaFU2VWlxNGl4NjVuZWVzSGYydkpTMjJzbkE?oc=5",
+            "source": "시사IN",
+            "published": "11-06 03:25",
+            "snippet": "모두가 집주인이 되는 세상? 부동산 ‘87년 체제’ 바꿀 때가 됐다 시사IN"
+          },
+          {
+            "title": "낮은 집값만으론 수요 못 잡는다…외곽 미분양 해법은 ‘정주 경쟁력’ - 시사저널",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FemFuNkpSYy1tLXgya2tfdzdzWlN5WUFFb2tCRW1wZzEwUjNwOXNjZ0FzNUFYU201R3ZDZUZueE52Qy1hVUVJOU5PMElKZ1FoR3JKd09VNWNPcXljZ2Y0YUJBN01KQUYtMWc1S2tBd9IBc0FVX3lxTE02T3huckRkVWhjTG9SWlhDQ0VZbTJMOXVvVFlMTThUUW1Eczh5UG5lUk5teVc2LXpQdkpkeVJsaU1SLUVFSy1NeWNVaTZoTEpRV0lnR0JBS3F0RzZUaHNKaUVEcHBaaFJBZTc2aE53X3N3S2s?oc=5",
+            "source": "시사저널",
+            "published": "11-07 13:00",
+            "snippet": "낮은 집값만으론 수요 못 잡는다…외곽 미분양 해법은 ‘정주 경쟁력’ 시사저널"
+          },
+          {
+            "title": "강남 집값은 '뚝' 외곽은 '쑥'···서울 아파트 100주 연속 상승 현실화하나 - 스마트비즈",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vNUdtYkQwcTM0Y3l3VG9RSUdJekdpQVFoUmxHUlBVMVZHRFZtUDNEZXVSaWNmWHFhaklkYXNOTW0tcXlsMXZYRDZyd0hvNkJyTHJnN0RMLWtjSzBXckZfaGNSLUVLVmk2bGZfTQ?oc=5",
+            "source": "스마트비즈",
+            "published": "11-06 07:38",
+            "snippet": "강남 집값은 '뚝' 외곽은 '쑥'···서울 아파트 100주 연속 상승 현실화하나 스마트비즈"
           }
         ],
-        "서학개미 미주식 매수": [
+        "국내 기업 실적 발표": [
           {
-            "title": "서학개미 일주일 동안 미 주식 3 조 원 '폭풍 매수' - YTN",
-            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zQTE4V2JiNXJUNTJ4dWFqU1hGbmYweWRGMnRwY0JWcFdXOVgyeGRFSTA4VjZTYzNCblRpNG5Hd0VSMGZvSldFRElKQ0I4UWl3OTlNbXI2bTNWRlFDU2xxZkpzNA?oc=5",
-            "source": "YTN",
-            "published": "11-07 12:59",
-            "snippet": "서학개미 일주일 동안 미 주식 3 조 원 '폭풍 매수' YTN"
+            "title": "급락한 코스피, 美 AI기업 실적에 쏠린 눈 - 블루밍비트",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hWlZiNlBWYmJvZGl1Y1c0QlRBUm9sM0d5TW5YdHpxejdiRkZoaWtSLW1rR3BYWTlVZFpYOTZtdXdMRXZmSmJhVjhNQUVjWDFL?oc=5",
+            "source": "블루밍비트",
+            "published": "11-07 08:20",
+            "snippet": "급락한 코스피, 美 AI기업 실적에 쏠린 눈 블루밍비트"
           },
           {
-            "title": "서학개미, 국내증시 급락장속 11월 첫주 美주식 3조 폭풍 매수(종합) - 연합뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ncjZDdFpRd2wtdDNjWEJFbHJFeHRHTEhjSXNnWkVNWlhsTVpkc3AxXzJSSFVoeUVOMUZTUDduSmYwYzMxbm5jbjJzY1JsNV9SVFNuWWg5SjBnLWvSAWBBVV95cUxPV2tsZFdnNDZFWlcxRWF3T0V1cGNjazI4enM5M3BrYmh6VWVlbmVIZTk5QjRRNERMMlQxNWdvMFV5d1JEZ3U1RzUwYWIzR2tBNmhHcUlneHRlZTlaY0NsRnM?oc=5",
-            "source": "연합뉴스",
-            "published": "11-07 09:21",
-            "snippet": "서학개미, 국내증시 급락장속 11월 첫주 美주식 3조 폭풍 매수(종합) 연합뉴스"
+            "title": "AI 반도체는 날고, 아이폰도 신기록… 이번 주 실적의 승자는?(11월 1주 어닝콜) - 네이버페이 머니스토리",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fRDc0ZzVWd1BsNjFKSmZfUFNpdC1wd0dlZWQyNnpTQW5nakRvenRLMzM2YnZETkdSd1dkSllqRkR3UjBhblBDeWZXNnZXZEljaTNVV0JVRHl5QQ?oc=5",
+            "source": "네이버페이 머니스토리",
+            "published": "11-07 06:42",
+            "snippet": "AI 반도체는 날고, 아이폰도 신기록… 이번 주 실적의 승자는?(11월 1주 어닝콜) 네이버페이 머니스토리"
           },
           {
-            "title": "국내 증시 급락하자 미국 주식으로 달려간 서학개미들···11월 첫 주에만 3조원 순매수 - 경향신문",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tMDJ6dU9DOFRjVExkTk5YUU9jakRXXzdJQnd6VTNReHJDbXc3NWx1cWVpcU5sUkxwcjFoek5WbkV3djRLbm5PTTFqODRFRXdYRGs4THpjU2xUQdIBX0FVX3lxTFAyd2R5YTlTRmI4MnhELXlsNTgzcFpQY1RXb19EaU43ODdHczhEaVdvZFBvMS0xNF8xYzloT2sweXRiR09hMXZxenp6ejVVZFVYNXVyM2xpekt5X0pQZFpn?oc=5",
-            "source": "경향신문",
-            "published": "11-07 12:19",
-            "snippet": "국내 증시 급락하자 미국 주식으로 달려간 서학개미들···11월 첫 주에만 3조원 순매수 경향신문"
+            "title": "[기획] 증권사 3분기 실적, 운용손익에 희비 - 한국금융경제신문",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9najQ1elgxQ0JTRnY5R0FaRTg3RmRIZ1pWMHRueHI0V0o1bGhoYmJFalVzZWNsbmMtTnVxOW9iRDQ4Y2VHRWV5bFpQTmZFVENMaXd3aXl0RHhoOFh0NGZBSVM0VV9HY0xNSHAwa9IBcEFVX3lxTE1OQm4yUzZ0TEswejgtN1cyWV8wMEZOc29memVTdklZb1JOOEpsVkYwTl9idU1SOVVJRGtITTVaWEhoV3pDcExRYVUwZ01lLWFjSEN4YTViOFVVN3Y4NFczVk56TUNscHN3OVB4M0ZVQmc?oc=5",
+            "source": "한국금융경제신문",
+            "published": "11-07 09:57",
+            "snippet": "[기획] 증권사 3분기 실적, 운용손익에 희비 한국금융경제신문"
           },
           {
-            "title": "국장보다 미장?…서학개미, 닷새 동안 미국주식 3조원 ‘폭풍매수’ - JTBC",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0ybEc1d3NFZ3dMNFp4a0FIYzNVa0xhM3J0dHJGYkhyX3JPRndWUWdKcVFLX3RxdWNnUmtTSjc5Ukg0TEJiTWJtWGgzdGdTdkRCNW43RQ?oc=5",
-            "source": "JTBC",
-            "published": "11-07 11:44",
-            "snippet": "국장보다 미장?…서학개미, 닷새 동안 미국주식 3조원 ‘폭풍매수’ JTBC"
+            "title": "[다음주 유통업계] 김장 할인전·빼빼로데이..주요 기업 실적 발표 - 한국정경신문",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jM0l3aGRfQXItSGJWSDhLRC15NTVxTzdHMlM4WFAxbHhaQTItZlRVNWlWOHdfWlFTVzNGRXBEeU82TVljcHYxN25kbDdydFdNWFE?oc=5",
+            "source": "한국정경신문",
+            "published": "11-07 11:51",
+            "snippet": "[다음주 유통업계] 김장 할인전·빼빼로데이..주요 기업 실적 발표 한국정경신문"
           },
           {
-            "title": "[속보]'국장 폭락에 다시 미국으로' 서학개미, 일주일간 3조 매수 - KBC광주방송",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qbzRBVkphLW5TQnVSUVRQOUxpUnlmNXY1cDlyZ19zMFBpRTliRnhJb2hpeXlrcWVJTTJOZWFlYllBbzRjd0txb3NHOEtfR2pkUllLa1F0aUFROGRqV0lhVw?oc=5",
-            "source": "KBC광주방송",
-            "published": "11-07 09:44",
-            "snippet": "[속보]'국장 폭락에 다시 미국으로' 서학개미, 일주일간 3조 매수 KBC광주방송"
+            "title": "[주간증시전망] 검은 한주 지낸 코스피…내주 반등 열쇠는 AI 실적·美 물가 - 아주경제",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yUnV6ZVplWWNNb3FWQXZCUVRMa1BQek1RVXZKU2RWWnMtSS10VjRRY285RmxKX0FYMlZWRkVXR285YTlFTkkzUFRVNWN5VnRzVldkY19hX0fSAVhBVV95cUxNclJ1emVaZVljTW9xVkF2QlFUTGtQUHpNUVV2SlNkVlpzLUktdFY0UWNvOUZsSl9BWDJWVkZFV0dvOWE5RU5JM1BUVTVjeVZ0c1ZXZGNfYV9H?oc=5",
+            "source": "아주경제",
+            "published": "11-07 07:00",
+            "snippet": "[주간증시전망] 검은 한주 지낸 코스피…내주 반등 열쇠는 AI 실적·美 물가 아주경제"
           },
           {
-            "title": "국내 증시 부진에 ‘서학개미’ 미국 주식 매수 급증...일주일 새 3조원 육박 - M이코노미뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZYndnWXFhUUE3cUVJbTZIZHRRYVdLcWhpY25qeXVQODc0U3hYdjBMQUV1LU0zblU5YWFaNWpOR1hISUJNQ0JkZHZXUHpMZmN2X1lhanZaRUw2d1BtMWhPU2JHd1FwRHc?oc=5",
-            "source": "M이코노미뉴스",
-            "published": "11-07 11:34",
-            "snippet": "국내 증시 부진에 ‘서학개미’ 미국 주식 매수 급증...일주일 새 3조원 육박 M이코노미뉴스"
+            "title": "[11월2주 글로벌 증시 캘린더] 미국 CPI·PPI에 AI 실적까지…증시 흔들 변수는 - https://www.theconnectmoney.com/",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZMXhCeWd2OVNXZkpTSHJRdGxQbG16akRtMW5BbC1RR0FkenNZSUNzc0hITHVHMDB1NzMtUGVMblB5UlZQTWc1UlVTQWYwUFBkNlFCZThyT1NINlRxcU15aA?oc=5",
+            "source": "https://www.theconnectmoney.com/",
+            "published": "11-07 13:49",
+            "snippet": "[11월2주 글로벌 증시 캘린더] 미국 CPI·PPI에 AI 실적까지…증시 흔들 변수는 https://www.theconnectmoney.com/"
           }
         ]
       },
       "queries": {
-        "코스피 급락세": [],
-        "강남3구 집값 하락": [],
-        "서학개미 미주식 매수": []
+        "코스피 폭락과 서학개미": [],
+        "서울 집값 및 주택공급": [],
+        "국내 기업 실적 발표": [
+          "국내 기업 실적 발표 캘린더",
+          "국내 기업 실적 발표일",
+          "국내 기업 4분기 실적 발표 일정",
+          "국내 기업 3분기 실적 발표 일정",
+          "국내 기업 2 분기 실적 발표 일정",
+          "국내 기업 1 분기 실적 발표 일정",
+          "국내 주요 기업 실적 발표"
+        ]
       }
     },
     "global": {
       "keywords": [
-        "뉴욕증시 저가 매수",
-        "미국 10월 고용 지표",
-        "글로벌 AI 기술주 반등"
+        "뉴욕증시 저가 매수세",
+        "미국 10월 고용지표",
+        "미 중간선거와 AI규제"
       ],
       "results": {
-        "뉴욕증시 저가 매수": {
-          "headline": "폭락 딛고 저가 매수로 반등한 뉴욕증시",
+        "뉴욕증시 저가 매수세": {
+          "headline": "기술주 폭락 후 뉴욕증시 저가 매수",
           "facts": [
-            "뉴욕증시가 가파른 폭락 사태를 겪은 하루 만에 저가 매수세가 유입되면서 한숨을 돌리고 반등에 성공함.",
-            "나스닥 지수는 AI 주식들의 저가 매수 힘입어 1.09% 상승하는 등 대체로 안정적인 흐름을 회복함.",
-            "스페이스X 관련 종목이 8% 폭등하는 등 시장의 블루쓰나미 공포를 하루 만에 상당 부분 벗어나는 모습을 보임.",
-            "주식 시장이 반등하는 과정에서 안전자산 선호로 인해 채권 가격은 내리고 달러 가치는 오르는 변화가 나타남.",
-            "반도체주와 AI 관련 기술주를 중심으로 저가 매수 유입이 뚜렷하게 관측되며 투자 심리가 진정되는 분위기."
+            "뉴욕증시가 인공지능 기술주 중심의 폭락 사태를 겪은 직후 저가 매수세가 유입되면서 나스닥 지수가 1.1퍼센트 상승함.",
+            "미국 정치권의 블루 쓰나미 여파가 시장에 혼조세를 불러일으켰으나 저가 매수 유입으로 주요 지수가 대체로 반등함.",
+            "반도체 관련 주식들을 중심으로 저가 매수 물량이 대거 유입되면서 나스닥 지수가 1.09퍼센트 상승 마감함.",
+            "급락에 따른 반발 매수세가 유입되면서 투자 심리가 일부 진정되었으나 여전히 변동성이 높은 혼조세를 기록함.",
+            "AI 기술주가 큰 폭으로 조정을 받은 기회를 틈타 기관과 개인 투자자들의 저가 매수 전략이 지수 방어에 기여함."
           ],
           "watch": [
-            "저가 매수세가 단기 반등에 그칠지 추세적 상승일지 확인",
-            "미국 국채 금리와 환율의 추가 변동 추이"
+            "나스닥 지수의 추가 반등 여부",
+            "반도체 주식 중심의 매수세 지속성",
+            "정치적 이벤트에 따른 증시 변동성"
           ],
           "qna": [
             {
-              "q": "뉴욕증시의 저가 매수 유입이 내 해외 투자 계좌에는 어떤 의미인가?",
-              "a": "단기 급락에 따른 손실을 일부 만회할 기회가 될 수 있다. 다만 변동성이 여전히 크므로 장기적 관점의 대응이 요구된다."
+              "q": "기술주 폭락 직후 나타나는 저가 매수세는 안전한 투자 기회인가?",
+              "a": "주가가 급락한 후 일시적 반등을 노리는 매수세가 유입되는 현상이다. 그러나 추세적 하락의 시작인지 단순 조정인지 단정하기 어려우므로 리스크 관리가 필수적이다."
             },
             {
-              "q": "블루쓰나미 공포라는 경제 용어는 어떤 상황을 설명하는가?",
-              "a": "미국 정치권에서 민주당이 선거 등을 통해 권력을 독점하여 급진적인 증세와 규제를 단행할 것이라는 시장의 불안감을 뜻한다."
+              "q": "블루 쓰나미 같은 정치적 변화가 뉴욕증시에 미치는 영향은 어떻게 이해해야 하는가?",
+              "a": "특정 정당의 의회 장악 등이 규제 강화나 정책 변화를 예고하면서 단기적인 시장 불확실성을 높이는 요인으로 작용한다."
             },
             {
-              "q": "폭락 후 반등하는 시점에서 추가 매수를 고민할 때 주의할 점은 무엇인가?",
-              "a": "기술적 반등인지 추세 전환인지 판단하기 어렵기 때문에 분할 매수 등 리스크 관리 전략을 세우는 것이 안전하다."
+              "q": "나스닥 지수가 1퍼센트 이상 반등했다고 해서 안심해도 되는가?",
+              "a": "단기 급락에 따른 기술적 반등일 수 있으므로 하루의 상승 폭만 보고 시장이 완전히 안정되었다고 판단하기에는 무리가 따른다."
             }
           ]
         },
-        "미국 10월 고용 지표": {
-          "headline": "예상 깬 미국 10월 고용 깜짝 증가",
+        "미국 10월 고용지표": {
+          "headline": "미국 10월 고용 깜짝 증가와 금리",
           "facts": [
-            "미국의 10월 비농업 고용이 16만 5000명 증가를 기록하며 시장의 예상을 뛰어넘는 깜짝 증가세를 나타냄.",
-            "고용 지표가 예상치보다 3배 가까이 껑충 뛰면서 연방준비제도의 매파적 통화정책 기조가 강화될 것이라는 전망이 지배적임.",
-            "고용 호조의 영향으로 다가오는 12월 기준금리 인상 확률이 기존 66%에서 76%까지 급등함.",
-            "예상을 웃도는 고용 지표 발표 직후 뉴욕증시의 급락세가 진정되며 시장 참가자들의 안도감을 유도함.",
-            "견조한 고용 상황이 인플레이션 압력을 높일 수 있다는 우려와 함께 금리 인상 전망을 더욱 공고히 하는 계기가 됨."
+            "미국의 10월 비농업 고용이 16만 5000명이라는 예상치를 뛰어넘는 깜짝 증가를 기록하며 고용 시장의 강세를 증명함.",
+            "견조한 고용 지표 발표로 인해 연방준비제도의 12월 금리 인상 확률이 기존 66퍼센트에서 76퍼센트로 대폭 상승함.",
+            "고용 지표의 예상을 3배 웃도는 증가세로 인해 연준의 매파적 통화정책 기조가 더욱 강화될 것이라는 전망이 확산됨.",
+            "미국 10월 고용의 서프라이즈에 힘입어 그간의 뉴욕증시 급락세가 진정되고 나스닥 지수가 반등하는 흐름을 보임.",
+            "탄탄한 고용 지표가 인플레이션 압력 우려를 키우면서 금리 인상 가능성을 높여 금융시장의 긴장감이 유지됨."
           ],
           "watch": [
-            "12월 연방공개시장위원회(FOMC)의 금리 결정 결과",
-            "고용 지표 호조가 향후 물가 상승에 미치는 영향"
+            "연방준비제도의 12월 금리 결정",
+            "미국 추가 고용 및 물가 지표 발표일",
+            "채권 금리 및 달러화 가치 추이"
           ],
           "qna": [
             {
-              "q": "미국 고용 지표가 좋게 나오면 한국에 사는 내 대출 금리에도 영향을 주는가?",
-              "a": "미국이 금리 인상 가능성을 높이면 글로벌 금융시장을 통해 국내 시장금리에도 상승 압력으로 작용할 수 있다. 변동금리 대출자의 이자 부담을 점검해야 한다."
+              "q": "미국 고용지표 발표일 10월 데이터가 왜 전 세계 금융시장의 주목을 받는가?",
+              "a": "미국 경제의 체력을 보여주는 가장 핵심적인 지표이기 때문이다. 고용이 너무 좋으면 연준이 금리를 올릴 명분이 생겨 증시에 부담으로 작용할 수 있다."
             },
             {
-              "q": "기사에서 언급된 고용 지표 발표일 10월 등의 지표는 무엇을 뜻하는가?",
-              "a": "매월 미국 노동부가 발표하는 전월 고용 동향으로 경제 건전성을 판단하고 향후 연준의 금리 정책을 예측하는 핵심 선행 지표이다."
+              "q": "고용이 깜짝 증가했는데 왜 12월 금리 인상 확률이 올라가는가?",
+              "a": "노동시장이 여전히 과열 상태이고 임금 상승 압력이 지속되면 인플레이션이 잡히지 않는다고 판단하여 연준이 긴축을 지속할 가능성이 커지기 때문이다."
             },
             {
-              "q": "고용이 늘어났는데 왜 주식시장은 금리 인상 우려로 긴장하는가?",
-              "a": "경기가 너무 좋아지면 물가가 잡히지 않아 중앙은행이 금리를 올리거나 고금리를 오래 유지하기 때문이다. 이는 기업의 자금 조달 비용을 높여 주가에 부담을 준다."
+              "q": "고용지표 호조로 금리 인상 전망이 강화된 상황에서 내 자산 포트폴리오는 어떻게 점검해야 하는가?",
+              "a": "고금리 장기화 가능성에 대비하여 부채가 많은 자산을 줄이고 현금 흐름을 창출할 수 있는 안전자산이나 우량 자산 중심으로 비중을 조절하는 고려를 해본다."
             }
           ]
         },
-        "글로벌 AI 기술주 반등": {
-          "headline": "바닥 찍었나, AI 기술주 일제히 반등",
+        "미 중간선거와 AI규제": {
+          "headline": "미 중간선거 후폭풍과 AI 규제 공포",
           "facts": [
-            "큰 폭의 하락세를 겪었던 글로벌 AI 기술주들이 저가 매수세의 유입에 힘입어 일제히 반등 국면에 접어듦.",
-            "나스닥 지수가 1.1% 오르며 시장 전반에 AI 관련 주식들의 바닥 통과 기대감이 확산하기 시작함.",
-            "엔비디아를 비롯한 주요 AI 반도체 종목들이 급락 충격을 딛고 반등을 시도하며 투자 심리가 다시 살아나는 조짐을 보임.",
-            "뉴욕증시의 반도체주 반등 소식이 전해지면서 급락을 맞았던 국내 코스피 시장도 한숨을 돌릴 수 있을지 주목됨.",
-            "다만 여전히 AI 산업을 둘러싼 규제 불안과 불확실성은 완전히 해소되지 않은 채 남아 있는 상태."
+            "미국 중간선거 이후 민주당이 빅테크 기업들에 대한 대대적인 조사와 인공지능 규제 강화를 본격적으로 추진하기 시작함.",
+            "유럽에서도 데이터센터 설립 반대 움직임이 확산되는 가운데 미국 정가의 블루 쓰나미를 타고 AI 규제론이 급부상함.",
+            "중간선거 결과로 인해 증시가 큰 충격을 받았으나 전문가들은 단기 충격 이후에도 미중 AI 패권 경쟁으로 수요는 지속될 것으로 전망함.",
+            "선거 이후 AI 규제 우려가 고조되는 상황에서도 오픈AI는 데이터센터 투자와 자금 조달 계획을 계속 추진하겠다는 입장을 고수함.",
+            "미국 중간선거에서 AI 규제론자들이 대거 당선되면서 규제 강화 전망이 뚜렷해졌고 이로 인해 한국 증시의 반도체 쇼크를 유발함."
           ],
           "watch": [
-            "AI 반도체 관련 대장주의 주가 회복 지속성",
-            "글로벌 규제 리스크가 기술주 실적에 미치는 파장"
+            "미국 의회의 AI 관련 규제 법안 추진",
+            "오픈AI의 데이터센터 투자 집행 속도",
+            "미중 AI 패권 경쟁에 따른 반도체 수요"
           ],
           "qna": [
             {
-              "q": "AI 기술주가 반등할 때 관련 펀드나 주식에 지금이라도 가입하는 것이 유리한가?",
-              "a": "단기 낙폭 과대에 따른 반등일 수 있으므로 추격 매수보다는 산업의 장기 성장성과 규제 리스크를 꼼꼼히 따져보는 과정이 필수적이다."
+              "q": "미 중간선거 결과가 한국의 반도체 주식에 직접적으로 타격을 주는 이유는 무엇인가?",
+              "a": "선거 이후 빅테크 규제론자들이 힘을 얻으면서 글로벌 IT 투자가 위축될 것이라는 공포가 확산되었고, 이는 반도체 수출 비중이 높은 한국 증시에 직격탄이 되기 때문이다."
             },
             {
-              "q": "인공지능 관련 주식이 왜 이렇게 급락했다가 갑자기 반등하는가?",
-              "a": "혁신적인 성장성 기대감으로 빠르게 올랐으나 규제나 실적 우려가 겹치며 매물이 쏟아졌고 가격이 싸졌다고 판단한 투자자들이 다시 유입되었기 때문이다."
+              "q": "오픈AI가 규제 우려 속에서도 데이터센터 투자를 계속하는 배경은 무엇인가?",
+              "a": "인공지능 모델 학습과 서비스 운영을 위한 인프라 확충이 필수적이기 때문에 단기적인 정치적 규제 리스크보다 장기 기술 패권 확보를 우선시하기 때문이다."
             },
             {
-              "q": "미국 AI 주식의 반등이 국내 반도체 기업들의 주가에도 즉각 호재가 되는가?",
-              "a": "글로벌 반도체 공급망이 긴밀하게 연결되어 있어 심리적 안정을 줄 수 있다. 하지만 국내 고유의 수급 상황과 실적을 함께 고려하여 판단해야 한다."
+              "q": "AI 규제 공포가 확산되는 시기에는 관련 기술주 투자를 어떻게 바라보아야 하는가?",
+              "a": "규제 리스크로 인한 단기 주가 변동성을 인지하고, 각 기업이 규제 환경 변화에 대응하면서 실질적인 수익을 창출할 수 있는지를 보수적으로 검토해야 한다."
             }
           ]
         }
       },
       "news": {
-        "뉴욕증시 저가 매수": [
+        "뉴욕증시 저가 매수세": [
           {
-            "title": "[뉴욕마켓워치] 폭락 뒤 저가 매수로 한숨 돌린 증시…채권↓달러↑ - 연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ESXNSd3A0eGZRQmlfNmhJekdOS0l4WWEyekRKQzN5eXFJOWFleVgtUVRhU1NWSGlra0ZxMVNzLXVQb21TTk1KU3dqNHBsS2VtcUhDQ1NMTDI0MlpsODRTOUxlNEFzRk93ZHp4WUtaRnQ?oc=5",
+            "title": "뉴욕증시 반등, AI 기술주 폭락 후 저가 매수세…나스닥 1.1% 상승 - JTBC",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUSG9JS3JVZ1MtWlBlb0dHdHdrMDVQak1GOGZhS0VnN2hvNDZ1aV9FX0p5R2U3NDkxemJJZjR2RlIxNllpZE92NXotVGYtcnktMEdYMQ?oc=5",
+            "source": "JTBC",
+            "published": "11-07 16:23",
+            "snippet": "뉴욕증시 반등, AI 기술주 폭락 후 저가 매수세…나스닥 1.1% 상승 JTBC"
+          },
+          {
+            "title": "[뉴욕증시] '블루 쓰나미' 여파 속 저가 매수…혼조 마감 - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqSEtCVnByRFlXSW42YTRncV92cndKa29tckpLbWYxM0lQU1E5UE4xTWFfelMyQk5MbThDZ2xiM1ZwNjRTLU1aTHFJMk5hZ1ZsUExIeWwyVzBidGNDUFMzZHVSaGthZV9vSWxHY05mNDE?oc=5",
             "source": "연합인포맥스",
-            "published": "11-07 09:00",
-            "snippet": "[뉴욕마켓워치] 폭락 뒤 저가 매수로 한숨 돌린 증시…채권↓달러↑ 연합인포맥스"
-          },
-          {
-            "title": "뉴욕증시, AI주 저가 매수에 혼조 마감…나스닥 1.09%↑ - 뉴스핌",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03ZVhHTkI5UUdLWDJndzUwX2owX3dqNHlVbjlubm1OcmlORC1fR3JoSGREMmE4NzFyV2dfQk9DT3ROOWhjd0c4Q0I3amM1Z1BNeE9NRlNINDNKcm5o?oc=5",
-            "source": "뉴스핌",
-            "published": "11-07 06:21",
-            "snippet": "뉴욕증시, AI주 저가 매수에 혼조 마감…나스닥 1.09%↑ 뉴스핌"
-          },
-          {
-            "title": "뉴욕증시, 반도체주 저가 매수에 대체로 반등…나스닥 1.09%↑ - www.ebn.co.kr",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tOFNEUmNLR0w4bDdFXzgtX3lBM1pETkdSeExCMWNlYzBjcEVHZ21ncGFnT29ReWZmb2NuWURZemN4ZWpIU1FUVGhjOVI3OUhoZHBlWE1ubVRFcXk1TTlsX1RPcVgyaVMt?oc=5",
-            "source": "www.ebn.co.kr",
-            "published": "11-07 08:49",
-            "snippet": "뉴욕증시, 반도체주 저가 매수에 대체로 반등…나스닥 1.09%↑ www.ebn.co.kr"
-          },
-          {
-            "title": "뉴욕증시, AI주 폭락 후 저가 매수에 반등…나스닥 1.1%↑ - 여성신문",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43cl9ac0Y4UFJPYy1yZktYUS1wZmJVcDlaZ2NkeUQ0dGJiWHNWcXJsMEQwMUpETFYxVUdsYnpFdC1rU29RZVFSZ2ZZZXJNQ3lFdTd0X3M1R1I4N2hqMEh0c3piRE00eEY3bTVJbWJuVEEwSUXSAXNBVV95cUxON3JfWnNGOFBST2MtcmZLWFEtcGZiVXA5WmdjZHlENHRiYlhzVnFybDBEMDFKRExWMVVHbGJ6RXQta1NvUWVRUmdmWWVyTUN5RXU3dF9zNUdSODdoajBIdHN6YkRNNHhGN201SW1iblRBMElF?oc=5",
-            "source": "여성신문",
-            "published": "11-07 09:57",
-            "snippet": "뉴욕증시, AI주 폭락 후 저가 매수에 반등…나스닥 1.1%↑ 여성신문"
+            "published": "11-07 06:55",
+            "snippet": "[뉴욕증시] '블루 쓰나미' 여파 속 저가 매수…혼조 마감 연합인포맥스"
           },
           {
             "title": "뉴욕증시, AI 기술주 폭락 후 저가 매수세…나스닥 1.1%↑(종합) - 연합뉴스",
@@ -365,27 +365,34 @@
             "snippet": "뉴욕증시, AI 기술주 폭락 후 저가 매수세…나스닥 1.1%↑(종합) 연합뉴스"
           },
           {
-            "title": "美 ‘블루쓰나미 공포’ 하루만에 벗었다…스페이스X 8% 폭등 - 동아일보",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QOVp2VFY3bzBDbkFiNlR6R1lnYWpjU3h4VkJBVzVad1g2eUt4QzVfYUcxYmhDM1E5bmpVTzZOQjNPM1FzLUt5TGZFQ3BjSFVvT081ZjNoQ1VhTXRVZ0pLbHF1MFJKX3lMQm5WRUo5QW1YbGPSAWZBVV95cUxOVmlRZG9JTzg5a2dSSVN5S1hqYTdKYTJzVFROaG94M21hNVctdWNQbjhDcXg2dzVOeVdEZDFmaWZxNWFXTkZ3TDF6elM4cWdjS01tNlU2NnJXSDdGeFY4OXo1WGpUWUE?oc=5",
-            "source": "동아일보",
-            "published": "11-07 08:25",
-            "snippet": "美 ‘블루쓰나미 공포’ 하루만에 벗었다…스페이스X 8% 폭등 동아일보"
+            "title": "뉴욕증시, AI주 저가 매수에 혼조 마감…나스닥 1.09%↑ - 뉴스핌",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03ZVhHTkI5UUdLWDJndzUwX2owX3dqNHlVbjlubm1OcmlORC1fR3JoSGREMmE4NzFyV2dfQk9DT3ROOWhjd0c4Q0I3amM1Z1BNeE9NRlNINDNKcm5o?oc=5",
+            "source": "뉴스핌",
+            "published": "11-07 06:21",
+            "snippet": "뉴욕증시, AI주 저가 매수에 혼조 마감…나스닥 1.09%↑ 뉴스핌"
+          },
+          {
+            "title": "뉴욕증시, AI 기술주 폭락 후 저가 매수세…나스닥 1.1%↑ - KBS 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SdU5oaDNjSnZVdHdINWJJOVpNZ21jQmYxM2poYVQzZTREcS1yYmY4czNzZVVMdWdNaHAyNjhWR2xZbDdncG4tdVdXY2JHZU94OVN6Z21USFNSMU0?oc=5",
+            "source": "KBS 뉴스",
+            "published": "11-07 06:24",
+            "snippet": "뉴욕증시, AI 기술주 폭락 후 저가 매수세…나스닥 1.1%↑ KBS 뉴스"
+          },
+          {
+            "title": "뉴욕증시, 반도체주 저가 매수에 대체로 반등…나스닥 1.09%↑ - www.ebn.co.kr",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tOFNEUmNLR0w4bDdFXzgtX3lBM1pETkdSeExCMWNlYzBjcEVHZ21ncGFnT29ReWZmb2NuWURZemN4ZWpIU1FUVGhjOVI3OUhoZHBlWE1ubVRFcXk1TTlsX1RPcVgyaVMt?oc=5",
+            "source": "www.ebn.co.kr",
+            "published": "11-07 08:49",
+            "snippet": "뉴욕증시, 반도체주 저가 매수에 대체로 반등…나스닥 1.09%↑ www.ebn.co.kr"
           }
         ],
-        "미국 10월 고용 지표": [
+        "미국 10월 고용지표": [
           {
             "title": "미국 10월 고용 16만 5000명 깜짝 증가, 12월 금리 인상 확률 66%→76%로 껑충 📈 - 뉴닉",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WU3kwaExTUUZTcE5ldzY3bXFnckFhQkN2Wld2X1NhZUZMa1VVQWFmSHBlS2xlbUZ4dllnX3Nzc3NFZzNPdjBRZkZHaHJZdkdHeTA0?oc=5",
             "source": "뉴닉",
             "published": "11-07 09:41",
             "snippet": "미국 10월 고용 16만 5000명 깜짝 증가, 12월 금리 인상 확률 66%→76%로 껑충 📈 뉴닉"
-          },
-          {
-            "title": "뉴욕증시 급락세 진정…미 10월 고용 ‘깜짝증가’ - KBS 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CZlYwcm1GWE5xTk9JWjRMYTloRXdoT0trVllObmNCTHJZZGZFUE9BWnRLOXg4Ukx4TTFJNjVGMGgyWTJ4MTNySkZOczJqbHc4eTNWWEQzeHFoRzg?oc=5",
-            "source": "KBS 뉴스",
-            "published": "11-07 09:42",
-            "snippet": "뉴욕증시 급락세 진정…미 10월 고용 ‘깜짝증가’ KBS 뉴스"
           },
           {
             "title": "미국 10월 고용 16만5000명 증가…12월 금리인상 전망 강화 - MTN 머니투데이방송",
@@ -402,6 +409,13 @@
             "snippet": "미국 10월 고용 16.5만 명 증가...금리 인상 전망 강화 YTN"
           },
           {
+            "title": "뉴욕증시 급락세 진정…미 10월 고용 ‘깜짝증가’ - KBS 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CZlYwcm1GWE5xTk9JWjRMYTloRXdoT0trVllObmNCTHJZZGZFUE9BWnRLOXg4Ukx4TTFJNjVGMGgyWTJ4MTNySkZOczJqbHc4eTNWWEQzeHFoRzg?oc=5",
+            "source": "KBS 뉴스",
+            "published": "11-07 09:46",
+            "snippet": "뉴욕증시 급락세 진정…미 10월 고용 ‘깜짝증가’ KBS 뉴스"
+          },
+          {
             "title": "美 10월 고용 16만5천명 '깜짝 증가'…12월 금리인상 전망 강화 - 조세금융신문",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ramNsbjE5VUg1X1dQRnlqbzdfRVJVZDlPZVB2VlAtOVpsdHRPRlNtSXZhajNRS05sWjdBOXJfX3BELVc0UXlPZlFJWkFNbWZ4S2xsRDdvTVRaYlU2SnZSUA?oc=5",
             "source": "조세금융신문",
@@ -416,239 +430,252 @@
             "snippet": "美 10월 고용 예상치 3배 '껑충' 연준 매파 기조 강화 전망 … 나스닥은 1.1% 반등 뉴데일리"
           }
         ],
-        "글로벌 AI 기술주 반등": [
+        "미 중간선거와 AI규제": [
           {
-            "title": "폭락했던 AI 기술주 반등…나스닥 1.1% ↑ [뉴욕증시 브리핑] - 한국경제",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05UzdqVHRaYXhXU01CMzJnNEtaUzhEM1pBRi1WNHBMMjNnMlhPM21TSUNNbUhTU0tiUUQ0RmFSZTFsY1RPck5Rc3E1eWFVUUZYVHlaUlo2elZxdw?oc=5",
-            "source": "한국경제",
-            "published": "11-07 07:25",
-            "snippet": "폭락했던 AI 기술주 반등…나스닥 1.1% ↑ [뉴욕증시 브리핑] 한국경제"
+            "title": "미 중간선거 후폭풍…민주당, 빅테크 대대적 조사·AI 규제 추진 - AI타임스",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NZlVqSzFWX21sTnNCX1BOVmoxWHBEUnJLbDFxWlZMZ2FHaUZ2NFA2Q1RTZGFxYWEzenBCOEY4SHphVF9SUVFaSG5RanpaelhleVpGSjJWRlBtQzRaR1VIYVlKSFdFM3puMnc?oc=5",
+            "source": "AI타임스",
+            "published": "11-07 16:43",
+            "snippet": "미 중간선거 후폭풍…민주당, 빅테크 대대적 조사·AI 규제 추진 AI타임스"
           },
           {
-            "title": "[뉴욕증시] 나스닥 1.09% 반등, AI 바닥 찍었나 - 자본시장뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PYmdsMXI2MTlpSW5jVUlGZVlqVlhJSjNZamVMUldSbURKYWtaRE9WWVB5dnNPd2Z6NW5qalBEUVl4cWl6QW1DaXlSQk0yZ0pBR3JhZzlITEx6TjhCYTA2SDJpTGp5aFE?oc=5",
-            "source": "자본시장뉴스",
-            "published": "11-07 08:42",
-            "snippet": "[뉴욕증시] 나스닥 1.09% 반등, AI 바닥 찍었나 자본시장뉴스"
+            "title": "유럽도 데이터센터 반대 확산...미 '블루 쓰나미' 타고 \"AI 규제\" - YTN",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YeUsxX0h4clo2dlNuRmhZSFJrTmFUVi1kZU4tdmhlTHNHZmt6dXJGbHAyTEZiV1BDeEE1dUNOQmZqNEpwZmlGRGY0d0U0dWx3bW9NMXAtTFJKQk5hR3c?oc=5",
+            "source": "YTN",
+            "published": "11-07 06:56",
+            "snippet": "유럽도 데이터센터 반대 확산...미 '블루 쓰나미' 타고 \"AI 규제\" YTN"
           },
           {
-            "title": "뉴욕증시, AI 관련주 대폭락 후 저가매수세 '뚜렷'... 나스닥 1.1% 반등 - 글로벌경제신문",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11VHZxNWFEV3RNbE5ZSC0yVzhwZkhjRS11Z0lTMTdwTnVyR2p1VTBzWmx4QkpkeFliT1E3MmVacTRWTk1tM0NwdnpOSmFORHJidVM3bElGLWJ6MS1QUXVwTFJtSm82WWw0MzRPUNIBcEFVX3lxTE94b1N4U05QT1dzeEFOb01LaE0zZDloZ1RpVkhhOVg5MFQtMlRrVHdRMlhzX0YtT2hsd1phekRmY240ZG9yUHpCOGFfNE9fbVk1LWJfbHhyR3RQQUl0YXM3al9EdDlXNnNZNjJKc2V3Um4?oc=5",
-            "source": "글로벌경제신문",
-            "published": "11-07 07:10",
-            "snippet": "뉴욕증시, AI 관련주 대폭락 후 저가매수세 '뚜렷'... 나스닥 1.1% 반등 글로벌경제신문"
+            "title": "美 중간선거에 증시 '와장창'… 전문가들 \"단기 충격 불가피해도 미중 AI 패권 경쟁에 수요 지속\" - 뉴데일리",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41RWpJQnM3RDVqbmR0VFQ2T3lFQllGWlItM2llV05LWkgxSXl1S3ZIUFdvRHhNZUhmV2x2R0N5cWJTQTV2S2dybktrR2t4MW9XN3FPaWZBTDlLQ05iSzRLT3R6SlJlZ3N2OFo0ZlI0Y2xzYzg0WTkxcTdoSdIBgAFBVV95cUxOWEZtX0ZQMndzQ3Y5OTUwU0FUSkw2RTRWZW5NS2IzOEhMbnpHck5JQW5yMkRHVDNUcktLajlZWGNPNW5jaThLRGo4SFM1a2JNS19oV1pNNmxZc0gxVnVELWpXUFhKRE5YZkdzeWdtaXJqQk9vSEJadE1ORHA4YUNoNg?oc=5",
+            "source": "뉴데일리",
+            "published": "11-07 15:00",
+            "snippet": "美 중간선거에 증시 '와장창'… 전문가들 \"단기 충격 불가피해도 미중 AI 패권 경쟁에 수요 지속\" 뉴데일리"
           },
           {
-            "title": "[뉴욕증시] 폭락 AI 기술주 저가 매수세…나스닥 1.1% 상승 - 중앙신문",
-            "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQMHg3Z1M0eFJ0dHNFVlBuLUpSbUt6el9wdjRZNGFVbmlmQXBEeGVhZHIxNi16NGZ1end4RW8wTjZXMlJLMGl1U0RKdUNsY2Z1b25DZlJFdEw4MF96MzdRclN5UHp0MFhzTVJhc2ZIUEtPd2JqWGYwTlNmVkNKaDNYMVU1amNJaGgzWGRvSWkxTDVFQ3dpNFM0cUJ2OUFYZmhzTjVoc1IzdkJ3d0xjalhyLXRNaVExR2tNRTF2U3ZDY0trZkpQdmRLRzF6SjVENW9FVWdoVk9yWkt6cy1FUDR4eWM1SFktQ0xUUGtaeGZmZkZuQVJSd2dKcmI1ODhWUFFOQjd4RHYtSjNWU1VXcTVGaXVZdFBNVWc1RDRMVE5tcTNDRDBMZmRTWTNKNTVVV3l3VE05WGNkMWROb0tQSHBtcjUwaU1HNkFuSWZB?oc=5",
-            "source": "중앙신문",
-            "published": "11-07 07:39",
-            "snippet": "[뉴욕증시] 폭락 AI 기술주 저가 매수세…나스닥 1.1% 상승 중앙신문"
+            "title": "선거 후 AI 규제 우려에도… 오픈AI \"데이터센터 투자·자금 조달 계속\" - 머니투데이 - 머니투데이",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lTzNCR2pZaGVHN2RXbEZqZ1kzVFFBVFZlcVNXbkptb0Y2NVhjdzgwcHBQOFBSWWhMZVliT1pvelZ3M0wwVGE5ZURLYzJsaVo1QklFV1NFcm5sREl5ZEJudl8zNklvZUVsZC1QV3ZR0gFuQVVfeXFMTmVPM0JHalloZUc3ZFdsRmpnWTNUUUFUVmVxU1duSm1vRjY1WGN3ODBwcFA4UFJZaExlWWJPWm96VnczTDBUYTllREtjMmxpWjVCSUVXU0VybmxESXlkQm52XzM2SW9lRWxkLVBXdlE?oc=5",
+            "source": "머니투데이",
+            "published": "11-07 14:20",
+            "snippet": "선거 후 AI 규제 우려에도… 오픈AI \"데이터센터 투자·자금 조달 계속\" - 머니투데이 머니투데이"
           },
           {
-            "title": "엔비디아, 급락 충격 딛고 반등 시도… AI 반도체 투자심리 다시 살아나나 - 제민일보",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GU2JmZkptUFBLNkRPbDFLOEhkRFFLZ3N4QTMxRmRYU2lkeFJVaFhaNnlfN0NNOUpjb2ZxaEtiMTNGRUlkRjdkRVZjR1JYR1dGdllkWVIwcjRsLUJuRkdZd3ZDalJlOHc?oc=5",
-            "source": "제민일보",
-            "published": "11-07 05:35",
-            "snippet": "엔비디아, 급락 충격 딛고 반등 시도… AI 반도체 투자심리 다시 살아나나 제민일보"
+            "title": "美 중간선거가 부른 'AI 규제 공포'…한국증시 덮친 반도체 쇼크 - 재외동포신문",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGcnRjNy1MbXVvTHctV0dnXzFSWWdWWkZLQ3U4SjY1RkNOU1dhUklXMFlKYzNjbVpjMm1hdWxGUG41eWJ3RE0wb2VXeUg3Sk13Mk91X0ZVWTA0NkJ3WVVwQXMwdjcwaDl1Ulg2Yw?oc=5",
+            "source": "재외동포신문",
+            "published": "11-06 22:04",
+            "snippet": "美 중간선거가 부른 'AI 규제 공포'…한국증시 덮친 반도체 쇼크 재외동포신문"
           },
           {
-            "title": "[글로벌 마켓 뷰] 뉴욕증시 반도체주 반등에 코스피 한숨 돌리나…AI 규제 불안은 여전 - https://www.moneystorm.kr/",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Ua2JQdmdGUUpSTVVaWjk2a2VWamxfX1F1dFNqR1Y2djYzckZnMmk1QTBOckN6U0NWbXkxbVFvLUIxbm9kSkgtd1RiRGtUcHVmWGlueG51bklBRWlUbERwMm1SdXhfVTFFNVE?oc=5",
-            "source": "https://www.moneystorm.kr/",
-            "published": "11-07 06:59",
-            "snippet": "[글로벌 마켓 뷰] 뉴욕증시 반도체주 반등에 코스피 한숨 돌리나…AI 규제 불안은 여전 https://www.moneystorm.kr/"
+            "title": "[AI세계속으로]美 중간선거 AI 규제론자 대거 당선…규제 강화 전망 - 아시아경제",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Lc3BueVBvbENNUVF0ZTExaTlmRzJZMmNnZXJMcUZOV1VSSkcwaW0tZERGdjAxQzhwZGFCZzBfcUU1cldDMkVmcDQzY3RtUHNFb3FpMnFZX0NPemJzNllneQ?oc=5",
+            "source": "아시아경제",
+            "published": "11-07 06:30",
+            "snippet": "[AI세계속으로]美 중간선거 AI 규제론자 대거 당선…규제 강화 전망 아시아경제"
           }
         ]
       },
       "queries": {
-        "뉴욕증시 저가 매수": [],
-        "미국 10월 고용 지표": [
-          "미국 고용 지표 발표일 10월"
+        "뉴욕증시 저가 매수세": [],
+        "미국 10월 고용지표": [
+          "미국 고용지표 발표일 10월"
         ],
-        "글로벌 AI 기술주 반등": []
+        "미 중간선거와 AI규제": []
       }
     },
     "keywords": [
-      "코스피 급락세",
-      "강남3구 집값 하락",
-      "서학개미 미주식 매수",
-      "뉴욕증시 저가 매수",
-      "미국 10월 고용 지표",
-      "글로벌 AI 기술주 반등"
+      "코스피 폭락과 서학개미",
+      "서울 집값 및 주택공급",
+      "국내 기업 실적 발표",
+      "뉴욕증시 저가 매수세",
+      "미국 10월 고용지표",
+      "미 중간선거와 AI규제"
     ],
     "results": {
-      "코스피 급락세": {
-        "headline": "검은 금요일 맞은 코스피 6% 폭락",
+      "코스피 폭락과 서학개미": {
+        "headline": "국내 증시 추락에 서학개미 미국행",
         "facts": [
-          "7일 국내 증시에서 코스피가 블루웨이브 발 AI 공포 여파로 전 거래일 대비 6% 넘게 급락하며 5,000선 턱걸이로 마감한 상황.",
-          "이날 급락세로 인해 코스피는 약 9개월 만에 장중 5,000선 아래로 내려앉으며 투자자들에게 큰 충격을 안겨준 모습.",
-          "미국 AI 기업들의 실적 우려와 정치적 불확실성이 겹치면서 국내 증시의 변동성을 키우고 투자 심리를 급격히 위축시킴.",
-          "증권가에서는 1만 포인트를 갈 수 있다는 장기 전망과 단기 급락세 사이에서 다양한 분석과 전망을 내놓고 있는 중.",
-          "국내 증시의 가파른 하락세를 피하고자 많은 개인투자자들이 미국 주식 시장으로 대거 자금을 이동시키는 현상이 나타남."
+          "국내 증시의 극심한 부진과 환율 하락이 겹치면서 일주일 사이에 서학개미들이 미국 주식 약 3조 원을 대거 순매수한 것으로 나타남.",
+          "국내 대표 종목인 삼성전자와 SK하이닉스 등이 큰 폭으로 폭락하면서 주식을 매도하지 못한 투자자들이 패닉 상태에 빠진 상황임.",
+          "국내 증시를 피해 미국 시장으로 넘어간 서학개미들이 테슬라와 엔비디아 등 주요 기술주마저 폭락을 겪으면서 이중고에 직면함.",
+          "국내 주식시장의 하락세 지속과 환율 변동성 확대가 맞물리면서 개인 투자자들의 해외 자산 이동 현상이 한층 더 가속화됨.",
+          "투자자들이 국내 증시의 부진을 탈출하기 위해 미국 주식 집중 매수에 나섰으나 글로벌 빅테크 주가 하락으로 추가 손실 우려가 큼."
         ],
         "watch": [
-          "5,000선 지지 여부와 외국인 순매도 흐름 파악",
-          "미국 AI 관련 기업들의 추가 실적 발표 주시"
+          "국내 주요 반도체 주가 반등 여부",
+          "미국 빅테크 주가 변동성과 환율 추이",
+          "개인 투자자들의 추가 해외 송금 규모"
         ],
         "qna": [
           {
-            "q": "국내 증시가 이렇게 급락하면 내 자산에는 어떤 타격이 있는가?",
-            "a": "국내 주식형 펀드나 직접 투자한 종목의 평가 손실이 발생할 수 있다. 다만 감정에 휩쓸려 무작정 매도하기보다 포트폴리오를 점검하는 신중함이 필요하다."
+            "q": "국내 증시가 떨어지면 왜 환율도 함께 고려해야 하는가?",
+            "a": "환율 하락은 원화 가치가 강세임을 뜻하며 환전 비용이나 환차손에 영향을 준다. 따라서 해외 주식 투자 시 환율 변동에 따른 수익률 변화를 함께 계산해야 한다."
           },
           {
-            "q": "기사에서 언급된 블루웨이브란 정확히 무엇을 뜻하는가?",
-            "a": "미국 민주당이 백악관과 상하원을 모두 장악하는 정치적 상황을 의미한다. 이러한 구도가 규제 강화로 이어져 기술주에 악영향을 줄 것이란 공포가 확산했다."
+            "q": "서학개미들이 테슬라나 엔비디아 같은 종목에 몰리는 이유는 무엇인가?",
+            "a": "국내 증시의 성장 정체와 실망감으로 인해 상대적으로 유동성이 풍부하고 성장성이 높다고 평가받는 미국 대표 기술주로 자금이 집중되는 것이다."
           },
           {
-            "q": "지수가 5,000선까지 무너졌는데 지금이라도 주식을 다 팔아야 하는가?",
-            "a": "단기 급락에 따른 공포로 손절매를 서두르기보다는 시장의 변동성 원인을 차분히 분석해야 한다. 개인의 투자 성향에 맞춘 리스크 관리가 우선이다."
+            "q": "삼전닉스 폭락으로 패닉에 빠진 개미들이 지금 취할 수 있는 현실적 대응은 무엇인가?",
+            "a": "단기적인 주가 급락에 따른 공포감으로 무리한 매도나 빚투 청산을 하기보다 기업의 펀더멘털과 자산 배분 상황을 차분히 점검하는 태도가 필요하다."
           }
         ]
       },
-      "강남3구 집값 하락": {
-        "headline": "강남3구만 내린 서울 집값의 진실",
+      "서울 집값 및 주택공급": {
+        "headline": "서울 집값 양극화와 주택공급 전망",
         "facts": [
-          "최근 서울 아파트 시장에서 성북구 등이 상승률 1위를 기록한 반면 강남 3구는 최하위권에 머무는 이례적인 현상이 포착됨.",
-          "강남권에서는 일부 급매물이 35억 원 가량 뚝 떨어지는 하락 거래가 발생하며 시장 안정 기조를 뒷받침하는 모습.",
-          "부동산 통계에 따르면 강남 3구 집값은 9주째 하락세를 기록하고 있으며 11월 4만 가구 공급을 앞두고 있음.",
-          "대통령이 연일 집값 하락 안정을 언급하는 가운데 강남만 내린 서울 집값 통계를 두고 정부의 섣부른 판단이라는 지적이 나옴.",
-          "일각에서는 강남이 내리는 동안 다른 지역의 집값이 3억 5천만 원이나 뛰는 등 양극화 현상이 더욱 심화되는 양상."
+          "서울 강남 3구 아파트 가격이 9주째 하락세를 기록하는 동시에 11월에 약 4만 가구 규모의 주택 공급이 예정된 상태임.",
+          "홍지선 국토교통부 장관이 수도권 주택 공급의 80퍼센트를 담당하는 민간 부문의 역할 중요성을 강조하며 지원 방침을 밝힘.",
+          "낮은 집값 수준만으로는 주택 수요를 흡수하기 어렵기 때문에 외곽 지역의 미분양 해법으로 정주 경쟁력 강화가 대두됨.",
+          "서울 내 일부 지역은 집값이 하락하는 반면 외곽 지역은 상승하면서 서울 아파트 가격의 100주 연속 상승 현실화 가능성이 거론됨.",
+          "부동산 시장 전반의 침체 우려와 함께 분양 전망에도 먹구름이 드리우면서 수도권 주택 시장의 지역별 양극화가 심화함."
         ],
         "watch": [
-          "11월 서울 지역 4만 가구 공급 물량의 실제 영향",
-          "강남 3구 하락세가 서울 타 지역으로 확산하는지 여부"
+          "강남 3구 하락세 지속 여부",
+          "11월 수도권 4만 가구 공급 실적",
+          "외곽 지역 미분양 해소 방안 추진"
         ],
         "qna": [
           {
-            "q": "강남 집값만 떨어진다면 무주택자의 내 집 마련 기회가 온 것인가?",
-            "a": "강남 3구의 가격이 주춤하고 있으나 여전히 진입 장벽이 높고 다른 지역은 오르는 곳도 있다. 따라서 실수요자는 자금 계획을 보수적으로 세워야 한다."
+            "q": "강남 집값은 떨어지는데 외곽 집값은 오르는 양극화 현상이 내 자산에 어떤 영향을 미치는가?",
+            "a": "지역별로 수요가 갈리는 차별화 장세가 지속됨을 의미한다. 따라서 거주지와 투자 목적에 따라 자산 포트폴리오를 다르게 구성해야 할 필요성이 커진다."
           },
           {
-            "q": "통계에 나오는 강남 3구는 구체적으로 어떤 지역들을 말하는가?",
-            "a": "서울의 강남구, 서초구, 송파구를 통칭하는 표현이다. 부동산 시장에서 고가 주택 밀집 지역의 선행 지표 역할을 주로 담당한다."
+            "q": "부동산 시장에서 정주 경쟁력이란 정확히 무엇을 뜻하는가?",
+            "a": "교통, 교육, 문화, 편의시설 등 거주민이 일상생활을 영위하는 데 필요한 종합적인 정주 여건의 우수성을 의미한다. 단순히 집값이 낮다고 해서 수요가 몰리지 않는 이유를 설명하는 개념이다."
           },
           {
-            "q": "정부의 시장 안정 기대와 실제 체감 경기 사이에 차이가 나는 이유는 무엇인가?",
-            "a": "일부 지역의 하락세만 부각되었을 뿐 서민들이 느끼는 주거 비용이나 타 지역 상승 압박은 여전하기 때문이다. 시장을 단편적으로 보기보다 종합적으로 해석해야 한다."
+            "q": "민간 주도가 강조되는 수도권 주택 공급 정책이 향후 분양가에 미칠 영향은 어떻게 봐야 하는가?",
+            "a": "민간 참여 확대는 신규 물량 공급을 원활하게 할 수 있지만 사업성과 공사비 등의 변수에 따라 분양가 조정 폭이 달라질 수 있으므로 개별 단지의 분양 조건을 면밀히 살펴야 한다."
           }
         ]
       },
-      "서학개미 미주식 매수": {
-        "headline": "국장 떠나 미장으로 향한 서학개미 3조",
+      "국내 기업 실적 발표": {
+        "headline": "국내 기업 실적과 AI 쏠림 현상",
         "facts": [
-          "국내 증시가 급락세를 보인 11월 첫 주 동안 서학개미들이 미국 주식을 3조 원 가까이 폭풍 매수한 것으로 집계됨.",
-          "국내 장의 부진과 폭락에 실망한 투자자들이 대거 이탈하여 미국 증시로 자금을 빠르게 이동시키는 양상을 보임.",
-          "일주일이라는 짧은 기간 동안 사상 최대 수준에 달하는 3조 원이라는 막대한 자금이 미국 주식 매수에 쏠림.",
-          "YTN과 연합뉴스 등 주요 언론들도 국내 증시 급락장 속에서 미국 주식으로 달려간 투자자들의 행보를 집중 보도함.",
-          "이러한 해외 주식 투자 열풍은 국내 자본 유출 우려와 함께 개인투자자들의 투자처 다변화 현상을 동시에 보여줌."
+          "급락세를 겪은 코스피 시장의 투자자 시선이 미국 인공지능 기업들의 실적 발표 결과로 집중되고 있는 상황임.",
+          "AI 반도체 관련 기업들이 높은 성장을 기록하고 아이폰 관련 실적도 신기록을 세우며 어닝시즌의 주요 승자로 부각됨.",
+          "증권사들의 3분기 실적이 유가증권 운용 손익에 따라 큰 희비가 엇갈리는 등 금융업권 내에서도 차별화가 나타남.",
+          "유통업계에서는 김장 할인전과 빼빼로데이 등 주요 이벤트와 함께 관련 기업들의 실적 발표가 예정되어 있음.",
+          "검은 한 주를 보낸 코스피가 반등하기 위한 핵심 열쇠로 미국 AI 실적과 물가 지표가 결정적인 변수로 작용함."
         ],
         "watch": [
-          "서학개미의 미 주식 순매수세가 지속될지 여부",
-          "환율 변동이 해외 투자 수익률에 미치는 영향"
+          "미국 AI 기업 실적 발표 결과",
+          "국내 주요 증권사 운용 손익 추이",
+          "미국 물가 지표(CPI·PPI) 발표"
         ],
         "qna": [
           {
-            "q": "국내 주식을 팔고 미국 주식으로 갈아타면 내 자산 안전성에 어떤 변화가 생기는가?",
-            "a": "기초 자산이 달러로 바뀌기 때문에 환율 변동 리스크에 노출된다. 무조건적인 수익을 보장하지 않으므로 환율 추이를 함께 고려해야 한다."
+            "q": "국내 기업 실적 발표 캘린더는 어디서 확인하고 어떻게 활용해야 하는가?",
+            "a": "증권사 HTS나 금융 정보 플랫폼의 실적 발표 일정을 통해 확인한다. 주요 기업의 실적 발표 시기를 미리 파악하면 예상치 못한 주가 변동성에 대비하는 데 도움이 된다."
           },
           {
-            "q": "서학개미라는 용어는 정확히 어떤 투자자들을 지칭하는 말인가?",
-            "a": "국내 주식 시장 대신 미국의 대형 기술주나 해외 주식에 직접 투자하는 국내 개인투자자들을 뜻하는 신조어이다."
+            "q": "미국 AI 기업의 실적이 왜 국내 코스피 지수에 큰 영향을 미치는가?",
+            "a": "국내 대형 반도체 기업들이 글로벌 AI 밸류체인에 깊게 연동되어 있기 때문이다. 미국의 AI 실적이 부진하면 국내 반도체 수출과 관련 주가도 동반 하락하는 경향이 크다."
           },
           {
-            "q": "모두가 미국 주식을 산다고 해서 나도 따라 사는 것이 현명한 판단인가?",
-            "a": "군중심리에 휩쓸린 묻지마 투자는 큰 손실로 이어질 수 있다. 자신의 투자 목적과 위험 감수 능력을 먼저 점검하는 태도가 필요하다."
+            "q": "증권사들의 3분기 실적이 운용손익에 따라 갈렸다는 것은 투자자에게 무엇을 시사하는가?",
+            "a": "전통적인 브로커리지 수수료 수익 외에도 시장 상황에 따른 자기자본 투자 및 유가증권 운용 능력이 증권사 실적의 핵심 변수임을 보여준다."
           }
         ]
       },
-      "뉴욕증시 저가 매수": {
-        "headline": "폭락 딛고 저가 매수로 반등한 뉴욕증시",
+      "뉴욕증시 저가 매수세": {
+        "headline": "기술주 폭락 후 뉴욕증시 저가 매수",
         "facts": [
-          "뉴욕증시가 가파른 폭락 사태를 겪은 하루 만에 저가 매수세가 유입되면서 한숨을 돌리고 반등에 성공함.",
-          "나스닥 지수는 AI 주식들의 저가 매수 힘입어 1.09% 상승하는 등 대체로 안정적인 흐름을 회복함.",
-          "스페이스X 관련 종목이 8% 폭등하는 등 시장의 블루쓰나미 공포를 하루 만에 상당 부분 벗어나는 모습을 보임.",
-          "주식 시장이 반등하는 과정에서 안전자산 선호로 인해 채권 가격은 내리고 달러 가치는 오르는 변화가 나타남.",
-          "반도체주와 AI 관련 기술주를 중심으로 저가 매수 유입이 뚜렷하게 관측되며 투자 심리가 진정되는 분위기."
+          "뉴욕증시가 인공지능 기술주 중심의 폭락 사태를 겪은 직후 저가 매수세가 유입되면서 나스닥 지수가 1.1퍼센트 상승함.",
+          "미국 정치권의 블루 쓰나미 여파가 시장에 혼조세를 불러일으켰으나 저가 매수 유입으로 주요 지수가 대체로 반등함.",
+          "반도체 관련 주식들을 중심으로 저가 매수 물량이 대거 유입되면서 나스닥 지수가 1.09퍼센트 상승 마감함.",
+          "급락에 따른 반발 매수세가 유입되면서 투자 심리가 일부 진정되었으나 여전히 변동성이 높은 혼조세를 기록함.",
+          "AI 기술주가 큰 폭으로 조정을 받은 기회를 틈타 기관과 개인 투자자들의 저가 매수 전략이 지수 방어에 기여함."
         ],
         "watch": [
-          "저가 매수세가 단기 반등에 그칠지 추세적 상승일지 확인",
-          "미국 국채 금리와 환율의 추가 변동 추이"
+          "나스닥 지수의 추가 반등 여부",
+          "반도체 주식 중심의 매수세 지속성",
+          "정치적 이벤트에 따른 증시 변동성"
         ],
         "qna": [
           {
-            "q": "뉴욕증시의 저가 매수 유입이 내 해외 투자 계좌에는 어떤 의미인가?",
-            "a": "단기 급락에 따른 손실을 일부 만회할 기회가 될 수 있다. 다만 변동성이 여전히 크므로 장기적 관점의 대응이 요구된다."
+            "q": "기술주 폭락 직후 나타나는 저가 매수세는 안전한 투자 기회인가?",
+            "a": "주가가 급락한 후 일시적 반등을 노리는 매수세가 유입되는 현상이다. 그러나 추세적 하락의 시작인지 단순 조정인지 단정하기 어려우므로 리스크 관리가 필수적이다."
           },
           {
-            "q": "블루쓰나미 공포라는 경제 용어는 어떤 상황을 설명하는가?",
-            "a": "미국 정치권에서 민주당이 선거 등을 통해 권력을 독점하여 급진적인 증세와 규제를 단행할 것이라는 시장의 불안감을 뜻한다."
+            "q": "블루 쓰나미 같은 정치적 변화가 뉴욕증시에 미치는 영향은 어떻게 이해해야 하는가?",
+            "a": "특정 정당의 의회 장악 등이 규제 강화나 정책 변화를 예고하면서 단기적인 시장 불확실성을 높이는 요인으로 작용한다."
           },
           {
-            "q": "폭락 후 반등하는 시점에서 추가 매수를 고민할 때 주의할 점은 무엇인가?",
-            "a": "기술적 반등인지 추세 전환인지 판단하기 어렵기 때문에 분할 매수 등 리스크 관리 전략을 세우는 것이 안전하다."
+            "q": "나스닥 지수가 1퍼센트 이상 반등했다고 해서 안심해도 되는가?",
+            "a": "단기 급락에 따른 기술적 반등일 수 있으므로 하루의 상승 폭만 보고 시장이 완전히 안정되었다고 판단하기에는 무리가 따른다."
           }
         ]
       },
-      "미국 10월 고용 지표": {
-        "headline": "예상 깬 미국 10월 고용 깜짝 증가",
+      "미국 10월 고용지표": {
+        "headline": "미국 10월 고용 깜짝 증가와 금리",
         "facts": [
-          "미국의 10월 비농업 고용이 16만 5000명 증가를 기록하며 시장의 예상을 뛰어넘는 깜짝 증가세를 나타냄.",
-          "고용 지표가 예상치보다 3배 가까이 껑충 뛰면서 연방준비제도의 매파적 통화정책 기조가 강화될 것이라는 전망이 지배적임.",
-          "고용 호조의 영향으로 다가오는 12월 기준금리 인상 확률이 기존 66%에서 76%까지 급등함.",
-          "예상을 웃도는 고용 지표 발표 직후 뉴욕증시의 급락세가 진정되며 시장 참가자들의 안도감을 유도함.",
-          "견조한 고용 상황이 인플레이션 압력을 높일 수 있다는 우려와 함께 금리 인상 전망을 더욱 공고히 하는 계기가 됨."
+          "미국의 10월 비농업 고용이 16만 5000명이라는 예상치를 뛰어넘는 깜짝 증가를 기록하며 고용 시장의 강세를 증명함.",
+          "견조한 고용 지표 발표로 인해 연방준비제도의 12월 금리 인상 확률이 기존 66퍼센트에서 76퍼센트로 대폭 상승함.",
+          "고용 지표의 예상을 3배 웃도는 증가세로 인해 연준의 매파적 통화정책 기조가 더욱 강화될 것이라는 전망이 확산됨.",
+          "미국 10월 고용의 서프라이즈에 힘입어 그간의 뉴욕증시 급락세가 진정되고 나스닥 지수가 반등하는 흐름을 보임.",
+          "탄탄한 고용 지표가 인플레이션 압력 우려를 키우면서 금리 인상 가능성을 높여 금융시장의 긴장감이 유지됨."
         ],
         "watch": [
-          "12월 연방공개시장위원회(FOMC)의 금리 결정 결과",
-          "고용 지표 호조가 향후 물가 상승에 미치는 영향"
+          "연방준비제도의 12월 금리 결정",
+          "미국 추가 고용 및 물가 지표 발표일",
+          "채권 금리 및 달러화 가치 추이"
         ],
         "qna": [
           {
-            "q": "미국 고용 지표가 좋게 나오면 한국에 사는 내 대출 금리에도 영향을 주는가?",
-            "a": "미국이 금리 인상 가능성을 높이면 글로벌 금융시장을 통해 국내 시장금리에도 상승 압력으로 작용할 수 있다. 변동금리 대출자의 이자 부담을 점검해야 한다."
+            "q": "미국 고용지표 발표일 10월 데이터가 왜 전 세계 금융시장의 주목을 받는가?",
+            "a": "미국 경제의 체력을 보여주는 가장 핵심적인 지표이기 때문이다. 고용이 너무 좋으면 연준이 금리를 올릴 명분이 생겨 증시에 부담으로 작용할 수 있다."
           },
           {
-            "q": "기사에서 언급된 고용 지표 발표일 10월 등의 지표는 무엇을 뜻하는가?",
-            "a": "매월 미국 노동부가 발표하는 전월 고용 동향으로 경제 건전성을 판단하고 향후 연준의 금리 정책을 예측하는 핵심 선행 지표이다."
+            "q": "고용이 깜짝 증가했는데 왜 12월 금리 인상 확률이 올라가는가?",
+            "a": "노동시장이 여전히 과열 상태이고 임금 상승 압력이 지속되면 인플레이션이 잡히지 않는다고 판단하여 연준이 긴축을 지속할 가능성이 커지기 때문이다."
           },
           {
-            "q": "고용이 늘어났는데 왜 주식시장은 금리 인상 우려로 긴장하는가?",
-            "a": "경기가 너무 좋아지면 물가가 잡히지 않아 중앙은행이 금리를 올리거나 고금리를 오래 유지하기 때문이다. 이는 기업의 자금 조달 비용을 높여 주가에 부담을 준다."
+            "q": "고용지표 호조로 금리 인상 전망이 강화된 상황에서 내 자산 포트폴리오는 어떻게 점검해야 하는가?",
+            "a": "고금리 장기화 가능성에 대비하여 부채가 많은 자산을 줄이고 현금 흐름을 창출할 수 있는 안전자산이나 우량 자산 중심으로 비중을 조절하는 고려를 해본다."
           }
         ]
       },
-      "글로벌 AI 기술주 반등": {
-        "headline": "바닥 찍었나, AI 기술주 일제히 반등",
+      "미 중간선거와 AI규제": {
+        "headline": "미 중간선거 후폭풍과 AI 규제 공포",
         "facts": [
-          "큰 폭의 하락세를 겪었던 글로벌 AI 기술주들이 저가 매수세의 유입에 힘입어 일제히 반등 국면에 접어듦.",
-          "나스닥 지수가 1.1% 오르며 시장 전반에 AI 관련 주식들의 바닥 통과 기대감이 확산하기 시작함.",
-          "엔비디아를 비롯한 주요 AI 반도체 종목들이 급락 충격을 딛고 반등을 시도하며 투자 심리가 다시 살아나는 조짐을 보임.",
-          "뉴욕증시의 반도체주 반등 소식이 전해지면서 급락을 맞았던 국내 코스피 시장도 한숨을 돌릴 수 있을지 주목됨.",
-          "다만 여전히 AI 산업을 둘러싼 규제 불안과 불확실성은 완전히 해소되지 않은 채 남아 있는 상태."
+          "미국 중간선거 이후 민주당이 빅테크 기업들에 대한 대대적인 조사와 인공지능 규제 강화를 본격적으로 추진하기 시작함.",
+          "유럽에서도 데이터센터 설립 반대 움직임이 확산되는 가운데 미국 정가의 블루 쓰나미를 타고 AI 규제론이 급부상함.",
+          "중간선거 결과로 인해 증시가 큰 충격을 받았으나 전문가들은 단기 충격 이후에도 미중 AI 패권 경쟁으로 수요는 지속될 것으로 전망함.",
+          "선거 이후 AI 규제 우려가 고조되는 상황에서도 오픈AI는 데이터센터 투자와 자금 조달 계획을 계속 추진하겠다는 입장을 고수함.",
+          "미국 중간선거에서 AI 규제론자들이 대거 당선되면서 규제 강화 전망이 뚜렷해졌고 이로 인해 한국 증시의 반도체 쇼크를 유발함."
         ],
         "watch": [
-          "AI 반도체 관련 대장주의 주가 회복 지속성",
-          "글로벌 규제 리스크가 기술주 실적에 미치는 파장"
+          "미국 의회의 AI 관련 규제 법안 추진",
+          "오픈AI의 데이터센터 투자 집행 속도",
+          "미중 AI 패권 경쟁에 따른 반도체 수요"
         ],
         "qna": [
           {
-            "q": "AI 기술주가 반등할 때 관련 펀드나 주식에 지금이라도 가입하는 것이 유리한가?",
-            "a": "단기 낙폭 과대에 따른 반등일 수 있으므로 추격 매수보다는 산업의 장기 성장성과 규제 리스크를 꼼꼼히 따져보는 과정이 필수적이다."
+            "q": "미 중간선거 결과가 한국의 반도체 주식에 직접적으로 타격을 주는 이유는 무엇인가?",
+            "a": "선거 이후 빅테크 규제론자들이 힘을 얻으면서 글로벌 IT 투자가 위축될 것이라는 공포가 확산되었고, 이는 반도체 수출 비중이 높은 한국 증시에 직격탄이 되기 때문이다."
           },
           {
-            "q": "인공지능 관련 주식이 왜 이렇게 급락했다가 갑자기 반등하는가?",
-            "a": "혁신적인 성장성 기대감으로 빠르게 올랐으나 규제나 실적 우려가 겹치며 매물이 쏟아졌고 가격이 싸졌다고 판단한 투자자들이 다시 유입되었기 때문이다."
+            "q": "오픈AI가 규제 우려 속에서도 데이터센터 투자를 계속하는 배경은 무엇인가?",
+            "a": "인공지능 모델 학습과 서비스 운영을 위한 인프라 확충이 필수적이기 때문에 단기적인 정치적 규제 리스크보다 장기 기술 패권 확보를 우선시하기 때문이다."
           },
           {
-            "q": "미국 AI 주식의 반등이 국내 반도체 기업들의 주가에도 즉각 호재가 되는가?",
-            "a": "글로벌 반도체 공급망이 긴밀하게 연결되어 있어 심리적 안정을 줄 수 있다. 하지만 국내 고유의 수급 상황과 실적을 함께 고려하여 판단해야 한다."
+            "q": "AI 규제 공포가 확산되는 시기에는 관련 기술주 투자를 어떻게 바라보아야 하는가?",
+            "a": "규제 리스크로 인한 단기 주가 변동성을 인지하고, 각 기업이 규제 환경 변화에 대응하면서 실질적인 수익을 창출할 수 있는지를 보수적으로 검토해야 한다."
           }
         ]
       }
     },
     "news": {
-      "코스피 급락세": [
+      "코스피 폭락과 서학개미": [
+        {
+          "title": "코스피 급락에 서학개미 미국행 가속…일주일 새 3조원 순매수 - 산경투데이",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1EYnFMSVB4bVFrVTdQX0JPQUYtczUyVnNvZ2g3bUlKT19uMG9UNG1PRXpsUGh2ME53akQ4UXRoRVdrSGNwV0RzcURDc2pycjY0blRvckUtUVdEd2xXMkk3dV8xcVVldWZ2TXNmVmxwbnbSAXRBVV95cUxPS3hVZ0RDQVBGSk5sUmlFSXZxLUs5YmVUaV9DRXhIRl9fZWN5am9ZTGx2dG1SdjkzZUtHUVJ0S1IzQVlUakpEb1h4MGp1QTdSMG1GUWFJUS16UTd3WGY1azJMSG5UQ2JzUmlZM1A2SHJhX0drWQ?oc=5",
+          "source": "산경투데이",
+          "published": "11-07 09:58",
+          "snippet": "코스피 급락에 서학개미 미국행 가속…일주일 새 3조원 순매수 산경투데이"
+        },
         {
           "title": "코스피 급락에…서학개미, 미국 주식 3조원 쓸어담았다 - 서울경제",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yUEpOQVlXZTJ5ZUJtYm9kWGtqckxWNHpfSnVoYWt3UFVVUjhCU2hnMDJ2Q3A3T1RwWENRODNfdEt2ZXp2Tml5SWhFVC1rVG9rRnfSAVNBVV95cUxPdjRxb0dIdlRYTzJYdmh3N00tLWx3MFlvSVVreWhFb1VLNEFhZTZZb3JNUHgwOHJnNjROUHF1bVFYZXJjTlFiZmJ1UkwwVVo4Q0xEYw?oc=5",
@@ -657,70 +684,35 @@
           "snippet": "코스피 급락에…서학개미, 미국 주식 3조원 쓸어담았다 서울경제"
         },
         {
-          "title": "급락한 코스피, 美 AI기업 실적에 쏠린 눈 - 블루밍비트",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hWlZiNlBWYmJvZGl1Y1c0QlRBUm9sM0d5TW5YdHpxejdiRkZoaWtSLW1rR3BYWTlVZFpYOTZtdXdMRXZmSmJhVjhNQUVjWDFL?oc=5",
-          "source": "블루밍비트",
-          "published": "11-07 08:20",
-          "snippet": "급락한 코스피, 美 AI기업 실적에 쏠린 눈 블루밍비트"
+          "title": "국내 증시 부진·환율 하락에 서학개미 美주식 '폭풍 매수' - www.ebn.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tSlkzbnJJWE1IV3pob3A2UHZFUVo4cUY0bVR5V09idGo4THdHUzZOaGg0VWt0dUxjVUwxR3U4eHptZG50SXFfYW1NTDNBVkViLVgwM3BabjR4VUJDVkZJQnMteHRieERw?oc=5",
+          "source": "www.ebn.co.kr",
+          "published": "11-07 08:29",
+          "snippet": "국내 증시 부진·환율 하락에 서학개미 美주식 '폭풍 매수' www.ebn.co.kr"
         },
         {
-          "title": "[증시-마감] 블루웨이브發 AI공포에 코스피 6% 급락…5,000 턱걸이 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wd2ZSR3Ytb3J1RFEySGo2bksxMWowLUJJU0FvYjFJQTZEaklGV3lta3M4WDNnX29DYlZXWmc5eW5PVXA2NXE5cDBycHdnSENrNHdpVkpad1Zad25RWmlveWYwNXotX1RKSm5VazYtZWc?oc=5",
-          "source": "연합인포맥스",
-          "published": "11-06 16:03",
-          "snippet": "[증시-마감] 블루웨이브發 AI공포에 코스피 6% 급락…5,000 턱걸이 연합인포맥스"
+          "title": "“주식 못 빼 집 잔금도 못 치를 판”…삼전닉스 폭락에 개미들 패닉 - 중앙일보",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hdVVYWUxmazBaaWVhYlNnU05MbHN1MUpGYmd0VkJNb1dXSTVld3lmaUR3V3Q4NjU2MW5TMjBxb3RPOTB5Tk5YcDhpVUhXTVlKT013UkRn?oc=5",
+          "source": "중앙일보",
+          "published": "11-06 16:04",
+          "snippet": "“주식 못 빼 집 잔금도 못 치를 판”…삼전닉스 폭락에 개미들 패닉 중앙일보"
         },
         {
-          "title": "코스피 급락에도 1만 간다고?...증권가 전망 살펴보니 - 조세일보",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yMXhIYTd0WGVVRVQtSVNmc3N2eXRrVVZjOVlJZm0tazZTalRtdWxTUmx6eTBqbWhSajhGMG1DQUliY0s1RVNwRl9oOGV2dC1ISVRuSnRZUXRFQ3M0dEhj?oc=5",
-          "source": "조세일보",
-          "published": "11-07 06:00",
-          "snippet": "코스피 급락에도 1만 간다고?...증권가 전망 살펴보니 조세일보"
+          "title": "국장 피해 미장 갔다가… 테슬라·엔비디아도 폭락 ‘개미 이중고’ - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMmxkU3VkNTA0RXA5T1NfZzBPUXlEbUpKY0ZraUcwbDNvZUFfNTNtTVdzS0IzYmlROU0yT0dNVW9ENmJWWE5Lem9JcWZTS1ZSd2FZMFVyUFJXZUg5V3FIVHduWVlLcVFlRUlkcDMya3JoNVpuUDluR3lRaHl4eC1KNWlDa1dEUTlq0gGcAUFVX3lxTE1nVmJLblRJZ2xvWHlBNUFBellYakpqZTlvZ3luNGhMSWZsVEJOaEFvdDNXYXozaGNuRTNyNEdQcHk0S0MtZ0RnLWpZWElGdERmRDJiNWZPOVctZjUtMnJjeVk1ejhDbjVzeDJZN0s3QlhMN2NYYkJYLS1PZ3pGdFFrRDhHWmEwSjhfZVVNZGhUVWEwRFI0NWxIaVdHbg?oc=5",
+          "source": "Chosunbiz",
+          "published": "11-06 16:43",
+          "snippet": "국장 피해 미장 갔다가… 테슬라·엔비디아도 폭락 ‘개미 이중고’ Chosunbiz"
         },
         {
-          "title": "코스피, 6% 급락 마감…9달 만에 장중 5천 선 아래로 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nNEh6TGZnQU9xdVh3aGgwb055dVlyU0RqOUhvQnhhaTNORzAtNmRVY0VVTm9fMmRZTkczRkxBQllzLXgwOTlKOHZVV2tCbHlTaW80X3lvdFVSMGc?oc=5",
-          "source": "KBS 뉴스",
-          "published": "11-06 17:06",
-          "snippet": "코스피, 6% 급락 마감…9달 만에 장중 5천 선 아래로 KBS 뉴스"
-        },
-        {
-          "title": "'검은 금요일'…코스피, 6% 넘게 급락해 5,000선 턱걸이 마감 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SZHMydjFyQmZ2V05TVXllUUp1WjBpUUROX01BSzNhZ1pyd0hOdE1aWDFBNHNucGt3M0ZEWVF6eDFDSmJ6S25Sb19lMEh2RExmT255YXpCWmpyUDTSAWBBVV95cUxQY0JnWVpQSkllYVh0NVpJMzltTkI1NDNwV3U4bG16VGs2S3BvYzZHVXgyZFROVV9jMF83UmpaY0ItQnVkbUpybTBONXlyXzBzOU1Jb2R0Wjd6d003WXUtdWM?oc=5",
-          "source": "연합뉴스",
-          "published": "11-06 15:35",
-          "snippet": "'검은 금요일'…코스피, 6% 넘게 급락해 5,000선 턱걸이 마감 연합뉴스"
+          "title": "국내 증시 부진에 서학개미 '우르르'…美 주식 3조 폭풍 매수 - SBS Biz",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15dV9uWXlaU2VRRGNRV3VrVVItUTJpZ3pwUzhZVzZfYlZzNDVrZ1Nld3dINVRENS1xOXI4OWVNa3R0ZDhPaUJwVXZxWkszUi1tb0400gFYQVVfeXFMTzFIZHhWSlZGT0hjUjFyS2R5R2ZXbWZFTWNkWVNoU0RQUFAzX0xsZ2M1QzJxcnEzWWVNNC1aZVdZcFpaRzBEMHlXd1N3c3FpX251QVVyNkJIaw?oc=5",
+          "source": "SBS Biz",
+          "published": "11-07 09:43",
+          "snippet": "국내 증시 부진에 서학개미 '우르르'…美 주식 3조 폭풍 매수 SBS Biz"
         }
       ],
-      "강남3구 집값 하락": [
-        {
-          "title": "집값 하락 (강남3구만), 틀린 말은 아니지만 - 비즈워치",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BWmhUbW9vWmU3TWx0R1FjdEZNYWhUemdreUU5TjRnRE1CdWlHTUo5X3ZoTTNRb185V2cydXNkREdyOC10OXRIOGstWVhjemVfMEpwOTFDTDFTR2F0eklYUnVJVk1EdnpOMlFqc2s5aEo?oc=5",
-          "source": "비즈워치",
-          "published": "11-07 08:00",
-          "snippet": "집값 하락 (강남3구만), 틀린 말은 아니지만 비즈워치"
-        },
-        {
-          "title": "연일 ‘집값 하락’ 얘기하는 대통령…진실은? - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Wb1FRZDVtUG5janlPUnQ1c0Uzb3BDRXRraEU3NlhsLTVjUUlWMkpUbTVvOXl5Z2dEYzJHXzRHMGZUdGdXVkVZMENQZmh4ZWpZM0NBRXpDWEpPTWUtYXhONTFHQlVKQQ?oc=5",
-          "source": "KBS 뉴스",
-          "published": "11-07 08:00",
-          "snippet": "연일 ‘집값 하락’ 얘기하는 대통령…진실은? KBS 뉴스"
-        },
-        {
-          "title": "뒤바뀐 서울 집값 상승률… 성북 1위, 강남 3구는 최하위권 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa2xJR2d2dWZqMFJHX2tqb0R6VzVIT1p2UWRpXzZ3X0ctbURaRmE4OHowTkpYamZHZHlHemNlV0hDV2tnbGluWjdqTVRreURyUmlHRjZWYnhReXhmdWZsTldPZ2c1S0UtUExYZUxnaFF1SzdnMHJVNmVkVXI5ZnplWHFKdGJjOU15?oc=5",
-          "source": "조선일보",
-          "published": "11-07 00:37",
-          "snippet": "뒤바뀐 서울 집값 상승률… 성북 1위, 강남 3구는 최하위권 조선일보"
-        },
-        {
-          "title": "강남 급매물 35억 ‘뚝’ 떨어졌는데…집값 3.5억 ‘껑충’ 뛰는 곳 보니 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zZmYtc1lkMW9WZmxyNVc3SWtmVktMdU9hbm9qemdLUFJLVHdTR0I4eC1FZDJhOFVWLU1qWnVXUWpTT1loQ0Q2NlpyeldWQVk4UUE?oc=5",
-          "source": "매일경제 마켓",
-          "published": "11-07 11:04",
-          "snippet": "강남 급매물 35억 ‘뚝’ 떨어졌는데…집값 3.5억 ‘껑충’ 뛰는 곳 보니 매일경제 마켓"
-        },
+      "서울 집값 및 주택공급": [
         {
           "title": "[통계로 보는 부동산] 강남3구 9주째 하락·분양 전망도 먹구름…11월 4만가구 공급 앞둬 - 아주경제",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwX2tvOGs0b0o4djZrVEYtM2sySV9nN0ZOSlNhT3hSZGhjamNUQml0a0FnTjRGTGhvVEhCMUZiOHdlNzIxc2d5R1k3UmJzUHhlbjZrRjVLOFZkd9IBWEFVX3lxTE9aN09DYzJHamtUZzFYNkZoQnFvNXRPLWM1TllMeVlKcktfLWlyYjl2OFUwN3dacVgtZ28wamQySkRYT0ItNmN3VzhlenpNZmRkUjRHSnFSeTY?oc=5",
@@ -729,85 +721,99 @@
           "snippet": "[통계로 보는 부동산] 강남3구 9주째 하락·분양 전망도 먹구름…11월 4만가구 공급 앞둬 아주경제"
         },
         {
-          "title": "강남만 내린 서울 집값…정부의 섣부른 '시장 안정 기대' - 미디어펜",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1Rlc0OHRUMEZvVGpuREFPZmZCdkpnQlJKajZYelA4Mk1IRU93czQ2YVpuTTZnV1lEZmFnZG52VXN1SGhHLWgxV0ZBbUZTejJzNDBoVdIBWEFVX3lxTE5Ib2dObFJTeFRSUm40b0VQdERZVllDamxvaWswX09qX2w0cjNuYmpvZWNxVFlQZWdIa2RKcXg0ZUd6LTdpNFJtY0dNM3doUWJzdGl5Nm1ibi0?oc=5",
-          "source": "미디어펜",
-          "published": "11-07 08:43",
-          "snippet": "강남만 내린 서울 집값…정부의 섣부른 '시장 안정 기대' 미디어펜"
+          "title": "홍지선 국토장관 “수도권 주택공급 80% 담당 민간 역할 중요” - 이투데이",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBxTWxRbl80bFptekNSVFFRdEVWWmRjRHFXaC02bnZiZHdZajNqX0xDR3JNckFvaG5JSVBGbDR3ck13MGJvUjlBal9lYTRZSnJqWUxERTdDdmpwQTlWYWlYX255REMtQVhHTjZGN2VxZWhzM2wx?oc=5",
+          "source": "이투데이",
+          "published": "11-06 14:27",
+          "snippet": "홍지선 국토장관 “수도권 주택공급 80% 담당 민간 역할 중요” 이투데이"
+        },
+        {
+          "title": "홍지선 수도권 주택공급 80% 담당하는 민간 역할 중요…지원 총력 - 아주경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zc2NLRzJIbmJoQ2ZNLU80Ym9XNUxGMF9nZU01SVpTSE5jMHl0cEpYazVLblRWd3dKbEZzMVUwMkdIODdJbEhDcWFCLTdoRkY1cXA2ZEpydTB1d9IBWEFVX3lxTFBmSmxXVFZxbl80MTc3eUZlQlpXZGZ1cjVYN0d5U2xIdWVHTFFCWFliNDQ0MDVrUXA3N05Xb3gxZEpPYk51YnF3SkRxVGQ1NTNjZ19vTk5hbHQ?oc=5",
+          "source": "아주경제",
+          "published": "11-06 14:37",
+          "snippet": "홍지선 수도권 주택공급 80% 담당하는 민간 역할 중요…지원 총력 아주경제"
+        },
+        {
+          "title": "모두가 집주인이 되는 세상? 부동산 ‘87년 체제’ 바꿀 때가 됐다 - 시사IN",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Ma2U3M0ZSeXNJdXQxeERMbjloSWpUQlc3b0xERWFWdnlMOWdlV0E3TUU5N3dxQ2VROTJlQjJpNWdaY2RfX3dEUU1lVWQ4VWlxaFU2VWlxNGl4NjVuZWVzSGYydkpTMjJzbkE?oc=5",
+          "source": "시사IN",
+          "published": "11-06 03:25",
+          "snippet": "모두가 집주인이 되는 세상? 부동산 ‘87년 체제’ 바꿀 때가 됐다 시사IN"
+        },
+        {
+          "title": "낮은 집값만으론 수요 못 잡는다…외곽 미분양 해법은 ‘정주 경쟁력’ - 시사저널",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FemFuNkpSYy1tLXgya2tfdzdzWlN5WUFFb2tCRW1wZzEwUjNwOXNjZ0FzNUFYU201R3ZDZUZueE52Qy1hVUVJOU5PMElKZ1FoR3JKd09VNWNPcXljZ2Y0YUJBN01KQUYtMWc1S2tBd9IBc0FVX3lxTE02T3huckRkVWhjTG9SWlhDQ0VZbTJMOXVvVFlMTThUUW1Eczh5UG5lUk5teVc2LXpQdkpkeVJsaU1SLUVFSy1NeWNVaTZoTEpRV0lnR0JBS3F0RzZUaHNKaUVEcHBaaFJBZTc2aE53X3N3S2s?oc=5",
+          "source": "시사저널",
+          "published": "11-07 13:00",
+          "snippet": "낮은 집값만으론 수요 못 잡는다…외곽 미분양 해법은 ‘정주 경쟁력’ 시사저널"
+        },
+        {
+          "title": "강남 집값은 '뚝' 외곽은 '쑥'···서울 아파트 100주 연속 상승 현실화하나 - 스마트비즈",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vNUdtYkQwcTM0Y3l3VG9RSUdJekdpQVFoUmxHUlBVMVZHRFZtUDNEZXVSaWNmWHFhaklkYXNOTW0tcXlsMXZYRDZyd0hvNkJyTHJnN0RMLWtjSzBXckZfaGNSLUVLVmk2bGZfTQ?oc=5",
+          "source": "스마트비즈",
+          "published": "11-06 07:38",
+          "snippet": "강남 집값은 '뚝' 외곽은 '쑥'···서울 아파트 100주 연속 상승 현실화하나 스마트비즈"
         }
       ],
-      "서학개미 미주식 매수": [
+      "국내 기업 실적 발표": [
         {
-          "title": "서학개미 일주일 동안 미 주식 3 조 원 '폭풍 매수' - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zQTE4V2JiNXJUNTJ4dWFqU1hGbmYweWRGMnRwY0JWcFdXOVgyeGRFSTA4VjZTYzNCblRpNG5Hd0VSMGZvSldFRElKQ0I4UWl3OTlNbXI2bTNWRlFDU2xxZkpzNA?oc=5",
-          "source": "YTN",
-          "published": "11-07 12:59",
-          "snippet": "서학개미 일주일 동안 미 주식 3 조 원 '폭풍 매수' YTN"
+          "title": "급락한 코스피, 美 AI기업 실적에 쏠린 눈 - 블루밍비트",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hWlZiNlBWYmJvZGl1Y1c0QlRBUm9sM0d5TW5YdHpxejdiRkZoaWtSLW1rR3BYWTlVZFpYOTZtdXdMRXZmSmJhVjhNQUVjWDFL?oc=5",
+          "source": "블루밍비트",
+          "published": "11-07 08:20",
+          "snippet": "급락한 코스피, 美 AI기업 실적에 쏠린 눈 블루밍비트"
         },
         {
-          "title": "서학개미, 국내증시 급락장속 11월 첫주 美주식 3조 폭풍 매수(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ncjZDdFpRd2wtdDNjWEJFbHJFeHRHTEhjSXNnWkVNWlhsTVpkc3AxXzJSSFVoeUVOMUZTUDduSmYwYzMxbm5jbjJzY1JsNV9SVFNuWWg5SjBnLWvSAWBBVV95cUxPV2tsZFdnNDZFWlcxRWF3T0V1cGNjazI4enM5M3BrYmh6VWVlbmVIZTk5QjRRNERMMlQxNWdvMFV5d1JEZ3U1RzUwYWIzR2tBNmhHcUlneHRlZTlaY0NsRnM?oc=5",
-          "source": "연합뉴스",
-          "published": "11-07 09:21",
-          "snippet": "서학개미, 국내증시 급락장속 11월 첫주 美주식 3조 폭풍 매수(종합) 연합뉴스"
+          "title": "AI 반도체는 날고, 아이폰도 신기록… 이번 주 실적의 승자는?(11월 1주 어닝콜) - 네이버페이 머니스토리",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fRDc0ZzVWd1BsNjFKSmZfUFNpdC1wd0dlZWQyNnpTQW5nakRvenRLMzM2YnZETkdSd1dkSllqRkR3UjBhblBDeWZXNnZXZEljaTNVV0JVRHl5QQ?oc=5",
+          "source": "네이버페이 머니스토리",
+          "published": "11-07 06:42",
+          "snippet": "AI 반도체는 날고, 아이폰도 신기록… 이번 주 실적의 승자는?(11월 1주 어닝콜) 네이버페이 머니스토리"
         },
         {
-          "title": "국내 증시 급락하자 미국 주식으로 달려간 서학개미들···11월 첫 주에만 3조원 순매수 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tMDJ6dU9DOFRjVExkTk5YUU9jakRXXzdJQnd6VTNReHJDbXc3NWx1cWVpcU5sUkxwcjFoek5WbkV3djRLbm5PTTFqODRFRXdYRGs4THpjU2xUQdIBX0FVX3lxTFAyd2R5YTlTRmI4MnhELXlsNTgzcFpQY1RXb19EaU43ODdHczhEaVdvZFBvMS0xNF8xYzloT2sweXRiR09hMXZxenp6ejVVZFVYNXVyM2xpekt5X0pQZFpn?oc=5",
-          "source": "경향신문",
-          "published": "11-07 12:19",
-          "snippet": "국내 증시 급락하자 미국 주식으로 달려간 서학개미들···11월 첫 주에만 3조원 순매수 경향신문"
-        },
-        {
-          "title": "국장보다 미장?…서학개미, 닷새 동안 미국주식 3조원 ‘폭풍매수’ - JTBC",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0ybEc1d3NFZ3dMNFp4a0FIYzNVa0xhM3J0dHJGYkhyX3JPRndWUWdKcVFLX3RxdWNnUmtTSjc5Ukg0TEJiTWJtWGgzdGdTdkRCNW43RQ?oc=5",
-          "source": "JTBC",
-          "published": "11-07 11:44",
-          "snippet": "국장보다 미장?…서학개미, 닷새 동안 미국주식 3조원 ‘폭풍매수’ JTBC"
-        },
-        {
-          "title": "[속보]'국장 폭락에 다시 미국으로' 서학개미, 일주일간 3조 매수 - KBC광주방송",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qbzRBVkphLW5TQnVSUVRQOUxpUnlmNXY1cDlyZ19zMFBpRTliRnhJb2hpeXlrcWVJTTJOZWFlYllBbzRjd0txb3NHOEtfR2pkUllLa1F0aUFROGRqV0lhVw?oc=5",
-          "source": "KBC광주방송",
-          "published": "11-07 09:44",
-          "snippet": "[속보]'국장 폭락에 다시 미국으로' 서학개미, 일주일간 3조 매수 KBC광주방송"
-        },
-        {
-          "title": "국내 증시 부진에 ‘서학개미’ 미국 주식 매수 급증...일주일 새 3조원 육박 - M이코노미뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZYndnWXFhUUE3cUVJbTZIZHRRYVdLcWhpY25qeXVQODc0U3hYdjBMQUV1LU0zblU5YWFaNWpOR1hISUJNQ0JkZHZXUHpMZmN2X1lhanZaRUw2d1BtMWhPU2JHd1FwRHc?oc=5",
-          "source": "M이코노미뉴스",
-          "published": "11-07 11:34",
-          "snippet": "국내 증시 부진에 ‘서학개미’ 미국 주식 매수 급증...일주일 새 3조원 육박 M이코노미뉴스"
-        }
-      ],
-      "뉴욕증시 저가 매수": [
-        {
-          "title": "[뉴욕마켓워치] 폭락 뒤 저가 매수로 한숨 돌린 증시…채권↓달러↑ - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ESXNSd3A0eGZRQmlfNmhJekdOS0l4WWEyekRKQzN5eXFJOWFleVgtUVRhU1NWSGlra0ZxMVNzLXVQb21TTk1KU3dqNHBsS2VtcUhDQ1NMTDI0MlpsODRTOUxlNEFzRk93ZHp4WUtaRnQ?oc=5",
-          "source": "연합인포맥스",
-          "published": "11-07 09:00",
-          "snippet": "[뉴욕마켓워치] 폭락 뒤 저가 매수로 한숨 돌린 증시…채권↓달러↑ 연합인포맥스"
-        },
-        {
-          "title": "뉴욕증시, AI주 저가 매수에 혼조 마감…나스닥 1.09%↑ - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03ZVhHTkI5UUdLWDJndzUwX2owX3dqNHlVbjlubm1OcmlORC1fR3JoSGREMmE4NzFyV2dfQk9DT3ROOWhjd0c4Q0I3amM1Z1BNeE9NRlNINDNKcm5o?oc=5",
-          "source": "뉴스핌",
-          "published": "11-07 06:21",
-          "snippet": "뉴욕증시, AI주 저가 매수에 혼조 마감…나스닥 1.09%↑ 뉴스핌"
-        },
-        {
-          "title": "뉴욕증시, 반도체주 저가 매수에 대체로 반등…나스닥 1.09%↑ - www.ebn.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tOFNEUmNLR0w4bDdFXzgtX3lBM1pETkdSeExCMWNlYzBjcEVHZ21ncGFnT29ReWZmb2NuWURZemN4ZWpIU1FUVGhjOVI3OUhoZHBlWE1ubVRFcXk1TTlsX1RPcVgyaVMt?oc=5",
-          "source": "www.ebn.co.kr",
-          "published": "11-07 08:49",
-          "snippet": "뉴욕증시, 반도체주 저가 매수에 대체로 반등…나스닥 1.09%↑ www.ebn.co.kr"
-        },
-        {
-          "title": "뉴욕증시, AI주 폭락 후 저가 매수에 반등…나스닥 1.1%↑ - 여성신문",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43cl9ac0Y4UFJPYy1yZktYUS1wZmJVcDlaZ2NkeUQ0dGJiWHNWcXJsMEQwMUpETFYxVUdsYnpFdC1rU29RZVFSZ2ZZZXJNQ3lFdTd0X3M1R1I4N2hqMEh0c3piRE00eEY3bTVJbWJuVEEwSUXSAXNBVV95cUxON3JfWnNGOFBST2MtcmZLWFEtcGZiVXA5WmdjZHlENHRiYlhzVnFybDBEMDFKRExWMVVHbGJ6RXQta1NvUWVRUmdmWWVyTUN5RXU3dF9zNUdSODdoajBIdHN6YkRNNHhGN201SW1iblRBMElF?oc=5",
-          "source": "여성신문",
+          "title": "[기획] 증권사 3분기 실적, 운용손익에 희비 - 한국금융경제신문",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9najQ1elgxQ0JTRnY5R0FaRTg3RmRIZ1pWMHRueHI0V0o1bGhoYmJFalVzZWNsbmMtTnVxOW9iRDQ4Y2VHRWV5bFpQTmZFVENMaXd3aXl0RHhoOFh0NGZBSVM0VV9HY0xNSHAwa9IBcEFVX3lxTE1OQm4yUzZ0TEswejgtN1cyWV8wMEZOc29memVTdklZb1JOOEpsVkYwTl9idU1SOVVJRGtITTVaWEhoV3pDcExRYVUwZ01lLWFjSEN4YTViOFVVN3Y4NFczVk56TUNscHN3OVB4M0ZVQmc?oc=5",
+          "source": "한국금융경제신문",
           "published": "11-07 09:57",
-          "snippet": "뉴욕증시, AI주 폭락 후 저가 매수에 반등…나스닥 1.1%↑ 여성신문"
+          "snippet": "[기획] 증권사 3분기 실적, 운용손익에 희비 한국금융경제신문"
+        },
+        {
+          "title": "[다음주 유통업계] 김장 할인전·빼빼로데이..주요 기업 실적 발표 - 한국정경신문",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jM0l3aGRfQXItSGJWSDhLRC15NTVxTzdHMlM4WFAxbHhaQTItZlRVNWlWOHdfWlFTVzNGRXBEeU82TVljcHYxN25kbDdydFdNWFE?oc=5",
+          "source": "한국정경신문",
+          "published": "11-07 11:51",
+          "snippet": "[다음주 유통업계] 김장 할인전·빼빼로데이..주요 기업 실적 발표 한국정경신문"
+        },
+        {
+          "title": "[주간증시전망] 검은 한주 지낸 코스피…내주 반등 열쇠는 AI 실적·美 물가 - 아주경제",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yUnV6ZVplWWNNb3FWQXZCUVRMa1BQek1RVXZKU2RWWnMtSS10VjRRY285RmxKX0FYMlZWRkVXR285YTlFTkkzUFRVNWN5VnRzVldkY19hX0fSAVhBVV95cUxNclJ1emVaZVljTW9xVkF2QlFUTGtQUHpNUVV2SlNkVlpzLUktdFY0UWNvOUZsSl9BWDJWVkZFV0dvOWE5RU5JM1BUVTVjeVZ0c1ZXZGNfYV9H?oc=5",
+          "source": "아주경제",
+          "published": "11-07 07:00",
+          "snippet": "[주간증시전망] 검은 한주 지낸 코스피…내주 반등 열쇠는 AI 실적·美 물가 아주경제"
+        },
+        {
+          "title": "[11월2주 글로벌 증시 캘린더] 미국 CPI·PPI에 AI 실적까지…증시 흔들 변수는 - https://www.theconnectmoney.com/",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZMXhCeWd2OVNXZkpTSHJRdGxQbG16akRtMW5BbC1RR0FkenNZSUNzc0hITHVHMDB1NzMtUGVMblB5UlZQTWc1UlVTQWYwUFBkNlFCZThyT1NINlRxcU15aA?oc=5",
+          "source": "https://www.theconnectmoney.com/",
+          "published": "11-07 13:49",
+          "snippet": "[11월2주 글로벌 증시 캘린더] 미국 CPI·PPI에 AI 실적까지…증시 흔들 변수는 https://www.theconnectmoney.com/"
+        }
+      ],
+      "뉴욕증시 저가 매수세": [
+        {
+          "title": "뉴욕증시 반등, AI 기술주 폭락 후 저가 매수세…나스닥 1.1% 상승 - JTBC",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUSG9JS3JVZ1MtWlBlb0dHdHdrMDVQak1GOGZhS0VnN2hvNDZ1aV9FX0p5R2U3NDkxemJJZjR2RlIxNllpZE92NXotVGYtcnktMEdYMQ?oc=5",
+          "source": "JTBC",
+          "published": "11-07 16:23",
+          "snippet": "뉴욕증시 반등, AI 기술주 폭락 후 저가 매수세…나스닥 1.1% 상승 JTBC"
+        },
+        {
+          "title": "[뉴욕증시] '블루 쓰나미' 여파 속 저가 매수…혼조 마감 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqSEtCVnByRFlXSW42YTRncV92cndKa29tckpLbWYxM0lQU1E5UE4xTWFfelMyQk5MbThDZ2xiM1ZwNjRTLU1aTHFJMk5hZ1ZsUExIeWwyVzBidGNDUFMzZHVSaGthZV9vSWxHY05mNDE?oc=5",
+          "source": "연합인포맥스",
+          "published": "11-07 06:55",
+          "snippet": "[뉴욕증시] '블루 쓰나미' 여파 속 저가 매수…혼조 마감 연합인포맥스"
         },
         {
           "title": "뉴욕증시, AI 기술주 폭락 후 저가 매수세…나스닥 1.1%↑(종합) - 연합뉴스",
@@ -817,27 +823,34 @@
           "snippet": "뉴욕증시, AI 기술주 폭락 후 저가 매수세…나스닥 1.1%↑(종합) 연합뉴스"
         },
         {
-          "title": "美 ‘블루쓰나미 공포’ 하루만에 벗었다…스페이스X 8% 폭등 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QOVp2VFY3bzBDbkFiNlR6R1lnYWpjU3h4VkJBVzVad1g2eUt4QzVfYUcxYmhDM1E5bmpVTzZOQjNPM1FzLUt5TGZFQ3BjSFVvT081ZjNoQ1VhTXRVZ0pLbHF1MFJKX3lMQm5WRUo5QW1YbGPSAWZBVV95cUxOVmlRZG9JTzg5a2dSSVN5S1hqYTdKYTJzVFROaG94M21hNVctdWNQbjhDcXg2dzVOeVdEZDFmaWZxNWFXTkZ3TDF6elM4cWdjS01tNlU2NnJXSDdGeFY4OXo1WGpUWUE?oc=5",
-          "source": "동아일보",
-          "published": "11-07 08:25",
-          "snippet": "美 ‘블루쓰나미 공포’ 하루만에 벗었다…스페이스X 8% 폭등 동아일보"
+          "title": "뉴욕증시, AI주 저가 매수에 혼조 마감…나스닥 1.09%↑ - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03ZVhHTkI5UUdLWDJndzUwX2owX3dqNHlVbjlubm1OcmlORC1fR3JoSGREMmE4NzFyV2dfQk9DT3ROOWhjd0c4Q0I3amM1Z1BNeE9NRlNINDNKcm5o?oc=5",
+          "source": "뉴스핌",
+          "published": "11-07 06:21",
+          "snippet": "뉴욕증시, AI주 저가 매수에 혼조 마감…나스닥 1.09%↑ 뉴스핌"
+        },
+        {
+          "title": "뉴욕증시, AI 기술주 폭락 후 저가 매수세…나스닥 1.1%↑ - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SdU5oaDNjSnZVdHdINWJJOVpNZ21jQmYxM2poYVQzZTREcS1yYmY4czNzZVVMdWdNaHAyNjhWR2xZbDdncG4tdVdXY2JHZU94OVN6Z21USFNSMU0?oc=5",
+          "source": "KBS 뉴스",
+          "published": "11-07 06:24",
+          "snippet": "뉴욕증시, AI 기술주 폭락 후 저가 매수세…나스닥 1.1%↑ KBS 뉴스"
+        },
+        {
+          "title": "뉴욕증시, 반도체주 저가 매수에 대체로 반등…나스닥 1.09%↑ - www.ebn.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tOFNEUmNLR0w4bDdFXzgtX3lBM1pETkdSeExCMWNlYzBjcEVHZ21ncGFnT29ReWZmb2NuWURZemN4ZWpIU1FUVGhjOVI3OUhoZHBlWE1ubVRFcXk1TTlsX1RPcVgyaVMt?oc=5",
+          "source": "www.ebn.co.kr",
+          "published": "11-07 08:49",
+          "snippet": "뉴욕증시, 반도체주 저가 매수에 대체로 반등…나스닥 1.09%↑ www.ebn.co.kr"
         }
       ],
-      "미국 10월 고용 지표": [
+      "미국 10월 고용지표": [
         {
           "title": "미국 10월 고용 16만 5000명 깜짝 증가, 12월 금리 인상 확률 66%→76%로 껑충 📈 - 뉴닉",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WU3kwaExTUUZTcE5ldzY3bXFnckFhQkN2Wld2X1NhZUZMa1VVQWFmSHBlS2xlbUZ4dllnX3Nzc3NFZzNPdjBRZkZHaHJZdkdHeTA0?oc=5",
           "source": "뉴닉",
           "published": "11-07 09:41",
           "snippet": "미국 10월 고용 16만 5000명 깜짝 증가, 12월 금리 인상 확률 66%→76%로 껑충 📈 뉴닉"
-        },
-        {
-          "title": "뉴욕증시 급락세 진정…미 10월 고용 ‘깜짝증가’ - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CZlYwcm1GWE5xTk9JWjRMYTloRXdoT0trVllObmNCTHJZZGZFUE9BWnRLOXg4Ukx4TTFJNjVGMGgyWTJ4MTNySkZOczJqbHc4eTNWWEQzeHFoRzg?oc=5",
-          "source": "KBS 뉴스",
-          "published": "11-07 09:42",
-          "snippet": "뉴욕증시 급락세 진정…미 10월 고용 ‘깜짝증가’ KBS 뉴스"
         },
         {
           "title": "미국 10월 고용 16만5000명 증가…12월 금리인상 전망 강화 - MTN 머니투데이방송",
@@ -854,6 +867,13 @@
           "snippet": "미국 10월 고용 16.5만 명 증가...금리 인상 전망 강화 YTN"
         },
         {
+          "title": "뉴욕증시 급락세 진정…미 10월 고용 ‘깜짝증가’ - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CZlYwcm1GWE5xTk9JWjRMYTloRXdoT0trVllObmNCTHJZZGZFUE9BWnRLOXg4Ukx4TTFJNjVGMGgyWTJ4MTNySkZOczJqbHc4eTNWWEQzeHFoRzg?oc=5",
+          "source": "KBS 뉴스",
+          "published": "11-07 09:46",
+          "snippet": "뉴욕증시 급락세 진정…미 10월 고용 ‘깜짝증가’ KBS 뉴스"
+        },
+        {
           "title": "美 10월 고용 16만5천명 '깜짝 증가'…12월 금리인상 전망 강화 - 조세금융신문",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ramNsbjE5VUg1X1dQRnlqbzdfRVJVZDlPZVB2VlAtOVpsdHRPRlNtSXZhajNRS05sWjdBOXJfX3BELVc0UXlPZlFJWkFNbWZ4S2xsRDdvTVRaYlU2SnZSUA?oc=5",
           "source": "조세금융신문",
@@ -868,62 +888,70 @@
           "snippet": "美 10월 고용 예상치 3배 '껑충' 연준 매파 기조 강화 전망 … 나스닥은 1.1% 반등 뉴데일리"
         }
       ],
-      "글로벌 AI 기술주 반등": [
+      "미 중간선거와 AI규제": [
         {
-          "title": "폭락했던 AI 기술주 반등…나스닥 1.1% ↑ [뉴욕증시 브리핑] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05UzdqVHRaYXhXU01CMzJnNEtaUzhEM1pBRi1WNHBMMjNnMlhPM21TSUNNbUhTU0tiUUQ0RmFSZTFsY1RPck5Rc3E1eWFVUUZYVHlaUlo2elZxdw?oc=5",
-          "source": "한국경제",
-          "published": "11-07 07:25",
-          "snippet": "폭락했던 AI 기술주 반등…나스닥 1.1% ↑ [뉴욕증시 브리핑] 한국경제"
+          "title": "미 중간선거 후폭풍…민주당, 빅테크 대대적 조사·AI 규제 추진 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NZlVqSzFWX21sTnNCX1BOVmoxWHBEUnJLbDFxWlZMZ2FHaUZ2NFA2Q1RTZGFxYWEzenBCOEY4SHphVF9SUVFaSG5RanpaelhleVpGSjJWRlBtQzRaR1VIYVlKSFdFM3puMnc?oc=5",
+          "source": "AI타임스",
+          "published": "11-07 16:43",
+          "snippet": "미 중간선거 후폭풍…민주당, 빅테크 대대적 조사·AI 규제 추진 AI타임스"
         },
         {
-          "title": "[뉴욕증시] 나스닥 1.09% 반등, AI 바닥 찍었나 - 자본시장뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PYmdsMXI2MTlpSW5jVUlGZVlqVlhJSjNZamVMUldSbURKYWtaRE9WWVB5dnNPd2Z6NW5qalBEUVl4cWl6QW1DaXlSQk0yZ0pBR3JhZzlITEx6TjhCYTA2SDJpTGp5aFE?oc=5",
-          "source": "자본시장뉴스",
-          "published": "11-07 08:42",
-          "snippet": "[뉴욕증시] 나스닥 1.09% 반등, AI 바닥 찍었나 자본시장뉴스"
+          "title": "유럽도 데이터센터 반대 확산...미 '블루 쓰나미' 타고 \"AI 규제\" - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YeUsxX0h4clo2dlNuRmhZSFJrTmFUVi1kZU4tdmhlTHNHZmt6dXJGbHAyTEZiV1BDeEE1dUNOQmZqNEpwZmlGRGY0d0U0dWx3bW9NMXAtTFJKQk5hR3c?oc=5",
+          "source": "YTN",
+          "published": "11-07 06:56",
+          "snippet": "유럽도 데이터센터 반대 확산...미 '블루 쓰나미' 타고 \"AI 규제\" YTN"
         },
         {
-          "title": "뉴욕증시, AI 관련주 대폭락 후 저가매수세 '뚜렷'... 나스닥 1.1% 반등 - 글로벌경제신문",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11VHZxNWFEV3RNbE5ZSC0yVzhwZkhjRS11Z0lTMTdwTnVyR2p1VTBzWmx4QkpkeFliT1E3MmVacTRWTk1tM0NwdnpOSmFORHJidVM3bElGLWJ6MS1QUXVwTFJtSm82WWw0MzRPUNIBcEFVX3lxTE94b1N4U05QT1dzeEFOb01LaE0zZDloZ1RpVkhhOVg5MFQtMlRrVHdRMlhzX0YtT2hsd1phekRmY240ZG9yUHpCOGFfNE9fbVk1LWJfbHhyR3RQQUl0YXM3al9EdDlXNnNZNjJKc2V3Um4?oc=5",
-          "source": "글로벌경제신문",
-          "published": "11-07 07:10",
-          "snippet": "뉴욕증시, AI 관련주 대폭락 후 저가매수세 '뚜렷'... 나스닥 1.1% 반등 글로벌경제신문"
+          "title": "美 중간선거에 증시 '와장창'… 전문가들 \"단기 충격 불가피해도 미중 AI 패권 경쟁에 수요 지속\" - 뉴데일리",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41RWpJQnM3RDVqbmR0VFQ2T3lFQllGWlItM2llV05LWkgxSXl1S3ZIUFdvRHhNZUhmV2x2R0N5cWJTQTV2S2dybktrR2t4MW9XN3FPaWZBTDlLQ05iSzRLT3R6SlJlZ3N2OFo0ZlI0Y2xzYzg0WTkxcTdoSdIBgAFBVV95cUxOWEZtX0ZQMndzQ3Y5OTUwU0FUSkw2RTRWZW5NS2IzOEhMbnpHck5JQW5yMkRHVDNUcktLajlZWGNPNW5jaThLRGo4SFM1a2JNS19oV1pNNmxZc0gxVnVELWpXUFhKRE5YZkdzeWdtaXJqQk9vSEJadE1ORHA4YUNoNg?oc=5",
+          "source": "뉴데일리",
+          "published": "11-07 15:00",
+          "snippet": "美 중간선거에 증시 '와장창'… 전문가들 \"단기 충격 불가피해도 미중 AI 패권 경쟁에 수요 지속\" 뉴데일리"
         },
         {
-          "title": "[뉴욕증시] 폭락 AI 기술주 저가 매수세…나스닥 1.1% 상승 - 중앙신문",
-          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQMHg3Z1M0eFJ0dHNFVlBuLUpSbUt6el9wdjRZNGFVbmlmQXBEeGVhZHIxNi16NGZ1end4RW8wTjZXMlJLMGl1U0RKdUNsY2Z1b25DZlJFdEw4MF96MzdRclN5UHp0MFhzTVJhc2ZIUEtPd2JqWGYwTlNmVkNKaDNYMVU1amNJaGgzWGRvSWkxTDVFQ3dpNFM0cUJ2OUFYZmhzTjVoc1IzdkJ3d0xjalhyLXRNaVExR2tNRTF2U3ZDY0trZkpQdmRLRzF6SjVENW9FVWdoVk9yWkt6cy1FUDR4eWM1SFktQ0xUUGtaeGZmZkZuQVJSd2dKcmI1ODhWUFFOQjd4RHYtSjNWU1VXcTVGaXVZdFBNVWc1RDRMVE5tcTNDRDBMZmRTWTNKNTVVV3l3VE05WGNkMWROb0tQSHBtcjUwaU1HNkFuSWZB?oc=5",
-          "source": "중앙신문",
-          "published": "11-07 07:39",
-          "snippet": "[뉴욕증시] 폭락 AI 기술주 저가 매수세…나스닥 1.1% 상승 중앙신문"
+          "title": "선거 후 AI 규제 우려에도… 오픈AI \"데이터센터 투자·자금 조달 계속\" - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lTzNCR2pZaGVHN2RXbEZqZ1kzVFFBVFZlcVNXbkptb0Y2NVhjdzgwcHBQOFBSWWhMZVliT1pvelZ3M0wwVGE5ZURLYzJsaVo1QklFV1NFcm5sREl5ZEJudl8zNklvZUVsZC1QV3ZR0gFuQVVfeXFMTmVPM0JHalloZUc3ZFdsRmpnWTNUUUFUVmVxU1duSm1vRjY1WGN3ODBwcFA4UFJZaExlWWJPWm96VnczTDBUYTllREtjMmxpWjVCSUVXU0VybmxESXlkQm52XzM2SW9lRWxkLVBXdlE?oc=5",
+          "source": "머니투데이",
+          "published": "11-07 14:20",
+          "snippet": "선거 후 AI 규제 우려에도… 오픈AI \"데이터센터 투자·자금 조달 계속\" - 머니투데이 머니투데이"
         },
         {
-          "title": "엔비디아, 급락 충격 딛고 반등 시도… AI 반도체 투자심리 다시 살아나나 - 제민일보",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GU2JmZkptUFBLNkRPbDFLOEhkRFFLZ3N4QTMxRmRYU2lkeFJVaFhaNnlfN0NNOUpjb2ZxaEtiMTNGRUlkRjdkRVZjR1JYR1dGdllkWVIwcjRsLUJuRkdZd3ZDalJlOHc?oc=5",
-          "source": "제민일보",
-          "published": "11-07 05:35",
-          "snippet": "엔비디아, 급락 충격 딛고 반등 시도… AI 반도체 투자심리 다시 살아나나 제민일보"
+          "title": "美 중간선거가 부른 'AI 규제 공포'…한국증시 덮친 반도체 쇼크 - 재외동포신문",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGcnRjNy1MbXVvTHctV0dnXzFSWWdWWkZLQ3U4SjY1RkNOU1dhUklXMFlKYzNjbVpjMm1hdWxGUG41eWJ3RE0wb2VXeUg3Sk13Mk91X0ZVWTA0NkJ3WVVwQXMwdjcwaDl1Ulg2Yw?oc=5",
+          "source": "재외동포신문",
+          "published": "11-06 22:04",
+          "snippet": "美 중간선거가 부른 'AI 규제 공포'…한국증시 덮친 반도체 쇼크 재외동포신문"
         },
         {
-          "title": "[글로벌 마켓 뷰] 뉴욕증시 반도체주 반등에 코스피 한숨 돌리나…AI 규제 불안은 여전 - https://www.moneystorm.kr/",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Ua2JQdmdGUUpSTVVaWjk2a2VWamxfX1F1dFNqR1Y2djYzckZnMmk1QTBOckN6U0NWbXkxbVFvLUIxbm9kSkgtd1RiRGtUcHVmWGlueG51bklBRWlUbERwMm1SdXhfVTFFNVE?oc=5",
-          "source": "https://www.moneystorm.kr/",
-          "published": "11-07 06:59",
-          "snippet": "[글로벌 마켓 뷰] 뉴욕증시 반도체주 반등에 코스피 한숨 돌리나…AI 규제 불안은 여전 https://www.moneystorm.kr/"
+          "title": "[AI세계속으로]美 중간선거 AI 규제론자 대거 당선…규제 강화 전망 - 아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Lc3BueVBvbENNUVF0ZTExaTlmRzJZMmNnZXJMcUZOV1VSSkcwaW0tZERGdjAxQzhwZGFCZzBfcUU1cldDMkVmcDQzY3RtUHNFb3FpMnFZX0NPemJzNllneQ?oc=5",
+          "source": "아시아경제",
+          "published": "11-07 06:30",
+          "snippet": "[AI세계속으로]美 중간선거 AI 규제론자 대거 당선…규제 강화 전망 아시아경제"
         }
       ]
     },
     "queries": {
-      "코스피 급락세": [],
-      "강남3구 집값 하락": [],
-      "서학개미 미주식 매수": [],
-      "뉴욕증시 저가 매수": [],
-      "미국 10월 고용 지표": [
-        "미국 고용 지표 발표일 10월"
+      "코스피 폭락과 서학개미": [],
+      "서울 집값 및 주택공급": [],
+      "국내 기업 실적 발표": [
+        "국내 기업 실적 발표 캘린더",
+        "국내 기업 실적 발표일",
+        "국내 기업 4분기 실적 발표 일정",
+        "국내 기업 3분기 실적 발표 일정",
+        "국내 기업 2 분기 실적 발표 일정",
+        "국내 기업 1 분기 실적 발표 일정",
+        "국내 주요 기업 실적 발표"
       ],
-      "글로벌 AI 기술주 반등": []
+      "뉴욕증시 저가 매수세": [],
+      "미국 10월 고용지표": [
+        "미국 고용지표 발표일 10월"
+      ],
+      "미 중간선거와 AI규제": []
     },
-    "newsletter_md": "# 📈 오늘의 경제 뉴스레터\n_2026-11-07 이슈 · 발행 2026-11-07_\n\n🇰🇷 **국내 경제:** `코스피 급락세` · `강남3구 집값 하락` · `서학개미 미주식 매수`\n🌐 **해외 경제:** `뉴욕증시 저가 매수` · `미국 10월 고용 지표` · `글로벌 AI 기술주 반등`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 검은 금요일 맞은 코스피 6% 폭락\n> 키워드: 코스피 급락세\n\n**📌 무슨 일이 있었나**\n- 7일 국내 증시에서 코스피가 블루웨이브 발 AI 공포 여파로 전 거래일 대비 6% 넘게 급락하며 5,000선 턱걸이로 마감한 상황.\n- 이날 급락세로 인해 코스피는 약 9개월 만에 장중 5,000선 아래로 내려앉으며 투자자들에게 큰 충격을 안겨준 모습.\n- 미국 AI 기업들의 실적 우려와 정치적 불확실성이 겹치면서 국내 증시의 변동성을 키우고 투자 심리를 급격히 위축시킴.\n- 증권가에서는 1만 포인트를 갈 수 있다는 장기 전망과 단기 급락세 사이에서 다양한 분석과 전망을 내놓고 있는 중.\n- 국내 증시의 가파른 하락세를 피하고자 많은 개인투자자들이 미국 주식 시장으로 대거 자금을 이동시키는 현상이 나타남.\n\n**💬 핵심 Q&A**\n- **Q. 국내 증시가 이렇게 급락하면 내 자산에는 어떤 타격이 있는가?**\n  A. 국내 주식형 펀드나 직접 투자한 종목의 평가 손실이 발생할 수 있다. 다만 감정에 휩쓸려 무작정 매도하기보다 포트폴리오를 점검하는 신중함이 필요하다.\n- **Q. 기사에서 언급된 블루웨이브란 정확히 무엇을 뜻하는가?**\n  A. 미국 민주당이 백악관과 상하원을 모두 장악하는 정치적 상황을 의미한다. 이러한 구도가 규제 강화로 이어져 기술주에 악영향을 줄 것이란 공포가 확산했다.\n- **Q. 지수가 5,000선까지 무너졌는데 지금이라도 주식을 다 팔아야 하는가?**\n  A. 단기 급락에 따른 공포로 손절매를 서두르기보다는 시장의 변동성 원인을 차분히 분석해야 한다. 개인의 투자 성향에 맞춘 리스크 관리가 우선이다.\n\n**👀 앞으로 볼 포인트**\n- 5,000선 지지 여부와 외국인 순매도 흐름 파악\n- 미국 AI 관련 기업들의 추가 실적 발표 주시\n\n<sub>참고: [서울경제](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yUEpOQVlXZTJ5ZUJtYm9kWGtqckxWNHpfSnVoYWt3UFVVUjhCU2hnMDJ2Q3A3T1RwWENRODNfdEt2ZXp2Tml5SWhFVC1rVG9rRnfSAVNBVV95cUxPdjRxb0dIdlRYTzJYdmh3N00tLWx3MFlvSVVreWhFb1VLNEFhZTZZb3JNUHgwOHJnNjROUHF1bVFYZXJjTlFiZmJ1UkwwVVo4Q0xEYw?oc=5) / [블루밍비트](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hWlZiNlBWYmJvZGl1Y1c0QlRBUm9sM0d5TW5YdHpxejdiRkZoaWtSLW1rR3BYWTlVZFpYOTZtdXdMRXZmSmJhVjhNQUVjWDFL?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE1wd2ZSR3Ytb3J1RFEySGo2bksxMWowLUJJU0FvYjFJQTZEaklGV3lta3M4WDNnX29DYlZXWmc5eW5PVXA2NXE5cDBycHdnSENrNHdpVkpad1Zad25RWmlveWYwNXotX1RKSm5VazYtZWc?oc=5)</sub>\n\n---\n\n### 2. 강남3구만 내린 서울 집값의 진실\n> 키워드: 강남3구 집값 하락\n\n**📌 무슨 일이 있었나**\n- 최근 서울 아파트 시장에서 성북구 등이 상승률 1위를 기록한 반면 강남 3구는 최하위권에 머무는 이례적인 현상이 포착됨.\n- 강남권에서는 일부 급매물이 35억 원 가량 뚝 떨어지는 하락 거래가 발생하며 시장 안정 기조를 뒷받침하는 모습.\n- 부동산 통계에 따르면 강남 3구 집값은 9주째 하락세를 기록하고 있으며 11월 4만 가구 공급을 앞두고 있음.\n- 대통령이 연일 집값 하락 안정을 언급하는 가운데 강남만 내린 서울 집값 통계를 두고 정부의 섣부른 판단이라는 지적이 나옴.\n- 일각에서는 강남이 내리는 동안 다른 지역의 집값이 3억 5천만 원이나 뛰는 등 양극화 현상이 더욱 심화되는 양상.\n\n**💬 핵심 Q&A**\n- **Q. 강남 집값만 떨어진다면 무주택자의 내 집 마련 기회가 온 것인가?**\n  A. 강남 3구의 가격이 주춤하고 있으나 여전히 진입 장벽이 높고 다른 지역은 오르는 곳도 있다. 따라서 실수요자는 자금 계획을 보수적으로 세워야 한다.\n- **Q. 통계에 나오는 강남 3구는 구체적으로 어떤 지역들을 말하는가?**\n  A. 서울의 강남구, 서초구, 송파구를 통칭하는 표현이다. 부동산 시장에서 고가 주택 밀집 지역의 선행 지표 역할을 주로 담당한다.\n- **Q. 정부의 시장 안정 기대와 실제 체감 경기 사이에 차이가 나는 이유는 무엇인가?**\n  A. 일부 지역의 하락세만 부각되었을 뿐 서민들이 느끼는 주거 비용이나 타 지역 상승 압박은 여전하기 때문이다. 시장을 단편적으로 보기보다 종합적으로 해석해야 한다.\n\n**👀 앞으로 볼 포인트**\n- 11월 서울 지역 4만 가구 공급 물량의 실제 영향\n- 강남 3구 하락세가 서울 타 지역으로 확산하는지 여부\n\n<sub>참고: [비즈워치](https://news.google.com/rss/articles/CBMicEFVX3lxTE1BWmhUbW9vWmU3TWx0R1FjdEZNYWhUemdreUU5TjRnRE1CdWlHTUo5X3ZoTTNRb185V2cydXNkREdyOC10OXRIOGstWVhjemVfMEpwOTFDTDFTR2F0eklYUnVJVk1EdnpOMlFqc2s5aEo?oc=5) / [KBS 뉴스](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Wb1FRZDVtUG5janlPUnQ1c0Uzb3BDRXRraEU3NlhsLTVjUUlWMkpUbTVvOXl5Z2dEYzJHXzRHMGZUdGdXVkVZMENQZmh4ZWpZM0NBRXpDWEpPTWUtYXhONTFHQlVKQQ?oc=5) / [조선일보](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa2xJR2d2dWZqMFJHX2tqb0R6VzVIT1p2UWRpXzZ3X0ctbURaRmE4OHowTkpYamZHZHlHemNlV0hDV2tnbGluWjdqTVRreURyUmlHRjZWYnhReXhmdWZsTldPZ2c1S0UtUExYZUxnaFF1SzdnMHJVNmVkVXI5ZnplWHFKdGJjOU15?oc=5)</sub>\n\n---\n\n### 3. 국장 떠나 미장으로 향한 서학개미 3조\n> 키워드: 서학개미 미주식 매수\n\n**📌 무슨 일이 있었나**\n- 국내 증시가 급락세를 보인 11월 첫 주 동안 서학개미들이 미국 주식을 3조 원 가까이 폭풍 매수한 것으로 집계됨.\n- 국내 장의 부진과 폭락에 실망한 투자자들이 대거 이탈하여 미국 증시로 자금을 빠르게 이동시키는 양상을 보임.\n- 일주일이라는 짧은 기간 동안 사상 최대 수준에 달하는 3조 원이라는 막대한 자금이 미국 주식 매수에 쏠림.\n- YTN과 연합뉴스 등 주요 언론들도 국내 증시 급락장 속에서 미국 주식으로 달려간 투자자들의 행보를 집중 보도함.\n- 이러한 해외 주식 투자 열풍은 국내 자본 유출 우려와 함께 개인투자자들의 투자처 다변화 현상을 동시에 보여줌.\n\n**💬 핵심 Q&A**\n- **Q. 국내 주식을 팔고 미국 주식으로 갈아타면 내 자산 안전성에 어떤 변화가 생기는가?**\n  A. 기초 자산이 달러로 바뀌기 때문에 환율 변동 리스크에 노출된다. 무조건적인 수익을 보장하지 않으므로 환율 추이를 함께 고려해야 한다.\n- **Q. 서학개미라는 용어는 정확히 어떤 투자자들을 지칭하는 말인가?**\n  A. 국내 주식 시장 대신 미국의 대형 기술주나 해외 주식에 직접 투자하는 국내 개인투자자들을 뜻하는 신조어이다.\n- **Q. 모두가 미국 주식을 산다고 해서 나도 따라 사는 것이 현명한 판단인가?**\n  A. 군중심리에 휩쓸린 묻지마 투자는 큰 손실로 이어질 수 있다. 자신의 투자 목적과 위험 감수 능력을 먼저 점검하는 태도가 필요하다.\n\n**👀 앞으로 볼 포인트**\n- 서학개미의 미 주식 순매수세가 지속될지 여부\n- 환율 변동이 해외 투자 수익률에 미치는 영향\n\n<sub>참고: [YTN](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zQTE4V2JiNXJUNTJ4dWFqU1hGbmYweWRGMnRwY0JWcFdXOVgyeGRFSTA4VjZTYzNCblRpNG5Hd0VSMGZvSldFRElKQ0I4UWl3OTlNbXI2bTNWRlFDU2xxZkpzNA?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ncjZDdFpRd2wtdDNjWEJFbHJFeHRHTEhjSXNnWkVNWlhsTVpkc3AxXzJSSFVoeUVOMUZTUDduSmYwYzMxbm5jbjJzY1JsNV9SVFNuWWg5SjBnLWvSAWBBVV95cUxPV2tsZFdnNDZFWlcxRWF3T0V1cGNjazI4enM5M3BrYmh6VWVlbmVIZTk5QjRRNERMMlQxNWdvMFV5d1JEZ3U1RzUwYWIzR2tBNmhHcUlneHRlZTlaY0NsRnM?oc=5) / [경향신문](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tMDJ6dU9DOFRjVExkTk5YUU9jakRXXzdJQnd6VTNReHJDbXc3NWx1cWVpcU5sUkxwcjFoek5WbkV3djRLbm5PTTFqODRFRXdYRGs4THpjU2xUQdIBX0FVX3lxTFAyd2R5YTlTRmI4MnhELXlsNTgzcFpQY1RXb19EaU43ODdHczhEaVdvZFBvMS0xNF8xYzloT2sweXRiR09hMXZxenp6ejVVZFVYNXVyM2xpekt5X0pQZFpn?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 폭락 딛고 저가 매수로 반등한 뉴욕증시\n> 키워드: 뉴욕증시 저가 매수\n\n**📌 무슨 일이 있었나**\n- 뉴욕증시가 가파른 폭락 사태를 겪은 하루 만에 저가 매수세가 유입되면서 한숨을 돌리고 반등에 성공함.\n- 나스닥 지수는 AI 주식들의 저가 매수 힘입어 1.09% 상승하는 등 대체로 안정적인 흐름을 회복함.\n- 스페이스X 관련 종목이 8% 폭등하는 등 시장의 블루쓰나미 공포를 하루 만에 상당 부분 벗어나는 모습을 보임.\n- 주식 시장이 반등하는 과정에서 안전자산 선호로 인해 채권 가격은 내리고 달러 가치는 오르는 변화가 나타남.\n- 반도체주와 AI 관련 기술주를 중심으로 저가 매수 유입이 뚜렷하게 관측되며 투자 심리가 진정되는 분위기.\n\n**💬 핵심 Q&A**\n- **Q. 뉴욕증시의 저가 매수 유입이 내 해외 투자 계좌에는 어떤 의미인가?**\n  A. 단기 급락에 따른 손실을 일부 만회할 기회가 될 수 있다. 다만 변동성이 여전히 크므로 장기적 관점의 대응이 요구된다.\n- **Q. 블루쓰나미 공포라는 경제 용어는 어떤 상황을 설명하는가?**\n  A. 미국 정치권에서 민주당이 선거 등을 통해 권력을 독점하여 급진적인 증세와 규제를 단행할 것이라는 시장의 불안감을 뜻한다.\n- **Q. 폭락 후 반등하는 시점에서 추가 매수를 고민할 때 주의할 점은 무엇인가?**\n  A. 기술적 반등인지 추세 전환인지 판단하기 어렵기 때문에 분할 매수 등 리스크 관리 전략을 세우는 것이 안전하다.\n\n**👀 앞으로 볼 포인트**\n- 저가 매수세가 단기 반등에 그칠지 추세적 상승일지 확인\n- 미국 국채 금리와 환율의 추가 변동 추이\n\n<sub>참고: [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE9ESXNSd3A0eGZRQmlfNmhJekdOS0l4WWEyekRKQzN5eXFJOWFleVgtUVRhU1NWSGlra0ZxMVNzLXVQb21TTk1KU3dqNHBsS2VtcUhDQ1NMTDI0MlpsODRTOUxlNEFzRk93ZHp4WUtaRnQ?oc=5) / [뉴스핌](https://news.google.com/rss/articles/CBMiXEFVX3lxTE03ZVhHTkI5UUdLWDJndzUwX2owX3dqNHlVbjlubm1OcmlORC1fR3JoSGREMmE4NzFyV2dfQk9DT3ROOWhjd0c4Q0I3amM1Z1BNeE9NRlNINDNKcm5o?oc=5) / [www.ebn.co.kr](https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tOFNEUmNLR0w4bDdFXzgtX3lBM1pETkdSeExCMWNlYzBjcEVHZ21ncGFnT29ReWZmb2NuWURZemN4ZWpIU1FUVGhjOVI3OUhoZHBlWE1ubVRFcXk1TTlsX1RPcVgyaVMt?oc=5)</sub>\n\n---\n\n### 2. 예상 깬 미국 10월 고용 깜짝 증가\n> 키워드: 미국 10월 고용 지표\n\n**📌 무슨 일이 있었나**\n- 미국의 10월 비농업 고용이 16만 5000명 증가를 기록하며 시장의 예상을 뛰어넘는 깜짝 증가세를 나타냄.\n- 고용 지표가 예상치보다 3배 가까이 껑충 뛰면서 연방준비제도의 매파적 통화정책 기조가 강화될 것이라는 전망이 지배적임.\n- 고용 호조의 영향으로 다가오는 12월 기준금리 인상 확률이 기존 66%에서 76%까지 급등함.\n- 예상을 웃도는 고용 지표 발표 직후 뉴욕증시의 급락세가 진정되며 시장 참가자들의 안도감을 유도함.\n- 견조한 고용 상황이 인플레이션 압력을 높일 수 있다는 우려와 함께 금리 인상 전망을 더욱 공고히 하는 계기가 됨.\n\n**💬 핵심 Q&A**\n- **Q. 미국 고용 지표가 좋게 나오면 한국에 사는 내 대출 금리에도 영향을 주는가?**\n  A. 미국이 금리 인상 가능성을 높이면 글로벌 금융시장을 통해 국내 시장금리에도 상승 압력으로 작용할 수 있다. 변동금리 대출자의 이자 부담을 점검해야 한다.\n- **Q. 기사에서 언급된 고용 지표 발표일 10월 등의 지표는 무엇을 뜻하는가?**\n  A. 매월 미국 노동부가 발표하는 전월 고용 동향으로 경제 건전성을 판단하고 향후 연준의 금리 정책을 예측하는 핵심 선행 지표이다.\n- **Q. 고용이 늘어났는데 왜 주식시장은 금리 인상 우려로 긴장하는가?**\n  A. 경기가 너무 좋아지면 물가가 잡히지 않아 중앙은행이 금리를 올리거나 고금리를 오래 유지하기 때문이다. 이는 기업의 자금 조달 비용을 높여 주가에 부담을 준다.\n\n**👀 앞으로 볼 포인트**\n- 12월 연방공개시장위원회(FOMC)의 금리 결정 결과\n- 고용 지표 호조가 향후 물가 상승에 미치는 영향\n\n<sub>참고: [뉴닉](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WU3kwaExTUUZTcE5ldzY3bXFnckFhQkN2Wld2X1NhZUZMa1VVQWFmSHBlS2xlbUZ4dllnX3Nzc3NFZzNPdjBRZkZHaHJZdkdHeTA0?oc=5) / [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CZlYwcm1GWE5xTk9JWjRMYTloRXdoT0trVllObmNCTHJZZGZFUE9BWnRLOXg4Ukx4TTFJNjVGMGgyWTJ4MTNySkZOczJqbHc4eTNWWEQzeHFoRzg?oc=5) / [MTN 머니투데이방송](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpRS1pcHNEUk44eU5NVW5pWC1DTjRhNnppVDR3cFBFcUNsNEdkWWFsRTJ0V0FSSzdQQ0JSRzBIOXFrOTIyUENYbU8zZWZCMktiYjYtY21qQlZ0MHZVMXdN?oc=5)</sub>\n\n---\n\n### 3. 바닥 찍었나, AI 기술주 일제히 반등\n> 키워드: 글로벌 AI 기술주 반등\n\n**📌 무슨 일이 있었나**\n- 큰 폭의 하락세를 겪었던 글로벌 AI 기술주들이 저가 매수세의 유입에 힘입어 일제히 반등 국면에 접어듦.\n- 나스닥 지수가 1.1% 오르며 시장 전반에 AI 관련 주식들의 바닥 통과 기대감이 확산하기 시작함.\n- 엔비디아를 비롯한 주요 AI 반도체 종목들이 급락 충격을 딛고 반등을 시도하며 투자 심리가 다시 살아나는 조짐을 보임.\n- 뉴욕증시의 반도체주 반등 소식이 전해지면서 급락을 맞았던 국내 코스피 시장도 한숨을 돌릴 수 있을지 주목됨.\n- 다만 여전히 AI 산업을 둘러싼 규제 불안과 불확실성은 완전히 해소되지 않은 채 남아 있는 상태.\n\n**💬 핵심 Q&A**\n- **Q. AI 기술주가 반등할 때 관련 펀드나 주식에 지금이라도 가입하는 것이 유리한가?**\n  A. 단기 낙폭 과대에 따른 반등일 수 있으므로 추격 매수보다는 산업의 장기 성장성과 규제 리스크를 꼼꼼히 따져보는 과정이 필수적이다.\n- **Q. 인공지능 관련 주식이 왜 이렇게 급락했다가 갑자기 반등하는가?**\n  A. 혁신적인 성장성 기대감으로 빠르게 올랐으나 규제나 실적 우려가 겹치며 매물이 쏟아졌고 가격이 싸졌다고 판단한 투자자들이 다시 유입되었기 때문이다.\n- **Q. 미국 AI 주식의 반등이 국내 반도체 기업들의 주가에도 즉각 호재가 되는가?**\n  A. 글로벌 반도체 공급망이 긴밀하게 연결되어 있어 심리적 안정을 줄 수 있다. 하지만 국내 고유의 수급 상황과 실적을 함께 고려하여 판단해야 한다.\n\n**👀 앞으로 볼 포인트**\n- AI 반도체 관련 대장주의 주가 회복 지속성\n- 글로벌 규제 리스크가 기술주 실적에 미치는 파장\n\n<sub>참고: [한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE05UzdqVHRaYXhXU01CMzJnNEtaUzhEM1pBRi1WNHBMMjNnMlhPM21TSUNNbUhTU0tiUUQ0RmFSZTFsY1RPck5Rc3E1eWFVUUZYVHlaUlo2elZxdw?oc=5) / [자본시장뉴스](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PYmdsMXI2MTlpSW5jVUlGZVlqVlhJSjNZamVMUldSbURKYWtaRE9WWVB5dnNPd2Z6NW5qalBEUVl4cWl6QW1DaXlSQk0yZ0pBR3JhZzlITEx6TjhCYTA2SDJpTGp5aFE?oc=5) / [글로벌경제신문](https://news.google.com/rss/articles/CBMibEFVX3lxTE11VHZxNWFEV3RNbE5ZSC0yVzhwZkhjRS11Z0lTMTdwTnVyR2p1VTBzWmx4QkpkeFliT1E3MmVacTRWTk1tM0NwdnpOSmFORHJidVM3bElGLWJ6MS1QUXVwTFJtSm82WWw0MzRPUNIBcEFVX3lxTE94b1N4U05QT1dzeEFOb01LaE0zZDloZ1RpVkhhOVg5MFQtMlRrVHdRMlhzX0YtT2hsd1phekRmY240ZG9yUHpCOGFfNE9fbVk1LWJfbHhyR3RQQUl0YXM3al9EdDlXNnNZNjJKc2V3Um4?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 제목을 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
+    "newsletter_md": "# 📈 오늘의 경제 뉴스레터\n_2026-11-07 이슈 · 발행 2026-11-07_\n\n🇰🇷 **국내 경제:** `코스피 폭락과 서학개미` · `서울 집값 및 주택공급` · `국내 기업 실적 발표`\n🌐 **해외 경제:** `뉴욕증시 저가 매수세` · `미국 10월 고용지표` · `미 중간선거와 AI규제`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 국내 증시 추락에 서학개미 미국행\n> 키워드: 코스피 폭락과 서학개미\n\n**📌 무슨 일이 있었나**\n- 국내 증시의 극심한 부진과 환율 하락이 겹치면서 일주일 사이에 서학개미들이 미국 주식 약 3조 원을 대거 순매수한 것으로 나타남.\n- 국내 대표 종목인 삼성전자와 SK하이닉스 등이 큰 폭으로 폭락하면서 주식을 매도하지 못한 투자자들이 패닉 상태에 빠진 상황임.\n- 국내 증시를 피해 미국 시장으로 넘어간 서학개미들이 테슬라와 엔비디아 등 주요 기술주마저 폭락을 겪으면서 이중고에 직면함.\n- 국내 주식시장의 하락세 지속과 환율 변동성 확대가 맞물리면서 개인 투자자들의 해외 자산 이동 현상이 한층 더 가속화됨.\n- 투자자들이 국내 증시의 부진을 탈출하기 위해 미국 주식 집중 매수에 나섰으나 글로벌 빅테크 주가 하락으로 추가 손실 우려가 큼.\n\n**💬 핵심 Q&A**\n- **Q. 국내 증시가 떨어지면 왜 환율도 함께 고려해야 하는가?**\n  A. 환율 하락은 원화 가치가 강세임을 뜻하며 환전 비용이나 환차손에 영향을 준다. 따라서 해외 주식 투자 시 환율 변동에 따른 수익률 변화를 함께 계산해야 한다.\n- **Q. 서학개미들이 테슬라나 엔비디아 같은 종목에 몰리는 이유는 무엇인가?**\n  A. 국내 증시의 성장 정체와 실망감으로 인해 상대적으로 유동성이 풍부하고 성장성이 높다고 평가받는 미국 대표 기술주로 자금이 집중되는 것이다.\n- **Q. 삼전닉스 폭락으로 패닉에 빠진 개미들이 지금 취할 수 있는 현실적 대응은 무엇인가?**\n  A. 단기적인 주가 급락에 따른 공포감으로 무리한 매도나 빚투 청산을 하기보다 기업의 펀더멘털과 자산 배분 상황을 차분히 점검하는 태도가 필요하다.\n\n**👀 앞으로 볼 포인트**\n- 국내 주요 반도체 주가 반등 여부\n- 미국 빅테크 주가 변동성과 환율 추이\n- 개인 투자자들의 추가 해외 송금 규모\n\n<sub>참고: [산경투데이](https://news.google.com/rss/articles/CBMicEFVX3lxTE1EYnFMSVB4bVFrVTdQX0JPQUYtczUyVnNvZ2g3bUlKT19uMG9UNG1PRXpsUGh2ME53akQ4UXRoRVdrSGNwV0RzcURDc2pycjY0blRvckUtUVdEd2xXMkk3dV8xcVVldWZ2TXNmVmxwbnbSAXRBVV95cUxPS3hVZ0RDQVBGSk5sUmlFSXZxLUs5YmVUaV9DRXhIRl9fZWN5am9ZTGx2dG1SdjkzZUtHUVJ0S1IzQVlUakpEb1h4MGp1QTdSMG1GUWFJUS16UTd3WGY1azJMSG5UQ2JzUmlZM1A2SHJhX0drWQ?oc=5) / [서울경제](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yUEpOQVlXZTJ5ZUJtYm9kWGtqckxWNHpfSnVoYWt3UFVVUjhCU2hnMDJ2Q3A3T1RwWENRODNfdEt2ZXp2Tml5SWhFVC1rVG9rRnfSAVNBVV95cUxPdjRxb0dIdlRYTzJYdmh3N00tLWx3MFlvSVVreWhFb1VLNEFhZTZZb3JNUHgwOHJnNjROUHF1bVFYZXJjTlFiZmJ1UkwwVVo4Q0xEYw?oc=5) / [www.ebn.co.kr](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tSlkzbnJJWE1IV3pob3A2UHZFUVo4cUY0bVR5V09idGo4THdHUzZOaGg0VWt0dUxjVUwxR3U4eHptZG50SXFfYW1NTDNBVkViLVgwM3BabjR4VUJDVkZJQnMteHRieERw?oc=5)</sub>\n\n---\n\n### 2. 서울 집값 양극화와 주택공급 전망\n> 키워드: 서울 집값 및 주택공급\n\n**📌 무슨 일이 있었나**\n- 서울 강남 3구 아파트 가격이 9주째 하락세를 기록하는 동시에 11월에 약 4만 가구 규모의 주택 공급이 예정된 상태임.\n- 홍지선 국토교통부 장관이 수도권 주택 공급의 80퍼센트를 담당하는 민간 부문의 역할 중요성을 강조하며 지원 방침을 밝힘.\n- 낮은 집값 수준만으로는 주택 수요를 흡수하기 어렵기 때문에 외곽 지역의 미분양 해법으로 정주 경쟁력 강화가 대두됨.\n- 서울 내 일부 지역은 집값이 하락하는 반면 외곽 지역은 상승하면서 서울 아파트 가격의 100주 연속 상승 현실화 가능성이 거론됨.\n- 부동산 시장 전반의 침체 우려와 함께 분양 전망에도 먹구름이 드리우면서 수도권 주택 시장의 지역별 양극화가 심화함.\n\n**💬 핵심 Q&A**\n- **Q. 강남 집값은 떨어지는데 외곽 집값은 오르는 양극화 현상이 내 자산에 어떤 영향을 미치는가?**\n  A. 지역별로 수요가 갈리는 차별화 장세가 지속됨을 의미한다. 따라서 거주지와 투자 목적에 따라 자산 포트폴리오를 다르게 구성해야 할 필요성이 커진다.\n- **Q. 부동산 시장에서 정주 경쟁력이란 정확히 무엇을 뜻하는가?**\n  A. 교통, 교육, 문화, 편의시설 등 거주민이 일상생활을 영위하는 데 필요한 종합적인 정주 여건의 우수성을 의미한다. 단순히 집값이 낮다고 해서 수요가 몰리지 않는 이유를 설명하는 개념이다.\n- **Q. 민간 주도가 강조되는 수도권 주택 공급 정책이 향후 분양가에 미칠 영향은 어떻게 봐야 하는가?**\n  A. 민간 참여 확대는 신규 물량 공급을 원활하게 할 수 있지만 사업성과 공사비 등의 변수에 따라 분양가 조정 폭이 달라질 수 있으므로 개별 단지의 분양 조건을 면밀히 살펴야 한다.\n\n**👀 앞으로 볼 포인트**\n- 강남 3구 하락세 지속 여부\n- 11월 수도권 4만 가구 공급 실적\n- 외곽 지역 미분양 해소 방안 추진\n\n<sub>참고: [아주경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwX2tvOGs0b0o4djZrVEYtM2sySV9nN0ZOSlNhT3hSZGhjamNUQml0a0FnTjRGTGhvVEhCMUZiOHdlNzIxc2d5R1k3UmJzUHhlbjZrRjVLOFZkd9IBWEFVX3lxTE9aN09DYzJHamtUZzFYNkZoQnFvNXRPLWM1TllMeVlKcktfLWlyYjl2OFUwN3dacVgtZ28wamQySkRYT0ItNmN3VzhlenpNZmRkUjRHSnFSeTY?oc=5) / [이투데이](https://news.google.com/rss/articles/CBMidEFVX3lxTFBxTWxRbl80bFptekNSVFFRdEVWWmRjRHFXaC02bnZiZHdZajNqX0xDR3JNckFvaG5JSVBGbDR3ck13MGJvUjlBal9lYTRZSnJqWUxERTdDdmpwQTlWYWlYX255REMtQVhHTjZGN2VxZWhzM2wx?oc=5) / [아주경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zc2NLRzJIbmJoQ2ZNLU80Ym9XNUxGMF9nZU01SVpTSE5jMHl0cEpYazVLblRWd3dKbEZzMVUwMkdIODdJbEhDcWFCLTdoRkY1cXA2ZEpydTB1d9IBWEFVX3lxTFBmSmxXVFZxbl80MTc3eUZlQlpXZGZ1cjVYN0d5U2xIdWVHTFFCWFliNDQ0MDVrUXA3N05Xb3gxZEpPYk51YnF3SkRxVGQ1NTNjZ19vTk5hbHQ?oc=5)</sub>\n\n---\n\n### 3. 국내 기업 실적과 AI 쏠림 현상\n> 키워드: 국내 기업 실적 발표\n\n**📌 무슨 일이 있었나**\n- 급락세를 겪은 코스피 시장의 투자자 시선이 미국 인공지능 기업들의 실적 발표 결과로 집중되고 있는 상황임.\n- AI 반도체 관련 기업들이 높은 성장을 기록하고 아이폰 관련 실적도 신기록을 세우며 어닝시즌의 주요 승자로 부각됨.\n- 증권사들의 3분기 실적이 유가증권 운용 손익에 따라 큰 희비가 엇갈리는 등 금융업권 내에서도 차별화가 나타남.\n- 유통업계에서는 김장 할인전과 빼빼로데이 등 주요 이벤트와 함께 관련 기업들의 실적 발표가 예정되어 있음.\n- 검은 한 주를 보낸 코스피가 반등하기 위한 핵심 열쇠로 미국 AI 실적과 물가 지표가 결정적인 변수로 작용함.\n\n**💬 핵심 Q&A**\n- **Q. 국내 기업 실적 발표 캘린더는 어디서 확인하고 어떻게 활용해야 하는가?**\n  A. 증권사 HTS나 금융 정보 플랫폼의 실적 발표 일정을 통해 확인한다. 주요 기업의 실적 발표 시기를 미리 파악하면 예상치 못한 주가 변동성에 대비하는 데 도움이 된다.\n- **Q. 미국 AI 기업의 실적이 왜 국내 코스피 지수에 큰 영향을 미치는가?**\n  A. 국내 대형 반도체 기업들이 글로벌 AI 밸류체인에 깊게 연동되어 있기 때문이다. 미국의 AI 실적이 부진하면 국내 반도체 수출과 관련 주가도 동반 하락하는 경향이 크다.\n- **Q. 증권사들의 3분기 실적이 운용손익에 따라 갈렸다는 것은 투자자에게 무엇을 시사하는가?**\n  A. 전통적인 브로커리지 수수료 수익 외에도 시장 상황에 따른 자기자본 투자 및 유가증권 운용 능력이 증권사 실적의 핵심 변수임을 보여준다.\n\n**👀 앞으로 볼 포인트**\n- 미국 AI 기업 실적 발표 결과\n- 국내 주요 증권사 운용 손익 추이\n- 미국 물가 지표(CPI·PPI) 발표\n\n<sub>참고: [블루밍비트](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hWlZiNlBWYmJvZGl1Y1c0QlRBUm9sM0d5TW5YdHpxejdiRkZoaWtSLW1rR3BYWTlVZFpYOTZtdXdMRXZmSmJhVjhNQUVjWDFL?oc=5) / [네이버페이 머니스토리](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fRDc0ZzVWd1BsNjFKSmZfUFNpdC1wd0dlZWQyNnpTQW5nakRvenRLMzM2YnZETkdSd1dkSllqRkR3UjBhblBDeWZXNnZXZEljaTNVV0JVRHl5QQ?oc=5) / [한국금융경제신문](https://news.google.com/rss/articles/CBMibEFVX3lxTE9najQ1elgxQ0JTRnY5R0FaRTg3RmRIZ1pWMHRueHI0V0o1bGhoYmJFalVzZWNsbmMtTnVxOW9iRDQ4Y2VHRWV5bFpQTmZFVENMaXd3aXl0RHhoOFh0NGZBSVM0VV9HY0xNSHAwa9IBcEFVX3lxTE1OQm4yUzZ0TEswejgtN1cyWV8wMEZOc29memVTdklZb1JOOEpsVkYwTl9idU1SOVVJRGtITTVaWEhoV3pDcExRYVUwZ01lLWFjSEN4YTViOFVVN3Y4NFczVk56TUNscHN3OVB4M0ZVQmc?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 기술주 폭락 후 뉴욕증시 저가 매수\n> 키워드: 뉴욕증시 저가 매수세\n\n**📌 무슨 일이 있었나**\n- 뉴욕증시가 인공지능 기술주 중심의 폭락 사태를 겪은 직후 저가 매수세가 유입되면서 나스닥 지수가 1.1퍼센트 상승함.\n- 미국 정치권의 블루 쓰나미 여파가 시장에 혼조세를 불러일으켰으나 저가 매수 유입으로 주요 지수가 대체로 반등함.\n- 반도체 관련 주식들을 중심으로 저가 매수 물량이 대거 유입되면서 나스닥 지수가 1.09퍼센트 상승 마감함.\n- 급락에 따른 반발 매수세가 유입되면서 투자 심리가 일부 진정되었으나 여전히 변동성이 높은 혼조세를 기록함.\n- AI 기술주가 큰 폭으로 조정을 받은 기회를 틈타 기관과 개인 투자자들의 저가 매수 전략이 지수 방어에 기여함.\n\n**💬 핵심 Q&A**\n- **Q. 기술주 폭락 직후 나타나는 저가 매수세는 안전한 투자 기회인가?**\n  A. 주가가 급락한 후 일시적 반등을 노리는 매수세가 유입되는 현상이다. 그러나 추세적 하락의 시작인지 단순 조정인지 단정하기 어려우므로 리스크 관리가 필수적이다.\n- **Q. 블루 쓰나미 같은 정치적 변화가 뉴욕증시에 미치는 영향은 어떻게 이해해야 하는가?**\n  A. 특정 정당의 의회 장악 등이 규제 강화나 정책 변화를 예고하면서 단기적인 시장 불확실성을 높이는 요인으로 작용한다.\n- **Q. 나스닥 지수가 1퍼센트 이상 반등했다고 해서 안심해도 되는가?**\n  A. 단기 급락에 따른 기술적 반등일 수 있으므로 하루의 상승 폭만 보고 시장이 완전히 안정되었다고 판단하기에는 무리가 따른다.\n\n**👀 앞으로 볼 포인트**\n- 나스닥 지수의 추가 반등 여부\n- 반도체 주식 중심의 매수세 지속성\n- 정치적 이벤트에 따른 증시 변동성\n\n<sub>참고: [JTBC](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUSG9JS3JVZ1MtWlBlb0dHdHdrMDVQak1GOGZhS0VnN2hvNDZ1aV9FX0p5R2U3NDkxemJJZjR2RlIxNllpZE92NXotVGYtcnktMEdYMQ?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTFBqSEtCVnByRFlXSW42YTRncV92cndKa29tckpLbWYxM0lQU1E5UE4xTWFfelMyQk5MbThDZ2xiM1ZwNjRTLU1aTHFJMk5hZ1ZsUExIeWwyVzBidGNDUFMzZHVSaGthZV9vSWxHY05mNDE?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xb3F1aU5RXzhvckgyd3VfQjFTRGFkR1ZaWlZpUTdvQTZKaFEya0tRSUJMaHVEQy1FelhZYWQ0SzMzN0h1SDU0NjhRcjUwN0U0X1c1UlZKQ0RYVGZyTS01QdIBYEFVX3lxTE8xb3F1aU5RXzhvckgyd3VfQjFTRGFkR1ZaWlZpUTdvQTZKaFEya0tRSUJMaHVEQy1FelhZYWQ0SzMzN0h1SDU0NjhRcjUwN0U0X1c1UlZKQ0RYVGZyTS01QQ?oc=5)</sub>\n\n---\n\n### 2. 미국 10월 고용 깜짝 증가와 금리\n> 키워드: 미국 10월 고용지표\n\n**📌 무슨 일이 있었나**\n- 미국의 10월 비농업 고용이 16만 5000명이라는 예상치를 뛰어넘는 깜짝 증가를 기록하며 고용 시장의 강세를 증명함.\n- 견조한 고용 지표 발표로 인해 연방준비제도의 12월 금리 인상 확률이 기존 66퍼센트에서 76퍼센트로 대폭 상승함.\n- 고용 지표의 예상을 3배 웃도는 증가세로 인해 연준의 매파적 통화정책 기조가 더욱 강화될 것이라는 전망이 확산됨.\n- 미국 10월 고용의 서프라이즈에 힘입어 그간의 뉴욕증시 급락세가 진정되고 나스닥 지수가 반등하는 흐름을 보임.\n- 탄탄한 고용 지표가 인플레이션 압력 우려를 키우면서 금리 인상 가능성을 높여 금융시장의 긴장감이 유지됨.\n\n**💬 핵심 Q&A**\n- **Q. 미국 고용지표 발표일 10월 데이터가 왜 전 세계 금융시장의 주목을 받는가?**\n  A. 미국 경제의 체력을 보여주는 가장 핵심적인 지표이기 때문이다. 고용이 너무 좋으면 연준이 금리를 올릴 명분이 생겨 증시에 부담으로 작용할 수 있다.\n- **Q. 고용이 깜짝 증가했는데 왜 12월 금리 인상 확률이 올라가는가?**\n  A. 노동시장이 여전히 과열 상태이고 임금 상승 압력이 지속되면 인플레이션이 잡히지 않는다고 판단하여 연준이 긴축을 지속할 가능성이 커지기 때문이다.\n- **Q. 고용지표 호조로 금리 인상 전망이 강화된 상황에서 내 자산 포트폴리오는 어떻게 점검해야 하는가?**\n  A. 고금리 장기화 가능성에 대비하여 부채가 많은 자산을 줄이고 현금 흐름을 창출할 수 있는 안전자산이나 우량 자산 중심으로 비중을 조절하는 고려를 해본다.\n\n**👀 앞으로 볼 포인트**\n- 연방준비제도의 12월 금리 결정\n- 미국 추가 고용 및 물가 지표 발표일\n- 채권 금리 및 달러화 가치 추이\n\n<sub>참고: [뉴닉](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WU3kwaExTUUZTcE5ldzY3bXFnckFhQkN2Wld2X1NhZUZMa1VVQWFmSHBlS2xlbUZ4dllnX3Nzc3NFZzNPdjBRZkZHaHJZdkdHeTA0?oc=5) / [MTN 머니투데이방송](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpRS1pcHNEUk44eU5NVW5pWC1DTjRhNnppVDR3cFBFcUNsNEdkWWFsRTJ0V0FSSzdQQ0JSRzBIOXFrOTIyUENYbU8zZWZCMktiYjYtY21qQlZ0MHZVMXdN?oc=5) / [YTN](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBENVA4anhVWnY5eld1T2p2cWItdU1qZHIxVDFNODV0Nk8xSHNhb2pQTjVKNE5LLXBlLVVzeDlEd1Nsd2htQzFDWmNQLTJHUHdoaDdYOGV6UFZZYzZ2VUE?oc=5)</sub>\n\n---\n\n### 3. 미 중간선거 후폭풍과 AI 규제 공포\n> 키워드: 미 중간선거와 AI규제\n\n**📌 무슨 일이 있었나**\n- 미국 중간선거 이후 민주당이 빅테크 기업들에 대한 대대적인 조사와 인공지능 규제 강화를 본격적으로 추진하기 시작함.\n- 유럽에서도 데이터센터 설립 반대 움직임이 확산되는 가운데 미국 정가의 블루 쓰나미를 타고 AI 규제론이 급부상함.\n- 중간선거 결과로 인해 증시가 큰 충격을 받았으나 전문가들은 단기 충격 이후에도 미중 AI 패권 경쟁으로 수요는 지속될 것으로 전망함.\n- 선거 이후 AI 규제 우려가 고조되는 상황에서도 오픈AI는 데이터센터 투자와 자금 조달 계획을 계속 추진하겠다는 입장을 고수함.\n- 미국 중간선거에서 AI 규제론자들이 대거 당선되면서 규제 강화 전망이 뚜렷해졌고 이로 인해 한국 증시의 반도체 쇼크를 유발함.\n\n**💬 핵심 Q&A**\n- **Q. 미 중간선거 결과가 한국의 반도체 주식에 직접적으로 타격을 주는 이유는 무엇인가?**\n  A. 선거 이후 빅테크 규제론자들이 힘을 얻으면서 글로벌 IT 투자가 위축될 것이라는 공포가 확산되었고, 이는 반도체 수출 비중이 높은 한국 증시에 직격탄이 되기 때문이다.\n- **Q. 오픈AI가 규제 우려 속에서도 데이터센터 투자를 계속하는 배경은 무엇인가?**\n  A. 인공지능 모델 학습과 서비스 운영을 위한 인프라 확충이 필수적이기 때문에 단기적인 정치적 규제 리스크보다 장기 기술 패권 확보를 우선시하기 때문이다.\n- **Q. AI 규제 공포가 확산되는 시기에는 관련 기술주 투자를 어떻게 바라보아야 하는가?**\n  A. 규제 리스크로 인한 단기 주가 변동성을 인지하고, 각 기업이 규제 환경 변화에 대응하면서 실질적인 수익을 창출할 수 있는지를 보수적으로 검토해야 한다.\n\n**👀 앞으로 볼 포인트**\n- 미국 의회의 AI 관련 규제 법안 추진\n- 오픈AI의 데이터센터 투자 집행 속도\n- 미중 AI 패권 경쟁에 따른 반도체 수요\n\n<sub>참고: [AI타임스](https://news.google.com/rss/articles/CBMiakFVX3lxTE5NZlVqSzFWX21sTnNCX1BOVmoxWHBEUnJLbDFxWlZMZ2FHaUZ2NFA2Q1RTZGFxYWEzenBCOEY4SHphVF9SUVFaSG5RanpaelhleVpGSjJWRlBtQzRaR1VIYVlKSFdFM3puMnc?oc=5) / [YTN](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YeUsxX0h4clo2dlNuRmhZSFJrTmFUVi1kZU4tdmhlTHNHZmt6dXJGbHAyTEZiV1BDeEE1dUNOQmZqNEpwZmlGRGY0d0U0dWx3bW9NMXAtTFJKQk5hR3c?oc=5) / [뉴데일리](https://news.google.com/rss/articles/CBMie0FVX3lxTE41RWpJQnM3RDVqbmR0VFQ2T3lFQllGWlItM2llV05LWkgxSXl1S3ZIUFdvRHhNZUhmV2x2R0N5cWJTQTV2S2dybktrR2t4MW9XN3FPaWZBTDlLQ05iSzRLT3R6SlJlZ3N2OFo0ZlI0Y2xzYzg0WTkxcTdoSdIBgAFBVV95cUxOWEZtX0ZQMndzQ3Y5OTUwU0FUSkw2RTRWZW5NS2IzOEhMbnpHck5JQW5yMkRHVDNUcktLajlZWGNPNW5jaThLRGo4SFM1a2JNS19oV1pNNmxZc0gxVnVELWpXUFhKRE5YZkdzeWdtaXJqQk9vSEJadE1ORHA4YUNoNg?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 제목을 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
     "generation_mode": "gemini"
   },
   "yesterday": {
@@ -2016,5 +2044,5 @@
     "newsletter_md": "# 📈 오늘의 경제 뉴스레터\n_2026-11-01 ~ 2026-11-07 이슈 · 발행 2026-11-07_\n\n🇰🇷 **국내 경제:** `코스피` · `기준금리` · `부동산`\n🌐 **해외 경제:** `미국 연준` · `뉴욕증시` · `국제 유가`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 코스피 흐름과 주요 연관 검색어 분석\n> 키워드: 코스피\n\n**📌 무슨 일이 있었나**\n- 국내 증시의 전반적인 방향성을 파악하기 위해 코스피지수와 개별 주가 흐름을 확인하는 투자자들의 관심 집중.\n- 대장주인 SK하이닉스를 비롯한 반도체 관련 종목의 주가 변동성에 대한 시장 참여자들의 실시간 모니터링 지속.\n- 주식 시장의 기초 개념인 코스피의 정의와 코스닥 지수와의 차이점을 이해하려는 초보 투자자들의 검색량 증가.\n- 파생상품 시장 참여를 위한 코스피 선물 거래 현황 및 관련 투자 지표 확인에 대한 시장의 지속적인 요구 확인.\n- 신규 투자 정보 플랫폼인 코스피랩 활용법과 기초 용어인 코스피 뜻을 쉽게 파악하려는 학습 수요 확대.\n\n**💬 핵심 Q&A**\n- **Q. 초보 투자자가 알아야 할 코스피의 정확한 뜻과 코스닥과의 차이는 무엇인가?**\n  A. 코스피는 한국거래소에 상장된 대기업 중심의 유가증권시장 지수이며, 코스닥은 중소·벤처기업 중심의 시장을 의미한다. 두 시장은 상장 기업의 규모와 성격에서 차이가 난다.\n- **Q. 실시간 코스피 지수와 SK하이닉스 같은 특정 주가의 등락은 내 자산에 어떤 영향을 주는가?**\n  A. 지수와 대형주의 등락은 국내 경제 전반의 체력을 보여주는 지표로, 간접적으로 펀드나 주식 계좌의 수익률에 직접적인 영향을 미친다. 다만 단기 변동성에 일희일비하기보다 장기적인 포트폴리오 관점 유지가 필요하다.\n- **Q. 코스피 선물이란 무엇이며 일반 투자자도 주의 깊게 보아야 하는가?**\n  A. 코스피 선물이란 미래의 특정 시점에 지수를 사거나 팔기로 약정하는 파생상품이다. 현물 시장의 방향성을 선행해서 보여주는 경향이 있어 시장 흐름을 읽는 보조 지표로 활용된다.\n\n**👀 앞으로 볼 포인트**\n- 시가총액 상위 종목의 주가 추이\n- 코스피와 코스닥 지수의 디커플링 여부\n- 선물 시장 동향에 따른 외국인 수급 변화\n\n---\n\n### 2. 기준금리의 이해와 국내외 경제 파급효과\n> 키워드: 기준금리\n\n**📌 무슨 일이 있었나**\n- 국가 경제의 통화 정책 방향을 결정하는 한국 및 미국의 기준금리 수준과 향후 추이에 대한 대중적 관심 집중.\n- 기준금리의 정확한 정의와 영어 명칭 및 경제 내에서 작동하는 기본적인 메커니즘을 파악하려는 정보 탐색.\n- 중앙은행의 기준금리 인상 여부가 시중 은행의 대출 및 예금 금리에 미치는 영향과 배경에 대한 분석 필요성 대두.\n- 매년 정해진 기준금리 발표일에 쏠리는 금융 시장의 이목과 경제 주체들의 민첩한 자금 운용 계획 수립.\n- 통화 당국의 정책 결정과 밀접하게 연관된 기준금리와 국채금리 간의 상관관계 및 수익률 곡선 변화 파악.\n\n**💬 핵심 Q&A**\n- **Q. 기준금리가 인상될 때 내 대출 이자와 예금 금리는 구체적으로 어떻게 변동하는가?**\n  A. 기준금리가 오르면 시중 은행의 조달 비용이 증가하여 주택담보대출과 신용대출 금리가 동반 상승한다. 동시에 예금 금리도 함께 올라 저축하는 이들에게는 유리한 환경이 조성된다.\n- **Q. 한국의 기준금리와 미국의 기준금리 추이를 함께 비교하고 살펴보아야 하는 이유는 무엇인가?**\n  A. 한미 간 금리 차이가 벌어질 경우 국내 자본 유출 압력이 높아질 수 있기 때문에 한국은행이 통화 정책을 운용할 때 미국의 금리 수준을 주요 변수로 고려한다.\n- **Q. 기준금리와 국채금리 사이에는 어떤 경제적 관계가 존재하는가?**\n  A. 기준금리는 중앙은행이 단기적으로 조절하는 정책 금리인 반면, 국채금리는 시장에서 거래되는 중장기 금리이다. 기준금리 인상 기대감이 높아지면 국채금리도 선반영되어 함께 오르는 경향을 보인다.\n\n**👀 앞으로 볼 포인트**\n- 한국은행 금융통화위원회의 금리 결정\n- 국채금리와 기준금리 간의 역전 현상\n- 가계대출 금리에 미치는 실시간 파급 효과\n\n---\n\n### 3. 부동산 시장 동향과 시세 조회 활용법\n> 키워드: 부동산\n\n**📌 무슨 일이 있었나**\n- 전국 주택 가격의 객관적인 흐름을 파악하기 위한 부동산114 및 네이버 등 주요 매물 사이트 활용 증가.\n- 정확한 주택 매매 및 전·월세 시세 조회를 수행하기 위한 다양한 플랫폼의 가격 산정 방식 확인.\n- 투명한 주택 거래 질서 확립을 위한 부동산거래 전자계약시스템의 이용 방법 및 도입 취지 숙지.\n- 급변하는 주택 시장 환경 속에서 실수요자 중심의 매물 탐색과 적정 가격 판단 기준 설정.\n- 부동산 시장의 기초 용어와 시세 조회 과정에서 유의해야 할 필수 체크포인트 점검.\n\n**💬 핵심 Q&A**\n- **Q. 온라인 부동산 매물 사이트와 시세 조회 플랫폼의 가격 정보는 실제 거래가와 얼마나 일치하는가?**\n  A. 플랫폼에 나타나는 시세는 호가나 최근 신고가를 바탕으로 산정되므로 실제 현장 계약가와는 다소 차이가 날 수 있다. 따라서 정확한 판단을 위해 국토교통부 실거래가 시스템을 교차 검증하는 것이 안전하다.\n- **Q. 부동산거래 전자계약시스템을 이용하면 일반 계약자에세 어떤 실질적 혜택이 주어지는가?**\n  A. 전자계약을 체결할 경우 거래 신고가 자동으로 이루어지고 대출 금리 우대 혜택이나 등기 수수료 절감 등의 부가적인 이점을 누릴 수 있다. 계약의 안정성과 투명성이 크게 높아진다는 장점이 있다.\n- **Q. 내 집 마련을 준비하는 일반인이 현재의 부동산 시세 추이를 어떻게 해석하고 접근해야 하는가?**\n  A. 단기적인 가격 등락에 휘둘리기보다 자신의 소득 수준과 자금 조달 능력을 먼저 점검해야 한다. 금리 환경과 대출 규제 변화를 종합적으로 고려하여 보수적인 자금 계획을 세울 필요가 있다.\n\n**👀 앞으로 볼 포인트**\n- 주요 플랫폼의 주간 아파트 매매 및 전세가 변동률\n- 부동산거래 전자계약시스템의 활용 실적 추이\n- 지역별 실거래가와 호가의 괴리율\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 미국 연준의 통화정책과 글로벌 증시 영향\n> 키워드: 미국 연준\n\n**📌 무슨 일이 있었나**\n- 세계 경제에 지대한 영향력을 행사하는 미국 연준의 기준금리 결정 및 향후 정책 방향에 대한 전 세계적 이목 집중.\n- 미국 연준 의장의 공식 발언 내용과 기자회견 메시지가 글로벌 금융 시장의 주가와 환율에 미치는 즉각적인 반응 확인.\n- 매년 사전에 예고된 미국 연준의 금리 발표일과 정례 회의 일정에 맞춘 시장 참여자들의 포트폴리오 재조정.\n- 인플레이션 압력 완화와 고용 지표 호조에 따른 미국 연준의 금리 인상 또는 동결 기조 변화 분석.\n- 미국 연준의 정확한 역할과 권한을 이해하기 위한 중앙은행 제도 및 의장 직위의 의미 파악.\n\n**💬 핵심 Q&A**\n- **Q. 미국 연준의 금리 발표와 의장의 발언이 한국의 일반 가계 경제와 내 자산에 구체적으로 어떤 파급을 미치는가?**\n  A. 연준이 금리를 올리면 국내 시장금리도 상승 압박을 받아 대출이자가 늘어나고 원화 가치가 약세로 돌아설 수 있다. 이는 수입 물가 상승으로 이어져 국내 체감 물가에 부담을 준다.\n- **Q. 미국 연준 의장의 뜻과 권한은 구체적으로 어떤 방식으로 글로벌 경제를 움직이는가?**\n  A. 연준 의장은 세계 최대 경제 대국인 미국의 통화 정책을 총괄하며, 금리 조정을 통해 달러 유동성을 조절한다. 이 결정은 전 세계 자금의 흐름과 위험 자산 선호도를 결정짓는 핵심 요인이다.\n- **Q. 연준의 금리 전망과 발표 일정을 미리 확인하는 것이 왜 투자에서 중요한가?**\n  A. 발표 시기마다 금융 시장의 변동성이 극심해지기 때문에 일정을 미리 파악하고 리스크를 관리하는 것이 필수적이다. 예상치 못한 결정이 나올 경우 자산 가격이 급변할 수 있어 사전 대비가 필요하다.\n\n**👀 앞으로 볼 포인트**\n- 연방공개시장위원회(FOMC) 성명서 문구 변화\n- 연준 의장의 금리 인하 또는 동결 시사 발언\n- 미국 고용 및 물가 지표 발표 결과\n\n---\n\n### 2. 뉴욕증시 마감 시황과 글로벌 증시 연동성\n> 키워드: 뉴욕증시\n\n**📌 무슨 일이 있었나**\n- 국내 증시 개장 전 글로벌 시장의 방향성을 가늠하기 위한 뉴욕증시 개장 시간 및 마감 시황 확인.\n- 다우존스, S&P500, 나스닥 등 주요 뉴욕증시 지수의 실시간 등락 현황과 업종별 주가 흐름 분석.\n- 공휴일 및 특별 사유로 인한 뉴욕증시 휴장일 일정을 미리 파악하여 자금 결제 및 환전 일정 조율.\n- 글로벌 경제 뉴스와 실시간 속보에 민감하게 반응하는 뉴욕증시 마감 직전의 지수 변동성 주시.\n- 글로벌 금융의 중심지인 뉴욕증시가 갖는 역사적 의미와 전 세계 자본 시장에서의 핵심 역할 이해.\n\n**💬 핵심 Q&A**\n- **Q. 시차가 있는 뉴욕증시의 개장 및 마감 시간이 한국 투자자들의 실전 매매에 어떤 의미를 갖는가?**\n  A. 뉴욕증시는 한국 시간으로 밤늦은 시각에 열려 새벽에 마감되므로, 다음 날 아침 국내 증시가 열릴 때 밤사이의 글로벌 호재나 악재를 곧바로 반영하는 통로가 된다.\n- **Q. 뉴욕증시의 실시간 지수와 마감 시황이 국내 수출 기업 주가에 미치는 영향은 무엇인가?**\n  A. 미국 증시가 강세를 보이면 투자 심리가 개선되어 국내에 상장된 글로벌 IT나 자동차 등 수출 주도형 대형주에도 긍정적인 온기가 전달될 가능성이 높다.\n- **Q. 뉴욕증시 휴장일에는 국내 증시나 환율 시장이 어떤 반응을 보이는가?**\n  A. 미국 시장이 휴장할 경우 글로벌 유동성 공급과 지표 발표가 부재하여 국내 증시 역시 거래량이 줄어들고 방향성을 잡지 못한 채 좁은 횡보세를 보이는 경우가 많다.\n\n**👀 앞으로 볼 포인트**\n- 뉴욕증시 기술주 중심의 나스닥 지수 흐름\n- 국내 증시와 뉴욕증시의 디커플링 현상 발생 여부\n- 주요 기업의 실적 발표에 따른 장 마감 후 시간외 거래 동향\n\n---\n\n### 3. 국제 유가 변동 추이와 국내 경제 영향\n> 키워드: 국제 유가\n\n**📌 무슨 일이 있었나**\n- 에너지 시장의 수급 불균형과 지정학적 리스크를 반영하는 국제 유가 실시간 가격 및 차트 분석.\n- 브렌트유와 WTI 등 주요 원유의 실시간 가격 변동 그래프를 활용한 중장기 가격 추이 파악.\n- 원유 선물 시장의 지수 산정 방식과 글로벌 유가 사이트가 제공하는 통계 데이터 검토.\n- 국제 유가 상승 및 하락이 글로벌 인플레이션 압력과 각국 중앙은행의 통화 정책에 미치는 인과관계 규명.\n- 에너지 가격 변동이 실물 경제와 소비자에 미치는 파급 효과를 이해하기 위한 국제 유가의 정의 숙지.\n\n**💬 핵심 Q&A**\n- **Q. 국제 유가 실시간 가격과 차트의 변동이 내 주머니 사정과 물가에 구체적으로 어떤 타격을 주는가?**\n  A. 국제 유가가 오르면 석유제품 가격은 물론이고 원료를 수입해 가공하는 모든 공산품과 물류비용이 함께 올라 전반적인 소비자 물가가 치솟게 된다.\n- **Q. 국제 유가 변동 그래프를 볼 때 단순 가격 외에 어떤 추이를 눈여겨보아야 하는가?**\n  A. 가격의 절대 수준도 중요하지만 변동 폭이 얼마나 가파른지, 그리고 상승세가 지속되는 기간이 어느 정도인지를 파악하여 원가 압박의 지속성을 가늠해야 한다.\n- **Q. 국제 유가의 급등락은 국내 증시와 환율에 어떠한 연쇄 반응을 일으키는가?**\n  A. 유가 급등은 무역수지 적자를 유발하고 원화 가치를 떨어뜨려 환율 상승을 부추기며, 기업들의 제조 원가 부담을 높여 주식 시장 전반에 악재로 작용할 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 석유수출국기구(OPEC+)의 원유 생산량 조절 정책\n- 주요 산유국의 지정학적 갈등에 따른 공급 차질 우려\n- 국내 주유소 휘발유 및 경유 가격의 시차 반영 속도\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 제목을 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
     "generation_mode": "fallback"
   },
-  "updated_at": "2026-11-07 14:46:52 KST"
+  "updated_at": "2026-11-07 16:59:07 KST"
 }
