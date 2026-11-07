@@ -753,6 +753,57 @@ def _normalize_question_tone(q: str) -> str:
     return s
 
 
+_ADJ_STEMS = (
+    "필요", "중요", "위험", "유효", "불가피", "바람직", "적절", "유리", "불리",
+    "취약", "민감", "불안정", "가능", "불가능", "비슷", "동일", "유사", "확실",
+    "불확실", "뚜렷", "극심", "심각", "미미", "충분", "부족", "긴밀", "유력",
+    "우세", "저조", "부진", "견조", "탄탄", "안정", "불안", "모호", "명확",
+)
+
+
+def _normalize_declarative_tone(text: str) -> str:
+    """답변 및 본문의 존댓말('~입니다', '~합니다', '~습니다')을 간결한 평서문('~이다', '~한다', '~다')으로 일관 교정."""
+    s = (text or "").strip()
+    if not s:
+        return s
+
+    def _conv(m):
+        w = m.group(1)
+        punct = m.group(2) or "."
+        if w.endswith("입니다"):
+            return w[:-3] + "이다" + punct
+        if w.endswith("아닙니다"):
+            return w[:-4] + "아니다" + punct
+        if w.endswith("있습니다"):
+            return w[:-4] + "있다" + punct
+        if w.endswith("없습니다"):
+            return w[:-4] + "없다" + punct
+        if w.endswith("않습니다"):
+            return w[:-4] + "않는다" + punct
+        if w.endswith("합니다"):
+            stem = w[:-3]
+            if stem.endswith(_ADJ_STEMS):
+                return stem + "하다" + punct
+            return stem + "한다" + punct
+        if w.endswith("됩니다"):
+            return w[:-3] + "된다" + punct
+        if w.endswith("습니다") and len(w) >= 4:
+            prev = w[-4]
+            code = ord(prev) - 0xAC00
+            if 0 <= code <= 11171 and code % 28 == 20:  # ㅆ 받침 과거형 (~았/었/했/됐/졌/났습니다 -> ~다)
+                return w[:-3] + "다" + punct
+            return w[:-3] + "는다" + punct
+        if w.endswith("니다") and len(w) >= 3:
+            prev = w[-3]
+            code = ord(prev) - 0xAC00
+            if 0 <= code <= 11171 and code % 28 == 17:  # ㅂ 받침 현재형 (~듭/립/집/칩/킵니다 -> ~든/린/진/친/킨다)
+                new_ch = chr(ord(prev) - 17 + 4)
+                return w[:-3] + new_ch + "다" + punct
+        return w + punct
+
+    return re.sub(r"(\S+?니다)([.?!]?)", _conv, s)
+
+
 def generate_manuscripts_batch(entries: list, start: datetime, end: datetime, api_key: str):
     """키워드 여러 개를 Gemini 1회 호출로 한 번에 생성.
     entries: [{"keyword", "articles", "queries"}] -> returns {keyword: data}
@@ -791,7 +842,7 @@ def generate_manuscripts_batch(entries: list, start: datetime, end: datetime, ap
         "'전자계약시스템은~', '뉴욕증시 개장시간과 서머타임은~' 같은 사전적 용어 정의나 포털/플랫폼 소개, 거래 시간 안내 등 일반 상식을 절대 쓰지 말 것.\n"
         "4. 절대 금지 (메타 발언 금지): '수집된 기사가 없어 확인이 필요하다', '데이터가 존재하지 않는다', '직접적인 확인이 필요하다' 같은 문장을 절대 쓰지 말 것.\n"
         "5. 문체: 본문(facts)과 Q&A 답변(a)은 간결하고 명확한 평서문('~이다', '~했다', '~전망된다', '~나타났다')으로 통일하고, "
-        "모든 Q&A 질문(q)의 끝맺음은 반드시 '~인가?' 또는 '~는가?' 문체로만 통일할 것 ('~입니까?', '~인가요?', '~할까요?', '~주나?' 절대 금지).\n\n"
+        "모든 Q&A 질문(q)의 끝맺음은 반드시 '~인가?' 또는 '~는가?' 문체로만 통일할 것 ('~입니까?', '~인가요?', '~할까요?', '~입니다', '~합니다', '~습니다' 절대 금지, 한자 표기 금지).\n\n"
         "[키워드별 JSON 작성 항목]\n"
         "- headline: 이번 뉴스 사건의 핵심을 찌르는 뉴스레터 제목 (25자 이내, 과장 금지, '기본 개념/정의/안내' 같은 상식형 제목 절대 금지)\n"
         "- facts: '무슨 일이 있었나'를 정리한 불릿 4~5개 (문자열 배열). 언론사 언급 없이 핵심 사건·구체적 수치·배경·결과만 80~140자 분량으로 깔끔하게 작성.\n"
@@ -827,14 +878,18 @@ def generate_manuscripts_batch(entries: list, start: datetime, end: datetime, ap
             if isinstance(qa, dict):
                 qna_list.append({
                     "q": _normalize_question_tone(qa.get("q", "")),
-                    "a": (qa.get("a") or "").strip(),
+                    "a": _normalize_declarative_tone(qa.get("a", "")),
                 })
         d["qna"] = qna_list
         for k in ("facts", "watch"):
             v = d.get(k, [])
             items = v if isinstance(v, list) else [str(v)]
             if k == "facts":
-                items = [_strip_media_attribution(str(x)) for x in items if str(x).strip()]
+                items = [
+                    _normalize_declarative_tone(_strip_media_attribution(str(x)))
+                    for x in items
+                    if str(x).strip()
+                ]
             d[k] = items
         out[kw] = d
 
