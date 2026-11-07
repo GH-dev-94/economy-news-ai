@@ -688,6 +688,27 @@ def cache_put(key, value):
     _CACHE[key] = (datetime.now().timestamp(), value)
 
 
+def _strip_media_attribution(text: str) -> str:
+    """본문 불릿에서 'OO에 따르면', 'OO는 ~라고 보도했다' 등 불필요한 언론사 인용 표현을 제거."""
+    s = (text or "").strip()
+    # 1. 문장 앞부분의 'OO(와/및 OO) (보도/자료/집계에) 따르면/의하면,' 패턴 제거
+    s = re.sub(
+        r"^[가-힣A-Za-z0-9·\.\s,]{1,35}?(?:보도|자료|집계|분석)?에\s*(?:따르면|의하면)[,\s]*",
+        "",
+        s,
+    )
+    # 2. 문장 끝이 '~라고 보도했다/전했다/분석했다...' 형태인 경우 앞부분의 언론사 주어('OO와 OO는 ')와 끝의 간접 인용을 함께 정리
+    cite_end_pat = r"(?:이?라고|다고|라며)\s*(?:보도했다|전했다|덧붙였다|분석했다|집계했다|전망했다|밝혔다|평가했다|보도함|전함|분석함|집계함)\.?$"
+    if re.search(cite_end_pat, s):
+        s = re.sub(r"^[가-힣A-Za-z0-9·\.\s]{1,30}?(?:은|는)\s+", "", s)
+        s = re.sub(cite_end_pat, "다.", s)
+    # 3. '~라는 분석을 내놓았다/전달했다' 형태 정리
+    if re.search(r"분석을\s*(?:내놓았다|전달했다|제시했다|보도했다)\.?$", s):
+        s = re.sub(r"^[가-힣A-Za-z0-9·\.\s]{1,30}?(?:은|는)\s+", "", s)
+        s = re.sub(r"(?:이?라는|다는)\s*분석을\s*(?:내놓았다|전달했다|제시했다|보도했다)\.?$", " 것으로 분석된다.", s)
+    return s.strip()
+
+
 def generate_manuscripts_batch(entries: list, start: datetime, end: datetime, api_key: str):
     """키워드 여러 개를 Gemini 1회 호출로 한 번에 생성.
     entries: [{"keyword", "articles", "queries"}] -> returns {keyword: data}
@@ -702,10 +723,9 @@ def generate_manuscripts_batch(entries: list, start: datetime, end: datetime, ap
         arts = e.get("articles") or []
         mat_lines = []
         for a in arts:
-            src = a.get("source") or "언론보도"
+            clean_t = re.sub(r"\s+-\s+[^-]+$", "", a.get("title", "")).strip()
             pub = f" ({a['published']})" if a.get("published") else ""
-            snip = f" - {a['snippet']}" if a.get("snippet") and a["snippet"] != a["title"] else ""
-            mat_lines.append(f"- [{src}{pub}] {a['title']}{snip}")
+            mat_lines.append(f"- {clean_t}{pub}")
         mat = "\n".join(mat_lines) or "(관련 기사 요약 없음)"
 
         # 기사가 충분히 있을 때만 연관 검색어를 참고 자료로 제공 (기사 부재 시 검색어 기반 소설 작성 방지)
@@ -718,14 +738,18 @@ def generate_manuscripts_batch(entries: list, start: datetime, end: datetime, ap
         + "\n\n".join(blocks)
         + "\n\n"
         "[작성 원칙 및 절대 주의사항 - 위반 시 불합격]\n"
-        "1. 오직 [수집된 실제 뉴스 기사]에 등장하는 구체적인 사건, 보도 언론사, 수치, 발표 내용, 시장 반응만 바탕으로 작성할 것.\n"
-        "2. 절대 금지 (교과서 상식·개념 설명 금지): '코스피란 한국거래소에 상장된~', '기준금리는 중앙은행이~', '부동산114나 네이버 부동산에서~', "
+        "1. 오직 [수집된 실제 뉴스 기사]에 등장하는 구체적인 사건, 수치, 발표 내용, 시장 반응만 바탕으로 작성할 것.\n"
+        "2. 절대 금지 (언론사 인용구 및 출처 표기 금지): 본문(facts)에 'OO뉴스에 따르면', 'OO 보도에 의하면', 'OO는 ~라고 전했다', '~라고 보도했다', '~라고 덧붙였다' 같은 언론사 이름이나 전달형 서술어를 절대 쓰지 말 것! "
+        "출처 링크는 하단에 별도로 제공되므로, 문장 처음부터 곧바로 핵심 사실(주체·수치·원인·결과)만 직관적으로 서술할 것.\n"
+        "   - 나쁜 예: '연합뉴스 보도에 따르면 나스닥 지수가 5.5% 폭락했다고 전했다.'\n"
+        "   - 좋은 예: '뉴욕증시에서 나스닥 지수가 AI 기술주 투매 여파로 5.5% 폭락하며 장중 조정장에 진입했다.'\n"
+        "3. 절대 금지 (교과서 상식·개념 설명 금지): '코스피란 한국거래소에 상장된~', '기준금리는 중앙은행이~', '부동산114나 네이버 부동산에서~', "
         "'전자계약시스템은~', '뉴욕증시 개장시간과 서머타임은~' 같은 사전적 용어 정의나 포털/플랫폼 소개, 거래 시간 안내 등 일반 상식을 절대 쓰지 말 것.\n"
-        "3. 절대 금지 (메타 발언 금지): '수집된 기사가 없어 확인이 필요하다', '데이터가 존재하지 않는다', '직접적인 확인이 필요하다' 같은 문장을 절대 쓰지 말 것.\n"
-        "4. 문체: 모든 본문과 Q&A는 신뢰감 있고 간결한 평서문('~이다', '~한다', '~전망된다', '~분석된다') 또는 명사형 종결('~발표', '~급락', '~집중')로 통일하고, '~입니다/해요' 체는 쓰지 말 것.\n\n"
+        "4. 절대 금지 (메타 발언 금지): '수집된 기사가 없어 확인이 필요하다', '데이터가 존재하지 않는다', '직접적인 확인이 필요하다' 같은 문장을 절대 쓰지 말 것.\n"
+        "5. 문체: 본문(facts)과 Q&A 답변(a)은 간결하고 명확한 평서문('~이다', '~했다', '~전망된다', '~나타났다')으로 통일하고, 질문(q)은 '~인가?' 형태로 통일할 것 ('~인가요?', '~입니다' 금지).\n\n"
         "[키워드별 JSON 작성 항목]\n"
         "- headline: 이번 뉴스 사건의 핵심을 찌르는 뉴스레터 제목 (25자 이내, 과장 금지, '기본 개념/정의/안내' 같은 상식형 제목 절대 금지)\n"
-        "- facts: '무슨 일이 있었나'를 정리한 불릿 4~5개 (문자열 배열). 각 항목은 90~150자 분량으로 언론사/출처, 구체적 수치, 사건 배경과 결과를 담아 작성.\n"
+        "- facts: '무슨 일이 있었나'를 정리한 불릿 4~5개 (문자열 배열). 언론사 언급 없이 핵심 사건·구체적 수치·배경·결과만 80~140자 분량으로 깔끔하게 작성.\n"
         "- watch: 이번 이슈와 관련해 앞으로 시장에서 지켜볼 후속 일정·지표·체크포인트 2~3개 (문자열 배열, 각 45자 이내)\n"
         "- qna: 독자가 이번 뉴스를 읽고 궁금해할 핵심 시사 질문 3개와 답변(각 답변 2~3문장).\n"
         "  * Q1: 왜 지금 이런 현상/사건이 발생했는지 배경과 직접적 원인 질문\n"
@@ -752,7 +776,10 @@ def generate_manuscripts_batch(entries: list, start: datetime, end: datetime, ap
         d["qna"] = d.get("qna", [])[:3]
         for k in ("facts", "watch"):
             v = d.get(k, [])
-            d[k] = v if isinstance(v, list) else [str(v)]
+            items = v if isinstance(v, list) else [str(v)]
+            if k == "facts":
+                items = [_strip_media_attribution(str(x)) for x in items if str(x).strip()]
+            d[k] = items
         out[kw] = d
 
     if all("error" not in v for v in out.values()):

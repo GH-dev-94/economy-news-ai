@@ -70,12 +70,11 @@ def _build_article_based_fallback(kw: str, arts: list[dict]) -> dict:
     """Gemini 쿼터 초과 등 호출 실패 시에도 상식 창작이 아닌 실제 수집된 기사 제목들로만 요약 구성."""
     facts = []
     for a in arts[:5]:
-        src = a.get("source") or "언론 보도"
         clean_t = re.sub(r"\s+-\s+[^-]+$", "", a.get("title", "")).strip()
         if clean_t:
-            facts.append(f"[{src}] {clean_t}")
+            facts.append(clean_t)
     if not facts:
-        facts = [f"{kw} 관련 주요 언론 보도 및 시장 지표 변동 집중"]
+        facts = [f"{kw} 관련 주요 시장 지표 변동 및 후속 논의 진행"]
 
     first_title = re.sub(r"\s+-\s+[^-]+$", "", arts[0]["title"]).strip() if arts else kw
     short_headline = first_title[:24] if len(first_title) <= 24 else f"{kw} 핵심 보도 종합"
