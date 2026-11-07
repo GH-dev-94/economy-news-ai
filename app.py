@@ -98,7 +98,7 @@ st.markdown("""
 
 if not data:
     st.warning("⚠️ 아직 생성된 뉴스레터 데이터가 없습니다.")
-    st.info("터미널에서 `python batch_generate.py`를 실행하여 초기 데이터를 생성하거나, 매일 오전 11시 GitHub Actions 자동 배치를 기다려주세요.")
+    st.info("터미널에서 `python batch_generate.py`를 실행하여 초기 데이터를 생성하거나, 4시간 간격 GitHub Actions 자동 배치를 기다려주세요.")
     st.stop()
 
 updated_at = data.get("updated_at", "최근")
@@ -226,4 +226,4 @@ with tab_week:
 
 # 하단 푸터 (임베드용 심플 안내)
 st.markdown("---")
-st.caption("※ 본 브리핑은 매일 오전 11시(KST) AI가 공개 경제 뉴스 헤드라인과 구글 연관 검색어를 종합 분석하여 자동 발행하며, 특정 종목이나 상품에 대한 투자 권유가 아닙니다.")
+st.caption("※ 본 브리핑은 4시간 간격(KST)으로 AI가 공개 경제 뉴스 보도를 종합 분석하여 자동 발행하며, 특정 종목이나 상품에 대한 투자 권유가 아닙니다.")

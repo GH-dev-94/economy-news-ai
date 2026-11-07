@@ -1,9 +1,11 @@
-"""매일 KST 오전 11시에 자동 실행되는 경제 뉴스레터 배치 생성기
-3개 기간('today', 'yesterday', 'week')의 뉴스레터를 한 번에 생성하여 news_data.json에 저장합니다.
+"""4시간 주기(00, 04, 08, 12, 16, 20시 KST)로 자동 실행되는 경제 뉴스레터 배치 생성기
+- 00시(또는 날짜 변경 시): 'today', 'yesterday', 'week' 전체 갱신
+- 그 외 4시간 주기: 'today' 집중 갱신 (+ 기존 yesterday/week 데이터가 오염·누락된 경우 자동 복구)
 """
-import os
-import sys
 import json
+import os
+import re
+import sys
 import traceback
 from datetime import datetime, timedelta, timezone
 from dotenv import load_dotenv
@@ -17,13 +19,14 @@ if sys.stdout and hasattr(sys.stdout, "reconfigure"):
 KST = timezone(timedelta(hours=9))
 
 from pipeline import (
-    extract_keywords,
+    _dynamic_cluster_keywords,
+    build_newsletter_md,
     extract_dual_keywords,
+    fetch_domestic_pool,
+    fetch_global_pool,
     fetch_news,
     fetch_search_queries,
     generate_manuscripts_batch,
-    build_newsletter_md,
-    period_text
 )
 
 # .env 로드
@@ -34,62 +37,155 @@ DATA_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "news_data.
 
 _WEEKDAYS = ["월", "화", "수", "목", "금", "토", "일"]
 
+_BAD_MARKERS = (
+    "수집된 기사가 없어",
+    "데이터가 존재하지 않아",
+    "확인 불가",
+    "추가적인 데이터 확보",
+    "기본 개념과",
+    "기준금리의 정의와",
+    "시세 확인법과 전자계약",
+)
+
 
 def _format_date(d: datetime) -> str:
     return f"{d.year}년 {d.month}월 {d.day}일 ({_WEEKDAYS[d.weekday()]})"
 
 
-def process_period(label_name: str, start_dt: datetime, end_dt: datetime, api_key: str, top_n: int = 3, country: str = "KR"):
+def _is_valid_period_data(period_data: dict) -> bool:
+    """해당 기간의 뉴스레터 데이터가 실제 뉴스 기사 기반으로 정상 생성되었는지 품질 검증."""
+    if not isinstance(period_data, dict):
+        return False
+    md = period_data.get("newsletter_md") or ""
+    if not md or any(marker in md for marker in _BAD_MARKERS):
+        return False
+    news_map = period_data.get("news") or {}
+    if not isinstance(news_map, dict):
+        return False
+    total_articles = sum(len(v) for v in news_map.values() if isinstance(v, list))
+    return total_articles >= 6
+
+
+def _build_article_based_fallback(kw: str, arts: list[dict]) -> dict:
+    """Gemini 쿼터 초과 등 호출 실패 시에도 상식 창작이 아닌 실제 수집된 기사 제목들로만 요약 구성."""
+    facts = []
+    for a in arts[:5]:
+        src = a.get("source") or "언론 보도"
+        clean_t = re.sub(r"\s+-\s+[^-]+$", "", a.get("title", "")).strip()
+        if clean_t:
+            facts.append(f"[{src}] {clean_t}")
+    if not facts:
+        facts = [f"{kw} 관련 주요 언론 보도 및 시장 지표 변동 집중"]
+
+    first_title = re.sub(r"\s+-\s+[^-]+$", "", arts[0]["title"]).strip() if arts else kw
+    short_headline = first_title[:24] if len(first_title) <= 24 else f"{kw} 핵심 보도 종합"
+
+    return {
+        "headline": short_headline,
+        "facts": facts,
+        "watch": [
+            f"{kw} 관련 후속 보도 및 시장 수급 추이",
+            "주요 거시경제 지표 및 당국 정책 발표 여부",
+        ],
+        "qna": [
+            {
+                "q": f"이번 '{kw}' 이슈가 시장에서 부각된 핵심 배경은 무엇인가?",
+                "a": f"최근 주요 언론에서 '{first_title}' 등 관련 보도가 잇따르며 시장 참여자들의 관심이 집중되고 있다.",
+            },
+            {
+                "q": f"'{kw}' 흐름이 개인 투자자와 가계 경제에 미치는 영향은 무엇인가?",
+                "a": "관련 산업군 주가와 환율, 시중 금리 및 체감 경기에 직간접적인 변동 요인으로 작용할 수 있어 면밀한 관찰이 필요하다.",
+            },
+            {
+                "q": "향후 시장 대응에 있어 어떤 점을 중점적으로 확인해야 하는가?",
+                "a": "단기적인 뉴스 헤드라인에 일희일비하기보다 실제 발표되는 기업 실적과 공식 경제 지표를 함께 점검하는 신중한 접근이 요구된다.",
+            },
+        ],
+    }
+
+
+def process_period(
+    label_name: str,
+    start_dt: datetime,
+    end_dt: datetime,
+    api_key: str,
+    top_n: int = 3,
+    country: str = "KR",
+):
     print(f"\n==========================================")
     print(f"[{label_name}] 처리 시작: {start_dt:%Y-%m-%d} ~ {end_dt:%Y-%m-%d}")
     print(f"==========================================")
-    
+
     if start_dt.date() == end_dt.date():
         period_label = _format_date(start_dt)
     else:
         span = (end_dt.date() - start_dt.date()).days + 1
         period_label = f"{_format_date(start_dt)} ~ {_format_date(end_dt)} ({span}일간)"
 
-    # 1~2단계: 국내 및 해외 헤드라인 수집 및 키워드 추출 (국내 3개 + 해외 3개)
-    print(f"1~2단계: 국내 및 해외 키워드 동시 추출 중...")
-    dom_kws, gl_kws, info = extract_dual_keywords(n_domestic=top_n, n_global=top_n, start=start_dt, end=end_dt, api_key=api_key)
-    print(f"-> [국내] 키워드: {dom_kws}")
-    print(f"-> [해외] 키워드: {gl_kws} (방식: {info.get('method')})")
+    # 1~2단계: 실시간 국내/해외 기사 풀 수집 및 이슈 클러스터링 (사전 고정 키워드 없음)
+    print("1~2단계: 국내 및 해외 기사 풀 수집 & 실시간 핫이슈 키워드 추출 중...")
+    dom_kws, gl_kws, info = extract_dual_keywords(
+        n_domestic=top_n,
+        n_global=top_n,
+        start=start_dt,
+        end=end_dt,
+        api_key=api_key,
+    )
+
+    dom_pool = fetch_domestic_pool(start_dt, end_dt)
+    gl_pool = fetch_global_pool(start_dt, end_dt)
 
     if not dom_kws:
-        dom_kws = ["코스피", "기준금리", "부동산"][:top_n]
+        dom_kws = _dynamic_cluster_keywords([a["title"] for a in dom_pool], topn=top_n)
     if not gl_kws:
-        gl_kws = ["미국 연준", "뉴욕증시", "국제 유가"][:top_n]
+        gl_kws = _dynamic_cluster_keywords([a["title"] for a in gl_pool], topn=top_n)
+
+    print(f"-> [국내] 키워드: {dom_kws} (수집 기사 풀: {len(dom_pool)}건)")
+    print(f"-> [해외] 키워드: {gl_kws} (수집 기사 풀: {len(gl_pool)}건 / 방식: {info.get('method')})")
 
     all_kws = dom_kws + gl_kws
 
-    # 3단계: 기사 및 연관 검색어 수집
-    print(f"3~4단계: 뉴스 기사 및 구글 연관 검색어 수집 중 (총 {len(all_kws)}개)...")
+    # 3단계: 키워드별 기사 매칭 + 추가 RSS 수집 및 시사 연관 검색어 수집
+    print(f"3~4단계: 키워드별 뉴스 기사 및 연관 검색어 수집 중 (총 {len(all_kws)}개)...")
     news = {}
     queries = {}
     entries = []
     for kw in all_kws:
-        news[kw] = fetch_news(kw, country, start_dt, end_dt, limit=6)
-        queries[kw] = fetch_search_queries(kw, country, max_items=10)
+        arts = fetch_news(kw, country, start_dt, end_dt, limit=6)
+        # 만약 특정 키워드에 매칭된 기사가 0건이면 해당 섹션 기사 풀 상위 기사로 보완
+        if not arts:
+            target_pool = dom_pool if kw in dom_kws else gl_pool
+            arts = [
+                {
+                    "title": a["title"],
+                    "link": a.get("link", ""),
+                    "source": a.get("source", ""),
+                    "published": a.get("published", ""),
+                    "snippet": a.get("snippet", ""),
+                }
+                for a in target_pool[:5]
+            ]
+        news[kw] = arts
+        queries[kw] = fetch_search_queries(kw, country, max_items=8) if len(arts) >= 2 else []
         print(f"  - '{kw}': 기사 {len(news[kw])}건, 연관 검색어 {len(queries[kw])}건")
         entries.append({
             "keyword": kw,
             "articles": news[kw],
-            "queries": queries[kw]
+            "queries": queries[kw],
         })
 
-    # 4~5단계: Gemini 뉴스레터 원고 일괄 생성 (6개 키워드 1회 일괄 요청)
-    print(f"5단계: Gemini 뉴스레터 원고 일괄 생성 중...")
+    # 4~5단계: Gemini 뉴스레터 원고 일괄 생성
+    print("5단계: Gemini 뉴스레터 원고 일괄 생성 중...")
     results = {}
-    if api_key:
+    if api_key and entries:
         try:
             results = generate_manuscripts_batch(entries, start_dt, end_dt, api_key)
             print("-> Gemini 뉴스레터 생성 완료")
         except Exception as e:
-            print(f"-> Gemini 호출 실패 ({e}). 규칙 기반 원고로 폴백합니다.")
+            print(f"-> Gemini 호출 실패 ({e}). 실제 수집 기사 기반 요약으로 폴백합니다.")
             traceback.print_exc()
 
-    # 결과 폴백 보정 (만약 Gemini가 일부 실패하거나 '데이터 부재' 같은 무의미한 응답을 낸 경우)
+    # 결과 검증 및 실제 기사 기반 폴백 보정
     for kw in all_kws:
         is_bad = False
         if kw not in results or "error" in results[kw]:
@@ -97,27 +193,16 @@ def process_period(label_name: str, start_dt: datetime, end_dt: datetime, api_ke
         else:
             facts = results[kw].get("facts", [])
             facts_text = " ".join(facts)
-            if "데이터가 존재하지 않아" in facts_text or "확인 불가" in facts_text or "추가적인 데이터 확보" in facts_text:
+            headline_text = results[kw].get("headline", "")
+            if any(marker in facts_text or marker in headline_text for marker in _BAD_MARKERS):
                 is_bad = True
 
         if is_bad:
-            arts = news.get(kw, [])
-            facts = [f"{a['title']}" for a in arts[:4]] if arts else [f"{kw} 관련 정부 정책 발표와 금융시장 지표 변동이 이어짐."]
-            results[kw] = {
-                "headline": f"{kw} 시장 핵심 이슈 및 동향",
-                "facts": facts,
-                "watch": [f"{kw} 관련 금융당국 공식 발표", "시중 금리 및 거시 지표 변화"],
-                "qna": [
-                    {"q": f"{kw} 이슈가 개인에게 미치는 실질적인 영향은 무엇인가?", "a": "금리와 환율, 투자 자산 가치에 시차를 두고 반영되므로 포트폴리오 점검이 필요하다."},
-                    {"q": "앞으로 시장에서 가장 주목할 관전 포인트는 무엇인가?", "a": "공식 정책 지표와 주요 기업 실적 발표에 따라 단기 변동성이 결정될 수 있다."},
-                    {"q": "초보 투자자가 지금 주의해야 할 행동은 무엇인가?", "a": "과도한 레버리지를 피하고 분할 접근 관점을 유지하는 것이 바람직하다."}
-                ]
-            }
+            results[kw] = _build_article_based_fallback(kw, news.get(kw, []))
 
-    # 전체 마크다운 문서 생성 (국내/해외 구분 반영)
     dom_items = [(kw, results[kw], news[kw]) for kw in dom_kws]
     gl_items = [(kw, results[kw], news[kw]) for kw in gl_kws]
-    newsletter_md = build_newsletter_md(dom_items, gl_items, start_dt, end_dt, datetime.now())
+    newsletter_md = build_newsletter_md(dom_items, gl_items, start_dt, end_dt, datetime.now(KST).replace(tzinfo=None))
 
     return {
         "period_label": period_label,
@@ -127,30 +212,31 @@ def process_period(label_name: str, start_dt: datetime, end_dt: datetime, api_ke
             "keywords": dom_kws,
             "results": {kw: results[kw] for kw in dom_kws},
             "news": {kw: news[kw] for kw in dom_kws},
-            "queries": {kw: queries[kw] for kw in dom_kws}
+            "queries": {kw: queries[kw] for kw in dom_kws},
         },
         "global": {
             "keywords": gl_kws,
             "results": {kw: results[kw] for kw in gl_kws},
             "news": {kw: news[kw] for kw in gl_kws},
-            "queries": {kw: queries[kw] for kw in gl_kws}
+            "queries": {kw: queries[kw] for kw in gl_kws},
         },
-        "keywords": all_kws,  # 하위 호환
-        "results": results,    # 하위 호환
-        "news": news,          # 하위 호환
-        "queries": queries,    # 하위 호환
+        "keywords": all_kws,
+        "results": results,
+        "news": news,
+        "queries": queries,
         "newsletter_md": newsletter_md,
-        "generation_mode": info.get("mode", "fallback")
+        "generation_mode": info.get("mode", "fallback"),
     }
 
 
 def run_batch(only=None):
-    """only: None(전체) 또는 ['today', 'yesterday', 'week'] 중 일부만 재생성 (기존 JSON에 병합)"""
+    """only: None(스마트 자동 판단) 또는 ['today', 'yesterday', 'week'] 중 일부만 재생성"""
     api_key = os.getenv("GEMINI_API_KEY", "").strip().strip('"').strip("'")
-    now = datetime.now(KST).replace(tzinfo=None)  # GitHub Actions(UTC 서버)에서도 정확한 KST(한국시간) 보장
+    now = datetime.now(KST).replace(tzinfo=None)
     today_dt = now.replace(hour=0, minute=0, second=0, microsecond=0)
     yesterday_dt = today_dt - timedelta(days=1)
     week_start_dt = today_dt - timedelta(days=6)
+
     output = {}
     if os.path.exists(DATA_PATH):
         try:
@@ -165,33 +251,57 @@ def run_batch(only=None):
         else:
             targets = only
     else:
-        # 스마트 4시간 주기 자동 판단 (KST 기준):
-        # 1. 00시대(새벽 00:00~00:59) 실행이거나, 날짜가 바뀌어 어제 날짜가 일치하지 않는 경우:
-        #    -> '어제'와 '지난 일주일', 그리고 '오늘' 전체(today, yesterday, week)를 갱신
-        # 2. 그 외 시간(04시, 08시, 12시, 16시, 20시 등):
-        #    -> API 쿼터 절약 및 최신성 유지를 위해 '오늘(today)' 뉴스만 갱신
+        # 스마트 4시간 주기 자동 판단 + 오염 데이터 자동 복구(Self-Healing):
+        # 1. 00시대 실행이거나, 날짜가 바뀌어 어제 날짜가 일치하지 않는 경우 -> 전체 갱신
+        # 2. 그 외 시간(04, 08, 12, 16, 20시) -> 기본적으로 'today'만 갱신하되,
+        #    기존 'yesterday'나 'week' 데이터가 기사 누락/오염 상태라면 자동 감지하여 함께 복구!
         prev_yesterday = output.get("yesterday", {}).get("start_date")
         expected_yesterday = f"{yesterday_dt:%Y-%m-%d}"
         has_all_keys = all(k in output for k in ["today", "yesterday", "week"])
         is_midnight_slot = (now.hour == 0)
 
         if not has_all_keys or prev_yesterday != expected_yesterday or is_midnight_slot:
-            reason = "자정 00시 정기 풀 갱신" if is_midnight_slot else f"새 날짜/초기 상태 감지(기존: {prev_yesterday} -> 현재: {expected_yesterday})"
+            reason = (
+                "자정 00시 정기 풀 갱신"
+                if is_midnight_slot
+                else f"새 날짜/초기 상태 감지(기존: {prev_yesterday} -> 현재: {expected_yesterday})"
+            )
             print(f"[스마트 주기] {reason} -> 전체(today, yesterday, week) 갱신")
             targets = ["today", "yesterday", "week"]
         else:
-            print(f"[스마트 주기] 당일 4시간 간격 갱신 (현재 시각: {now.hour}시) -> 'today'만 집중 갱신")
             targets = ["today"]
+            if not _is_valid_period_data(output.get("yesterday")):
+                print("[자동 복구] 'yesterday' 데이터의 기사 누락/품질 이상 감지 -> 갱신 대상에 추가")
+                targets.append("yesterday")
+            if not _is_valid_period_data(output.get("week")):
+                print("[자동 복구] 'week' 데이터의 기사 누락/품질 이상 감지 -> 갱신 대상에 추가")
+                targets.append("week")
+            print(f"[스마트 주기] 당일 4시간 간격 갱신 (현재 시각: {now.hour}시) -> 대상: {targets}")
 
-    print(f"=== [경제 뉴스 AI 배치 생성 시작] ===")
+    print("=== [경제 뉴스 AI 배치 생성 시작] ===")
     print(f"실행 시각: {now.strftime('%Y-%m-%d %H:%M:%S')} (API Key 유효: {bool(api_key)}) / 대상: {targets}")
 
-    if "today" in targets:
-        output["today"] = process_period("오늘", today_dt, today_dt, api_key)
-    if "yesterday" in targets:
-        output["yesterday"] = process_period("어제", yesterday_dt, yesterday_dt, api_key)
-    if "week" in targets:
-        output["week"] = process_period("지난 일주일", week_start_dt, today_dt, api_key)
+    period_configs = {
+        "today": ("오늘", today_dt, today_dt),
+        "yesterday": ("어제", yesterday_dt, yesterday_dt),
+        "week": ("지난 일주일", week_start_dt, today_dt),
+    }
+
+    for key in targets:
+        if key not in period_configs:
+            continue
+        label_name, s_dt, e_dt = period_configs[key]
+        new_data = process_period(label_name, s_dt, e_dt, api_key)
+
+        # 품질 게이트(Quality Gate): 만약 네트워크 완전 단절로 새 데이터에 기사가 0건인데
+        # 기존에 유효한 데이터가 있었다면 덮어쓰지 않고 기존 정상 데이터를 보호
+        new_articles_cnt = sum(len(v) for v in new_data.get("news", {}).values())
+        if new_articles_cnt == 0 and _is_valid_period_data(output.get(key)):
+            print(f"[품질 게이트] '{key}' 신규 수집 기사가 0건이므로 기존 정상 데이터를 유지합니다.")
+            continue
+
+        output[key] = new_data
+
     output["updated_at"] = now.strftime("%Y-%m-%d %H:%M:%S KST")
 
     with open(DATA_PATH, "w", encoding="utf-8") as f:
@@ -202,8 +312,5 @@ def run_batch(only=None):
     print(f"==========================================")
 
 
-
 if __name__ == "__main__":
-    import sys
     run_batch(sys.argv[1:] or None)
-
