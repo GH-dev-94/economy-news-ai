@@ -1,5 +1,5 @@
-"""경제 뉴스 AI 데일리 브리핑 (WordPress 임베드 & 단독 뷰어)
-매일 오전 11시(KST) 자동 생성된 '오늘 / 어제 / 지난 일주일' 뉴스레터를 0.1초 만에 즉시 표출합니다.
+"""ZIPPY | AI 경제 데일리 브리핑 (WordPress 임베드 & 단독 뷰어)
+지금 가장 뜨거운 경제 이슈부터 핵심 Q&A까지, 한눈에 빠르게 짚어드립니다.
 """
 import os
 import sys
@@ -23,8 +23,8 @@ DATA_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "news_data.
 # 페이지 설정 & UI 스타일링 (임베드 친화적 디자인)
 # =============================================================================
 st.set_page_config(
-    page_title="경제 뉴스 AI 데일리 브리핑",
-    page_icon="📈",
+    page_title="⚡ ZIPPY | AI 경제 데일리 브리핑",
+    page_icon="⚡",
     layout="wide",
     initial_sidebar_state="collapsed"
 )
@@ -88,9 +88,9 @@ data = load_news_data()
 st.markdown("""
 <div class="header-box">
     <div>
-        <h1 class="header-title">📈 경제 뉴스 AI 데일리 브리핑</h1>
+        <h1 class="header-title">⚡ ZIPPY | AI 경제 데일리 브리핑</h1>
         <div style="font-size: 0.95rem; color: #64748b; margin-top: 0.2rem;">
-            매일 오전 11시(KST), 가장 뜨거운 경제 이슈와 대중 관심사 Q&A를 자동 브리핑합니다.
+            지금 가장 뜨거운 경제 이슈부터 핵심 Q&A까지, 한눈에 빠르게 짚어드립니다.
         </div>
     </div>
 </div>
@@ -193,7 +193,7 @@ def render_period_content(period_key: str, period_data: dict):
 
     # 본문 카드 렌더링 (국내/해외 서브 탭 분리)
     if has_dual:
-        subtab_kr, subtab_gl = st.tabs([f"🇰🇷 국내 경제 ({len(dom_kws)})", f"🌐 해외·글로벌 경제 ({len(gl_kws)})"])
+        subtab_kr, subtab_gl = st.tabs([f"🇰🇷 국내 ({len(dom_kws)})", f"🌐 해외 ({len(gl_kws)})"])
         with subtab_kr:
             _render_cards(dom_kws, dom_data.get("results", {}), dom_data.get("news", {}))
         with subtab_gl:
