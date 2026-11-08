@@ -242,7 +242,7 @@ def run_batch(only=None):
     now = datetime.now(KST).replace(tzinfo=None)
     today_dt = now.replace(hour=0, minute=0, second=0, microsecond=0)
     yesterday_dt = today_dt - timedelta(days=1)
-    week_start_dt = today_dt - timedelta(days=6)
+    week_start_dt = yesterday_dt - timedelta(days=6)  # 어제 기준 과거 7일간 (yesterday_dt - 6일 ~ yesterday_dt)
 
     output = {}
     if os.path.exists(DATA_PATH):
@@ -280,8 +280,8 @@ def run_batch(only=None):
             if not _is_valid_period_data(output.get("yesterday")):
                 print("[자동 복구] 'yesterday' 데이터의 기사 누락/품질 이상 감지 -> 갱신 대상에 추가")
                 targets.append("yesterday")
-            if not _is_valid_period_data(output.get("week")):
-                print("[자동 복구] 'week' 데이터의 기사 누락/품질 이상 감지 -> 갱신 대상에 추가")
+            if not _is_valid_period_data(output.get("week")) or output.get("week", {}).get("end_date") != expected_yesterday:
+                print("[자동 복구] 'week' 데이터의 기간 불일치 또는 품질 이상 감지 -> 갱신 대상에 추가")
                 targets.append("week")
             print(f"[스마트 주기] 당일 4시간 간격 갱신 (현재 시각: {now.hour}시) -> 대상: {targets}")
 
@@ -291,7 +291,7 @@ def run_batch(only=None):
     period_configs = {
         "today": ("오늘", today_dt, today_dt),
         "yesterday": ("어제", yesterday_dt, yesterday_dt),
-        "week": ("지난 일주일", week_start_dt, today_dt),
+        "week": ("지난 일주일", week_start_dt, yesterday_dt),
     }
 
     for key in targets:
