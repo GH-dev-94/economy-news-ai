@@ -155,7 +155,7 @@ def render_period_content(period_key: str, period_data: dict):
         dom_badges = " ".join([f"`{kw}`" for kw in dom_kws]) or "선정 중"
         gl_badges = " ".join([f"`{kw}`" for kw in gl_kws]) or "선정 중"
         st.markdown(f"**기준 기간:** {period_label}")
-        st.markdown(f"🇰🇷 **국내:** {dom_badges} &nbsp;&nbsp;|&nbsp;&nbsp; 🌐 **해외:** {gl_badges}")
+        st.markdown(f"🇰🇷 **국내:** {dom_badges}  \n🌐 **해외:** {gl_badges}")
     else:
         kw_badges = " ".join([f"`{kw}`" for kw in legacy_kws])
         st.markdown(f"**기준 기간:** {period_label}  |  **주요 키워드:** {kw_badges}")
