@@ -1,0 +1,732 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
+  <title>⚡ ZIPPY | AI 경제 데일리 브리핑</title>
+  <meta name="description" content="지금 가장 뜨거운 경제 이슈부터 핵심 Q&A까지, 한눈에 빠르게 짚어드립니다." />
+  <meta property="og:title" content="⚡ ZIPPY | AI 경제 데일리 브리핑" />
+  <meta property="og:description" content="지금 가장 뜨거운 경제 이슈부터 핵심 Q&A까지, 한눈에 빠르게 짚어드립니다." />
+  <meta property="og:type" content="website" />
+  <meta name="theme-color" content="#0e1117" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="ZIPPY 경제" />
+  <link rel="manifest" href="./manifest.json" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚡</text></svg>" />
+  <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-dynamic-subset.min.css" />
+  <style>
+    :root {
+      --bg: #0e1117;
+      --bg-card: #161a23;
+      --bg-card-hover: #1c222e;
+      --text-main: #fafafa;
+      --text-muted: #94a3b8;
+      --border: rgba(250, 250, 250, 0.14);
+      --border-active: #ff4b4b;
+      --accent-blue: #3b82f6;
+      --accent-red: #ff4b4b;
+      --neon-green: #3dd56d;
+      --neon-green-bg: rgba(61, 213, 109, 0.14);
+      --quote-bg: rgba(255, 255, 255, 0.04);
+      --quote-border: #3b82f6;
+    }
+
+    * {
+      box-sizing: border-box;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: var(--bg);
+      color: var(--text-main);
+      font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", sans-serif;
+      line-height: 1.65;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    .container {
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 1.6rem 1.25rem 3.5rem;
+    }
+
+    /* 헤더 */
+    .header-box {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      border-bottom: 2px solid var(--accent-blue);
+      padding-bottom: 0.7rem;
+      margin-bottom: 0.85rem;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .header-title {
+      font-size: 1.75rem;
+      font-weight: 800;
+      color: var(--text-main);
+      margin: 0;
+      letter-spacing: -0.02em;
+    }
+
+    .header-subtitle {
+      font-size: 0.95rem;
+      color: var(--text-muted);
+      margin-top: 0.28rem;
+    }
+
+    .update-caption {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      margin-bottom: 1.2rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+
+    /* 탭 공통 스타일 (Streamlit 탭 디자인과 동일) */
+    .tabs-bar {
+      display: flex;
+      gap: 1.4rem;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 1.2rem;
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+    .tabs-bar::-webkit-scrollbar {
+      display: none;
+    }
+
+    .tab-btn {
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      font-size: 0.95rem;
+      font-weight: 600;
+      padding: 0.65rem 0.2rem;
+      cursor: pointer;
+      border-bottom: 2.5px solid transparent;
+      transition: color 0.15s ease, border-color 0.15s ease;
+      white-space: nowrap;
+      font-family: inherit;
+    }
+
+    .tab-btn:hover {
+      color: var(--text-main);
+    }
+
+    .tab-btn.active {
+      color: var(--accent-red);
+      border-bottom-color: var(--accent-red);
+    }
+
+    /* 상단 기준 기간 및 키워드 요약 바 */
+    .summary-section {
+      margin-bottom: 1.4rem;
+      padding-bottom: 1.2rem;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .period-line {
+      font-size: 1rem;
+      margin-bottom: 0.75rem;
+    }
+
+    .kw-summary-line {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.45rem;
+      font-size: 0.96rem;
+      line-height: 1.9;
+    }
+
+    .kw-divider {
+      color: var(--text-muted);
+      margin: 0 0.35rem;
+    }
+
+    /* 형광 그린 키워드 코드 배지 */
+    .kw-badge {
+      display: inline-block;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      font-size: 0.86rem;
+      font-weight: 600;
+      color: var(--neon-green);
+      background-color: var(--neon-green-bg);
+      border-radius: 5px;
+      padding: 0.12rem 0.48rem;
+      cursor: pointer;
+      transition: transform 0.1s ease, background-color 0.15s ease;
+    }
+
+    .kw-badge:hover {
+      background-color: rgba(61, 213, 109, 0.24);
+    }
+
+    /* 아코디언 카드 (Streamlit st.expander 동일 디자인) */
+    .cards-list {
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+      margin-top: 1rem;
+    }
+
+    .expander-card {
+      border: 1px solid var(--border);
+      border-radius: 0.55rem;
+      background-color: transparent;
+      overflow: hidden;
+      transition: border-color 0.15s ease;
+    }
+
+    .expander-card.open {
+      border-color: rgba(255, 75, 75, 0.55);
+      background-color: rgba(255, 255, 255, 0.01);
+    }
+
+    .expander-header {
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.75rem;
+      padding: 0.85rem 1.05rem;
+      background: none;
+      border: none;
+      color: var(--text-main);
+      font-size: 0.98rem;
+      font-weight: 700;
+      text-align: left;
+      cursor: pointer;
+      font-family: inherit;
+      line-height: 1.45;
+    }
+
+    .expander-header:hover {
+      background-color: var(--bg-card-hover);
+    }
+
+    .expander-title-wrap {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      flex: 1;
+    }
+
+    .chevron {
+      display: inline-block;
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      transition: transform 0.2s ease;
+      margin-right: 0.25rem;
+    }
+
+    .expander-card.open .chevron {
+      transform: rotate(90deg);
+    }
+
+    .scrap-btn {
+      background: none;
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+      border-radius: 6px;
+      padding: 0.22rem 0.5rem;
+      font-size: 0.82rem;
+      cursor: pointer;
+      flex-shrink: 0;
+      transition: all 0.15s ease;
+    }
+
+    .scrap-btn:hover {
+      border-color: var(--neon-green);
+      color: var(--neon-green);
+    }
+
+    .scrap-btn.saved {
+      border-color: #facc15;
+      color: #facc15;
+      background: rgba(250, 204, 21, 0.1);
+    }
+
+    .expander-body {
+      display: none;
+      padding: 0.3rem 1.25rem 1.25rem;
+      border-top: 1px solid rgba(250, 250, 250, 0.07);
+      font-size: 0.95rem;
+    }
+
+    .expander-card.open .expander-body {
+      display: block;
+    }
+
+    .section-h4 {
+      font-size: 1.05rem;
+      font-weight: 700;
+      margin: 1.1rem 0 0.55rem;
+      color: var(--text-main);
+    }
+
+    .bullet-list {
+      margin: 0 0 0.8rem;
+      padding-left: 1.25rem;
+    }
+
+    .bullet-list li {
+      margin-bottom: 0.42rem;
+      color: #e2e8f0;
+    }
+
+    /* Q&A 스타일 */
+    .qna-item {
+      margin-bottom: 0.95rem;
+    }
+
+    .qna-q {
+      font-weight: 700;
+      color: var(--text-main);
+      margin-bottom: 0.35rem;
+    }
+
+    .qna-a {
+      margin: 0;
+      padding: 0.6rem 0.9rem;
+      border-left: 3px solid var(--quote-border);
+      background-color: var(--quote-bg);
+      border-radius: 0 6px 6px 0;
+      color: #cbd5e1;
+    }
+
+    /* 원문 기사 details */
+    .articles-details {
+      margin-top: 1.1rem;
+      padding-top: 0.75rem;
+      border-top: 1px dashed var(--border);
+    }
+
+    .articles-details summary {
+      cursor: pointer;
+      font-weight: 700;
+      color: var(--text-main);
+      font-size: 0.92rem;
+      user-select: none;
+    }
+
+    .articles-list {
+      margin: 0.6rem 0 0;
+      padding-left: 1.2rem;
+      font-size: 0.88rem;
+    }
+
+    .articles-list li {
+      margin-bottom: 0.38rem;
+      color: var(--text-muted);
+    }
+
+    .articles-list a {
+      color: #60a5fa;
+      text-decoration: none;
+    }
+
+    .articles-list a:hover {
+      text-decoration: underline;
+    }
+
+    /* 하단 버튼 바 */
+    .action-row {
+      display: flex;
+      gap: 0.6rem;
+      margin-top: 1.25rem;
+      flex-wrap: wrap;
+    }
+
+    .action-btn {
+      flex: 1;
+      min-width: 200px;
+      padding: 0.7rem 1rem;
+      border-radius: 0.5rem;
+      border: 1px solid var(--border);
+      background-color: rgba(255, 255, 255, 0.02);
+      color: var(--text-main);
+      font-size: 0.92rem;
+      font-weight: 600;
+      cursor: pointer;
+      text-align: center;
+      font-family: inherit;
+      transition: background-color 0.15s ease, border-color 0.15s ease;
+    }
+
+    .action-btn:hover {
+      background-color: var(--bg-card-hover);
+      border-color: rgba(250, 250, 250, 0.3);
+    }
+
+    /* 광고 배너 영역 (나중에 구글 애드센스 / 카카오 애드핏 코드 삽입 위치) */
+    .ad-banner-slot {
+      margin: 1.5rem 0;
+      text-align: center;
+      min-height: 0;
+    }
+
+    .footer {
+      margin-top: 2.2rem;
+      padding-top: 1rem;
+      border-top: 1px solid var(--border);
+      font-size: 0.8rem;
+      color: var(--text-muted);
+    }
+
+    @media (max-width: 640px) {
+      .container {
+        padding: 1.1rem 0.9rem 3rem;
+      }
+      .header-title {
+        font-size: 1.38rem;
+      }
+      .expander-header {
+        padding: 0.78rem 0.85rem;
+        font-size: 0.93rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <!-- 상단 헤더 -->
+    <header class="header-box">
+      <div>
+        <h1 class="header-title">⚡ ZIPPY | AI 경제 데일리 브리핑</h1>
+        <div class="header-subtitle">
+          지금 가장 뜨거운 경제 이슈부터 핵심 Q&amp;A까지, 한눈에 빠르게 짚어드립니다.
+        </div>
+      </div>
+    </header>
+
+    <div class="update-caption">
+      <span id="updated-at">🕒 <strong>최근 자동 업데이트:</strong> 불러오는 중...</span>
+    </div>
+
+    <!-- 기간 선택 탭 (오늘 / 어제 / 지난 일주일 / 스크랩 보관함) -->
+    <nav class="tabs-bar" id="period-tabs">
+      <button class="tab-btn active" data-period="today">📅 오늘</button>
+      <button class="tab-btn" data-period="yesterday">⏳ 어제</button>
+      <button class="tab-btn" data-period="week">🗓️ 지난 일주일</button>
+      <button class="tab-btn" data-period="saved" id="saved-tab-btn">⭐ 스크랩 (0)</button>
+    </nav>
+
+    <!-- 상단 요약 바 -->
+    <section class="summary-section" id="summary-section"></section>
+
+    <!-- [광고 슬롯 1: 상단 배너 자리 - 애드센스 승인 후 여기에 스크립트 삽입] -->
+    <div class="ad-banner-slot" id="ad-slot-top"></div>
+
+    <!-- 국내 / 해외 서브 탭 -->
+    <nav class="tabs-bar" id="region-tabs">
+      <button class="tab-btn active" data-region="domestic" id="tab-domestic">🇰🇷 국내 (0)</button>
+      <button class="tab-btn" data-region="global" id="tab-global">🌐 해외 (0)</button>
+    </nav>
+
+    <!-- 본문 아코디언 카드 리스트 -->
+    <main class="cards-list" id="cards-container"></main>
+
+    <!-- 하단 뉴스레터 복사 & 다운로드 버튼 -->
+    <div class="action-row" id="action-row">
+      <button class="action-btn" id="btn-download-md">📥 통합 뉴스레터 다운로드 (.md)</button>
+      <button class="action-btn" id="btn-copy-md">📋 뉴스레터 텍스트 복사</button>
+    </div>
+
+    <!-- [광고 슬롯 2: 하단 배너 자리] -->
+    <div class="ad-banner-slot" id="ad-slot-bottom"></div>
+
+    <!-- 푸터 -->
+    <footer class="footer">
+      ※ 본 브리핑은 4시간 간격(KST)으로 AI가 공개 경제 뉴스 보도를 종합 분석하여 자동 발행하며, 특정 종목이나 상품에 대한 투자 권유가 아닙니다.
+    </footer>
+  </div>
+
+  <script>
+    // GitHub Pages, 로컬, 워드프레스 어디서든 동작하도록 자동 경로 + GitHub Raw 백업 주소 설정
+    const DATA_URLS = [
+      "./news_data.json",
+      "https://raw.githubusercontent.com/GH-dev-94/economy-news-ai/main/news_data.json"
+    ];
+
+    let appData = null;
+    let currentPeriod = "today";
+    let currentRegion = "domestic";
+    let savedItems = JSON.parse(localStorage.getItem("zippy_scraps") || "[]");
+
+    function escapeHtml(str) {
+      if (!str) return "";
+      return String(str)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#039;");
+    }
+
+    function updateSavedTabCount() {
+      const btn = document.getElementById("saved-tab-btn");
+      if (btn) btn.textContent = `⭐ 스크랩 (${savedItems.length})`;
+    }
+
+    function isScrapped(id) {
+      return savedItems.some(item => item.id === id);
+    }
+
+    function toggleScrap(cardObj, event) {
+      event.stopPropagation();
+      const idx = savedItems.findIndex(item => item.id === cardObj.id);
+      if (idx >= 0) {
+        savedItems.splice(idx, 1);
+      } else {
+        savedItems.unshift(cardObj);
+      }
+      localStorage.setItem("zippy_scraps", JSON.stringify(savedItems));
+      updateSavedTabCount();
+      renderView();
+    }
+
+    async function fetchNewsData() {
+      const cacheBuster = `?t=${Math.floor(Date.now() / 60000)}`;
+      for (const baseUrl of DATA_URLS) {
+        try {
+          const res = await fetch(baseUrl + cacheBuster);
+          if (res.ok) {
+            appData = await res.json();
+            break;
+          }
+        } catch (err) {
+          console.warn("Fetch fallback:", baseUrl, err);
+        }
+      }
+
+      if (!appData) {
+        document.getElementById("updated-at").innerHTML = "⚠️ 데이터를 불러오지 못했습니다. 잠시 후 새로고침 해주세요.";
+        return;
+      }
+
+      document.getElementById("updated-at").innerHTML =
+        `🕒 <strong>최근 자동 업데이트:</strong> ${escapeHtml(appData.updated_at || "최근")}`;
+
+      updateSavedTabCount();
+      renderView();
+    }
+
+    function buildCardHtml(idx, kw, item, arts, periodLabel) {
+      const headline = item.headline || `${kw} 시장 핵심 이슈`;
+      const cardId = `${periodLabel}_${kw}`;
+      const scrapped = isScrapped(cardId);
+
+      const facts = Array.isArray(item.facts) ? item.facts : (item.facts ? [item.facts] : []);
+      const factsHtml = facts.map(f => `<li>${escapeHtml(f)}</li>`).join("");
+
+      const qna = Array.isArray(item.qna) ? item.qna : [];
+      const qnaHtml = qna.map((qa, qIdx) => `
+        <div class="qna-item">
+          <div class="qna-q">Q${qIdx + 1}. ${escapeHtml(qa.q || "")}</div>
+          <blockquote class="qna-a"><strong>A.</strong> ${escapeHtml(qa.a || "")}</blockquote>
+        </div>
+      `).join("");
+
+      const watch = Array.isArray(item.watch) ? item.watch : (item.watch ? [item.watch] : []);
+      const watchHtml = watch.length > 0 ? `
+        <h4 class="section-h4">👀 앞으로 볼 포인트</h4>
+        <ul class="bullet-list">
+          ${watch.map(w => `<li>${escapeHtml(w)}</li>`).join("")}
+        </ul>
+      ` : "";
+
+      const artsList = Array.isArray(arts) ? arts : [];
+      const artsHtml = artsList.length > 0 ? `
+        <details class="articles-details">
+          <summary>🔗 관련 주요 기사 원문 (${artsList.length}건)</summary>
+          <ul class="articles-list">
+            ${artsList.map(a => {
+              const src = a.source ? ` · ${escapeHtml(a.source)}` : "";
+              const pub = a.published ? ` · ${escapeHtml(a.published)}` : "";
+              return `<li><a href="${escapeHtml(a.link || "#")}" target="_blank" rel="noopener">${escapeHtml(a.title || "")}</a>${src}${pub}</li>`;
+            }).join("")}
+          </ul>
+        </details>
+      ` : "";
+
+      const cardPayload = encodeURIComponent(JSON.stringify({
+        id: cardId,
+        kw,
+        item,
+        arts: artsList,
+        periodLabel
+      }));
+
+      return `
+        <article class="expander-card" id="card-${ idx }">
+          <button class="expander-header" onclick="toggleExpander(this)">
+            <div class="expander-title-wrap">
+              <span class="chevron">❯</span>
+              <span>📌 ${idx}. ${escapeHtml(headline)}</span>
+              <span class="kw-badge">${escapeHtml(kw)}</span>
+            </div>
+            <span class="scrap-btn ${scrapped ? 'saved' : ''}"
+                  onclick="toggleScrap(JSON.parse(decodeURIComponent('${cardPayload}')), event)"
+                  title="스크랩 보관함에 저장">
+              ${scrapped ? "⭐ 저장됨" : "☆ 스크랩"}
+            </span>
+          </button>
+          <div class="expander-body">
+            <h4 class="section-h4">📌 무슨 일이 있었나</h4>
+            <ul class="bullet-list">${factsHtml}</ul>
+
+            <h4 class="section-h4">💬 핵심 Q&amp;A</h4>
+            ${qnaHtml}
+
+            ${watchHtml}
+            ${artsHtml}
+          </div>
+        </article>
+      `;
+    }
+
+    window.toggleExpander = function(headerBtn) {
+      const card = headerBtn.closest(".expander-card");
+      if (card) card.classList.toggle("open");
+    };
+
+    window.jumpToKeyword = function(region, kwIndex) {
+      if (currentRegion !== region) {
+        currentRegion = region;
+        renderView();
+      }
+      const targetCard = document.getElementById(`card-${kwIndex}`);
+      if (targetCard) {
+        targetCard.classList.add("open");
+        targetCard.scrollIntoView({ behavior: "smooth", block: "center" });
+      }
+    };
+
+    function renderView() {
+      const summaryEl = document.getElementById("summary-section");
+      const regionTabsEl = document.getElementById("region-tabs");
+      const cardsEl = document.getElementById("cards-container");
+      const actionRowEl = document.getElementById("action-row");
+
+      // 스크랩 보관함 탭인 경우
+      if (currentPeriod === "saved") {
+        regionTabsEl.style.display = "none";
+        actionRowEl.style.display = "none";
+        summaryEl.innerHTML = `
+          <div class="period-line"><strong>⭐ 내 스크랩 보관함:</strong> 저장한 핵심 브리핑 (${savedItems.length}건)</div>
+        `;
+        if (savedItems.length === 0) {
+          cardsEl.innerHTML = `<div style="color:var(--text-muted); padding: 1.5rem 0;">아직 스크랩한 브리핑이 없습니다. 각 뉴스 카드 오른쪽의 <strong>[☆ 스크랩]</strong> 버튼을 눌러 저장해 보세요.</div>`;
+          return;
+        }
+        cardsEl.innerHTML = savedItems.map((saved, i) =>
+          buildCardHtml(i + 1, saved.kw, saved.item, saved.arts, saved.periodLabel)
+        ).join("");
+        return;
+      }
+
+      regionTabsEl.style.display = "flex";
+      actionRowEl.style.display = "flex";
+
+      const periodData = appData ? appData[currentPeriod] : null;
+      if (!periodData) {
+        summaryEl.innerHTML = "해당 기간의 브리핑 데이터가 준비되지 않았습니다.";
+        cardsEl.innerHTML = "";
+        return;
+      }
+
+      const periodLabel = periodData.period_label || "";
+      const domData = periodData.domestic || {};
+      const glData = periodData.global || {};
+      const domKws = domData.keywords || [];
+      const glKws = glData.keywords || [];
+
+      const domBadges = domKws.map((kw, i) =>
+        `<span class="kw-badge" onclick="jumpToKeyword('domestic', ${i + 1})">${escapeHtml(kw)}</span>`
+      ).join(" ") || "선정 중";
+
+      const glBadges = glKws.map((kw, i) =>
+        `<span class="kw-badge" onclick="jumpToKeyword('global', ${i + 1})">${escapeHtml(kw)}</span>`
+      ).join(" ") || "선정 중";
+
+      summaryEl.innerHTML = `
+        <div class="period-line"><strong>기준 기간:</strong> ${escapeHtml(periodLabel)}</div>
+        <div class="kw-summary-line">
+          <span>🇰🇷 <strong>국내:</strong></span> ${domBadges}
+          <span class="kw-divider">|</span>
+          <span>🌐 <strong>해외:</strong></span> ${glBadges}
+        </div>
+      `;
+
+      // 서브탭 카운트 및 활성화 상태 업데이트
+      const tabDom = document.getElementById("tab-domestic");
+      const tabGl = document.getElementById("tab-global");
+      tabDom.textContent = `🇰🇷 국내 (${domKws.length})`;
+      tabGl.textContent = `🌐 해외 (${glKws.length})`;
+      tabDom.classList.toggle("active", currentRegion === "domestic");
+      tabGl.classList.toggle("active", currentRegion === "global");
+
+      const activeData = currentRegion === "domestic" ? domData : glData;
+      const activeKws = currentRegion === "domestic" ? domKws : glKws;
+      const results = activeData.results || {};
+      const news = activeData.news || {};
+
+      cardsEl.innerHTML = activeKws.map((kw, idx) =>
+        buildCardHtml(idx + 1, kw, results[kw] || {}, news[kw] || [], periodLabel)
+      ).join("");
+    }
+
+    // 기간 탭 이벤트
+    document.querySelectorAll("#period-tabs .tab-btn").forEach(btn => {
+      btn.addEventListener("click", () => {
+        document.querySelectorAll("#period-tabs .tab-btn").forEach(b => b.classList.remove("active"));
+        btn.classList.add("active");
+        currentPeriod = btn.dataset.period;
+        renderView();
+      });
+    });
+
+    // 국내/해외 탭 이벤트
+    document.querySelectorAll("#region-tabs .tab-btn").forEach(btn => {
+      btn.addEventListener("click", () => {
+        currentRegion = btn.dataset.region;
+        renderView();
+      });
+    });
+
+    // 마크다운 다운로드 & 복사 이벤트
+    document.getElementById("btn-download-md").addEventListener("click", () => {
+      const periodData = appData && appData[currentPeriod];
+      if (!periodData || !periodData.newsletter_md) return;
+      const blob = new Blob([periodData.newsletter_md], { type: "text/markdown;charset=utf-8" });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = `경제뉴스레터_${periodData.start_date || "data"}.md`;
+      a.click();
+      URL.revokeObjectURL(url);
+    });
+
+    document.getElementById("btn-copy-md").addEventListener("click", async (e) => {
+      const periodData = appData && appData[currentPeriod];
+      if (!periodData || !periodData.newsletter_md) return;
+      await navigator.clipboard.writeText(periodData.newsletter_md);
+      const orig = e.target.textContent;
+      e.target.textContent = "✅ 클립보드에 복사되었습니다!";
+      setTimeout(() => { e.target.textContent = orig; }, 2000);
+    });
+
+    fetchNewsData();
+  </script>
+</body>
+</html>
