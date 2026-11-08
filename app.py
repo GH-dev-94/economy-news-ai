@@ -67,6 +67,20 @@ st.markdown("""
         padding-left: 0.8rem;
         margin-bottom: 0.8rem;
     }
+    /* 키워드 인라인 코드 배지: 형광 그린 포인트 컬러 고정 (Streamlit 최신 버전 흰색 변경 대응) */
+    code {
+        color: #09ab3b !important;
+        background-color: rgba(9, 171, 59, 0.12) !important;
+        border-radius: 5px;
+        padding: 0.15rem 0.4rem !important;
+        font-weight: 600;
+    }
+    @media (prefers-color-scheme: dark) {
+        code {
+            color: #3dd56d !important;
+            background-color: rgba(61, 213, 109, 0.14) !important;
+        }
+    }
 </style>
 """, unsafe_allow_html=True)
 
