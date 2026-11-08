@@ -2,6 +2,7 @@
 - 00시(또는 날짜 변경 시): 'today', 'yesterday', 'week' 전체 갱신
 - 그 외 4시간 주기: 'today' 집중 갱신 (+ 기존 yesterday/week 데이터가 오염·누락된 경우 자동 복구)
 """
+import html as _html
 import json
 import os
 import re
@@ -314,9 +315,91 @@ def run_batch(only=None):
     with open(DATA_PATH, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
+    _sync_static_seo_files(output, now)
+
     print(f"\n==========================================")
     print(f"[OK] 배치 완료: {DATA_PATH} 저장 성공!")
     print(f"==========================================")
+
+
+def _sync_static_seo_files(output: dict, now: datetime):
+    """검색엔진(SEO) 및 애드센스 크롤러가 정적 HTML에서도 전체 브리핑 본문을 읽을 수 있도록 index.html 및 sitemap.xml 갱신."""
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    index_path = os.path.join(base_dir, "index.html")
+    sitemap_path = os.path.join(base_dir, "sitemap.xml")
+
+    if os.path.exists(index_path):
+        try:
+            today_data = output.get("today", {})
+            dom_data = today_data.get("domestic", {})
+            dom_kws = dom_data.get("keywords", [])
+            dom_res = dom_data.get("results", {})
+            dom_news = dom_data.get("news", {})
+
+            cards_html = []
+            for idx, kw in enumerate(dom_kws, 1):
+                item = dom_res.get(kw, {})
+                arts = dom_news.get(kw, [])
+                headline = _html.escape(item.get("headline") or f"{kw} 시장 핵심 이슈")
+                facts = item.get("facts") or []
+                facts_li = "".join(f"<li>{_html.escape(str(f))}</li>" for f in facts)
+                qna = item.get("qna") or []
+                qna_div = "".join(
+                    f'<div class="qna-item"><div class="qna-q">Q{qi}. {_html.escape(str(qa.get("q", "")))}</div>'
+                    f'<blockquote class="qna-a"><strong>A.</strong> {_html.escape(str(qa.get("a", "")))}</blockquote></div>'
+                    for qi, qa in enumerate(qna, 1)
+                )
+                watch = item.get("watch") or []
+                watch_ul = (
+                    '<h4 class="section-h4">👀 앞으로 볼 포인트</h4><ul class="bullet-list">'
+                    + "".join(f"<li>{_html.escape(str(w))}</li>" for w in watch)
+                    + "</ul>"
+                    if watch else ""
+                )
+                arts_ul = (
+                    f'<details class="articles-details"><summary>🔗 관련 주요 기사 원문 ({len(arts)}건)</summary><ul class="articles-list">'
+                    + "".join(
+                        f'<li><a href="{_html.escape(str(a.get("link", "#")))}" target="_blank" rel="noopener">'
+                        f'{_html.escape(str(a.get("title", "")))}</a></li>'
+                        for a in arts
+                    )
+                    + "</ul></details>"
+                    if arts else ""
+                )
+                cards_html.append(
+                    f'<article class="expander-card" id="card-{idx}">'
+                    f'<button class="expander-header" onclick="toggleExpander(this)">'
+                    f'<div class="expander-title-wrap"><span class="chevron">❯</span>'
+                    f'<span>📌 {idx}. {headline}</span><span class="kw-badge">{_html.escape(kw)}</span></div></button>'
+                    f'<div class="expander-body"><h4 class="section-h4">📌 무슨 일이 있었나</h4>'
+                    f'<ul class="bullet-list">{facts_li}</ul><h4 class="section-h4">💬 핵심 Q&amp;A</h4>'
+                    f'{qna_div}{watch_ul}{arts_ul}</div></article>'
+                )
+
+            with open(index_path, "r", encoding="utf-8") as f:
+                html_text = f.read()
+
+            replacement = "<!-- PRE_RENDERED_START -->\n      " + "\n      ".join(cards_html) + "\n      <!-- PRE_RENDERED_END -->"
+            html_text = re.sub(
+                r"<!-- PRE_RENDERED_START -->.*?<!-- PRE_RENDERED_END -->",
+                lambda _: replacement,
+                html_text,
+                flags=re.DOTALL,
+            )
+            with open(index_path, "w", encoding="utf-8") as f:
+                f.write(html_text)
+        except Exception as e:
+            print(f"[경고] index.html 프리렌더링 동기화 실패: {e}")
+
+    if os.path.exists(sitemap_path):
+        try:
+            with open(sitemap_path, "r", encoding="utf-8") as f:
+                sm = f.read()
+            sm = re.sub(r"<lastmod>.*?</lastmod>", f"<lastmod>{now:%Y-%m-%d}</lastmod>", sm)
+            with open(sitemap_path, "w", encoding="utf-8") as f:
+                f.write(sm)
+        except Exception as e:
+            print(f"[경고] sitemap.xml 갱신 실패: {e}")
 
 
 if __name__ == "__main__":

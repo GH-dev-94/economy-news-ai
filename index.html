@@ -4,9 +4,12 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
   <title>⚡ ZIPPY | AI 경제 데일리 브리핑</title>
-  <meta name="description" content="지금 가장 뜨거운 경제 이슈부터 핵심 Q&A까지, 한눈에 빠르게 짚어드립니다." />
+  <meta name="description" content="지금 가장 뜨거운 국내·해외 경제 이슈부터 핵심 Q&A, 향후 관전 포인트까지 4시간마다 업데이트되는 AI 경제 데일리 브리핑 서비스입니다." />
+  <meta name="keywords" content="경제뉴스, 경제브리핑, 주식시황, 나스닥, 코스피, 환율, 금리, 부동산, AI경제요약, ZIPPY" />
+  <link rel="canonical" href="https://zippy.kr/" />
   <meta property="og:title" content="⚡ ZIPPY | AI 경제 데일리 브리핑" />
   <meta property="og:description" content="지금 가장 뜨거운 경제 이슈부터 핵심 Q&A까지, 한눈에 빠르게 짚어드립니다." />
+  <meta property="og:url" content="https://zippy.kr/" />
   <meta property="og:type" content="website" />
   <meta name="theme-color" content="#0e1117" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -15,6 +18,13 @@
   <link rel="manifest" href="./manifest.json" />
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚡</text></svg>" />
   <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-dynamic-subset.min.css" />
+
+  <!-- =====================================================================
+       [구글 애드센스(Google AdSense) 사이트 소유권 확인 / 자동 광고 코드 삽입 위치]
+       애드센스에서 발급받은 <script async src="https://pagead2.googlesyndication.com/..."></script>
+       코드를 바로 아래 줄에 붙여넣으시면 됩니다.
+  ====================================================================== -->
+
   <style>
     :root {
       --bg: #0e1117;
@@ -90,7 +100,7 @@
       gap: 0.5rem;
     }
 
-    /* 탭 공통 스타일 (Streamlit 탭 디자인과 동일) */
+    /* 탭 공통 스타일 */
     .tabs-bar {
       display: flex;
       gap: 1.4rem;
@@ -170,7 +180,7 @@
       background-color: rgba(61, 213, 109, 0.24);
     }
 
-    /* 아코디언 카드 (Streamlit st.expander 동일 디자인) */
+    /* 아코디언 카드 */
     .cards-list {
       display: flex;
       flex-direction: column;
@@ -368,19 +378,95 @@
       border-color: rgba(250, 250, 250, 0.3);
     }
 
-    /* 광고 배너 영역 (나중에 구글 애드센스 / 카카오 애드핏 코드 삽입 위치) */
+    /* 광고 배너 영역 */
     .ad-banner-slot {
-      margin: 1.5rem 0;
+      margin: 1.2rem 0;
       text-align: center;
-      min-height: 0;
+      overflow: hidden;
     }
 
+    /* 서비스 소개 및 정책 푸터 (애드센스 승인 필수 요소) */
     .footer {
-      margin-top: 2.2rem;
-      padding-top: 1rem;
+      margin-top: 2.5rem;
+      padding-top: 1.2rem;
       border-top: 1px solid var(--border);
-      font-size: 0.8rem;
+      font-size: 0.82rem;
       color: var(--text-muted);
+    }
+
+    .footer-links {
+      display: flex;
+      gap: 1rem;
+      flex-wrap: wrap;
+      margin-bottom: 0.6rem;
+    }
+
+    .footer-links button {
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      font-size: 0.82rem;
+      padding: 0;
+      cursor: pointer;
+      text-decoration: underline;
+      font-family: inherit;
+    }
+
+    .footer-links button:hover {
+      color: var(--text-main);
+    }
+
+    /* 정책 모달 */
+    .modal-backdrop {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.72);
+      z-index: 9999;
+      align-items: center;
+      justify-content: center;
+      padding: 1rem;
+    }
+
+    .modal-backdrop.show {
+      display: flex;
+    }
+
+    .modal-box {
+      background: #161a23;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      max-width: 640px;
+      width: 100%;
+      max-height: 82vh;
+      overflow-y: auto;
+      padding: 1.4rem 1.5rem;
+      color: #e2e8f0;
+      font-size: 0.9rem;
+      line-height: 1.65;
+    }
+
+    .modal-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 0.65rem;
+      margin-bottom: 0.9rem;
+    }
+
+    .modal-header h3 {
+      margin: 0;
+      font-size: 1.1rem;
+      color: var(--text-main);
+    }
+
+    .modal-close {
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      font-size: 1.3rem;
+      cursor: pointer;
     }
 
     @media (max-width: 640px) {
@@ -424,17 +510,23 @@
     <!-- 상단 요약 바 -->
     <section class="summary-section" id="summary-section"></section>
 
-    <!-- [광고 슬롯 1: 상단 배너 자리 - 애드센스 승인 후 여기에 스크립트 삽입] -->
+    <!-- [광고 슬롯 1: 상단 배너] -->
     <div class="ad-banner-slot" id="ad-slot-top"></div>
 
     <!-- 국내 / 해외 서브 탭 -->
     <nav class="tabs-bar" id="region-tabs">
-      <button class="tab-btn active" data-region="domestic" id="tab-domestic">🇰🇷 국내 (0)</button>
-      <button class="tab-btn" data-region="global" id="tab-global">🌐 해외 (0)</button>
+      <button class="tab-btn active" data-region="domestic" id="tab-domestic">🇰🇷 국내 (3)</button>
+      <button class="tab-btn" data-region="global" id="tab-global">🌐 해외 (3)</button>
     </nav>
 
-    <!-- 본문 아코디언 카드 리스트 -->
-    <main class="cards-list" id="cards-container"></main>
+    <!-- 본문 아코디언 카드 리스트 (배치 실행 시 검색엔진/애드센스 봇용 프리렌더링 데이터가 자동 삽입됨) -->
+    <main class="cards-list" id="cards-container">
+      <!-- PRE_RENDERED_START -->
+      <article class="expander-card" id="card-1"><button class="expander-header" onclick="toggleExpander(this)"><div class="expander-title-wrap"><span class="chevron">❯</span><span>📌 1. 블루 쓰나미 강타에 코스피 연중 신저가 속출</span><span class="kw-badge">블루 쓰나미 코스피 충격</span></div></button><div class="expander-body"><h4 class="section-h4">📌 무슨 일이 있었나</h4><ul class="bullet-list"><li>미국 대선에서 민주당이 압승하는 블루 쓰나미 현상이 나타나며 국내 증시가 직격탄을 맞았으며 상장사 3곳 중 1곳이 연중 신저가를 기록했다.</li><li>블루 웨이브 쇼크로 인해 원화 가치가 크게 흔들렸으나 해외 투자은행들은 한국의 경상수지 흑자가 환율의 강력한 버팀목 역할을 할 것으로 분석했다.</li><li>국내 증시의 불확실성이 커지자 투자자들이 미국 시장으로 눈을 돌리면서 TIGER 미국S&amp;P500이 국내 상장 ETF 중 순자산 1위 자리에 등극했다.</li><li>코스피 지수는 미국 증시의 반등 여부에 따라 회복 가능성을 타진하고 있으며 주간 전망 측면에서 반등의 열쇠를 찾기 위한 시장의 탐색전이 치열하다.</li></ul><h4 class="section-h4">💬 핵심 Q&amp;A</h4><div class="qna-item"><div class="qna-q">Q1. 블루 쓰나미가 국내 상장사 33%를 신저가로 몰아넣은 결정적 배경은 무엇인가?</div><blockquote class="qna-a"><strong>A.</strong> 미국 민주당의 독주 체제가 굳어지면서 한국의 주력 수출 산업에 대한 규제 강화와 보호무역주의 심화 우려가 시장에 선반영되었기 때문이다. 특히 정책 불확실성이 커진 상황에서 외국인 자금이 대거 이탈하며 대형주 위주로 매도세가 집중된 결과이다.</blockquote></div><div class="qna-item"><div class="qna-q">Q2. 원화 약세 상황에서도 해외 IB들이 경상흑자를 긍정적으로 평가하는 이유는 무엇인가?</div><blockquote class="qna-a"><strong>A.</strong> 경상수지 흑자는 국가의 기초 체력을 나타내는 지표로 대외 지급 능력을 보장하여 환율의 하방 경직성을 확보해주기 때문이다. 환율 변동성이 커지더라도 실물 경제에서 벌어들이는 달러가 충분하다면 급격한 자본 유출에 따른 금융 위기 가능성을 낮게 본다는 의미이다.</blockquote></div><div class="qna-item"><div class="qna-q">Q3. TIGER 미국S&amp;P500 ETF가 국내 1위로 올라선 현상은 어떤 시장 변화를 시사하는가?</div><blockquote class="qna-a"><strong>A.</strong> 국내 주식 시장의 수익률 저하에 실망한 개인 투자자들이 장기 우상향이 검증된 미국 지수 추종 상품으로 자산 배분을 완전히 전환하고 있음을 보여준다. 이는 단순한 유행을 넘어 국내 증시의 공동화 현상이 심화되고 있음을 나타내는 지표로 해석된다.</blockquote></div><h4 class="section-h4">👀 앞으로 볼 포인트</h4><ul class="bullet-list"><li>미국 증시 반등에 따른 코스피 동조화 여부</li><li>경상수지 흑자 규모 유지 및 원화 환율 추이</li><li>국내 상장 해외 ETF로의 자금 유입 속도</li></ul><details class="articles-details"><summary>🔗 관련 주요 기사 원문 (6건)</summary><ul class="articles-list"><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwN3dPNUlneHp3eXZwUmFFbVlsSG5jTVlSZDNhV1ZuQjJTNXc0WGtGTmVZUDFNQzZMclFCYm96X3hpUGlvMy1pRUpsc2VsbHg1eXdXa2JBZV85VWPSAWBBVV95cUxNVDU0a1hFSlczZzJjNkxfY2VWRlY3TGJ2UDJzQjIyMGJXd3J6djFlUmdVaDBKUUtjeEIzUFRva2l4cUFvMGNETnp0VWcySEF6Nl82bjd2eExtRkNFTEg2UW0?oc=5" target="_blank" rel="noopener">&#x27;블루 쓰나미&#x27;에 휘청 코스피, 美증시 반등에 충격 벗어날까 - 연합뉴스</a></li><li><a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tY25NbGg4Vlp1Q2pYVFNqUVA0QWhZNDl6U21sbWt4dElZTEswdjJIZ0pxRlpON2l4X3dneW5sQUpOOHBtdlVXa2tXaXBkWWU0QW9Ia0pIOXRNbk43ZkFqVGhDT2tVUnM?oc=5" target="_blank" rel="noopener">’블루 쓰나미’에 휘청했던 코스피, 美증시 반등에 회복할까 - 연합뉴스TV</a></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE94c29HUVZ3dWd3SkcteTk3cUMtWXBTc1QwWnJWa0xsT1EzUlRrZ1FRdlExTUpUMUJacHNxZkFkc1p4N28yVVpiR0VWNVd5a0JlVjJ6THFLNmFtdw?oc=5" target="_blank" rel="noopener">&#x27;블루 웨이브 쇼크&#x27;에 휘청인 코스피…반등 열쇠는 [주간전망] - 한국경제</a></li><li><a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE5CU19sRTcxUTFBTUZKNDlHZm13RUt5ekhSUnh0SFJfLXNtWEgwSnhBYlpHU0N1dmdyOC03UVhtbU9Eaks0LTY1bnN4ckgzMXJsMFBBVm9XOGJoTkNiNzJkQnlkYXJDcExQRlJTbTZrdVM?oc=5" target="_blank" rel="noopener">&#x27;블루쓰나미&#x27;에 흔들린 원화…해외 IB &quot;경상흑자가 버팀목&quot; - 연합인포맥스</a></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RdVduRHVuTTUzdE56MXp3RG83eUc3U2tVRS1yLVYzb0hOQTRMWGpScTF4aVJSeVFjd0REUjlwUDNkaUY0ekhETXlXTWp1dkY4ekJ1ZUlIV2lqQQ?oc=5" target="_blank" rel="noopener">블루쓰나미 후폭풍…TIGER 미국S&amp;P500, 국내 1위 ETF 등극 - 한국경제</a></li><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwZk9PMWpBeV9mNUZudzQtcTAyTHhGZGwycGlMR292aTdsS2FGa19lR3Qzc2dvXzExdlZVVnNUcU9VNktZMDNsUFFjcmszR2RxcFp3RHo2b0JuUEE?oc=5" target="_blank" rel="noopener">&#x27;블루 쓰나미&#x27;에 증시 직격탄…상장사 3곳 중 1곳 연중 &#x27;신저가&#x27; - 뉴스1</a></li></ul></details></div></article>
+      <article class="expander-card" id="card-2"><button class="expander-header" onclick="toggleExpander(this)"><div class="expander-title-wrap"><span class="chevron">❯</span><span>📌 2. 국장 탈출 서학개미 5일간 3조 원 폭풍 매수</span><span class="kw-badge">서학개미 미국주식 폭풍매수</span></div></button><div class="expander-body"><h4 class="section-h4">📌 무슨 일이 있었나</h4><ul class="bullet-list"><li>국내 증시가 급락세를 보이자 서학개미들이 11월 첫 주에만 미국 주식 3조 원어치를 순매수하며 한국 주식 시장에서 빠르게 탈출하는 양상을 보였다.</li><li>서학개미 매수 자금의 74%가 특정 종목에 집중되었으나 해당 종목이 하루 만에 39% 폭락하는 등 극심한 변동성에 노출되며 투자 손실 우려가 커졌다.</li><li>반도체 레버리지 상품인 속슬(SOXL)은 하루 만에 40% 가까이 급락하며 도박에 가까운 투기적 매수세에 대한 시장의 경고등이 켜진 상태이다.</li><li>국내 투자자들은 코스피의 반등 기약이 없다고 판단하여 위험을 감수하고서라도 미국 시장의 변동성 상품에 공격적으로 베팅하는 흐름을 지속하고 있다.</li></ul><h4 class="section-h4">💬 핵심 Q&amp;A</h4><div class="qna-item"><div class="qna-q">Q1. 하루 40% 급락하는 위험 속에서도 서학개미가 미국 주식에 3조 원을 쏟아부은 이유는 무엇인가?</div><blockquote class="qna-a"><strong>A.</strong> 국내 증시의 장기 박스권 행보와 급락장에 실망한 투자자들이 하이 리스크 하이 리턴을 노리고 미국 기술주 레버리지 상품으로 몰렸기 때문이다. 손실을 만회하기 위해 변동성이 큰 종목에 집중 투자하는 이른바 &#x27;도박성 베팅&#x27; 성향이 강해진 결과로 분석된다.</blockquote></div><div class="qna-item"><div class="qna-q">Q2. 매수 자금의 74%가 쏠린 특정 종목의 폭락이 전체 투자자 심리에 어떤 영향을 미치는가?</div><blockquote class="qna-a"><strong>A.</strong> 집중 투자된 종목의 급락은 서학개미 전체의 자산 건전성을 악화시키고 추가 매수를 위한 증거금 부족 사태를 야기할 수 있다. 이는 결국 비자발적인 장기 보유나 강제 청산으로 이어져 미국 주식 투자 열풍에 찬물을 끼얹는 계기가 될 수 있다.</blockquote></div><div class="qna-item"><div class="qna-q">Q3. 한국 주식 탈출 현상이 가속화될 경우 국내 금융 시장에 닥칠 부작용은 무엇인가?</div><blockquote class="qna-a"><strong>A.</strong> 국내 증시의 거래 유동성이 고갈되면서 기업들의 자금 조달 기능이 마비되고 주가 하락이 다시 자금 이탈을 부르는 악순환에 빠질 수 있다. 또한 달러 환전 수요 폭증으로 인해 원·달러 환율 상승 압력을 가중시켜 수입 물가 불안을 초래할 가능성이 크다.</blockquote></div><h4 class="section-h4">👀 앞으로 볼 포인트</h4><ul class="bullet-list"><li>미국 반도체 레버리지 ETF의 추가 변동성</li><li>서학개미의 주간 단위 미국 주식 순매수 규모</li><li>국내 증시 거래대금 감소 및 자금 이탈 추이</li></ul><details class="articles-details"><summary>🔗 관련 주요 기사 원문 (6건)</summary><ul class="articles-list"><li><a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE0ybEc1d3NFZ3dMNFp4a0FIYzNVa0xhM3J0dHJGYkhyX3JPRndWUWdKcVFLX3RxdWNnUmtTSjc5Ukg0TEJiTWJtWGgzdGdTdkRCNW43RQ?oc=5" target="_blank" rel="noopener">국장보다 미장?…서학개미, 닷새 동안 미국주식 3조원 ‘폭풍매수’ - JTBC</a></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE51QS03QkVoN1FnV3dpYjlKN3lWQXlGdHZyVUJ0Wjd1c1RJUjdheWZjdkpGb1B5dTJRTEp6dEtyaVVQQjd3VTRrTnM0ZXhITEIzYWNSX2pZOTRRZw?oc=5" target="_blank" rel="noopener">&quot;국장은 이제 그만&quot;…서학개미 일주일새 3조 &#x27;폭풍 매수&#x27;한 곳 - 한국경제</a></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tMDJ6dU9DOFRjVExkTk5YUU9jakRXXzdJQnd6VTNReHJDbXc3NWx1cWVpcU5sUkxwcjFoek5WbkV3djRLbm5PTTFqODRFRXdYRGs4THpjU2xUQdIBX0FVX3lxTFAyd2R5YTlTRmI4MnhELXlsNTgzcFpQY1RXb19EaU43ODdHczhEaVdvZFBvMS0xNF8xYzloT2sweXRiR09hMXZxenp6ejVVZFVYNXVyM2xpekt5X0pQZFpn?oc=5" target="_blank" rel="noopener">국내 증시 급락하자 미국 주식으로 달려간 서학개미들···11월 첫 주에만 3조원 순매수 - 경향신문</a></li><li><a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBSZTdvRDJUR21lLWh1NUt3MUJkM0hFRTR2T3F5UTFISFY3OVYyMEYtU1J6NUpNZFQ2TTJBZFhiYUFFSU14X3R6UkRVVnFCSUFvRmhjOEFUVEhha3o2U3J0aklqa3lUOVFUTUIwVg?oc=5" target="_blank" rel="noopener">“코스피 폭락하자 미국 주식 3조 샀다”…서학개미 돈 74% 몰린 곳, 하루 39% 추락 - 데일리25</a></li><li><a href="https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zU1ptZG9pcWVOdTE5QktObEhvZTMxclJZOHVLUkFUTElvMzQxYVhjMGFTZDQxRVVHSVBpVHJrVGtNekdBVnhZeGdNeHJEa3hnQkE?oc=5" target="_blank" rel="noopener">이 정도면 도박보다 심하네…하루만에 40% 급락한 속슬, 서학개미 어쩌나 - 매일경제 마켓</a></li><li><a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LMWZvTDhpM1BZalJGNnh5bW9XRGhVeXQ4ZUlkZHJReGU0d3MwYWJhUmNEWVNKVmNjY3FwanlGSG44SXdXNEJYSldiZGdqSXBEX0FYT3VqWjZGcEVJWXNrb1Vn?oc=5" target="_blank" rel="noopener">&quot;한국 주식 빨리 탈출&quot; 코스피 급락에 서학개미, 美주식 3조원 쓸어담아 - 매일신문</a></li></ul></details></div></article>
+      <article class="expander-card" id="card-3"><button class="expander-header" onclick="toggleExpander(this)"><div class="expander-title-wrap"><span class="chevron">❯</span><span>📌 3. 美 데이터센터 건설 제동에 한국 반도체 비상</span><span class="kw-badge">미 데이터센터 건설 제동</span></div></button><div class="expander-body"><h4 class="section-h4">📌 무슨 일이 있었나</h4><ul class="bullet-list"><li>미국 내 AI 데이터센터 증설에 제동이 걸리면서 삼성전자와 SK하이닉스 등 한국 반도체 기업들의 투자 및 자금 운용 전략 재조정이 불가피해졌다.</li><li>미국 중간선거 이후 정책 변화 우려로 데이터센터 건설이 지연되자 13.6조 원 규모의 원전 선급금 논란 등 에너지 인프라 관련 이슈가 부각되고 있다.</li><li>월가 기술주 폭락과 맞물려 데이터센터 증설 속도가 조절되면서 내년도 한국 경제 성장률의 핵심 변수인 메모리 반도체 수출에 경고등이 켜졌다.</li><li>미국이 데이터센터 건설에 주춤하는 사이 중국은 AI 인프라 확충에 박차를 가하고 있어 글로벌 AI 주도권 경쟁의 판도 변화가 감지되고 있다.</li></ul><h4 class="section-h4">💬 핵심 Q&amp;A</h4><div class="qna-item"><div class="qna-q">Q1. 미국 데이터센터 건설 제동이 왜 한국 반도체 기업의 자금 전략까지 흔드는가?</div><blockquote class="qna-a"><strong>A.</strong> 한국 반도체 수출의 상당 부분이 미국 빅테크 기업의 AI 서버용 메모리에 집중되어 있어 수요처의 건설 지연은 곧 대규모 재고 누적과 매출 감소로 직결되기 때문이다. 이에 따라 차세대 공정 투자를 위해 계획했던 자금 집행 계획을 전면 수정해야 하는 상황에 직면한 것이다.</blockquote></div><div class="qna-item"><div class="qna-q">Q2. 데이터센터 증설 지연과 13.6조 원 원전 선급금 논란은 어떤 상관관계가 있는가?</div><blockquote class="qna-a"><strong>A.</strong> 데이터센터 가동에 필수적인 막대한 전력을 공급하기 위해 원전 건설이 추진되었으나, 데이터센터 프로젝트 자체가 흔들리면서 관련 에너지 인프라 자금 집행의 정당성과 우선순위에 대한 정치적 공방이 가열된 것이다. 이는 에너지와 IT 산업이 결합된 복합적인 정책 리스크로 확산되고 있다.</blockquote></div><div class="qna-item"><div class="qna-q">Q3. 미국의 속도 조절을 틈탄 중국의 AI 인프라 확충이 한국에 주는 위협은 무엇인가?</div><blockquote class="qna-a"><strong>A.</strong> 중국이 자체 AI 생태계를 빠르게 구축할 경우 한국 반도체의 중국 시장 의존도가 낮아짐과 동시에 기술 격차마저 좁혀질 위험이 있다. 미국 시장의 수요 둔화와 중국의 기술 추격이라는 샌드위치 압박이 한국 메모리 산업의 장기 성장성을 저해할 수 있는 분기점이다.</blockquote></div><h4 class="section-h4">👀 앞으로 볼 포인트</h4><ul class="bullet-list"><li>미국 의회 선거 이후 AI 인프라 규제 법안</li><li>한국 메모리 반도체 기업의 재고 및 출하량</li><li>중국의 AI 데이터센터 확충 속도 및 규모</li></ul><details class="articles-details"><summary>🔗 관련 주요 기사 원문 (6건)</summary><ul class="articles-list"><li><a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE03WllMU1lOUmlhMVd0VHMzZU9CdzNkUXZ6UmFwR3hqNjFZQ3Y4LTZfTDloZXNHc0tfazdKRmxNQ3gzb2kyeU5wa01IdHhfQmV0eUk2cXpmN0dtOW9UTUd1Q2Y2TTExVUYwTWFyaHR3TmNJQjRMQTdfTVRzNNIBgAFBVV95cUxOQ3hYS3JxOWU4WjdIdXFuNlp3ZERwdDgyQkhOLTRNWkdKNzFDUDFDSUg0ZTgxcF9acmVORHl0MDZTOUloWTE5OFNFZkotOWF5Wmo4RFo0eUVFTjZBSjdfdzJjTXczeld0OE00RkVGQTVyZlBiYU4tTzlvbWRTZHdBcA?oc=5" target="_blank" rel="noopener">美 데이터센터 건설 제동 … 韓 반도체 투자·자금 운용 전략 재조정 불가피 - 뉴데일리</a></li><li><a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZY0RJYUpyNE1zV3B6Rk1ZWXhwR1VrUFNPSmFOR2loY3k2RGxPMk5BWlZZSFdFQmwyQzhSNldaQy1VSmNmc0IwbU5GQnJFZVhRWkgyYg?oc=5" target="_blank" rel="noopener">“美 중간선거 후폭풍, 데이터센터 제동에”…13.6조 원전 ‘선급금’ 논란 - 매일경제</a></li><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CTE4ybXhBYXdmRE0za184R3dpNWM3NDNjOXM5anVvRXlPVkI2T2ZVblo2VkxsamNFU0lWUlJxVkZreDR1WU94ZUd4X0pKVmwtVmVyd1FOOEZXaXfSAWBBVV95cUxQZFBVWVd2R0xlenpVeEt1X21jeUlmNkVHUEZ6Tk1mdG0xU1NwTWp6YTJ0a3ZBSHZaVXFkRkJMTjVZQnRxRmVvTWZNdVFYU09zM0dwYWRyQXFWVTdTSF9nd1g?oc=5" target="_blank" rel="noopener">미국 데이터센터 제동 우려, 내년 한국 성장률에 변수 되나 - 연합뉴스</a></li><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uMmpHWkxuRXFhTmZaemRBSnMzOWFua3JOZ1lMdDJxZEdONlAxN2lEc0pmQlJxbFlrZ2Qyd2d0SzNVSkFnTkRmT3Zxa2RsY0JYeUVscVhiMG9VRjQ?oc=5" target="_blank" rel="noopener">‘데이터센터’ 미국선 애물단지?…중국은 AI 인프라 확충 박차 - KBS 뉴스</a></li><li><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM2hhY1NxejRZbzU4ZGVIZW1PMERwQ0JIc1E2M2tNSXhXSmZIR3E4MVBWTGsxeHc2NmgtNUNVZGJFdXpRRUxzLW9QSWhMcENyT3pja3cwZnVId0tZb2dselBKTVJva0JLLXdqNkpjTlQ0Y3NVWmlrUGtaWmxUM3R1TFFzd3MyWVBy?oc=5" target="_blank" rel="noopener">美 의회 선거 흔들린 AI 데이터센터 증설…월가 기술주 폭락에 한국 메모리 촉각 - 글로벌이코노믹</a></li><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE94c29HUVZ3dWd3SkcteTk3cUMtWXBTc1QwWnJWa0xsT1EzUlRrZ1FRdlExTUpUMUJacHNxZkFkc1p4N28yVVpiR0VWNVd5a0JlVjJ6THFLNmFtdw?oc=5" target="_blank" rel="noopener">&#x27;블루 웨이브 쇼크&#x27;에 휘청인 코스피…반등 열쇠는 [주간전망] - 한국경제</a></li></ul></details></div></article>
+      <!-- PRE_RENDERED_END -->
+    </main>
 
     <!-- 하단 뉴스레터 복사 & 다운로드 버튼 -->
     <div class="action-row" id="action-row">
@@ -442,17 +534,120 @@
       <button class="action-btn" id="btn-copy-md">📋 뉴스레터 텍스트 복사</button>
     </div>
 
-    <!-- [광고 슬롯 2: 하단 배너 자리] -->
+    <!-- [광고 슬롯 2: 하단 배너] -->
     <div class="ad-banner-slot" id="ad-slot-bottom"></div>
 
-    <!-- 푸터 -->
+    <!-- 푸터 (애드센스 및 애드핏 심사용 필수 정책 링크 포함) -->
     <footer class="footer">
-      ※ 본 브리핑은 4시간 간격(KST)으로 AI가 공개 경제 뉴스 보도를 종합 분석하여 자동 발행하며, 특정 종목이나 상품에 대한 투자 권유가 아닙니다.
+      <div class="footer-links">
+        <button onclick="openPolicyModal('about')">서비스 소개</button>
+        <button onclick="openPolicyModal('privacy')">개인정보처리방침</button>
+        <button onclick="openPolicyModal('terms')">이용약관 및 면책고지</button>
+      </div>
+      <div>
+        ※ 본 브리핑은 4시간 간격(KST)으로 공개 경제 뉴스 보도를 종합 분석하여 발행하며, 특정 종목이나 금융 상품에 대한 투자 권유가 아닙니다. 모든 투자의 책임은 이용자 본인에게 있습니다.<br />
+        © ZIPPY Economy Briefing (zippy.kr). All rights reserved.
+      </div>
     </footer>
   </div>
 
+  <!-- 정책 안내 모달 -->
+  <div class="modal-backdrop" id="policy-modal" onclick="closePolicyModal(event)">
+    <div class="modal-box" onclick="event.stopPropagation()">
+      <div class="modal-header">
+        <h3 id="modal-title">안내</h3>
+        <button class="modal-close" onclick="closePolicyModal()">✕</button>
+      </div>
+      <div id="modal-content"></div>
+    </div>
+  </div>
+
   <script>
-    // GitHub Pages, 로컬, 워드프레스 어디서든 동작하도록 자동 경로 + GitHub Raw 백업 주소 설정
+    // =========================================================================
+    // 💰 [광고 설정 (AD_CONFIG)]
+    // 카카오 애드핏 또는 구글 애드센스 승인 후 발급받은 ID를 입력하면 즉시 광고가 표시됩니다.
+    // =========================================================================
+    const AD_CONFIG = {
+      kakaoAdFitUnitTop: "",     // 예: "DAN-xxxxxxxxxxxxxxxx" (카카오 애드핏 상단 배너 ID)
+      kakaoAdFitUnitBottom: "",  // 예: "DAN-yyyyyyyyyyyyyyyy" (카카오 애드핏 하단 배너 ID)
+      adsenseClient: "",         // 예: "ca-pub-1234567890123456" (구글 애드센스 게시자 ID)
+      adsenseSlotTop: "",        // 예: "1234567890" (애드센스 상단 광고 단위 ID)
+      adsenseSlotBottom: ""      // 예: "0987654321" (애드센스 하단 광고 단위 ID)
+    };
+
+    function initAds() {
+      const topEl = document.getElementById("ad-slot-top");
+      const bottomEl = document.getElementById("ad-slot-bottom");
+
+      if (AD_CONFIG.kakaoAdFitUnitTop && topEl) {
+        topEl.innerHTML = `<ins class="kakao_ad_area" style="display:none;" data-ad-unit="${AD_CONFIG.kakaoAdFitUnitTop}" data-ad-width="320" data-ad-height="100"></ins>`;
+      }
+      if (AD_CONFIG.kakaoAdFitUnitBottom && bottomEl) {
+        bottomEl.innerHTML = `<ins class="kakao_ad_area" style="display:none;" data-ad-unit="${AD_CONFIG.kakaoAdFitUnitBottom}" data-ad-width="320" data-ad-height="100"></ins>`;
+      }
+      if (AD_CONFIG.kakaoAdFitUnitTop || AD_CONFIG.kakaoAdFitUnitBottom) {
+        const s = document.createElement("script");
+        s.src = "//t1.daumcdn.net/kas/static/ba.min.js";
+        s.async = true;
+        document.body.appendChild(s);
+      }
+
+      if (AD_CONFIG.adsenseClient && AD_CONFIG.adsenseSlotTop && topEl) {
+        topEl.innerHTML = `<ins class="adsbygoogle" style="display:block" data-ad-client="${AD_CONFIG.adsenseClient}" data-ad-slot="${AD_CONFIG.adsenseSlotTop}" data-ad-format="auto" data-full-width-responsive="true"></ins>`;
+        try { (window.adsbygoogle = window.adsbygoogle || []).push({}); } catch (e) {}
+      }
+      if (AD_CONFIG.adsenseClient && AD_CONFIG.adsenseSlotBottom && bottomEl) {
+        bottomEl.innerHTML = `<ins class="adsbygoogle" style="display:block" data-ad-client="${AD_CONFIG.adsenseClient}" data-ad-slot="${AD_CONFIG.adsenseSlotBottom}" data-ad-format="auto" data-full-width-responsive="true"></ins>`;
+        try { (window.adsbygoogle = window.adsbygoogle || []).push({}); } catch (e) {}
+      }
+    }
+
+    const POLICY_TEXTS = {
+      about: {
+        title: "⚡ ZIPPY 서비스 소개",
+        body: `
+          <p><strong>ZIPPY (https://zippy.kr)</strong>는 국내외 주요 경제·금융·산업 뉴스를 4시간 주기로 클러스터링하고, 핵심 사실(무슨 일이 있었나)과 심층 Q&amp;A, 향후 시장 관전 포인트를 정리해 제공하는 데일리 경제 브리핑 웹 서비스입니다.</p>
+          <ul>
+            <li><strong>업데이트 주기:</strong> 매일 00시, 04시, 08시, 12시, 16시, 20시 (KST 기준 하루 6회)</li>
+            <li><strong>제공 범위:</strong> 오늘의 브리핑, 어제의 브리핑, 최근 7일간의 주간 핵심 경제 이슈 (국내 Top 3 / 해외 Top 3)</li>
+            <li><strong>주요 기능:</strong> 이슈별 팩트 요약, 핵심 Q&amp;A 3선, 관심 브리핑 스크랩 보관함, 마크다운 원고 다운로드</li>
+          </ul>
+        `
+      },
+      privacy: {
+        title: "🔒 개인정보처리방침 및 쿠키 정책",
+        body: `
+          <p>ZIPPY(이하 '서비스')는 이용자의 개인정보를 중요시하며, 관련 법령 및 Google AdSense·Kakao AdFit 등 광고 플랫폼의 개인정보 보호 가이드라인을 준수합니다.</p>
+          <p><strong>1. 수집하는 개인정보 항목</strong><br/>본 서비스는 별도의 회원가입 없이 무료로 제공되며, 개인을 식별할 수 있는 정보를 서버에 직접 수집·저장하지 않습니다. 단, 사용자의 '스크랩 보관함' 데이터는 사용자 본인의 브라우저 로컬 스토리지(LocalStorage)에만 저장됩니다.</p>
+          <p><strong>2. 쿠키(Cookie) 및 맞춤형 광고 안내</strong><br/>
+          - 본 웹사이트는 Google AdSense 및 Kakao AdFit 등 제3자 광고 서비스를 게재할 수 있습니다.<br/>
+          - Google을 포함한 제3자 광고 사업자는 쿠키(DART 쿠키 등)를 사용하여 사용자의 본 사이트 및 다른 웹사이트 이전 방문 기록을 기반으로 맞춤형 광고를 제공할 수 있습니다.<br/>
+          - 사용자는 언제든지 <a href="https://www.google.com/settings/ads" target="_blank" rel="noopener" style="color:#60a5fa;">Google 광고 설정</a> 페이지를 방문하여 맞춤형 광고를 해제(Opt-out)하거나 브라우저 설정에서 쿠키 저장을 거부할 수 있습니다.</p>
+          <p><strong>3. 로그 데이터 및 분석</strong><br/>정상적인 서비스 제공 및 트래픽 통계 확인을 위해 비식별화된 접속 브라우저 유형, 방문 일시 등의 기본 웹 로그가 처리될 수 있습니다.</p>
+        `
+      },
+      terms: {
+        title: "📋 이용약관 및 투자 면책고지",
+        body: `
+          <p><strong>1. 서비스의 목적</strong><br/>ZIPPY가 제공하는 모든 경제 브리핑, 요약 및 Q&amp;A 콘텐츠는 정보 제공 및 경제 학습 이해를 돕기 위한 참고 자료입니다.</p>
+          <p><strong>2. 투자 책임 및 면책고지</strong><br/>본 서비스에 게재된 어떠한 내용도 특정 주식, 채권, 부동산, 가상자산 등 금융상품에 대한 매수·매도 추천이나 투자 권유가 아닙니다. 콘텐츠의 정확성을 기하기 위해 노력하나 완전성을 보증하지 않으며, 모든 투자 판단과 그에 따른 결과 및 책임은 전적으로 이용자 본인에게 귀속됩니다.</p>
+          <p><strong>3. 원문 출처 안내</strong><br/>각 브리핑 하단의 '관련 주요 기사 원문' 링크를 통해 언론사 원문 보도를 직접 확인하실 수 있으며, 개별 기사의 저작권은 해당 언론사에 있습니다.</p>
+        `
+      }
+    };
+
+    window.openPolicyModal = function(key) {
+      const item = POLICY_TEXTS[key];
+      if (!item) return;
+      document.getElementById("modal-title").textContent = item.title;
+      document.getElementById("modal-content").innerHTML = item.body;
+      document.getElementById("policy-modal").classList.add("show");
+    };
+
+    window.closePolicyModal = function() {
+      document.getElementById("policy-modal").classList.remove("show");
+    };
+
     const DATA_URLS = [
       "./news_data.json",
       "https://raw.githubusercontent.com/GH-dev-94/economy-news-ai/main/news_data.json"
@@ -521,7 +716,7 @@
       renderView();
     }
 
-    function buildCardHtml(idx, kw, item, arts, periodLabel) {
+    function buildCardHtml(idx, kw, item, arts, periodLabel, defaultOpen = false) {
       const headline = item.headline || `${kw} 시장 핵심 이슈`;
       const cardId = `${periodLabel}_${kw}`;
       const scrapped = isScrapped(cardId);
@@ -568,7 +763,7 @@
       }));
 
       return `
-        <article class="expander-card" id="card-${ idx }">
+        <article class="expander-card ${defaultOpen ? 'open' : ''}" id="card-${idx}">
           <button class="expander-header" onclick="toggleExpander(this)">
             <div class="expander-title-wrap">
               <span class="chevron">❯</span>
@@ -618,7 +813,6 @@
       const cardsEl = document.getElementById("cards-container");
       const actionRowEl = document.getElementById("action-row");
 
-      // 스크랩 보관함 탭인 경우
       if (currentPeriod === "saved") {
         regionTabsEl.style.display = "none";
         actionRowEl.style.display = "none";
@@ -630,7 +824,7 @@
           return;
         }
         cardsEl.innerHTML = savedItems.map((saved, i) =>
-          buildCardHtml(i + 1, saved.kw, saved.item, saved.arts, saved.periodLabel)
+          buildCardHtml(i + 1, saved.kw, saved.item, saved.arts, saved.periodLabel, i === 0)
         ).join("");
         return;
       }
@@ -668,7 +862,6 @@
         </div>
       `;
 
-      // 서브탭 카운트 및 활성화 상태 업데이트
       const tabDom = document.getElementById("tab-domestic");
       const tabGl = document.getElementById("tab-global");
       tabDom.textContent = `🇰🇷 국내 (${domKws.length})`;
@@ -682,11 +875,10 @@
       const news = activeData.news || {};
 
       cardsEl.innerHTML = activeKws.map((kw, idx) =>
-        buildCardHtml(idx + 1, kw, results[kw] || {}, news[kw] || [], periodLabel)
+        buildCardHtml(idx + 1, kw, results[kw] || {}, news[kw] || [], periodLabel, false)
       ).join("");
     }
 
-    // 기간 탭 이벤트
     document.querySelectorAll("#period-tabs .tab-btn").forEach(btn => {
       btn.addEventListener("click", () => {
         document.querySelectorAll("#period-tabs .tab-btn").forEach(b => b.classList.remove("active"));
@@ -696,7 +888,6 @@
       });
     });
 
-    // 국내/해외 탭 이벤트
     document.querySelectorAll("#region-tabs .tab-btn").forEach(btn => {
       btn.addEventListener("click", () => {
         currentRegion = btn.dataset.region;
@@ -704,7 +895,6 @@
       });
     });
 
-    // 마크다운 다운로드 & 복사 이벤트
     document.getElementById("btn-download-md").addEventListener("click", () => {
       const periodData = appData && appData[currentPeriod];
       if (!periodData || !periodData.newsletter_md) return;
@@ -726,6 +916,7 @@
       setTimeout(() => { e.target.textContent = orig; }, 2000);
     });
 
+    initAds();
     fetchNewsData();
   </script>
 </body>

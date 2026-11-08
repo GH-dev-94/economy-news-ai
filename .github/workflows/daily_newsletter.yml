@@ -38,10 +38,10 @@ jobs:
         run: |
           python batch_generate.py
 
-      - name: 생성된 news_data.json 자동 커밋 & 푸시
+      - name: 생성된 news_data.json 및 SEO 프리렌더링 파일 자동 커밋 & 푸시
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add news_data.json
+          git add news_data.json index.html sitemap.xml
           git diff --quiet && git diff --staged --quiet || (git commit -m "chore: Auto economy news update [$(date +'%Y-%m-%d %H:%M') KST]" && git pull --rebase origin main && git push)
 
