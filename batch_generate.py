@@ -45,6 +45,8 @@ _BAD_MARKERS = (
     "기본 개념과",
     "기준금리의 정의와",
     "시세 확인법과 전자계약",
+    "핵심 보도 종합",
+    "관련 보도가 잇따르며 시장 참여자들의 관심이 집중되고 있다",
 )
 
 
@@ -55,6 +57,8 @@ def _format_date(d: datetime) -> str:
 def _is_valid_period_data(period_data: dict) -> bool:
     """해당 기간의 뉴스레터 데이터가 실제 뉴스 기사 기반으로 정상 생성되었는지 품질 검증."""
     if not isinstance(period_data, dict):
+        return False
+    if period_data.get("generation_mode") != "gemini":
         return False
     md = period_data.get("newsletter_md") or ""
     if not md or any(marker in md for marker in _BAD_MARKERS):
@@ -185,6 +189,7 @@ def process_period(
             traceback.print_exc()
 
     # 결과 검증 및 실제 기사 기반 폴백 보정
+    fallback_count = 0
     for kw in all_kws:
         is_bad = False
         if kw not in results or "error" in results[kw]:
@@ -197,11 +202,14 @@ def process_period(
                 is_bad = True
 
         if is_bad:
+            fallback_count += 1
             results[kw] = _build_article_based_fallback(kw, news.get(kw, []))
 
     dom_items = [(kw, results[kw], news[kw]) for kw in dom_kws]
     gl_items = [(kw, results[kw], news[kw]) for kw in gl_kws]
     newsletter_md = build_newsletter_md(dom_items, gl_items, start_dt, end_dt, datetime.now(KST).replace(tzinfo=None))
+
+    gen_mode = "fallback" if fallback_count > 0 else info.get("mode", "fallback")
 
     return {
         "period_label": period_label,
@@ -224,7 +232,7 @@ def process_period(
         "news": news,
         "queries": queries,
         "newsletter_md": newsletter_md,
-        "generation_mode": info.get("mode", "fallback"),
+        "generation_mode": gen_mode,
     }
 
 

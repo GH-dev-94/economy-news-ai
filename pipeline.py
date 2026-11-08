@@ -353,6 +353,29 @@ def _extract_json(text: str):
     return json.loads(text[start:])
 
 
+def _normalize_batch_json(raw, entries: list) -> dict:
+    """Gemini가 JSON 객체({...}) 대신 배열([{...}]) 형태로 응답하더라도 안전하게 {키워드: 데이터} 딕셔너리로 정규화."""
+    if isinstance(raw, dict):
+        return raw
+    if isinstance(raw, list):
+        merged = {}
+        for idx, item in enumerate(raw):
+            if not isinstance(item, dict):
+                continue
+            # 형태 1: [{"keyword": "키워드명", "headline": "...", "facts": [...]}]
+            if "headline" in item and "facts" in item:
+                kw = item.get("keyword") or (entries[idx]["keyword"] if idx < len(entries) else None)
+                if kw:
+                    merged[str(kw).strip()] = item
+            else:
+                # 형태 2: [{"키워드1": {"headline": ...}, "키워드2": {...}}]
+                for k, v in item.items():
+                    if isinstance(v, dict):
+                        merged[str(k).strip()] = v
+        return merged
+    return {}
+
+
 _STOP = {
     "경제", "뉴스", "오늘", "어제", "속보", "종합", "단독", "포토", "영상", "기자", "전망", "분석",
     "이번", "올해", "내년", "대한", "관련", "위해", "통해", "에서", "으로", "한국", "정부", "시장",
@@ -500,6 +523,8 @@ def extract_dual_keywords(
         )
         try:
             resp = _extract_json(_gemini(prompt, api_key))
+            if isinstance(resp, list) and resp and isinstance(resp[0], dict):
+                resp = resp[0]
             dom_kws = [str(k).strip() for k in resp.get("domestic", []) if str(k).strip()][:n_domestic]
             gl_kws = [str(k).strip() for k in resp.get("global", []) if str(k).strip()][:n_global]
             if dom_kws and (gl_kws or n_global == 0):
@@ -866,6 +891,7 @@ def generate_manuscripts_batch(entries: list, start: datetime, end: datetime, ap
     except json.JSONDecodeError:
         raw = _extract_json(_gemini(prompt, api_key))
 
+    raw = _normalize_batch_json(raw, entries)
     out = {}
     for e in entries:
         kw = e["keyword"]
