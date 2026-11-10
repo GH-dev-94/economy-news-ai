@@ -5,155 +5,148 @@
     "end_date": "2026-11-11",
     "domestic": {
       "keywords": [
-        "코스피 코스닥",
-        "매수 사이드카",
-        "4%대 급등"
+        "엔비디아 칩 중국 밀반입",
+        "코스피 매수 사이드카",
+        "강남 아파트값 하락"
       ],
       "results": {
-        "코스피 코스닥": {
-          "headline": "코스피 5300선 돌파 및 4%대 동반 급등",
+        "엔비디아 칩 중국 밀반입": {
+          "headline": "10조 원대 AI 칩 밀반입 논란과 오너 리스크 확산",
           "facts": [
-            "코스피와 코스닥 지수가 미국발 훈풍에 힘입어 4거래일 만에 반등하며 나란히 4%대 급등세를 기록했다.",
-            "코스피 지수는 장중 5300선을 돌파하는 기염을 토했으며 삼성전자와 SK하이닉스가 각각 4~6%대 상승하며 지수 견인차 역할을 했다.",
-            "급격한 지수 상승으로 인해 코스피와 코스닥 시장 모두에서 프로그램 매수 호가 효력을 일시 정지하는 매수 사이드카가 발동되었다.",
-            "이번 반등은 최근 3거래일간 이어진 하락세를 딛고 일어선 것으로 시장의 저가 매수세 유입과 미국 시장의 긍정적 영향이 복합적으로 작용했다."
+            "엔비디아 최고경영자의 개인적 관계를 악용해 10조 원 규모의 최첨단 엔비디아 AI 반도체 칩이 중국으로 밀반입된 정황이 수면 위로 드러났다.",
+            "미국의 대중국 반도체 수출 규제를 우회한 대규모 유출 사건이 발각되면서 엔비디아를 둘러싼 오너 리스크와 내부 통제 실패에 대한 시장의 우려가 급증했다.",
+            "경쟁사인 구글과 AMD는 엔비디아가 오너 리스크와 규제 리스크로 흔들리는 틈을 타 자체 AI 생태계와 파트너십을 공격적으로 확장하고 있다.",
+            "국내 시장에서는 엔비디아가 SK텔레콤, 리벨리온 등 한국 주요 기업들과 AI 인프라 삼각 동맹을 구축하며 기술 협력 방안을 모색하고 있다."
           ],
           "watch": [
-            "코스피 5300선 안착 여부와 추가 상승 동력",
-            "삼성전자 및 SK하이닉스의 외국인 매수세 지속성",
-            "미국 소비자물가지수 발표에 따른 시장 변동성"
+            "미국 정부의 엔비디아 대상 대중국 규제 위반 조사 결과",
+            "AMD 및 구글의 AI 칩 시장 점유율 침투 속도",
+            "SKT·리벨리온 등 국내 AI 인프라 동맹의 실질적 성과"
           ],
           "qna": [
             {
-              "q": "장중 코스피 5300선 돌파가 시장에 주는 기술적 의미는 무엇인가?",
-              "a": "4거래일 만에 하락세를 끊어내고 심리적 저항선인 5300선을 돌파한 것은 하락 추세의 반전을 시사한다. 특히 대형 반도체주의 강한 반등이 동반되어 지수의 하방 경직성을 확보한 것으로 평가된다."
+              "q": "10조 원대 칩 밀반입 사건이 엔비디아의 시장 독점 구조에 어떤 균열을 만드는가?",
+              "a": "미국의 엄격한 수출 제재를 우회한 대규모 유출로 인해 엔비디아는 미국 정부의 강력한 조사와 법적 규제에 직면했다. 이 과정에서 발생한 오너 리스크는 구글과 AMD 등 후발 주자들이 고성능 AI 칩 시장에서 입지를 넓히는 결정적인 계기가 되고 있다."
             },
             {
-              "q": "매수 사이드카가 양 시장에서 동시에 발동된 배경은 무엇인가?",
-              "a": "선물 가격이 전일 종가 대비 5% 이상 상승한 상태가 1분간 지속되면서 프로그램 매수세가 급격히 유입되었기 때문이다. 이는 시장의 과열을 잠시 식히고 변동성을 완화하기 위한 거래소의 조치이다."
+              "q": "중국 밀반입 이슈가 한국 AI 인프라 생태계에는 어떠한 파급 효과를 미치는가?",
+              "a": "엔비디아의 글로벌 공급망 및 규제 리스크가 고조되면서 SK텔레콤과 리벨리온 등 국내 기업들과의 인프라 협업 가치가 더욱 부각되고 있다. 국산 AI 반도체 스타트업들은 엔비디아 의존도를 낮추려는 글로벌 수요를 흡수해 자체 생태계를 확대할 기회를 맞이했다."
             },
             {
-              "q": "반도체 대형주가 지수 급등을 주도한 구체적인 원인은 무엇인가?",
-              "a": "미국 증시의 훈풍과 더불어 삼성전자와 SK하이닉스에 대한 저가 매수세가 유입되며 각각 4%와 6% 이상의 높은 상승률을 기록했다. 반도체 업황 회복 기대감이 지수 전체의 상승 에너지를 공급했다."
+              "q": "향후 엔비디아의 기업 가치를 결정지을 핵심 분기점은 무엇인가?",
+              "a": "미국 규제 당국의 제재 수위와 함께 오너 리스크를 조기에 수습하고 내부 통제 시스템을 강화할 수 있는지가 관건이다. 동시에 경쟁사들의 추격을 꺾고 차세대 AI 인프라 주도권을 유지할 수 있는 기술적 격차 증명이 필요하다."
             }
           ]
         },
-        "매수 사이드카": {
-          "headline": "코스피·코스닥 급등에 매수 사이드카 동시 발동",
+        "코스피 매수 사이드카": {
+          "headline": "미국 반도체 훈풍에 코스피·코스닥 매수 사이드카 발동",
           "facts": [
-            "코스피와 코스닥 지수가 4% 이상 폭등하면서 프로그램 매수 호가의 효력을 일시 정지하는 매수 사이드카가 잇따라 발동되었다.",
-            "코스피 시장에서는 선물 가격이 전일 종가 대비 5% 이상 급등한 상태가 유지됨에 따라 오전 중 사이드카가 발동되어 거래를 진정시켰다.",
-            "삼성전자가 5%, SK하이닉스가 7% 가까이 급등하는 등 시가총액 상위 반도체 종목들의 강세가 프로그램 매수세를 자극했다.",
-            "미국 선거 이후의 불확실성을 해소하고 저가 매수세가 강력하게 유입되면서 4거래일 만에 시장 분위기가 급반전되었다."
+            "미국 증시의 반도체주 강세 훈풍에 힘입어 삼성전자와 SK하이닉스가 4%에서 6%대 급등하며 국내 증시의 상승세를 강력하게 견인했다.",
+            "코스피와 코스닥 지수가 동시에 4%대 급등세를 나타내면서 양 시장 모두에 프로그램 매수 호가 효력을 정지하는 매수 사이드카가 발동되었다.",
+            "미국 선거 관련 불확실성과 시장 충격을 이겨내고 4거래일 만에 강한 반등에 성공하며 투자 심리가 급격히 회복되는 모습을 보였다.",
+            "증시가 대폭 호조를 보인 가운데 채권시장에서는 외국인 매수세가 유입되며 금리가 하락하는 강세 플래트닝 현상이 동시에 나타났다."
           ],
           "watch": [
-            "프로그램 매수세 유입 강도 및 지속 가능성",
-            "사이드카 해제 이후 지수의 추가 상승 여력",
-            "외국인과 기관의 순매수 포지션 변화 추이"
+            "코스피 상장 대형 반도체주의 추가 상승 여력",
+            "매수 사이드카 발동 이후 외국인 수급의 지속성",
+            "채권시장 금리 하락과 증시 급등의 동조화 유지 여부"
           ],
           "qna": [
             {
-              "q": "매수 사이드카가 발동되는 구체적인 요건과 절차는 무엇인가?",
-              "a": "코스피 기준 선물 가격이 기준가 대비 5% 이상 상승하여 1분간 지속될 때 발동되며 5분간 프로그램 매수 호가의 효력이 정지된다. 이는 급격한 가격 변동으로부터 시장을 보호하기 위한 안전장치이다."
+              "q": "반도체 대형주 급등이 증시 전체의 매수 사이드카 발동으로 이어진 메커니즘은 무엇인가?",
+              "a": "미국 반도체지수 상승 훈풍으로 시가총액 비중이 절대적인 삼성전자와 SK하이닉스에 외국인 매수세가 집중되었다. 주가지수 선물 가격이 급등하면서 선물과 연계된 프로그램 매수 호가가 폭발했고, 시장 과열을 식히기 위해 사이드카가 즉각 발동되었다."
             },
             {
-              "q": "이번 사이드카 발동이 단순 기술적 반등 이상의 의미를 갖는가?",
-              "a": "4거래일간의 하락을 딛고 발생한 강력한 반등 신호로 미국 선거 충격을 극복하려는 시장의 의지가 반영된 결과이다. 특히 반도체 대형주 중심의 매수세가 집중되며 지수 하단을 견고하게 지지했다."
+              "q": "증시 급등 상황에서 채권 금리가 오히려 하락한 역설적 현상의 원인은 무엇인가?",
+              "a": "주식 시장의 위험 선호 심리 부활에도 불구하고 채권 시장으로 외국인의 자금 유입이 대규모로 지속되었기 때문이다. 외국인 국채 매수세가 장기물 금리를 눌러 채권 가격이 상승했고, 이에 따라 증시 상승과 금리 하락이 동시에 발생했다."
             },
             {
-              "q": "사이드카 발동 이후 시장의 매수세는 어떤 방향으로 전개되는가?",
-              "a": "일시적인 호가 정지 이후에도 매수세가 유지될 경우 지수는 추가 상승을 시도하며 안착 과정을 거친다. 다만 급등에 따른 차익 실현 매물이 출현할 수 있어 거래량 변화를 주시해야 한다."
+              "q": "4거래일 만의 반등이 단기 반등을 넘어 추세적 상승으로 이어지기 위한 조건은 무엇인가?",
+              "a": "반도체 이외의 다른 주력 업종으로 온기가 확산하고 외국인의 순매수 기조가 며칠간 유지되어야 한다. 또한 미국 선거 이후 정치적 불확실성이 완전히 해소되고 글로벌 IT 업황 선행 지표가 꾸준히 개선되어야 추세적 상승이 가능하다."
             }
           ]
         },
-        "4%대 급등": {
-          "headline": "4거래일 만의 반전, 코스피·코스닥 4%대 폭등 마감",
+        "강남 아파트값 하락": {
+          "headline": "강남 3구 아파트값 하락 전환과 재초환 부담금 갈등",
           "facts": [
-            "국내 증시가 최근의 급락세를 딛고 4거래일 만에 반등에 성공하며 코스피와 코스닥 모두 4%대 급등세로 장을 마쳤다.",
-            "코스피는 장중 한때 5% 가까운 상승률을 기록하며 매수 사이드카가 발동되는 등 폭발적인 매수 우위 장세를 보였다.",
-            "미국 증시의 긍정적인 영향과 반도체 대형주들의 동반 강세가 지수 전체의 상승폭을 확대하는 핵심 동력으로 작용했다.",
-            "이번 급등은 단기 낙폭 과대에 따른 저가 매수세와 시장의 불확실성 해소가 맞물리며 나타난 강력한 되돌림 현상이다."
+            "수도권 집값 상승세를 이끌던 강남 3구의 아파트 가격이 하락세로 돌아서며 주택 시장의 거래 위축 우려가 본격화되고 있다.",
+            "강남 주요 재건축 조합들이 재건축 초과이익 환수제 부담금 현실화 통보에 강하게 반발하며 연대 투쟁을 모색하는 등 진통이 이어진다.",
+            "11월 전국 아파트 입주전망지수는 소폭 상승했으나 서울을 포함한 수도권 입주전망지수는 오히려 하락하며 경기 둔화 징후를 보였다.",
+            "미국 물가 쇼크와 금융 시장의 변동성 확대가 국내 자산 시장 전반으로 전이되면서 부동산 매수 심리 위축에 영향을 미쳤다."
           ],
           "watch": [
-            "4%대 급등 이후의 단기 과열 해소 과정",
-            "주요 업종별 순환매 유입 및 지수 견인 여부",
-            "글로벌 증시와의 동조화 현상 지속 여부"
+            "강남 3구 매매가격 지수의 추가 하락 폭 및 기간",
+            "재건축 초과이익 환수제 부담금 산정 규정 개정 논의",
+            "수도권 아파트 입주율 및 분양 시장 실적 지표"
           ],
           "qna": [
             {
-              "q": "4%대라는 이례적인 급등이 발생한 결정적인 배경은 무엇인가?",
-              "a": "3거래일 연속 하락에 따른 가격 메리트가 발생한 상황에서 미국발 훈풍이 트리거가 되어 대규모 자금이 유입되었기 때문이다. 특히 삼성전자와 SK하이닉스 등 시총 상위주의 폭등이 지수 상승을 견인했다."
+              "q": "재건축 초과이익 환수제 부담금 현실화가 강남 집값 하락에 어떠한 영향을 미치는가?",
+              "a": "조합원 1인당 수억 원에 달하는 재초환 부담금이 현실화되면서 재건축 단지의 투자 수익성이 급격히 악화되었다. 매수 희망자들의 관망세가 짙어지고 조합원들의 급매물이 출회되면서 강남 3구 전체 집값을 아래로 끌어내리고 있다."
             },
             {
-              "q": "급락 뒤에 찾아온 이번 급등이 추세적 상승으로 이어질 가능성은 있는가?",
-              "a": "4거래일 만에 하락분을 상당 부분 만회하며 강력한 반등의 발판을 마련했다는 점이 긍정적이다. 다만 향후 발표될 미국 물가 지표와 금리 경로에 따라 변동성이 재차 확대될 수 있다."
+              "q": "수도권 아파트 입주전망지수 하락이 주택 시장 밸류체인에 가져올 리스크는 무엇인가?",
+              "a": "입주 전망 악화는 기존 주택 처분 지연과 전세 시장 불안으로 이어져 수분양자의 잔금 납부를 어렵게 만든다. 이는 건설사와 금융권의 미입주 리스크 및 프로젝트 파이낸싱 부실 우려를 다시 키우는 연쇄 악영향을 유발한다."
             },
             {
-              "q": "코스피와 코스닥이 나란히 급등한 것은 어떤 시장 심리를 반영하는가?",
-              "a": "유가증권시장과 코스닥 시장 전반에 걸쳐 위험 자산에 대한 선호 심리가 급격히 회복되었음을 의미한다. 특정 섹터에 국한되지 않고 시장 전체로 매수세가 확산되며 투자 심리가 개선되었다."
+              "q": "강남 아파트값 하락세가 전국 부동산 시장으로 확산할 분기점은 어디인가?",
+              "a": "수도권 아파트 거래량이 시중 금리 상향 조정과 대출 규제 여파로 바닥권에 갇히는 시점이 분기점이다. 강남 핵심지의 가격 방어선이 깨지고 미분양이 수도권 전역으로 늘어난다면 하락 기조가 전국으로 확산할 수 있다."
             }
           ]
         }
       },
       "news": {
-        "코스피 코스닥": [
+        "엔비디아 칩 중국 밀반입": [
           {
-            "title": "美훈풍에 삼전·닉스 4∼6%↑…코스피·코스닥 ’매수 사이드카’ - 연합뉴스TV",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jRS1XR0E0MzhZcmZvbC0tYndjcXNySnZXRlRPME9iU3g4ZFl2djg2aVJzcm1ra2RLd2Jyd3BCcTRjRUxqakF4ZWVyWUx6TnJ3Qzh3LU5mWUd5NHk2M25LN0VwR2poU1U?oc=5",
+            "title": "\"젠슨황 연인 앨리스황, 10조원 엔비디아 AI칩 중국 밀반입\" - 연합뉴스TV",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5abEVValJfQ3p1cFRHTGIwWEJwUEpQOXQ2cjJwZC1fWk9xZTQwZFNlOU4wcTdnWjhoTkZkbDJaM1NwVmVlWlNsaHVkZWROUjNyWHdBMEFwODc5dzR0Q3BZNVVENXIzcms?oc=5",
             "source": "연합뉴스TV",
-            "published": "11-10 13:45",
-            "snippet": "美훈풍에 삼전·닉스 4∼6%↑…코스피·코스닥 ’매수 사이드카’ 연합뉴스TV 코스피·코스닥, 4%대 급등 마감‥급락 딛고 4거래일만 반등 MBC 뉴스 하루 만에 4% 급반등한 코스피, 무슨 일이야? 네이버페이 머니스토리 코스피, ‘블루웨이브’ 충격 딛고 4% 반등···기술주 반등·유가 하락에 ‘저가 매수세’ 유입 경향신문 4거래일 만에 반등…코스피·코스닥서 매수 사이드카 KBS 뉴스"
+            "published": "11-11 06:27",
+            "snippet": "\"젠슨황 연인 앨리스황, 10조원 엔비디아 AI칩 중국 밀반입\" 연합뉴스TV 젠슨 황보다 스무 살 이상 어려…엘리스 황은 어디에? [이런뉴스] KBS 뉴스 [연합뉴스 이 시각 헤드라인] - 07:30 연합뉴스 엔비디아 이사회, 젠슨 황 스캔들 조사 책임자로 한국계 변호사 선임 동아일보 \"트럼프, 5월 중국행 전용기서 '젠슨 황 의혹' 보고 받아\" MBC 뉴스"
           },
           {
-            "title": "4거래일 만에 반등…코스피·코스닥서 매수 사이드카 - KBS 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tRi1wWGJkVVAwZnVJR3oxTkE3VURRRUVVOXRsb3FTTjlLWVRIN3dTVl9PWVZiVHVGTFFNNVRZUHNYbktwMmEtM2Q0NmxRekVQSUxNWFBQR215ZTg?oc=5",
+            "title": "“젠슨 황 관계 악용, 10조 원대 엔비디아칩 중국 밀반입” - KBS 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vdHdabDV4X3ZTNGZ6WklVQmR1cmpiT056QzF1cWZ1UXJ1bXpReDJyVFVQUk05R2I5VWlRTWZoRXg2NHh6LUFEcVF2NU5ta3VGeTllcUhhUzQtVEdiY0tvTVBtaTBlUQ?oc=5",
             "source": "KBS 뉴스",
-            "published": "11-10 21:09",
-            "snippet": "4거래일 만에 반등…코스피·코스닥서 매수 사이드카 KBS 뉴스"
+            "published": "11-11 07:13",
+            "snippet": "“젠슨 황 관계 악용, 10조 원대 엔비디아칩 중국 밀반입” KBS 뉴스 Google 뉴스에서 헤드라인 및 의견 더보기"
           },
           {
-            "title": "코스피·코스닥, 4%대 급등…매수 사이드카 발동 - 연합뉴스TV",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15NjlpcUNXOHNqR0tLdU9venE3YXFKalY0Mm9RTlVKNTdMY0xvZExkMGZDSGxkekcyZzZ4emw5dUdNdFZsWjZ3dFBhZVNoLWF2NzduSF9Sbm5PNU1rX0dUYjJ6QXJ6VTQ?oc=5",
+            "title": "중국산 마그네슘 합금을 국산으로 속여 수출…90억 원 챙긴 업체 송치 - KBS 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxRU83VTYwdk12Q0tZYW1QRmJSYWhETER3SHZfOEI3blFWSFpKakM3bkV6bUhhWm1SdEgtcHo4Y1RJMHg4ZDRrNHV5bURRaDdhVlVwYzIxTXVCWGs?oc=5",
+            "source": "KBS 뉴스",
+            "published": "11-10 10:33",
+            "snippet": "중국산 마그네슘 합금을 국산으로 속여 수출…90억 원 챙긴 업체 송치 KBS 뉴스 외국산 마그네슘 한국산으로 둔갑…490억원 부정 수출 연합뉴스TV 중국산 섞어 국산 합금 둔갑…90억 챙긴 업체대표 송치 국제신문 중국산 마그네슘 합금 사들여 국산으로 속여 수출한 업자 적발 매일경제 마켓 “중국산 마그네슘이 한국산으로 둔갑”…수백억원어치 수출하고 빼돌린 돈으로 명품 쇼핑 문화일보"
+          },
+          {
+            "title": "엔비디아 ‘오너 리스크’ 틈탄 구글, AMD와 AI 생태계 확장 - 경향신문",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lRlBDNmhDVHlIREJLZWV4dzdiRGU3V3VHdXpINjFSUE5FN2lZRlp6TTgyYmQ1RUdxWjl2QUxVOEZtM09Hb29TXzFGSmlJT3dPTlBSQXVzSDhBZ9IBX0FVX3lxTE51Ym40ejJXT1pNQ0x2Si1SZVNKSlZ6RzZ0ZzlmQm9xUnlhSEUzUGZBMWM4VEY1S01sX0dzOGItX1d0Z243VEJhM2FYcUJNN2FhdTFrQW9hSXJjemx5LURj?oc=5",
+            "source": "경향신문",
+            "published": "11-10 20:40",
+            "snippet": "엔비디아 ‘오너 리스크’ 틈탄 구글, AMD와 AI 생태계 확장 경향신문 구글 AI 인프라에 AMD 프로세서 탑재… 반도체 시장서 존재감 키운다 제민일보 젠슨 황 악재에 웃는 AMD, 주가 13% 폭등…구글 TPU도 뚫었다 [IT썰] - 머니투데이 머니투데이 구글 클라우드, 에이전트 시대 인프라 확장…TPU·SW 동시 강화 전자신문 구글, 8세대 AI 반도체 시스템 2종 공개…엔비디아에 도전장 동아일보"
+          },
+          {
+            "title": "[현장] 엔비디아·SKT·리벨리온, AI 인프라 삼각동맹…협력 방향은 By EBN - Investing.com 한국어",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oOWhDdEkwdkJUYjk0SmlfZ3VuZURFc2pWZ0V6TXdabTJ4NkhzYjY1WGZRS0NfR1RocUxOUUtua1lzMFRmLXV1XzBRcXNzS2gtazJHRXoxMTQzYnI4TU9BdXZBWGxkaHNqLVhYMUo1NkM?oc=5",
+            "source": "Investing.com 한국어",
+            "published": "11-10 08:19",
+            "snippet": "[현장] 엔비디아·SKT·리벨리온, AI 인프라 삼각동맹…협력 방향은 By EBN Investing.com 한국어 \"엔비디아냐 AMD냐\"...기로에 선 K-반도체 지디넷코리아 \"AI 숲 조성, 다수 기업에 데이터 공개할 것\" - 머니투데이 머니투데이 'K-문샷 정책 세미나' 개최, 국가 과학 난제 해결을 위한 과학 인공지능 혁신을 논의하다. 서울Pn [현장] SKT 정석근·리벨리온 박성현의 AI 의기투합…\"국산 NPU 시장 확대\" By EBN "
+          },
+          {
+            "title": "중국, 올해 무역 흑자 벌써 1조 달러…사상 최대 흑자 낼 듯 - 연합뉴스TV",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LbWNLQzNycnczSU1iU0xsUmc1YUhrcDBXbzg3cllvX05NazBLS1VBVFRYY0ZRX0F6MEk5U3BDeXFFM2xKYlZYLTYzQzd0bi1VMkZqcGIzekpZdHRrMUM3VjFHWTBVbDQ?oc=5",
             "source": "연합뉴스TV",
-            "published": "11-10 18:13",
-            "snippet": "코스피·코스닥, 4%대 급등…매수 사이드카 발동 연합뉴스TV"
-          },
-          {
-            "title": "코스피·코스닥, 4%대 급등 마감…급락딛고 4거래일만 반등(종합) - 연합뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EVkVUUFktUkh3YUJtQmRFSldpRncxdEwteWhkRDNBOXpUYmMxMUlmTXR5SmVRNkswVnVZV3JTdUNtS0xqM0p6YkR4LVZDSEJOUnJlVzItcUROVEXSAWBBVV95cUxNWVRKSkRQZU9LbFpzYndiYnZEZTgzNmRNcDJMbndlUWl5ZGFRN2lGMTVkazEyaFVQQVUyMThiOGF0R2dDUUxPcnN0WWZiWGtOeWRHVnlQUFFrOTNnaTFNS0w?oc=5",
-            "source": "연합뉴스",
-            "published": "11-10 16:03",
-            "snippet": "코스피·코스닥, 4%대 급등 마감…급락딛고 4거래일만 반등(종합) 연합뉴스"
-          },
-          {
-            "title": "코스피·코스닥 나란히 4%대 급등 마감…4거래일 만에 반등 - 더나은미래",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IYnJUaHo5M1FWN1RIemphZkdyalJoWFVzODhBM3pUZHdCbV9Ld2prLW1PQ0wyTndTUW9OM1hpRmVqVzEzWnROek5MRlpGeXYyU3c?oc=5",
-            "source": "더나은미래",
-            "published": "11-10 17:47",
-            "snippet": "코스피·코스닥 나란히 4%대 급등 마감…4거래일 만에 반등 더나은미래"
-          },
-          {
-            "title": "코스피 장중 5300선 뚫었다…코스닥도 급등, ‘매수 사이드카’ 잇따라 - JTBC",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95THJhQVdDVVZ1eFNIS29RSzkzTzFiWE1WbGZwY0twMTVFVW5Gbm9xV2xEdWJxT3FGWmdNOFhRLUhHR1NoMklkZXVET3pUZDgzS2xIcw?oc=5",
-            "source": "JTBC",
-            "published": "11-10 15:36",
-            "snippet": "코스피 장중 5300선 뚫었다…코스닥도 급등, ‘매수 사이드카’ 잇따라 JTBC"
+            "published": "11-10 15:51",
+            "snippet": "중국, 올해 무역 흑자 벌써 1조 달러…사상 최대 흑자 낼 듯 연합뉴스TV 中, 내수 부진 속 역대급 흑자…APEC 앞두고 무역갈등은 '숙제' 연합뉴스 中 무역 흑자, 2년 연속 1조 달러 돌파…반도체 수출 137% 급증 서울경제 中 10월 수입 41.6%↑…5년 5개월 만에 최대폭 증가 - 머니투데이 머니투데이 중국 무역흑자 2년 연속 1조 달러 돌파 경향신문"
           }
         ],
-        "매수 사이드카": [
+        "코스피 매수 사이드카": [
           {
             "title": "美훈풍에 삼전·닉스 4∼6%↑…코스피·코스닥 ’매수 사이드카’ - 연합뉴스TV",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jRS1XR0E0MzhZcmZvbC0tYndjcXNySnZXRlRPME9iU3g4ZFl2djg2aVJzcm1ra2RLd2Jyd3BCcTRjRUxqakF4ZWVyWUx6TnJ3Qzh3LU5mWUd5NHk2M25LN0VwR2poU1U?oc=5",
             "source": "연합뉴스TV",
             "published": "11-10 13:45",
-            "snippet": "美훈풍에 삼전·닉스 4∼6%↑…코스피·코스닥 ’매수 사이드카’ 연합뉴스TV 코스피·코스닥, 4%대 급등 마감‥급락 딛고 4거래일만 반등 MBC 뉴스 하루 만에 4% 급반등한 코스피, 무슨 일이야? 네이버페이 머니스토리 코스피, ‘블루웨이브’ 충격 딛고 4% 반등···기술주 반등·유가 하락에 ‘저가 매수세’ 유입 경향신문 4거래일 만에 반등…코스피·코스닥서 매수 사이드카 KBS 뉴스"
-          },
-          {
-            "title": "4거래일 만에 반등…코스피·코스닥서 매수 사이드카 - KBS 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tRi1wWGJkVVAwZnVJR3oxTkE3VURRRUVVOXRsb3FTTjlLWVRIN3dTVl9PWVZiVHVGTFFNNVRZUHNYbktwMmEtM2Q0NmxRekVQSUxNWFBQR215ZTg?oc=5",
-            "source": "KBS 뉴스",
-            "published": "11-10 21:09",
-            "snippet": "4거래일 만에 반등…코스피·코스닥서 매수 사이드카 KBS 뉴스"
+            "snippet": "美훈풍에 삼전·닉스 4∼6%↑…코스피·코스닥 ’매수 사이드카’ 연합뉴스TV 하루 만에 4% 급반등한 코스피, 무슨 일이야? 네이버페이 머니스토리 [마켓뷰] 겨우 반등했는데…코스피, 美 '빅스텝' 우려에 다시 흔들리나 연합뉴스 코스피·코스닥, 4%대 급등 마감‥급락 딛고 4거래일만 반등 MBC 뉴스 미 증시 강세·유가 하락...코스피, 4.4% 반등 마감 YTN"
           },
           {
             "title": "코스피·코스닥, 4%대 급등…매수 사이드카 발동 - 연합뉴스TV",
@@ -163,18 +156,11 @@
             "snippet": "코스피·코스닥, 4%대 급등…매수 사이드카 발동 연합뉴스TV"
           },
           {
-            "title": "코스피 5% 급등에 매수 사이드카…삼성전자 5%·SK하이닉스 7%↑ - 한국경제",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wNjFIYjQyUWtoYzJKVW90TmVtbUNEWlVmNE5jWFVlM1pIQTRaTWFJclN6ZTE5bkROTDdfcTJZUkp4ZVQ1SEg0SGFlakNienZMaHJOV1Z6cjU4UQ?oc=5",
-            "source": "한국경제",
-            "published": "11-10 09:17",
-            "snippet": "코스피 5% 급등에 매수 사이드카…삼성전자 5%·SK하이닉스 7%↑ 한국경제"
-          },
-          {
-            "title": "코스피 장중 5300선 뚫었다…코스닥도 급등, ‘매수 사이드카’ 잇따라 - JTBC",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95THJhQVdDVVZ1eFNIS29RSzkzTzFiWE1WbGZwY0twMTVFVW5Gbm9xV2xEdWJxT3FGWmdNOFhRLUhHR1NoMklkZXVET3pUZDgzS2xIcw?oc=5",
-            "source": "JTBC",
-            "published": "11-10 15:36",
-            "snippet": "코스피 장중 5300선 뚫었다…코스닥도 급등, ‘매수 사이드카’ 잇따라 JTBC"
+            "title": "오늘은 '매수' 사이드카...미국 반도체 훈풍, 코스피·코스닥 동반 상승 - 머니투데이 - 머니투데이",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05N2pqaVU0a1hsRXJQRThDS1N1czJTQkM1NDRTZVNTeDRCaDFfbkRjcUMtNFZGTlJoWVFwVTdsWGVMaDRBMWZqYkc3NzBPN24xZU1JSkJ3ZjIxUkhKT2dmejVsZFk4SW9J0gFuQVVfeXFMTWp4UTJkRHYxTE8tU0lUck1Panp2ZTUtQXRWUWJVRVBzTll2M1FrckY1VFNDN2NNa1Z2bjJXYlRZX1Jpb3dGVnpJTFl5eU9PTkRjdG5ULXVrRzl2T0M1RXNTd2g2MDZfY0c2eDdkTGc?oc=5",
+            "source": "머니투데이",
+            "published": "11-11 05:52",
+            "snippet": "오늘은 '매수' 사이드카...미국 반도체 훈풍, 코스피·코스닥 동반 상승 - 머니투데이 머니투데이"
           },
           {
             "title": "미 선거 충격 딛고 급반등…코스피·코스닥 매수 사이드카 - KBS 뉴스",
@@ -182,265 +168,265 @@
             "source": "KBS 뉴스",
             "published": "11-10 18:59",
             "snippet": "미 선거 충격 딛고 급반등…코스피·코스닥 매수 사이드카 KBS 뉴스"
+          },
+          {
+            "title": "4거래일 만에 반등…코스피·코스닥서 매수 사이드카 - KBS 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tRi1wWGJkVVAwZnVJR3oxTkE3VURRRUVVOXRsb3FTTjlLWVRIN3dTVl9PWVZiVHVGTFFNNVRZUHNYbktwMmEtM2Q0NmxRekVQSUxNWFBQR215ZTg?oc=5",
+            "source": "KBS 뉴스",
+            "published": "11-10 21:09",
+            "snippet": "4거래일 만에 반등…코스피·코스닥서 매수 사이드카 KBS 뉴스"
+          },
+          {
+            "title": "[채권-마감] 강세 플래트닝…증시 호조에도 外人 매수에 금리 하락 - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lQ0QySDZHcU1oR2FrdXZ2bDNGdU1NSHBNekdKNVBMMi1xbXh6Q2hQb2tTcGhSMlhXaXBrY1JTd3pvbkE4VHhKVkRVWVdiWVhHX3BlQjJ1TzZ2TVJTckpONmFVUjRMTUZVQ2xzdURYNTY?oc=5",
+            "source": "연합인포맥스",
+            "published": "11-10 18:47",
+            "snippet": "[채권-마감] 강세 플래트닝…증시 호조에도 外人 매수에 금리 하락 연합인포맥스 국고채 금리 대체로 하락…주가 급등에도 외인 선물 매수(종합) 연합뉴스 10월 채권 발행 91조…금융채·특수채 늘며 전월 대비 4.5조↑ 뉴시스 美 국채금리 상승…고용 호조에 10월 소비자물가 3.9% 전망 뉴스1 [노현우의 채권분석] AI투자 느려져도 금리 높아질까 연합인포맥스"
           }
         ],
-        "4%대 급등": [
+        "강남 아파트값 하락": [
           {
-            "title": "코스피·코스닥, 4%대 급등…매수 사이드카 발동 - 연합뉴스TV",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15NjlpcUNXOHNqR0tLdU9venE3YXFKalY0Mm9RTlVKNTdMY0xvZExkMGZDSGxkekcyZzZ4emw5dUdNdFZsWjZ3dFBhZVNoLWF2NzduSF9Sbm5PNU1rX0dUYjJ6QXJ6VTQ?oc=5",
-            "source": "연합뉴스TV",
-            "published": "11-10 18:13",
-            "snippet": "코스피·코스닥, 4%대 급등…매수 사이드카 발동 연합뉴스TV"
+            "title": "강남 3구 아파트 가격 ‘뚝’ - 매일경제",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aaFp5eExXeTBBcGpLdHMzb0tyMXhaQmU4MjVBSFB1VG11VlM3cUNVMU1pSUdFUlZSU1JFVkthaEVqTGMydzJiQlZ4Q1IwWWtDSnBnU0RR?oc=5",
+            "source": "매일경제",
+            "published": "11-10 15:48",
+            "snippet": "강남 3구 아파트 가격 ‘뚝’ 매일경제 \"이렇게 오래 오른 적 없었다\"…서울 집값 심상찮은 기록 [시장톡] 한국경제 ‘주식 털어 집 샀는데…’ 주가 폭락에 부동산 시장도 얼어붙었다 조선일보 ‘쫓겨나느니 빚내서 산다’… 강남 얼어붙자 외곽 터진 ‘생존 매수’ 세계일보 \"서울에선 엄두 못 내\"…경기 남부 소형 아파트 신고가 행진 뉴시스"
           },
           {
-            "title": "코스피·코스닥, 4%대 급등 마감…급락딛고 4거래일만 반등(종합) - 연합뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EVkVUUFktUkh3YUJtQmRFSldpRncxdEwteWhkRDNBOXpUYmMxMUlmTXR5SmVRNkswVnVZV3JTdUNtS0xqM0p6YkR4LVZDSEJOUnJlVzItcUROVEXSAWBBVV95cUxNWVRKSkRQZU9LbFpzYndiYnZEZTgzNmRNcDJMbndlUWl5ZGFRN2lGMTVkazEyaFVQQVUyMThiOGF0R2dDUUxPcnN0WWZiWGtOeWRHVnlQUFFrOTNnaTFNS0w?oc=5",
-            "source": "연합뉴스",
-            "published": "11-10 16:03",
-            "snippet": "코스피·코스닥, 4%대 급등 마감…급락딛고 4거래일만 반등(종합) 연합뉴스"
+            "title": "북서유럽 경유 정제마진, 화요일 7% 넘게 하락 - Investing.com 한국어",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JalN6WHdfMWVIZWUyTHRSOGREWENSTUN4MlpEczhDQ3pFYVRvdjJGT2JiUDB6R2ZLajlYbFl3aER4N0V5TTFQU2dvamZGZHdJekR0R2ZIMFVqVEp5SW5NY2N5amk2VVlHem45SHI4MUNOX1RXZ1E?oc=5",
+            "source": "Investing.com 한국어",
+            "published": "11-11 04:17",
+            "snippet": "북서유럽 경유 정제마진, 화요일 7% 넘게 하락 Investing.com 한국어 국제유가 하락세 지속…8월 31일 이후 최저 KBS 뉴스 \"환율 이어 국제유가까지 하락\"…항공업계 '수익성 개선' 기대 뉴시스 산업부 \"연말까지 원유·나프타 90% 이상 물량 확보\" 연합뉴스TV 국제유가, 트럼프 이란 추가 공격 자제 시사에 급락 연합뉴스"
           },
           {
-            "title": "코스피·코스닥 나란히 4%대 급등 마감…4거래일 만에 반등 - 더나은미래",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IYnJUaHo5M1FWN1RIemphZkdyalJoWFVzODhBM3pUZHdCbV9Ld2prLW1PQ0wyTndTUW9OM1hpRmVqVzEzWnROek5MRlpGeXYyU3c?oc=5",
-            "source": "더나은미래",
-            "published": "11-10 17:47",
-            "snippet": "코스피·코스닥 나란히 4%대 급등 마감…4거래일 만에 반등 더나은미래"
+            "title": "[채권-마감] 강세 플래트닝…증시 호조에도 外人 매수에 금리 하락 - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lQ0QySDZHcU1oR2FrdXZ2bDNGdU1NSHBNekdKNVBMMi1xbXh6Q2hQb2tTcGhSMlhXaXBrY1JTd3pvbkE4VHhKVkRVWVdiWVhHX3BlQjJ1TzZ2TVJTckpONmFVUjRMTUZVQ2xzdURYNTY?oc=5",
+            "source": "연합인포맥스",
+            "published": "11-10 18:47",
+            "snippet": "[채권-마감] 강세 플래트닝…증시 호조에도 外人 매수에 금리 하락 연합인포맥스 국고채 금리 대체로 하락…주가 급등에도 외인 선물 매수(종합) 연합뉴스 10월 채권 발행 91조…금융채·특수채 늘며 전월 대비 4.5조↑ 뉴시스 美 국채금리 상승…고용 호조에 10월 소비자물가 3.9% 전망 뉴스1 [노현우의 채권분석] AI투자 느려져도 금리 높아질까 연합인포맥스"
           },
           {
-            "title": "[속보] 코스피·코스닥, 4%대 급등 마감…4거래일만 반등 - 연합뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3dDNVQ2dOci1ObUNnVzZURnpmOU12WW5IbWNPMFlYanpMWUlLTjhOb3lwS1JlTUlxdFBNNmtDYjNWWjYzVzVzcDFUN3NVYkd1NzljRVU4cEN2MWc4bFZkT9IBYEFVX3lxTFA3dDNVQ2dOci1ObUNnVzZURnpmOU12WW5IbWNPMFlYanpMWUlLTjhOb3lwS1JlTUlxdFBNNmtDYjNWWjYzVzVzcDFUN3NVYkd1NzljRVU4cEN2MWc4bFZkTw?oc=5",
-            "source": "연합뉴스",
-            "published": "11-10 15:33",
-            "snippet": "[속보] 코스피·코스닥, 4%대 급등 마감…4거래일만 반등 연합뉴스"
+            "title": "“강남 재건축조합들 뭉쳤다”…재초환 부담금 현실화에 ‘시끌’ - 매일경제",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fbnYybVBzWmY2Yi05M1RYNnRKdi1xLWZyWnFXOW9FdHJxWG5yczJGblpWdDRpSVdyUG5zZXphS0FOekVrM0JtM0FmSUduQXlIQzkwVURjRzk?oc=5",
+            "source": "매일경제",
+            "published": "11-10 13:21",
+            "snippet": "“강남 재건축조합들 뭉쳤다”…재초환 부담금 현실화에 ‘시끌’ 매일경제 5년 지나 날아온 억대 부담금 고지서···정권마다 폭탄 돌리기식 운영에 ‘재초환 혼란’ 경향신문 '재초환 공포' 강남 재건축…\"계산기 두드려보면 기회\" 전문가 분석 이유는 뉴시스 국토부, “재건축초과이익 부담금 부과 기한에 대해 신속히 검토해 안내하겠다” 문화일보 \"재초환으로 억대 부담금\" 강남 재건축 비상…민심 달래기 나선 자치구 - 머니투데이 머니투데이"
           },
           {
-            "title": "코스피·코스닥, 4%대 급등 마감‥급락 딛고 4거래일만 반등 - MBC 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KbW5pSDhsc3kxSl9DS29qZ3ZIZ0o5RTlDbVpsVHRxY18yOTNrNDA4Y2FIRWFpa011S3ZLay1hRVdXUGVMMGloOXZHaHNmZ1htOUdwWHF4a0tHUmMybndYbnFDbENCaFpQRXE2QlhGVS1kSk9V0gF0QVVfeXFMTzJ1ay1QTmxWUXF2enNUZ0FRejU1azZtZlVyaXYtOXpXTWE2WTVkdnlFM2VOb1NVNHV4cW03aUJMR1lIclV3ZGFGSDM1WTduaEZHU2RqVUE1Y09lTlNHR1hfWE9OeV9QSnVicHk1OEloRVJNekU?oc=5",
-            "source": "MBC 뉴스",
-            "published": "11-10 16:21",
-            "snippet": "코스피·코스닥, 4%대 급등 마감‥급락 딛고 4거래일만 반등 MBC 뉴스"
+            "title": "11월 전국 아파트 입주전망지수 4개월만에 소폭 상승..수도권은 하락 By 알파경제 alphabiz - Investing.com 한국어",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tZFpGVzJQTlhwQ1lyblZ0QTRpSXcwVXFpRHNKV0ZKYVAtMnpmenljVjB4TkoteXh6OXBhVHFhZ3BheFVWeTNQbGpDM0ZFYnJpZ1htM3JfUDRvM3NxdFhFV0toemJ3OVB4OTFHX0ZxTG8?oc=5",
+            "source": "Investing.com 한국어",
+            "published": "11-10 16:34",
+            "snippet": "11월 전국 아파트 입주전망지수 4개월만에 소폭 상승..수도권은 하락 By 알파경제 alphabiz Investing.com 한국어 아파트 입주 전망 소폭 개선…분양 기대는 하락 제민일보 10월 서울 아파트 입주율 2.8%p↑…전세난에 신축 '반사이익' 연합인포맥스 금리 인상 우려에 11월 수도권 아파트 입주전망지수 하락 연합뉴스 주담대 금리 상승에 입주 ‘발목’ 세계일보"
           },
           {
-            "title": "코스피·코스닥, 4%대 급등 마감…4거래일 만에 반등 - 한국경제",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wMGdwSUk0UVhMMGRIcEd0dXZnT29VTW41Z2x6NWw4SWNnT2JXdWpOSTd1VWU2dE5TYkNQNy1LVHpGcnpkbDU1VE03YUN2M284YzVERFVZbHpYUQ?oc=5",
-            "source": "한국경제",
-            "published": "11-10 15:40",
-            "snippet": "코스피·코스닥, 4%대 급등 마감…4거래일 만에 반등 한국경제"
+            "title": "美물가 쇼크에 나스닥 하락·엔비디아 6% 급락…코스피 5200선 회복 하루 만에 시험대 - 녹색경제신문",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tcHI3U3JIbkdDT0hMZ2FNenJKcmhXOC15bGlMWmEtWU1NQ1pueGE3OTMwTXFwQkgySUVwRXU0Ymc0LWZxSUxlOGljNGRfTGY4N3lkTktpcGVWQWdNLV91RS1RakVhSjha?oc=5",
+            "source": "녹색경제신문",
+            "published": "11-11 06:59",
+            "snippet": "美물가 쇼크에 나스닥 하락·엔비디아 6% 급락…코스피 5200선 회복 하루 만에 시험대 녹색경제신문"
           }
         ]
       },
       "queries": {
-        "코스피 코스닥": [
-          "코스피 코스닥 지수",
-          "코스피 코스닥 차이",
-          "코스피 코스닥 지수 실시간",
-          "코스피 코스닥 주가",
-          "코스피 코스닥 나스닥 차이",
-          "코스피 코스닥 지수 의미",
-          "코스피 코스닥 지수 차트",
-          "코스피 코스닥 하락 이유"
+        "엔비디아 칩 중국 밀반입": [
+          "엔비디아 칩",
+          "엔비디아 칩 종류",
+          "엔비디아 칩 가격",
+          "엔비디아 칩 담보 대출",
+          "엔비디아 칩셋",
+          "엔비디아 칩 한국",
+          "엔비디아 칩 이름",
+          "엔비디아 칩 중국 수출"
         ],
-        "매수 사이드카": [
-          "매수 사이드카 발동",
-          "매수 사이드카 기준",
-          "매수 사이드카란",
-          "매수 사이드카 시간",
-          "매수 사이드카 조건",
-          "매수 사이드카 매도 사이드카",
-          "매수 사이드카 발동 조건",
-          "매수 사이드카 서킷브레이커"
+        "코스피 매수 사이드카": [
+          "코스피 매수 사이드카 발동",
+          "코스피 매수 사이드카 발동 조건",
+          "코스피 매수 사이드카 조건",
+          "코스피 코스닥 매수 사이드카",
+          "코스피 매수 매도 사이드카",
+          "코스피 매수",
+          "코스피 매수 서킷",
+          "코스피 매수 매도 현황"
         ],
-        "4%대 급등": []
+        "강남 아파트값 하락": [
+          "강남 아파트값"
+        ]
       }
     },
     "global": {
       "keywords": [
-        "금리 인상",
-        "3대 지수",
-        "월러 연준"
+        "미국 CPI 예상 상회",
+        "연준 12월 빅스텝 우려",
+        "뉴욕증시 나스닥 급락"
       ],
       "results": {
-        "금리 인상": {
-          "headline": "연준 12월 0.5%p 인상 가능성 및 긴축 장기화 전망",
+        "미국 CPI 예상 상회": {
+          "headline": "미국 10월 CPI 예상 상회에 인플레이션 공포 재발 shadow",
           "facts": [
-            "크리스토퍼 월러 연준 이사가 12월 금리 인상을 지지하며 소비자물가지수 결과에 따라 0.5%포인트 인상 가능성을 시사했다.",
-            "미국 10월 소비자물가가 0.4% 상승함에 따라 연준의 긴축 기조가 강화될 것이라는 전망이 시장에 확산되고 있다.",
-            "도이체방크는 연준이 12월부터 내년 3월까지 세 차례 연속 금리를 인상할 것으로 내다봤으며 골드만삭스는 인상이 2027년까지 이어질 수 있다고 경고했다.",
-            "월러 이사의 매파적 발언 이후 달러화 가치가 반등하며 시장의 금리 인상 기대감을 즉각적으로 반영했다."
+            "미국 10월 소비자물가지수가 전월 대비 0.4% 상승하며 시장 예상치를 상회해 꺾이지 않는 물가 상승 압력을 입증했다.",
+            "인플레이션 상방 압력이 확인됨에 따라 미국 연방준비제도가 12월 기준금리를 0.5%포인트 인상하는 빅스텝을 단행할 가능성이 부상했다.",
+            "뉴욕증시에서 기술주 중심의 나스닥 지수가 0.74% 하락했고 필라델피아 반도체 지수도 0.35% 내리며 투자 심리가 급격히 냉각되었다.",
+            "서울 외환시장에서 원/달러 NDF 환율은 5.5원 상승했으며 연준 인사들의 매파적 발언이 더해져 달러화 강세를 부채질했다."
           ],
           "watch": [
-            "12월 FOMC에서의 금리 인상 폭 결정",
-            "향후 발표될 근원 소비자물가지수의 추이",
-            "연준 위원들의 추가적인 매파적 발언 여부"
+            "미국 연준 인사들의 향후 통화정책 관련 발언 수위",
+            "원/달러 환율의 추가 상승 및 1,400원선 돌파 여부",
+            "다음 달 발표될 미국 고용지표 및 근원 물가 지수"
           ],
           "qna": [
             {
-              "q": "월러 이사가 언급한 0.5%포인트 인상의 전제 조건은 무엇인가?",
-              "a": "10월 소비자물가지수 등 물가 지표가 예상보다 높게 나타나 인플레이션 압력이 지속될 경우 빅스텝 단행을 고려하겠다는 입장이다. 이는 물가 안정에 대한 연준의 강력한 의지를 보여준다."
+              "q": "10월 CPI의 예상치 상회가 통화정책 경로를 어떻게 흔들고 있는가?",
+              "a": "물가 상승세 둔화를 전제로 금리 인하 또는 인상 속도 조절을 기대했던 시장의 시나리오가 무너졌다. 끈질긴 인플레이션 압력으로 인해 연준이 12월 FOMC에서 기준금리를 한 번에 0.5%포인트 올리는 빅스텝에 나설 명분이 강화되었다."
             },
             {
-              "q": "골드만삭스가 금리 인상이 2027년까지 지속될 수 있다고 전망한 근거는 무엇인가?",
-              "a": "인플레이션이 목표치로 수렴하는 속도가 예상보다 더디고 고용 시장의 견조함이 유지될 경우 긴축 사이클이 장기화될 수 있다고 분석했다. 이는 시장의 조기 금리 인하 기대를 억제하는 요인이다."
+              "q": "미국 물가 쇼크가 한국 금융시장과 환율에 전이되는 파급 경로는 무엇인가?",
+              "a": "미국의 고금리 장기화 우려가 미국 국채 금리와 달러화 가치를 동시에 올려 원/달러 환율 상승을 유발한다. 이는 한국은행의 금리 운용 부담을 키우는 동시에 외국인 자금 유출을 자극해 국내 증시 하방 압력으로 작용한다."
             },
             {
-              "q": "금리 인상 전망 강화가 외환 시장과 달러 가치에 미치는 영향은 무엇인가?",
-              "a": "연준의 매파적 행보가 구체화되면서 주요 통화 대비 달러화 가치가 강세를 보이는 달러 인덱스 반등 현상이 나타났다. 이는 글로벌 자금의 달러 자산 회귀를 가속화할 수 있다."
+              "q": "인플레이션 공포가 진정되고 시장이 반등하기 위한 핵심 선행 지표는 무엇인가?",
+              "a": "주거비와 서비스 물가 등 변동성이 작은 근원 CPI 항목의 상승폭이 둔화되는 모습이 확인되어야 한다. 또한 노동시장의 과열 식힘 현상이 지표로 입증되어 연준의 긴축 명분이 약화되어야 시장이 안정될 수 있다."
             }
           ]
         },
-        "3대 지수": {
-          "headline": "뉴욕증시 저가 매수세 유입에 3대 지수 일제히 반등",
+        "연준 12월 빅스텝 우려": {
+          "headline": "12월 0.5%p 금리 인상론 부상과 연준 빅스텝 경고음",
           "facts": [
-            "뉴욕증시는 유가 급락과 기술주 중심의 저가 매수세 유입에 힘입어 3대 지수가 일제히 상승 마감했다.",
-            "다우, S&P500, 나스닥 등 3대 지수는 장중 2%대 급등세를 보였으나 엔비디아는 4.27% 급락하며 기술주 내 차별화 양상을 나타냈다.",
-            "미국 소비자물가지수 발표를 앞두고 금리 인상 기대감이 커지면서 비트코인 등 가상자산 가격은 하락 압력을 받았다.",
-            "물가 상승 압력으로 인해 하락 출발했던 지수는 장중 저가 매수세가 강력하게 유입되며 반전에 성공하는 변동성을 보였다."
+            "크리스토퍼 월러 연준 이사가 12월 0.5%포인트 금리 인상 가능성을 공개적으로 언급하면서 12월 빅스텝 우려가 현실화되었다.",
+            "예상을 뛰어넘은 물가 지표와 연준 당국자들의 연이은 매파적 발언으로 뉴욕증시 3대 지수가 일제히 하락세를 면치 못했다.",
+            "월가 일각에서는 연준이 잘못된 인플레이션 지표에 집착해 12월에 빅스텝을 단행하는 것은 무모한 조치라는 비판적 시각을 제시했다.",
+            "금리 긴축 공포가 재점화되면서 기술주와 고평가 성장주를 중심으로 매도물량이 쏟아져 나스닥 지수가 0.74% 하락 마감했다."
           ],
           "watch": [
-            "엔비디아 등 주요 기술주의 실적 및 주가 향방",
-            "CPI 발표 이후 3대 지수의 방향성 결정",
-            "국제 유가 변동이 증시 전반에 미치는 영향"
+            "12월 FOMC 회의 전까지 발표될 주요 경제 지표",
+            "연준 내 비둘기파 인사들의 반대 목소리 표출 여부",
+            "글로벌 자산 시장의 금리 인상 가능성 프라이싱 변화"
           ],
           "qna": [
             {
-              "q": "3대 지수가 2%대 급등하는 와중에 엔비디아가 홀로 급락한 이유는 무엇인가?",
-              "a": "전반적인 시장의 저가 매수세에도 불구하고 엔비디아에 대해서는 고점 부담에 따른 차익 실현 매물이 집중되었기 때문이다. 기술주 내에서도 종목별 펀더멘털과 수급 상황에 따라 희비가 엇갈렸다."
+              "q": "연준 인사들의 0.5%포인트 인상 언급이 시장에 큰 충격을 준 이유는 무엇인가?",
+              "a": "시장 참여자들은 금리 인상 기조의 마무리를 기대하고 있었으나 연준이 다시 공격적인 긴축 카드를 꺼내 들었기 때문이다. 긴축의 상단이 더 높아지고 고금리 환경이 예상보다 길어질 수 있다는 공포가 투자 심리를 위축시켰다."
             },
             {
-              "q": "유가 급락이 뉴욕증시 3대 지수 상승에 어떤 경로로 기여했는가?",
-              "a": "에너지 비용 감소가 기업의 비용 부담을 완화하고 인플레이션 압력을 낮출 것이라는 기대감을 형성했기 때문이다. 이는 투자자들의 위험 자산 선호 심리를 자극하는 요인이 되었다."
+              "q": "월가 전문가들이 연준의 12월 빅스텝 추진을 무모하다고 비판하는 논리는 무엇인가?",
+              "a": "시차를 두고 나타나는 지나친 금리 인상의 부작용이 실물 경제를 급격한 경기 후퇴로 몰아넣을 수 있다고 보기 때문이다. 현재의 물가 지표가 과도하게 후행적이며 이미 꺾이기 시작한 경기 둔화 신호를 반영하지 못한다는 지적이다."
             },
             {
-              "q": "CPI 발표를 앞둔 시점에서 3대 지수의 상승은 무엇을 시사하는가?",
-              "a": "금리 인상 우려에도 불구하고 시장이 경기 연착륙이나 기업 실적에 대한 신뢰를 바탕으로 저점 매수에 나섰음을 의미한다. 다만 지표 결과에 따라 상승폭을 반납할 가능성도 상존한다."
+              "q": "12월 FOMC에서 빅스텝 여부를 결정지을 최종 분기점은 어디인가?",
+              "a": "FOMC 직전에 발표되는 차기 소비자물가지수와 차기 비농업 부문 고용보고서 결과가 결정적이다. 두 지표에서 물가와 고용의 냉각 신호가 명확히 포착되지 않을 경우 연준은 0.5%포인트 인수를 강행할 가능성이 높다."
             }
           ]
         },
-        "월러 연준": {
-          "headline": "월러 이사 12월 빅스텝 시사 및 매파적 행보 강화",
+        "뉴욕증시 나스닥 급락": {
+          "headline": "CPI 쇼크에 나스닥 급락과 엔비디아 폭락 여파",
           "facts": [
-            "크리스토퍼 월러 미 연준 이사가 12월 통화정책 회의에서 0.5%포인트 금리 인상을 고려할 수 있다는 매파적 발언을 내놓았다.",
-            "월러 이사는 근원 물가 지표가 자신의 기준을 충족할 경우 더 큰 폭의 금리 인상이 필요하다는 점을 강조하며 시장의 긴장감을 높였다.",
-            "비둘기파적 성향으로 분류되던 월러 이사의 이번 발언은 연준 내 긴축 기조가 더욱 공고해지고 있음을 시사하는 대목이다.",
-            "해당 발언 직후 나스닥 선물이 소폭 하락하고 달러화가 반등하는 등 금융 시장이 즉각적인 반응을 보였다."
+            "예상을 웃돈 미국 10월 CPI 발표로 연준의 빅스텝 공포가 시장을 덮치면서 나스닥 지수가 187포인트 급락했다.",
+            "AI 대장주인 엔비디아는 대중국 밀반입 이슈와 악재가 겹치며 이틀간 10% 급락하고 당일에도 5.5%에서 6%대의 폭락세를 기록했다.",
+            "뉴욕증시의 주요 기술주 투매 현상은 필라델피아 반도체 지수 하락으로 이어지며 글로벌 반도체 투자 심리를 크게 위축시켰다.",
+            "뉴욕증시 급락 여파로 5,200선을 회복했던 코스피 지수는 단 하루 만에 다시 강력한 하방 시험대에 올라서게 되었다."
           ],
           "watch": [
-            "월러 이사가 제시한 근원 물가 기준 충족 여부",
-            "연준 내 다른 이사들의 금리 인상 폭 관련 발언",
-            "차기 FOMC에서의 점도표 변화 가능성"
+            "엔비디아 주가의 단기 저점 확보 및 반등 여부",
+            "나스닥 지수의 주요 이동평균선 지지 여부",
+            "미국 기술주 폭락에 따른 국내 반도체주 영향"
           ],
           "qna": [
             {
-              "q": "월러 이사가 언급한 빅스텝 가능성이 시장에 충격을 준 이유는 무엇인가?",
-              "a": "상대적으로 온건한 입장을 취해온 인물이 0.5%포인트 인상이라는 강경한 카드를 꺼내 들었기 때문이다. 이는 연준 내부의 분위기가 예상보다 훨씬 매파적으로 기울었음을 의미한다."
+              "q": "CPI 쇼크와 엔비디아 급락이 나스닥 지수 폭락을 이끈 연쇄 작용은 무엇인가?",
+              "a": "매파적 연준에 대한 공포로 기술주 전반의 밸류에이션 부담이 커진 상황에서 대장주인 엔비디아의 악재가 기름을 부었다. 엔비디아의 이틀간 10% 급락이 AI 기술주 전반에 대한 투매를 유발하며 나스닥 급락으로 이어졌다."
             },
             {
-              "q": "월러 이사의 발언이 나스닥 선물과 달러화에 미친 메커니즘은 무엇인가?",
-              "a": "금리 인상 폭 확대 전망은 기술주 중심의 나스닥에는 할인율 상승 부담으로 작용해 하락을 유도했고 달러화에는 수익률 제고 기대로 매수세를 불러일으켰다."
+              "q": "나스닥 급락이 코스피 5,200선 회복 흐름에 던지는 구체적인 위협은 무엇인가?",
+              "a": "한국 증시는 대미 수출 기술주와 반도체 비중이 높아 뉴욕증시 기술주와의 동조화 현상이 매우 강하다. 나스닥 급락은 외국인 자금의 이탈을 자극해 어렵게 회복한 코스피 5,200선을 하루 만에 위협하는 강력한 하방 압력으로 작용한다."
             },
             {
-              "q": "향후 월러 이사의 발언이 연준 정책 결정에 미칠 영향력은 어느 정도인가?",
-              "a": "월러 이사는 연준 내 핵심 인사로서 그의 발언은 시장의 기대 금리를 조정하는 가이드라인 역할을 한다. 특히 물가 지표와 연동된 그의 발언은 12월 금리 결정의 결정적 변수가 될 전망이다."
+              "q": "급락한 나스닥 지수가 기술적 반등을 이뤄내기 위한 조건은 무엇인가?",
+              "a": "엔비디아를 비롯한 대형 빅테크 기업들의 악재 수습과 주가 방어가 최우선 과제이다. 이와 함께 국채 금리의 상승세가 정체되고 연준의 빅스텝 우려를 완화할 완화적 발언이 나와야 시장이 진정될 수 있다."
             }
           ]
         }
       },
       "news": {
-        "금리 인상": [
+        "미국 CPI 예상 상회": [
           {
-            "title": "월러 연준 이사 \"12월 금리인상 지지\"…CPI 따라 50bp 인상도 고려\" - 머니투데이 - 머니투데이",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OYVlRbXk0MUpPQmtQMUgyT3FBTmhqUC1TS2YwVm9yQ3dBUmxWek44Unh2NFMtTE9PbnQ3RUFJZmMzVmh6T29LQ1kzaTlDaVFFYjhtSHB4M3NjdUxhdDdTeElULUY0THdn0gFuQVVfeXFMTy15MlRObVZOMlZUZkowSUdwOFUza0lDNXBudGhJeHoybEl2UDl3WFRpZGdLX2h4ZUVURDFxb3RvNDV1bk1EekNMMnpoaF9WRXJ2LXdJT2hLT0JXMmNUeDNFT1V3OWowZEo3UEtmeXc?oc=5",
-            "source": "머니투데이",
-            "published": "11-10 21:47",
-            "snippet": "월러 연준 이사 \"12월 금리인상 지지\"…CPI 따라 50bp 인상도 고려\" - 머니투데이 머니투데이 美연준 월러 이사 \"12월 50bp 인상도 고려\"…'빅스텝' 거론 연합뉴스 댈러스 연은 총재 \"금리 최소 두 차례 더 인상해야\" 연합뉴스TV 리치먼드 연은 총재 \"물가 상승에 적응…12월 FOMC 기본 시나리오 없다\" 연합인포맥스 연준 슈미드 총재, 인플레이션 억제 위해 긴축 정책 지지 Investing.com 한국어"
+            "title": "[속보] 美 반도체 지수 0.35% 하락…美 CPI 예상 상회·연준 0.5%p 인상 가능성 - 한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VRWFCNTBtMkRSNWhheW5TMFdzVm1jNnZBV3FEUFJETjA4Q3RVdi13TTd6MWluNF9sTmtDUW5lZWlpSUltZUxKWFNCT29pNlNQZE1qWEh2N0dLUQ?oc=5",
+            "source": "한국경제",
+            "published": "11-11 06:07",
+            "snippet": "[속보] 美 반도체 지수 0.35% 하락…美 CPI 예상 상회·연준 0.5%p 인상 가능성 한국경제"
           },
           {
-            "title": "달러화, 월러 연준 이사 금리 인상 발언에 반등 - 글로벌이코노믹",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdmtpWWRrZERLR3JnYkthZFAxc1ZFNWR5ZnpqOFcydEFUc1hnb1ljUllJTDJPVmR0bHBuM0ZEZTZ1WjFiM1AxVXFnQkVXTXgyU2ZfdmVQSHJfME9ldURwYjJJOGRwWTZSTU9aM3RqNjhXUy10SmdIc2h6ZjZHYUdLYnBVQzFaZ1c4?oc=5",
-            "source": "글로벌이코노믹",
-            "published": "11-11 02:00",
-            "snippet": "달러화, 월러 연준 이사 금리 인상 발언에 반등 글로벌이코노믹"
+            "title": "원·달러 NDF 5.5원 상승, 미 CPI 예상상회+연준 인사들 매파 발언 - 이투데이",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VU1NJblR6d0xocFZWUFpLVzZYUXlxREs1eEtoal9fUGV4Mkl4amozaUNsS01ZRC1DNmNwVVRUNXJvbzlhSGdOYU1GeTZnMmhDSEFPMw?oc=5",
+            "source": "이투데이",
+            "published": "11-11 07:39",
+            "snippet": "원·달러 NDF 5.5원 상승, 미 CPI 예상상회+연준 인사들 매파 발언 이투데이"
           },
           {
-            "title": "미국 10월 소비자물가 0.4% 상승…연준 12월 금리 인상 전망 강화, 0.5%포인트론 재부상 - 아시아투데이",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2MzVoa2RYM2pJVURiTFpMMHhaaGJhOVdSRFZadnZhSWUyQkN1QXVtUG9kLUpUMFZtZ21GWFZnU1hkU0g3Vzc3YXotS2s0Z0V3OWZnbnplZjExUHdZaXZfckpaMHhxcXZsNG81VER3?oc=5",
-            "source": "아시아투데이",
-            "published": "11-11 01:06",
-            "snippet": "미국 10월 소비자물가 0.4% 상승…연준 12월 금리 인상 전망 강화, 0.5%포인트론 재부상 아시아투데이"
+            "title": "[속보]美 CPI 예상 상회에 연준 '빅스텝' 부상…나스닥 0.74% 하락 마감 - 뉴스1",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPWEV5cy1sZTIzTldVUkhDTkZfTF9LX00wRGlDcndwMi1rcWFvZWZJczdqMVRpc3JTTzhjYnJtOUdKanpWRWJPY3JLQnV4VTdGaTIxLS1DMnZVc1FYM1JnQTQ5cHBhcms?oc=5",
+            "source": "뉴스1",
+            "published": "11-11 06:01",
+            "snippet": "[속보]美 CPI 예상 상회에 연준 '빅스텝' 부상…나스닥 0.74% 하락 마감 뉴스1"
           },
           {
-            "title": "'비둘기' 월러 美 연준 이사, 12월 0.5%p 금리 인상 시사 - 파이낸셜뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PT05DZ2gtU2NOTVNycDhwUDlFaHlua0NiY1lXcEtQeVc5UTJZNEtSMS03OHFFb2JWNkZPZ0R6ZFJ4WEFDa3JBN1hsZW1Ra0R3Zk9QSDYyem1Fdw?oc=5",
-            "source": "파이낸셜뉴스",
-            "published": "11-11 03:35",
-            "snippet": "'비둘기' 월러 美 연준 이사, 12월 0.5%p 금리 인상 시사 파이낸셜뉴스"
+            "title": "美 10월 CPI, 전월비 0.4% 상승…예상치 웃돌아(종합) - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10TmZvS3FCVzdNZVY0NmhuRElNUXgxOFAtRjBUNlJYX2RqU1hIU1ZvdzJFOTEtRGI3aGxaX01uMUcyU1U1QWRNbkRPS2xfN1BDcEZsdldaeUY3dmxjNGNpcGpPaUpCUjNUS1lGeF9ZN0E?oc=5",
+            "source": "연합인포맥스",
+            "published": "11-11 02:10",
+            "snippet": "美 10월 CPI, 전월비 0.4% 상승…예상치 웃돌아(종합) 연합인포맥스 [속보]이틀간 10% 급락 엔비디아…나스닥 0.74%↓ 문화일보 예상 웃돈 美 물가에 뉴욕 증시 일제히 하락…나스닥 0.74%↓ 조선일보 소비자물가 예상치 웃돌아…연준 “12월 0.5%p 인상도 고려” KBS 뉴스 미 물가, 예상 웃돌며 '빅스텝' 가능성...'AI 풍향계' 코어위브 매출 전망치 상회 YTN"
           },
           {
-            "title": "도이체방크 \"연준, 12월·1월·3월 세 차례 연속 금리 인상 전망\" - 블루밍비트",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Pc2pldHdRRmpIU3B5bzFjZkZFdDZfa3JCQTVadmdIc3ZqcnpKbE83LVJfVmpwSXh1S3QxNExETjRiVEcyUjB1OERnZ0x5aGEw?oc=5",
-            "source": "블루밍비트",
-            "published": "11-11 03:38",
-            "snippet": "도이체방크 \"연준, 12월·1월·3월 세 차례 연속 금리 인상 전망\" 블루밍비트"
-          },
-          {
-            "title": "골드만삭스 \"연준 금리 인상, 2027년까지 이어질 수 있어\" - 블루밍비트",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQNWRWS19xSnZfWlRKdTczSmFCakdyWVJTVEVSR2RHUnB0WEt3aUhXLWtUYTRrYXRDVlBGOVZLaWNuYWE1WGFXY0VvVWNnV0NS?oc=5",
-            "source": "블루밍비트",
-            "published": "11-10 23:02",
-            "snippet": "골드만삭스 \"연준 금리 인상, 2027년까지 이어질 수 있어\" 블루밍비트"
-          }
-        ],
-        "3대 지수": [
-          {
-            "title": "뉴욕증시, 물가 상승 압력에 약세… 3대 지수 하락 출발 - Chosunbiz",
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY21QS1RNZXB0SE5SbldodEZSXzRDOHZuUzkwVzZkSUtpUVpiRjBycllTSFc2M3FnR3UyZWtiaThTYlFtLWd4QklZbWJ2ZjBidURVbXZocS1mY1QzR2pBZWhhbVZIOFZWWFRyT2ZvdkZabUtaWFFZcDdYeWFxZlZZSUVLYzA2SWFkaWlYUDBLbTBHeTJjM1c2SEo0UkVkZw?oc=5",
-            "source": "Chosunbiz",
-            "published": "11-11 01:28",
-            "snippet": "뉴욕증시, 물가 상승 압력에 약세… 3대 지수 하락 출발 Chosunbiz"
-          },
-          {
-            "title": "[3분증시] 뉴욕증시, 저가 매수에 3대 지수 상승 - 연합뉴스TV",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WY1ZaUkhfb2l2eEpKT0NLbUM3clBIb1dTcW5YcWkyaEdaODJSakxESzZ0YkhxSVJBUWc1NVJoOEJ0aktyUDRwYjIydEhrQThPbUROcEd0T0VXak9BckIySHQ5X1RqSFk?oc=5",
+            "title": "[3분증시] 뉴욕증시, CPI 상회·매파 발언에 동반 하락 - 연합뉴스TV",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GSmxvMVltRkhoUWFoaUY3dnVQeXlnOTdwejdZOWszaktnZnFMRGpnam9RNVl5cVRlRzV6a0hUM25nb01UQmxkWEZDVEpLaXZGTU9UQ0FleEQ0QXVKWlM0bnFySGpSZ28?oc=5",
             "source": "연합뉴스TV",
-            "published": "11-10 07:52",
-            "snippet": "[3분증시] 뉴욕증시, 저가 매수에 3대 지수 상승 연합뉴스TV"
+            "published": "11-11 07:54",
+            "snippet": "[3분증시] 뉴욕증시, CPI 상회·매파 발언에 동반 하락 연합뉴스TV"
           },
           {
-            "title": "(뉴욕증시) 3대 지수 2%대 급등 … 엔비디아만 4.27% 급락 - 경제 - koreadailytimes.com",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5odmdlUXVFTTBqelVGSTB5Vkd6eEdhazlBRTFSWXUzZzlqV3huOEtaR0RuajhnS2w0b092UVFkUkxjVElzeU5Ldw?oc=5",
-            "source": "koreadailytimes.com",
-            "published": "11-10 13:49",
-            "snippet": "(뉴욕증시) 3대 지수 2%대 급등 … 엔비디아만 4.27% 급락 - 경제 koreadailytimes.com"
-          },
-          {
-            "title": "뉴욕증시, 유가 급락·기술주 저가매수에 3대 지수 일제히 급등 - 서울경제TV",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBbDhkUG5lQ0tlOXotcnJ2X0s0NEt3VG8teHRCQ3ZFWlNXWGtDZ1k5WGdYSnFVV3pTbllJSldaSWhkTDJ2cFU3ZHdoS3dHQnVBbVoydVI2T0F5dTRrOC1IaXR1ZWI?oc=5",
-            "source": "서울경제TV",
-            "published": "11-10 08:43",
-            "snippet": "뉴욕증시, 유가 급락·기술주 저가매수에 3대 지수 일제히 급등 서울경제TV"
-          },
-          {
-            "title": "[뉴욕 인사이트] 저가 매수세에 뉴욕증시 급반등… 3대 지수 일제히 상승 (영상) - Investing.com 한국어",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WaVVYejZ1cl95RFY4N1F2ZjRMX1RNTzRERFZ2MzAwSk9Ib05YUnZMUTl6OHkyRHR4Tjh6cUx4MjhhTDlNSUFvR0tubV90eW1zek51dkw1UWMtNzRzNE95Qw?oc=5",
-            "source": "Investing.com 한국어",
-            "published": "11-10 09:51",
-            "snippet": "[뉴욕 인사이트] 저가 매수세에 뉴욕증시 급반등… 3대 지수 일제히 상승 (영상) Investing.com 한국어"
-          },
-          {
-            "title": "미국 소비자물가지수(CPI) 발표를 앞두고 연준 금리 인상 기대감이 커지면서 비트코인(BTC) 가격 하락 - CoinDesk",
-            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbVZrYmItTmtRNnFmWGM1aDVMLUZSQjdsLU5WNkYxOWcxU2I2MW1kYmpKNUtibHdFa3VOS2Vkb21WRkh0eUdsZjZhU2FQbDM4UEZrQ1o5N3JQdGhqdkMxUERwMFoxM1V4QkpLT053NVZLZVFZb0U1N3ZqYVUtNzE0Z09FX19OcjYyeUpTUXJXT3pNSlZod25zX1dKSVg3ZEMzR3QtNjZJamJfOHlRdkYxYXpnTzVzZ2lLMWdSTldpRVV2bVBf?oc=5",
-            "source": "CoinDesk",
-            "published": "11-10 19:48",
-            "snippet": "미국 소비자물가지수(CPI) 발표를 앞두고 연준 금리 인상 기대감이 커지면서 비트코인(BTC) 가격 하락 CoinDesk"
+            "title": "美 10월 물가도 예상치 상회…12월 FOMC ‘빅스텝’도 거론 - 동아일보",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xdkJFYjhRY0Nkb3VUS0dKN1JTaUlhWFBjSVdDWVhUOGZMc2JBWWxSSzJ5ZkFCSXVUb1J0eXVnamNLMWFKQkRSaHVxYnItUGlRdkQwYjJPMFI0NW9iTWl6Z3M0c3Zjd2ZaOUdIUjdySlR0LWfSAWZBVV95cUxQdjktV1Z3elRfYW93bUVmSHhuM0N3SHRJbGVya3h1WV9PMUJmRkFMWkkxeUxtSzJQZk9WcjVJcFhtM0F3N0FpM2I2SVNqeXpwWmxqeDJlaU9LUXV3R0U5N1FqcGJqQnc?oc=5",
+            "source": "동아일보",
+            "published": "11-11 06:51",
+            "snippet": "美 10월 물가도 예상치 상회…12월 FOMC ‘빅스텝’도 거론 동아일보"
           }
         ],
-        "월러 연준": [
+        "연준 12월 빅스텝 우려": [
           {
-            "title": "월러 연준 이사 \"12월 금리인상 지지\"…CPI 따라 50bp 인상도 고려\" - 머니투데이 - 머니투데이",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OYVlRbXk0MUpPQmtQMUgyT3FBTmhqUC1TS2YwVm9yQ3dBUmxWek44Unh2NFMtTE9PbnQ3RUFJZmMzVmh6T29LQ1kzaTlDaVFFYjhtSHB4M3NjdUxhdDdTeElULUY0THdn0gFuQVVfeXFMTy15MlRObVZOMlZUZkowSUdwOFUza0lDNXBudGhJeHoybEl2UDl3WFRpZGdLX2h4ZUVURDFxb3RvNDV1bk1EekNMMnpoaF9WRXJ2LXdJT2hLT0JXMmNUeDNFT1V3OWowZEo3UEtmeXc?oc=5",
-            "source": "머니투데이",
-            "published": "11-10 21:47",
-            "snippet": "월러 연준 이사 \"12월 금리인상 지지\"…CPI 따라 50bp 인상도 고려\" - 머니투데이 머니투데이 美연준 월러 이사 \"12월 50bp 인상도 고려\"…'빅스텝' 거론 연합뉴스 댈러스 연은 총재 \"금리 최소 두 차례 더 인상해야\" 연합뉴스TV 리치먼드 연은 총재 \"물가 상승에 적응…12월 FOMC 기본 시나리오 없다\" 연합인포맥스 연준 슈미드 총재, 인플레이션 억제 위해 긴축 정책 지지 Investing.com 한국어"
+            "title": "뉴욕증시, 연준 '빅스텝' 우려·엔비디아 급락에 하락 마감 - 뉴스핌",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXd3JGN1pKdWJHOEhPRFBSZ3JsZV9IU1hOdnJ1MGphYzZtMUdKY1p1UW9NVFRSSVdvWmMzd2VMd1FIMDJRbWFxR0tnMHZJNEpoU3EwR3NDdTZSdlBM?oc=5",
+            "source": "뉴스핌",
+            "published": "11-11 06:23",
+            "snippet": "뉴욕증시, 연준 '빅스텝' 우려·엔비디아 급락에 하락 마감 뉴스핌"
+          },
+          {
+            "title": "월가 전문가 \"연준, 잘못된 인플레와 싸워…12월 빅스텝은 무모\" - KB Think",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qSlNtb1dqNjBEamtmWmsybUlVdF9vT0d6cmFZMnZxaHRna3FvVnVBZEpqb3pYbnBabmprQlJYbk0wN2dDZXh5ckZnRzQwbXNMNUw0a2FaREpnNy1VX3dQMUF3T0xwWExET2NUT253VFRydw?oc=5",
+            "source": "KB Think",
+            "published": "11-11 08:06",
+            "snippet": "월가 전문가 \"연준, 잘못된 인플레와 싸워…12월 빅스텝은 무모\" KB Think"
+          },
+          {
+            "title": "물가·연준 '빅스텝' 우려에 뉴욕증시 하락…나스닥 0.7%↓(종합) - 매일경제 마켓",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ic0tkSXFLUmFncmVrTG91QjRidC1nOEVFUy1ERl9mUEVrVm5fN2loMG1Ld2JaMndBN3g4X2JKY0JHelFaQjVQZC15UHJSN1R5dUE?oc=5",
+            "source": "매일경제 마켓",
+            "published": "11-11 07:26",
+            "snippet": "물가·연준 '빅스텝' 우려에 뉴욕증시 하락…나스닥 0.7%↓(종합) 매일경제 마켓"
+          },
+          {
+            "title": "[국제경제 흐름 읽기] 미국 연준, 인플레 우려에 내달 금리인상 전망-일부 빅스텝 가능성도 제기 - 포커스온경제",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GSC1fZnBtRzE0TS1uYUlPRFdCQXF3NXFSU2haWGx0VmV3dF92bTFBR1E1MUVlN1Bfczl5UGNlZG5lUFJWNkhicUFEQ2p6dktkTTZjNWdWRzk5VFhQWVE?oc=5",
+            "source": "포커스온경제",
+            "published": "11-11 07:26",
+            "snippet": "[국제경제 흐름 읽기] 미국 연준, 인플레 우려에 내달 금리인상 전망-일부 빅스텝 가능성도 제기 포커스온경제"
+          },
+          {
+            "title": "[뉴욕마감]CPI 상승·연준 '빅스텝' 우려에 나스닥 0.74% 하락 - 뉴스1",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51N3RSVy1TRjdNQ0piSW50ZTJJWUltSzNHODd1VUFfcFJZMTVlaTN0aC1ib2VJZ3FvVlFDMERNMWJJRTJiUVB2dEk3T2R2SXU4LWwtWXE3UGpITWgxXzJ5S0JFRk5JQzA?oc=5",
+            "source": "뉴스1",
+            "published": "11-11 06:47",
+            "snippet": "[뉴욕마감]CPI 상승·연준 '빅스텝' 우려에 나스닥 0.74% 하락 뉴스1"
           },
           {
             "title": "'빅스텝' 거론까지‥미 연준 월러 \"12월 0.5% 인상도 고려\" - MBC 뉴스",
@@ -448,304 +434,310 @@
             "source": "MBC 뉴스",
             "published": "11-11 02:00",
             "snippet": "'빅스텝' 거론까지‥미 연준 월러 \"12월 0.5% 인상도 고려\" MBC 뉴스"
-          },
+          }
+        ],
+        "뉴욕증시 나스닥 급락": [
           {
-            "title": "달러화, 월러 연준 이사 금리 인상 발언에 반등 - 글로벌이코노믹",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdmtpWWRrZERLR3JnYkthZFAxc1ZFNWR5ZnpqOFcydEFUc1hnb1ljUllJTDJPVmR0bHBuM0ZEZTZ1WjFiM1AxVXFnQkVXTXgyU2ZfdmVQSHJfME9ldURwYjJJOGRwWTZSTU9aM3RqNjhXUy10SmdIc2h6ZjZHYUdLYnBVQzFaZ1c4?oc=5",
+            "title": "[뉴욕증시] CPI 쇼크에 연준 ‘빅스텝 공포’…나스닥 187P·엔비디아 5.5% 급락 - 글로벌이코노믹",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT0VndVhEdTdTNklfaFYtZ1dQNTJfOC1KYnpuLVlhSW9LSDlPdEk1MUY1dEY1X3NxbDN4elN4SmVfUThIOG4yRmxERDczRk9DRTRsNXRSNXpKNTk2YnNuT0c2RDU1QWZZVGc2cGpOOEZGY1hSV1ctOEp2QmZXekdIUGpqY1JVQXpK?oc=5",
             "source": "글로벌이코노믹",
-            "published": "11-11 02:00",
-            "snippet": "달러화, 월러 연준 이사 금리 인상 발언에 반등 글로벌이코노믹"
+            "published": "11-11 06:33",
+            "snippet": "[뉴욕증시] CPI 쇼크에 연준 ‘빅스텝 공포’…나스닥 187P·엔비디아 5.5% 급락 글로벌이코노믹"
           },
           {
-            "title": "'비둘기' 월러 美 연준 이사, 12월 0.5%p 금리 인상 시사 - 파이낸셜뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PT05DZ2gtU2NOTVNycDhwUDlFaHlua0NiY1lXcEtQeVc5UTJZNEtSMS03OHFFb2JWNkZPZ0R6ZFJ4WEFDa3JBN1hsZW1Ra0R3Zk9QSDYyem1Fdw?oc=5",
-            "source": "파이낸셜뉴스",
-            "published": "11-11 03:35",
-            "snippet": "'비둘기' 월러 美 연준 이사, 12월 0.5%p 금리 인상 시사 파이낸셜뉴스"
+            "title": "美물가 쇼크에 나스닥 하락·엔비디아 6% 급락…코스피 5200선 회복 하루 만에 시험대 - 녹색경제신문",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tcHI3U3JIbkdDT0hMZ2FNenJKcmhXOC15bGlMWmEtWU1NQ1pueGE3OTMwTXFwQkgySUVwRXU0Ymc0LWZxSUxlOGljNGRfTGY4N3lkTktpcGVWQWdNLV91RS1RakVhSjha?oc=5",
+            "source": "녹색경제신문",
+            "published": "11-11 06:59",
+            "snippet": "美물가 쇼크에 나스닥 하락·엔비디아 6% 급락…코스피 5200선 회복 하루 만에 시험대 녹색경제신문"
           },
           {
-            "title": "미 연준 '빅스텝' 가능성 부상…미 근원 물가, '월러 기준' 충족 - 뉴스핌",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96WlQ5bDllRVM4QUJzSGJRdUtGZ25XWGJ2aldfcHY0VGM2NGJvc0dEM1VHWDBzdnZKSHYyTnFiY2h3ZWFnUUg5cEczOHQzcjR0NkZlcHFPNlV0bFJa?oc=5",
+            "title": "예상 웃돈 물가에 뉴욕증시 일제히 하락…나스닥 0.7%↓ - 연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xVnhYM1lxNjRlbjVrWThJVnJ4NHJwaVYzT2JYVWljUU41ZHJSLWFUQTlKWTR2NWZYcjNLZjNWbDY3NUxvbjR6cjVfd2RsVnptTlhyN0xhMWhVbVdUNUNCa9IBYEFVX3lxTE4xVnhYM1lxNjRlbjVrWThJVnJ4NHJwaVYzT2JYVWljUU41ZHJSLWFUQTlKWTR2NWZYcjNLZjNWbDY3NUxvbjR6cjVfd2RsVnptTlhyN0xhMWhVbVdUNUNCaw?oc=5",
+            "source": "연합뉴스",
+            "published": "11-11 06:23",
+            "snippet": "예상 웃돈 물가에 뉴욕증시 일제히 하락…나스닥 0.7%↓ 연합뉴스"
+          },
+          {
+            "title": "뉴욕증시, 연준 '빅스텝' 우려·엔비디아 급락에 하락 마감 - 뉴스핌",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXd3JGN1pKdWJHOEhPRFBSZ3JsZV9IU1hOdnJ1MGphYzZtMUdKY1p1UW9NVFRSSVdvWmMzd2VMd1FIMDJRbWFxR0tnMHZJNEpoU3EwR3NDdTZSdlBM?oc=5",
             "source": "뉴스핌",
-            "published": "11-11 02:41",
-            "snippet": "미 연준 '빅스텝' 가능성 부상…미 근원 물가, '월러 기준' 충족 뉴스핌"
+            "published": "11-11 06:23",
+            "snippet": "뉴욕증시, 연준 '빅스텝' 우려·엔비디아 급락에 하락 마감 뉴스핌"
           },
           {
-            "title": "월러 연준 이사 발언에 나스닥 선물 소폭 하락…미 CPI 주목 - Investing.com 한국어",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHSlNsd3hBV0JvSkttdU04NFpoRlpLanJ2d1N1ODJiOThjeDV3WDhXeURPVHZ3THBzOEtWbmUwOEhCY2xud1ROSW00VjdGRmNBcFZrOW1hRzdaeWNQdFA0UlZYV2pMb1RXMjhmejFVdG0?oc=5",
-            "source": "Investing.com 한국어",
-            "published": "11-10 09:13",
-            "snippet": "월러 연준 이사 발언에 나스닥 선물 소폭 하락…미 CPI 주목 Investing.com 한국어"
+            "title": "[속보]이틀간 10% 급락 엔비디아…나스닥 0.74%↓ - 문화일보",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ycDJwNnlKTjgtTjRQQTBFM09iMkNUTkJ6cFR6dWs2bWpxRmZkTE1iblUtaVNLYXBGMU5fZC1jMkpPeXBVcU0wMm5RMUlNXzl6?oc=5",
+            "source": "문화일보",
+            "published": "11-11 06:20",
+            "snippet": "[속보]이틀간 10% 급락 엔비디아…나스닥 0.74%↓ 문화일보"
+          },
+          {
+            "title": "물가·연준 '빅스텝' 우려에 뉴욕증시 하락…나스닥 0.7%↓(종합) - 매일경제 마켓",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ic0tkSXFLUmFncmVrTG91QjRidC1nOEVFUy1ERl9mUEVrVm5fN2loMG1Ld2JaMndBN3g4X2JKY0JHelFaQjVQZC15UHJSN1R5dUE?oc=5",
+            "source": "매일경제 마켓",
+            "published": "11-11 07:26",
+            "snippet": "물가·연준 '빅스텝' 우려에 뉴욕증시 하락…나스닥 0.7%↓(종합) 매일경제 마켓"
           }
         ]
       },
       "queries": {
-        "금리 인상": [
-          "금리 인상 수혜주",
-          "금리 인상 가능성",
-          "금리 인상 의미",
-          "금리 인상 효과",
-          "금리 인상 확률",
-          "금리 인상 주식 관계",
-          "금리 인상 발표",
-          "금리 인상 환율"
+        "미국 CPI 예상 상회": [
+          "미국 cpi",
+          "미국 cpi 발표 일정",
+          "미국 cpi 발표",
+          "미국 cpi 지수",
+          "미국 cpi 발표 한국시간",
+          "미국 cpi 발표 결과",
+          "미국 cpi 발표 예상",
+          "미국 cpi 발표 시간"
         ],
-        "3대 지수": [
-          "3대 유가 지수",
-          "미국 3대 지수",
-          "미국 주식 3대 지수",
-          "미국의 3대 지수",
-          "뉴욕 증시 3대 지수",
-          "뉴욕 3대 지수",
-          "세계 3대 지수"
+        "연준 12월 빅스텝 우려": [
+          "연준 12월 금리 인하",
+          "연준 12월 금리",
+          "연준 12월 fomc",
+          "연준 12월",
+          "연준 12월 금리 발표",
+          "연준 12월 금리 발표일",
+          "연준 12월 금리인하 확률",
+          "연준 12월 일정"
         ],
-        "월러 연준": [
-          "월러 연준 이사",
-          "월러 연준 12월 금리 인하",
-          "월러 연준 의장",
-          "크리스토퍼 월러 연준 이사",
-          "크리스토퍼 월러 연준",
-          "연준 월러 이사 연설"
+        "뉴욕증시 나스닥 급락": [
+          "뉴욕증시 나스닥 차이",
+          "뉴욕증시 나스닥"
         ]
       }
     },
     "keywords": [
-      "코스피 코스닥",
-      "매수 사이드카",
-      "4%대 급등",
-      "금리 인상",
-      "3대 지수",
-      "월러 연준"
+      "엔비디아 칩 중국 밀반입",
+      "코스피 매수 사이드카",
+      "강남 아파트값 하락",
+      "미국 CPI 예상 상회",
+      "연준 12월 빅스텝 우려",
+      "뉴욕증시 나스닥 급락"
     ],
     "results": {
-      "코스피 코스닥": {
-        "headline": "코스피 5300선 돌파 및 4%대 동반 급등",
+      "엔비디아 칩 중국 밀반입": {
+        "headline": "10조 원대 AI 칩 밀반입 논란과 오너 리스크 확산",
         "facts": [
-          "코스피와 코스닥 지수가 미국발 훈풍에 힘입어 4거래일 만에 반등하며 나란히 4%대 급등세를 기록했다.",
-          "코스피 지수는 장중 5300선을 돌파하는 기염을 토했으며 삼성전자와 SK하이닉스가 각각 4~6%대 상승하며 지수 견인차 역할을 했다.",
-          "급격한 지수 상승으로 인해 코스피와 코스닥 시장 모두에서 프로그램 매수 호가 효력을 일시 정지하는 매수 사이드카가 발동되었다.",
-          "이번 반등은 최근 3거래일간 이어진 하락세를 딛고 일어선 것으로 시장의 저가 매수세 유입과 미국 시장의 긍정적 영향이 복합적으로 작용했다."
+          "엔비디아 최고경영자의 개인적 관계를 악용해 10조 원 규모의 최첨단 엔비디아 AI 반도체 칩이 중국으로 밀반입된 정황이 수면 위로 드러났다.",
+          "미국의 대중국 반도체 수출 규제를 우회한 대규모 유출 사건이 발각되면서 엔비디아를 둘러싼 오너 리스크와 내부 통제 실패에 대한 시장의 우려가 급증했다.",
+          "경쟁사인 구글과 AMD는 엔비디아가 오너 리스크와 규제 리스크로 흔들리는 틈을 타 자체 AI 생태계와 파트너십을 공격적으로 확장하고 있다.",
+          "국내 시장에서는 엔비디아가 SK텔레콤, 리벨리온 등 한국 주요 기업들과 AI 인프라 삼각 동맹을 구축하며 기술 협력 방안을 모색하고 있다."
         ],
         "watch": [
-          "코스피 5300선 안착 여부와 추가 상승 동력",
-          "삼성전자 및 SK하이닉스의 외국인 매수세 지속성",
-          "미국 소비자물가지수 발표에 따른 시장 변동성"
+          "미국 정부의 엔비디아 대상 대중국 규제 위반 조사 결과",
+          "AMD 및 구글의 AI 칩 시장 점유율 침투 속도",
+          "SKT·리벨리온 등 국내 AI 인프라 동맹의 실질적 성과"
         ],
         "qna": [
           {
-            "q": "장중 코스피 5300선 돌파가 시장에 주는 기술적 의미는 무엇인가?",
-            "a": "4거래일 만에 하락세를 끊어내고 심리적 저항선인 5300선을 돌파한 것은 하락 추세의 반전을 시사한다. 특히 대형 반도체주의 강한 반등이 동반되어 지수의 하방 경직성을 확보한 것으로 평가된다."
+            "q": "10조 원대 칩 밀반입 사건이 엔비디아의 시장 독점 구조에 어떤 균열을 만드는가?",
+            "a": "미국의 엄격한 수출 제재를 우회한 대규모 유출로 인해 엔비디아는 미국 정부의 강력한 조사와 법적 규제에 직면했다. 이 과정에서 발생한 오너 리스크는 구글과 AMD 등 후발 주자들이 고성능 AI 칩 시장에서 입지를 넓히는 결정적인 계기가 되고 있다."
           },
           {
-            "q": "매수 사이드카가 양 시장에서 동시에 발동된 배경은 무엇인가?",
-            "a": "선물 가격이 전일 종가 대비 5% 이상 상승한 상태가 1분간 지속되면서 프로그램 매수세가 급격히 유입되었기 때문이다. 이는 시장의 과열을 잠시 식히고 변동성을 완화하기 위한 거래소의 조치이다."
+            "q": "중국 밀반입 이슈가 한국 AI 인프라 생태계에는 어떠한 파급 효과를 미치는가?",
+            "a": "엔비디아의 글로벌 공급망 및 규제 리스크가 고조되면서 SK텔레콤과 리벨리온 등 국내 기업들과의 인프라 협업 가치가 더욱 부각되고 있다. 국산 AI 반도체 스타트업들은 엔비디아 의존도를 낮추려는 글로벌 수요를 흡수해 자체 생태계를 확대할 기회를 맞이했다."
           },
           {
-            "q": "반도체 대형주가 지수 급등을 주도한 구체적인 원인은 무엇인가?",
-            "a": "미국 증시의 훈풍과 더불어 삼성전자와 SK하이닉스에 대한 저가 매수세가 유입되며 각각 4%와 6% 이상의 높은 상승률을 기록했다. 반도체 업황 회복 기대감이 지수 전체의 상승 에너지를 공급했다."
+            "q": "향후 엔비디아의 기업 가치를 결정지을 핵심 분기점은 무엇인가?",
+            "a": "미국 규제 당국의 제재 수위와 함께 오너 리스크를 조기에 수습하고 내부 통제 시스템을 강화할 수 있는지가 관건이다. 동시에 경쟁사들의 추격을 꺾고 차세대 AI 인프라 주도권을 유지할 수 있는 기술적 격차 증명이 필요하다."
           }
         ]
       },
-      "매수 사이드카": {
-        "headline": "코스피·코스닥 급등에 매수 사이드카 동시 발동",
+      "코스피 매수 사이드카": {
+        "headline": "미국 반도체 훈풍에 코스피·코스닥 매수 사이드카 발동",
         "facts": [
-          "코스피와 코스닥 지수가 4% 이상 폭등하면서 프로그램 매수 호가의 효력을 일시 정지하는 매수 사이드카가 잇따라 발동되었다.",
-          "코스피 시장에서는 선물 가격이 전일 종가 대비 5% 이상 급등한 상태가 유지됨에 따라 오전 중 사이드카가 발동되어 거래를 진정시켰다.",
-          "삼성전자가 5%, SK하이닉스가 7% 가까이 급등하는 등 시가총액 상위 반도체 종목들의 강세가 프로그램 매수세를 자극했다.",
-          "미국 선거 이후의 불확실성을 해소하고 저가 매수세가 강력하게 유입되면서 4거래일 만에 시장 분위기가 급반전되었다."
+          "미국 증시의 반도체주 강세 훈풍에 힘입어 삼성전자와 SK하이닉스가 4%에서 6%대 급등하며 국내 증시의 상승세를 강력하게 견인했다.",
+          "코스피와 코스닥 지수가 동시에 4%대 급등세를 나타내면서 양 시장 모두에 프로그램 매수 호가 효력을 정지하는 매수 사이드카가 발동되었다.",
+          "미국 선거 관련 불확실성과 시장 충격을 이겨내고 4거래일 만에 강한 반등에 성공하며 투자 심리가 급격히 회복되는 모습을 보였다.",
+          "증시가 대폭 호조를 보인 가운데 채권시장에서는 외국인 매수세가 유입되며 금리가 하락하는 강세 플래트닝 현상이 동시에 나타났다."
         ],
         "watch": [
-          "프로그램 매수세 유입 강도 및 지속 가능성",
-          "사이드카 해제 이후 지수의 추가 상승 여력",
-          "외국인과 기관의 순매수 포지션 변화 추이"
+          "코스피 상장 대형 반도체주의 추가 상승 여력",
+          "매수 사이드카 발동 이후 외국인 수급의 지속성",
+          "채권시장 금리 하락과 증시 급등의 동조화 유지 여부"
         ],
         "qna": [
           {
-            "q": "매수 사이드카가 발동되는 구체적인 요건과 절차는 무엇인가?",
-            "a": "코스피 기준 선물 가격이 기준가 대비 5% 이상 상승하여 1분간 지속될 때 발동되며 5분간 프로그램 매수 호가의 효력이 정지된다. 이는 급격한 가격 변동으로부터 시장을 보호하기 위한 안전장치이다."
+            "q": "반도체 대형주 급등이 증시 전체의 매수 사이드카 발동으로 이어진 메커니즘은 무엇인가?",
+            "a": "미국 반도체지수 상승 훈풍으로 시가총액 비중이 절대적인 삼성전자와 SK하이닉스에 외국인 매수세가 집중되었다. 주가지수 선물 가격이 급등하면서 선물과 연계된 프로그램 매수 호가가 폭발했고, 시장 과열을 식히기 위해 사이드카가 즉각 발동되었다."
           },
           {
-            "q": "이번 사이드카 발동이 단순 기술적 반등 이상의 의미를 갖는가?",
-            "a": "4거래일간의 하락을 딛고 발생한 강력한 반등 신호로 미국 선거 충격을 극복하려는 시장의 의지가 반영된 결과이다. 특히 반도체 대형주 중심의 매수세가 집중되며 지수 하단을 견고하게 지지했다."
+            "q": "증시 급등 상황에서 채권 금리가 오히려 하락한 역설적 현상의 원인은 무엇인가?",
+            "a": "주식 시장의 위험 선호 심리 부활에도 불구하고 채권 시장으로 외국인의 자금 유입이 대규모로 지속되었기 때문이다. 외국인 국채 매수세가 장기물 금리를 눌러 채권 가격이 상승했고, 이에 따라 증시 상승과 금리 하락이 동시에 발생했다."
           },
           {
-            "q": "사이드카 발동 이후 시장의 매수세는 어떤 방향으로 전개되는가?",
-            "a": "일시적인 호가 정지 이후에도 매수세가 유지될 경우 지수는 추가 상승을 시도하며 안착 과정을 거친다. 다만 급등에 따른 차익 실현 매물이 출현할 수 있어 거래량 변화를 주시해야 한다."
+            "q": "4거래일 만의 반등이 단기 반등을 넘어 추세적 상승으로 이어지기 위한 조건은 무엇인가?",
+            "a": "반도체 이외의 다른 주력 업종으로 온기가 확산하고 외국인의 순매수 기조가 며칠간 유지되어야 한다. 또한 미국 선거 이후 정치적 불확실성이 완전히 해소되고 글로벌 IT 업황 선행 지표가 꾸준히 개선되어야 추세적 상승이 가능하다."
           }
         ]
       },
-      "4%대 급등": {
-        "headline": "4거래일 만의 반전, 코스피·코스닥 4%대 폭등 마감",
+      "강남 아파트값 하락": {
+        "headline": "강남 3구 아파트값 하락 전환과 재초환 부담금 갈등",
         "facts": [
-          "국내 증시가 최근의 급락세를 딛고 4거래일 만에 반등에 성공하며 코스피와 코스닥 모두 4%대 급등세로 장을 마쳤다.",
-          "코스피는 장중 한때 5% 가까운 상승률을 기록하며 매수 사이드카가 발동되는 등 폭발적인 매수 우위 장세를 보였다.",
-          "미국 증시의 긍정적인 영향과 반도체 대형주들의 동반 강세가 지수 전체의 상승폭을 확대하는 핵심 동력으로 작용했다.",
-          "이번 급등은 단기 낙폭 과대에 따른 저가 매수세와 시장의 불확실성 해소가 맞물리며 나타난 강력한 되돌림 현상이다."
+          "수도권 집값 상승세를 이끌던 강남 3구의 아파트 가격이 하락세로 돌아서며 주택 시장의 거래 위축 우려가 본격화되고 있다.",
+          "강남 주요 재건축 조합들이 재건축 초과이익 환수제 부담금 현실화 통보에 강하게 반발하며 연대 투쟁을 모색하는 등 진통이 이어진다.",
+          "11월 전국 아파트 입주전망지수는 소폭 상승했으나 서울을 포함한 수도권 입주전망지수는 오히려 하락하며 경기 둔화 징후를 보였다.",
+          "미국 물가 쇼크와 금융 시장의 변동성 확대가 국내 자산 시장 전반으로 전이되면서 부동산 매수 심리 위축에 영향을 미쳤다."
         ],
         "watch": [
-          "4%대 급등 이후의 단기 과열 해소 과정",
-          "주요 업종별 순환매 유입 및 지수 견인 여부",
-          "글로벌 증시와의 동조화 현상 지속 여부"
+          "강남 3구 매매가격 지수의 추가 하락 폭 및 기간",
+          "재건축 초과이익 환수제 부담금 산정 규정 개정 논의",
+          "수도권 아파트 입주율 및 분양 시장 실적 지표"
         ],
         "qna": [
           {
-            "q": "4%대라는 이례적인 급등이 발생한 결정적인 배경은 무엇인가?",
-            "a": "3거래일 연속 하락에 따른 가격 메리트가 발생한 상황에서 미국발 훈풍이 트리거가 되어 대규모 자금이 유입되었기 때문이다. 특히 삼성전자와 SK하이닉스 등 시총 상위주의 폭등이 지수 상승을 견인했다."
+            "q": "재건축 초과이익 환수제 부담금 현실화가 강남 집값 하락에 어떠한 영향을 미치는가?",
+            "a": "조합원 1인당 수억 원에 달하는 재초환 부담금이 현실화되면서 재건축 단지의 투자 수익성이 급격히 악화되었다. 매수 희망자들의 관망세가 짙어지고 조합원들의 급매물이 출회되면서 강남 3구 전체 집값을 아래로 끌어내리고 있다."
           },
           {
-            "q": "급락 뒤에 찾아온 이번 급등이 추세적 상승으로 이어질 가능성은 있는가?",
-            "a": "4거래일 만에 하락분을 상당 부분 만회하며 강력한 반등의 발판을 마련했다는 점이 긍정적이다. 다만 향후 발표될 미국 물가 지표와 금리 경로에 따라 변동성이 재차 확대될 수 있다."
+            "q": "수도권 아파트 입주전망지수 하락이 주택 시장 밸류체인에 가져올 리스크는 무엇인가?",
+            "a": "입주 전망 악화는 기존 주택 처분 지연과 전세 시장 불안으로 이어져 수분양자의 잔금 납부를 어렵게 만든다. 이는 건설사와 금융권의 미입주 리스크 및 프로젝트 파이낸싱 부실 우려를 다시 키우는 연쇄 악영향을 유발한다."
           },
           {
-            "q": "코스피와 코스닥이 나란히 급등한 것은 어떤 시장 심리를 반영하는가?",
-            "a": "유가증권시장과 코스닥 시장 전반에 걸쳐 위험 자산에 대한 선호 심리가 급격히 회복되었음을 의미한다. 특정 섹터에 국한되지 않고 시장 전체로 매수세가 확산되며 투자 심리가 개선되었다."
+            "q": "강남 아파트값 하락세가 전국 부동산 시장으로 확산할 분기점은 어디인가?",
+            "a": "수도권 아파트 거래량이 시중 금리 상향 조정과 대출 규제 여파로 바닥권에 갇히는 시점이 분기점이다. 강남 핵심지의 가격 방어선이 깨지고 미분양이 수도권 전역으로 늘어난다면 하락 기조가 전국으로 확산할 수 있다."
           }
         ]
       },
-      "금리 인상": {
-        "headline": "연준 12월 0.5%p 인상 가능성 및 긴축 장기화 전망",
+      "미국 CPI 예상 상회": {
+        "headline": "미국 10월 CPI 예상 상회에 인플레이션 공포 재발 shadow",
         "facts": [
-          "크리스토퍼 월러 연준 이사가 12월 금리 인상을 지지하며 소비자물가지수 결과에 따라 0.5%포인트 인상 가능성을 시사했다.",
-          "미국 10월 소비자물가가 0.4% 상승함에 따라 연준의 긴축 기조가 강화될 것이라는 전망이 시장에 확산되고 있다.",
-          "도이체방크는 연준이 12월부터 내년 3월까지 세 차례 연속 금리를 인상할 것으로 내다봤으며 골드만삭스는 인상이 2027년까지 이어질 수 있다고 경고했다.",
-          "월러 이사의 매파적 발언 이후 달러화 가치가 반등하며 시장의 금리 인상 기대감을 즉각적으로 반영했다."
+          "미국 10월 소비자물가지수가 전월 대비 0.4% 상승하며 시장 예상치를 상회해 꺾이지 않는 물가 상승 압력을 입증했다.",
+          "인플레이션 상방 압력이 확인됨에 따라 미국 연방준비제도가 12월 기준금리를 0.5%포인트 인상하는 빅스텝을 단행할 가능성이 부상했다.",
+          "뉴욕증시에서 기술주 중심의 나스닥 지수가 0.74% 하락했고 필라델피아 반도체 지수도 0.35% 내리며 투자 심리가 급격히 냉각되었다.",
+          "서울 외환시장에서 원/달러 NDF 환율은 5.5원 상승했으며 연준 인사들의 매파적 발언이 더해져 달러화 강세를 부채질했다."
         ],
         "watch": [
-          "12월 FOMC에서의 금리 인상 폭 결정",
-          "향후 발표될 근원 소비자물가지수의 추이",
-          "연준 위원들의 추가적인 매파적 발언 여부"
+          "미국 연준 인사들의 향후 통화정책 관련 발언 수위",
+          "원/달러 환율의 추가 상승 및 1,400원선 돌파 여부",
+          "다음 달 발표될 미국 고용지표 및 근원 물가 지수"
         ],
         "qna": [
           {
-            "q": "월러 이사가 언급한 0.5%포인트 인상의 전제 조건은 무엇인가?",
-            "a": "10월 소비자물가지수 등 물가 지표가 예상보다 높게 나타나 인플레이션 압력이 지속될 경우 빅스텝 단행을 고려하겠다는 입장이다. 이는 물가 안정에 대한 연준의 강력한 의지를 보여준다."
+            "q": "10월 CPI의 예상치 상회가 통화정책 경로를 어떻게 흔들고 있는가?",
+            "a": "물가 상승세 둔화를 전제로 금리 인하 또는 인상 속도 조절을 기대했던 시장의 시나리오가 무너졌다. 끈질긴 인플레이션 압력으로 인해 연준이 12월 FOMC에서 기준금리를 한 번에 0.5%포인트 올리는 빅스텝에 나설 명분이 강화되었다."
           },
           {
-            "q": "골드만삭스가 금리 인상이 2027년까지 지속될 수 있다고 전망한 근거는 무엇인가?",
-            "a": "인플레이션이 목표치로 수렴하는 속도가 예상보다 더디고 고용 시장의 견조함이 유지될 경우 긴축 사이클이 장기화될 수 있다고 분석했다. 이는 시장의 조기 금리 인하 기대를 억제하는 요인이다."
+            "q": "미국 물가 쇼크가 한국 금융시장과 환율에 전이되는 파급 경로는 무엇인가?",
+            "a": "미국의 고금리 장기화 우려가 미국 국채 금리와 달러화 가치를 동시에 올려 원/달러 환율 상승을 유발한다. 이는 한국은행의 금리 운용 부담을 키우는 동시에 외국인 자금 유출을 자극해 국내 증시 하방 압력으로 작용한다."
           },
           {
-            "q": "금리 인상 전망 강화가 외환 시장과 달러 가치에 미치는 영향은 무엇인가?",
-            "a": "연준의 매파적 행보가 구체화되면서 주요 통화 대비 달러화 가치가 강세를 보이는 달러 인덱스 반등 현상이 나타났다. 이는 글로벌 자금의 달러 자산 회귀를 가속화할 수 있다."
+            "q": "인플레이션 공포가 진정되고 시장이 반등하기 위한 핵심 선행 지표는 무엇인가?",
+            "a": "주거비와 서비스 물가 등 변동성이 작은 근원 CPI 항목의 상승폭이 둔화되는 모습이 확인되어야 한다. 또한 노동시장의 과열 식힘 현상이 지표로 입증되어 연준의 긴축 명분이 약화되어야 시장이 안정될 수 있다."
           }
         ]
       },
-      "3대 지수": {
-        "headline": "뉴욕증시 저가 매수세 유입에 3대 지수 일제히 반등",
+      "연준 12월 빅스텝 우려": {
+        "headline": "12월 0.5%p 금리 인상론 부상과 연준 빅스텝 경고음",
         "facts": [
-          "뉴욕증시는 유가 급락과 기술주 중심의 저가 매수세 유입에 힘입어 3대 지수가 일제히 상승 마감했다.",
-          "다우, S&P500, 나스닥 등 3대 지수는 장중 2%대 급등세를 보였으나 엔비디아는 4.27% 급락하며 기술주 내 차별화 양상을 나타냈다.",
-          "미국 소비자물가지수 발표를 앞두고 금리 인상 기대감이 커지면서 비트코인 등 가상자산 가격은 하락 압력을 받았다.",
-          "물가 상승 압력으로 인해 하락 출발했던 지수는 장중 저가 매수세가 강력하게 유입되며 반전에 성공하는 변동성을 보였다."
+          "크리스토퍼 월러 연준 이사가 12월 0.5%포인트 금리 인상 가능성을 공개적으로 언급하면서 12월 빅스텝 우려가 현실화되었다.",
+          "예상을 뛰어넘은 물가 지표와 연준 당국자들의 연이은 매파적 발언으로 뉴욕증시 3대 지수가 일제히 하락세를 면치 못했다.",
+          "월가 일각에서는 연준이 잘못된 인플레이션 지표에 집착해 12월에 빅스텝을 단행하는 것은 무모한 조치라는 비판적 시각을 제시했다.",
+          "금리 긴축 공포가 재점화되면서 기술주와 고평가 성장주를 중심으로 매도물량이 쏟아져 나스닥 지수가 0.74% 하락 마감했다."
         ],
         "watch": [
-          "엔비디아 등 주요 기술주의 실적 및 주가 향방",
-          "CPI 발표 이후 3대 지수의 방향성 결정",
-          "국제 유가 변동이 증시 전반에 미치는 영향"
+          "12월 FOMC 회의 전까지 발표될 주요 경제 지표",
+          "연준 내 비둘기파 인사들의 반대 목소리 표출 여부",
+          "글로벌 자산 시장의 금리 인상 가능성 프라이싱 변화"
         ],
         "qna": [
           {
-            "q": "3대 지수가 2%대 급등하는 와중에 엔비디아가 홀로 급락한 이유는 무엇인가?",
-            "a": "전반적인 시장의 저가 매수세에도 불구하고 엔비디아에 대해서는 고점 부담에 따른 차익 실현 매물이 집중되었기 때문이다. 기술주 내에서도 종목별 펀더멘털과 수급 상황에 따라 희비가 엇갈렸다."
+            "q": "연준 인사들의 0.5%포인트 인상 언급이 시장에 큰 충격을 준 이유는 무엇인가?",
+            "a": "시장 참여자들은 금리 인상 기조의 마무리를 기대하고 있었으나 연준이 다시 공격적인 긴축 카드를 꺼내 들었기 때문이다. 긴축의 상단이 더 높아지고 고금리 환경이 예상보다 길어질 수 있다는 공포가 투자 심리를 위축시켰다."
           },
           {
-            "q": "유가 급락이 뉴욕증시 3대 지수 상승에 어떤 경로로 기여했는가?",
-            "a": "에너지 비용 감소가 기업의 비용 부담을 완화하고 인플레이션 압력을 낮출 것이라는 기대감을 형성했기 때문이다. 이는 투자자들의 위험 자산 선호 심리를 자극하는 요인이 되었다."
+            "q": "월가 전문가들이 연준의 12월 빅스텝 추진을 무모하다고 비판하는 논리는 무엇인가?",
+            "a": "시차를 두고 나타나는 지나친 금리 인상의 부작용이 실물 경제를 급격한 경기 후퇴로 몰아넣을 수 있다고 보기 때문이다. 현재의 물가 지표가 과도하게 후행적이며 이미 꺾이기 시작한 경기 둔화 신호를 반영하지 못한다는 지적이다."
           },
           {
-            "q": "CPI 발표를 앞둔 시점에서 3대 지수의 상승은 무엇을 시사하는가?",
-            "a": "금리 인상 우려에도 불구하고 시장이 경기 연착륙이나 기업 실적에 대한 신뢰를 바탕으로 저점 매수에 나섰음을 의미한다. 다만 지표 결과에 따라 상승폭을 반납할 가능성도 상존한다."
+            "q": "12월 FOMC에서 빅스텝 여부를 결정지을 최종 분기점은 어디인가?",
+            "a": "FOMC 직전에 발표되는 차기 소비자물가지수와 차기 비농업 부문 고용보고서 결과가 결정적이다. 두 지표에서 물가와 고용의 냉각 신호가 명확히 포착되지 않을 경우 연준은 0.5%포인트 인수를 강행할 가능성이 높다."
           }
         ]
       },
-      "월러 연준": {
-        "headline": "월러 이사 12월 빅스텝 시사 및 매파적 행보 강화",
+      "뉴욕증시 나스닥 급락": {
+        "headline": "CPI 쇼크에 나스닥 급락과 엔비디아 폭락 여파",
         "facts": [
-          "크리스토퍼 월러 미 연준 이사가 12월 통화정책 회의에서 0.5%포인트 금리 인상을 고려할 수 있다는 매파적 발언을 내놓았다.",
-          "월러 이사는 근원 물가 지표가 자신의 기준을 충족할 경우 더 큰 폭의 금리 인상이 필요하다는 점을 강조하며 시장의 긴장감을 높였다.",
-          "비둘기파적 성향으로 분류되던 월러 이사의 이번 발언은 연준 내 긴축 기조가 더욱 공고해지고 있음을 시사하는 대목이다.",
-          "해당 발언 직후 나스닥 선물이 소폭 하락하고 달러화가 반등하는 등 금융 시장이 즉각적인 반응을 보였다."
+          "예상을 웃돈 미국 10월 CPI 발표로 연준의 빅스텝 공포가 시장을 덮치면서 나스닥 지수가 187포인트 급락했다.",
+          "AI 대장주인 엔비디아는 대중국 밀반입 이슈와 악재가 겹치며 이틀간 10% 급락하고 당일에도 5.5%에서 6%대의 폭락세를 기록했다.",
+          "뉴욕증시의 주요 기술주 투매 현상은 필라델피아 반도체 지수 하락으로 이어지며 글로벌 반도체 투자 심리를 크게 위축시켰다.",
+          "뉴욕증시 급락 여파로 5,200선을 회복했던 코스피 지수는 단 하루 만에 다시 강력한 하방 시험대에 올라서게 되었다."
         ],
         "watch": [
-          "월러 이사가 제시한 근원 물가 기준 충족 여부",
-          "연준 내 다른 이사들의 금리 인상 폭 관련 발언",
-          "차기 FOMC에서의 점도표 변화 가능성"
+          "엔비디아 주가의 단기 저점 확보 및 반등 여부",
+          "나스닥 지수의 주요 이동평균선 지지 여부",
+          "미국 기술주 폭락에 따른 국내 반도체주 영향"
         ],
         "qna": [
           {
-            "q": "월러 이사가 언급한 빅스텝 가능성이 시장에 충격을 준 이유는 무엇인가?",
-            "a": "상대적으로 온건한 입장을 취해온 인물이 0.5%포인트 인상이라는 강경한 카드를 꺼내 들었기 때문이다. 이는 연준 내부의 분위기가 예상보다 훨씬 매파적으로 기울었음을 의미한다."
+            "q": "CPI 쇼크와 엔비디아 급락이 나스닥 지수 폭락을 이끈 연쇄 작용은 무엇인가?",
+            "a": "매파적 연준에 대한 공포로 기술주 전반의 밸류에이션 부담이 커진 상황에서 대장주인 엔비디아의 악재가 기름을 부었다. 엔비디아의 이틀간 10% 급락이 AI 기술주 전반에 대한 투매를 유발하며 나스닥 급락으로 이어졌다."
           },
           {
-            "q": "월러 이사의 발언이 나스닥 선물과 달러화에 미친 메커니즘은 무엇인가?",
-            "a": "금리 인상 폭 확대 전망은 기술주 중심의 나스닥에는 할인율 상승 부담으로 작용해 하락을 유도했고 달러화에는 수익률 제고 기대로 매수세를 불러일으켰다."
+            "q": "나스닥 급락이 코스피 5,200선 회복 흐름에 던지는 구체적인 위협은 무엇인가?",
+            "a": "한국 증시는 대미 수출 기술주와 반도체 비중이 높아 뉴욕증시 기술주와의 동조화 현상이 매우 강하다. 나스닥 급락은 외국인 자금의 이탈을 자극해 어렵게 회복한 코스피 5,200선을 하루 만에 위협하는 강력한 하방 압력으로 작용한다."
           },
           {
-            "q": "향후 월러 이사의 발언이 연준 정책 결정에 미칠 영향력은 어느 정도인가?",
-            "a": "월러 이사는 연준 내 핵심 인사로서 그의 발언은 시장의 기대 금리를 조정하는 가이드라인 역할을 한다. 특히 물가 지표와 연동된 그의 발언은 12월 금리 결정의 결정적 변수가 될 전망이다."
+            "q": "급락한 나스닥 지수가 기술적 반등을 이뤄내기 위한 조건은 무엇인가?",
+            "a": "엔비디아를 비롯한 대형 빅테크 기업들의 악재 수습과 주가 방어가 최우선 과제이다. 이와 함께 국채 금리의 상승세가 정체되고 연준의 빅스텝 우려를 완화할 완화적 발언이 나와야 시장이 진정될 수 있다."
           }
         ]
       }
     },
     "news": {
-      "코스피 코스닥": [
+      "엔비디아 칩 중국 밀반입": [
         {
-          "title": "美훈풍에 삼전·닉스 4∼6%↑…코스피·코스닥 ’매수 사이드카’ - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jRS1XR0E0MzhZcmZvbC0tYndjcXNySnZXRlRPME9iU3g4ZFl2djg2aVJzcm1ra2RLd2Jyd3BCcTRjRUxqakF4ZWVyWUx6TnJ3Qzh3LU5mWUd5NHk2M25LN0VwR2poU1U?oc=5",
+          "title": "\"젠슨황 연인 앨리스황, 10조원 엔비디아 AI칩 중국 밀반입\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5abEVValJfQ3p1cFRHTGIwWEJwUEpQOXQ2cjJwZC1fWk9xZTQwZFNlOU4wcTdnWjhoTkZkbDJaM1NwVmVlWlNsaHVkZWROUjNyWHdBMEFwODc5dzR0Q3BZNVVENXIzcms?oc=5",
           "source": "연합뉴스TV",
-          "published": "11-10 13:45",
-          "snippet": "美훈풍에 삼전·닉스 4∼6%↑…코스피·코스닥 ’매수 사이드카’ 연합뉴스TV 코스피·코스닥, 4%대 급등 마감‥급락 딛고 4거래일만 반등 MBC 뉴스 하루 만에 4% 급반등한 코스피, 무슨 일이야? 네이버페이 머니스토리 코스피, ‘블루웨이브’ 충격 딛고 4% 반등···기술주 반등·유가 하락에 ‘저가 매수세’ 유입 경향신문 4거래일 만에 반등…코스피·코스닥서 매수 사이드카 KBS 뉴스"
+          "published": "11-11 06:27",
+          "snippet": "\"젠슨황 연인 앨리스황, 10조원 엔비디아 AI칩 중국 밀반입\" 연합뉴스TV 젠슨 황보다 스무 살 이상 어려…엘리스 황은 어디에? [이런뉴스] KBS 뉴스 [연합뉴스 이 시각 헤드라인] - 07:30 연합뉴스 엔비디아 이사회, 젠슨 황 스캔들 조사 책임자로 한국계 변호사 선임 동아일보 \"트럼프, 5월 중국행 전용기서 '젠슨 황 의혹' 보고 받아\" MBC 뉴스"
         },
         {
-          "title": "4거래일 만에 반등…코스피·코스닥서 매수 사이드카 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tRi1wWGJkVVAwZnVJR3oxTkE3VURRRUVVOXRsb3FTTjlLWVRIN3dTVl9PWVZiVHVGTFFNNVRZUHNYbktwMmEtM2Q0NmxRekVQSUxNWFBQR215ZTg?oc=5",
+          "title": "“젠슨 황 관계 악용, 10조 원대 엔비디아칩 중국 밀반입” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vdHdabDV4X3ZTNGZ6WklVQmR1cmpiT056QzF1cWZ1UXJ1bXpReDJyVFVQUk05R2I5VWlRTWZoRXg2NHh6LUFEcVF2NU5ta3VGeTllcUhhUzQtVEdiY0tvTVBtaTBlUQ?oc=5",
           "source": "KBS 뉴스",
-          "published": "11-10 21:09",
-          "snippet": "4거래일 만에 반등…코스피·코스닥서 매수 사이드카 KBS 뉴스"
+          "published": "11-11 07:13",
+          "snippet": "“젠슨 황 관계 악용, 10조 원대 엔비디아칩 중국 밀반입” KBS 뉴스 Google 뉴스에서 헤드라인 및 의견 더보기"
         },
         {
-          "title": "코스피·코스닥, 4%대 급등…매수 사이드카 발동 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15NjlpcUNXOHNqR0tLdU9venE3YXFKalY0Mm9RTlVKNTdMY0xvZExkMGZDSGxkekcyZzZ4emw5dUdNdFZsWjZ3dFBhZVNoLWF2NzduSF9Sbm5PNU1rX0dUYjJ6QXJ6VTQ?oc=5",
+          "title": "중국산 마그네슘 합금을 국산으로 속여 수출…90억 원 챙긴 업체 송치 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxRU83VTYwdk12Q0tZYW1QRmJSYWhETER3SHZfOEI3blFWSFpKakM3bkV6bUhhWm1SdEgtcHo4Y1RJMHg4ZDRrNHV5bURRaDdhVlVwYzIxTXVCWGs?oc=5",
+          "source": "KBS 뉴스",
+          "published": "11-10 10:33",
+          "snippet": "중국산 마그네슘 합금을 국산으로 속여 수출…90억 원 챙긴 업체 송치 KBS 뉴스 외국산 마그네슘 한국산으로 둔갑…490억원 부정 수출 연합뉴스TV 중국산 섞어 국산 합금 둔갑…90억 챙긴 업체대표 송치 국제신문 중국산 마그네슘 합금 사들여 국산으로 속여 수출한 업자 적발 매일경제 마켓 “중국산 마그네슘이 한국산으로 둔갑”…수백억원어치 수출하고 빼돌린 돈으로 명품 쇼핑 문화일보"
+        },
+        {
+          "title": "엔비디아 ‘오너 리스크’ 틈탄 구글, AMD와 AI 생태계 확장 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lRlBDNmhDVHlIREJLZWV4dzdiRGU3V3VHdXpINjFSUE5FN2lZRlp6TTgyYmQ1RUdxWjl2QUxVOEZtM09Hb29TXzFGSmlJT3dPTlBSQXVzSDhBZ9IBX0FVX3lxTE51Ym40ejJXT1pNQ0x2Si1SZVNKSlZ6RzZ0ZzlmQm9xUnlhSEUzUGZBMWM4VEY1S01sX0dzOGItX1d0Z243VEJhM2FYcUJNN2FhdTFrQW9hSXJjemx5LURj?oc=5",
+          "source": "경향신문",
+          "published": "11-10 20:40",
+          "snippet": "엔비디아 ‘오너 리스크’ 틈탄 구글, AMD와 AI 생태계 확장 경향신문 구글 AI 인프라에 AMD 프로세서 탑재… 반도체 시장서 존재감 키운다 제민일보 젠슨 황 악재에 웃는 AMD, 주가 13% 폭등…구글 TPU도 뚫었다 [IT썰] - 머니투데이 머니투데이 구글 클라우드, 에이전트 시대 인프라 확장…TPU·SW 동시 강화 전자신문 구글, 8세대 AI 반도체 시스템 2종 공개…엔비디아에 도전장 동아일보"
+        },
+        {
+          "title": "[현장] 엔비디아·SKT·리벨리온, AI 인프라 삼각동맹…협력 방향은 By EBN - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oOWhDdEkwdkJUYjk0SmlfZ3VuZURFc2pWZ0V6TXdabTJ4NkhzYjY1WGZRS0NfR1RocUxOUUtua1lzMFRmLXV1XzBRcXNzS2gtazJHRXoxMTQzYnI4TU9BdXZBWGxkaHNqLVhYMUo1NkM?oc=5",
+          "source": "Investing.com 한국어",
+          "published": "11-10 08:19",
+          "snippet": "[현장] 엔비디아·SKT·리벨리온, AI 인프라 삼각동맹…협력 방향은 By EBN Investing.com 한국어 \"엔비디아냐 AMD냐\"...기로에 선 K-반도체 지디넷코리아 \"AI 숲 조성, 다수 기업에 데이터 공개할 것\" - 머니투데이 머니투데이 'K-문샷 정책 세미나' 개최, 국가 과학 난제 해결을 위한 과학 인공지능 혁신을 논의하다. 서울Pn [현장] SKT 정석근·리벨리온 박성현의 AI 의기투합…\"국산 NPU 시장 확대\" By EBN "
+        },
+        {
+          "title": "중국, 올해 무역 흑자 벌써 1조 달러…사상 최대 흑자 낼 듯 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LbWNLQzNycnczSU1iU0xsUmc1YUhrcDBXbzg3cllvX05NazBLS1VBVFRYY0ZRX0F6MEk5U3BDeXFFM2xKYlZYLTYzQzd0bi1VMkZqcGIzekpZdHRrMUM3VjFHWTBVbDQ?oc=5",
           "source": "연합뉴스TV",
-          "published": "11-10 18:13",
-          "snippet": "코스피·코스닥, 4%대 급등…매수 사이드카 발동 연합뉴스TV"
-        },
-        {
-          "title": "코스피·코스닥, 4%대 급등 마감…급락딛고 4거래일만 반등(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EVkVUUFktUkh3YUJtQmRFSldpRncxdEwteWhkRDNBOXpUYmMxMUlmTXR5SmVRNkswVnVZV3JTdUNtS0xqM0p6YkR4LVZDSEJOUnJlVzItcUROVEXSAWBBVV95cUxNWVRKSkRQZU9LbFpzYndiYnZEZTgzNmRNcDJMbndlUWl5ZGFRN2lGMTVkazEyaFVQQVUyMThiOGF0R2dDUUxPcnN0WWZiWGtOeWRHVnlQUFFrOTNnaTFNS0w?oc=5",
-          "source": "연합뉴스",
-          "published": "11-10 16:03",
-          "snippet": "코스피·코스닥, 4%대 급등 마감…급락딛고 4거래일만 반등(종합) 연합뉴스"
-        },
-        {
-          "title": "코스피·코스닥 나란히 4%대 급등 마감…4거래일 만에 반등 - 더나은미래",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IYnJUaHo5M1FWN1RIemphZkdyalJoWFVzODhBM3pUZHdCbV9Ld2prLW1PQ0wyTndTUW9OM1hpRmVqVzEzWnROek5MRlpGeXYyU3c?oc=5",
-          "source": "더나은미래",
-          "published": "11-10 17:47",
-          "snippet": "코스피·코스닥 나란히 4%대 급등 마감…4거래일 만에 반등 더나은미래"
-        },
-        {
-          "title": "코스피 장중 5300선 뚫었다…코스닥도 급등, ‘매수 사이드카’ 잇따라 - JTBC",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95THJhQVdDVVZ1eFNIS29RSzkzTzFiWE1WbGZwY0twMTVFVW5Gbm9xV2xEdWJxT3FGWmdNOFhRLUhHR1NoMklkZXVET3pUZDgzS2xIcw?oc=5",
-          "source": "JTBC",
-          "published": "11-10 15:36",
-          "snippet": "코스피 장중 5300선 뚫었다…코스닥도 급등, ‘매수 사이드카’ 잇따라 JTBC"
+          "published": "11-10 15:51",
+          "snippet": "중국, 올해 무역 흑자 벌써 1조 달러…사상 최대 흑자 낼 듯 연합뉴스TV 中, 내수 부진 속 역대급 흑자…APEC 앞두고 무역갈등은 '숙제' 연합뉴스 中 무역 흑자, 2년 연속 1조 달러 돌파…반도체 수출 137% 급증 서울경제 中 10월 수입 41.6%↑…5년 5개월 만에 최대폭 증가 - 머니투데이 머니투데이 중국 무역흑자 2년 연속 1조 달러 돌파 경향신문"
         }
       ],
-      "매수 사이드카": [
+      "코스피 매수 사이드카": [
         {
           "title": "美훈풍에 삼전·닉스 4∼6%↑…코스피·코스닥 ’매수 사이드카’ - 연합뉴스TV",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jRS1XR0E0MzhZcmZvbC0tYndjcXNySnZXRlRPME9iU3g4ZFl2djg2aVJzcm1ra2RLd2Jyd3BCcTRjRUxqakF4ZWVyWUx6TnJ3Qzh3LU5mWUd5NHk2M25LN0VwR2poU1U?oc=5",
           "source": "연합뉴스TV",
           "published": "11-10 13:45",
-          "snippet": "美훈풍에 삼전·닉스 4∼6%↑…코스피·코스닥 ’매수 사이드카’ 연합뉴스TV 코스피·코스닥, 4%대 급등 마감‥급락 딛고 4거래일만 반등 MBC 뉴스 하루 만에 4% 급반등한 코스피, 무슨 일이야? 네이버페이 머니스토리 코스피, ‘블루웨이브’ 충격 딛고 4% 반등···기술주 반등·유가 하락에 ‘저가 매수세’ 유입 경향신문 4거래일 만에 반등…코스피·코스닥서 매수 사이드카 KBS 뉴스"
-        },
-        {
-          "title": "4거래일 만에 반등…코스피·코스닥서 매수 사이드카 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tRi1wWGJkVVAwZnVJR3oxTkE3VURRRUVVOXRsb3FTTjlLWVRIN3dTVl9PWVZiVHVGTFFNNVRZUHNYbktwMmEtM2Q0NmxRekVQSUxNWFBQR215ZTg?oc=5",
-          "source": "KBS 뉴스",
-          "published": "11-10 21:09",
-          "snippet": "4거래일 만에 반등…코스피·코스닥서 매수 사이드카 KBS 뉴스"
+          "snippet": "美훈풍에 삼전·닉스 4∼6%↑…코스피·코스닥 ’매수 사이드카’ 연합뉴스TV 하루 만에 4% 급반등한 코스피, 무슨 일이야? 네이버페이 머니스토리 [마켓뷰] 겨우 반등했는데…코스피, 美 '빅스텝' 우려에 다시 흔들리나 연합뉴스 코스피·코스닥, 4%대 급등 마감‥급락 딛고 4거래일만 반등 MBC 뉴스 미 증시 강세·유가 하락...코스피, 4.4% 반등 마감 YTN"
         },
         {
           "title": "코스피·코스닥, 4%대 급등…매수 사이드카 발동 - 연합뉴스TV",
@@ -755,18 +747,11 @@
           "snippet": "코스피·코스닥, 4%대 급등…매수 사이드카 발동 연합뉴스TV"
         },
         {
-          "title": "코스피 5% 급등에 매수 사이드카…삼성전자 5%·SK하이닉스 7%↑ - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wNjFIYjQyUWtoYzJKVW90TmVtbUNEWlVmNE5jWFVlM1pIQTRaTWFJclN6ZTE5bkROTDdfcTJZUkp4ZVQ1SEg0SGFlakNienZMaHJOV1Z6cjU4UQ?oc=5",
-          "source": "한국경제",
-          "published": "11-10 09:17",
-          "snippet": "코스피 5% 급등에 매수 사이드카…삼성전자 5%·SK하이닉스 7%↑ 한국경제"
-        },
-        {
-          "title": "코스피 장중 5300선 뚫었다…코스닥도 급등, ‘매수 사이드카’ 잇따라 - JTBC",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95THJhQVdDVVZ1eFNIS29RSzkzTzFiWE1WbGZwY0twMTVFVW5Gbm9xV2xEdWJxT3FGWmdNOFhRLUhHR1NoMklkZXVET3pUZDgzS2xIcw?oc=5",
-          "source": "JTBC",
-          "published": "11-10 15:36",
-          "snippet": "코스피 장중 5300선 뚫었다…코스닥도 급등, ‘매수 사이드카’ 잇따라 JTBC"
+          "title": "오늘은 '매수' 사이드카...미국 반도체 훈풍, 코스피·코스닥 동반 상승 - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05N2pqaVU0a1hsRXJQRThDS1N1czJTQkM1NDRTZVNTeDRCaDFfbkRjcUMtNFZGTlJoWVFwVTdsWGVMaDRBMWZqYkc3NzBPN24xZU1JSkJ3ZjIxUkhKT2dmejVsZFk4SW9J0gFuQVVfeXFMTWp4UTJkRHYxTE8tU0lUck1Panp2ZTUtQXRWUWJVRVBzTll2M1FrckY1VFNDN2NNa1Z2bjJXYlRZX1Jpb3dGVnpJTFl5eU9PTkRjdG5ULXVrRzl2T0M1RXNTd2g2MDZfY0c2eDdkTGc?oc=5",
+          "source": "머니투데이",
+          "published": "11-11 05:52",
+          "snippet": "오늘은 '매수' 사이드카...미국 반도체 훈풍, 코스피·코스닥 동반 상승 - 머니투데이 머니투데이"
         },
         {
           "title": "미 선거 충격 딛고 급반등…코스피·코스닥 매수 사이드카 - KBS 뉴스",
@@ -774,147 +759,145 @@
           "source": "KBS 뉴스",
           "published": "11-10 18:59",
           "snippet": "미 선거 충격 딛고 급반등…코스피·코스닥 매수 사이드카 KBS 뉴스"
+        },
+        {
+          "title": "4거래일 만에 반등…코스피·코스닥서 매수 사이드카 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tRi1wWGJkVVAwZnVJR3oxTkE3VURRRUVVOXRsb3FTTjlLWVRIN3dTVl9PWVZiVHVGTFFNNVRZUHNYbktwMmEtM2Q0NmxRekVQSUxNWFBQR215ZTg?oc=5",
+          "source": "KBS 뉴스",
+          "published": "11-10 21:09",
+          "snippet": "4거래일 만에 반등…코스피·코스닥서 매수 사이드카 KBS 뉴스"
+        },
+        {
+          "title": "[채권-마감] 강세 플래트닝…증시 호조에도 外人 매수에 금리 하락 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lQ0QySDZHcU1oR2FrdXZ2bDNGdU1NSHBNekdKNVBMMi1xbXh6Q2hQb2tTcGhSMlhXaXBrY1JTd3pvbkE4VHhKVkRVWVdiWVhHX3BlQjJ1TzZ2TVJTckpONmFVUjRMTUZVQ2xzdURYNTY?oc=5",
+          "source": "연합인포맥스",
+          "published": "11-10 18:47",
+          "snippet": "[채권-마감] 강세 플래트닝…증시 호조에도 外人 매수에 금리 하락 연합인포맥스 국고채 금리 대체로 하락…주가 급등에도 외인 선물 매수(종합) 연합뉴스 10월 채권 발행 91조…금융채·특수채 늘며 전월 대비 4.5조↑ 뉴시스 美 국채금리 상승…고용 호조에 10월 소비자물가 3.9% 전망 뉴스1 [노현우의 채권분석] AI투자 느려져도 금리 높아질까 연합인포맥스"
         }
       ],
-      "4%대 급등": [
+      "강남 아파트값 하락": [
         {
-          "title": "코스피·코스닥, 4%대 급등…매수 사이드카 발동 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15NjlpcUNXOHNqR0tLdU9venE3YXFKalY0Mm9RTlVKNTdMY0xvZExkMGZDSGxkekcyZzZ4emw5dUdNdFZsWjZ3dFBhZVNoLWF2NzduSF9Sbm5PNU1rX0dUYjJ6QXJ6VTQ?oc=5",
-          "source": "연합뉴스TV",
-          "published": "11-10 18:13",
-          "snippet": "코스피·코스닥, 4%대 급등…매수 사이드카 발동 연합뉴스TV"
+          "title": "강남 3구 아파트 가격 ‘뚝’ - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aaFp5eExXeTBBcGpLdHMzb0tyMXhaQmU4MjVBSFB1VG11VlM3cUNVMU1pSUdFUlZSU1JFVkthaEVqTGMydzJiQlZ4Q1IwWWtDSnBnU0RR?oc=5",
+          "source": "매일경제",
+          "published": "11-10 15:48",
+          "snippet": "강남 3구 아파트 가격 ‘뚝’ 매일경제 \"이렇게 오래 오른 적 없었다\"…서울 집값 심상찮은 기록 [시장톡] 한국경제 ‘주식 털어 집 샀는데…’ 주가 폭락에 부동산 시장도 얼어붙었다 조선일보 ‘쫓겨나느니 빚내서 산다’… 강남 얼어붙자 외곽 터진 ‘생존 매수’ 세계일보 \"서울에선 엄두 못 내\"…경기 남부 소형 아파트 신고가 행진 뉴시스"
         },
         {
-          "title": "코스피·코스닥, 4%대 급등 마감…급락딛고 4거래일만 반등(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EVkVUUFktUkh3YUJtQmRFSldpRncxdEwteWhkRDNBOXpUYmMxMUlmTXR5SmVRNkswVnVZV3JTdUNtS0xqM0p6YkR4LVZDSEJOUnJlVzItcUROVEXSAWBBVV95cUxNWVRKSkRQZU9LbFpzYndiYnZEZTgzNmRNcDJMbndlUWl5ZGFRN2lGMTVkazEyaFVQQVUyMThiOGF0R2dDUUxPcnN0WWZiWGtOeWRHVnlQUFFrOTNnaTFNS0w?oc=5",
-          "source": "연합뉴스",
-          "published": "11-10 16:03",
-          "snippet": "코스피·코스닥, 4%대 급등 마감…급락딛고 4거래일만 반등(종합) 연합뉴스"
-        },
-        {
-          "title": "코스피·코스닥 나란히 4%대 급등 마감…4거래일 만에 반등 - 더나은미래",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IYnJUaHo5M1FWN1RIemphZkdyalJoWFVzODhBM3pUZHdCbV9Ld2prLW1PQ0wyTndTUW9OM1hpRmVqVzEzWnROek5MRlpGeXYyU3c?oc=5",
-          "source": "더나은미래",
-          "published": "11-10 17:47",
-          "snippet": "코스피·코스닥 나란히 4%대 급등 마감…4거래일 만에 반등 더나은미래"
-        },
-        {
-          "title": "[속보] 코스피·코스닥, 4%대 급등 마감…4거래일만 반등 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3dDNVQ2dOci1ObUNnVzZURnpmOU12WW5IbWNPMFlYanpMWUlLTjhOb3lwS1JlTUlxdFBNNmtDYjNWWjYzVzVzcDFUN3NVYkd1NzljRVU4cEN2MWc4bFZkT9IBYEFVX3lxTFA3dDNVQ2dOci1ObUNnVzZURnpmOU12WW5IbWNPMFlYanpMWUlLTjhOb3lwS1JlTUlxdFBNNmtDYjNWWjYzVzVzcDFUN3NVYkd1NzljRVU4cEN2MWc4bFZkTw?oc=5",
-          "source": "연합뉴스",
-          "published": "11-10 15:33",
-          "snippet": "[속보] 코스피·코스닥, 4%대 급등 마감…4거래일만 반등 연합뉴스"
-        },
-        {
-          "title": "코스피·코스닥, 4%대 급등 마감‥급락 딛고 4거래일만 반등 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KbW5pSDhsc3kxSl9DS29qZ3ZIZ0o5RTlDbVpsVHRxY18yOTNrNDA4Y2FIRWFpa011S3ZLay1hRVdXUGVMMGloOXZHaHNmZ1htOUdwWHF4a0tHUmMybndYbnFDbENCaFpQRXE2QlhGVS1kSk9V0gF0QVVfeXFMTzJ1ay1QTmxWUXF2enNUZ0FRejU1azZtZlVyaXYtOXpXTWE2WTVkdnlFM2VOb1NVNHV4cW03aUJMR1lIclV3ZGFGSDM1WTduaEZHU2RqVUE1Y09lTlNHR1hfWE9OeV9QSnVicHk1OEloRVJNekU?oc=5",
-          "source": "MBC 뉴스",
-          "published": "11-10 16:21",
-          "snippet": "코스피·코스닥, 4%대 급등 마감‥급락 딛고 4거래일만 반등 MBC 뉴스"
-        },
-        {
-          "title": "코스피·코스닥, 4%대 급등 마감…4거래일 만에 반등 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wMGdwSUk0UVhMMGRIcEd0dXZnT29VTW41Z2x6NWw4SWNnT2JXdWpOSTd1VWU2dE5TYkNQNy1LVHpGcnpkbDU1VE03YUN2M284YzVERFVZbHpYUQ?oc=5",
-          "source": "한국경제",
-          "published": "11-10 15:40",
-          "snippet": "코스피·코스닥, 4%대 급등 마감…4거래일 만에 반등 한국경제"
-        }
-      ],
-      "금리 인상": [
-        {
-          "title": "월러 연준 이사 \"12월 금리인상 지지\"…CPI 따라 50bp 인상도 고려\" - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OYVlRbXk0MUpPQmtQMUgyT3FBTmhqUC1TS2YwVm9yQ3dBUmxWek44Unh2NFMtTE9PbnQ3RUFJZmMzVmh6T29LQ1kzaTlDaVFFYjhtSHB4M3NjdUxhdDdTeElULUY0THdn0gFuQVVfeXFMTy15MlRObVZOMlZUZkowSUdwOFUza0lDNXBudGhJeHoybEl2UDl3WFRpZGdLX2h4ZUVURDFxb3RvNDV1bk1EekNMMnpoaF9WRXJ2LXdJT2hLT0JXMmNUeDNFT1V3OWowZEo3UEtmeXc?oc=5",
-          "source": "머니투데이",
-          "published": "11-10 21:47",
-          "snippet": "월러 연준 이사 \"12월 금리인상 지지\"…CPI 따라 50bp 인상도 고려\" - 머니투데이 머니투데이 美연준 월러 이사 \"12월 50bp 인상도 고려\"…'빅스텝' 거론 연합뉴스 댈러스 연은 총재 \"금리 최소 두 차례 더 인상해야\" 연합뉴스TV 리치먼드 연은 총재 \"물가 상승에 적응…12월 FOMC 기본 시나리오 없다\" 연합인포맥스 연준 슈미드 총재, 인플레이션 억제 위해 긴축 정책 지지 Investing.com 한국어"
-        },
-        {
-          "title": "달러화, 월러 연준 이사 금리 인상 발언에 반등 - 글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdmtpWWRrZERLR3JnYkthZFAxc1ZFNWR5ZnpqOFcydEFUc1hnb1ljUllJTDJPVmR0bHBuM0ZEZTZ1WjFiM1AxVXFnQkVXTXgyU2ZfdmVQSHJfME9ldURwYjJJOGRwWTZSTU9aM3RqNjhXUy10SmdIc2h6ZjZHYUdLYnBVQzFaZ1c4?oc=5",
-          "source": "글로벌이코노믹",
-          "published": "11-11 02:00",
-          "snippet": "달러화, 월러 연준 이사 금리 인상 발언에 반등 글로벌이코노믹"
-        },
-        {
-          "title": "미국 10월 소비자물가 0.4% 상승…연준 12월 금리 인상 전망 강화, 0.5%포인트론 재부상 - 아시아투데이",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2MzVoa2RYM2pJVURiTFpMMHhaaGJhOVdSRFZadnZhSWUyQkN1QXVtUG9kLUpUMFZtZ21GWFZnU1hkU0g3Vzc3YXotS2s0Z0V3OWZnbnplZjExUHdZaXZfckpaMHhxcXZsNG81VER3?oc=5",
-          "source": "아시아투데이",
-          "published": "11-11 01:06",
-          "snippet": "미국 10월 소비자물가 0.4% 상승…연준 12월 금리 인상 전망 강화, 0.5%포인트론 재부상 아시아투데이"
-        },
-        {
-          "title": "'비둘기' 월러 美 연준 이사, 12월 0.5%p 금리 인상 시사 - 파이낸셜뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PT05DZ2gtU2NOTVNycDhwUDlFaHlua0NiY1lXcEtQeVc5UTJZNEtSMS03OHFFb2JWNkZPZ0R6ZFJ4WEFDa3JBN1hsZW1Ra0R3Zk9QSDYyem1Fdw?oc=5",
-          "source": "파이낸셜뉴스",
-          "published": "11-11 03:35",
-          "snippet": "'비둘기' 월러 美 연준 이사, 12월 0.5%p 금리 인상 시사 파이낸셜뉴스"
-        },
-        {
-          "title": "도이체방크 \"연준, 12월·1월·3월 세 차례 연속 금리 인상 전망\" - 블루밍비트",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Pc2pldHdRRmpIU3B5bzFjZkZFdDZfa3JCQTVadmdIc3ZqcnpKbE83LVJfVmpwSXh1S3QxNExETjRiVEcyUjB1OERnZ0x5aGEw?oc=5",
-          "source": "블루밍비트",
-          "published": "11-11 03:38",
-          "snippet": "도이체방크 \"연준, 12월·1월·3월 세 차례 연속 금리 인상 전망\" 블루밍비트"
-        },
-        {
-          "title": "골드만삭스 \"연준 금리 인상, 2027년까지 이어질 수 있어\" - 블루밍비트",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQNWRWS19xSnZfWlRKdTczSmFCakdyWVJTVEVSR2RHUnB0WEt3aUhXLWtUYTRrYXRDVlBGOVZLaWNuYWE1WGFXY0VvVWNnV0NS?oc=5",
-          "source": "블루밍비트",
-          "published": "11-10 23:02",
-          "snippet": "골드만삭스 \"연준 금리 인상, 2027년까지 이어질 수 있어\" 블루밍비트"
-        }
-      ],
-      "3대 지수": [
-        {
-          "title": "뉴욕증시, 물가 상승 압력에 약세… 3대 지수 하락 출발 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY21QS1RNZXB0SE5SbldodEZSXzRDOHZuUzkwVzZkSUtpUVpiRjBycllTSFc2M3FnR3UyZWtiaThTYlFtLWd4QklZbWJ2ZjBidURVbXZocS1mY1QzR2pBZWhhbVZIOFZWWFRyT2ZvdkZabUtaWFFZcDdYeWFxZlZZSUVLYzA2SWFkaWlYUDBLbTBHeTJjM1c2SEo0UkVkZw?oc=5",
-          "source": "Chosunbiz",
-          "published": "11-11 01:28",
-          "snippet": "뉴욕증시, 물가 상승 압력에 약세… 3대 지수 하락 출발 Chosunbiz"
-        },
-        {
-          "title": "[3분증시] 뉴욕증시, 저가 매수에 3대 지수 상승 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WY1ZaUkhfb2l2eEpKT0NLbUM3clBIb1dTcW5YcWkyaEdaODJSakxESzZ0YkhxSVJBUWc1NVJoOEJ0aktyUDRwYjIydEhrQThPbUROcEd0T0VXak9BckIySHQ5X1RqSFk?oc=5",
-          "source": "연합뉴스TV",
-          "published": "11-10 07:52",
-          "snippet": "[3분증시] 뉴욕증시, 저가 매수에 3대 지수 상승 연합뉴스TV"
-        },
-        {
-          "title": "(뉴욕증시) 3대 지수 2%대 급등 … 엔비디아만 4.27% 급락 - 경제 - koreadailytimes.com",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5odmdlUXVFTTBqelVGSTB5Vkd6eEdhazlBRTFSWXUzZzlqV3huOEtaR0RuajhnS2w0b092UVFkUkxjVElzeU5Ldw?oc=5",
-          "source": "koreadailytimes.com",
-          "published": "11-10 13:49",
-          "snippet": "(뉴욕증시) 3대 지수 2%대 급등 … 엔비디아만 4.27% 급락 - 경제 koreadailytimes.com"
-        },
-        {
-          "title": "뉴욕증시, 유가 급락·기술주 저가매수에 3대 지수 일제히 급등 - 서울경제TV",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBbDhkUG5lQ0tlOXotcnJ2X0s0NEt3VG8teHRCQ3ZFWlNXWGtDZ1k5WGdYSnFVV3pTbllJSldaSWhkTDJ2cFU3ZHdoS3dHQnVBbVoydVI2T0F5dTRrOC1IaXR1ZWI?oc=5",
-          "source": "서울경제TV",
-          "published": "11-10 08:43",
-          "snippet": "뉴욕증시, 유가 급락·기술주 저가매수에 3대 지수 일제히 급등 서울경제TV"
-        },
-        {
-          "title": "[뉴욕 인사이트] 저가 매수세에 뉴욕증시 급반등… 3대 지수 일제히 상승 (영상) - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WaVVYejZ1cl95RFY4N1F2ZjRMX1RNTzRERFZ2MzAwSk9Ib05YUnZMUTl6OHkyRHR4Tjh6cUx4MjhhTDlNSUFvR0tubV90eW1zek51dkw1UWMtNzRzNE95Qw?oc=5",
+          "title": "북서유럽 경유 정제마진, 화요일 7% 넘게 하락 - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JalN6WHdfMWVIZWUyTHRSOGREWENSTUN4MlpEczhDQ3pFYVRvdjJGT2JiUDB6R2ZLajlYbFl3aER4N0V5TTFQU2dvamZGZHdJekR0R2ZIMFVqVEp5SW5NY2N5amk2VVlHem45SHI4MUNOX1RXZ1E?oc=5",
           "source": "Investing.com 한국어",
-          "published": "11-10 09:51",
-          "snippet": "[뉴욕 인사이트] 저가 매수세에 뉴욕증시 급반등… 3대 지수 일제히 상승 (영상) Investing.com 한국어"
+          "published": "11-11 04:17",
+          "snippet": "북서유럽 경유 정제마진, 화요일 7% 넘게 하락 Investing.com 한국어 국제유가 하락세 지속…8월 31일 이후 최저 KBS 뉴스 \"환율 이어 국제유가까지 하락\"…항공업계 '수익성 개선' 기대 뉴시스 산업부 \"연말까지 원유·나프타 90% 이상 물량 확보\" 연합뉴스TV 국제유가, 트럼프 이란 추가 공격 자제 시사에 급락 연합뉴스"
         },
         {
-          "title": "미국 소비자물가지수(CPI) 발표를 앞두고 연준 금리 인상 기대감이 커지면서 비트코인(BTC) 가격 하락 - CoinDesk",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbVZrYmItTmtRNnFmWGM1aDVMLUZSQjdsLU5WNkYxOWcxU2I2MW1kYmpKNUtibHdFa3VOS2Vkb21WRkh0eUdsZjZhU2FQbDM4UEZrQ1o5N3JQdGhqdkMxUERwMFoxM1V4QkpLT053NVZLZVFZb0U1N3ZqYVUtNzE0Z09FX19OcjYyeUpTUXJXT3pNSlZod25zX1dKSVg3ZEMzR3QtNjZJamJfOHlRdkYxYXpnTzVzZ2lLMWdSTldpRVV2bVBf?oc=5",
-          "source": "CoinDesk",
-          "published": "11-10 19:48",
-          "snippet": "미국 소비자물가지수(CPI) 발표를 앞두고 연준 금리 인상 기대감이 커지면서 비트코인(BTC) 가격 하락 CoinDesk"
+          "title": "[채권-마감] 강세 플래트닝…증시 호조에도 外人 매수에 금리 하락 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lQ0QySDZHcU1oR2FrdXZ2bDNGdU1NSHBNekdKNVBMMi1xbXh6Q2hQb2tTcGhSMlhXaXBrY1JTd3pvbkE4VHhKVkRVWVdiWVhHX3BlQjJ1TzZ2TVJTckpONmFVUjRMTUZVQ2xzdURYNTY?oc=5",
+          "source": "연합인포맥스",
+          "published": "11-10 18:47",
+          "snippet": "[채권-마감] 강세 플래트닝…증시 호조에도 外人 매수에 금리 하락 연합인포맥스 국고채 금리 대체로 하락…주가 급등에도 외인 선물 매수(종합) 연합뉴스 10월 채권 발행 91조…금융채·특수채 늘며 전월 대비 4.5조↑ 뉴시스 美 국채금리 상승…고용 호조에 10월 소비자물가 3.9% 전망 뉴스1 [노현우의 채권분석] AI투자 느려져도 금리 높아질까 연합인포맥스"
+        },
+        {
+          "title": "“강남 재건축조합들 뭉쳤다”…재초환 부담금 현실화에 ‘시끌’ - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fbnYybVBzWmY2Yi05M1RYNnRKdi1xLWZyWnFXOW9FdHJxWG5yczJGblpWdDRpSVdyUG5zZXphS0FOekVrM0JtM0FmSUduQXlIQzkwVURjRzk?oc=5",
+          "source": "매일경제",
+          "published": "11-10 13:21",
+          "snippet": "“강남 재건축조합들 뭉쳤다”…재초환 부담금 현실화에 ‘시끌’ 매일경제 5년 지나 날아온 억대 부담금 고지서···정권마다 폭탄 돌리기식 운영에 ‘재초환 혼란’ 경향신문 '재초환 공포' 강남 재건축…\"계산기 두드려보면 기회\" 전문가 분석 이유는 뉴시스 국토부, “재건축초과이익 부담금 부과 기한에 대해 신속히 검토해 안내하겠다” 문화일보 \"재초환으로 억대 부담금\" 강남 재건축 비상…민심 달래기 나선 자치구 - 머니투데이 머니투데이"
+        },
+        {
+          "title": "11월 전국 아파트 입주전망지수 4개월만에 소폭 상승..수도권은 하락 By 알파경제 alphabiz - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tZFpGVzJQTlhwQ1lyblZ0QTRpSXcwVXFpRHNKV0ZKYVAtMnpmenljVjB4TkoteXh6OXBhVHFhZ3BheFVWeTNQbGpDM0ZFYnJpZ1htM3JfUDRvM3NxdFhFV0toemJ3OVB4OTFHX0ZxTG8?oc=5",
+          "source": "Investing.com 한국어",
+          "published": "11-10 16:34",
+          "snippet": "11월 전국 아파트 입주전망지수 4개월만에 소폭 상승..수도권은 하락 By 알파경제 alphabiz Investing.com 한국어 아파트 입주 전망 소폭 개선…분양 기대는 하락 제민일보 10월 서울 아파트 입주율 2.8%p↑…전세난에 신축 '반사이익' 연합인포맥스 금리 인상 우려에 11월 수도권 아파트 입주전망지수 하락 연합뉴스 주담대 금리 상승에 입주 ‘발목’ 세계일보"
+        },
+        {
+          "title": "美물가 쇼크에 나스닥 하락·엔비디아 6% 급락…코스피 5200선 회복 하루 만에 시험대 - 녹색경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tcHI3U3JIbkdDT0hMZ2FNenJKcmhXOC15bGlMWmEtWU1NQ1pueGE3OTMwTXFwQkgySUVwRXU0Ymc0LWZxSUxlOGljNGRfTGY4N3lkTktpcGVWQWdNLV91RS1RakVhSjha?oc=5",
+          "source": "녹색경제신문",
+          "published": "11-11 06:59",
+          "snippet": "美물가 쇼크에 나스닥 하락·엔비디아 6% 급락…코스피 5200선 회복 하루 만에 시험대 녹색경제신문"
         }
       ],
-      "월러 연준": [
+      "미국 CPI 예상 상회": [
         {
-          "title": "월러 연준 이사 \"12월 금리인상 지지\"…CPI 따라 50bp 인상도 고려\" - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OYVlRbXk0MUpPQmtQMUgyT3FBTmhqUC1TS2YwVm9yQ3dBUmxWek44Unh2NFMtTE9PbnQ3RUFJZmMzVmh6T29LQ1kzaTlDaVFFYjhtSHB4M3NjdUxhdDdTeElULUY0THdn0gFuQVVfeXFMTy15MlRObVZOMlZUZkowSUdwOFUza0lDNXBudGhJeHoybEl2UDl3WFRpZGdLX2h4ZUVURDFxb3RvNDV1bk1EekNMMnpoaF9WRXJ2LXdJT2hLT0JXMmNUeDNFT1V3OWowZEo3UEtmeXc?oc=5",
-          "source": "머니투데이",
-          "published": "11-10 21:47",
-          "snippet": "월러 연준 이사 \"12월 금리인상 지지\"…CPI 따라 50bp 인상도 고려\" - 머니투데이 머니투데이 美연준 월러 이사 \"12월 50bp 인상도 고려\"…'빅스텝' 거론 연합뉴스 댈러스 연은 총재 \"금리 최소 두 차례 더 인상해야\" 연합뉴스TV 리치먼드 연은 총재 \"물가 상승에 적응…12월 FOMC 기본 시나리오 없다\" 연합인포맥스 연준 슈미드 총재, 인플레이션 억제 위해 긴축 정책 지지 Investing.com 한국어"
+          "title": "[속보] 美 반도체 지수 0.35% 하락…美 CPI 예상 상회·연준 0.5%p 인상 가능성 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VRWFCNTBtMkRSNWhheW5TMFdzVm1jNnZBV3FEUFJETjA4Q3RVdi13TTd6MWluNF9sTmtDUW5lZWlpSUltZUxKWFNCT29pNlNQZE1qWEh2N0dLUQ?oc=5",
+          "source": "한국경제",
+          "published": "11-11 06:07",
+          "snippet": "[속보] 美 반도체 지수 0.35% 하락…美 CPI 예상 상회·연준 0.5%p 인상 가능성 한국경제"
+        },
+        {
+          "title": "원·달러 NDF 5.5원 상승, 미 CPI 예상상회+연준 인사들 매파 발언 - 이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VU1NJblR6d0xocFZWUFpLVzZYUXlxREs1eEtoal9fUGV4Mkl4amozaUNsS01ZRC1DNmNwVVRUNXJvbzlhSGdOYU1GeTZnMmhDSEFPMw?oc=5",
+          "source": "이투데이",
+          "published": "11-11 07:39",
+          "snippet": "원·달러 NDF 5.5원 상승, 미 CPI 예상상회+연준 인사들 매파 발언 이투데이"
+        },
+        {
+          "title": "[속보]美 CPI 예상 상회에 연준 '빅스텝' 부상…나스닥 0.74% 하락 마감 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPWEV5cy1sZTIzTldVUkhDTkZfTF9LX00wRGlDcndwMi1rcWFvZWZJczdqMVRpc3JTTzhjYnJtOUdKanpWRWJPY3JLQnV4VTdGaTIxLS1DMnZVc1FYM1JnQTQ5cHBhcms?oc=5",
+          "source": "뉴스1",
+          "published": "11-11 06:01",
+          "snippet": "[속보]美 CPI 예상 상회에 연준 '빅스텝' 부상…나스닥 0.74% 하락 마감 뉴스1"
+        },
+        {
+          "title": "美 10월 CPI, 전월비 0.4% 상승…예상치 웃돌아(종합) - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10TmZvS3FCVzdNZVY0NmhuRElNUXgxOFAtRjBUNlJYX2RqU1hIU1ZvdzJFOTEtRGI3aGxaX01uMUcyU1U1QWRNbkRPS2xfN1BDcEZsdldaeUY3dmxjNGNpcGpPaUpCUjNUS1lGeF9ZN0E?oc=5",
+          "source": "연합인포맥스",
+          "published": "11-11 02:10",
+          "snippet": "美 10월 CPI, 전월비 0.4% 상승…예상치 웃돌아(종합) 연합인포맥스 [속보]이틀간 10% 급락 엔비디아…나스닥 0.74%↓ 문화일보 예상 웃돈 美 물가에 뉴욕 증시 일제히 하락…나스닥 0.74%↓ 조선일보 소비자물가 예상치 웃돌아…연준 “12월 0.5%p 인상도 고려” KBS 뉴스 미 물가, 예상 웃돌며 '빅스텝' 가능성...'AI 풍향계' 코어위브 매출 전망치 상회 YTN"
+        },
+        {
+          "title": "[3분증시] 뉴욕증시, CPI 상회·매파 발언에 동반 하락 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GSmxvMVltRkhoUWFoaUY3dnVQeXlnOTdwejdZOWszaktnZnFMRGpnam9RNVl5cVRlRzV6a0hUM25nb01UQmxkWEZDVEpLaXZGTU9UQ0FleEQ0QXVKWlM0bnFySGpSZ28?oc=5",
+          "source": "연합뉴스TV",
+          "published": "11-11 07:54",
+          "snippet": "[3분증시] 뉴욕증시, CPI 상회·매파 발언에 동반 하락 연합뉴스TV"
+        },
+        {
+          "title": "美 10월 물가도 예상치 상회…12월 FOMC ‘빅스텝’도 거론 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xdkJFYjhRY0Nkb3VUS0dKN1JTaUlhWFBjSVdDWVhUOGZMc2JBWWxSSzJ5ZkFCSXVUb1J0eXVnamNLMWFKQkRSaHVxYnItUGlRdkQwYjJPMFI0NW9iTWl6Z3M0c3Zjd2ZaOUdIUjdySlR0LWfSAWZBVV95cUxQdjktV1Z3elRfYW93bUVmSHhuM0N3SHRJbGVya3h1WV9PMUJmRkFMWkkxeUxtSzJQZk9WcjVJcFhtM0F3N0FpM2I2SVNqeXpwWmxqeDJlaU9LUXV3R0U5N1FqcGJqQnc?oc=5",
+          "source": "동아일보",
+          "published": "11-11 06:51",
+          "snippet": "美 10월 물가도 예상치 상회…12월 FOMC ‘빅스텝’도 거론 동아일보"
+        }
+      ],
+      "연준 12월 빅스텝 우려": [
+        {
+          "title": "뉴욕증시, 연준 '빅스텝' 우려·엔비디아 급락에 하락 마감 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXd3JGN1pKdWJHOEhPRFBSZ3JsZV9IU1hOdnJ1MGphYzZtMUdKY1p1UW9NVFRSSVdvWmMzd2VMd1FIMDJRbWFxR0tnMHZJNEpoU3EwR3NDdTZSdlBM?oc=5",
+          "source": "뉴스핌",
+          "published": "11-11 06:23",
+          "snippet": "뉴욕증시, 연준 '빅스텝' 우려·엔비디아 급락에 하락 마감 뉴스핌"
+        },
+        {
+          "title": "월가 전문가 \"연준, 잘못된 인플레와 싸워…12월 빅스텝은 무모\" - KB Think",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qSlNtb1dqNjBEamtmWmsybUlVdF9vT0d6cmFZMnZxaHRna3FvVnVBZEpqb3pYbnBabmprQlJYbk0wN2dDZXh5ckZnRzQwbXNMNUw0a2FaREpnNy1VX3dQMUF3T0xwWExET2NUT253VFRydw?oc=5",
+          "source": "KB Think",
+          "published": "11-11 08:06",
+          "snippet": "월가 전문가 \"연준, 잘못된 인플레와 싸워…12월 빅스텝은 무모\" KB Think"
+        },
+        {
+          "title": "물가·연준 '빅스텝' 우려에 뉴욕증시 하락…나스닥 0.7%↓(종합) - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ic0tkSXFLUmFncmVrTG91QjRidC1nOEVFUy1ERl9mUEVrVm5fN2loMG1Ld2JaMndBN3g4X2JKY0JHelFaQjVQZC15UHJSN1R5dUE?oc=5",
+          "source": "매일경제 마켓",
+          "published": "11-11 07:26",
+          "snippet": "물가·연준 '빅스텝' 우려에 뉴욕증시 하락…나스닥 0.7%↓(종합) 매일경제 마켓"
+        },
+        {
+          "title": "[국제경제 흐름 읽기] 미국 연준, 인플레 우려에 내달 금리인상 전망-일부 빅스텝 가능성도 제기 - 포커스온경제",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GSC1fZnBtRzE0TS1uYUlPRFdCQXF3NXFSU2haWGx0VmV3dF92bTFBR1E1MUVlN1Bfczl5UGNlZG5lUFJWNkhicUFEQ2p6dktkTTZjNWdWRzk5VFhQWVE?oc=5",
+          "source": "포커스온경제",
+          "published": "11-11 07:26",
+          "snippet": "[국제경제 흐름 읽기] 미국 연준, 인플레 우려에 내달 금리인상 전망-일부 빅스텝 가능성도 제기 포커스온경제"
+        },
+        {
+          "title": "[뉴욕마감]CPI 상승·연준 '빅스텝' 우려에 나스닥 0.74% 하락 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51N3RSVy1TRjdNQ0piSW50ZTJJWUltSzNHODd1VUFfcFJZMTVlaTN0aC1ib2VJZ3FvVlFDMERNMWJJRTJiUVB2dEk3T2R2SXU4LWwtWXE3UGpITWgxXzJ5S0JFRk5JQzA?oc=5",
+          "source": "뉴스1",
+          "published": "11-11 06:47",
+          "snippet": "[뉴욕마감]CPI 상승·연준 '빅스텝' 우려에 나스닥 0.74% 하락 뉴스1"
         },
         {
           "title": "'빅스텝' 거론까지‥미 연준 월러 \"12월 0.5% 인상도 고려\" - MBC 뉴스",
@@ -922,89 +905,104 @@
           "source": "MBC 뉴스",
           "published": "11-11 02:00",
           "snippet": "'빅스텝' 거론까지‥미 연준 월러 \"12월 0.5% 인상도 고려\" MBC 뉴스"
-        },
+        }
+      ],
+      "뉴욕증시 나스닥 급락": [
         {
-          "title": "달러화, 월러 연준 이사 금리 인상 발언에 반등 - 글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdmtpWWRrZERLR3JnYkthZFAxc1ZFNWR5ZnpqOFcydEFUc1hnb1ljUllJTDJPVmR0bHBuM0ZEZTZ1WjFiM1AxVXFnQkVXTXgyU2ZfdmVQSHJfME9ldURwYjJJOGRwWTZSTU9aM3RqNjhXUy10SmdIc2h6ZjZHYUdLYnBVQzFaZ1c4?oc=5",
+          "title": "[뉴욕증시] CPI 쇼크에 연준 ‘빅스텝 공포’…나스닥 187P·엔비디아 5.5% 급락 - 글로벌이코노믹",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT0VndVhEdTdTNklfaFYtZ1dQNTJfOC1KYnpuLVlhSW9LSDlPdEk1MUY1dEY1X3NxbDN4elN4SmVfUThIOG4yRmxERDczRk9DRTRsNXRSNXpKNTk2YnNuT0c2RDU1QWZZVGc2cGpOOEZGY1hSV1ctOEp2QmZXekdIUGpqY1JVQXpK?oc=5",
           "source": "글로벌이코노믹",
-          "published": "11-11 02:00",
-          "snippet": "달러화, 월러 연준 이사 금리 인상 발언에 반등 글로벌이코노믹"
+          "published": "11-11 06:33",
+          "snippet": "[뉴욕증시] CPI 쇼크에 연준 ‘빅스텝 공포’…나스닥 187P·엔비디아 5.5% 급락 글로벌이코노믹"
         },
         {
-          "title": "'비둘기' 월러 美 연준 이사, 12월 0.5%p 금리 인상 시사 - 파이낸셜뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PT05DZ2gtU2NOTVNycDhwUDlFaHlua0NiY1lXcEtQeVc5UTJZNEtSMS03OHFFb2JWNkZPZ0R6ZFJ4WEFDa3JBN1hsZW1Ra0R3Zk9QSDYyem1Fdw?oc=5",
-          "source": "파이낸셜뉴스",
-          "published": "11-11 03:35",
-          "snippet": "'비둘기' 월러 美 연준 이사, 12월 0.5%p 금리 인상 시사 파이낸셜뉴스"
+          "title": "美물가 쇼크에 나스닥 하락·엔비디아 6% 급락…코스피 5200선 회복 하루 만에 시험대 - 녹색경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tcHI3U3JIbkdDT0hMZ2FNenJKcmhXOC15bGlMWmEtWU1NQ1pueGE3OTMwTXFwQkgySUVwRXU0Ymc0LWZxSUxlOGljNGRfTGY4N3lkTktpcGVWQWdNLV91RS1RakVhSjha?oc=5",
+          "source": "녹색경제신문",
+          "published": "11-11 06:59",
+          "snippet": "美물가 쇼크에 나스닥 하락·엔비디아 6% 급락…코스피 5200선 회복 하루 만에 시험대 녹색경제신문"
         },
         {
-          "title": "미 연준 '빅스텝' 가능성 부상…미 근원 물가, '월러 기준' 충족 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96WlQ5bDllRVM4QUJzSGJRdUtGZ25XWGJ2aldfcHY0VGM2NGJvc0dEM1VHWDBzdnZKSHYyTnFiY2h3ZWFnUUg5cEczOHQzcjR0NkZlcHFPNlV0bFJa?oc=5",
+          "title": "예상 웃돈 물가에 뉴욕증시 일제히 하락…나스닥 0.7%↓ - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xVnhYM1lxNjRlbjVrWThJVnJ4NHJwaVYzT2JYVWljUU41ZHJSLWFUQTlKWTR2NWZYcjNLZjNWbDY3NUxvbjR6cjVfd2RsVnptTlhyN0xhMWhVbVdUNUNCa9IBYEFVX3lxTE4xVnhYM1lxNjRlbjVrWThJVnJ4NHJwaVYzT2JYVWljUU41ZHJSLWFUQTlKWTR2NWZYcjNLZjNWbDY3NUxvbjR6cjVfd2RsVnptTlhyN0xhMWhVbVdUNUNCaw?oc=5",
+          "source": "연합뉴스",
+          "published": "11-11 06:23",
+          "snippet": "예상 웃돈 물가에 뉴욕증시 일제히 하락…나스닥 0.7%↓ 연합뉴스"
+        },
+        {
+          "title": "뉴욕증시, 연준 '빅스텝' 우려·엔비디아 급락에 하락 마감 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXd3JGN1pKdWJHOEhPRFBSZ3JsZV9IU1hOdnJ1MGphYzZtMUdKY1p1UW9NVFRSSVdvWmMzd2VMd1FIMDJRbWFxR0tnMHZJNEpoU3EwR3NDdTZSdlBM?oc=5",
           "source": "뉴스핌",
-          "published": "11-11 02:41",
-          "snippet": "미 연준 '빅스텝' 가능성 부상…미 근원 물가, '월러 기준' 충족 뉴스핌"
+          "published": "11-11 06:23",
+          "snippet": "뉴욕증시, 연준 '빅스텝' 우려·엔비디아 급락에 하락 마감 뉴스핌"
         },
         {
-          "title": "월러 연준 이사 발언에 나스닥 선물 소폭 하락…미 CPI 주목 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHSlNsd3hBV0JvSkttdU04NFpoRlpLanJ2d1N1ODJiOThjeDV3WDhXeURPVHZ3THBzOEtWbmUwOEhCY2xud1ROSW00VjdGRmNBcFZrOW1hRzdaeWNQdFA0UlZYV2pMb1RXMjhmejFVdG0?oc=5",
-          "source": "Investing.com 한국어",
-          "published": "11-10 09:13",
-          "snippet": "월러 연준 이사 발언에 나스닥 선물 소폭 하락…미 CPI 주목 Investing.com 한국어"
+          "title": "[속보]이틀간 10% 급락 엔비디아…나스닥 0.74%↓ - 문화일보",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ycDJwNnlKTjgtTjRQQTBFM09iMkNUTkJ6cFR6dWs2bWpxRmZkTE1iblUtaVNLYXBGMU5fZC1jMkpPeXBVcU0wMm5RMUlNXzl6?oc=5",
+          "source": "문화일보",
+          "published": "11-11 06:20",
+          "snippet": "[속보]이틀간 10% 급락 엔비디아…나스닥 0.74%↓ 문화일보"
+        },
+        {
+          "title": "물가·연준 '빅스텝' 우려에 뉴욕증시 하락…나스닥 0.7%↓(종합) - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ic0tkSXFLUmFncmVrTG91QjRidC1nOEVFUy1ERl9mUEVrVm5fN2loMG1Ld2JaMndBN3g4X2JKY0JHelFaQjVQZC15UHJSN1R5dUE?oc=5",
+          "source": "매일경제 마켓",
+          "published": "11-11 07:26",
+          "snippet": "물가·연준 '빅스텝' 우려에 뉴욕증시 하락…나스닥 0.7%↓(종합) 매일경제 마켓"
         }
       ]
     },
     "queries": {
-      "코스피 코스닥": [
-        "코스피 코스닥 지수",
-        "코스피 코스닥 차이",
-        "코스피 코스닥 지수 실시간",
-        "코스피 코스닥 주가",
-        "코스피 코스닥 나스닥 차이",
-        "코스피 코스닥 지수 의미",
-        "코스피 코스닥 지수 차트",
-        "코스피 코스닥 하락 이유"
+      "엔비디아 칩 중국 밀반입": [
+        "엔비디아 칩",
+        "엔비디아 칩 종류",
+        "엔비디아 칩 가격",
+        "엔비디아 칩 담보 대출",
+        "엔비디아 칩셋",
+        "엔비디아 칩 한국",
+        "엔비디아 칩 이름",
+        "엔비디아 칩 중국 수출"
       ],
-      "매수 사이드카": [
-        "매수 사이드카 발동",
-        "매수 사이드카 기준",
-        "매수 사이드카란",
-        "매수 사이드카 시간",
-        "매수 사이드카 조건",
-        "매수 사이드카 매도 사이드카",
-        "매수 사이드카 발동 조건",
-        "매수 사이드카 서킷브레이커"
+      "코스피 매수 사이드카": [
+        "코스피 매수 사이드카 발동",
+        "코스피 매수 사이드카 발동 조건",
+        "코스피 매수 사이드카 조건",
+        "코스피 코스닥 매수 사이드카",
+        "코스피 매수 매도 사이드카",
+        "코스피 매수",
+        "코스피 매수 서킷",
+        "코스피 매수 매도 현황"
       ],
-      "4%대 급등": [],
-      "금리 인상": [
-        "금리 인상 수혜주",
-        "금리 인상 가능성",
-        "금리 인상 의미",
-        "금리 인상 효과",
-        "금리 인상 확률",
-        "금리 인상 주식 관계",
-        "금리 인상 발표",
-        "금리 인상 환율"
+      "강남 아파트값 하락": [
+        "강남 아파트값"
       ],
-      "3대 지수": [
-        "3대 유가 지수",
-        "미국 3대 지수",
-        "미국 주식 3대 지수",
-        "미국의 3대 지수",
-        "뉴욕 증시 3대 지수",
-        "뉴욕 3대 지수",
-        "세계 3대 지수"
+      "미국 CPI 예상 상회": [
+        "미국 cpi",
+        "미국 cpi 발표 일정",
+        "미국 cpi 발표",
+        "미국 cpi 지수",
+        "미국 cpi 발표 한국시간",
+        "미국 cpi 발표 결과",
+        "미국 cpi 발표 예상",
+        "미국 cpi 발표 시간"
       ],
-      "월러 연준": [
-        "월러 연준 이사",
-        "월러 연준 12월 금리 인하",
-        "월러 연준 의장",
-        "크리스토퍼 월러 연준 이사",
-        "크리스토퍼 월러 연준",
-        "연준 월러 이사 연설"
+      "연준 12월 빅스텝 우려": [
+        "연준 12월 금리 인하",
+        "연준 12월 금리",
+        "연준 12월 fomc",
+        "연준 12월",
+        "연준 12월 금리 발표",
+        "연준 12월 금리 발표일",
+        "연준 12월 금리인하 확률",
+        "연준 12월 일정"
+      ],
+      "뉴욕증시 나스닥 급락": [
+        "뉴욕증시 나스닥 차이",
+        "뉴욕증시 나스닥"
       ]
     },
-    "newsletter_md": "# ⚡ ZIPPY | AI 경제 데일리 브리핑\n_2026-11-11 이슈 · 발행 2026-11-11_\n\n🇰🇷 **국내 경제:** `코스피 코스닥` · `매수 사이드카` · `4%대 급등`\n🌐 **해외 경제:** `금리 인상` · `3대 지수` · `월러 연준`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 코스피 5300선 돌파 및 4%대 동반 급등\n> 키워드: 코스피 코스닥\n\n**📌 무슨 일이 있었나**\n- 코스피와 코스닥 지수가 미국발 훈풍에 힘입어 4거래일 만에 반등하며 나란히 4%대 급등세를 기록했다.\n- 코스피 지수는 장중 5300선을 돌파하는 기염을 토했으며 삼성전자와 SK하이닉스가 각각 4~6%대 상승하며 지수 견인차 역할을 했다.\n- 급격한 지수 상승으로 인해 코스피와 코스닥 시장 모두에서 프로그램 매수 호가 효력을 일시 정지하는 매수 사이드카가 발동되었다.\n- 이번 반등은 최근 3거래일간 이어진 하락세를 딛고 일어선 것으로 시장의 저가 매수세 유입과 미국 시장의 긍정적 영향이 복합적으로 작용했다.\n\n**💬 핵심 Q&A**\n- **Q. 장중 코스피 5300선 돌파가 시장에 주는 기술적 의미는 무엇인가?**\n  A. 4거래일 만에 하락세를 끊어내고 심리적 저항선인 5300선을 돌파한 것은 하락 추세의 반전을 시사한다. 특히 대형 반도체주의 강한 반등이 동반되어 지수의 하방 경직성을 확보한 것으로 평가된다.\n- **Q. 매수 사이드카가 양 시장에서 동시에 발동된 배경은 무엇인가?**\n  A. 선물 가격이 전일 종가 대비 5% 이상 상승한 상태가 1분간 지속되면서 프로그램 매수세가 급격히 유입되었기 때문이다. 이는 시장의 과열을 잠시 식히고 변동성을 완화하기 위한 거래소의 조치이다.\n- **Q. 반도체 대형주가 지수 급등을 주도한 구체적인 원인은 무엇인가?**\n  A. 미국 증시의 훈풍과 더불어 삼성전자와 SK하이닉스에 대한 저가 매수세가 유입되며 각각 4%와 6% 이상의 높은 상승률을 기록했다. 반도체 업황 회복 기대감이 지수 전체의 상승 에너지를 공급했다.\n\n**👀 앞으로 볼 포인트**\n- 코스피 5300선 안착 여부와 추가 상승 동력\n- 삼성전자 및 SK하이닉스의 외국인 매수세 지속성\n- 미국 소비자물가지수 발표에 따른 시장 변동성\n\n<sub>참고: [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jRS1XR0E0MzhZcmZvbC0tYndjcXNySnZXRlRPME9iU3g4ZFl2djg2aVJzcm1ra2RLd2Jyd3BCcTRjRUxqakF4ZWVyWUx6TnJ3Qzh3LU5mWUd5NHk2M25LN0VwR2poU1U?oc=5) / [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tRi1wWGJkVVAwZnVJR3oxTkE3VURRRUVVOXRsb3FTTjlLWVRIN3dTVl9PWVZiVHVGTFFNNVRZUHNYbktwMmEtM2Q0NmxRekVQSUxNWFBQR215ZTg?oc=5) / [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15NjlpcUNXOHNqR0tLdU9venE3YXFKalY0Mm9RTlVKNTdMY0xvZExkMGZDSGxkekcyZzZ4emw5dUdNdFZsWjZ3dFBhZVNoLWF2NzduSF9Sbm5PNU1rX0dUYjJ6QXJ6VTQ?oc=5)</sub>\n\n---\n\n### 2. 코스피·코스닥 급등에 매수 사이드카 동시 발동\n> 키워드: 매수 사이드카\n\n**📌 무슨 일이 있었나**\n- 코스피와 코스닥 지수가 4% 이상 폭등하면서 프로그램 매수 호가의 효력을 일시 정지하는 매수 사이드카가 잇따라 발동되었다.\n- 코스피 시장에서는 선물 가격이 전일 종가 대비 5% 이상 급등한 상태가 유지됨에 따라 오전 중 사이드카가 발동되어 거래를 진정시켰다.\n- 삼성전자가 5%, SK하이닉스가 7% 가까이 급등하는 등 시가총액 상위 반도체 종목들의 강세가 프로그램 매수세를 자극했다.\n- 미국 선거 이후의 불확실성을 해소하고 저가 매수세가 강력하게 유입되면서 4거래일 만에 시장 분위기가 급반전되었다.\n\n**💬 핵심 Q&A**\n- **Q. 매수 사이드카가 발동되는 구체적인 요건과 절차는 무엇인가?**\n  A. 코스피 기준 선물 가격이 기준가 대비 5% 이상 상승하여 1분간 지속될 때 발동되며 5분간 프로그램 매수 호가의 효력이 정지된다. 이는 급격한 가격 변동으로부터 시장을 보호하기 위한 안전장치이다.\n- **Q. 이번 사이드카 발동이 단순 기술적 반등 이상의 의미를 갖는가?**\n  A. 4거래일간의 하락을 딛고 발생한 강력한 반등 신호로 미국 선거 충격을 극복하려는 시장의 의지가 반영된 결과이다. 특히 반도체 대형주 중심의 매수세가 집중되며 지수 하단을 견고하게 지지했다.\n- **Q. 사이드카 발동 이후 시장의 매수세는 어떤 방향으로 전개되는가?**\n  A. 일시적인 호가 정지 이후에도 매수세가 유지될 경우 지수는 추가 상승을 시도하며 안착 과정을 거친다. 다만 급등에 따른 차익 실현 매물이 출현할 수 있어 거래량 변화를 주시해야 한다.\n\n**👀 앞으로 볼 포인트**\n- 프로그램 매수세 유입 강도 및 지속 가능성\n- 사이드카 해제 이후 지수의 추가 상승 여력\n- 외국인과 기관의 순매수 포지션 변화 추이\n\n<sub>참고: [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jRS1XR0E0MzhZcmZvbC0tYndjcXNySnZXRlRPME9iU3g4ZFl2djg2aVJzcm1ra2RLd2Jyd3BCcTRjRUxqakF4ZWVyWUx6TnJ3Qzh3LU5mWUd5NHk2M25LN0VwR2poU1U?oc=5) / [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tRi1wWGJkVVAwZnVJR3oxTkE3VURRRUVVOXRsb3FTTjlLWVRIN3dTVl9PWVZiVHVGTFFNNVRZUHNYbktwMmEtM2Q0NmxRekVQSUxNWFBQR215ZTg?oc=5) / [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15NjlpcUNXOHNqR0tLdU9venE3YXFKalY0Mm9RTlVKNTdMY0xvZExkMGZDSGxkekcyZzZ4emw5dUdNdFZsWjZ3dFBhZVNoLWF2NzduSF9Sbm5PNU1rX0dUYjJ6QXJ6VTQ?oc=5)</sub>\n\n---\n\n### 3. 4거래일 만의 반전, 코스피·코스닥 4%대 폭등 마감\n> 키워드: 4%대 급등\n\n**📌 무슨 일이 있었나**\n- 국내 증시가 최근의 급락세를 딛고 4거래일 만에 반등에 성공하며 코스피와 코스닥 모두 4%대 급등세로 장을 마쳤다.\n- 코스피는 장중 한때 5% 가까운 상승률을 기록하며 매수 사이드카가 발동되는 등 폭발적인 매수 우위 장세를 보였다.\n- 미국 증시의 긍정적인 영향과 반도체 대형주들의 동반 강세가 지수 전체의 상승폭을 확대하는 핵심 동력으로 작용했다.\n- 이번 급등은 단기 낙폭 과대에 따른 저가 매수세와 시장의 불확실성 해소가 맞물리며 나타난 강력한 되돌림 현상이다.\n\n**💬 핵심 Q&A**\n- **Q. 4%대라는 이례적인 급등이 발생한 결정적인 배경은 무엇인가?**\n  A. 3거래일 연속 하락에 따른 가격 메리트가 발생한 상황에서 미국발 훈풍이 트리거가 되어 대규모 자금이 유입되었기 때문이다. 특히 삼성전자와 SK하이닉스 등 시총 상위주의 폭등이 지수 상승을 견인했다.\n- **Q. 급락 뒤에 찾아온 이번 급등이 추세적 상승으로 이어질 가능성은 있는가?**\n  A. 4거래일 만에 하락분을 상당 부분 만회하며 강력한 반등의 발판을 마련했다는 점이 긍정적이다. 다만 향후 발표될 미국 물가 지표와 금리 경로에 따라 변동성이 재차 확대될 수 있다.\n- **Q. 코스피와 코스닥이 나란히 급등한 것은 어떤 시장 심리를 반영하는가?**\n  A. 유가증권시장과 코스닥 시장 전반에 걸쳐 위험 자산에 대한 선호 심리가 급격히 회복되었음을 의미한다. 특정 섹터에 국한되지 않고 시장 전체로 매수세가 확산되며 투자 심리가 개선되었다.\n\n**👀 앞으로 볼 포인트**\n- 4%대 급등 이후의 단기 과열 해소 과정\n- 주요 업종별 순환매 유입 및 지수 견인 여부\n- 글로벌 증시와의 동조화 현상 지속 여부\n\n<sub>참고: [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15NjlpcUNXOHNqR0tLdU9venE3YXFKalY0Mm9RTlVKNTdMY0xvZExkMGZDSGxkekcyZzZ4emw5dUdNdFZsWjZ3dFBhZVNoLWF2NzduSF9Sbm5PNU1rX0dUYjJ6QXJ6VTQ?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EVkVUUFktUkh3YUJtQmRFSldpRncxdEwteWhkRDNBOXpUYmMxMUlmTXR5SmVRNkswVnVZV3JTdUNtS0xqM0p6YkR4LVZDSEJOUnJlVzItcUROVEXSAWBBVV95cUxNWVRKSkRQZU9LbFpzYndiYnZEZTgzNmRNcDJMbndlUWl5ZGFRN2lGMTVkazEyaFVQQVUyMThiOGF0R2dDUUxPcnN0WWZiWGtOeWRHVnlQUFFrOTNnaTFNS0w?oc=5) / [더나은미래](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IYnJUaHo5M1FWN1RIemphZkdyalJoWFVzODhBM3pUZHdCbV9Ld2prLW1PQ0wyTndTUW9OM1hpRmVqVzEzWnROek5MRlpGeXYyU3c?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 연준 12월 0.5%p 인상 가능성 및 긴축 장기화 전망\n> 키워드: 금리 인상\n\n**📌 무슨 일이 있었나**\n- 크리스토퍼 월러 연준 이사가 12월 금리 인상을 지지하며 소비자물가지수 결과에 따라 0.5%포인트 인상 가능성을 시사했다.\n- 미국 10월 소비자물가가 0.4% 상승함에 따라 연준의 긴축 기조가 강화될 것이라는 전망이 시장에 확산되고 있다.\n- 도이체방크는 연준이 12월부터 내년 3월까지 세 차례 연속 금리를 인상할 것으로 내다봤으며 골드만삭스는 인상이 2027년까지 이어질 수 있다고 경고했다.\n- 월러 이사의 매파적 발언 이후 달러화 가치가 반등하며 시장의 금리 인상 기대감을 즉각적으로 반영했다.\n\n**💬 핵심 Q&A**\n- **Q. 월러 이사가 언급한 0.5%포인트 인상의 전제 조건은 무엇인가?**\n  A. 10월 소비자물가지수 등 물가 지표가 예상보다 높게 나타나 인플레이션 압력이 지속될 경우 빅스텝 단행을 고려하겠다는 입장이다. 이는 물가 안정에 대한 연준의 강력한 의지를 보여준다.\n- **Q. 골드만삭스가 금리 인상이 2027년까지 지속될 수 있다고 전망한 근거는 무엇인가?**\n  A. 인플레이션이 목표치로 수렴하는 속도가 예상보다 더디고 고용 시장의 견조함이 유지될 경우 긴축 사이클이 장기화될 수 있다고 분석했다. 이는 시장의 조기 금리 인하 기대를 억제하는 요인이다.\n- **Q. 금리 인상 전망 강화가 외환 시장과 달러 가치에 미치는 영향은 무엇인가?**\n  A. 연준의 매파적 행보가 구체화되면서 주요 통화 대비 달러화 가치가 강세를 보이는 달러 인덱스 반등 현상이 나타났다. 이는 글로벌 자금의 달러 자산 회귀를 가속화할 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 12월 FOMC에서의 금리 인상 폭 결정\n- 향후 발표될 근원 소비자물가지수의 추이\n- 연준 위원들의 추가적인 매파적 발언 여부\n\n<sub>참고: [머니투데이](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OYVlRbXk0MUpPQmtQMUgyT3FBTmhqUC1TS2YwVm9yQ3dBUmxWek44Unh2NFMtTE9PbnQ3RUFJZmMzVmh6T29LQ1kzaTlDaVFFYjhtSHB4M3NjdUxhdDdTeElULUY0THdn0gFuQVVfeXFMTy15MlRObVZOMlZUZkowSUdwOFUza0lDNXBudGhJeHoybEl2UDl3WFRpZGdLX2h4ZUVURDFxb3RvNDV1bk1EekNMMnpoaF9WRXJ2LXdJT2hLT0JXMmNUeDNFT1V3OWowZEo3UEtmeXc?oc=5) / [글로벌이코노믹](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdmtpWWRrZERLR3JnYkthZFAxc1ZFNWR5ZnpqOFcydEFUc1hnb1ljUllJTDJPVmR0bHBuM0ZEZTZ1WjFiM1AxVXFnQkVXTXgyU2ZfdmVQSHJfME9ldURwYjJJOGRwWTZSTU9aM3RqNjhXUy10SmdIc2h6ZjZHYUdLYnBVQzFaZ1c4?oc=5) / [아시아투데이](https://news.google.com/rss/articles/CBMibkFVX3lxTFB2MzVoa2RYM2pJVURiTFpMMHhaaGJhOVdSRFZadnZhSWUyQkN1QXVtUG9kLUpUMFZtZ21GWFZnU1hkU0g3Vzc3YXotS2s0Z0V3OWZnbnplZjExUHdZaXZfckpaMHhxcXZsNG81VER3?oc=5)</sub>\n\n---\n\n### 2. 뉴욕증시 저가 매수세 유입에 3대 지수 일제히 반등\n> 키워드: 3대 지수\n\n**📌 무슨 일이 있었나**\n- 뉴욕증시는 유가 급락과 기술주 중심의 저가 매수세 유입에 힘입어 3대 지수가 일제히 상승 마감했다.\n- 다우, S&P500, 나스닥 등 3대 지수는 장중 2%대 급등세를 보였으나 엔비디아는 4.27% 급락하며 기술주 내 차별화 양상을 나타냈다.\n- 미국 소비자물가지수 발표를 앞두고 금리 인상 기대감이 커지면서 비트코인 등 가상자산 가격은 하락 압력을 받았다.\n- 물가 상승 압력으로 인해 하락 출발했던 지수는 장중 저가 매수세가 강력하게 유입되며 반전에 성공하는 변동성을 보였다.\n\n**💬 핵심 Q&A**\n- **Q. 3대 지수가 2%대 급등하는 와중에 엔비디아가 홀로 급락한 이유는 무엇인가?**\n  A. 전반적인 시장의 저가 매수세에도 불구하고 엔비디아에 대해서는 고점 부담에 따른 차익 실현 매물이 집중되었기 때문이다. 기술주 내에서도 종목별 펀더멘털과 수급 상황에 따라 희비가 엇갈렸다.\n- **Q. 유가 급락이 뉴욕증시 3대 지수 상승에 어떤 경로로 기여했는가?**\n  A. 에너지 비용 감소가 기업의 비용 부담을 완화하고 인플레이션 압력을 낮출 것이라는 기대감을 형성했기 때문이다. 이는 투자자들의 위험 자산 선호 심리를 자극하는 요인이 되었다.\n- **Q. CPI 발표를 앞둔 시점에서 3대 지수의 상승은 무엇을 시사하는가?**\n  A. 금리 인상 우려에도 불구하고 시장이 경기 연착륙이나 기업 실적에 대한 신뢰를 바탕으로 저점 매수에 나섰음을 의미한다. 다만 지표 결과에 따라 상승폭을 반납할 가능성도 상존한다.\n\n**👀 앞으로 볼 포인트**\n- 엔비디아 등 주요 기술주의 실적 및 주가 향방\n- CPI 발표 이후 3대 지수의 방향성 결정\n- 국제 유가 변동이 증시 전반에 미치는 영향\n\n<sub>참고: [Chosunbiz](https://news.google.com/rss/articles/CBMingFBVV95cUxQY21QS1RNZXB0SE5SbldodEZSXzRDOHZuUzkwVzZkSUtpUVpiRjBycllTSFc2M3FnR3UyZWtiaThTYlFtLWd4QklZbWJ2ZjBidURVbXZocS1mY1QzR2pBZWhhbVZIOFZWWFRyT2ZvdkZabUtaWFFZcDdYeWFxZlZZSUVLYzA2SWFkaWlYUDBLbTBHeTJjM1c2SEo0UkVkZw?oc=5) / [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WY1ZaUkhfb2l2eEpKT0NLbUM3clBIb1dTcW5YcWkyaEdaODJSakxESzZ0YkhxSVJBUWc1NVJoOEJ0aktyUDRwYjIydEhrQThPbUROcEd0T0VXak9BckIySHQ5X1RqSFk?oc=5) / [koreadailytimes.com](https://news.google.com/rss/articles/CBMiSEFVX3lxTE5odmdlUXVFTTBqelVGSTB5Vkd6eEdhazlBRTFSWXUzZzlqV3huOEtaR0RuajhnS2w0b092UVFkUkxjVElzeU5Ldw?oc=5)</sub>\n\n---\n\n### 3. 월러 이사 12월 빅스텝 시사 및 매파적 행보 강화\n> 키워드: 월러 연준\n\n**📌 무슨 일이 있었나**\n- 크리스토퍼 월러 미 연준 이사가 12월 통화정책 회의에서 0.5%포인트 금리 인상을 고려할 수 있다는 매파적 발언을 내놓았다.\n- 월러 이사는 근원 물가 지표가 자신의 기준을 충족할 경우 더 큰 폭의 금리 인상이 필요하다는 점을 강조하며 시장의 긴장감을 높였다.\n- 비둘기파적 성향으로 분류되던 월러 이사의 이번 발언은 연준 내 긴축 기조가 더욱 공고해지고 있음을 시사하는 대목이다.\n- 해당 발언 직후 나스닥 선물이 소폭 하락하고 달러화가 반등하는 등 금융 시장이 즉각적인 반응을 보였다.\n\n**💬 핵심 Q&A**\n- **Q. 월러 이사가 언급한 빅스텝 가능성이 시장에 충격을 준 이유는 무엇인가?**\n  A. 상대적으로 온건한 입장을 취해온 인물이 0.5%포인트 인상이라는 강경한 카드를 꺼내 들었기 때문이다. 이는 연준 내부의 분위기가 예상보다 훨씬 매파적으로 기울었음을 의미한다.\n- **Q. 월러 이사의 발언이 나스닥 선물과 달러화에 미친 메커니즘은 무엇인가?**\n  A. 금리 인상 폭 확대 전망은 기술주 중심의 나스닥에는 할인율 상승 부담으로 작용해 하락을 유도했고 달러화에는 수익률 제고 기대로 매수세를 불러일으켰다.\n- **Q. 향후 월러 이사의 발언이 연준 정책 결정에 미칠 영향력은 어느 정도인가?**\n  A. 월러 이사는 연준 내 핵심 인사로서 그의 발언은 시장의 기대 금리를 조정하는 가이드라인 역할을 한다. 특히 물가 지표와 연동된 그의 발언은 12월 금리 결정의 결정적 변수가 될 전망이다.\n\n**👀 앞으로 볼 포인트**\n- 월러 이사가 제시한 근원 물가 기준 충족 여부\n- 연준 내 다른 이사들의 금리 인상 폭 관련 발언\n- 차기 FOMC에서의 점도표 변화 가능성\n\n<sub>참고: [머니투데이](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OYVlRbXk0MUpPQmtQMUgyT3FBTmhqUC1TS2YwVm9yQ3dBUmxWek44Unh2NFMtTE9PbnQ3RUFJZmMzVmh6T29LQ1kzaTlDaVFFYjhtSHB4M3NjdUxhdDdTeElULUY0THdn0gFuQVVfeXFMTy15MlRObVZOMlZUZkowSUdwOFUza0lDNXBudGhJeHoybEl2UDl3WFRpZGdLX2h4ZUVURDFxb3RvNDV1bk1EekNMMnpoaF9WRXJ2LXdJT2hLT0JXMmNUeDNFT1V3OWowZEo3UEtmeXc?oc=5) / [MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTE1FMmV2bnNlNUpyeVlESWthUnZxc2FfMVc2MTMwU0Z0cURJdjN1ZXoxak9iNkljbXBNQzBtMTgyZHVnN3ZRQjBrYVdQR2hPWFl3NG5DQlFnQzRqNU9IdzRxaENmQVZXSnBOLWVRLXRlOHl6NEFa0gF0QVVfeXFMTl93VnFCZERLNklWLS1idHc3ZVUzZHdFRUtXRnpQV1VXZ051TmR1RWZ1QXBYdk5YaWFyUFVXSzZ6RWx4ZkZmaGJobml6TExmSllseE1NNW5FVWNyNXVvalgwcUFXY2Q1dy1ONVRzY1phdjM2WkU?oc=5) / [글로벌이코노믹](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdmtpWWRrZERLR3JnYkthZFAxc1ZFNWR5ZnpqOFcydEFUc1hnb1ljUllJTDJPVmR0bHBuM0ZEZTZ1WjFiM1AxVXFnQkVXTXgyU2ZfdmVQSHJfME9ldURwYjJJOGRwWTZSTU9aM3RqNjhXUy10SmdIc2h6ZjZHYUdLYnBVQzFaZ1c4?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 보도를 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
-    "generation_mode": "fallback"
+    "newsletter_md": "# ⚡ ZIPPY | AI 경제 데일리 브리핑\n_2026-11-11 이슈 · 발행 2026-11-11_\n\n🇰🇷 **국내 경제:** `엔비디아 칩 중국 밀반입` · `코스피 매수 사이드카` · `강남 아파트값 하락`\n🌐 **해외 경제:** `미국 CPI 예상 상회` · `연준 12월 빅스텝 우려` · `뉴욕증시 나스닥 급락`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 10조 원대 AI 칩 밀반입 논란과 오너 리스크 확산\n> 키워드: 엔비디아 칩 중국 밀반입\n\n**📌 무슨 일이 있었나**\n- 엔비디아 최고경영자의 개인적 관계를 악용해 10조 원 규모의 최첨단 엔비디아 AI 반도체 칩이 중국으로 밀반입된 정황이 수면 위로 드러났다.\n- 미국의 대중국 반도체 수출 규제를 우회한 대규모 유출 사건이 발각되면서 엔비디아를 둘러싼 오너 리스크와 내부 통제 실패에 대한 시장의 우려가 급증했다.\n- 경쟁사인 구글과 AMD는 엔비디아가 오너 리스크와 규제 리스크로 흔들리는 틈을 타 자체 AI 생태계와 파트너십을 공격적으로 확장하고 있다.\n- 국내 시장에서는 엔비디아가 SK텔레콤, 리벨리온 등 한국 주요 기업들과 AI 인프라 삼각 동맹을 구축하며 기술 협력 방안을 모색하고 있다.\n\n**💬 핵심 Q&A**\n- **Q. 10조 원대 칩 밀반입 사건이 엔비디아의 시장 독점 구조에 어떤 균열을 만드는가?**\n  A. 미국의 엄격한 수출 제재를 우회한 대규모 유출로 인해 엔비디아는 미국 정부의 강력한 조사와 법적 규제에 직면했다. 이 과정에서 발생한 오너 리스크는 구글과 AMD 등 후발 주자들이 고성능 AI 칩 시장에서 입지를 넓히는 결정적인 계기가 되고 있다.\n- **Q. 중국 밀반입 이슈가 한국 AI 인프라 생태계에는 어떠한 파급 효과를 미치는가?**\n  A. 엔비디아의 글로벌 공급망 및 규제 리스크가 고조되면서 SK텔레콤과 리벨리온 등 국내 기업들과의 인프라 협업 가치가 더욱 부각되고 있다. 국산 AI 반도체 스타트업들은 엔비디아 의존도를 낮추려는 글로벌 수요를 흡수해 자체 생태계를 확대할 기회를 맞이했다.\n- **Q. 향후 엔비디아의 기업 가치를 결정지을 핵심 분기점은 무엇인가?**\n  A. 미국 규제 당국의 제재 수위와 함께 오너 리스크를 조기에 수습하고 내부 통제 시스템을 강화할 수 있는지가 관건이다. 동시에 경쟁사들의 추격을 꺾고 차세대 AI 인프라 주도권을 유지할 수 있는 기술적 격차 증명이 필요하다.\n\n**👀 앞으로 볼 포인트**\n- 미국 정부의 엔비디아 대상 대중국 규제 위반 조사 결과\n- AMD 및 구글의 AI 칩 시장 점유율 침투 속도\n- SKT·리벨리온 등 국내 AI 인프라 동맹의 실질적 성과\n\n<sub>참고: [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5abEVValJfQ3p1cFRHTGIwWEJwUEpQOXQ2cjJwZC1fWk9xZTQwZFNlOU4wcTdnWjhoTkZkbDJaM1NwVmVlWlNsaHVkZWROUjNyWHdBMEFwODc5dzR0Q3BZNVVENXIzcms?oc=5) / [KBS 뉴스](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vdHdabDV4X3ZTNGZ6WklVQmR1cmpiT056QzF1cWZ1UXJ1bXpReDJyVFVQUk05R2I5VWlRTWZoRXg2NHh6LUFEcVF2NU5ta3VGeTllcUhhUzQtVEdiY0tvTVBtaTBlUQ?oc=5) / [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxRU83VTYwdk12Q0tZYW1QRmJSYWhETER3SHZfOEI3blFWSFpKakM3bkV6bUhhWm1SdEgtcHo4Y1RJMHg4ZDRrNHV5bURRaDdhVlVwYzIxTXVCWGs?oc=5)</sub>\n\n---\n\n### 2. 미국 반도체 훈풍에 코스피·코스닥 매수 사이드카 발동\n> 키워드: 코스피 매수 사이드카\n\n**📌 무슨 일이 있었나**\n- 미국 증시의 반도체주 강세 훈풍에 힘입어 삼성전자와 SK하이닉스가 4%에서 6%대 급등하며 국내 증시의 상승세를 강력하게 견인했다.\n- 코스피와 코스닥 지수가 동시에 4%대 급등세를 나타내면서 양 시장 모두에 프로그램 매수 호가 효력을 정지하는 매수 사이드카가 발동되었다.\n- 미국 선거 관련 불확실성과 시장 충격을 이겨내고 4거래일 만에 강한 반등에 성공하며 투자 심리가 급격히 회복되는 모습을 보였다.\n- 증시가 대폭 호조를 보인 가운데 채권시장에서는 외국인 매수세가 유입되며 금리가 하락하는 강세 플래트닝 현상이 동시에 나타났다.\n\n**💬 핵심 Q&A**\n- **Q. 반도체 대형주 급등이 증시 전체의 매수 사이드카 발동으로 이어진 메커니즘은 무엇인가?**\n  A. 미국 반도체지수 상승 훈풍으로 시가총액 비중이 절대적인 삼성전자와 SK하이닉스에 외국인 매수세가 집중되었다. 주가지수 선물 가격이 급등하면서 선물과 연계된 프로그램 매수 호가가 폭발했고, 시장 과열을 식히기 위해 사이드카가 즉각 발동되었다.\n- **Q. 증시 급등 상황에서 채권 금리가 오히려 하락한 역설적 현상의 원인은 무엇인가?**\n  A. 주식 시장의 위험 선호 심리 부활에도 불구하고 채권 시장으로 외국인의 자금 유입이 대규모로 지속되었기 때문이다. 외국인 국채 매수세가 장기물 금리를 눌러 채권 가격이 상승했고, 이에 따라 증시 상승과 금리 하락이 동시에 발생했다.\n- **Q. 4거래일 만의 반등이 단기 반등을 넘어 추세적 상승으로 이어지기 위한 조건은 무엇인가?**\n  A. 반도체 이외의 다른 주력 업종으로 온기가 확산하고 외국인의 순매수 기조가 며칠간 유지되어야 한다. 또한 미국 선거 이후 정치적 불확실성이 완전히 해소되고 글로벌 IT 업황 선행 지표가 꾸준히 개선되어야 추세적 상승이 가능하다.\n\n**👀 앞으로 볼 포인트**\n- 코스피 상장 대형 반도체주의 추가 상승 여력\n- 매수 사이드카 발동 이후 외국인 수급의 지속성\n- 채권시장 금리 하락과 증시 급등의 동조화 유지 여부\n\n<sub>참고: [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jRS1XR0E0MzhZcmZvbC0tYndjcXNySnZXRlRPME9iU3g4ZFl2djg2aVJzcm1ra2RLd2Jyd3BCcTRjRUxqakF4ZWVyWUx6TnJ3Qzh3LU5mWUd5NHk2M25LN0VwR2poU1U?oc=5) / [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15NjlpcUNXOHNqR0tLdU9venE3YXFKalY0Mm9RTlVKNTdMY0xvZExkMGZDSGxkekcyZzZ4emw5dUdNdFZsWjZ3dFBhZVNoLWF2NzduSF9Sbm5PNU1rX0dUYjJ6QXJ6VTQ?oc=5) / [머니투데이](https://news.google.com/rss/articles/CBMiaEFVX3lxTE05N2pqaVU0a1hsRXJQRThDS1N1czJTQkM1NDRTZVNTeDRCaDFfbkRjcUMtNFZGTlJoWVFwVTdsWGVMaDRBMWZqYkc3NzBPN24xZU1JSkJ3ZjIxUkhKT2dmejVsZFk4SW9J0gFuQVVfeXFMTWp4UTJkRHYxTE8tU0lUck1Panp2ZTUtQXRWUWJVRVBzTll2M1FrckY1VFNDN2NNa1Z2bjJXYlRZX1Jpb3dGVnpJTFl5eU9PTkRjdG5ULXVrRzl2T0M1RXNTd2g2MDZfY0c2eDdkTGc?oc=5)</sub>\n\n---\n\n### 3. 강남 3구 아파트값 하락 전환과 재초환 부담금 갈등\n> 키워드: 강남 아파트값 하락\n\n**📌 무슨 일이 있었나**\n- 수도권 집값 상승세를 이끌던 강남 3구의 아파트 가격이 하락세로 돌아서며 주택 시장의 거래 위축 우려가 본격화되고 있다.\n- 강남 주요 재건축 조합들이 재건축 초과이익 환수제 부담금 현실화 통보에 강하게 반발하며 연대 투쟁을 모색하는 등 진통이 이어진다.\n- 11월 전국 아파트 입주전망지수는 소폭 상승했으나 서울을 포함한 수도권 입주전망지수는 오히려 하락하며 경기 둔화 징후를 보였다.\n- 미국 물가 쇼크와 금융 시장의 변동성 확대가 국내 자산 시장 전반으로 전이되면서 부동산 매수 심리 위축에 영향을 미쳤다.\n\n**💬 핵심 Q&A**\n- **Q. 재건축 초과이익 환수제 부담금 현실화가 강남 집값 하락에 어떠한 영향을 미치는가?**\n  A. 조합원 1인당 수억 원에 달하는 재초환 부담금이 현실화되면서 재건축 단지의 투자 수익성이 급격히 악화되었다. 매수 희망자들의 관망세가 짙어지고 조합원들의 급매물이 출회되면서 강남 3구 전체 집값을 아래로 끌어내리고 있다.\n- **Q. 수도권 아파트 입주전망지수 하락이 주택 시장 밸류체인에 가져올 리스크는 무엇인가?**\n  A. 입주 전망 악화는 기존 주택 처분 지연과 전세 시장 불안으로 이어져 수분양자의 잔금 납부를 어렵게 만든다. 이는 건설사와 금융권의 미입주 리스크 및 프로젝트 파이낸싱 부실 우려를 다시 키우는 연쇄 악영향을 유발한다.\n- **Q. 강남 아파트값 하락세가 전국 부동산 시장으로 확산할 분기점은 어디인가?**\n  A. 수도권 아파트 거래량이 시중 금리 상향 조정과 대출 규제 여파로 바닥권에 갇히는 시점이 분기점이다. 강남 핵심지의 가격 방어선이 깨지고 미분양이 수도권 전역으로 늘어난다면 하락 기조가 전국으로 확산할 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 강남 3구 매매가격 지수의 추가 하락 폭 및 기간\n- 재건축 초과이익 환수제 부담금 산정 규정 개정 논의\n- 수도권 아파트 입주율 및 분양 시장 실적 지표\n\n<sub>참고: [매일경제](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aaFp5eExXeTBBcGpLdHMzb0tyMXhaQmU4MjVBSFB1VG11VlM3cUNVMU1pSUdFUlZSU1JFVkthaEVqTGMydzJiQlZ4Q1IwWWtDSnBnU0RR?oc=5) / [Investing.com 한국어](https://news.google.com/rss/articles/CBMidkFVX3lxTE5JalN6WHdfMWVIZWUyTHRSOGREWENSTUN4MlpEczhDQ3pFYVRvdjJGT2JiUDB6R2ZLajlYbFl3aER4N0V5TTFQU2dvamZGZHdJekR0R2ZIMFVqVEp5SW5NY2N5amk2VVlHem45SHI4MUNOX1RXZ1E?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE5lQ0QySDZHcU1oR2FrdXZ2bDNGdU1NSHBNekdKNVBMMi1xbXh6Q2hQb2tTcGhSMlhXaXBrY1JTd3pvbkE4VHhKVkRVWVdiWVhHX3BlQjJ1TzZ2TVJTckpONmFVUjRMTUZVQ2xzdURYNTY?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 미국 10월 CPI 예상 상회에 인플레이션 공포 재발 shadow\n> 키워드: 미국 CPI 예상 상회\n\n**📌 무슨 일이 있었나**\n- 미국 10월 소비자물가지수가 전월 대비 0.4% 상승하며 시장 예상치를 상회해 꺾이지 않는 물가 상승 압력을 입증했다.\n- 인플레이션 상방 압력이 확인됨에 따라 미국 연방준비제도가 12월 기준금리를 0.5%포인트 인상하는 빅스텝을 단행할 가능성이 부상했다.\n- 뉴욕증시에서 기술주 중심의 나스닥 지수가 0.74% 하락했고 필라델피아 반도체 지수도 0.35% 내리며 투자 심리가 급격히 냉각되었다.\n- 서울 외환시장에서 원/달러 NDF 환율은 5.5원 상승했으며 연준 인사들의 매파적 발언이 더해져 달러화 강세를 부채질했다.\n\n**💬 핵심 Q&A**\n- **Q. 10월 CPI의 예상치 상회가 통화정책 경로를 어떻게 흔들고 있는가?**\n  A. 물가 상승세 둔화를 전제로 금리 인하 또는 인상 속도 조절을 기대했던 시장의 시나리오가 무너졌다. 끈질긴 인플레이션 압력으로 인해 연준이 12월 FOMC에서 기준금리를 한 번에 0.5%포인트 올리는 빅스텝에 나설 명분이 강화되었다.\n- **Q. 미국 물가 쇼크가 한국 금융시장과 환율에 전이되는 파급 경로는 무엇인가?**\n  A. 미국의 고금리 장기화 우려가 미국 국채 금리와 달러화 가치를 동시에 올려 원/달러 환율 상승을 유발한다. 이는 한국은행의 금리 운용 부담을 키우는 동시에 외국인 자금 유출을 자극해 국내 증시 하방 압력으로 작용한다.\n- **Q. 인플레이션 공포가 진정되고 시장이 반등하기 위한 핵심 선행 지표는 무엇인가?**\n  A. 주거비와 서비스 물가 등 변동성이 작은 근원 CPI 항목의 상승폭이 둔화되는 모습이 확인되어야 한다. 또한 노동시장의 과열 식힘 현상이 지표로 입증되어 연준의 긴축 명분이 약화되어야 시장이 안정될 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 미국 연준 인사들의 향후 통화정책 관련 발언 수위\n- 원/달러 환율의 추가 상승 및 1,400원선 돌파 여부\n- 다음 달 발표될 미국 고용지표 및 근원 물가 지수\n\n<sub>참고: [한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VRWFCNTBtMkRSNWhheW5TMFdzVm1jNnZBV3FEUFJETjA4Q3RVdi13TTd6MWluNF9sTmtDUW5lZWlpSUltZUxKWFNCT29pNlNQZE1qWEh2N0dLUQ?oc=5) / [이투데이](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VU1NJblR6d0xocFZWUFpLVzZYUXlxREs1eEtoal9fUGV4Mkl4amozaUNsS01ZRC1DNmNwVVRUNXJvbzlhSGdOYU1GeTZnMmhDSEFPMw?oc=5) / [뉴스1](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPWEV5cy1sZTIzTldVUkhDTkZfTF9LX00wRGlDcndwMi1rcWFvZWZJczdqMVRpc3JTTzhjYnJtOUdKanpWRWJPY3JLQnV4VTdGaTIxLS1DMnZVc1FYM1JnQTQ5cHBhcms?oc=5)</sub>\n\n---\n\n### 2. 12월 0.5%p 금리 인상론 부상과 연준 빅스텝 경고음\n> 키워드: 연준 12월 빅스텝 우려\n\n**📌 무슨 일이 있었나**\n- 크리스토퍼 월러 연준 이사가 12월 0.5%포인트 금리 인상 가능성을 공개적으로 언급하면서 12월 빅스텝 우려가 현실화되었다.\n- 예상을 뛰어넘은 물가 지표와 연준 당국자들의 연이은 매파적 발언으로 뉴욕증시 3대 지수가 일제히 하락세를 면치 못했다.\n- 월가 일각에서는 연준이 잘못된 인플레이션 지표에 집착해 12월에 빅스텝을 단행하는 것은 무모한 조치라는 비판적 시각을 제시했다.\n- 금리 긴축 공포가 재점화되면서 기술주와 고평가 성장주를 중심으로 매도물량이 쏟아져 나스닥 지수가 0.74% 하락 마감했다.\n\n**💬 핵심 Q&A**\n- **Q. 연준 인사들의 0.5%포인트 인상 언급이 시장에 큰 충격을 준 이유는 무엇인가?**\n  A. 시장 참여자들은 금리 인상 기조의 마무리를 기대하고 있었으나 연준이 다시 공격적인 긴축 카드를 꺼내 들었기 때문이다. 긴축의 상단이 더 높아지고 고금리 환경이 예상보다 길어질 수 있다는 공포가 투자 심리를 위축시켰다.\n- **Q. 월가 전문가들이 연준의 12월 빅스텝 추진을 무모하다고 비판하는 논리는 무엇인가?**\n  A. 시차를 두고 나타나는 지나친 금리 인상의 부작용이 실물 경제를 급격한 경기 후퇴로 몰아넣을 수 있다고 보기 때문이다. 현재의 물가 지표가 과도하게 후행적이며 이미 꺾이기 시작한 경기 둔화 신호를 반영하지 못한다는 지적이다.\n- **Q. 12월 FOMC에서 빅스텝 여부를 결정지을 최종 분기점은 어디인가?**\n  A. FOMC 직전에 발표되는 차기 소비자물가지수와 차기 비농업 부문 고용보고서 결과가 결정적이다. 두 지표에서 물가와 고용의 냉각 신호가 명확히 포착되지 않을 경우 연준은 0.5%포인트 인수를 강행할 가능성이 높다.\n\n**👀 앞으로 볼 포인트**\n- 12월 FOMC 회의 전까지 발표될 주요 경제 지표\n- 연준 내 비둘기파 인사들의 반대 목소리 표출 여부\n- 글로벌 자산 시장의 금리 인상 가능성 프라이싱 변화\n\n<sub>참고: [뉴스핌](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXd3JGN1pKdWJHOEhPRFBSZ3JsZV9IU1hOdnJ1MGphYzZtMUdKY1p1UW9NVFRSSVdvWmMzd2VMd1FIMDJRbWFxR0tnMHZJNEpoU3EwR3NDdTZSdlBM?oc=5) / [KB Think](https://news.google.com/rss/articles/CBMickFVX3lxTE1qSlNtb1dqNjBEamtmWmsybUlVdF9vT0d6cmFZMnZxaHRna3FvVnVBZEpqb3pYbnBabmprQlJYbk0wN2dDZXh5ckZnRzQwbXNMNUw0a2FaREpnNy1VX3dQMUF3T0xwWExET2NUT253VFRydw?oc=5) / [매일경제 마켓](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ic0tkSXFLUmFncmVrTG91QjRidC1nOEVFUy1ERl9mUEVrVm5fN2loMG1Ld2JaMndBN3g4X2JKY0JHelFaQjVQZC15UHJSN1R5dUE?oc=5)</sub>\n\n---\n\n### 3. CPI 쇼크에 나스닥 급락과 엔비디아 폭락 여파\n> 키워드: 뉴욕증시 나스닥 급락\n\n**📌 무슨 일이 있었나**\n- 예상을 웃돈 미국 10월 CPI 발표로 연준의 빅스텝 공포가 시장을 덮치면서 나스닥 지수가 187포인트 급락했다.\n- AI 대장주인 엔비디아는 대중국 밀반입 이슈와 악재가 겹치며 이틀간 10% 급락하고 당일에도 5.5%에서 6%대의 폭락세를 기록했다.\n- 뉴욕증시의 주요 기술주 투매 현상은 필라델피아 반도체 지수 하락으로 이어지며 글로벌 반도체 투자 심리를 크게 위축시켰다.\n- 뉴욕증시 급락 여파로 5,200선을 회복했던 코스피 지수는 단 하루 만에 다시 강력한 하방 시험대에 올라서게 되었다.\n\n**💬 핵심 Q&A**\n- **Q. CPI 쇼크와 엔비디아 급락이 나스닥 지수 폭락을 이끈 연쇄 작용은 무엇인가?**\n  A. 매파적 연준에 대한 공포로 기술주 전반의 밸류에이션 부담이 커진 상황에서 대장주인 엔비디아의 악재가 기름을 부었다. 엔비디아의 이틀간 10% 급락이 AI 기술주 전반에 대한 투매를 유발하며 나스닥 급락으로 이어졌다.\n- **Q. 나스닥 급락이 코스피 5,200선 회복 흐름에 던지는 구체적인 위협은 무엇인가?**\n  A. 한국 증시는 대미 수출 기술주와 반도체 비중이 높아 뉴욕증시 기술주와의 동조화 현상이 매우 강하다. 나스닥 급락은 외국인 자금의 이탈을 자극해 어렵게 회복한 코스피 5,200선을 하루 만에 위협하는 강력한 하방 압력으로 작용한다.\n- **Q. 급락한 나스닥 지수가 기술적 반등을 이뤄내기 위한 조건은 무엇인가?**\n  A. 엔비디아를 비롯한 대형 빅테크 기업들의 악재 수습과 주가 방어가 최우선 과제이다. 이와 함께 국채 금리의 상승세가 정체되고 연준의 빅스텝 우려를 완화할 완화적 발언이 나와야 시장이 진정될 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 엔비디아 주가의 단기 저점 확보 및 반등 여부\n- 나스닥 지수의 주요 이동평균선 지지 여부\n- 미국 기술주 폭락에 따른 국내 반도체주 영향\n\n<sub>참고: [글로벌이코노믹](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT0VndVhEdTdTNklfaFYtZ1dQNTJfOC1KYnpuLVlhSW9LSDlPdEk1MUY1dEY1X3NxbDN4elN4SmVfUThIOG4yRmxERDczRk9DRTRsNXRSNXpKNTk2YnNuT0c2RDU1QWZZVGc2cGpOOEZGY1hSV1ctOEp2QmZXekdIUGpqY1JVQXpK?oc=5) / [녹색경제신문](https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tcHI3U3JIbkdDT0hMZ2FNenJKcmhXOC15bGlMWmEtWU1NQ1pueGE3OTMwTXFwQkgySUVwRXU0Ymc0LWZxSUxlOGljNGRfTGY4N3lkTktpcGVWQWdNLV91RS1RakVhSjha?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xVnhYM1lxNjRlbjVrWThJVnJ4NHJwaVYzT2JYVWljUU41ZHJSLWFUQTlKWTR2NWZYcjNLZjNWbDY3NUxvbjR6cjVfd2RsVnptTlhyN0xhMWhVbVdUNUNCa9IBYEFVX3lxTE4xVnhYM1lxNjRlbjVrWThJVnJ4NHJwaVYzT2JYVWljUU41ZHJSLWFUQTlKWTR2NWZYcjNLZjNWbDY3NUxvbjR6cjVfd2RsVnptTlhyN0xhMWhVbVdUNUNCaw?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 보도를 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
+    "generation_mode": "gemini"
   },
   "yesterday": {
     "period_label": "2026년 11월 10일 (화)",
@@ -2974,5 +2972,5 @@
     "newsletter_md": "# ⚡ ZIPPY | AI 경제 데일리 브리핑\n_2026-11-04 ~ 2026-11-10 이슈 · 발행 2026-11-11_\n\n🇰🇷 **국내 경제:** `반도체주 반등과 변동성` · `공정위 플랫폼 규제 강화` · `부동산 부정청약 및 매물 적체`\n🌐 **해외 경제:** `나스닥 기술주 폭락 사태` · `젠슨 황 스캔들과 엔비디아 급락` · `미국 중간선거와 증시 반등`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 반도체주 사이드카 발동과 엔비디아의 디커플링\n> 키워드: 반도체주 반등과 변동성\n\n**📌 무슨 일이 있었나**\n- 삼성전자와 SK하이닉스 등 주요 반도체 종목이 4~5%대 강세를 보이며 코스피와 코스닥 시장에 매수 사이드카가 발동되는 급등세가 나타났다.\n- 뉴욕증시에서 나스닥 지수는 반도체주 반등에 힘입어 0.8% 상승했으나 대장주인 엔비디아는 홀로 4%대 급락하며 시장과 상반된 흐름을 보였다.\n- 개인 투자자들은 반도체주 탈출 고민 속에서도 관련 ETF를 오히려 추가 매수하며 반등장에 대한 기대감과 저점 매수 전략을 동시에 취하고 있다.\n- 미국 중간선거를 앞둔 경계감 속에서도 반도체 업종의 기술적 반등이 지수 하방 경직성을 강화하며 국내외 증시의 회복세를 견인하는 양상이다.\n\n**💬 핵심 Q&A**\n- **Q. 삼성전자와 SK하이닉스 급등으로 매수 사이드카가 발동된 구체적인 배경은 무엇인가?**\n  A. 반도체 대형주들이 4~5%대 강세를 보이며 지수를 급격히 견인하자 프로그램 매수 호가의 효력을 일시 정지하는 사이드카가 발동되었으며 이는 시장의 강력한 매수세 유입을 증명한다.\n- **Q. 나스닥 지수 상승에도 불구하고 엔비디아가 홀로 4%대 급락한 이유는 무엇인가?**\n  A. 기술주 전반의 반등세에도 불구하고 CEO 젠슨 황의 개인적 스캔들 의혹이 불거지며 투자 심리가 급격히 악화된 것이 엔비디아만의 독자적인 하락을 유도했다.\n- **Q. 반도체주 변동성 확대 상황에서 개인 투자자들이 ETF를 담는 전략의 근거는 무엇인가?**\n  A. 반도체 업황의 장기적 우상향을 신뢰하는 투자자들이 단기 폭락을 저가 매수의 기회로 판단하여 개별 종목 대신 분산 투자가 가능한 ETF 비중을 늘리는 것으로 분석된다.\n\n**👀 앞으로 볼 포인트**\n- 삼성전자 및 SK하이닉스의 외국인 수급 변화\n- 엔비디아 실적 발표 및 CEO 스캔들 여파\n- 필라델피아 반도체 지수의 조정장 탈출 여부\n\n<sub>참고: [한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBES1RZRVY4T2RnSVVPcFdFQ2xibUhNVmgwV0s4Nkh3TmE1R09zREFqT0NJZmN1b2JGUmZvQU9kbUFLaElySVlhU01pcHIwY21icTVFVzFPdkpxdw?oc=5) / [한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FN0dtNVNaYjl0ZGtZLVk3d2poeUxsTmY4U0lKZHl2Ti0tOWdiNjdwM202T3lvOTVsOFpJSkZVNHZ3T3BtZWQ3Tmp1cG5hcng3XzJiLXduWVFLUQ?oc=5) / [경향신문](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Jc1VuTmhYa29nSGJUaXFOUXBWc0ljR1Azd1RsemEzWUV5NkNVY1ZfVW1rbmFtT3BLLU1OczAzdmYwbGZSTUo2WjFPQUhPV00yekhjdjg2bExQZ9IBX0FVX3lxTE5BWURWelV5X2liaG1ONWFORnQ5T1NhSERrN09yVllJS21tVDBaSTgtVkhya1lkVzNGZDR2c25DamhSWVphN000RUV4YnVzV0V5QWlUTE5ENjh3ejBrX2dv?oc=5)</sub>\n\n---\n\n### 2. 플랫폼 다크패턴 제재와 AI 규제 공포 확산\n> 키워드: 공정위 플랫폼 규제 강화\n\n**📌 무슨 일이 있었나**\n- 공정거래위원회는 네이버와 두나무의 기업결합이 시장 내 경쟁을 제한할 우려가 있다고 판단하고 연내 심의를 목표로 조사를 진행 중이다.\n- 이용자의 회원 탈퇴를 방해하는 '다크패턴' 행위를 법 위반으로 명시하고 탈퇴 버튼을 숨기거나 절차를 복잡하게 만든 플랫폼들에 대한 제재를 강화했다.\n- 쿠팡이츠와 배달의민족은 공정위의 제재가 과도하다는 입장을 밝히며 의결서를 받는 대로 법적 대응을 검토하겠다고 발표하며 정면 충돌 양상을 보였다.\n- 미국에서는 젠슨 황 스캔들 이후 대중국 반도체 규제 강화 움직임과 함께 AI 규제 공포가 확산되며 나스닥 지수가 장중 5.5% 폭락하는 사태가 발생했다.\n\n**💬 핵심 Q&A**\n- **Q. 공정위가 명시한 플랫폼 '다크패턴'의 구체적인 법 위반 행위는 무엇인가?**\n  A. 이용자가 서비스 해지를 원함에도 불구하고 탈퇴 버튼을 찾기 어렵게 숨기거나 해지 절차를 의도적으로 복잡하게 설계하여 소비자의 선택권을 방해하는 행위를 의미한다.\n- **Q. 네이버와 두나무의 결합에 대해 공정위가 경쟁 제한 우려를 제기한 이유는 무엇인가?**\n  A. 포털 플랫폼과 가상자산 거래소 1위 사업자 간의 결합이 데이터 독점이나 시장 지배력 전이를 통해 관련 생태계의 공정한 경쟁을 저해할 수 있다고 판단했기 때문이다.\n- **Q. AI 규제 공포가 나스닥 지수를 5.5% 폭락시킨 메커니즘은 무엇인가?**\n  A. 정부의 강력한 규제가 AI 기업들의 수익 모델과 기술 개발 속도를 늦출 것이라는 우려가 확산되면서 고평가 논란이 있던 기술주들에 대한 투매 현상이 발생한 결과이다.\n\n**👀 앞으로 볼 포인트**\n- 네이버와 두나무 기업결합 심의 결과 발표\n- 플랫폼 다크패턴 관련 추가 제재 대상 명단\n- 미국 정부의 대중국 AI 반도체 추가 수출 규제\n\n<sub>참고: [한겨레](https://news.google.com/rss/articles/CBMib0FVX3lxTE8yYVNmNWFHMFdremhDU0RKcHdhdXFTSGNjVTZaYTJBbEFCa2xybEVQTUFvaEZGR3ZpZ1N0TWctSFZLRXNTOFFqTnpJNzZqVnJFT2RnWEhhUUN1cThCa0pQWGxjaURkUGRDcENUeUZCSQ?oc=5) / [Investing.com 한국어](https://news.google.com/rss/articles/CBMicEFVX3lxTE5nNU1ZUko5amlmVkstTVZvVXVOR0pkY1VmNVhjSVAxemE4R2E2ZUNTUXFRaEhlaGtpT2RlbE1Fd2RwTTJIUjVSX3FIU2J4eGthLW40MXJSOVFEMllCZ1ktMmtRWFZWSWliMDc4Y3I1eFY?oc=5) / [지디넷코리아](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zWTMyQmdqYU1Cakl0QXYxZWN2TExxdUExdE0wNlFQek5IS3g0NGtpNnE5YmFzcjNkTW5QQ3VsbENQNmEwaGpvR19zQnFBY3R2ajdob3BR?oc=5)</sub>\n\n---\n\n### 3. 위장전입 부정청약 무더기 적발과 매물 적체\n> 키워드: 부동산 부정청약 및 매물 적체\n\n**📌 무슨 일이 있었나**\n- 국토교통부 조사 결과 위장전입 334건을 포함하여 허위 퇴사, 유공자 자격 매매 등 총 354건의 아파트 부정청약 의심 사례가 무더기로 적발되었다.\n- 의사 부부가 청약 자격을 얻기 위해 허위로 퇴사하거나 위장 미혼 상태를 유지하는 등 지능적인 수법을 동원한 사례들이 수사 당국에 송치되었다.\n- 서울 아파트 매물은 3개월 연속 쌓이며 적체 현상이 심화되고 있으나 시장 가격은 과거 정부 시절과 유사한 흐름을 보이며 하방 경직성을 유지하고 있다.\n- 정부는 부정청약 적발 시 당첨 취소는 물론 향후 청약 자격 제한과 막대한 재산상 손실이 뒤따를 것임을 경고하며 엄정 대응 방침을 확고히 했다.\n\n**💬 핵심 Q&A**\n- **Q. 이번에 적발된 부정청약 사례 중 가장 높은 비중을 차지한 수법은 무엇인가?**\n  A. 전체 354건 중 334건을 차지한 위장전입이 압도적으로 많았으며 이는 특정 지역의 우선 공급 자격을 얻기 위해 주소지만 허위로 옮기는 행태가 여전함을 보여준다.\n- **Q. 부정청약으로 적발된 당사자들에게 가해지는 구체적인 불이익은 무엇인가?**\n  A. 이미 체결된 공급 계약이 취소됨은 물론 향후 최장 10년간 청약 신청 자격이 제한되며 형사 처벌에 따른 벌금 및 재산적 손실을 감수해야 한다.\n- **Q. 서울 아파트 매물이 3개월 연속 쌓임에도 가격이 급락하지 않는 이유는 무엇인가?**\n  A. 매물 적체에도 불구하고 실거주 수요와 공급 부족 우려가 공존하며 매도자들이 가격을 낮추기보다 관망세를 유지하는 하방 경직성이 강하게 작용하고 있기 때문이다.\n\n**👀 앞으로 볼 포인트**\n- 부정청약 적발 사례에 대한 최종 당첨 취소 여부\n- 서울 아파트 매물 적체 해소 및 거래량 변화\n- 위장전입 방지를 위한 청약 제도 개선안\n\n<sub>참고: [매일경제](https://news.google.com/rss/articles/CBMiVEFVX3lxTE16bFRQOTZwSFdBUExVb2kzMG95aktocjZydDB5aHd3TWxTMm5xSjBmVnkyQVVYNUkzRFFMb0RoQThocUhqRUJ2MlB4WVlDOUNuVHU1TQ?oc=5) / [경향신문](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NQlpIcXZuV2RNb19aaHltZ1VndWJQcjJoRlptRTA1SGRHWnAxSW9fYmZ6RDNLX2cxMGY3R0stVFhkcG1sRkU4VUV0c2dDSDh5STdhTmd1UDM2QdIBX0FVX3lxTE1IR085TlJvS2ZCeWlwU05ISTMzWTZkbjlEVS0wUzdXNlNRdUhHVWNjeEJodjlXQ3Z3d3VjU1ZoSmJKZE1BUjcxZGJ5REE3RlN6bEUzWHJVZm1iN2xPdXZB?oc=5) / [대한민국 정책브리핑](https://news.google.com/rss/articles/CBMibEFVX3lxTE1nNU40R2tfQ19OUTNsUFpQQWw1WGhaUy1NbGF4UGdGYnZfdVlDcEVHUkxUQTJYT0VBSmVhNGQtZXZvQjJMcHRidmFGczR3amFQNkRfdFhxUkVma3F5cTJIbzhuUDg0WDdpRFV1Rw?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. AI 거품론에 나스닥 5.5% 폭락과 조정장 진입\n> 키워드: 나스닥 기술주 폭락 사태\n\n**📌 무슨 일이 있었나**\n- 뉴욕증시에서 나스닥 지수가 AI 기술주에 대한 투매 여파로 5.5% 폭락하며 작년 4월 이후 최대 낙폭을 기록하고 장중 조정장에 공식 진입했다.\n- 폭락 사태 이후 저가 매수세가 유입되며 나스닥은 1.1% 반등에 성공했으나 엔비디아는 CEO 리스크로 인해 4% 넘게 추가 하락하며 대조를 이뤘다.\n- 다우 지수가 1100포인트 이상 급등하는 상황에서도 기술주 중심의 나스닥은 AI 수익성 의문과 규제 공포가 겹치며 상대적으로 높은 변동성을 노출했다.\n- 이번 폭락을 단순 조정을 넘어선 AI 산업에 대한 재평가 구간으로 해석하며 기술주 전반의 밸류에이션 재조정이 시작되었다.\n\n**💬 핵심 Q&A**\n- **Q. 나스닥 지수가 하루 만에 5.5%나 폭락하게 된 결정적인 트리거는 무엇인가?**\n  A. AI 기술주에 대한 과도한 낙관론이 꺾이면서 대규모 투매가 발생했고 특히 정부의 규제 강화 움직임이 투자자들의 차익 실현 욕구를 자극하며 투매를 가속화했다.\n- **Q. 폭락 이후 1.1% 반등이 하락 추세의 반전을 의미한다고 볼 수 있는가?**\n  A. 기술적 반등에 따른 저가 매수세 유입일 뿐 엔비디아 등 핵심 종목의 하락세가 멈추지 않았고 조정장에 진입한 만큼 추세 반전으로 단정하기는 어렵다.\n- **Q. 다우 지수 급등과 나스닥의 변동성이 동시에 나타나는 시장의 역설은 왜 발생하는가?**\n  A. 금리 환경 변화와 경기 지표에 따라 기술주에서 전통적인 가치주로 자금이 이동하는 순환매 장세가 펼쳐지면서 지수 간 수익률 격차가 크게 벌어지는 현상이다.\n\n**👀 앞으로 볼 포인트**\n- 나스닥 지수의 조정장 탈출 및 안착 여부\n- 주요 빅테크 기업들의 AI 부문 실적 가이던스\n- 미국 국채 금리 변동에 따른 기술주 수급 변화\n\n<sub>참고: [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNMGVCRDJJVzA0Y2JjTHdYY2hYZjhKOXkzeV9XMjBWMzYwTms3VHZlT08xZFZPcHk3WnRrNkQ4MkRIb0RvUXJFdEJwczc0Rk5HcWZxQXQ4U2hGYVnSAWBBVV95cUxPMW9xdWlOUV84b3JIMnd1X0IxU0RhZEdWWlpWaVE3b0E2SmhRMmtLUUlCTGh1REMtRXpYWWFkNEszMzdIdUg1NDY4UXI1MDdFNF9XNVJWSkNEWFRmck0tNUE?oc=5) / [한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CTXc5dFhOdDBtSW5fYUYwRl9zUXNMRURHZEVuWGZtVlNIeG84bFlNblhWcmpVX3g2cE5fbnZ6ZmVBQkhQbWtTa0QtZzQ5UWtTWDNJNS10aXY1UQ?oc=5) / [중앙일보](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwWDNzbTlGdmJzMU9lb0c2V29pVDhsbndNVTR1UkNITk9YTjRJclhYV1BlMi16RFdTOEQ3VUQ0LXdEQUotUlo5ZkhaYUdBZktrbkdON0t3?oc=5)</sub>\n\n---\n\n### 2. 젠슨 황 스캔들 파문에 엔비디아 홀로 급락\n> 키워드: 젠슨 황 스캔들과 엔비디아 급락\n\n**📌 무슨 일이 있었나**\n- 뉴욕증시가 전반적으로 반등하는 가운데 엔비디아는 CEO 젠슨 황의 불륜 의혹 등 개인적 스캔들 여파로 장중 한때 8%대까지 폭락하는 부진을 겪었다.\n- 젠슨 황의 스캔들 보도 이후 미국 정부가 대중국 반도체 수출 규제를 더욱 강화하려는 움직임을 보이면서 기업의 대외 리스크가 가중되고 있다.\n- 다우 지수가 1200포인트 급등하고 나스닥이 2.7% 상승하는 랠리 속에서도 엔비디아는 4~5%대 하락세를 지속하며 시장 소외 현상이 뚜렷해졌다.\n- 투자자들은 CEO의 도덕적 해이가 기업 이미지 실추를 넘어 핵심 경영 의사결정 및 정부와의 관계에 악영향을 미칠 가능성을 우려하며 매물을 쏟아냈다.\n\n**💬 핵심 Q&A**\n- **Q. CEO 개인의 스캔들이 엔비디아 주가에 이토록 치명적인 영향을 미친 이유는 무엇인가?**\n  A. 엔비디아는 젠슨 황의 강력한 리더십에 의존도가 높은 기업이며 그의 개인적 리스크가 정부 규제 대응이나 기업의 전략적 신뢰도에 타격을 줄 수 있다는 공포가 반영되었기 때문이다.\n- **Q. 스캔들 발생 시점과 미국 정부의 대중국 규제 강화 움직임 사이에 어떤 연관성이 있는가?**\n  A. CEO 리스크로 기업의 영향력이 약화된 틈을 타 정부가 안보를 명분으로 반도체 수출 통제 수위를 높이려는 정치적 판단이 개입되었을 가능성이 시장에서 제기되고 있다.\n- **Q. 엔비디아의 8%대 폭락이 반도체 산업 전반의 위기로 전이될 가능성은 어떠한가?**\n  A. 다른 반도체주들은 일제히 반등하며 엔비디아와 디커플링되는 모습을 보였으므로 산업 전체의 위기보다는 엔비디아 특유의 개별 리스크로 한정되는 양상이다.\n\n**👀 앞으로 볼 포인트**\n- 엔비디아 이사회의 CEO 스캔들 관련 공식 입장\n- 미국 상무부의 대중국 반도체 추가 제재 수위\n- 엔비디아 주가의 200일 이동평균선 지지 여부\n\n<sub>참고: [YTN](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Dem53VDA5blhhYUxCd2drRXFkakpBaTV6UjF6TThNRFlTcldQenFWcjlLdDQ2ZXFveWtLdU9UcGEzQmx0X3gyWFFhazVxS3lvYUEtRjlJM3RkUU9fS2c?oc=5) / [경향신문](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BQk1naXhweXc2cGNEVWJpWE1rM0ZHUEZpekh3dWp1dE5WVm5nT2hzY1ZhUjBXSUdVcnFFeW9FbkQydWdNOHpXZlkxcmlrTHNXcUF1ZERhVl9KQdIBX0FVX3lxTE1zbjdLZUZCNDJUMlRKcXFZcTY1dkNYcGt2VXM4bUpqc2RsNnhxMm82czlFVlVXUFo2ZDdxTXVvWUhfWUw0aTFkbnRkYTR2N3FxTXNUM3ZDcEVVQ0l0cmJN?oc=5) / [포커스온경제](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCTUpCZ3ctQUpCNnBPWDV0Y0w1UWNqSTRZSVJITmFRR3FvZ1pNU1RxQ1RpZDM2VGF6ckhSMEYycF9YUHNpVDR4QmVOVVpfZlRNek5WOUU5ckNBTmJ3TlE?oc=5)</sub>\n\n---\n\n### 3. 중간선거 경계감 속 기술주 반등과 코스피 회복\n> 키워드: 미국 중간선거와 증시 반등\n\n**📌 무슨 일이 있었나**\n- 미국 중간선거를 앞두고 시장의 경계감이 고조되며 뉴욕증시는 혼조세를 보였으나 반도체주 중심의 저가 매수세 유입으로 나스닥은 0.8% 상승 마감했다.\n- 국내 증시는 미국 증시의 상승세와 국제 유가 하락이라는 호재가 겹치며 코스피와 코스닥 지수가 동반 반등하는 흐름을 나타냈다.\n- 과거 중간선거 이후 증시가 상승했던 통계적 사례가 부각되면서 코스피가 4950선까지 추락할지 혹은 6700선까지 반등할지에 대한 시장의 전망이 엇갈리고 있다.\n- 투자자들은 선거 결과에 따른 정책 변화 가능성을 주시하며 대형 기술주와 에너지주 사이에서 포트폴리오를 재조정하는 관망세를 유지 중이다.\n\n**💬 핵심 Q&A**\n- **Q. 중간선거를 앞두고 시장이 혼조세를 보이면서도 나스닥이 0.8% 상승한 동력은 무엇인가?**\n  A. 선거 결과에 대한 불확실성으로 전체 지수는 정체되었으나 최근 낙폭이 과도했던 반도체 및 기술주를 중심으로 저가 매수세가 유입되며 지수 상승을 견인했다.\n- **Q. 미국 중간선거 공식이 국내 코스피 시장에도 긍정적인 영향을 미칠 것으로 보는 근거는 무엇인가?**\n  A. 역사적으로 미국 중간선거 이후 불확실성 해소와 함께 증시가 랠리를 보였던 경험적 데이터가 투자 심리를 자극하며 국내 시장의 동반 상승 기대감을 높이고 있다.\n- **Q. 유가 하락이 국내 증시 반등에 구체적으로 어떤 경로로 기여했는가?**\n  A. 에너지 비용 감소에 따른 기업의 비용 부담 완화와 인플레이션 압력 둔화 기대감이 형성되면서 외국인과 기관의 매수 심리를 개선시키는 촉매제로 작용했다.\n\n**👀 앞으로 볼 포인트**\n- 미국 중간선거 결과에 따른 의회 주도권 변화\n- 선거 이후 미중 관계 및 공급망 정책 방향\n- 국제 유가 추이에 따른 국내 증시 추가 반등 여부\n\n<sub>참고: [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LMDhvcGticFZVeDF5ekdHUVVZbUFLaFpfdVUxV0dtWFdLTkx3bEl2RTlBSS1HWE9SaVd4Rjg4cHhuRTd0djZzSnBPTDY2VUdqVlFNWE40eXZ4c2lZakcxeWgzVUszSjg?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wckpvQjNMMWZBNWJDYVQ1Skh6X3c4R2lWbU5ReVkxcTd4dUlkSllMSjVKczhrVkczWHFuVXVzVHl5YkFXa3Z5S0gzV1kwdWN3SlAtdldUbzV2ZlnSAWBBVV95cUxPUVNmQnFtUzN4cnY0VkFqZDNkOXZnSnZuYmJpbHMwSEhRV29Db0lCbjV6VVFxWE42R1hiWjBiMTg5VFdYREp0c04zaG9Ddm8zeGpmU3NwN2hSMlhSZXVPRU0?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iZzhVV0hmTTVQWjlQNjhhVGFLc1ZRbC1SRFdtelZPYi1SMHRVRGE2eHh4RW9WbDdRUGFkM1FMa1pjWjMydXprRkFJYjl2dTBwTW05YnJ0cHgxMEnSAWBBVV95cUxONlBLN2JPUG1MXzhsUkNhZ2VkNXRwS1Etc3h2eXVZQW96ZlF5S2NEQzFVbVlUdlQtYklYMXpLVzN4NTNMSjFJZHB4cEZpX0Z6eHdjeFNmVkFxeVJiN0MxVkQ?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 보도를 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
     "generation_mode": "gemini"
   },
-  "updated_at": "2026-11-11 04:51:11 KST"
+  "updated_at": "2026-11-11 08:34:13 KST"
 }
