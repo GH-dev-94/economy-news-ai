@@ -5,352 +5,132 @@
     "end_date": "2026-11-11",
     "domestic": {
       "keywords": [
-        "반도체주 우려 확산",
-        "청년층 취업자 감소",
-        "부정청약 대거 적발"
+        "10월 가계대출 증가",
+        "정년 연장 논의",
+        "코스닥 매수 사이드카"
       ],
       "results": {
-        "반도체주 우려 확산": {
-          "headline": "엔비디아 급락에 반도체주 투심 악화",
+        "10월 가계대출 증가": {
+          "headline": "10월 가계대출 5조원 증가와 미 빅스텝 공포",
           "facts": [
-            "뉴욕증시에서 엔비디아가 5% 넘게 급락하며 국내 반도체 대형주에 대한 투자 심리가 급격히 위축되었다.",
-            "개인 투자자들은 코스피 반등 시마다 1조 원 넘는 매물을 쏟아내며 차익 실현과 리스크 관리에 집중하는 모습이다.",
-            "반도체 주가가 저평가 영역에 진입했다는 시각과 추가 하락 가능성이 크다는 비관론이 팽팽하게 맞서고 있다.",
-            "젠슨 황 엔비디아 CEO의 개인 신상 이슈와 미국 금리 인상 공포가 겹치며 반도체 업황 전반에 대한 불확실성이 증폭되었다."
+            "10월 가계대출이 집단대출과 주식 투자 수요의 영향으로 전월 대비 5조 원 증가하며 가계 부채 부담이 가중되었다.",
+            "11월 1일부터 10일까지의 수출액은 335억 달러로 전년 동기 대비 111.9% 급증하며 일평균 수출도 97.7% 늘어났다.",
+            "지난달 취업자 수는 13만 9천 명 증가했으나 청년층 취업자는 4년째 감소세를 이어가며 고용 시장의 양극화가 심화되었다.",
+            "미국 10월 물가 지수가 예상치를 상회하면서 연준이 12월에 기준금리를 0.5%포인트 인상하는 빅스텝을 단행할 가능성이 제기되었다."
           ],
           "watch": [
-            "엔비디아 추가 하락 여부 및 지지선 확인",
-            "미국 연준의 12월 금리 결정 방향",
-            "국내 반도체 대형주 외국인 수급 변화"
+            "12월 미 연준 FOMC 기준금리 결정",
+            "가계대출 규제 강화 및 금리 인상 여부",
+            "청년층 고용 지표의 추가 하락 가능성"
           ],
           "qna": [
             {
-              "q": "개인 투자자들이 지수 반등 시마다 1조 원 넘게 매도하는 배경은 무엇인가?",
-              "a": "미국 금리 인상 우려와 엔비디아의 급락으로 시장의 불확실성이 커지자 손실을 최소화하려는 심리가 강해졌기 때문이다. 지수가 소폭 회복될 때마다 이를 탈출 기회로 삼는 매도세가 유입되며 상단이 제한되는 현상이 나타나고 있다."
+              "q": "가계대출 증가의 주요 원인이 주식 투자와 집단대출에 쏠린 이유는 무엇인가?",
+              "a": "주식 시장의 변동성을 기회로 삼으려는 투자 수요와 신규 분양 단지의 집단대출 실행 시기가 맞물렸기 때문이다. 특히 증시 반등을 노린 레버리지 투자가 가계대출 규모를 밀어올린 주요 동력으로 작용했다."
             },
             {
-              "q": "반도체 주가에 대한 시장의 엇갈린 시각은 구체적으로 어떤 내용인가?",
-              "a": "현재 주가가 실적 대비 지나치게 낮아 매수 기회라는 주장과 업황 둔화 우려로 바닥이 더 깊어질 것이라는 주장이 대립한다. 특히 엔비디아의 급락이 기술주 전반의 밸류에이션 재평가로 이어질지가 관건이다."
+              "q": "수출 지표의 기록적 상승이 국내 금리 결정에 어떤 변수로 작용하는가?",
+              "a": "수출 호조는 경기 회복의 신호로 해석되어 한은이 금리를 인상하거나 유지할 수 있는 명분을 제공한다. 하지만 가계대출 증가세와 맞물릴 경우 가계의 이자 상환 부담을 높이는 압박 요인이 된다."
             },
             {
-              "q": "젠슨 황 CEO의 개인 이슈가 반도체주에 실질적인 타격을 주는 이유는 무엇인가?",
-              "a": "엔비디아의 성장이 CEO의 리더십과 상징성에 크게 의존하고 있어 개인 신상 리스크가 기업 지배구조 및 브랜드 신뢰도 하락으로 연결될 수 있기 때문이다. 이는 기술적 펀더멘털 외의 변동성을 키워 기관 투자자들의 이탈을 부추기는 요인이 된다."
+              "q": "미국 물가 쇼크가 국내 가계부채 상환 부담에 미칠 파급 경로는 무엇인가?",
+              "a": "미국이 빅스텝을 단행하면 한미 금리 격차 해소를 위해 국내 기준금리도 상방 압력을 받게 된다. 이는 시중 대출 금리 상승으로 이어져 5조 원 넘게 불어난 가계대출의 이자 비용을 직접적으로 높이는 결과를 초래한다."
             }
           ]
         },
-        "청년층 취업자 감소": {
-          "headline": "청년 취업자 48개월 연속 감소세 지속",
+        "정년 연장 논의": {
+          "headline": "65세 연금 수령 공백에 정년 연장 논의 재점화",
           "facts": [
-            "10월 전체 취업자 수는 전년 대비 13만 9천 명 증가했으나 청년층 취업자는 4년째 감소하며 고용 한파가 이어지고 있다.",
-            "청년층 고용은 48개월 연속으로 줄어들며 고령층 위주의 취업자 증가세와 대비되는 'U자형 고용' 구조가 심화되었다.",
-            "청년층이 많이 종사하는 숙박 및 음식점업 취업자 수가 5년 8개월 만에 최대 폭으로 감소하며 고용 시장의 질적 저하 우려를 키웠다.",
-            "인구 감소라는 구조적 요인 외에도 경기 둔화에 따른 기업들의 신규 채용 축소가 청년층에 집중되는 양상이다."
+            "60세 퇴직 후 연금 수령이 시작되는 65세까지의 소득 공백을 메우기 위해 일본식 정년 연장 모델 도입 논의가 본격화되었다.",
+            "정년 연장 입법이 공공기관과 대기업 재직자에게만 혜택이 집중될 수 있다는 우려가 제기되며 형평성 논란이 일고 있다.",
+            "정부는 유류비 부담 경감을 위해 유류세 인하 조치를 내년 1월까지 2개월 추가 연장하기로 결정했다.",
+            "정년 연장이 현실화될 경우 퇴직연금 운용 방식과 기업의 인건비 부담 구조에 대한 전면적인 재검토가 필요하다는 지적이 나온다."
           ],
           "watch": [
-            "숙박·음식점업 등 서비스업 고용 회복 여부",
-            "연령별 취업자 수 양극화 추이",
-            "정부의 청년 일자리 대책 발표 및 실효성"
+            "정년 연장 입법 논의의 국회 통과 여부",
+            "퇴직연금 운용 방식 개편안 발표",
+            "내년 1월 유류세 인하 종료 시점 물가 영향"
           ],
           "qna": [
             {
-              "q": "전체 취업자가 늘어남에도 청년층만 48개월 연속 감소하는 이유는 무엇인가?",
-              "a": "인구 구조 변화로 인한 청년 인구 자체의 감소와 더불어 기업들이 경력직 위주의 수시 채용을 선호하면서 신입 진입 장벽이 높아졌기 때문이다. 고령층은 공공 일자리와 단순 노무직을 중심으로 취업이 늘어나는 반면 청년층이 선호하는 양질의 일자리는 정체된 상태다."
+              "q": "퇴직 시점과 연금 수령 시점 사이의 5년 공백이 정년 연장 논의의 핵심 동력인가?",
+              "a": "그렇다. 60세에 퇴직하더라도 국민연금 수령은 65세에 시작되어 발생하는 소득 절벽 현상을 해결하는 것이 이번 논의의 가장 시급한 목적이다."
             },
             {
-              "q": "숙박 및 음식점업의 취업자 급감이 청년 고용에 어떤 직접적인 영향을 주는가?",
-              "a": "해당 업종은 청년들이 학업 병행이나 첫 직장 진입 전 거쳐 가는 주요 고용 통로 역할을 하기 때문에 이 분야의 위축은 청년들의 소득 공백으로 직결된다. 5년 8개월 만의 최대 폭 감소는 내수 부진이 청년들의 단기 일자리마저 앗아가고 있음을 보여준다."
+              "q": "정년 연장이 대기업과 공공기관 위주의 수혜로 그칠 것이라는 비판의 근거는 무엇인가?",
+              "a": "고용 안정성이 높은 대기업과 공공기관은 정년 연장의 혜택을 즉각 누리지만, 중소기업은 인건비 부담으로 인해 실제 시행이 어렵기 때문이다. 이로 인해 노동 시장의 이중 구조가 더욱 고착화될 수 있다는 우려가 나온다."
             },
             {
-              "q": "U자형 고용 심화가 향후 경제 구조에 미칠 잠재적 위험은 무엇인가?",
-              "a": "허리 역할을 해야 할 청년층의 노동 시장 진입이 늦어지면 숙련 편향적 고용이 고착화되어 장기적인 잠재 성장률이 하락할 수 있다. 이는 세수 감소와 사회 보장 비용 증가로 이어져 국가 재정 부담을 가중시키는 연쇄 반응을 일으킨다."
+              "q": "정년 연장 논의가 퇴직연금 시장의 운용 전략에 어떤 변화를 불러오는가?",
+              "a": "근로 기간이 길어짐에 따라 퇴직연금 적립 기간도 늘어나며, 장기 운용에 적합한 수익 추구형 상품으로의 전환이 가속화될 수 있다. 기업 입장에서는 확정급여형(DB)에서 확정기여형(DC)으로의 전환을 유도할 가능성이 크다."
             }
           ]
         },
-        "부정청약 대거 적발": {
-          "headline": "위장전입·이혼 등 부정청약 354건 적발",
+        "코스닥 매수 사이드카": {
+          "headline": "코스닥 이틀 연속 매수 사이드카와 증시 반등",
           "facts": [
-            "정부 합동 점검 결과 위장전입과 위장미혼 등 부정한 방법으로 아파트 청약을 시도한 사례 354건이 대거 적발되었다.",
-            "신혼부부 특별공급을 노리고 의사 부부가 퇴사 후 재입사하는 꼼수를 쓰거나 노부모를 위장 전입시켜 가점을 높인 사례가 포함되었다.",
-            "심지어 모텔로 주소지를 옮기거나 청약 자격을 유지하기 위해 위장 이혼을 감행하는 등 수법이 갈수록 교묘해지고 있다.",
-            "국토교통부는 적발된 의심 사례들에 대해 경찰 수사를 의뢰하고 당첨 취소 및 향후 청약 제한 조치를 취할 방침이다."
+            "코스닥 지수가 5.6% 급등하며 이틀 연속 매수 사이드카가 발동되는 등 극심한 변동성을 보였다.",
+            "코스피 역시 미국 긴축 우려를 딛고 2.6% 상승 마감하며 지난주 투매 장세에서 벗어나는 흐름을 나타냈다.",
+            "미국 중간선거 이후 인공지능 관련주의 급락이 과도하며 이를 선별적 매수 기회로 활용해야 한다.",
+            "정부는 코스닥 시장 활성화를 위해 오는 13일 한국거래소에서 구체적인 대책을 논의할 예정이다."
           ],
           "watch": [
-            "수사 의뢰된 354건의 최종 형사 처벌 수위",
-            "부정청약 당첨 물량의 재공급 일정",
-            "정부의 청약 관리 시스템 강화 대책"
+            "13일 정부의 코스닥 시장 활성화 대책",
+            "외국인 및 기관의 코스닥 순매수 지속 여부",
+            "AI 관련주 추가 반등 및 기술적 저항선 돌파"
           ],
           "qna": [
             {
-              "q": "의사 부부가 사용한 '퇴사 후 재입사' 방식은 어떻게 청약에 이용되는가?",
-              "a": "신혼부부 특별공급의 소득 기준을 맞추기 위해 일시적으로 무직 상태를 만들어 소득 증빙을 낮추는 수법이다. 청약 당첨 직후 다시 원래 직장에 재입사함으로써 자산가임에도 불구하고 저소득층을 위한 혜택을 가로채는 행위다."
+              "q": "이틀 연속 매수 사이드카가 발동될 정도로 코스닥이 급등한 수급적 배경은 무엇인가?",
+              "a": "지난주 과도한 투매에 따른 저가 매수세 유입과 공매도 금지 조치 하에서의 숏커버링 물량이 집중되었기 때문이다. 프로그램 매수세가 일시에 몰리며 지수를 단기간에 폭등시켰다."
             },
             {
-              "q": "위장전입과 위장미혼이 청약 가점 산정에서 구체적으로 어떤 이득을 주는가?",
-              "a": "위장전입은 부양가족 수를 늘려 가점을 높이거나 해당 지역 거주자 우선 공급 자격을 얻는 데 활용된다. 위장미혼이나 위장이혼은 가구 소득 합산에서 제외되어 단독 가구주로서의 청약 자격을 유지하거나 특별공급 요건을 충족하기 위한 수단으로 악용된다."
+              "q": "미국 긴축 우려 속에서도 국내 증시가 강한 반등을 보인 동력은 어디에 있는가?",
+              "a": "미국 빅스텝 우려가 이미 선반영되었다는 인식과 함께 정부의 코스닥 살리기 대책에 대한 기대감이 작용했다. 특히 낙폭 과대주를 중심으로 한 기술적 반등 욕구가 강하게 분출되었다."
             },
             {
-              "q": "이번 대규모 적발이 향후 분양 시장의 청약 경쟁률에 어떤 변화를 가져오는가?",
-              "a": "부정청약으로 확보된 물량이 회수되어 무주택 실수요자들에게 재공급됨으로써 시장의 공정성이 회복되는 효과가 있다. 정부의 강력한 수사 의지가 확인된 만큼 허수 청약 수요가 억제되어 실수요자 중심의 경쟁 구도가 형성될 것으로 보인다."
+              "q": "모건스탠리가 언급한 AI주 선별적 매수 기회가 국내 반도체 기업에 미칠 영향은 무엇인가?",
+              "a": "글로벌 AI 밸류체인에 포함된 국내 반도체 및 소부장 기업들에 대한 외국인 투자 심리를 개선시킬 수 있다. 이는 코스닥 내 시가총액 상위 기술주들의 추가 상승 동력으로 이어질 전망이다."
             }
           ]
         }
       },
       "news": {
-        "반도체주 우려 확산": [
+        "10월 가계대출 증가": [
           {
-            "title": "코스피, 美연준 '빅스텝'우려에 약보합…코스닥은 2% 가까이 상승 - 연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lX0hQbVVEVnIzamJoNzY2MUdjeWtHWWlNejRpZjNSNnllV3dBYUx0TFBISFlERlVIbkJJZmc1bm5kUlRlTHZ0eXFVVVpxRHNGTFVaMkI4UFo5R0pSbDkyWGRNaERpSWstYThIMkZSUU8?oc=5",
+            "title": "10월 가계대출 5조원 증가…집단대출과 주식 투자 등 영향 - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xWXNfU1dPQUJVZnNGUE1obWY5cTVacV9kaEt0dFhQby1nREJjZXBHYWpKMEV1YmpMSkU1UHM2Z0xuWXF2bmNOVTg3eVhabDFNV0xMbzk2RVJiRlNyc0Vhd1k3LW5sVVcycURZeGNQdEk?oc=5",
             "source": "연합인포맥스",
-            "published": "11-11 09:23",
-            "snippet": "코스피, 美연준 '빅스텝'우려에 약보합…코스닥은 2% 가까이 상승 연합인포맥스 [속보] 코스닥 4%대 급등에 이틀 연속 '매수 사이드카' 발동 MBC 뉴스 코스닥, 부양책 기대에 이틀 연속 매수 사이드카…700선 터치 뉴스1 \"드디어 주가 바닥 찍었나\"…삼전닉스 반등 가를 핵심 변수 [분석+] 한국경제 미 증시 하락세 영향에...코스피 장 초반 보합권 YTN"
+            "published": "11-11 14:00",
+            "snippet": "10월 가계대출 5조원 증가…집단대출과 주식 투자 등 영향 연합인포맥스 증시 바닥인 줄 알았더니…개미들 '빚투' 폭발에 역대급 상황 한국경제 10월 은행 가계대출 5조원 증가…잔액 1204조 ’역대 최대’ By 알파경제 alphabiz Investing.com 한국어 10월 가계대출 다시 증가 전환…주택담보대출 증가 폭 확대 매일경제 마켓 “대출 조이기 효과 꺾였나”...은행 가계빚 사상 첫 1200兆 에너지경제신문"
           },
           {
-            "title": "공정위 \"네이버·두나무 결합, 시장 경쟁제한 우려\"…연내 심의 목표 - 지디넷코리아",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zWTMyQmdqYU1Cakl0QXYxZWN2TExxdUExdE0wNlFQek5IS3g0NGtpNnE5YmFzcjNkTW5QQ3VsbENQNmEwaGpvR19zQnFBY3R2ajdob3BR?oc=5",
-            "source": "지디넷코리아",
-            "published": "11-10 13:10",
-            "snippet": "공정위 \"네이버·두나무 결합, 시장 경쟁제한 우려\"…연내 심의 목표 지디넷코리아 \"1년 만에 심의 테이블\"...네이버+두나무 '조건부 승인' 가능성 - 머니투데이 머니투데이 공정위, 네이버파이낸셜·두나무 합병 조건부 승인 추진 서울경제 “네이버·두나무 합병, 경쟁 제한 우려” 경향신문 해외 거래소 韓 공략하는데…네이버·두나무 결합은 심사 지연 아시아경제"
+            "title": "11월 1∼10일 수출 335억달러, 111.9% 증가…일평균 97.7%↑ - 한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50dXY0QVdPWEJDZTlfRFlwWDNqQnduMm1iUzB3VUlTSU1QU25adHg0MFRJd0FOdjdpVGtmRGhTWlBEc2pvbWVJLTRvQVJVUFR4X3NiS05MWHVadw?oc=5",
+            "source": "한국경제",
+            "published": "11-11 09:01",
+            "snippet": "11월 1∼10일 수출 335억달러, 111.9% 증가…일평균 97.7%↑ 한국경제 올해 누적 수출액 9,637억 달러...수출 1조 달러 초읽기 YTN 사이언스 반도체 수출 4배로 껑충…'1조 달러' 곧 달성 전망(종합) 연합뉴스 대기업 수출 103% 늘었는데 중기는 10%…심화되는 양극화 경향신문 1년새 3687억달러 늘어난 韓수출…74%는 '반도체 힘' 아시아경제"
           },
-          {
-            "title": "코스피 반등마다 1조원 넘게 파는 개미들...젠슨 황 불륜, 美 금리 인상 공포에 커지는 우려 - 조선일보",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaGt3dDR5YVJYcjBQbnpiOWdMc2FRcGJYSTJTVzkyNHpjRVkyMnFnMkw2bmE1Z3pzMTZuMzlqblU1R3lUYXl6ZnNfYndTVUR1THRpLUllTHBUSE5jVUE5QUZCSjBGNWNwXzVzYjhsX0JlUTB6R0Nhbm9VWjVWNXMyTw?oc=5",
-            "source": "조선일보",
-            "published": "11-11 08:49",
-            "snippet": "코스피 반등마다 1조원 넘게 파는 개미들...젠슨 황 불륜, 美 금리 인상 공포에 커지는 우려 조선일보 한달 만에 1000만원→299만원 됐다...'야수의 심장' 개미, 눈물의 물타기 [서학픽] - 머니투데이 머니투데이 급락해도 또 산다…레버리지 ETF에 2조원 베팅한 개미들 한국경제 [해외주식 Cilck] 반도체 12% 폭락에도…서학개미, '반도체 3배' 17억달러 쓸어 담았다 메트로신문 \"팔면 반등할 것 같고, 버티면 더 빠질 것 같고\" 반"
-          },
-          {
-            "title": "\"반도체주 너무 싸, 지금 가격이 크리스마스 선물\" VS \"더 떨어질 것' - 머니투데이 - 머니투데이",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16WkZVT0xxaGkwUGl1clR2cFNtVUNiQUtFUFVoTHNkNWFJc2cxZTVWQVI4c0VraEp6TGJ3TVNmS05SSjhsY0ZIeXNmYjZGd2NtMUphaUxjS2ROZHVOOHhvbmVVRkJMODVv0gFuQVVfeXFMTndMWk1YMUlvZmw2X3B3QU5zYTFqX056ZDdmRDhFYjJuZ3lISmdFYW5Kbkx0R24tbHI0WS12SE1tYWptTFhwemdjb0lRLXRkNm9mT0NKSnA0M19wZ01MRUc0TVU4RDBwZkJCZEFOUFE?oc=5",
-            "source": "머니투데이",
-            "published": "11-10 09:46",
-            "snippet": "\"반도체주 너무 싸, 지금 가격이 크리스마스 선물\" VS \"더 떨어질 것' - 머니투데이 머니투데이 블룸버그 \"엔비디아 주가, 젠슨 황 자리 지킬지에 달려\" 연합뉴스 \"젠슨 황 해임하면 기업가치 30% 증발\"…엔비디아 이사회 '딜레마' 뉴시스 AMD·브로드컴 날았다...엔비디아만 4% 급락 네이버페이 머니스토리 엔비디아, 월마트, 마이크로소프트 外 마켓인"
-          },
-          {
-            "title": "딜라이브도 CJ ENM 채널 종료 추진…SO·PP 갈등 확산 - 전자신문",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mSTVJQTJ5T1JVbHJ2aUI2cFBGQ3BHdHVXMTZsaGxqRlRjdzhCc2ZDWkRjdnRodVNZRmwzUlJLNDRUT1B3cE1NMkVYRjJLUQ?oc=5",
-            "source": "전자신문",
-            "published": "11-10 14:12",
-            "snippet": "딜라이브도 CJ ENM 채널 종료 추진…SO·PP 갈등 확산 전자신문 채널 송출 중단에 케이블TV·PP 갈등 거세졌다 지디넷코리아 CJ ENM 채널 종료에 업계 충돌…\"시청권 침해\" vs \"사용료 인하 필요\" 뉴시스 방송채널진흥협회 “LG헬로비전 채널 종료, 정부 가이드라인 무력화” 전자신문 SO업계 \"가입자·시청률 줄었는데 사용료 그대로\"…PP에 정면 반박 뉴스1"
-          },
-          {
-            "title": "뉴욕증시, 연준 '빅스텝' 우려·엔비디아 급락에 하락 마감 - 뉴스핌",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXd3JGN1pKdWJHOEhPRFBSZ3JsZV9IU1hOdnJ1MGphYzZtMUdKY1p1UW9NVFRSSVdvWmMzd2VMd1FIMDJRbWFxR0tnMHZJNEpoU3EwR3NDdTZSdlBM?oc=5",
-            "source": "뉴스핌",
-            "published": "11-11 06:23",
-            "snippet": "뉴욕증시, 연준 '빅스텝' 우려·엔비디아 급락에 하락 마감 뉴스핌"
-          }
-        ],
-        "청년층 취업자 감소": [
           {
             "title": "지난달 취업자 13만9천 명 증가‥청년층은 4년째 감소세 - MBC 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84S2dGN3gtVFZ5V1hUclk5VTM3QTFIRlFkb05DbEJ4aGV6b2hBZkJUYjYzWWsyc3U5dENvRk9mVkk1YkFxQ2I1ZENYVXB6UjluNDdmQnlsTEhaU0o0NVZGVmdHZDU1TGl4bFRZZWtvS2xNd0pW?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84S2dGN3gtVFZ5V1hUclk5VTM3QTFIRlFkb05DbEJ4aGV6b2hBZkJUYjYzWWsyc3U5dENvRk9mVkk1YkFxQ2I1ZENYVXB6UjluNDdmQnlsTEhaU0o0NVZGVmdHZDU1TGl4bFRZZWtvS2xNd0pW0gF0QVVfeXFMTms2RW03MVhhT3hSM2tfS0RpQUF1ZXVET3FxUTM1WkpSdTdYc0M0T24zRXdhN2VfYmlYcEhvWkVjTDZ5d1dLT0VZYUJvUEdtNFJHRHh2dEFuanYyekpGNWJWWldLdkg0TDRZbzJfTzdXdW5JbjY?oc=5",
             "source": "MBC 뉴스",
             "published": "11-11 09:08",
-            "snippet": "지난달 취업자 13만9천 명 증가‥청년층은 4년째 감소세 MBC 뉴스 취업자 넉 달 째 10만 명대 증가...청년층 48개월 연속 감소 YTN 청년층 고용률 코로나 후 최저…숙박음식 5년8개월만에 최대폭↓(종합2보) 연합뉴스 권대영 “‘취약계층의 일자리 여건 개선’ 최우선 순위로 국민일자리 프로젝트 추진” 마켓인 10월 노동시장 동향 발표하는 조원식 노동부 미래고용분석과장 뉴시스"
+            "snippet": "지난달 취업자 13만9천 명 증가‥청년층은 4년째 감소세 MBC 뉴스 취업자 넉 달 째 10만 명대 증가...청년층 48개월 연속 감소 YTN 사이언스 일하는 60세 이상 730만, 하지만 고용률은 하락 이투데이 일자리를 찾아라 '서울커리업 일자리페어' 뉴스1 인건비 부담에 자영업자 고용 축소…음식점업 취업자 급감 동아일보"
           },
           {
-            "title": "미-이란 긴장 완화 기대와 재고 감소에 유가 2개월 저점에서 반등 By Investing.com - Investing.com 한국어",
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tU24tTWV6eThUWUk4bk1qQzF2aU1rUjJ1QXR0bVloWVA4VzZPRDJ4SlVYMVRRVDB4ZW9jRnpvS0JKRS05ZkJ6SkFlTERJTjNhZnlQdzY2bmFTLXFIWWZfX29Wc0N6VXI5UE5OZHZCRQ?oc=5",
-            "source": "Investing.com 한국어",
-            "published": "11-11 11:15",
-            "snippet": "미-이란 긴장 완화 기대와 재고 감소에 유가 2개월 저점에서 반등 By Investing.com Investing.com 한국어 국제유가 하락세 지속…8월 31일 이후 최저 KBS 뉴스 산업부 \"연말까지 원유·나프타 90% 이상 물량 확보\" 연합뉴스TV 하나증권 \"유가 하락에 항공주 부각, 대한항공 진에어 투자심리 개선 전망\" 비즈니스포스트 국제유가, 트럼프 '공격 자제' 발언에 급락…브렌트유 장중 7.9%↓ - 머니투데이 머니투데이"
-          },
-          {
-            "title": "취업자 넉 달 째 10만 명대 증가...청년층 48개월 연속 감소 - YTN",
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xWlRZdTJYVEpKWFljMFZNNFM2Tkk0bE9yUDFQUG5obHBFN3VaRjdKLUpCUWY3dUNrWG1Qb2JScm1ZdFNNMVJZOUJaeXZvcVluRzZwTGlkdUJUYWtGQmZmTWdDRDRKbUVQQzlDOURoWQ?oc=5",
-            "source": "YTN",
-            "published": "11-11 11:04",
-            "snippet": "취업자 넉 달 째 10만 명대 증가...청년층 48개월 연속 감소 YTN"
-          },
-          {
-            "title": "[종합] 10월 취업자 13만9000명 늘었지만…청년 일자리 48개월째 감소 - 뉴스핌",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlRVBZd3hTdlhzYmJEbXZhMFdQMDZZcTNsWWpna011ay12WTViTnpUTGJJVXpMYVNLZ0xtVzA1YzFyUEhfMl95YVdGSFR3Sy1xdDFLRVlRV2YwZkdT?oc=5",
-            "source": "뉴스핌",
-            "published": "11-11 09:43",
-            "snippet": "[종합] 10월 취업자 13만9000명 늘었지만…청년 일자리 48개월째 감소 뉴스핌"
-          },
-          {
-            "title": "청년층 취업자 4년째 감소… ‘U자 고용’ 심화 - 문화일보",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RTzJUUE84UHZVTWNUN2VlQWo0V3QtS3dYLTRidWotVExWYl9TX19STGxHMWU5WFBSM1VRNzdTeGJ0U2VKLVpHNUpQVHpzUGxI?oc=5",
-            "source": "문화일보",
-            "published": "11-11 11:57",
-            "snippet": "청년층 취업자 4년째 감소… ‘U자 고용’ 심화 문화일보"
-          },
-          {
-            "title": "숙박음식점 취업 5년8개월 만에 최대폭 감소…청년 고용도 4년째 한파 - 중앙일보",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4dFFVQ2c1YkFQNFkyR09wajZZU3NQT09FZUxwc1RNcHZEblE0dlRYY3ZDSzZ0eWNzN1lnQ0VpWS1wQnFxNjRTdGtLT1J2MGNsWlU5Sm5n?oc=5",
-            "source": "중앙일보",
-            "published": "11-11 12:13",
-            "snippet": "숙박음식점 취업 5년8개월 만에 최대폭 감소…청년 고용도 4년째 한파 중앙일보"
-          }
-        ],
-        "부정청약 대거 적발": [
-          {
-            "title": "‘퇴사 뒤 재입사’ 꼼수… 의사부부 등 부정청약 354건 적발 - 동아일보",
-            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvaC1HdUhma0RJX2FOR2FkdmF6aHBtamlEMzE1aTJ0RkhTb2JmVVF1cGd4OWlxT0NzMjFfcEZINmZsVjVZX0xjWVh2b1pieWVSbnRYZV9tekM0cDJjWjNib0xramgteXJmQk5wSXVtbXBHRF82T2dR0gFmQVVfeXFMUHFheU1TN1hDT1gxNzlpbkdRbEVaN1NxT2M3RTk0Z0Q4alA0YmVCOWRlOE1Na0ZpWWtPazBiTnJIelIyQ01mc19LQUpvSnptbGZ1eUtScnJRdHJHWUpQdTNsSWJVanpn?oc=5",
-            "source": "동아일보",
-            "published": "11-11 04:30",
-            "snippet": "‘퇴사 뒤 재입사’ 꼼수… 의사부부 등 부정청약 354건 적발 동아일보 “엄마 병원 기록에 덜미”…부정청약 들통난 부부의 최후 [잇슈 머니] KBS 뉴스 '고소득' 의사 부부, 병원 나란히 퇴사 알고보니…기막힌 꼼수 한국경제 청약 당첨되려고 위장전입에 가짜 퇴사까지…부정청약 의심 354건 적발 주간조선 의사가 일용직으로 ‘소득 세탁’…부정청약 354건 적발 문화일보"
-          },
-          {
-            "title": "노부모 위장전입시켜 특공…부정청약 대거 적발 - 연합뉴스TV",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UOEstbEpKUTlzcmhVTU41dElBVEJJMHVLdXExNl9MU3VYblNEQVlEeXNMbWVmT0hZVm5lcWVCT1JEUTZhUDJxV1pJdkw1cklicHVVXzNNVVAtWnRyY051b3NIWXk0Zw?oc=5",
-            "source": "연합뉴스TV",
-            "published": "11-11 05:47",
-            "snippet": "노부모 위장전입시켜 특공…부정청약 대거 적발 연합뉴스TV"
-          },
-          {
-            "title": "위장전입에 위장미혼, 부정청약 의심 사례 대거 적발···정부, 수사 의뢰 - 한국NGO신문",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYS2xwNzNpX2VwUEZQVENFVWZ6N3piaFpjSmFJQktZUXg1ZGl2ckRiUGNjVks3WHBzcFVnejdZNjF1VVJoSXZZd2lIV2ZMRnlCNG0xZDl3QlB2bkoycDJRcnVZQVY2T0lR?oc=5",
-            "source": "한국NGO신문",
-            "published": "11-10 12:38",
-            "snippet": "위장전입에 위장미혼, 부정청약 의심 사례 대거 적발···정부, 수사 의뢰 한국NGO신문"
-          },
-          {
-            "title": "신혼 특공 노려 위장 퇴사까지…부정청약 의심 354건 적발 - KBS 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FTTZoelZxS3ctTk5jVVdFVUF2NXc1TVQ4UUwtQmo1ZzU0NGdfZS03Um9xN043b085UTEyN09HcUVsTmg2ZjhwSG1tTlNsX0tjWXdwTkJJSTI0V00?oc=5",
+            "title": "고속도로 ‘크루즈 컨트롤’ 켜고 달리다 올해만 8명 사망…60% 증가 - KBS 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtTnhqMzZtR19OUTFGT01fYmNTTXl3NS1ZMmtwOUdFZ0hnY1MzWVdydWlpbVZIMVJzY1NZbnl6enRhSktMa081Z184WmJCWVkzekFfXzRGaDA1N28?oc=5",
             "source": "KBS 뉴스",
-            "published": "11-10 10:00",
-            "snippet": "신혼 특공 노려 위장 퇴사까지…부정청약 의심 354건 적발 KBS 뉴스"
+            "published": "11-11 11:05",
+            "snippet": "고속도로 ‘크루즈 컨트롤’ 켜고 달리다 올해만 8명 사망…60% 증가 KBS 뉴스 차량 '액티브 크루즈 컨트롤' 사용 중 사고 급증세 매일경제 마켓 ACC 믿고 운전하다가…교통 사망사고 3년 새 60% 급증 뉴시스 운전 보조장치 믿었다가…고속도로 사고 치사율 6배 높아 뉴스핌 정차 차량 못 알아보는 ACC…사고 치사율 일반 사고 6배 더팩트"
           },
           {
-            "title": "\"의사 관두고, 결혼 안한척도\" 부정청약 천태만상 - 비즈워치",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DdzBsNVBMbnNDMjhhV3g5WGVBNkt4WW91UEZDTmlJeTlfM0x1NWpVRTdtZk1DWjNBRWNEQmxrY09WQ3pvX01Ub254TlN4dkNNNnB2SFVkMVhMd2hLVy1wQ2lHQ0kxc3RSbTNGVzB1a24?oc=5",
-            "source": "비즈워치",
-            "published": "11-10 16:06",
-            "snippet": "\"의사 관두고, 결혼 안한척도\" 부정청약 천태만상 비즈워치"
-          },
-          {
-            "title": "위장 이혼에 모텔 전입까지…부정청약 354건 덜미 - 경제타임스",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3YURBZjc0dVpJWTFlNFgxMlZySE9JRHZzS3pXNFducDUxd3BvcnBxR3RyOUpiZ2JVZVRudVZuaGd3WGRFMW51Vi1kWGpBa3ZudjNF?oc=5",
-            "source": "경제타임스",
-            "published": "11-10 18:05",
-            "snippet": "위장 이혼에 모텔 전입까지…부정청약 354건 덜미 경제타임스"
-          }
-        ]
-      },
-      "queries": {
-        "반도체주 우려 확산": [],
-        "청년층 취업자 감소": [
-          "청년층 취업자"
-        ],
-        "부정청약 대거 적발": []
-      }
-    },
-    "global": {
-      "keywords": [
-        "미국 CPI 예상 상회",
-        "연준 빅스텝 우려",
-        "엔비디아 주가 급락"
-      ],
-      "results": {
-        "미국 CPI 예상 상회": {
-          "headline": "美 10월 물가 쇼크에 긴축 우려 재점화",
-          "facts": [
-            "미국의 10월 소비자물가지수가 전월 대비 0.4% 상승하며 시장 예상치를 웃돌아 인플레이션 압력이 여전함을 증명했다.",
-            "물가 지표 발표 직후 뉴욕증시 3대 지수는 일제히 하락했으며 특히 나스닥은 0.74% 밀리며 기술주 중심의 매도세가 나타났다.",
-            "예상보다 뜨거운 물가 수치에 연준이 12월에 기준금리를 0.5%포인트 인상하는 빅스텝을 단행할 가능성이 급부상했다.",
-            "엔비디아는 물가 우려와 기술주 투매가 겹치며 5.47% 급락해 시장 하락을 주도하며 투자 심리를 위축시켰다."
-          ],
-          "watch": [
-            "연준 위원들의 향후 매파적 발언 수위",
-            "12월 FOMC 금리 결정 결과",
-            "미국 국채 금리 추가 상승 여부"
-          ],
-          "qna": [
-            {
-              "q": "10월 CPI가 예상보다 높게 나타난 것이 왜 시장에 빅스텝 공포를 불러오는가?",
-              "a": "물가 상승세가 둔화되지 않고 오히려 반등하는 조짐을 보이면서 연준이 인플레이션을 잡기 위해 더 공격적인 금리 인상이 필요하다고 판단할 가능성이 커졌기 때문이다. 이는 기존의 점진적 금리 인상 경로를 벗어나는 시나리오로 시장의 긴축 강도를 높인다."
-            },
-            {
-              "q": "CPI 발표 이후 엔비디아가 5% 넘게 급락한 연결 고리는 무엇인가?",
-              "a": "고금리 환경은 미래 수익을 선반영하는 성장주와 기술주의 밸류에이션에 치명적인 타격을 주기 때문이다. 특히 엔비디아는 최근 급등에 따른 차익 실현 욕구가 강한 상황에서 금리 인상 우려가 매도 버튼을 누르는 촉매제가 되었다."
-            },
-            {
-              "q": "물가 지표 상회가 미국 국채 시장에는 어떤 즉각적인 반응을 일으켰는가?",
-              "a": "연준의 긴축 전망이 강화되면서 국채 금리가 급등하고 반대로 국채 가격은 급락하는 현상이 나타났다. 이는 시중 금리 상승으로 이어져 기업의 조달 비용을 높이고 주식 시장의 상대적 매력도를 떨어뜨리는 요인이 된다."
-            }
-          ]
-        },
-        "연준 빅스텝 우려": {
-          "headline": "인플레 재점화에 연준 빅스텝 가능성 부상",
-          "facts": [
-            "미국 10월 물가 지표가 예상을 상회하면서 연준이 다음 달 금리를 0.5%포인트 인상하는 빅스텝을 밟을 것이라는 우려가 시장을 덮쳤다.",
-            "이로 인해 뉴욕증시 나스닥 지수가 0.7% 하락 마감했으며 국내 코스피 시장도 약보합세를 보이며 투자 심리가 위축되었다.",
-            "인플레이션 억제를 위한 연준의 매파적 기조가 강화될 것이라는 전망에 미국 국채 가격은 급락하며 금리 발작 현상을 보였다.",
-            "시장은 연준이 경기 침체 위험을 감수하더라도 물가 안정을 최우선으로 할 것이라는 신호에 민감하게 반응하고 있다."
-          ],
-          "watch": [
-            "12월 FOMC 회의 전 발표될 고용 지표",
-            "연준 주요 인사들의 금리 관련 발언",
-            "달러 인덱스 추이 및 환율 변동성"
-          ],
-          "qna": [
-            {
-              "q": "연준이 베이비스텝 대신 빅스텝을 고려하게 된 결정적 근거는 무엇인가?",
-              "a": "10월 CPI가 0.4% 상승하며 물가 목표치로의 수렴 속도가 기대보다 느리다는 점이 확인되었기 때문이다. 기대 인플레이션이 고착화되기 전에 선제적으로 강력한 통화 긴축을 단행하여 물가 상승 심리를 꺾으려는 의도가 반영된 것이다."
-            },
-            {
-              "q": "빅스텝 우려가 국채 가격 급락과 주식 시장 하락으로 이어지는 메커니즘은 무엇인가?",
-              "a": "기준금리 인상 전망은 국채 수익률을 즉각적으로 끌어올려 기존에 발행된 낮은 금리의 국채 가격을 떨어뜨린다. 동시에 무위험 자산인 국채 금리가 높아지면 위험 자산인 주식에 대한 투자 매력이 상대적으로 낮아져 자금 이탈이 가속화된다."
-            },
-            {
-              "q": "시장이 연준의 빅스텝 가능성을 어느 정도의 확률로 반영하고 있는가?",
-              "a": "물가 지표 발표 전까지는 점진적 인상이 우세했으나 발표 이후 일부 전문가들 사이에서 12월 0.5%포인트 인상설이 급격히 힘을 얻고 있다. 향후 발표될 추가 경제 지표들이 예상치를 계속 웃돌 경우 빅스텝은 기정사실화될 가능성이 크다."
-            }
-          ]
-        },
-        "엔비디아 주가 급락": {
-          "headline": "엔비디아 이틀간 10% 폭락에 나스닥 휘청",
-          "facts": [
-            "인공지능 대장주 엔비디아의 주가가 하루 만에 5.5% 급락하며 이틀간 누적 하락 폭이 10%에 달하는 폭락세를 기록했다.",
-            "미국의 10월 물가 지표가 예상을 웃돌며 연준의 긴축 우려가 커진 점이 기술주 전반에 대한 투매를 촉발했다.",
-            "젠슨 황 CEO의 개인 신상 관련 불확실성까지 더해지며 투자자들의 불안 심리가 극에 달한 모습이다.",
-            "엔비디아의 급락은 나스닥 지수를 0.74% 끌어내렸으며 국내 반도체 관련주들에도 하락 압력으로 작용하고 있다."
-          ],
-          "watch": [
-            "엔비디아의 기술적 지지선 회복 여부",
-            "AI 반도체 수요 관련 추가 실적 가이드라인",
-            "CEO 리스크 관련 공식 입장 발표 여부"
-          ],
-          "qna": [
-            {
-              "q": "엔비디아 주가가 이틀 만에 10%나 폭락한 핵심적인 트리거는 무엇인가?",
-              "a": "예상치를 상회한 CPI 발표로 인해 고금리 기조가 장기화될 것이라는 공포가 성장주인 엔비디아에 집중되었기 때문이다. 여기에 CEO의 개인 신상 이슈가 겹치며 펀더멘털 외적인 리스크까지 부각되어 기관들의 대규모 매도세가 유입되었다."
-            },
-            {
-              "q": "엔비디아의 급락이 나스닥 지수 전체에 미치는 영향력은 어느 정도인가?",
-              "a": "엔비디아는 나스닥 내 시가총액 비중이 매우 높아 단일 종목의 하락이 지수 전체를 끌어내리는 결정적인 역할을 한다. 엔비디아의 하락은 다른 AI 및 반도체 기업들에 대한 동반 매도세를 유발하여 기술주 전반의 하락을 주도한다."
-            },
-            {
-              "q": "이번 주가 폭락이 AI 산업의 장기 성장성 훼손으로 해석될 수 있는가?",
-              "a": "이번 하락은 산업의 펀더멘털 문제보다는 거시 경제 지표와 CEO 개인 리스크에 따른 일시적 수급 악화 성격이 강하다. 다만 고금리가 지속될 경우 기업들의 AI 설비 투자 비용 부담이 커질 수 있어 향후 실적 발표에서 수요 지속성을 증명하는 것이 관건이다."
-            }
-          ]
-        }
-      },
-      "news": {
-        "미국 CPI 예상 상회": [
-          {
-            "title": "[3분증시] 뉴욕증시, CPI 상회·매파 발언에 동반 하락 - 연합뉴스TV",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GSmxvMVltRkhoUWFoaUY3dnVQeXlnOTdwejdZOWszaktnZnFMRGpnam9RNVl5cVRlRzV6a0hUM25nb01UQmxkWEZDVEpLaXZGTU9UQ0FleEQ0QXVKWlM0bnFySGpSZ28?oc=5",
-            "source": "연합뉴스TV",
-            "published": "11-11 07:54",
-            "snippet": "[3분증시] 뉴욕증시, CPI 상회·매파 발언에 동반 하락 연합뉴스TV"
-          },
-          {
-            "title": "뜨거운 CPI와 Nvidia 하락 후 미국 증시 선물 소폭 상승 - Investing.com 한국어",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZZlUxTDFsbDJfYVFhSUI3c09LcXcyZTAwM19xMW1sXzFOQks1cXVBRFkxcmx3MWNmVTl0VW5xMHd4S2U5TG1XdW53bm4yal8zZVBLa3NVZG1CUzgyMEhtUE0tNUYwbTV5Vzh0QndJclU?oc=5",
-            "source": "Investing.com 한국어",
-            "published": "11-11 09:42",
-            "snippet": "뜨거운 CPI와 Nvidia 하락 후 미국 증시 선물 소폭 상승 Investing.com 한국어"
-          },
-          {
-            "title": "[뉴욕 증시] 예상치 웃돈 美 CPI에 3대 지수 하락…엔비디아 5.47% ↓ - 한양경제",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQWjBDSEFySHlOOFdGVUFmeVB1LWpoTHFYel9Xc0R4blhPVzdYajh5Y2w3MWlZSzUtb3c3UVNXZVhCNC1FMUU4TlNLVHptZUhJX21VRFdZZnBFNlpqNHpmZXZxV0FPaXdqWVFMRHBaeGhRZw?oc=5",
-            "source": "한양경제",
-            "published": "11-11 09:59",
-            "snippet": "[뉴욕 증시] 예상치 웃돈 美 CPI에 3대 지수 하락…엔비디아 5.47% ↓ 한양경제"
+            "title": "[ICYMI] 연준 10월 동결 실수였나…'4년 만의 빅스텝' 들고나온 월러 - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13NU5PLUJ1VWRHWnNoWDJkZWY3VGY3T1JZSEZ1eVQ4SHlINHFvZU5Gei1lX3JOMVZreDZ4TUdVbVZiQ2Qzc1haQXdXNnkzZ01JUWtPUWd1ZHhmWHRmUmFHenlkVlRza1JlQUxrdXpiVEw?oc=5",
+            "source": "연합인포맥스",
+            "published": "11-11 09:35",
+            "snippet": "[ICYMI] 연준 10월 동결 실수였나…'4년 만의 빅스텝' 들고나온 월러 연합인포맥스"
           },
           {
             "title": "美 10월 물가도 예상치 상회…연준, 12월 ‘빅스텝’ 거론 - 동아일보",
@@ -358,29 +138,223 @@
             "source": "동아일보",
             "published": "11-11 06:51",
             "snippet": "美 10월 물가도 예상치 상회…연준, 12월 ‘빅스텝’ 거론 동아일보"
-          },
-          {
-            "title": "美 10월 물가 예상 상회에 뉴욕증시 동반 약세...나스닥 0.74% 하락 - www.ebn.co.kr",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpMWJkbUVwYU95NldZOVZ6TmZBZjVkaG4zNERtUkxWdmk5MmdnR3VueW9jNWUxWjVEZ0VYV0xhZXNJWU9nc1kwYnphMmVkT2RKUS1DSlZ4WWdhRDBSTjV6eDVFdXhSSkI1?oc=5",
-            "source": "www.ebn.co.kr",
-            "published": "11-11 09:37",
-            "snippet": "美 10월 물가 예상 상회에 뉴욕증시 동반 약세...나스닥 0.74% 하락 www.ebn.co.kr"
-          },
-          {
-            "title": "美 10월 CPI 0.4%↑…예상 웃돌며 연준 긴축 전망 강화(종합) - 연합뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05cFdRcjNYYXZlN1J5SUJsMEQ4ZXRULUxzeFRCU1dlbFMyTFBmOVZPSjZ4Z0x1bXlQNjF0ZHAxdzBzbHZqbnp1dkstRm1EN1c0ZHdqSVFpSG15YWQtcldGcdIBYEFVX3lxTE05cFdRcjNYYXZlN1J5SUJsMEQ4ZXRULUxzeFRCU1dlbFMyTFBmOVZPSjZ4Z0x1bXlQNjF0ZHAxdzBzbHZqbnp1dkstRm1EN1c0ZHdqSVFpSG15YWQtcldGcQ?oc=5",
-            "source": "연합뉴스",
-            "published": "11-10 23:34",
-            "snippet": "美 10월 CPI 0.4%↑…예상 웃돌며 연준 긴축 전망 강화(종합) 연합뉴스"
           }
         ],
-        "연준 빅스텝 우려": [
+        "정년 연장 논의": [
           {
-            "title": "코스피, 美연준 '빅스텝'우려에 약보합…코스닥은 2% 가까이 상승 - 연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lX0hQbVVEVnIzamJoNzY2MUdjeWtHWWlNejRpZjNSNnllV3dBYUx0TFBISFlERlVIbkJJZmc1bm5kUlRlTHZ0eXFVVVpxRHNGTFVaMkI4UFo5R0pSbDkyWGRNaERpSWstYThIMkZSUU8?oc=5",
+            "title": "[현장에서] 퇴직 뒤 연금 공백, 일본식 정년연장서 배울 점 - 이투데이",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PVkNua3NwbC0zeVJZNEVucWFtQ1VsSVFFVnJBSFo1YUVpajZIR2xZR0dBdGdZWUVDNFZRRXZzdW9ELThmSVJDcmpsb2RlcEY1S1pCTG9WNFpKZw?oc=5",
+            "source": "이투데이",
+            "published": "11-10 15:18",
+            "snippet": "[현장에서] 퇴직 뒤 연금 공백, 일본식 정년연장서 배울 점 이투데이 60세에 퇴직, 65세부터 연금수령 “5년간 뭐먹고 살라고”…공무원 92%가 걱정 매일경제 \"정년 후 연금 나올 때까지 5년간 뭐먹고 살라고\"…공무원 92% \"소득 공백 우려\" 아시아경제 “국민연금 받는 급여만큼 기초생활 수급비 깎여”…조기연금 신청하는 저소득층 노인들 세계일보 [그래픽] 퇴직공무원 연금 소득공백 설문조사 결과 연합뉴스"
+          },
+          {
+            "title": "정년 연장하면 퇴직연금 운용 방식도 바뀔까 - 이투데이",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fTWk2bHpYSWxld3NzZE9WVVMyNUw0a3RucjdUeXdYdExIYkk2WFdUbWp0MXpWYTcyUWJXUzRfeGFqSnFicmxUQ0xwXzJObGVaeU5ITGkwVXdTQQ?oc=5",
+            "source": "이투데이",
+            "published": "11-11 13:20",
+            "snippet": "정년 연장하면 퇴직연금 운용 방식도 바뀔까 이투데이 ‘정년 65세’ 입법한다는데…‘정년 60세’ 채운 퇴직 13%뿐 문화일보 정년연장·청년고용 “양립 어렵다” vs “부딪힐 이유 없다” 전기신문 자동차업계 “일률적 정년연장 기업경쟁력 저해, 기업 여건 맞춘 유연한 고용 필요” 전자신문 [율곡로] 장기 표류하는 정년 연장 연합뉴스"
+          },
+          {
+            "title": "유류세 인하 내년 1월까지 2개월 연장…\"유류비 부담 경감 차원\" - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQlZMQ2dRRWcwazhHa0lHZlBiUUhpTExRUjZ1ZFlPNGdJVHVNVHR1LWhsSTM2Y3RxVzlFaFhHQWwxYWpRblNiOXVCZ0luNmVNdXgyUUhKel9pVEZ6bzgwOGt5RkNtVFRsS1pWUFZMZ2E2eWw3MVQyLXVyUVZ5N3RXMkpLaklQSlBoXzdTUTNB?oc=5",
+            "source": "조선일보",
+            "published": "11-11 09:14",
+            "snippet": "유류세 인하 내년 1월까지 2개월 연장…\"유류비 부담 경감 차원\" 조선일보 유류세 인하 2개월 연장…휘발유 15%·경유 25% 인하 유지 대한민국 정책브리핑 휘발유 15%, 경유 25%, 부탄 25%…유류세 한시적 인하 내년 1월 31일까지 연장 경기일보 ‘출구전략설’ 석유 최고가격제, 어떻게?…13일 오후 6시 발표 마켓인 유류세 인하 내년 1월까지 연장…고유가 부담 두 달 더 낮춘다 전기신문"
+          },
+          {
+            "title": "[단독]코스닥 살리기 나서는 정부…13일 거래소서 대책 논의 - 비즈워치",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXaDZTcTdfZjhVOGcwNGNvcjJ3V3o4MHp2dDRqUWlZVnk4alBVN1NUaEFyb1NGOEJvVzRTVGUwbFpWMHpnclpLdFJ6VmxFVnJ1SFFENUNmay0zZERIMEtjRC1Ka2tMZnVKZnc?oc=5",
+            "source": "비즈워치",
+            "published": "11-11 16:28",
+            "snippet": "[단독]코스닥 살리기 나서는 정부…13일 거래소서 대책 논의 비즈워치"
+          },
+          {
+            "title": "[한상권 칼럼] 정년연장 입법 논의, 공공기관 대기업 재직자에 수혜 몰아주는가 - 세이프타임즈",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vMjVKRWdXNHJPM1ZlSVUtY1RnTC1OQ1J2WkkwR2x4MVMwTk5sTm53UlQwbDd2ZTc1NDZlWlF2OXFYd2xlTENaeWhIZzlsVV9GSjVkTUV2eldtUlh3SkJYbnozeG1OSkRJbHJvdEpKSdIBc0FVX3lxTFBVamVLZkFSNG9IaUczRVFzLVNJYU5NUmF5dnhBM0VHQWl5Mk5wc25GNHVILXdSXzBBQ1hfdVZJbDYtajNSRTdmMmpPUjU4YzhBNEVSc3REZ1Nwd05IUjA1UjhLbmdPSEFvS1RZLTBoM3VUVEU?oc=5",
+            "source": "세이프타임즈",
+            "published": "11-11 12:44",
+            "snippet": "[한상권 칼럼] 정년연장 입법 논의, 공공기관 대기업 재직자에 수혜 몰아주는가 세이프타임즈"
+          },
+          {
+            "title": "“60세에 퇴직하는데 연금은 65세부터?”…정년 연장 논의 다시 불붙었다 - 용인신문",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DVVJwNWJZdmJwSnFMeEMxNU1uNFI2QzE3WDBLZ2hzWmJTOHhTQmFjUmNBT2djSEdFay1mTlVfR3hvWDZkWHdWNGdYS2I4SGl3dkdzcXhMVVI4R3lQTkFxcHkwTkc?oc=5",
+            "source": "용인신문",
+            "published": "11-11 06:05",
+            "snippet": "“60세에 퇴직하는데 연금은 65세부터?”…정년 연장 논의 다시 불붙었다 용인신문"
+          }
+        ],
+        "코스닥 매수 사이드카": [
+          {
+            "title": "코스닥 4%대 급등에 이틀 연속 '매수 사이드카' 발동 - MBC 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YV3hHUzMxR0p3TVBPUk5OR0VFbmZYLU1HNHJySGQ0bURnS1Z4RzJnWVpKOXdfVnZfWGZtT1BEYUtYdkIzMkpDdzZ4b2V5ODhJbjB4SVZwY2x6WE52T1JFcm1IdlhFLWN0X1JsYWZkSzBjQzNW0gF0QVVfeXFMTmNnTktYaTdTV01reUgta0xPcHVXRWxqY0tLMEg3Vkk1Mjh6MzBLLXZqbHhYOVpWeHAyWmFqRXJsU3FKUERiclljWmFkUXN0UldrUjFOYkM4YzdFYXRMMEh6eDFwdU9qbFV3dksyckw2Rmw0MUI?oc=5",
+            "source": "MBC 뉴스",
+            "published": "11-11 11:32",
+            "snippet": "코스닥 4%대 급등에 이틀 연속 '매수 사이드카' 발동 MBC 뉴스 美빅스텝 우려에도 급등‥코스피 2.6%·코스닥 5.6%↑ MBC 뉴스 “웰컴백 외국인”…돌아온 자금, 어디에 몰렸나 매일경제 마켓 '매도 폭탄 뒤 매수 폭발'…외인들 6680억 쓸어담은 종목 한국경제 하루 만에 4% 급반등한 코스피, 무슨 일이야? 네이버페이 머니스토리"
+          },
+          {
+            "title": "[마감시황] 코스피 2.6%·코스닥 5.6%↑…코스닥 연속 매수 사이드카 - 뉴스핌",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kM2VzcjR3U1BtSW9jV0JjMk9tdzNpUFdKaG1QblVBSzhra2dER2N2a2dVeWJobFpiYVFhSGpkdU9pckhXTE4zSzFDRVJpQjdISG5pYzZUQS13ZVlC?oc=5",
+            "source": "뉴스핌",
+            "published": "11-11 16:04",
+            "snippet": "[마감시황] 코스피 2.6%·코스닥 5.6%↑…코스닥 연속 매수 사이드카 뉴스핌"
+          },
+          {
+            "title": "지난주엔 투매, 이번 주엔 사이드카…코스닥 롤러코스터, 지금 타도 될까 - Investing.com 한국어",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hSFZ3LWZPMnB0UzJXcHh4dFlGNDA3ZFJOcTZHeFk0QTg1d0tweWRkM2FiTFFTM1B2dS1QSTN0bHZFOXg0QUNGaVdEMlRlQUZuS3lfMFRSOGdVZUVPZDdjWV9uUnFhdkNQZkktemhVUTk?oc=5",
+            "source": "Investing.com 한국어",
+            "published": "11-11 16:28",
+            "snippet": "지난주엔 투매, 이번 주엔 사이드카…코스닥 롤러코스터, 지금 타도 될까 Investing.com 한국어"
+          },
+          {
+            "title": "[증시-마감] 코스피, 美 긴축우려 딛고 반등…코스닥 이틀째 사이드카 - KB Think",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVLXV0bWNUZXBESXRuYi12RlBiQWJWQ2lVZmVKZ3ZHcE5ycnVVQUkwWUxsNHhKU3JHUzlWUzYzaFdFQkVQcEozaDN5dEdlRlRmbm1PSnY2VlB6aU9VdTFmYTh0X3c5Mkp4ZlVVbkhuWjFHQQ?oc=5",
+            "source": "KB Think",
+            "published": "11-11 16:11",
+            "snippet": "[증시-마감] 코스피, 美 긴축우려 딛고 반등…코스닥 이틀째 사이드카 KB Think"
+          },
+          {
+            "title": "모건스탠리 \"美 중간선거 후 AI주 급락 과도…선별적 매수 기회\" - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52VDdndHdacFhfX2tWYkFUQ0JkZ2VJeTV5bWswc2ZoLW00UjNmN2F6UnljcFl6YWR6d3hQUVFvQW0yeXVLUFBJVnFwbnREdVdDUkxGMV9ZQzdsREM0ZF95bzFQYWJlT0xJSU1DMWlQTGw?oc=5",
             "source": "연합인포맥스",
-            "published": "11-11 09:23",
-            "snippet": "코스피, 美연준 '빅스텝'우려에 약보합…코스닥은 2% 가까이 상승 연합인포맥스 [속보] 코스닥 4%대 급등에 이틀 연속 '매수 사이드카' 발동 MBC 뉴스 코스닥, 부양책 기대에 이틀 연속 매수 사이드카…700선 터치 뉴스1 \"드디어 주가 바닥 찍었나\"…삼전닉스 반등 가를 핵심 변수 [분석+] 한국경제 미 증시 하락세 영향에...코스피 장 초반 보합권 YTN"
+            "published": "11-11 16:06",
+            "snippet": "모건스탠리 \"美 중간선거 후 AI주 급락 과도…선별적 매수 기회\" 연합인포맥스 [분석] 미국 불확실성 피한 빅테크…한국 데이터센터에 수조원 승부수 By FinancialPost Investing.com 한국어 미국 AI 데이터센터 규제 강화 전망… 대안으로 급부상한 'SMR' 인더스트리뉴스 민주당 압승에 실리콘밸리 'AI 속도전' 균열…주민 몫 키운다 뉴시스 중간 평가 결과로 AI가 곤경에 처했다 www.itworld.co.kr"
+          },
+          {
+            "title": "美빅스텝 우려에도 급등‥코스피 2.6%·코스닥 5.6%↑ - MBC 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56QUxuYTVvNEFqXzlNdjJGa0xpbHVGSHVoMk9sNlhKaDRvOHE1S0xnd1pMWFpIS3BidlN6UTNEYlBkYllFRDNLZGJMWVRBWW40eTgyZkpmU2pXdExqSE9INjVmcWRwWjZoemNacG9fb204R3Zm0gF0QVVfeXFMTkpGSWJQX0VXY085YkRWQ1VpaFpWM2Z0RVpHd2I1M0c4T0RBMUN3QVQyVUw3V25pdE5pVk5TSjUxTlJ5cW5vM2xGMm5DVnJjMURucGhmU2M1OG9uT2c1Z1R1d2IwWXgtSmxhRXRkd25xYXFOMl8?oc=5",
+            "source": "MBC 뉴스",
+            "published": "11-11 15:55",
+            "snippet": "美빅스텝 우려에도 급등‥코스피 2.6%·코스닥 5.6%↑ MBC 뉴스"
+          }
+        ]
+      },
+      "queries": {
+        "10월 가계대출 증가": [
+          "10월 가계대출"
+        ],
+        "정년 연장 논의": [
+          "정년 연장 논의 교착",
+          "정년 연장 논의 현황",
+          "정년 연장 논의 배경",
+          "정년 연장 정치권 논의",
+          "정년 연장 신중한 논의",
+          "65 세 정년 연장 논의",
+          "공무원 정년 연장 논의",
+          "교수 정년 연장 논의"
+        ],
+        "코스닥 매수 사이드카": [
+          "코스닥 매수 사이드카 발동",
+          "코스피 코스닥 매수 사이드카",
+          "코스닥 매수",
+          "코스닥 매수 현금 매수",
+          "코스닥 매수 방법",
+          "코스닥 매수 순위",
+          "코스닥 매수 현금 매수 차이",
+          "코스닥 매수시간"
+        ]
+      }
+    },
+    "global": {
+      "keywords": [
+        "미 연준 빅스텝 우려",
+        "엔비디아 주가 급락",
+        "나스닥 23시간 거래"
+      ],
+      "results": {
+        "미 연준 빅스텝 우려": {
+          "headline": "미 물가 충격에 12월 빅스텝 가능성 급부상",
+          "facts": [
+            "미국 10월 소비자물가지수가 예상치를 상회하며 인플레이션 우려가 커지자 뉴욕증시 3대 지수가 일제히 하락했다.",
+            "연준 내 강경파인 크리스토퍼 월러 이사가 4년 만의 빅스텝 가능성을 언급하며 시장의 긴축 공포를 자극했다.",
+            "물가 충격 여파로 나스닥 지수는 0.74% 하락했으며 엔비디아 등 주요 기술주들이 약세를 면치 못했다.",
+            "시장에서는 연준이 인플레이션을 잡기 위해 12월 금리 인상 폭을 0.5%포인트로 확대할 것이라는 전망이 힘을 얻고 있다."
+          ],
+          "watch": [
+            "연준 위원들의 추가 매파적 발언 여부",
+            "11월 소비자물가지수(CPI) 예비치 발표",
+            "미 국채 10년물 금리의 4.5% 돌파 여부"
+          ],
+          "qna": [
+            {
+              "q": "월러 이사가 4년 만의 빅스텝 카드를 다시 꺼내 든 결정적 이유는 무엇인가?",
+              "a": "10월 물가 지표가 둔화되지 않고 오히려 예상치를 웃돌면서 기존의 점진적 금리 인상으로는 인플레이션을 통제하기 어렵다고 판단했기 때문이다. 이는 시장의 조기 금리 인하 기대를 완전히 꺾으려는 의도로 풀이된다."
+            },
+            {
+              "q": "물가 지표 상회가 기술주 중심의 나스닥 지수에 더 큰 타격을 준 메커니즘은 무엇인가?",
+              "a": "금리 상승은 미래 수익을 현재 가치로 환산할 때 할인율을 높여 성장주인 기술주의 밸류에이션을 낮추기 때문이다. 특히 고금리 장기화 우려가 커지면서 자금 조달 비용 상승 압박이 기술주 투매로 이어졌다."
+            },
+            {
+              "q": "12월 빅스텝 단행 여부를 결정지을 핵심 경제 지표의 임계치는 어느 수준인가?",
+              "a": "다음 달 발표될 고용 보고서에서 임금 상승률이 꺾이지 않거나, 근원 물가 상승률이 전월 대비 0.4% 이상을 유지할 경우 빅스텝은 기정사실화될 가능성이 높다. 노동 시장의 과열 지속 여부가 최대 분기점이다."
+            }
+          ]
+        },
+        "엔비디아 주가 급락": {
+          "headline": "엔비디아 이틀간 10% 급락과 중국 밀반입 의혹",
+          "facts": [
+            "엔비디아 주가가 물가 우려와 빅스텝 공포 속에 5.5% 급락하며 이틀간 총 10%의 하락폭을 기록했다.",
+            "젠슨 황 CEO의 측근이 10조 원 규모의 엔비디아 칩을 중국으로 밀반입했다는 의혹이 제기되며 투자 심리가 급격히 위축되었다.",
+            "주가 급락에도 불구하고 엔비디아와 구글은 인공지능 스타트업 앤트로픽에 각각 13조 원을 투자하며 AI 생태계 확장을 지속하고 있다.",
+            "나스닥 지수는 엔비디아의 폭락 여파로 187포인트 하락하며 기술주 전반의 조정 장세를 주도했다."
+          ],
+          "watch": [
+            "중국 밀반입 의혹에 대한 미 당국의 조사 착수 여부",
+            "앤트로픽 투자에 따른 AI 모델 고도화 성과",
+            "엔비디아 주가의 200일 이동평균선 지지 여부"
+          ],
+          "qna": [
+            {
+              "q": "10조 원 규모의 칩 밀반입 의혹이 엔비디아의 기업 가치와 규제 리스크에 미칠 영향은 무엇인가?",
+              "a": "미 정부의 대중국 수출 규제 위반 여부가 확인될 경우 막대한 벌금과 추가적인 수출 제한 조치가 뒤따를 수 있다. 이는 엔비디아의 핵심 성장 동력인 중국 시장에서의 매출 불확실성을 극대화하는 요인이다."
+            },
+            {
+              "q": "주가 폭락 상황에서도 앤트로픽에 대규모 투자를 단행한 전략적 의도는 무엇인가?",
+              "a": "단기적인 주가 변동과 무관하게 AI 연산 수요를 창출할 강력한 소프트웨어 파트너를 확보하려는 포석이다. 앤트로픽의 성장은 곧 엔비디아 칩에 대한 장기적인 수요 확대로 이어지는 선순환 구조를 만든다."
+            },
+            {
+              "q": "이틀간 10% 하락한 엔비디아의 주가가 기술적 지지선을 이탈했는지 판단할 기준은 무엇인가?",
+              "a": "최근 상승폭의 50% 되돌림 구간인 특정 가격대 유지 여부가 중요하다. 만약 대량 거래를 동반하며 직전 저점을 하향 돌파할 경우 AI 거품론이 재점화되며 장기 조정 국면에 진입할 수 있다."
+            }
+          ]
+        },
+        "나스닥 23시간 거래": {
+          "headline": "나스닥 23시간 거래 도입과 국내 증권가 대응",
+          "facts": [
+            "나스닥이 다음 달부터 하루 23시간 거래 체제를 도입함에 따라 국내 증권사들이 시스템 개편 등 본격적인 준비에 착수했다.",
+            "이번 조치로 아시아 낮 시간대에도 월가 자본의 거래가 가능해지면서 홍콩 등 주요 금융 허브들이 방어 전략 수립에 나섰다.",
+            "퇴직연금 시장에서는 나스닥의 성장성과 미국채의 안정성을 결합한 '반반 투자' 상품이 새로운 대안으로 주목받고 있다.",
+            "정부는 국내 코스닥 시장 경쟁력 강화를 위해 오는 13일 거래소에서 별도의 대책 회의를 가질 예정이다."
+          ],
+          "watch": [
+            "국내 증권사별 23시간 거래 시스템 정식 오픈일",
+            "홍콩 증시의 거래 시간 연장 등 대응 조치 발표",
+            "퇴직연금 내 미국 자산 비중 변화 추이"
+          ],
+          "qna": [
+            {
+              "q": "나스닥의 23시간 거래 도입이 아시아 증시의 유동성을 흡수하는 '블랙홀'이 될 가능성이 있는가?",
+              "a": "그렇다. 아시아 투자자들이 자국 증시 대신 실시간 거래가 가능해진 나스닥으로 자금을 옮길 가능성이 커지면서 국내외 증시 간 유동성 확보 경쟁이 치열해질 전망이다."
+            },
+            {
+              "q": "국내 증권사들이 시스템 개편을 서두르는 것이 서학개미의 매매 패턴에 어떤 변화를 가져오는가?",
+              "a": "기존의 예약 주문이나 야간 거래의 불편함이 사라지면서 국내 주식처럼 실시간 대응이 가능해진다. 이는 미국 주식에 대한 데이트레이딩 수요를 자극하고 해외 주식 투자 비중을 더욱 높이는 결과를 낳을 것이다."
+            },
+            {
+              "q": "나스닥 거래 시간 확대가 퇴직연금 포트폴리오의 리스크 관리 방식에 미치는 영향은 무엇인가?",
+              "a": "24시간에 가까운 거래가 가능해짐에 따라 야간에 발생하는 돌발 악재에 즉각 대응할 수 있어 리스크 관리 효율성이 높아진다. 특히 나스닥과 미국채를 혼합한 상품의 경우 실시간 자산 배분 조정이 용이해진다."
+            }
+          ]
+        }
+      },
+      "news": {
+        "미 연준 빅스텝 우려": [
+          {
+            "title": "물가·연준 '빅스텝' 우려에 뉴욕증시 하락…나스닥 0.7%↓(종합) - 연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9odjVpVkR5eTJrcFZQaWdSNzViTUoxTGttTjVDRDZOT3dpNk9QLWs2TEFvZ1NXMWd3UTZqNnJGU2Z2NmJQd3pRTVM3NEhWVmJoMVNPRmZDUUQ1c0nSAWBBVV95cUxOUWJzWnJmalR2Y3pMTkczSWpUX2xianBOaG1HRURVWk9vb0YxaFdTbF85dC1aWDNCWjRMNFp2T1FrdjVtT3k5cmNhSWF0NHpQUXl4UVNEcHlKQ3lqX1RfYzk?oc=5",
+            "source": "연합뉴스",
+            "published": "11-11 07:26",
+            "snippet": "물가·연준 '빅스텝' 우려에 뉴욕증시 하락…나스닥 0.7%↓(종합) 연합뉴스"
           },
           {
             "title": "뉴욕증시, 연준 '빅스텝' 우려·엔비디아 급락에 하락 마감 - 뉴스핌",
@@ -390,11 +364,18 @@
             "snippet": "뉴욕증시, 연준 '빅스텝' 우려·엔비디아 급락에 하락 마감 뉴스핌"
           },
           {
-            "title": "물가·연준 '빅스텝' 우려에 뉴욕증시 하락…나스닥 0.7%↓(종합) - 연합뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9odjVpVkR5eTJrcFZQaWdSNzViTUoxTGttTjVDRDZOT3dpNk9QLWs2TEFvZ1NXMWd3UTZqNnJGU2Z2NmJQd3pRTVM3NEhWVmJoMVNPRmZDUUQ1c0nSAWBBVV95cUxOUWJzWnJmalR2Y3pMTkczSWpUX2xianBOaG1HRURVWk9vb0YxaFdTbF85dC1aWDNCWjRMNFp2T1FrdjVtT3k5cmNhSWF0NHpQUXl4UVNEcHlKQ3lqX1RfYzk?oc=5",
-            "source": "연합뉴스",
-            "published": "11-11 07:26",
-            "snippet": "물가·연준 '빅스텝' 우려에 뉴욕증시 하락…나스닥 0.7%↓(종합) 연합뉴스"
+            "title": "코스피, 美연준 '빅스텝'우려에 약보합…코스닥은 2% 가까이 상승 - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lX0hQbVVEVnIzamJoNzY2MUdjeWtHWWlNejRpZjNSNnllV3dBYUx0TFBISFlERlVIbkJJZmc1bm5kUlRlTHZ0eXFVVVpxRHNGTFVaMkI4UFo5R0pSbDkyWGRNaERpSWstYThIMkZSUU8?oc=5",
+            "source": "연합인포맥스",
+            "published": "11-11 09:23",
+            "snippet": "코스피, 美연준 '빅스텝'우려에 약보합…코스닥은 2% 가까이 상승 연합인포맥스"
+          },
+          {
+            "title": "[뉴욕증시포커스] 美 물가 충격에 3대 지수 하락…연준 '빅스텝' 우려에 기술주 약세 - 굿모닝경제",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RRHRYN2tvNTRCUVlsVnNjdWJsXy1LVmRxMkNzSVhveWg4M3RWN2JCd2JubENYMktjODdZOWRUakswX2p4aU5jRS1WNk1SSDZVR2EwWXRxSVR2Q1hrUkpoam95Qk43THI0QklfNQ?oc=5",
+            "source": "굿모닝경제",
+            "published": "11-11 09:02",
+            "snippet": "[뉴욕증시포커스] 美 물가 충격에 3대 지수 하락…연준 '빅스텝' 우려에 기술주 약세 굿모닝경제"
           },
           {
             "title": "[국제경제 흐름 읽기] 미국 연준, 인플레 우려에 내달 금리인상 전망-일부 빅스텝 가능성도 제기 - 포커스온경제",
@@ -409,23 +390,9 @@
             "source": "뉴스1",
             "published": "11-11 06:47",
             "snippet": "[뉴욕마감]CPI 상승·연준 '빅스텝' 우려에 나스닥 0.74% 하락 뉴스1"
-          },
-          {
-            "title": "美 물가 쇼크에 연준 빅스텝 부상…국채가격 급락 - 파이낸셜뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45SmFzclpMQTNIUllLdnRRSEpXWFEzSGVqcWZaaU9hb0FnN3BlOW42REFCcXVlZUt1Zms5RUJGLW5GdU9QSFYxaHdDTVJTemN6Qk11STZHRTRSQQ?oc=5",
-            "source": "파이낸셜뉴스",
-            "published": "11-11 11:03",
-            "snippet": "美 물가 쇼크에 연준 빅스텝 부상…국채가격 급락 파이낸셜뉴스"
           }
         ],
         "엔비디아 주가 급락": [
-          {
-            "title": "연준 12월 '빅스텝' 부상과 엔비디아 주가급락 등 이시각 주요뉴스 - 연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16cWRlanRUTjA5T2pKaGY1eXdfck9YQjc5VXVUbUZUeEJYam13WGYwUFFNc0tvMGQ0eXp1X2RtOUhkN0pWWUdDYzkySmQ0MHZSc1BSdkpvVndoS3UxYWhQNzhFN3NPV2wwc3VEX3VucWzSAXRBVV95cUxPNE0xOEZUREwzU3Y0Q3RmV3kyTVdIRmtGaXFZdzd5S1VZX1NPUDBfNFp2eUFYM3RMTXFlWVhONEZvU0dlWWJiTW01SkFxWmIyZTVrcDhQYi1LTWlYbW5XXzZqbUJOS2s0dzBUTUZYME85MzNvMw?oc=5",
-            "source": "연합인포맥스",
-            "published": "11-11 08:46",
-            "snippet": "연준 12월 '빅스텝' 부상과 엔비디아 주가급락 등 이시각 주요뉴스 연합인포맥스"
-          },
           {
             "title": "뉴욕증시, 연준 '빅스텝' 우려·엔비디아 급락에 하락 마감 - 뉴스핌",
             "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXd3JGN1pKdWJHOEhPRFBSZ3JsZV9IU1hOdnJ1MGphYzZtMUdKY1p1UW9NVFRSSVdvWmMzd2VMd1FIMDJRbWFxR0tnMHZJNEpoU3EwR3NDdTZSdlBM?oc=5",
@@ -455,27 +422,75 @@
             "snippet": "뉴욕증시, 물가 우려에 일제히 하락...엔비디아 5%대 급락 조세일보"
           },
           {
-            "title": "[서울데이터랩] 미국 증시, 기술주 약세에 일제히 하락 마감…엔비디아 5%대 급락 - 서울신문",
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CZGpmbkFXSjZhdjhwZHljeThsMkt0NzN0U0FsN3Fxa0RhSDFFMGp4VVllc0VuYkVPbGdsWDJQcE5BRWJNTGhyZUhpamVXeVFseEdtUDU2ZTFWWHItVG9FMTFHTmFFVjFZQ3ZzdC1IMA?oc=5",
-            "source": "서울신문",
-            "published": "11-11 06:10",
-            "snippet": "[서울데이터랩] 미국 증시, 기술주 약세에 일제히 하락 마감…엔비디아 5%대 급락 서울신문"
+            "title": "“‘젠슨 황 연인’ 앨리스 황, 10조원 규모 엔비디아 칩 중국으로 밀반입” 의혹 제기 - 경향신문",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1teURpZVdMZTFNWE1QMzhCNkR5RmNNYzRaSzdjV2NXSE5LcTR6TUZZN001X0ZUTXFGajNQSFlQbkczZEVfRHlwVGtmRE5zRzNlenFsS1MtRUg0UdIBX0FVX3lxTE13YjB0ZWh0UkpHRVNqb0hDT2VHekhQVW5yQTZzM2FRRzh4dDJmbnRRUW1YcUd3Nm9uSmFUMU4wT3I2bzJsa2FLb3ZTb2dRTWpWaTlzNnRyeFdCLTJaNUlN?oc=5",
+            "source": "경향신문",
+            "published": "11-11 07:53",
+            "snippet": "“‘젠슨 황 연인’ 앨리스 황, 10조원 규모 엔비디아 칩 중국으로 밀반입” 의혹 제기 경향신문 미 수출 규제에도 중국 인민해방군 연계 대학이 Nvidia H200 칩 구매 Investing.com 한국어 \"중국군 연계 대학, 美 제재에도 엔비디아 AI 칩 H200 구매\" 뉴스1 젠슨 황 스캔들, 미중 갈등 새 뇌관으로…\"제2의 정찰풍선 사태\" 뉴스1 젠슨 황 후폭풍… ‘對中 반도체 봉쇄’ 고삐 죄는 트럼프 조선일보"
+          },
+          {
+            "title": "앤트로픽 가치 최대 1.4조 달러…엔비디아·구글 13조원씩 투자 - 연합뉴스TV",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00NlYyYUc0ZU8xU3A5T1g4NmU1Y0d6QmdnazBLOFlBa3NNdl9ibVhBWFlxTnBxMUJ2UW5fWG1PMEZwdjVVR1hYek1FNTNNUm96OU4tVEw1NE90ZWg1Qk5EOEtyZ2lnM28?oc=5",
+            "source": "연합뉴스TV",
+            "published": "11-11 09:04",
+            "snippet": "앤트로픽 가치 최대 1.4조 달러…엔비디아·구글 13조원씩 투자 연합뉴스TV 앤트로픽, 기업가치 1.4조달러로 IPO 추진…644억달러 조달 AI타임스 \"앤트로픽 공모가 상향 검토, 기업가치 1.4조→1.5조달러로 전망\" - 머니투데이 머니투데이 2조 달러 거론되다 1.4조 달러로 후퇴...거품론 시험대 오른 앤트로픽 YTN 美정부와 갈등 빚는 앤트로픽도 트럼프의 '슈퍼지능' 용어 사용 연합뉴스"
+          }
+        ],
+        "나스닥 23시간 거래": [
+          {
+            "title": "'나스닥 23시간 거래' 한달 앞으로…국내 증권업계 준비 채비 - 연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zRWZudjlfZXVYWENJbkp2ODNwSV84VGh1R3NBSmxWWjVxeVZFeVpOSFRPRTFBQW8xNDQ4eUt6RlVkMHhaQUpWdEJZelpPVUQ0c0lrSGE0dHliVEXSAWBBVV95cUxNZmRialZQX25RMDJ6WjB1Z3d0Wk5rRTdCX294OUVJQ3FfRXlaS0M1QXl6SDh5WW0xakYwVjZDVDN0V3Y4Mzc1Y0NidkI5XzZuZ3BYQ0d5YXRYNlZuWFlLV20?oc=5",
+            "source": "연합뉴스",
+            "published": "11-11 16:18",
+            "snippet": "'나스닥 23시간 거래' 한달 앞으로…국내 증권업계 준비 채비 연합뉴스"
+          },
+          {
+            "title": "나스닥 내달부터 23시간 거래…국내 증권사도 시스템 개편 준비 - 강원도민일보",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sUGxLUlpNUGRQMkxPOUg4SFJmMTIyNENFWldlRVZBZDlRT0VzV1MtWU4zWHRMbnduNDZwbmhVNDlKS29zby01d1hYTVBOeXhPdEQyWGVlay1LM2pWcDFCOXJQY05wdE0?oc=5",
+            "source": "강원도민일보",
+            "published": "11-11 16:32",
+            "snippet": "나스닥 내달부터 23시간 거래…국내 증권사도 시스템 개편 준비 강원도민일보"
+          },
+          {
+            "title": "북 해커, 바이낸스서 훔친 돈 어떻게 했나?…“10초마다 거래” [지금뉴스] - KBS 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqMVlESGxRaDlGVVpHbUsxM1JPVE52UHlxTWZ2UXFUeVprdkRNRTZObHNFY3ZlWlplbEwtcFd4S3FLRmxzZG5mcXJMV2NtZFRjUDVURzd0eGpBa2M?oc=5",
+            "source": "KBS 뉴스",
+            "published": "11-10 20:06",
+            "snippet": "북 해커, 바이낸스서 훔친 돈 어떻게 했나?…“10초마다 거래” [지금뉴스] KBS 뉴스 ‘역해킹’ 당한 북한 해커 “잘생겼다” 면접 질문에 한 답변이 [글로벌 인사이트] 서울신문 [블록체인 칼럼] 거래소 배상, 선의가 아니라 의무여야 한다 전자신문 “북한, 바이낸스 탈취 자금 ‘자체 밈코인’으로 세탁…추적 지연” VOA 한국어 홈페이지 머스크 대통령...바이낸스 턴 북한 해커, 1회용 밈코인으로 돈세탁 - 머니투데이 머니투데이"
+          },
+          {
+            "title": "[단독]코스닥 살리기 나서는 정부…13일 거래소서 대책 논의 - 비즈워치",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXaDZTcTdfZjhVOGcwNGNvcjJ3V3o4MHp2dDRqUWlZVnk4alBVN1NUaEFyb1NGOEJvVzRTVGUwbFpWMHpnclpLdFJ6VmxFVnJ1SFFENUNmay0zZERIMEtjRC1Ka2tMZnVKZnc?oc=5",
+            "source": "비즈워치",
+            "published": "11-11 16:28",
+            "snippet": "[단독]코스닥 살리기 나서는 정부…13일 거래소서 대책 논의 비즈워치"
+          },
+          {
+            "title": "나스닥 성장에 미국채 안정성 더했다…퇴직연금 '반반 투자' - 뉴스핌",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnZW16Rm4yUXlOeVdHM2tjRzlYcWgzWkpna05HcU52ZExKMllxeDBVdTJxNnZJSUxfYXEtUnBaR3BBNTN6ZlY5WVcxYXFUSVFzVHVGeVVwVmlQT01U?oc=5",
+            "source": "뉴스핌",
+            "published": "11-11 15:31",
+            "snippet": "나스닥 성장에 미국채 안정성 더했다…퇴직연금 '반반 투자' 뉴스핌"
+          },
+          {
+            "title": "\"월가가 亞 낮 시간대 들어온다\"… 나스닥 '23시간 거래' 도입에 홍콩 방어전 돌입 - 글로벌이코노믹",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaVp1SmVZbEJNRjlnVGlkZTFKSFRWNW16NVhETVM0Qll2OEJyUW9tZW0wWHRvbDRqVFRTR0RLd1JKazV2bWE5a3BMcm5peEc5ZjN5TWxtN3NkTUpJWV9feEpRRld4TmNPeFdKcnhkSlpJNFRETHJnR2ZNa0NYeUc3M190dVVPdjJS?oc=5",
+            "source": "글로벌이코노믹",
+            "published": "11-11 06:15",
+            "snippet": "\"월가가 亞 낮 시간대 들어온다\"… 나스닥 '23시간 거래' 도입에 홍콩 방어전 돌입 글로벌이코노믹"
           }
         ]
       },
       "queries": {
-        "미국 CPI 예상 상회": [
-          "미국 cpi",
-          "미국 cpi 발표 일정",
-          "미국 cpi 발표",
-          "미국 cpi 지수",
-          "미국 cpi 발표 한국시간",
-          "미국 cpi 발표 결과",
-          "미국 cpi 발표 예상",
-          "미국 cpi 발표 시간"
-        ],
-        "연준 빅스텝 우려": [
-          "연준 빅스텝"
+        "미 연준 빅스텝 우려": [
+          "미 연준 금리",
+          "미 연준",
+          "미 연준 금리 인상",
+          "미 연준의장",
+          "미 연준 금리 발표일",
+          "미 연준 기준금리",
+          "미 연준 금리 전망",
+          "미 연준 발표"
         ],
         "엔비디아 주가 급락": [
           "엔비디아 주가 급락 이유",
@@ -486,341 +501,226 @@
           "엔비디아 주가 전망 2030년 전망",
           "엔비디아 주가 전망 2026",
           "엔비디아 주가 가격"
+        ],
+        "나스닥 23시간 거래": [
+          "나스닥 23시간"
         ]
       }
     },
     "keywords": [
-      "반도체주 우려 확산",
-      "청년층 취업자 감소",
-      "부정청약 대거 적발",
-      "미국 CPI 예상 상회",
-      "연준 빅스텝 우려",
-      "엔비디아 주가 급락"
+      "10월 가계대출 증가",
+      "정년 연장 논의",
+      "코스닥 매수 사이드카",
+      "미 연준 빅스텝 우려",
+      "엔비디아 주가 급락",
+      "나스닥 23시간 거래"
     ],
     "results": {
-      "반도체주 우려 확산": {
-        "headline": "엔비디아 급락에 반도체주 투심 악화",
+      "10월 가계대출 증가": {
+        "headline": "10월 가계대출 5조원 증가와 미 빅스텝 공포",
         "facts": [
-          "뉴욕증시에서 엔비디아가 5% 넘게 급락하며 국내 반도체 대형주에 대한 투자 심리가 급격히 위축되었다.",
-          "개인 투자자들은 코스피 반등 시마다 1조 원 넘는 매물을 쏟아내며 차익 실현과 리스크 관리에 집중하는 모습이다.",
-          "반도체 주가가 저평가 영역에 진입했다는 시각과 추가 하락 가능성이 크다는 비관론이 팽팽하게 맞서고 있다.",
-          "젠슨 황 엔비디아 CEO의 개인 신상 이슈와 미국 금리 인상 공포가 겹치며 반도체 업황 전반에 대한 불확실성이 증폭되었다."
+          "10월 가계대출이 집단대출과 주식 투자 수요의 영향으로 전월 대비 5조 원 증가하며 가계 부채 부담이 가중되었다.",
+          "11월 1일부터 10일까지의 수출액은 335억 달러로 전년 동기 대비 111.9% 급증하며 일평균 수출도 97.7% 늘어났다.",
+          "지난달 취업자 수는 13만 9천 명 증가했으나 청년층 취업자는 4년째 감소세를 이어가며 고용 시장의 양극화가 심화되었다.",
+          "미국 10월 물가 지수가 예상치를 상회하면서 연준이 12월에 기준금리를 0.5%포인트 인상하는 빅스텝을 단행할 가능성이 제기되었다."
         ],
         "watch": [
-          "엔비디아 추가 하락 여부 및 지지선 확인",
-          "미국 연준의 12월 금리 결정 방향",
-          "국내 반도체 대형주 외국인 수급 변화"
+          "12월 미 연준 FOMC 기준금리 결정",
+          "가계대출 규제 강화 및 금리 인상 여부",
+          "청년층 고용 지표의 추가 하락 가능성"
         ],
         "qna": [
           {
-            "q": "개인 투자자들이 지수 반등 시마다 1조 원 넘게 매도하는 배경은 무엇인가?",
-            "a": "미국 금리 인상 우려와 엔비디아의 급락으로 시장의 불확실성이 커지자 손실을 최소화하려는 심리가 강해졌기 때문이다. 지수가 소폭 회복될 때마다 이를 탈출 기회로 삼는 매도세가 유입되며 상단이 제한되는 현상이 나타나고 있다."
+            "q": "가계대출 증가의 주요 원인이 주식 투자와 집단대출에 쏠린 이유는 무엇인가?",
+            "a": "주식 시장의 변동성을 기회로 삼으려는 투자 수요와 신규 분양 단지의 집단대출 실행 시기가 맞물렸기 때문이다. 특히 증시 반등을 노린 레버리지 투자가 가계대출 규모를 밀어올린 주요 동력으로 작용했다."
           },
           {
-            "q": "반도체 주가에 대한 시장의 엇갈린 시각은 구체적으로 어떤 내용인가?",
-            "a": "현재 주가가 실적 대비 지나치게 낮아 매수 기회라는 주장과 업황 둔화 우려로 바닥이 더 깊어질 것이라는 주장이 대립한다. 특히 엔비디아의 급락이 기술주 전반의 밸류에이션 재평가로 이어질지가 관건이다."
+            "q": "수출 지표의 기록적 상승이 국내 금리 결정에 어떤 변수로 작용하는가?",
+            "a": "수출 호조는 경기 회복의 신호로 해석되어 한은이 금리를 인상하거나 유지할 수 있는 명분을 제공한다. 하지만 가계대출 증가세와 맞물릴 경우 가계의 이자 상환 부담을 높이는 압박 요인이 된다."
           },
           {
-            "q": "젠슨 황 CEO의 개인 이슈가 반도체주에 실질적인 타격을 주는 이유는 무엇인가?",
-            "a": "엔비디아의 성장이 CEO의 리더십과 상징성에 크게 의존하고 있어 개인 신상 리스크가 기업 지배구조 및 브랜드 신뢰도 하락으로 연결될 수 있기 때문이다. 이는 기술적 펀더멘털 외의 변동성을 키워 기관 투자자들의 이탈을 부추기는 요인이 된다."
+            "q": "미국 물가 쇼크가 국내 가계부채 상환 부담에 미칠 파급 경로는 무엇인가?",
+            "a": "미국이 빅스텝을 단행하면 한미 금리 격차 해소를 위해 국내 기준금리도 상방 압력을 받게 된다. 이는 시중 대출 금리 상승으로 이어져 5조 원 넘게 불어난 가계대출의 이자 비용을 직접적으로 높이는 결과를 초래한다."
           }
         ]
       },
-      "청년층 취업자 감소": {
-        "headline": "청년 취업자 48개월 연속 감소세 지속",
+      "정년 연장 논의": {
+        "headline": "65세 연금 수령 공백에 정년 연장 논의 재점화",
         "facts": [
-          "10월 전체 취업자 수는 전년 대비 13만 9천 명 증가했으나 청년층 취업자는 4년째 감소하며 고용 한파가 이어지고 있다.",
-          "청년층 고용은 48개월 연속으로 줄어들며 고령층 위주의 취업자 증가세와 대비되는 'U자형 고용' 구조가 심화되었다.",
-          "청년층이 많이 종사하는 숙박 및 음식점업 취업자 수가 5년 8개월 만에 최대 폭으로 감소하며 고용 시장의 질적 저하 우려를 키웠다.",
-          "인구 감소라는 구조적 요인 외에도 경기 둔화에 따른 기업들의 신규 채용 축소가 청년층에 집중되는 양상이다."
+          "60세 퇴직 후 연금 수령이 시작되는 65세까지의 소득 공백을 메우기 위해 일본식 정년 연장 모델 도입 논의가 본격화되었다.",
+          "정년 연장 입법이 공공기관과 대기업 재직자에게만 혜택이 집중될 수 있다는 우려가 제기되며 형평성 논란이 일고 있다.",
+          "정부는 유류비 부담 경감을 위해 유류세 인하 조치를 내년 1월까지 2개월 추가 연장하기로 결정했다.",
+          "정년 연장이 현실화될 경우 퇴직연금 운용 방식과 기업의 인건비 부담 구조에 대한 전면적인 재검토가 필요하다는 지적이 나온다."
         ],
         "watch": [
-          "숙박·음식점업 등 서비스업 고용 회복 여부",
-          "연령별 취업자 수 양극화 추이",
-          "정부의 청년 일자리 대책 발표 및 실효성"
+          "정년 연장 입법 논의의 국회 통과 여부",
+          "퇴직연금 운용 방식 개편안 발표",
+          "내년 1월 유류세 인하 종료 시점 물가 영향"
         ],
         "qna": [
           {
-            "q": "전체 취업자가 늘어남에도 청년층만 48개월 연속 감소하는 이유는 무엇인가?",
-            "a": "인구 구조 변화로 인한 청년 인구 자체의 감소와 더불어 기업들이 경력직 위주의 수시 채용을 선호하면서 신입 진입 장벽이 높아졌기 때문이다. 고령층은 공공 일자리와 단순 노무직을 중심으로 취업이 늘어나는 반면 청년층이 선호하는 양질의 일자리는 정체된 상태다."
+            "q": "퇴직 시점과 연금 수령 시점 사이의 5년 공백이 정년 연장 논의의 핵심 동력인가?",
+            "a": "그렇다. 60세에 퇴직하더라도 국민연금 수령은 65세에 시작되어 발생하는 소득 절벽 현상을 해결하는 것이 이번 논의의 가장 시급한 목적이다."
           },
           {
-            "q": "숙박 및 음식점업의 취업자 급감이 청년 고용에 어떤 직접적인 영향을 주는가?",
-            "a": "해당 업종은 청년들이 학업 병행이나 첫 직장 진입 전 거쳐 가는 주요 고용 통로 역할을 하기 때문에 이 분야의 위축은 청년들의 소득 공백으로 직결된다. 5년 8개월 만의 최대 폭 감소는 내수 부진이 청년들의 단기 일자리마저 앗아가고 있음을 보여준다."
+            "q": "정년 연장이 대기업과 공공기관 위주의 수혜로 그칠 것이라는 비판의 근거는 무엇인가?",
+            "a": "고용 안정성이 높은 대기업과 공공기관은 정년 연장의 혜택을 즉각 누리지만, 중소기업은 인건비 부담으로 인해 실제 시행이 어렵기 때문이다. 이로 인해 노동 시장의 이중 구조가 더욱 고착화될 수 있다는 우려가 나온다."
           },
           {
-            "q": "U자형 고용 심화가 향후 경제 구조에 미칠 잠재적 위험은 무엇인가?",
-            "a": "허리 역할을 해야 할 청년층의 노동 시장 진입이 늦어지면 숙련 편향적 고용이 고착화되어 장기적인 잠재 성장률이 하락할 수 있다. 이는 세수 감소와 사회 보장 비용 증가로 이어져 국가 재정 부담을 가중시키는 연쇄 반응을 일으킨다."
+            "q": "정년 연장 논의가 퇴직연금 시장의 운용 전략에 어떤 변화를 불러오는가?",
+            "a": "근로 기간이 길어짐에 따라 퇴직연금 적립 기간도 늘어나며, 장기 운용에 적합한 수익 추구형 상품으로의 전환이 가속화될 수 있다. 기업 입장에서는 확정급여형(DB)에서 확정기여형(DC)으로의 전환을 유도할 가능성이 크다."
           }
         ]
       },
-      "부정청약 대거 적발": {
-        "headline": "위장전입·이혼 등 부정청약 354건 적발",
+      "코스닥 매수 사이드카": {
+        "headline": "코스닥 이틀 연속 매수 사이드카와 증시 반등",
         "facts": [
-          "정부 합동 점검 결과 위장전입과 위장미혼 등 부정한 방법으로 아파트 청약을 시도한 사례 354건이 대거 적발되었다.",
-          "신혼부부 특별공급을 노리고 의사 부부가 퇴사 후 재입사하는 꼼수를 쓰거나 노부모를 위장 전입시켜 가점을 높인 사례가 포함되었다.",
-          "심지어 모텔로 주소지를 옮기거나 청약 자격을 유지하기 위해 위장 이혼을 감행하는 등 수법이 갈수록 교묘해지고 있다.",
-          "국토교통부는 적발된 의심 사례들에 대해 경찰 수사를 의뢰하고 당첨 취소 및 향후 청약 제한 조치를 취할 방침이다."
+          "코스닥 지수가 5.6% 급등하며 이틀 연속 매수 사이드카가 발동되는 등 극심한 변동성을 보였다.",
+          "코스피 역시 미국 긴축 우려를 딛고 2.6% 상승 마감하며 지난주 투매 장세에서 벗어나는 흐름을 나타냈다.",
+          "미국 중간선거 이후 인공지능 관련주의 급락이 과도하며 이를 선별적 매수 기회로 활용해야 한다.",
+          "정부는 코스닥 시장 활성화를 위해 오는 13일 한국거래소에서 구체적인 대책을 논의할 예정이다."
         ],
         "watch": [
-          "수사 의뢰된 354건의 최종 형사 처벌 수위",
-          "부정청약 당첨 물량의 재공급 일정",
-          "정부의 청약 관리 시스템 강화 대책"
+          "13일 정부의 코스닥 시장 활성화 대책",
+          "외국인 및 기관의 코스닥 순매수 지속 여부",
+          "AI 관련주 추가 반등 및 기술적 저항선 돌파"
         ],
         "qna": [
           {
-            "q": "의사 부부가 사용한 '퇴사 후 재입사' 방식은 어떻게 청약에 이용되는가?",
-            "a": "신혼부부 특별공급의 소득 기준을 맞추기 위해 일시적으로 무직 상태를 만들어 소득 증빙을 낮추는 수법이다. 청약 당첨 직후 다시 원래 직장에 재입사함으로써 자산가임에도 불구하고 저소득층을 위한 혜택을 가로채는 행위다."
+            "q": "이틀 연속 매수 사이드카가 발동될 정도로 코스닥이 급등한 수급적 배경은 무엇인가?",
+            "a": "지난주 과도한 투매에 따른 저가 매수세 유입과 공매도 금지 조치 하에서의 숏커버링 물량이 집중되었기 때문이다. 프로그램 매수세가 일시에 몰리며 지수를 단기간에 폭등시켰다."
           },
           {
-            "q": "위장전입과 위장미혼이 청약 가점 산정에서 구체적으로 어떤 이득을 주는가?",
-            "a": "위장전입은 부양가족 수를 늘려 가점을 높이거나 해당 지역 거주자 우선 공급 자격을 얻는 데 활용된다. 위장미혼이나 위장이혼은 가구 소득 합산에서 제외되어 단독 가구주로서의 청약 자격을 유지하거나 특별공급 요건을 충족하기 위한 수단으로 악용된다."
+            "q": "미국 긴축 우려 속에서도 국내 증시가 강한 반등을 보인 동력은 어디에 있는가?",
+            "a": "미국 빅스텝 우려가 이미 선반영되었다는 인식과 함께 정부의 코스닥 살리기 대책에 대한 기대감이 작용했다. 특히 낙폭 과대주를 중심으로 한 기술적 반등 욕구가 강하게 분출되었다."
           },
           {
-            "q": "이번 대규모 적발이 향후 분양 시장의 청약 경쟁률에 어떤 변화를 가져오는가?",
-            "a": "부정청약으로 확보된 물량이 회수되어 무주택 실수요자들에게 재공급됨으로써 시장의 공정성이 회복되는 효과가 있다. 정부의 강력한 수사 의지가 확인된 만큼 허수 청약 수요가 억제되어 실수요자 중심의 경쟁 구도가 형성될 것으로 보인다."
+            "q": "모건스탠리가 언급한 AI주 선별적 매수 기회가 국내 반도체 기업에 미칠 영향은 무엇인가?",
+            "a": "글로벌 AI 밸류체인에 포함된 국내 반도체 및 소부장 기업들에 대한 외국인 투자 심리를 개선시킬 수 있다. 이는 코스닥 내 시가총액 상위 기술주들의 추가 상승 동력으로 이어질 전망이다."
           }
         ]
       },
-      "미국 CPI 예상 상회": {
-        "headline": "美 10월 물가 쇼크에 긴축 우려 재점화",
+      "미 연준 빅스텝 우려": {
+        "headline": "미 물가 충격에 12월 빅스텝 가능성 급부상",
         "facts": [
-          "미국의 10월 소비자물가지수가 전월 대비 0.4% 상승하며 시장 예상치를 웃돌아 인플레이션 압력이 여전함을 증명했다.",
-          "물가 지표 발표 직후 뉴욕증시 3대 지수는 일제히 하락했으며 특히 나스닥은 0.74% 밀리며 기술주 중심의 매도세가 나타났다.",
-          "예상보다 뜨거운 물가 수치에 연준이 12월에 기준금리를 0.5%포인트 인상하는 빅스텝을 단행할 가능성이 급부상했다.",
-          "엔비디아는 물가 우려와 기술주 투매가 겹치며 5.47% 급락해 시장 하락을 주도하며 투자 심리를 위축시켰다."
+          "미국 10월 소비자물가지수가 예상치를 상회하며 인플레이션 우려가 커지자 뉴욕증시 3대 지수가 일제히 하락했다.",
+          "연준 내 강경파인 크리스토퍼 월러 이사가 4년 만의 빅스텝 가능성을 언급하며 시장의 긴축 공포를 자극했다.",
+          "물가 충격 여파로 나스닥 지수는 0.74% 하락했으며 엔비디아 등 주요 기술주들이 약세를 면치 못했다.",
+          "시장에서는 연준이 인플레이션을 잡기 위해 12월 금리 인상 폭을 0.5%포인트로 확대할 것이라는 전망이 힘을 얻고 있다."
         ],
         "watch": [
-          "연준 위원들의 향후 매파적 발언 수위",
-          "12월 FOMC 금리 결정 결과",
-          "미국 국채 금리 추가 상승 여부"
+          "연준 위원들의 추가 매파적 발언 여부",
+          "11월 소비자물가지수(CPI) 예비치 발표",
+          "미 국채 10년물 금리의 4.5% 돌파 여부"
         ],
         "qna": [
           {
-            "q": "10월 CPI가 예상보다 높게 나타난 것이 왜 시장에 빅스텝 공포를 불러오는가?",
-            "a": "물가 상승세가 둔화되지 않고 오히려 반등하는 조짐을 보이면서 연준이 인플레이션을 잡기 위해 더 공격적인 금리 인상이 필요하다고 판단할 가능성이 커졌기 때문이다. 이는 기존의 점진적 금리 인상 경로를 벗어나는 시나리오로 시장의 긴축 강도를 높인다."
+            "q": "월러 이사가 4년 만의 빅스텝 카드를 다시 꺼내 든 결정적 이유는 무엇인가?",
+            "a": "10월 물가 지표가 둔화되지 않고 오히려 예상치를 웃돌면서 기존의 점진적 금리 인상으로는 인플레이션을 통제하기 어렵다고 판단했기 때문이다. 이는 시장의 조기 금리 인하 기대를 완전히 꺾으려는 의도로 풀이된다."
           },
           {
-            "q": "CPI 발표 이후 엔비디아가 5% 넘게 급락한 연결 고리는 무엇인가?",
-            "a": "고금리 환경은 미래 수익을 선반영하는 성장주와 기술주의 밸류에이션에 치명적인 타격을 주기 때문이다. 특히 엔비디아는 최근 급등에 따른 차익 실현 욕구가 강한 상황에서 금리 인상 우려가 매도 버튼을 누르는 촉매제가 되었다."
+            "q": "물가 지표 상회가 기술주 중심의 나스닥 지수에 더 큰 타격을 준 메커니즘은 무엇인가?",
+            "a": "금리 상승은 미래 수익을 현재 가치로 환산할 때 할인율을 높여 성장주인 기술주의 밸류에이션을 낮추기 때문이다. 특히 고금리 장기화 우려가 커지면서 자금 조달 비용 상승 압박이 기술주 투매로 이어졌다."
           },
           {
-            "q": "물가 지표 상회가 미국 국채 시장에는 어떤 즉각적인 반응을 일으켰는가?",
-            "a": "연준의 긴축 전망이 강화되면서 국채 금리가 급등하고 반대로 국채 가격은 급락하는 현상이 나타났다. 이는 시중 금리 상승으로 이어져 기업의 조달 비용을 높이고 주식 시장의 상대적 매력도를 떨어뜨리는 요인이 된다."
-          }
-        ]
-      },
-      "연준 빅스텝 우려": {
-        "headline": "인플레 재점화에 연준 빅스텝 가능성 부상",
-        "facts": [
-          "미국 10월 물가 지표가 예상을 상회하면서 연준이 다음 달 금리를 0.5%포인트 인상하는 빅스텝을 밟을 것이라는 우려가 시장을 덮쳤다.",
-          "이로 인해 뉴욕증시 나스닥 지수가 0.7% 하락 마감했으며 국내 코스피 시장도 약보합세를 보이며 투자 심리가 위축되었다.",
-          "인플레이션 억제를 위한 연준의 매파적 기조가 강화될 것이라는 전망에 미국 국채 가격은 급락하며 금리 발작 현상을 보였다.",
-          "시장은 연준이 경기 침체 위험을 감수하더라도 물가 안정을 최우선으로 할 것이라는 신호에 민감하게 반응하고 있다."
-        ],
-        "watch": [
-          "12월 FOMC 회의 전 발표될 고용 지표",
-          "연준 주요 인사들의 금리 관련 발언",
-          "달러 인덱스 추이 및 환율 변동성"
-        ],
-        "qna": [
-          {
-            "q": "연준이 베이비스텝 대신 빅스텝을 고려하게 된 결정적 근거는 무엇인가?",
-            "a": "10월 CPI가 0.4% 상승하며 물가 목표치로의 수렴 속도가 기대보다 느리다는 점이 확인되었기 때문이다. 기대 인플레이션이 고착화되기 전에 선제적으로 강력한 통화 긴축을 단행하여 물가 상승 심리를 꺾으려는 의도가 반영된 것이다."
-          },
-          {
-            "q": "빅스텝 우려가 국채 가격 급락과 주식 시장 하락으로 이어지는 메커니즘은 무엇인가?",
-            "a": "기준금리 인상 전망은 국채 수익률을 즉각적으로 끌어올려 기존에 발행된 낮은 금리의 국채 가격을 떨어뜨린다. 동시에 무위험 자산인 국채 금리가 높아지면 위험 자산인 주식에 대한 투자 매력이 상대적으로 낮아져 자금 이탈이 가속화된다."
-          },
-          {
-            "q": "시장이 연준의 빅스텝 가능성을 어느 정도의 확률로 반영하고 있는가?",
-            "a": "물가 지표 발표 전까지는 점진적 인상이 우세했으나 발표 이후 일부 전문가들 사이에서 12월 0.5%포인트 인상설이 급격히 힘을 얻고 있다. 향후 발표될 추가 경제 지표들이 예상치를 계속 웃돌 경우 빅스텝은 기정사실화될 가능성이 크다."
+            "q": "12월 빅스텝 단행 여부를 결정지을 핵심 경제 지표의 임계치는 어느 수준인가?",
+            "a": "다음 달 발표될 고용 보고서에서 임금 상승률이 꺾이지 않거나, 근원 물가 상승률이 전월 대비 0.4% 이상을 유지할 경우 빅스텝은 기정사실화될 가능성이 높다. 노동 시장의 과열 지속 여부가 최대 분기점이다."
           }
         ]
       },
       "엔비디아 주가 급락": {
-        "headline": "엔비디아 이틀간 10% 폭락에 나스닥 휘청",
+        "headline": "엔비디아 이틀간 10% 급락과 중국 밀반입 의혹",
         "facts": [
-          "인공지능 대장주 엔비디아의 주가가 하루 만에 5.5% 급락하며 이틀간 누적 하락 폭이 10%에 달하는 폭락세를 기록했다.",
-          "미국의 10월 물가 지표가 예상을 웃돌며 연준의 긴축 우려가 커진 점이 기술주 전반에 대한 투매를 촉발했다.",
-          "젠슨 황 CEO의 개인 신상 관련 불확실성까지 더해지며 투자자들의 불안 심리가 극에 달한 모습이다.",
-          "엔비디아의 급락은 나스닥 지수를 0.74% 끌어내렸으며 국내 반도체 관련주들에도 하락 압력으로 작용하고 있다."
+          "엔비디아 주가가 물가 우려와 빅스텝 공포 속에 5.5% 급락하며 이틀간 총 10%의 하락폭을 기록했다.",
+          "젠슨 황 CEO의 측근이 10조 원 규모의 엔비디아 칩을 중국으로 밀반입했다는 의혹이 제기되며 투자 심리가 급격히 위축되었다.",
+          "주가 급락에도 불구하고 엔비디아와 구글은 인공지능 스타트업 앤트로픽에 각각 13조 원을 투자하며 AI 생태계 확장을 지속하고 있다.",
+          "나스닥 지수는 엔비디아의 폭락 여파로 187포인트 하락하며 기술주 전반의 조정 장세를 주도했다."
         ],
         "watch": [
-          "엔비디아의 기술적 지지선 회복 여부",
-          "AI 반도체 수요 관련 추가 실적 가이드라인",
-          "CEO 리스크 관련 공식 입장 발표 여부"
+          "중국 밀반입 의혹에 대한 미 당국의 조사 착수 여부",
+          "앤트로픽 투자에 따른 AI 모델 고도화 성과",
+          "엔비디아 주가의 200일 이동평균선 지지 여부"
         ],
         "qna": [
           {
-            "q": "엔비디아 주가가 이틀 만에 10%나 폭락한 핵심적인 트리거는 무엇인가?",
-            "a": "예상치를 상회한 CPI 발표로 인해 고금리 기조가 장기화될 것이라는 공포가 성장주인 엔비디아에 집중되었기 때문이다. 여기에 CEO의 개인 신상 이슈가 겹치며 펀더멘털 외적인 리스크까지 부각되어 기관들의 대규모 매도세가 유입되었다."
+            "q": "10조 원 규모의 칩 밀반입 의혹이 엔비디아의 기업 가치와 규제 리스크에 미칠 영향은 무엇인가?",
+            "a": "미 정부의 대중국 수출 규제 위반 여부가 확인될 경우 막대한 벌금과 추가적인 수출 제한 조치가 뒤따를 수 있다. 이는 엔비디아의 핵심 성장 동력인 중국 시장에서의 매출 불확실성을 극대화하는 요인이다."
           },
           {
-            "q": "엔비디아의 급락이 나스닥 지수 전체에 미치는 영향력은 어느 정도인가?",
-            "a": "엔비디아는 나스닥 내 시가총액 비중이 매우 높아 단일 종목의 하락이 지수 전체를 끌어내리는 결정적인 역할을 한다. 엔비디아의 하락은 다른 AI 및 반도체 기업들에 대한 동반 매도세를 유발하여 기술주 전반의 하락을 주도한다."
+            "q": "주가 폭락 상황에서도 앤트로픽에 대규모 투자를 단행한 전략적 의도는 무엇인가?",
+            "a": "단기적인 주가 변동과 무관하게 AI 연산 수요를 창출할 강력한 소프트웨어 파트너를 확보하려는 포석이다. 앤트로픽의 성장은 곧 엔비디아 칩에 대한 장기적인 수요 확대로 이어지는 선순환 구조를 만든다."
           },
           {
-            "q": "이번 주가 폭락이 AI 산업의 장기 성장성 훼손으로 해석될 수 있는가?",
-            "a": "이번 하락은 산업의 펀더멘털 문제보다는 거시 경제 지표와 CEO 개인 리스크에 따른 일시적 수급 악화 성격이 강하다. 다만 고금리가 지속될 경우 기업들의 AI 설비 투자 비용 부담이 커질 수 있어 향후 실적 발표에서 수요 지속성을 증명하는 것이 관건이다."
+            "q": "이틀간 10% 하락한 엔비디아의 주가가 기술적 지지선을 이탈했는지 판단할 기준은 무엇인가?",
+            "a": "최근 상승폭의 50% 되돌림 구간인 특정 가격대 유지 여부가 중요하다. 만약 대량 거래를 동반하며 직전 저점을 하향 돌파할 경우 AI 거품론이 재점화되며 장기 조정 국면에 진입할 수 있다."
+          }
+        ]
+      },
+      "나스닥 23시간 거래": {
+        "headline": "나스닥 23시간 거래 도입과 국내 증권가 대응",
+        "facts": [
+          "나스닥이 다음 달부터 하루 23시간 거래 체제를 도입함에 따라 국내 증권사들이 시스템 개편 등 본격적인 준비에 착수했다.",
+          "이번 조치로 아시아 낮 시간대에도 월가 자본의 거래가 가능해지면서 홍콩 등 주요 금융 허브들이 방어 전략 수립에 나섰다.",
+          "퇴직연금 시장에서는 나스닥의 성장성과 미국채의 안정성을 결합한 '반반 투자' 상품이 새로운 대안으로 주목받고 있다.",
+          "정부는 국내 코스닥 시장 경쟁력 강화를 위해 오는 13일 거래소에서 별도의 대책 회의를 가질 예정이다."
+        ],
+        "watch": [
+          "국내 증권사별 23시간 거래 시스템 정식 오픈일",
+          "홍콩 증시의 거래 시간 연장 등 대응 조치 발표",
+          "퇴직연금 내 미국 자산 비중 변화 추이"
+        ],
+        "qna": [
+          {
+            "q": "나스닥의 23시간 거래 도입이 아시아 증시의 유동성을 흡수하는 '블랙홀'이 될 가능성이 있는가?",
+            "a": "그렇다. 아시아 투자자들이 자국 증시 대신 실시간 거래가 가능해진 나스닥으로 자금을 옮길 가능성이 커지면서 국내외 증시 간 유동성 확보 경쟁이 치열해질 전망이다."
+          },
+          {
+            "q": "국내 증권사들이 시스템 개편을 서두르는 것이 서학개미의 매매 패턴에 어떤 변화를 가져오는가?",
+            "a": "기존의 예약 주문이나 야간 거래의 불편함이 사라지면서 국내 주식처럼 실시간 대응이 가능해진다. 이는 미국 주식에 대한 데이트레이딩 수요를 자극하고 해외 주식 투자 비중을 더욱 높이는 결과를 낳을 것이다."
+          },
+          {
+            "q": "나스닥 거래 시간 확대가 퇴직연금 포트폴리오의 리스크 관리 방식에 미치는 영향은 무엇인가?",
+            "a": "24시간에 가까운 거래가 가능해짐에 따라 야간에 발생하는 돌발 악재에 즉각 대응할 수 있어 리스크 관리 효율성이 높아진다. 특히 나스닥과 미국채를 혼합한 상품의 경우 실시간 자산 배분 조정이 용이해진다."
           }
         ]
       }
     },
     "news": {
-      "반도체주 우려 확산": [
+      "10월 가계대출 증가": [
         {
-          "title": "코스피, 美연준 '빅스텝'우려에 약보합…코스닥은 2% 가까이 상승 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lX0hQbVVEVnIzamJoNzY2MUdjeWtHWWlNejRpZjNSNnllV3dBYUx0TFBISFlERlVIbkJJZmc1bm5kUlRlTHZ0eXFVVVpxRHNGTFVaMkI4UFo5R0pSbDkyWGRNaERpSWstYThIMkZSUU8?oc=5",
+          "title": "10월 가계대출 5조원 증가…집단대출과 주식 투자 등 영향 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xWXNfU1dPQUJVZnNGUE1obWY5cTVacV9kaEt0dFhQby1nREJjZXBHYWpKMEV1YmpMSkU1UHM2Z0xuWXF2bmNOVTg3eVhabDFNV0xMbzk2RVJiRlNyc0Vhd1k3LW5sVVcycURZeGNQdEk?oc=5",
           "source": "연합인포맥스",
-          "published": "11-11 09:23",
-          "snippet": "코스피, 美연준 '빅스텝'우려에 약보합…코스닥은 2% 가까이 상승 연합인포맥스 [속보] 코스닥 4%대 급등에 이틀 연속 '매수 사이드카' 발동 MBC 뉴스 코스닥, 부양책 기대에 이틀 연속 매수 사이드카…700선 터치 뉴스1 \"드디어 주가 바닥 찍었나\"…삼전닉스 반등 가를 핵심 변수 [분석+] 한국경제 미 증시 하락세 영향에...코스피 장 초반 보합권 YTN"
+          "published": "11-11 14:00",
+          "snippet": "10월 가계대출 5조원 증가…집단대출과 주식 투자 등 영향 연합인포맥스 증시 바닥인 줄 알았더니…개미들 '빚투' 폭발에 역대급 상황 한국경제 10월 은행 가계대출 5조원 증가…잔액 1204조 ’역대 최대’ By 알파경제 alphabiz Investing.com 한국어 10월 가계대출 다시 증가 전환…주택담보대출 증가 폭 확대 매일경제 마켓 “대출 조이기 효과 꺾였나”...은행 가계빚 사상 첫 1200兆 에너지경제신문"
         },
         {
-          "title": "공정위 \"네이버·두나무 결합, 시장 경쟁제한 우려\"…연내 심의 목표 - 지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zWTMyQmdqYU1Cakl0QXYxZWN2TExxdUExdE0wNlFQek5IS3g0NGtpNnE5YmFzcjNkTW5QQ3VsbENQNmEwaGpvR19zQnFBY3R2ajdob3BR?oc=5",
-          "source": "지디넷코리아",
-          "published": "11-10 13:10",
-          "snippet": "공정위 \"네이버·두나무 결합, 시장 경쟁제한 우려\"…연내 심의 목표 지디넷코리아 \"1년 만에 심의 테이블\"...네이버+두나무 '조건부 승인' 가능성 - 머니투데이 머니투데이 공정위, 네이버파이낸셜·두나무 합병 조건부 승인 추진 서울경제 “네이버·두나무 합병, 경쟁 제한 우려” 경향신문 해외 거래소 韓 공략하는데…네이버·두나무 결합은 심사 지연 아시아경제"
+          "title": "11월 1∼10일 수출 335억달러, 111.9% 증가…일평균 97.7%↑ - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50dXY0QVdPWEJDZTlfRFlwWDNqQnduMm1iUzB3VUlTSU1QU25adHg0MFRJd0FOdjdpVGtmRGhTWlBEc2pvbWVJLTRvQVJVUFR4X3NiS05MWHVadw?oc=5",
+          "source": "한국경제",
+          "published": "11-11 09:01",
+          "snippet": "11월 1∼10일 수출 335억달러, 111.9% 증가…일평균 97.7%↑ 한국경제 올해 누적 수출액 9,637억 달러...수출 1조 달러 초읽기 YTN 사이언스 반도체 수출 4배로 껑충…'1조 달러' 곧 달성 전망(종합) 연합뉴스 대기업 수출 103% 늘었는데 중기는 10%…심화되는 양극화 경향신문 1년새 3687억달러 늘어난 韓수출…74%는 '반도체 힘' 아시아경제"
         },
-        {
-          "title": "코스피 반등마다 1조원 넘게 파는 개미들...젠슨 황 불륜, 美 금리 인상 공포에 커지는 우려 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaGt3dDR5YVJYcjBQbnpiOWdMc2FRcGJYSTJTVzkyNHpjRVkyMnFnMkw2bmE1Z3pzMTZuMzlqblU1R3lUYXl6ZnNfYndTVUR1THRpLUllTHBUSE5jVUE5QUZCSjBGNWNwXzVzYjhsX0JlUTB6R0Nhbm9VWjVWNXMyTw?oc=5",
-          "source": "조선일보",
-          "published": "11-11 08:49",
-          "snippet": "코스피 반등마다 1조원 넘게 파는 개미들...젠슨 황 불륜, 美 금리 인상 공포에 커지는 우려 조선일보 한달 만에 1000만원→299만원 됐다...'야수의 심장' 개미, 눈물의 물타기 [서학픽] - 머니투데이 머니투데이 급락해도 또 산다…레버리지 ETF에 2조원 베팅한 개미들 한국경제 [해외주식 Cilck] 반도체 12% 폭락에도…서학개미, '반도체 3배' 17억달러 쓸어 담았다 메트로신문 \"팔면 반등할 것 같고, 버티면 더 빠질 것 같고\" 반"
-        },
-        {
-          "title": "\"반도체주 너무 싸, 지금 가격이 크리스마스 선물\" VS \"더 떨어질 것' - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16WkZVT0xxaGkwUGl1clR2cFNtVUNiQUtFUFVoTHNkNWFJc2cxZTVWQVI4c0VraEp6TGJ3TVNmS05SSjhsY0ZIeXNmYjZGd2NtMUphaUxjS2ROZHVOOHhvbmVVRkJMODVv0gFuQVVfeXFMTndMWk1YMUlvZmw2X3B3QU5zYTFqX056ZDdmRDhFYjJuZ3lISmdFYW5Kbkx0R24tbHI0WS12SE1tYWptTFhwemdjb0lRLXRkNm9mT0NKSnA0M19wZ01MRUc0TVU4RDBwZkJCZEFOUFE?oc=5",
-          "source": "머니투데이",
-          "published": "11-10 09:46",
-          "snippet": "\"반도체주 너무 싸, 지금 가격이 크리스마스 선물\" VS \"더 떨어질 것' - 머니투데이 머니투데이 블룸버그 \"엔비디아 주가, 젠슨 황 자리 지킬지에 달려\" 연합뉴스 \"젠슨 황 해임하면 기업가치 30% 증발\"…엔비디아 이사회 '딜레마' 뉴시스 AMD·브로드컴 날았다...엔비디아만 4% 급락 네이버페이 머니스토리 엔비디아, 월마트, 마이크로소프트 外 마켓인"
-        },
-        {
-          "title": "딜라이브도 CJ ENM 채널 종료 추진…SO·PP 갈등 확산 - 전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mSTVJQTJ5T1JVbHJ2aUI2cFBGQ3BHdHVXMTZsaGxqRlRjdzhCc2ZDWkRjdnRodVNZRmwzUlJLNDRUT1B3cE1NMkVYRjJLUQ?oc=5",
-          "source": "전자신문",
-          "published": "11-10 14:12",
-          "snippet": "딜라이브도 CJ ENM 채널 종료 추진…SO·PP 갈등 확산 전자신문 채널 송출 중단에 케이블TV·PP 갈등 거세졌다 지디넷코리아 CJ ENM 채널 종료에 업계 충돌…\"시청권 침해\" vs \"사용료 인하 필요\" 뉴시스 방송채널진흥협회 “LG헬로비전 채널 종료, 정부 가이드라인 무력화” 전자신문 SO업계 \"가입자·시청률 줄었는데 사용료 그대로\"…PP에 정면 반박 뉴스1"
-        },
-        {
-          "title": "뉴욕증시, 연준 '빅스텝' 우려·엔비디아 급락에 하락 마감 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXd3JGN1pKdWJHOEhPRFBSZ3JsZV9IU1hOdnJ1MGphYzZtMUdKY1p1UW9NVFRSSVdvWmMzd2VMd1FIMDJRbWFxR0tnMHZJNEpoU3EwR3NDdTZSdlBM?oc=5",
-          "source": "뉴스핌",
-          "published": "11-11 06:23",
-          "snippet": "뉴욕증시, 연준 '빅스텝' 우려·엔비디아 급락에 하락 마감 뉴스핌"
-        }
-      ],
-      "청년층 취업자 감소": [
         {
           "title": "지난달 취업자 13만9천 명 증가‥청년층은 4년째 감소세 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84S2dGN3gtVFZ5V1hUclk5VTM3QTFIRlFkb05DbEJ4aGV6b2hBZkJUYjYzWWsyc3U5dENvRk9mVkk1YkFxQ2I1ZENYVXB6UjluNDdmQnlsTEhaU0o0NVZGVmdHZDU1TGl4bFRZZWtvS2xNd0pW?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84S2dGN3gtVFZ5V1hUclk5VTM3QTFIRlFkb05DbEJ4aGV6b2hBZkJUYjYzWWsyc3U5dENvRk9mVkk1YkFxQ2I1ZENYVXB6UjluNDdmQnlsTEhaU0o0NVZGVmdHZDU1TGl4bFRZZWtvS2xNd0pW0gF0QVVfeXFMTms2RW03MVhhT3hSM2tfS0RpQUF1ZXVET3FxUTM1WkpSdTdYc0M0T24zRXdhN2VfYmlYcEhvWkVjTDZ5d1dLT0VZYUJvUEdtNFJHRHh2dEFuanYyekpGNWJWWldLdkg0TDRZbzJfTzdXdW5JbjY?oc=5",
           "source": "MBC 뉴스",
           "published": "11-11 09:08",
-          "snippet": "지난달 취업자 13만9천 명 증가‥청년층은 4년째 감소세 MBC 뉴스 취업자 넉 달 째 10만 명대 증가...청년층 48개월 연속 감소 YTN 청년층 고용률 코로나 후 최저…숙박음식 5년8개월만에 최대폭↓(종합2보) 연합뉴스 권대영 “‘취약계층의 일자리 여건 개선’ 최우선 순위로 국민일자리 프로젝트 추진” 마켓인 10월 노동시장 동향 발표하는 조원식 노동부 미래고용분석과장 뉴시스"
+          "snippet": "지난달 취업자 13만9천 명 증가‥청년층은 4년째 감소세 MBC 뉴스 취업자 넉 달 째 10만 명대 증가...청년층 48개월 연속 감소 YTN 사이언스 일하는 60세 이상 730만, 하지만 고용률은 하락 이투데이 일자리를 찾아라 '서울커리업 일자리페어' 뉴스1 인건비 부담에 자영업자 고용 축소…음식점업 취업자 급감 동아일보"
         },
         {
-          "title": "미-이란 긴장 완화 기대와 재고 감소에 유가 2개월 저점에서 반등 By Investing.com - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tU24tTWV6eThUWUk4bk1qQzF2aU1rUjJ1QXR0bVloWVA4VzZPRDJ4SlVYMVRRVDB4ZW9jRnpvS0JKRS05ZkJ6SkFlTERJTjNhZnlQdzY2bmFTLXFIWWZfX29Wc0N6VXI5UE5OZHZCRQ?oc=5",
-          "source": "Investing.com 한국어",
-          "published": "11-11 11:15",
-          "snippet": "미-이란 긴장 완화 기대와 재고 감소에 유가 2개월 저점에서 반등 By Investing.com Investing.com 한국어 국제유가 하락세 지속…8월 31일 이후 최저 KBS 뉴스 산업부 \"연말까지 원유·나프타 90% 이상 물량 확보\" 연합뉴스TV 하나증권 \"유가 하락에 항공주 부각, 대한항공 진에어 투자심리 개선 전망\" 비즈니스포스트 국제유가, 트럼프 '공격 자제' 발언에 급락…브렌트유 장중 7.9%↓ - 머니투데이 머니투데이"
-        },
-        {
-          "title": "취업자 넉 달 째 10만 명대 증가...청년층 48개월 연속 감소 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xWlRZdTJYVEpKWFljMFZNNFM2Tkk0bE9yUDFQUG5obHBFN3VaRjdKLUpCUWY3dUNrWG1Qb2JScm1ZdFNNMVJZOUJaeXZvcVluRzZwTGlkdUJUYWtGQmZmTWdDRDRKbUVQQzlDOURoWQ?oc=5",
-          "source": "YTN",
-          "published": "11-11 11:04",
-          "snippet": "취업자 넉 달 째 10만 명대 증가...청년층 48개월 연속 감소 YTN"
-        },
-        {
-          "title": "[종합] 10월 취업자 13만9000명 늘었지만…청년 일자리 48개월째 감소 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlRVBZd3hTdlhzYmJEbXZhMFdQMDZZcTNsWWpna011ay12WTViTnpUTGJJVXpMYVNLZ0xtVzA1YzFyUEhfMl95YVdGSFR3Sy1xdDFLRVlRV2YwZkdT?oc=5",
-          "source": "뉴스핌",
-          "published": "11-11 09:43",
-          "snippet": "[종합] 10월 취업자 13만9000명 늘었지만…청년 일자리 48개월째 감소 뉴스핌"
-        },
-        {
-          "title": "청년층 취업자 4년째 감소… ‘U자 고용’ 심화 - 문화일보",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RTzJUUE84UHZVTWNUN2VlQWo0V3QtS3dYLTRidWotVExWYl9TX19STGxHMWU5WFBSM1VRNzdTeGJ0U2VKLVpHNUpQVHpzUGxI?oc=5",
-          "source": "문화일보",
-          "published": "11-11 11:57",
-          "snippet": "청년층 취업자 4년째 감소… ‘U자 고용’ 심화 문화일보"
-        },
-        {
-          "title": "숙박음식점 취업 5년8개월 만에 최대폭 감소…청년 고용도 4년째 한파 - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4dFFVQ2c1YkFQNFkyR09wajZZU3NQT09FZUxwc1RNcHZEblE0dlRYY3ZDSzZ0eWNzN1lnQ0VpWS1wQnFxNjRTdGtLT1J2MGNsWlU5Sm5n?oc=5",
-          "source": "중앙일보",
-          "published": "11-11 12:13",
-          "snippet": "숙박음식점 취업 5년8개월 만에 최대폭 감소…청년 고용도 4년째 한파 중앙일보"
-        }
-      ],
-      "부정청약 대거 적발": [
-        {
-          "title": "‘퇴사 뒤 재입사’ 꼼수… 의사부부 등 부정청약 354건 적발 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvaC1HdUhma0RJX2FOR2FkdmF6aHBtamlEMzE1aTJ0RkhTb2JmVVF1cGd4OWlxT0NzMjFfcEZINmZsVjVZX0xjWVh2b1pieWVSbnRYZV9tekM0cDJjWjNib0xramgteXJmQk5wSXVtbXBHRF82T2dR0gFmQVVfeXFMUHFheU1TN1hDT1gxNzlpbkdRbEVaN1NxT2M3RTk0Z0Q4alA0YmVCOWRlOE1Na0ZpWWtPazBiTnJIelIyQ01mc19LQUpvSnptbGZ1eUtScnJRdHJHWUpQdTNsSWJVanpn?oc=5",
-          "source": "동아일보",
-          "published": "11-11 04:30",
-          "snippet": "‘퇴사 뒤 재입사’ 꼼수… 의사부부 등 부정청약 354건 적발 동아일보 “엄마 병원 기록에 덜미”…부정청약 들통난 부부의 최후 [잇슈 머니] KBS 뉴스 '고소득' 의사 부부, 병원 나란히 퇴사 알고보니…기막힌 꼼수 한국경제 청약 당첨되려고 위장전입에 가짜 퇴사까지…부정청약 의심 354건 적발 주간조선 의사가 일용직으로 ‘소득 세탁’…부정청약 354건 적발 문화일보"
-        },
-        {
-          "title": "노부모 위장전입시켜 특공…부정청약 대거 적발 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UOEstbEpKUTlzcmhVTU41dElBVEJJMHVLdXExNl9MU3VYblNEQVlEeXNMbWVmT0hZVm5lcWVCT1JEUTZhUDJxV1pJdkw1cklicHVVXzNNVVAtWnRyY051b3NIWXk0Zw?oc=5",
-          "source": "연합뉴스TV",
-          "published": "11-11 05:47",
-          "snippet": "노부모 위장전입시켜 특공…부정청약 대거 적발 연합뉴스TV"
-        },
-        {
-          "title": "위장전입에 위장미혼, 부정청약 의심 사례 대거 적발···정부, 수사 의뢰 - 한국NGO신문",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYS2xwNzNpX2VwUEZQVENFVWZ6N3piaFpjSmFJQktZUXg1ZGl2ckRiUGNjVks3WHBzcFVnejdZNjF1VVJoSXZZd2lIV2ZMRnlCNG0xZDl3QlB2bkoycDJRcnVZQVY2T0lR?oc=5",
-          "source": "한국NGO신문",
-          "published": "11-10 12:38",
-          "snippet": "위장전입에 위장미혼, 부정청약 의심 사례 대거 적발···정부, 수사 의뢰 한국NGO신문"
-        },
-        {
-          "title": "신혼 특공 노려 위장 퇴사까지…부정청약 의심 354건 적발 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FTTZoelZxS3ctTk5jVVdFVUF2NXc1TVQ4UUwtQmo1ZzU0NGdfZS03Um9xN043b085UTEyN09HcUVsTmg2ZjhwSG1tTlNsX0tjWXdwTkJJSTI0V00?oc=5",
+          "title": "고속도로 ‘크루즈 컨트롤’ 켜고 달리다 올해만 8명 사망…60% 증가 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtTnhqMzZtR19OUTFGT01fYmNTTXl3NS1ZMmtwOUdFZ0hnY1MzWVdydWlpbVZIMVJzY1NZbnl6enRhSktMa081Z184WmJCWVkzekFfXzRGaDA1N28?oc=5",
           "source": "KBS 뉴스",
-          "published": "11-10 10:00",
-          "snippet": "신혼 특공 노려 위장 퇴사까지…부정청약 의심 354건 적발 KBS 뉴스"
+          "published": "11-11 11:05",
+          "snippet": "고속도로 ‘크루즈 컨트롤’ 켜고 달리다 올해만 8명 사망…60% 증가 KBS 뉴스 차량 '액티브 크루즈 컨트롤' 사용 중 사고 급증세 매일경제 마켓 ACC 믿고 운전하다가…교통 사망사고 3년 새 60% 급증 뉴시스 운전 보조장치 믿었다가…고속도로 사고 치사율 6배 높아 뉴스핌 정차 차량 못 알아보는 ACC…사고 치사율 일반 사고 6배 더팩트"
         },
         {
-          "title": "\"의사 관두고, 결혼 안한척도\" 부정청약 천태만상 - 비즈워치",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DdzBsNVBMbnNDMjhhV3g5WGVBNkt4WW91UEZDTmlJeTlfM0x1NWpVRTdtZk1DWjNBRWNEQmxrY09WQ3pvX01Ub254TlN4dkNNNnB2SFVkMVhMd2hLVy1wQ2lHQ0kxc3RSbTNGVzB1a24?oc=5",
-          "source": "비즈워치",
-          "published": "11-10 16:06",
-          "snippet": "\"의사 관두고, 결혼 안한척도\" 부정청약 천태만상 비즈워치"
-        },
-        {
-          "title": "위장 이혼에 모텔 전입까지…부정청약 354건 덜미 - 경제타임스",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3YURBZjc0dVpJWTFlNFgxMlZySE9JRHZzS3pXNFducDUxd3BvcnBxR3RyOUpiZ2JVZVRudVZuaGd3WGRFMW51Vi1kWGpBa3ZudjNF?oc=5",
-          "source": "경제타임스",
-          "published": "11-10 18:05",
-          "snippet": "위장 이혼에 모텔 전입까지…부정청약 354건 덜미 경제타임스"
-        }
-      ],
-      "미국 CPI 예상 상회": [
-        {
-          "title": "[3분증시] 뉴욕증시, CPI 상회·매파 발언에 동반 하락 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GSmxvMVltRkhoUWFoaUY3dnVQeXlnOTdwejdZOWszaktnZnFMRGpnam9RNVl5cVRlRzV6a0hUM25nb01UQmxkWEZDVEpLaXZGTU9UQ0FleEQ0QXVKWlM0bnFySGpSZ28?oc=5",
-          "source": "연합뉴스TV",
-          "published": "11-11 07:54",
-          "snippet": "[3분증시] 뉴욕증시, CPI 상회·매파 발언에 동반 하락 연합뉴스TV"
-        },
-        {
-          "title": "뜨거운 CPI와 Nvidia 하락 후 미국 증시 선물 소폭 상승 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZZlUxTDFsbDJfYVFhSUI3c09LcXcyZTAwM19xMW1sXzFOQks1cXVBRFkxcmx3MWNmVTl0VW5xMHd4S2U5TG1XdW53bm4yal8zZVBLa3NVZG1CUzgyMEhtUE0tNUYwbTV5Vzh0QndJclU?oc=5",
-          "source": "Investing.com 한국어",
-          "published": "11-11 09:42",
-          "snippet": "뜨거운 CPI와 Nvidia 하락 후 미국 증시 선물 소폭 상승 Investing.com 한국어"
-        },
-        {
-          "title": "[뉴욕 증시] 예상치 웃돈 美 CPI에 3대 지수 하락…엔비디아 5.47% ↓ - 한양경제",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQWjBDSEFySHlOOFdGVUFmeVB1LWpoTHFYel9Xc0R4blhPVzdYajh5Y2w3MWlZSzUtb3c3UVNXZVhCNC1FMUU4TlNLVHptZUhJX21VRFdZZnBFNlpqNHpmZXZxV0FPaXdqWVFMRHBaeGhRZw?oc=5",
-          "source": "한양경제",
-          "published": "11-11 09:59",
-          "snippet": "[뉴욕 증시] 예상치 웃돈 美 CPI에 3대 지수 하락…엔비디아 5.47% ↓ 한양경제"
+          "title": "[ICYMI] 연준 10월 동결 실수였나…'4년 만의 빅스텝' 들고나온 월러 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13NU5PLUJ1VWRHWnNoWDJkZWY3VGY3T1JZSEZ1eVQ4SHlINHFvZU5Gei1lX3JOMVZreDZ4TUdVbVZiQ2Qzc1haQXdXNnkzZ01JUWtPUWd1ZHhmWHRmUmFHenlkVlRza1JlQUxrdXpiVEw?oc=5",
+          "source": "연합인포맥스",
+          "published": "11-11 09:35",
+          "snippet": "[ICYMI] 연준 10월 동결 실수였나…'4년 만의 빅스텝' 들고나온 월러 연합인포맥스"
         },
         {
           "title": "美 10월 물가도 예상치 상회…연준, 12월 ‘빅스텝’ 거론 - 동아일보",
@@ -828,29 +728,103 @@
           "source": "동아일보",
           "published": "11-11 06:51",
           "snippet": "美 10월 물가도 예상치 상회…연준, 12월 ‘빅스텝’ 거론 동아일보"
-        },
-        {
-          "title": "美 10월 물가 예상 상회에 뉴욕증시 동반 약세...나스닥 0.74% 하락 - www.ebn.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpMWJkbUVwYU95NldZOVZ6TmZBZjVkaG4zNERtUkxWdmk5MmdnR3VueW9jNWUxWjVEZ0VYV0xhZXNJWU9nc1kwYnphMmVkT2RKUS1DSlZ4WWdhRDBSTjV6eDVFdXhSSkI1?oc=5",
-          "source": "www.ebn.co.kr",
-          "published": "11-11 09:37",
-          "snippet": "美 10월 물가 예상 상회에 뉴욕증시 동반 약세...나스닥 0.74% 하락 www.ebn.co.kr"
-        },
-        {
-          "title": "美 10월 CPI 0.4%↑…예상 웃돌며 연준 긴축 전망 강화(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05cFdRcjNYYXZlN1J5SUJsMEQ4ZXRULUxzeFRCU1dlbFMyTFBmOVZPSjZ4Z0x1bXlQNjF0ZHAxdzBzbHZqbnp1dkstRm1EN1c0ZHdqSVFpSG15YWQtcldGcdIBYEFVX3lxTE05cFdRcjNYYXZlN1J5SUJsMEQ4ZXRULUxzeFRCU1dlbFMyTFBmOVZPSjZ4Z0x1bXlQNjF0ZHAxdzBzbHZqbnp1dkstRm1EN1c0ZHdqSVFpSG15YWQtcldGcQ?oc=5",
-          "source": "연합뉴스",
-          "published": "11-10 23:34",
-          "snippet": "美 10월 CPI 0.4%↑…예상 웃돌며 연준 긴축 전망 강화(종합) 연합뉴스"
         }
       ],
-      "연준 빅스텝 우려": [
+      "정년 연장 논의": [
         {
-          "title": "코스피, 美연준 '빅스텝'우려에 약보합…코스닥은 2% 가까이 상승 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lX0hQbVVEVnIzamJoNzY2MUdjeWtHWWlNejRpZjNSNnllV3dBYUx0TFBISFlERlVIbkJJZmc1bm5kUlRlTHZ0eXFVVVpxRHNGTFVaMkI4UFo5R0pSbDkyWGRNaERpSWstYThIMkZSUU8?oc=5",
+          "title": "[현장에서] 퇴직 뒤 연금 공백, 일본식 정년연장서 배울 점 - 이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PVkNua3NwbC0zeVJZNEVucWFtQ1VsSVFFVnJBSFo1YUVpajZIR2xZR0dBdGdZWUVDNFZRRXZzdW9ELThmSVJDcmpsb2RlcEY1S1pCTG9WNFpKZw?oc=5",
+          "source": "이투데이",
+          "published": "11-10 15:18",
+          "snippet": "[현장에서] 퇴직 뒤 연금 공백, 일본식 정년연장서 배울 점 이투데이 60세에 퇴직, 65세부터 연금수령 “5년간 뭐먹고 살라고”…공무원 92%가 걱정 매일경제 \"정년 후 연금 나올 때까지 5년간 뭐먹고 살라고\"…공무원 92% \"소득 공백 우려\" 아시아경제 “국민연금 받는 급여만큼 기초생활 수급비 깎여”…조기연금 신청하는 저소득층 노인들 세계일보 [그래픽] 퇴직공무원 연금 소득공백 설문조사 결과 연합뉴스"
+        },
+        {
+          "title": "정년 연장하면 퇴직연금 운용 방식도 바뀔까 - 이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fTWk2bHpYSWxld3NzZE9WVVMyNUw0a3RucjdUeXdYdExIYkk2WFdUbWp0MXpWYTcyUWJXUzRfeGFqSnFicmxUQ0xwXzJObGVaeU5ITGkwVXdTQQ?oc=5",
+          "source": "이투데이",
+          "published": "11-11 13:20",
+          "snippet": "정년 연장하면 퇴직연금 운용 방식도 바뀔까 이투데이 ‘정년 65세’ 입법한다는데…‘정년 60세’ 채운 퇴직 13%뿐 문화일보 정년연장·청년고용 “양립 어렵다” vs “부딪힐 이유 없다” 전기신문 자동차업계 “일률적 정년연장 기업경쟁력 저해, 기업 여건 맞춘 유연한 고용 필요” 전자신문 [율곡로] 장기 표류하는 정년 연장 연합뉴스"
+        },
+        {
+          "title": "유류세 인하 내년 1월까지 2개월 연장…\"유류비 부담 경감 차원\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQlZMQ2dRRWcwazhHa0lHZlBiUUhpTExRUjZ1ZFlPNGdJVHVNVHR1LWhsSTM2Y3RxVzlFaFhHQWwxYWpRblNiOXVCZ0luNmVNdXgyUUhKel9pVEZ6bzgwOGt5RkNtVFRsS1pWUFZMZ2E2eWw3MVQyLXVyUVZ5N3RXMkpLaklQSlBoXzdTUTNB?oc=5",
+          "source": "조선일보",
+          "published": "11-11 09:14",
+          "snippet": "유류세 인하 내년 1월까지 2개월 연장…\"유류비 부담 경감 차원\" 조선일보 유류세 인하 2개월 연장…휘발유 15%·경유 25% 인하 유지 대한민국 정책브리핑 휘발유 15%, 경유 25%, 부탄 25%…유류세 한시적 인하 내년 1월 31일까지 연장 경기일보 ‘출구전략설’ 석유 최고가격제, 어떻게?…13일 오후 6시 발표 마켓인 유류세 인하 내년 1월까지 연장…고유가 부담 두 달 더 낮춘다 전기신문"
+        },
+        {
+          "title": "[단독]코스닥 살리기 나서는 정부…13일 거래소서 대책 논의 - 비즈워치",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXaDZTcTdfZjhVOGcwNGNvcjJ3V3o4MHp2dDRqUWlZVnk4alBVN1NUaEFyb1NGOEJvVzRTVGUwbFpWMHpnclpLdFJ6VmxFVnJ1SFFENUNmay0zZERIMEtjRC1Ka2tMZnVKZnc?oc=5",
+          "source": "비즈워치",
+          "published": "11-11 16:28",
+          "snippet": "[단독]코스닥 살리기 나서는 정부…13일 거래소서 대책 논의 비즈워치"
+        },
+        {
+          "title": "[한상권 칼럼] 정년연장 입법 논의, 공공기관 대기업 재직자에 수혜 몰아주는가 - 세이프타임즈",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vMjVKRWdXNHJPM1ZlSVUtY1RnTC1OQ1J2WkkwR2x4MVMwTk5sTm53UlQwbDd2ZTc1NDZlWlF2OXFYd2xlTENaeWhIZzlsVV9GSjVkTUV2eldtUlh3SkJYbnozeG1OSkRJbHJvdEpKSdIBc0FVX3lxTFBVamVLZkFSNG9IaUczRVFzLVNJYU5NUmF5dnhBM0VHQWl5Mk5wc25GNHVILXdSXzBBQ1hfdVZJbDYtajNSRTdmMmpPUjU4YzhBNEVSc3REZ1Nwd05IUjA1UjhLbmdPSEFvS1RZLTBoM3VUVEU?oc=5",
+          "source": "세이프타임즈",
+          "published": "11-11 12:44",
+          "snippet": "[한상권 칼럼] 정년연장 입법 논의, 공공기관 대기업 재직자에 수혜 몰아주는가 세이프타임즈"
+        },
+        {
+          "title": "“60세에 퇴직하는데 연금은 65세부터?”…정년 연장 논의 다시 불붙었다 - 용인신문",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DVVJwNWJZdmJwSnFMeEMxNU1uNFI2QzE3WDBLZ2hzWmJTOHhTQmFjUmNBT2djSEdFay1mTlVfR3hvWDZkWHdWNGdYS2I4SGl3dkdzcXhMVVI4R3lQTkFxcHkwTkc?oc=5",
+          "source": "용인신문",
+          "published": "11-11 06:05",
+          "snippet": "“60세에 퇴직하는데 연금은 65세부터?”…정년 연장 논의 다시 불붙었다 용인신문"
+        }
+      ],
+      "코스닥 매수 사이드카": [
+        {
+          "title": "코스닥 4%대 급등에 이틀 연속 '매수 사이드카' 발동 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YV3hHUzMxR0p3TVBPUk5OR0VFbmZYLU1HNHJySGQ0bURnS1Z4RzJnWVpKOXdfVnZfWGZtT1BEYUtYdkIzMkpDdzZ4b2V5ODhJbjB4SVZwY2x6WE52T1JFcm1IdlhFLWN0X1JsYWZkSzBjQzNW0gF0QVVfeXFMTmNnTktYaTdTV01reUgta0xPcHVXRWxqY0tLMEg3Vkk1Mjh6MzBLLXZqbHhYOVpWeHAyWmFqRXJsU3FKUERiclljWmFkUXN0UldrUjFOYkM4YzdFYXRMMEh6eDFwdU9qbFV3dksyckw2Rmw0MUI?oc=5",
+          "source": "MBC 뉴스",
+          "published": "11-11 11:32",
+          "snippet": "코스닥 4%대 급등에 이틀 연속 '매수 사이드카' 발동 MBC 뉴스 美빅스텝 우려에도 급등‥코스피 2.6%·코스닥 5.6%↑ MBC 뉴스 “웰컴백 외국인”…돌아온 자금, 어디에 몰렸나 매일경제 마켓 '매도 폭탄 뒤 매수 폭발'…외인들 6680억 쓸어담은 종목 한국경제 하루 만에 4% 급반등한 코스피, 무슨 일이야? 네이버페이 머니스토리"
+        },
+        {
+          "title": "[마감시황] 코스피 2.6%·코스닥 5.6%↑…코스닥 연속 매수 사이드카 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kM2VzcjR3U1BtSW9jV0JjMk9tdzNpUFdKaG1QblVBSzhra2dER2N2a2dVeWJobFpiYVFhSGpkdU9pckhXTE4zSzFDRVJpQjdISG5pYzZUQS13ZVlC?oc=5",
+          "source": "뉴스핌",
+          "published": "11-11 16:04",
+          "snippet": "[마감시황] 코스피 2.6%·코스닥 5.6%↑…코스닥 연속 매수 사이드카 뉴스핌"
+        },
+        {
+          "title": "지난주엔 투매, 이번 주엔 사이드카…코스닥 롤러코스터, 지금 타도 될까 - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hSFZ3LWZPMnB0UzJXcHh4dFlGNDA3ZFJOcTZHeFk0QTg1d0tweWRkM2FiTFFTM1B2dS1QSTN0bHZFOXg0QUNGaVdEMlRlQUZuS3lfMFRSOGdVZUVPZDdjWV9uUnFhdkNQZkktemhVUTk?oc=5",
+          "source": "Investing.com 한국어",
+          "published": "11-11 16:28",
+          "snippet": "지난주엔 투매, 이번 주엔 사이드카…코스닥 롤러코스터, 지금 타도 될까 Investing.com 한국어"
+        },
+        {
+          "title": "[증시-마감] 코스피, 美 긴축우려 딛고 반등…코스닥 이틀째 사이드카 - KB Think",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVLXV0bWNUZXBESXRuYi12RlBiQWJWQ2lVZmVKZ3ZHcE5ycnVVQUkwWUxsNHhKU3JHUzlWUzYzaFdFQkVQcEozaDN5dEdlRlRmbm1PSnY2VlB6aU9VdTFmYTh0X3c5Mkp4ZlVVbkhuWjFHQQ?oc=5",
+          "source": "KB Think",
+          "published": "11-11 16:11",
+          "snippet": "[증시-마감] 코스피, 美 긴축우려 딛고 반등…코스닥 이틀째 사이드카 KB Think"
+        },
+        {
+          "title": "모건스탠리 \"美 중간선거 후 AI주 급락 과도…선별적 매수 기회\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52VDdndHdacFhfX2tWYkFUQ0JkZ2VJeTV5bWswc2ZoLW00UjNmN2F6UnljcFl6YWR6d3hQUVFvQW0yeXVLUFBJVnFwbnREdVdDUkxGMV9ZQzdsREM0ZF95bzFQYWJlT0xJSU1DMWlQTGw?oc=5",
           "source": "연합인포맥스",
-          "published": "11-11 09:23",
-          "snippet": "코스피, 美연준 '빅스텝'우려에 약보합…코스닥은 2% 가까이 상승 연합인포맥스 [속보] 코스닥 4%대 급등에 이틀 연속 '매수 사이드카' 발동 MBC 뉴스 코스닥, 부양책 기대에 이틀 연속 매수 사이드카…700선 터치 뉴스1 \"드디어 주가 바닥 찍었나\"…삼전닉스 반등 가를 핵심 변수 [분석+] 한국경제 미 증시 하락세 영향에...코스피 장 초반 보합권 YTN"
+          "published": "11-11 16:06",
+          "snippet": "모건스탠리 \"美 중간선거 후 AI주 급락 과도…선별적 매수 기회\" 연합인포맥스 [분석] 미국 불확실성 피한 빅테크…한국 데이터센터에 수조원 승부수 By FinancialPost Investing.com 한국어 미국 AI 데이터센터 규제 강화 전망… 대안으로 급부상한 'SMR' 인더스트리뉴스 민주당 압승에 실리콘밸리 'AI 속도전' 균열…주민 몫 키운다 뉴시스 중간 평가 결과로 AI가 곤경에 처했다 www.itworld.co.kr"
+        },
+        {
+          "title": "美빅스텝 우려에도 급등‥코스피 2.6%·코스닥 5.6%↑ - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56QUxuYTVvNEFqXzlNdjJGa0xpbHVGSHVoMk9sNlhKaDRvOHE1S0xnd1pMWFpIS3BidlN6UTNEYlBkYllFRDNLZGJMWVRBWW40eTgyZkpmU2pXdExqSE9INjVmcWRwWjZoemNacG9fb204R3Zm0gF0QVVfeXFMTkpGSWJQX0VXY085YkRWQ1VpaFpWM2Z0RVpHd2I1M0c4T0RBMUN3QVQyVUw3V25pdE5pVk5TSjUxTlJ5cW5vM2xGMm5DVnJjMURucGhmU2M1OG9uT2c1Z1R1d2IwWXgtSmxhRXRkd25xYXFOMl8?oc=5",
+          "source": "MBC 뉴스",
+          "published": "11-11 15:55",
+          "snippet": "美빅스텝 우려에도 급등‥코스피 2.6%·코스닥 5.6%↑ MBC 뉴스"
+        }
+      ],
+      "미 연준 빅스텝 우려": [
+        {
+          "title": "물가·연준 '빅스텝' 우려에 뉴욕증시 하락…나스닥 0.7%↓(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9odjVpVkR5eTJrcFZQaWdSNzViTUoxTGttTjVDRDZOT3dpNk9QLWs2TEFvZ1NXMWd3UTZqNnJGU2Z2NmJQd3pRTVM3NEhWVmJoMVNPRmZDUUQ1c0nSAWBBVV95cUxOUWJzWnJmalR2Y3pMTkczSWpUX2xianBOaG1HRURVWk9vb0YxaFdTbF85dC1aWDNCWjRMNFp2T1FrdjVtT3k5cmNhSWF0NHpQUXl4UVNEcHlKQ3lqX1RfYzk?oc=5",
+          "source": "연합뉴스",
+          "published": "11-11 07:26",
+          "snippet": "물가·연준 '빅스텝' 우려에 뉴욕증시 하락…나스닥 0.7%↓(종합) 연합뉴스"
         },
         {
           "title": "뉴욕증시, 연준 '빅스텝' 우려·엔비디아 급락에 하락 마감 - 뉴스핌",
@@ -860,11 +834,18 @@
           "snippet": "뉴욕증시, 연준 '빅스텝' 우려·엔비디아 급락에 하락 마감 뉴스핌"
         },
         {
-          "title": "물가·연준 '빅스텝' 우려에 뉴욕증시 하락…나스닥 0.7%↓(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9odjVpVkR5eTJrcFZQaWdSNzViTUoxTGttTjVDRDZOT3dpNk9QLWs2TEFvZ1NXMWd3UTZqNnJGU2Z2NmJQd3pRTVM3NEhWVmJoMVNPRmZDUUQ1c0nSAWBBVV95cUxOUWJzWnJmalR2Y3pMTkczSWpUX2xianBOaG1HRURVWk9vb0YxaFdTbF85dC1aWDNCWjRMNFp2T1FrdjVtT3k5cmNhSWF0NHpQUXl4UVNEcHlKQ3lqX1RfYzk?oc=5",
-          "source": "연합뉴스",
-          "published": "11-11 07:26",
-          "snippet": "물가·연준 '빅스텝' 우려에 뉴욕증시 하락…나스닥 0.7%↓(종합) 연합뉴스"
+          "title": "코스피, 美연준 '빅스텝'우려에 약보합…코스닥은 2% 가까이 상승 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lX0hQbVVEVnIzamJoNzY2MUdjeWtHWWlNejRpZjNSNnllV3dBYUx0TFBISFlERlVIbkJJZmc1bm5kUlRlTHZ0eXFVVVpxRHNGTFVaMkI4UFo5R0pSbDkyWGRNaERpSWstYThIMkZSUU8?oc=5",
+          "source": "연합인포맥스",
+          "published": "11-11 09:23",
+          "snippet": "코스피, 美연준 '빅스텝'우려에 약보합…코스닥은 2% 가까이 상승 연합인포맥스"
+        },
+        {
+          "title": "[뉴욕증시포커스] 美 물가 충격에 3대 지수 하락…연준 '빅스텝' 우려에 기술주 약세 - 굿모닝경제",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RRHRYN2tvNTRCUVlsVnNjdWJsXy1LVmRxMkNzSVhveWg4M3RWN2JCd2JubENYMktjODdZOWRUakswX2p4aU5jRS1WNk1SSDZVR2EwWXRxSVR2Q1hrUkpoam95Qk43THI0QklfNQ?oc=5",
+          "source": "굿모닝경제",
+          "published": "11-11 09:02",
+          "snippet": "[뉴욕증시포커스] 美 물가 충격에 3대 지수 하락…연준 '빅스텝' 우려에 기술주 약세 굿모닝경제"
         },
         {
           "title": "[국제경제 흐름 읽기] 미국 연준, 인플레 우려에 내달 금리인상 전망-일부 빅스텝 가능성도 제기 - 포커스온경제",
@@ -879,23 +860,9 @@
           "source": "뉴스1",
           "published": "11-11 06:47",
           "snippet": "[뉴욕마감]CPI 상승·연준 '빅스텝' 우려에 나스닥 0.74% 하락 뉴스1"
-        },
-        {
-          "title": "美 물가 쇼크에 연준 빅스텝 부상…국채가격 급락 - 파이낸셜뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45SmFzclpMQTNIUllLdnRRSEpXWFEzSGVqcWZaaU9hb0FnN3BlOW42REFCcXVlZUt1Zms5RUJGLW5GdU9QSFYxaHdDTVJTemN6Qk11STZHRTRSQQ?oc=5",
-          "source": "파이낸셜뉴스",
-          "published": "11-11 11:03",
-          "snippet": "美 물가 쇼크에 연준 빅스텝 부상…국채가격 급락 파이낸셜뉴스"
         }
       ],
       "엔비디아 주가 급락": [
-        {
-          "title": "연준 12월 '빅스텝' 부상과 엔비디아 주가급락 등 이시각 주요뉴스 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16cWRlanRUTjA5T2pKaGY1eXdfck9YQjc5VXVUbUZUeEJYam13WGYwUFFNc0tvMGQ0eXp1X2RtOUhkN0pWWUdDYzkySmQ0MHZSc1BSdkpvVndoS3UxYWhQNzhFN3NPV2wwc3VEX3VucWzSAXRBVV95cUxPNE0xOEZUREwzU3Y0Q3RmV3kyTVdIRmtGaXFZdzd5S1VZX1NPUDBfNFp2eUFYM3RMTXFlWVhONEZvU0dlWWJiTW01SkFxWmIyZTVrcDhQYi1LTWlYbW5XXzZqbUJOS2s0dzBUTUZYME85MzNvMw?oc=5",
-          "source": "연합인포맥스",
-          "published": "11-11 08:46",
-          "snippet": "연준 12월 '빅스텝' 부상과 엔비디아 주가급락 등 이시각 주요뉴스 연합인포맥스"
-        },
         {
           "title": "뉴욕증시, 연준 '빅스텝' 우려·엔비디아 급락에 하락 마감 - 뉴스핌",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXd3JGN1pKdWJHOEhPRFBSZ3JsZV9IU1hOdnJ1MGphYzZtMUdKY1p1UW9NVFRSSVdvWmMzd2VMd1FIMDJRbWFxR0tnMHZJNEpoU3EwR3NDdTZSdlBM?oc=5",
@@ -925,32 +892,98 @@
           "snippet": "뉴욕증시, 물가 우려에 일제히 하락...엔비디아 5%대 급락 조세일보"
         },
         {
-          "title": "[서울데이터랩] 미국 증시, 기술주 약세에 일제히 하락 마감…엔비디아 5%대 급락 - 서울신문",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CZGpmbkFXSjZhdjhwZHljeThsMkt0NzN0U0FsN3Fxa0RhSDFFMGp4VVllc0VuYkVPbGdsWDJQcE5BRWJNTGhyZUhpamVXeVFseEdtUDU2ZTFWWHItVG9FMTFHTmFFVjFZQ3ZzdC1IMA?oc=5",
-          "source": "서울신문",
-          "published": "11-11 06:10",
-          "snippet": "[서울데이터랩] 미국 증시, 기술주 약세에 일제히 하락 마감…엔비디아 5%대 급락 서울신문"
+          "title": "“‘젠슨 황 연인’ 앨리스 황, 10조원 규모 엔비디아 칩 중국으로 밀반입” 의혹 제기 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1teURpZVdMZTFNWE1QMzhCNkR5RmNNYzRaSzdjV2NXSE5LcTR6TUZZN001X0ZUTXFGajNQSFlQbkczZEVfRHlwVGtmRE5zRzNlenFsS1MtRUg0UdIBX0FVX3lxTE13YjB0ZWh0UkpHRVNqb0hDT2VHekhQVW5yQTZzM2FRRzh4dDJmbnRRUW1YcUd3Nm9uSmFUMU4wT3I2bzJsa2FLb3ZTb2dRTWpWaTlzNnRyeFdCLTJaNUlN?oc=5",
+          "source": "경향신문",
+          "published": "11-11 07:53",
+          "snippet": "“‘젠슨 황 연인’ 앨리스 황, 10조원 규모 엔비디아 칩 중국으로 밀반입” 의혹 제기 경향신문 미 수출 규제에도 중국 인민해방군 연계 대학이 Nvidia H200 칩 구매 Investing.com 한국어 \"중국군 연계 대학, 美 제재에도 엔비디아 AI 칩 H200 구매\" 뉴스1 젠슨 황 스캔들, 미중 갈등 새 뇌관으로…\"제2의 정찰풍선 사태\" 뉴스1 젠슨 황 후폭풍… ‘對中 반도체 봉쇄’ 고삐 죄는 트럼프 조선일보"
+        },
+        {
+          "title": "앤트로픽 가치 최대 1.4조 달러…엔비디아·구글 13조원씩 투자 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00NlYyYUc0ZU8xU3A5T1g4NmU1Y0d6QmdnazBLOFlBa3NNdl9ibVhBWFlxTnBxMUJ2UW5fWG1PMEZwdjVVR1hYek1FNTNNUm96OU4tVEw1NE90ZWg1Qk5EOEtyZ2lnM28?oc=5",
+          "source": "연합뉴스TV",
+          "published": "11-11 09:04",
+          "snippet": "앤트로픽 가치 최대 1.4조 달러…엔비디아·구글 13조원씩 투자 연합뉴스TV 앤트로픽, 기업가치 1.4조달러로 IPO 추진…644억달러 조달 AI타임스 \"앤트로픽 공모가 상향 검토, 기업가치 1.4조→1.5조달러로 전망\" - 머니투데이 머니투데이 2조 달러 거론되다 1.4조 달러로 후퇴...거품론 시험대 오른 앤트로픽 YTN 美정부와 갈등 빚는 앤트로픽도 트럼프의 '슈퍼지능' 용어 사용 연합뉴스"
+        }
+      ],
+      "나스닥 23시간 거래": [
+        {
+          "title": "'나스닥 23시간 거래' 한달 앞으로…국내 증권업계 준비 채비 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zRWZudjlfZXVYWENJbkp2ODNwSV84VGh1R3NBSmxWWjVxeVZFeVpOSFRPRTFBQW8xNDQ4eUt6RlVkMHhaQUpWdEJZelpPVUQ0c0lrSGE0dHliVEXSAWBBVV95cUxNZmRialZQX25RMDJ6WjB1Z3d0Wk5rRTdCX294OUVJQ3FfRXlaS0M1QXl6SDh5WW0xakYwVjZDVDN0V3Y4Mzc1Y0NidkI5XzZuZ3BYQ0d5YXRYNlZuWFlLV20?oc=5",
+          "source": "연합뉴스",
+          "published": "11-11 16:18",
+          "snippet": "'나스닥 23시간 거래' 한달 앞으로…국내 증권업계 준비 채비 연합뉴스"
+        },
+        {
+          "title": "나스닥 내달부터 23시간 거래…국내 증권사도 시스템 개편 준비 - 강원도민일보",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sUGxLUlpNUGRQMkxPOUg4SFJmMTIyNENFWldlRVZBZDlRT0VzV1MtWU4zWHRMbnduNDZwbmhVNDlKS29zby01d1hYTVBOeXhPdEQyWGVlay1LM2pWcDFCOXJQY05wdE0?oc=5",
+          "source": "강원도민일보",
+          "published": "11-11 16:32",
+          "snippet": "나스닥 내달부터 23시간 거래…국내 증권사도 시스템 개편 준비 강원도민일보"
+        },
+        {
+          "title": "북 해커, 바이낸스서 훔친 돈 어떻게 했나?…“10초마다 거래” [지금뉴스] - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqMVlESGxRaDlGVVpHbUsxM1JPVE52UHlxTWZ2UXFUeVprdkRNRTZObHNFY3ZlWlplbEwtcFd4S3FLRmxzZG5mcXJMV2NtZFRjUDVURzd0eGpBa2M?oc=5",
+          "source": "KBS 뉴스",
+          "published": "11-10 20:06",
+          "snippet": "북 해커, 바이낸스서 훔친 돈 어떻게 했나?…“10초마다 거래” [지금뉴스] KBS 뉴스 ‘역해킹’ 당한 북한 해커 “잘생겼다” 면접 질문에 한 답변이 [글로벌 인사이트] 서울신문 [블록체인 칼럼] 거래소 배상, 선의가 아니라 의무여야 한다 전자신문 “북한, 바이낸스 탈취 자금 ‘자체 밈코인’으로 세탁…추적 지연” VOA 한국어 홈페이지 머스크 대통령...바이낸스 턴 북한 해커, 1회용 밈코인으로 돈세탁 - 머니투데이 머니투데이"
+        },
+        {
+          "title": "[단독]코스닥 살리기 나서는 정부…13일 거래소서 대책 논의 - 비즈워치",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXaDZTcTdfZjhVOGcwNGNvcjJ3V3o4MHp2dDRqUWlZVnk4alBVN1NUaEFyb1NGOEJvVzRTVGUwbFpWMHpnclpLdFJ6VmxFVnJ1SFFENUNmay0zZERIMEtjRC1Ka2tMZnVKZnc?oc=5",
+          "source": "비즈워치",
+          "published": "11-11 16:28",
+          "snippet": "[단독]코스닥 살리기 나서는 정부…13일 거래소서 대책 논의 비즈워치"
+        },
+        {
+          "title": "나스닥 성장에 미국채 안정성 더했다…퇴직연금 '반반 투자' - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnZW16Rm4yUXlOeVdHM2tjRzlYcWgzWkpna05HcU52ZExKMllxeDBVdTJxNnZJSUxfYXEtUnBaR3BBNTN6ZlY5WVcxYXFUSVFzVHVGeVVwVmlQT01U?oc=5",
+          "source": "뉴스핌",
+          "published": "11-11 15:31",
+          "snippet": "나스닥 성장에 미국채 안정성 더했다…퇴직연금 '반반 투자' 뉴스핌"
+        },
+        {
+          "title": "\"월가가 亞 낮 시간대 들어온다\"… 나스닥 '23시간 거래' 도입에 홍콩 방어전 돌입 - 글로벌이코노믹",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaVp1SmVZbEJNRjlnVGlkZTFKSFRWNW16NVhETVM0Qll2OEJyUW9tZW0wWHRvbDRqVFRTR0RLd1JKazV2bWE5a3BMcm5peEc5ZjN5TWxtN3NkTUpJWV9feEpRRld4TmNPeFdKcnhkSlpJNFRETHJnR2ZNa0NYeUc3M190dVVPdjJS?oc=5",
+          "source": "글로벌이코노믹",
+          "published": "11-11 06:15",
+          "snippet": "\"월가가 亞 낮 시간대 들어온다\"… 나스닥 '23시간 거래' 도입에 홍콩 방어전 돌입 글로벌이코노믹"
         }
       ]
     },
     "queries": {
-      "반도체주 우려 확산": [],
-      "청년층 취업자 감소": [
-        "청년층 취업자"
+      "10월 가계대출 증가": [
+        "10월 가계대출"
       ],
-      "부정청약 대거 적발": [],
-      "미국 CPI 예상 상회": [
-        "미국 cpi",
-        "미국 cpi 발표 일정",
-        "미국 cpi 발표",
-        "미국 cpi 지수",
-        "미국 cpi 발표 한국시간",
-        "미국 cpi 발표 결과",
-        "미국 cpi 발표 예상",
-        "미국 cpi 발표 시간"
+      "정년 연장 논의": [
+        "정년 연장 논의 교착",
+        "정년 연장 논의 현황",
+        "정년 연장 논의 배경",
+        "정년 연장 정치권 논의",
+        "정년 연장 신중한 논의",
+        "65 세 정년 연장 논의",
+        "공무원 정년 연장 논의",
+        "교수 정년 연장 논의"
       ],
-      "연준 빅스텝 우려": [
-        "연준 빅스텝"
+      "코스닥 매수 사이드카": [
+        "코스닥 매수 사이드카 발동",
+        "코스피 코스닥 매수 사이드카",
+        "코스닥 매수",
+        "코스닥 매수 현금 매수",
+        "코스닥 매수 방법",
+        "코스닥 매수 순위",
+        "코스닥 매수 현금 매수 차이",
+        "코스닥 매수시간"
+      ],
+      "미 연준 빅스텝 우려": [
+        "미 연준 금리",
+        "미 연준",
+        "미 연준 금리 인상",
+        "미 연준의장",
+        "미 연준 금리 발표일",
+        "미 연준 기준금리",
+        "미 연준 금리 전망",
+        "미 연준 발표"
       ],
       "엔비디아 주가 급락": [
         "엔비디아 주가 급락 이유",
@@ -961,9 +994,12 @@
         "엔비디아 주가 전망 2030년 전망",
         "엔비디아 주가 전망 2026",
         "엔비디아 주가 가격"
+      ],
+      "나스닥 23시간 거래": [
+        "나스닥 23시간"
       ]
     },
-    "newsletter_md": "# ⚡ ZIPPY | AI 경제 데일리 브리핑\n_2026-11-11 이슈 · 발행 2026-11-11_\n\n🇰🇷 **국내 경제:** `반도체주 우려 확산` · `청년층 취업자 감소` · `부정청약 대거 적발`\n🌐 **해외 경제:** `미국 CPI 예상 상회` · `연준 빅스텝 우려` · `엔비디아 주가 급락`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 엔비디아 급락에 반도체주 투심 악화\n> 키워드: 반도체주 우려 확산\n\n**📌 무슨 일이 있었나**\n- 뉴욕증시에서 엔비디아가 5% 넘게 급락하며 국내 반도체 대형주에 대한 투자 심리가 급격히 위축되었다.\n- 개인 투자자들은 코스피 반등 시마다 1조 원 넘는 매물을 쏟아내며 차익 실현과 리스크 관리에 집중하는 모습이다.\n- 반도체 주가가 저평가 영역에 진입했다는 시각과 추가 하락 가능성이 크다는 비관론이 팽팽하게 맞서고 있다.\n- 젠슨 황 엔비디아 CEO의 개인 신상 이슈와 미국 금리 인상 공포가 겹치며 반도체 업황 전반에 대한 불확실성이 증폭되었다.\n\n**💬 핵심 Q&A**\n- **Q. 개인 투자자들이 지수 반등 시마다 1조 원 넘게 매도하는 배경은 무엇인가?**\n  A. 미국 금리 인상 우려와 엔비디아의 급락으로 시장의 불확실성이 커지자 손실을 최소화하려는 심리가 강해졌기 때문이다. 지수가 소폭 회복될 때마다 이를 탈출 기회로 삼는 매도세가 유입되며 상단이 제한되는 현상이 나타나고 있다.\n- **Q. 반도체 주가에 대한 시장의 엇갈린 시각은 구체적으로 어떤 내용인가?**\n  A. 현재 주가가 실적 대비 지나치게 낮아 매수 기회라는 주장과 업황 둔화 우려로 바닥이 더 깊어질 것이라는 주장이 대립한다. 특히 엔비디아의 급락이 기술주 전반의 밸류에이션 재평가로 이어질지가 관건이다.\n- **Q. 젠슨 황 CEO의 개인 이슈가 반도체주에 실질적인 타격을 주는 이유는 무엇인가?**\n  A. 엔비디아의 성장이 CEO의 리더십과 상징성에 크게 의존하고 있어 개인 신상 리스크가 기업 지배구조 및 브랜드 신뢰도 하락으로 연결될 수 있기 때문이다. 이는 기술적 펀더멘털 외의 변동성을 키워 기관 투자자들의 이탈을 부추기는 요인이 된다.\n\n**👀 앞으로 볼 포인트**\n- 엔비디아 추가 하락 여부 및 지지선 확인\n- 미국 연준의 12월 금리 결정 방향\n- 국내 반도체 대형주 외국인 수급 변화\n\n<sub>참고: [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE5lX0hQbVVEVnIzamJoNzY2MUdjeWtHWWlNejRpZjNSNnllV3dBYUx0TFBISFlERlVIbkJJZmc1bm5kUlRlTHZ0eXFVVVpxRHNGTFVaMkI4UFo5R0pSbDkyWGRNaERpSWstYThIMkZSUU8?oc=5) / [지디넷코리아](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zWTMyQmdqYU1Cakl0QXYxZWN2TExxdUExdE0wNlFQek5IS3g0NGtpNnE5YmFzcjNkTW5QQ3VsbENQNmEwaGpvR19zQnFBY3R2ajdob3BR?oc=5) / [조선일보](https://news.google.com/rss/articles/CBMigAFBVV95cUxQaGt3dDR5YVJYcjBQbnpiOWdMc2FRcGJYSTJTVzkyNHpjRVkyMnFnMkw2bmE1Z3pzMTZuMzlqblU1R3lUYXl6ZnNfYndTVUR1THRpLUllTHBUSE5jVUE5QUZCSjBGNWNwXzVzYjhsX0JlUTB6R0Nhbm9VWjVWNXMyTw?oc=5)</sub>\n\n---\n\n### 2. 청년 취업자 48개월 연속 감소세 지속\n> 키워드: 청년층 취업자 감소\n\n**📌 무슨 일이 있었나**\n- 10월 전체 취업자 수는 전년 대비 13만 9천 명 증가했으나 청년층 취업자는 4년째 감소하며 고용 한파가 이어지고 있다.\n- 청년층 고용은 48개월 연속으로 줄어들며 고령층 위주의 취업자 증가세와 대비되는 'U자형 고용' 구조가 심화되었다.\n- 청년층이 많이 종사하는 숙박 및 음식점업 취업자 수가 5년 8개월 만에 최대 폭으로 감소하며 고용 시장의 질적 저하 우려를 키웠다.\n- 인구 감소라는 구조적 요인 외에도 경기 둔화에 따른 기업들의 신규 채용 축소가 청년층에 집중되는 양상이다.\n\n**💬 핵심 Q&A**\n- **Q. 전체 취업자가 늘어남에도 청년층만 48개월 연속 감소하는 이유는 무엇인가?**\n  A. 인구 구조 변화로 인한 청년 인구 자체의 감소와 더불어 기업들이 경력직 위주의 수시 채용을 선호하면서 신입 진입 장벽이 높아졌기 때문이다. 고령층은 공공 일자리와 단순 노무직을 중심으로 취업이 늘어나는 반면 청년층이 선호하는 양질의 일자리는 정체된 상태다.\n- **Q. 숙박 및 음식점업의 취업자 급감이 청년 고용에 어떤 직접적인 영향을 주는가?**\n  A. 해당 업종은 청년들이 학업 병행이나 첫 직장 진입 전 거쳐 가는 주요 고용 통로 역할을 하기 때문에 이 분야의 위축은 청년들의 소득 공백으로 직결된다. 5년 8개월 만의 최대 폭 감소는 내수 부진이 청년들의 단기 일자리마저 앗아가고 있음을 보여준다.\n- **Q. U자형 고용 심화가 향후 경제 구조에 미칠 잠재적 위험은 무엇인가?**\n  A. 허리 역할을 해야 할 청년층의 노동 시장 진입이 늦어지면 숙련 편향적 고용이 고착화되어 장기적인 잠재 성장률이 하락할 수 있다. 이는 세수 감소와 사회 보장 비용 증가로 이어져 국가 재정 부담을 가중시키는 연쇄 반응을 일으킨다.\n\n**👀 앞으로 볼 포인트**\n- 숙박·음식점업 등 서비스업 고용 회복 여부\n- 연령별 취업자 수 양극화 추이\n- 정부의 청년 일자리 대책 발표 및 실효성\n\n<sub>참고: [MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTE84S2dGN3gtVFZ5V1hUclk5VTM3QTFIRlFkb05DbEJ4aGV6b2hBZkJUYjYzWWsyc3U5dENvRk9mVkk1YkFxQ2I1ZENYVXB6UjluNDdmQnlsTEhaU0o0NVZGVmdHZDU1TGl4bFRZZWtvS2xNd0pW?oc=5) / [Investing.com 한국어](https://news.google.com/rss/articles/CBMib0FVX3lxTE9tU24tTWV6eThUWUk4bk1qQzF2aU1rUjJ1QXR0bVloWVA4VzZPRDJ4SlVYMVRRVDB4ZW9jRnpvS0JKRS05ZkJ6SkFlTERJTjNhZnlQdzY2bmFTLXFIWWZfX29Wc0N6VXI5UE5OZHZCRQ?oc=5) / [YTN](https://news.google.com/rss/articles/CBMib0FVX3lxTE9xWlRZdTJYVEpKWFljMFZNNFM2Tkk0bE9yUDFQUG5obHBFN3VaRjdKLUpCUWY3dUNrWG1Qb2JScm1ZdFNNMVJZOUJaeXZvcVluRzZwTGlkdUJUYWtGQmZmTWdDRDRKbUVQQzlDOURoWQ?oc=5)</sub>\n\n---\n\n### 3. 위장전입·이혼 등 부정청약 354건 적발\n> 키워드: 부정청약 대거 적발\n\n**📌 무슨 일이 있었나**\n- 정부 합동 점검 결과 위장전입과 위장미혼 등 부정한 방법으로 아파트 청약을 시도한 사례 354건이 대거 적발되었다.\n- 신혼부부 특별공급을 노리고 의사 부부가 퇴사 후 재입사하는 꼼수를 쓰거나 노부모를 위장 전입시켜 가점을 높인 사례가 포함되었다.\n- 심지어 모텔로 주소지를 옮기거나 청약 자격을 유지하기 위해 위장 이혼을 감행하는 등 수법이 갈수록 교묘해지고 있다.\n- 국토교통부는 적발된 의심 사례들에 대해 경찰 수사를 의뢰하고 당첨 취소 및 향후 청약 제한 조치를 취할 방침이다.\n\n**💬 핵심 Q&A**\n- **Q. 의사 부부가 사용한 '퇴사 후 재입사' 방식은 어떻게 청약에 이용되는가?**\n  A. 신혼부부 특별공급의 소득 기준을 맞추기 위해 일시적으로 무직 상태를 만들어 소득 증빙을 낮추는 수법이다. 청약 당첨 직후 다시 원래 직장에 재입사함으로써 자산가임에도 불구하고 저소득층을 위한 혜택을 가로채는 행위다.\n- **Q. 위장전입과 위장미혼이 청약 가점 산정에서 구체적으로 어떤 이득을 주는가?**\n  A. 위장전입은 부양가족 수를 늘려 가점을 높이거나 해당 지역 거주자 우선 공급 자격을 얻는 데 활용된다. 위장미혼이나 위장이혼은 가구 소득 합산에서 제외되어 단독 가구주로서의 청약 자격을 유지하거나 특별공급 요건을 충족하기 위한 수단으로 악용된다.\n- **Q. 이번 대규모 적발이 향후 분양 시장의 청약 경쟁률에 어떤 변화를 가져오는가?**\n  A. 부정청약으로 확보된 물량이 회수되어 무주택 실수요자들에게 재공급됨으로써 시장의 공정성이 회복되는 효과가 있다. 정부의 강력한 수사 의지가 확인된 만큼 허수 청약 수요가 억제되어 실수요자 중심의 경쟁 구도가 형성될 것으로 보인다.\n\n**👀 앞으로 볼 포인트**\n- 수사 의뢰된 354건의 최종 형사 처벌 수위\n- 부정청약 당첨 물량의 재공급 일정\n- 정부의 청약 관리 시스템 강화 대책\n\n<sub>참고: [동아일보](https://news.google.com/rss/articles/CBMid0FVX3lxTFBvaC1HdUhma0RJX2FOR2FkdmF6aHBtamlEMzE1aTJ0RkhTb2JmVVF1cGd4OWlxT0NzMjFfcEZINmZsVjVZX0xjWVh2b1pieWVSbnRYZV9tekM0cDJjWjNib0xramgteXJmQk5wSXVtbXBHRF82T2dR0gFmQVVfeXFMUHFheU1TN1hDT1gxNzlpbkdRbEVaN1NxT2M3RTk0Z0Q4alA0YmVCOWRlOE1Na0ZpWWtPazBiTnJIelIyQ01mc19LQUpvSnptbGZ1eUtScnJRdHJHWUpQdTNsSWJVanpn?oc=5) / [연합뉴스TV](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UOEstbEpKUTlzcmhVTU41dElBVEJJMHVLdXExNl9MU3VYblNEQVlEeXNMbWVmT0hZVm5lcWVCT1JEUTZhUDJxV1pJdkw1cklicHVVXzNNVVAtWnRyY051b3NIWXk0Zw?oc=5) / [한국NGO신문](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYS2xwNzNpX2VwUEZQVENFVWZ6N3piaFpjSmFJQktZUXg1ZGl2ckRiUGNjVks3WHBzcFVnejdZNjF1VVJoSXZZd2lIV2ZMRnlCNG0xZDl3QlB2bkoycDJRcnVZQVY2T0lR?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 美 10월 물가 쇼크에 긴축 우려 재점화\n> 키워드: 미국 CPI 예상 상회\n\n**📌 무슨 일이 있었나**\n- 미국의 10월 소비자물가지수가 전월 대비 0.4% 상승하며 시장 예상치를 웃돌아 인플레이션 압력이 여전함을 증명했다.\n- 물가 지표 발표 직후 뉴욕증시 3대 지수는 일제히 하락했으며 특히 나스닥은 0.74% 밀리며 기술주 중심의 매도세가 나타났다.\n- 예상보다 뜨거운 물가 수치에 연준이 12월에 기준금리를 0.5%포인트 인상하는 빅스텝을 단행할 가능성이 급부상했다.\n- 엔비디아는 물가 우려와 기술주 투매가 겹치며 5.47% 급락해 시장 하락을 주도하며 투자 심리를 위축시켰다.\n\n**💬 핵심 Q&A**\n- **Q. 10월 CPI가 예상보다 높게 나타난 것이 왜 시장에 빅스텝 공포를 불러오는가?**\n  A. 물가 상승세가 둔화되지 않고 오히려 반등하는 조짐을 보이면서 연준이 인플레이션을 잡기 위해 더 공격적인 금리 인상이 필요하다고 판단할 가능성이 커졌기 때문이다. 이는 기존의 점진적 금리 인상 경로를 벗어나는 시나리오로 시장의 긴축 강도를 높인다.\n- **Q. CPI 발표 이후 엔비디아가 5% 넘게 급락한 연결 고리는 무엇인가?**\n  A. 고금리 환경은 미래 수익을 선반영하는 성장주와 기술주의 밸류에이션에 치명적인 타격을 주기 때문이다. 특히 엔비디아는 최근 급등에 따른 차익 실현 욕구가 강한 상황에서 금리 인상 우려가 매도 버튼을 누르는 촉매제가 되었다.\n- **Q. 물가 지표 상회가 미국 국채 시장에는 어떤 즉각적인 반응을 일으켰는가?**\n  A. 연준의 긴축 전망이 강화되면서 국채 금리가 급등하고 반대로 국채 가격은 급락하는 현상이 나타났다. 이는 시중 금리 상승으로 이어져 기업의 조달 비용을 높이고 주식 시장의 상대적 매력도를 떨어뜨리는 요인이 된다.\n\n**👀 앞으로 볼 포인트**\n- 연준 위원들의 향후 매파적 발언 수위\n- 12월 FOMC 금리 결정 결과\n- 미국 국채 금리 추가 상승 여부\n\n<sub>참고: [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GSmxvMVltRkhoUWFoaUY3dnVQeXlnOTdwejdZOWszaktnZnFMRGpnam9RNVl5cVRlRzV6a0hUM25nb01UQmxkWEZDVEpLaXZGTU9UQ0FleEQ0QXVKWlM0bnFySGpSZ28?oc=5) / [Investing.com 한국어](https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZZlUxTDFsbDJfYVFhSUI3c09LcXcyZTAwM19xMW1sXzFOQks1cXVBRFkxcmx3MWNmVTl0VW5xMHd4S2U5TG1XdW53bm4yal8zZVBLa3NVZG1CUzgyMEhtUE0tNUYwbTV5Vzh0QndJclU?oc=5) / [한양경제](https://news.google.com/rss/articles/CBMickFVX3lxTFBQWjBDSEFySHlOOFdGVUFmeVB1LWpoTHFYel9Xc0R4blhPVzdYajh5Y2w3MWlZSzUtb3c3UVNXZVhCNC1FMUU4TlNLVHptZUhJX21VRFdZZnBFNlpqNHpmZXZxV0FPaXdqWVFMRHBaeGhRZw?oc=5)</sub>\n\n---\n\n### 2. 인플레 재점화에 연준 빅스텝 가능성 부상\n> 키워드: 연준 빅스텝 우려\n\n**📌 무슨 일이 있었나**\n- 미국 10월 물가 지표가 예상을 상회하면서 연준이 다음 달 금리를 0.5%포인트 인상하는 빅스텝을 밟을 것이라는 우려가 시장을 덮쳤다.\n- 이로 인해 뉴욕증시 나스닥 지수가 0.7% 하락 마감했으며 국내 코스피 시장도 약보합세를 보이며 투자 심리가 위축되었다.\n- 인플레이션 억제를 위한 연준의 매파적 기조가 강화될 것이라는 전망에 미국 국채 가격은 급락하며 금리 발작 현상을 보였다.\n- 시장은 연준이 경기 침체 위험을 감수하더라도 물가 안정을 최우선으로 할 것이라는 신호에 민감하게 반응하고 있다.\n\n**💬 핵심 Q&A**\n- **Q. 연준이 베이비스텝 대신 빅스텝을 고려하게 된 결정적 근거는 무엇인가?**\n  A. 10월 CPI가 0.4% 상승하며 물가 목표치로의 수렴 속도가 기대보다 느리다는 점이 확인되었기 때문이다. 기대 인플레이션이 고착화되기 전에 선제적으로 강력한 통화 긴축을 단행하여 물가 상승 심리를 꺾으려는 의도가 반영된 것이다.\n- **Q. 빅스텝 우려가 국채 가격 급락과 주식 시장 하락으로 이어지는 메커니즘은 무엇인가?**\n  A. 기준금리 인상 전망은 국채 수익률을 즉각적으로 끌어올려 기존에 발행된 낮은 금리의 국채 가격을 떨어뜨린다. 동시에 무위험 자산인 국채 금리가 높아지면 위험 자산인 주식에 대한 투자 매력이 상대적으로 낮아져 자금 이탈이 가속화된다.\n- **Q. 시장이 연준의 빅스텝 가능성을 어느 정도의 확률로 반영하고 있는가?**\n  A. 물가 지표 발표 전까지는 점진적 인상이 우세했으나 발표 이후 일부 전문가들 사이에서 12월 0.5%포인트 인상설이 급격히 힘을 얻고 있다. 향후 발표될 추가 경제 지표들이 예상치를 계속 웃돌 경우 빅스텝은 기정사실화될 가능성이 크다.\n\n**👀 앞으로 볼 포인트**\n- 12월 FOMC 회의 전 발표될 고용 지표\n- 연준 주요 인사들의 금리 관련 발언\n- 달러 인덱스 추이 및 환율 변동성\n\n<sub>참고: [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE5lX0hQbVVEVnIzamJoNzY2MUdjeWtHWWlNejRpZjNSNnllV3dBYUx0TFBISFlERlVIbkJJZmc1bm5kUlRlTHZ0eXFVVVpxRHNGTFVaMkI4UFo5R0pSbDkyWGRNaERpSWstYThIMkZSUU8?oc=5) / [뉴스핌](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXd3JGN1pKdWJHOEhPRFBSZ3JsZV9IU1hOdnJ1MGphYzZtMUdKY1p1UW9NVFRSSVdvWmMzd2VMd1FIMDJRbWFxR0tnMHZJNEpoU3EwR3NDdTZSdlBM?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9odjVpVkR5eTJrcFZQaWdSNzViTUoxTGttTjVDRDZOT3dpNk9QLWs2TEFvZ1NXMWd3UTZqNnJGU2Z2NmJQd3pRTVM3NEhWVmJoMVNPRmZDUUQ1c0nSAWBBVV95cUxOUWJzWnJmalR2Y3pMTkczSWpUX2xianBOaG1HRURVWk9vb0YxaFdTbF85dC1aWDNCWjRMNFp2T1FrdjVtT3k5cmNhSWF0NHpQUXl4UVNEcHlKQ3lqX1RfYzk?oc=5)</sub>\n\n---\n\n### 3. 엔비디아 이틀간 10% 폭락에 나스닥 휘청\n> 키워드: 엔비디아 주가 급락\n\n**📌 무슨 일이 있었나**\n- 인공지능 대장주 엔비디아의 주가가 하루 만에 5.5% 급락하며 이틀간 누적 하락 폭이 10%에 달하는 폭락세를 기록했다.\n- 미국의 10월 물가 지표가 예상을 웃돌며 연준의 긴축 우려가 커진 점이 기술주 전반에 대한 투매를 촉발했다.\n- 젠슨 황 CEO의 개인 신상 관련 불확실성까지 더해지며 투자자들의 불안 심리가 극에 달한 모습이다.\n- 엔비디아의 급락은 나스닥 지수를 0.74% 끌어내렸으며 국내 반도체 관련주들에도 하락 압력으로 작용하고 있다.\n\n**💬 핵심 Q&A**\n- **Q. 엔비디아 주가가 이틀 만에 10%나 폭락한 핵심적인 트리거는 무엇인가?**\n  A. 예상치를 상회한 CPI 발표로 인해 고금리 기조가 장기화될 것이라는 공포가 성장주인 엔비디아에 집중되었기 때문이다. 여기에 CEO의 개인 신상 이슈가 겹치며 펀더멘털 외적인 리스크까지 부각되어 기관들의 대규모 매도세가 유입되었다.\n- **Q. 엔비디아의 급락이 나스닥 지수 전체에 미치는 영향력은 어느 정도인가?**\n  A. 엔비디아는 나스닥 내 시가총액 비중이 매우 높아 단일 종목의 하락이 지수 전체를 끌어내리는 결정적인 역할을 한다. 엔비디아의 하락은 다른 AI 및 반도체 기업들에 대한 동반 매도세를 유발하여 기술주 전반의 하락을 주도한다.\n- **Q. 이번 주가 폭락이 AI 산업의 장기 성장성 훼손으로 해석될 수 있는가?**\n  A. 이번 하락은 산업의 펀더멘털 문제보다는 거시 경제 지표와 CEO 개인 리스크에 따른 일시적 수급 악화 성격이 강하다. 다만 고금리가 지속될 경우 기업들의 AI 설비 투자 비용 부담이 커질 수 있어 향후 실적 발표에서 수요 지속성을 증명하는 것이 관건이다.\n\n**👀 앞으로 볼 포인트**\n- 엔비디아의 기술적 지지선 회복 여부\n- AI 반도체 수요 관련 추가 실적 가이드라인\n- CEO 리스크 관련 공식 입장 발표 여부\n\n<sub>참고: [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE16cWRlanRUTjA5T2pKaGY1eXdfck9YQjc5VXVUbUZUeEJYam13WGYwUFFNc0tvMGQ0eXp1X2RtOUhkN0pWWUdDYzkySmQ0MHZSc1BSdkpvVndoS3UxYWhQNzhFN3NPV2wwc3VEX3VucWzSAXRBVV95cUxPNE0xOEZUREwzU3Y0Q3RmV3kyTVdIRmtGaXFZdzd5S1VZX1NPUDBfNFp2eUFYM3RMTXFlWVhONEZvU0dlWWJiTW01SkFxWmIyZTVrcDhQYi1LTWlYbW5XXzZqbUJOS2s0dzBUTUZYME85MzNvMw?oc=5) / [뉴스핌](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXd3JGN1pKdWJHOEhPRFBSZ3JsZV9IU1hOdnJ1MGphYzZtMUdKY1p1UW9NVFRSSVdvWmMzd2VMd1FIMDJRbWFxR0tnMHZJNEpoU3EwR3NDdTZSdlBM?oc=5) / [글로벌이코노믹](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT0VndVhEdTdTNklfaFYtZ1dQNTJfOC1KYnpuLVlhSW9LSDlPdEk1MUY1dEY1X3NxbDN4elN4SmVfUThIOG4yRmxERDczRk9DRTRsNXRSNXpKNTk2YnNuT0c2RDU1QWZZVGc2cGpOOEZGY1hSV1ctOEp2QmZXekdIUGpqY1JVQXpK?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 보도를 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
+    "newsletter_md": "# ⚡ ZIPPY | AI 경제 데일리 브리핑\n_2026-11-11 이슈 · 발행 2026-11-11_\n\n🇰🇷 **국내 경제:** `10월 가계대출 증가` · `정년 연장 논의` · `코스닥 매수 사이드카`\n🌐 **해외 경제:** `미 연준 빅스텝 우려` · `엔비디아 주가 급락` · `나스닥 23시간 거래`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 10월 가계대출 5조원 증가와 미 빅스텝 공포\n> 키워드: 10월 가계대출 증가\n\n**📌 무슨 일이 있었나**\n- 10월 가계대출이 집단대출과 주식 투자 수요의 영향으로 전월 대비 5조 원 증가하며 가계 부채 부담이 가중되었다.\n- 11월 1일부터 10일까지의 수출액은 335억 달러로 전년 동기 대비 111.9% 급증하며 일평균 수출도 97.7% 늘어났다.\n- 지난달 취업자 수는 13만 9천 명 증가했으나 청년층 취업자는 4년째 감소세를 이어가며 고용 시장의 양극화가 심화되었다.\n- 미국 10월 물가 지수가 예상치를 상회하면서 연준이 12월에 기준금리를 0.5%포인트 인상하는 빅스텝을 단행할 가능성이 제기되었다.\n\n**💬 핵심 Q&A**\n- **Q. 가계대출 증가의 주요 원인이 주식 투자와 집단대출에 쏠린 이유는 무엇인가?**\n  A. 주식 시장의 변동성을 기회로 삼으려는 투자 수요와 신규 분양 단지의 집단대출 실행 시기가 맞물렸기 때문이다. 특히 증시 반등을 노린 레버리지 투자가 가계대출 규모를 밀어올린 주요 동력으로 작용했다.\n- **Q. 수출 지표의 기록적 상승이 국내 금리 결정에 어떤 변수로 작용하는가?**\n  A. 수출 호조는 경기 회복의 신호로 해석되어 한은이 금리를 인상하거나 유지할 수 있는 명분을 제공한다. 하지만 가계대출 증가세와 맞물릴 경우 가계의 이자 상환 부담을 높이는 압박 요인이 된다.\n- **Q. 미국 물가 쇼크가 국내 가계부채 상환 부담에 미칠 파급 경로는 무엇인가?**\n  A. 미국이 빅스텝을 단행하면 한미 금리 격차 해소를 위해 국내 기준금리도 상방 압력을 받게 된다. 이는 시중 대출 금리 상승으로 이어져 5조 원 넘게 불어난 가계대출의 이자 비용을 직접적으로 높이는 결과를 초래한다.\n\n**👀 앞으로 볼 포인트**\n- 12월 미 연준 FOMC 기준금리 결정\n- 가계대출 규제 강화 및 금리 인상 여부\n- 청년층 고용 지표의 추가 하락 가능성\n\n<sub>참고: [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE0xWXNfU1dPQUJVZnNGUE1obWY5cTVacV9kaEt0dFhQby1nREJjZXBHYWpKMEV1YmpMSkU1UHM2Z0xuWXF2bmNOVTg3eVhabDFNV0xMbzk2RVJiRlNyc0Vhd1k3LW5sVVcycURZeGNQdEk?oc=5) / [한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE50dXY0QVdPWEJDZTlfRFlwWDNqQnduMm1iUzB3VUlTSU1QU25adHg0MFRJd0FOdjdpVGtmRGhTWlBEc2pvbWVJLTRvQVJVUFR4X3NiS05MWHVadw?oc=5) / [MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTE84S2dGN3gtVFZ5V1hUclk5VTM3QTFIRlFkb05DbEJ4aGV6b2hBZkJUYjYzWWsyc3U5dENvRk9mVkk1YkFxQ2I1ZENYVXB6UjluNDdmQnlsTEhaU0o0NVZGVmdHZDU1TGl4bFRZZWtvS2xNd0pW0gF0QVVfeXFMTms2RW03MVhhT3hSM2tfS0RpQUF1ZXVET3FxUTM1WkpSdTdYc0M0T24zRXdhN2VfYmlYcEhvWkVjTDZ5d1dLT0VZYUJvUEdtNFJHRHh2dEFuanYyekpGNWJWWldLdkg0TDRZbzJfTzdXdW5JbjY?oc=5)</sub>\n\n---\n\n### 2. 65세 연금 수령 공백에 정년 연장 논의 재점화\n> 키워드: 정년 연장 논의\n\n**📌 무슨 일이 있었나**\n- 60세 퇴직 후 연금 수령이 시작되는 65세까지의 소득 공백을 메우기 위해 일본식 정년 연장 모델 도입 논의가 본격화되었다.\n- 정년 연장 입법이 공공기관과 대기업 재직자에게만 혜택이 집중될 수 있다는 우려가 제기되며 형평성 논란이 일고 있다.\n- 정부는 유류비 부담 경감을 위해 유류세 인하 조치를 내년 1월까지 2개월 추가 연장하기로 결정했다.\n- 정년 연장이 현실화될 경우 퇴직연금 운용 방식과 기업의 인건비 부담 구조에 대한 전면적인 재검토가 필요하다는 지적이 나온다.\n\n**💬 핵심 Q&A**\n- **Q. 퇴직 시점과 연금 수령 시점 사이의 5년 공백이 정년 연장 논의의 핵심 동력인가?**\n  A. 그렇다. 60세에 퇴직하더라도 국민연금 수령은 65세에 시작되어 발생하는 소득 절벽 현상을 해결하는 것이 이번 논의의 가장 시급한 목적이다.\n- **Q. 정년 연장이 대기업과 공공기관 위주의 수혜로 그칠 것이라는 비판의 근거는 무엇인가?**\n  A. 고용 안정성이 높은 대기업과 공공기관은 정년 연장의 혜택을 즉각 누리지만, 중소기업은 인건비 부담으로 인해 실제 시행이 어렵기 때문이다. 이로 인해 노동 시장의 이중 구조가 더욱 고착화될 수 있다는 우려가 나온다.\n- **Q. 정년 연장 논의가 퇴직연금 시장의 운용 전략에 어떤 변화를 불러오는가?**\n  A. 근로 기간이 길어짐에 따라 퇴직연금 적립 기간도 늘어나며, 장기 운용에 적합한 수익 추구형 상품으로의 전환이 가속화될 수 있다. 기업 입장에서는 확정급여형(DB)에서 확정기여형(DC)으로의 전환을 유도할 가능성이 크다.\n\n**👀 앞으로 볼 포인트**\n- 정년 연장 입법 논의의 국회 통과 여부\n- 퇴직연금 운용 방식 개편안 발표\n- 내년 1월 유류세 인하 종료 시점 물가 영향\n\n<sub>참고: [이투데이](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PVkNua3NwbC0zeVJZNEVucWFtQ1VsSVFFVnJBSFo1YUVpajZIR2xZR0dBdGdZWUVDNFZRRXZzdW9ELThmSVJDcmpsb2RlcEY1S1pCTG9WNFpKZw?oc=5) / [이투데이](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fTWk2bHpYSWxld3NzZE9WVVMyNUw0a3RucjdUeXdYdExIYkk2WFdUbWp0MXpWYTcyUWJXUzRfeGFqSnFicmxUQ0xwXzJObGVaeU5ITGkwVXdTQQ?oc=5) / [조선일보](https://news.google.com/rss/articles/CBMijgFBVV95cUxPQlZMQ2dRRWcwazhHa0lHZlBiUUhpTExRUjZ1ZFlPNGdJVHVNVHR1LWhsSTM2Y3RxVzlFaFhHQWwxYWpRblNiOXVCZ0luNmVNdXgyUUhKel9pVEZ6bzgwOGt5RkNtVFRsS1pWUFZMZ2E2eWw3MVQyLXVyUVZ5N3RXMkpLaklQSlBoXzdTUTNB?oc=5)</sub>\n\n---\n\n### 3. 코스닥 이틀 연속 매수 사이드카와 증시 반등\n> 키워드: 코스닥 매수 사이드카\n\n**📌 무슨 일이 있었나**\n- 코스닥 지수가 5.6% 급등하며 이틀 연속 매수 사이드카가 발동되는 등 극심한 변동성을 보였다.\n- 코스피 역시 미국 긴축 우려를 딛고 2.6% 상승 마감하며 지난주 투매 장세에서 벗어나는 흐름을 나타냈다.\n- 미국 중간선거 이후 인공지능 관련주의 급락이 과도하며 이를 선별적 매수 기회로 활용해야 한다.\n- 정부는 코스닥 시장 활성화를 위해 오는 13일 한국거래소에서 구체적인 대책을 논의할 예정이다.\n\n**💬 핵심 Q&A**\n- **Q. 이틀 연속 매수 사이드카가 발동될 정도로 코스닥이 급등한 수급적 배경은 무엇인가?**\n  A. 지난주 과도한 투매에 따른 저가 매수세 유입과 공매도 금지 조치 하에서의 숏커버링 물량이 집중되었기 때문이다. 프로그램 매수세가 일시에 몰리며 지수를 단기간에 폭등시켰다.\n- **Q. 미국 긴축 우려 속에서도 국내 증시가 강한 반등을 보인 동력은 어디에 있는가?**\n  A. 미국 빅스텝 우려가 이미 선반영되었다는 인식과 함께 정부의 코스닥 살리기 대책에 대한 기대감이 작용했다. 특히 낙폭 과대주를 중심으로 한 기술적 반등 욕구가 강하게 분출되었다.\n- **Q. 모건스탠리가 언급한 AI주 선별적 매수 기회가 국내 반도체 기업에 미칠 영향은 무엇인가?**\n  A. 글로벌 AI 밸류체인에 포함된 국내 반도체 및 소부장 기업들에 대한 외국인 투자 심리를 개선시킬 수 있다. 이는 코스닥 내 시가총액 상위 기술주들의 추가 상승 동력으로 이어질 전망이다.\n\n**👀 앞으로 볼 포인트**\n- 13일 정부의 코스닥 시장 활성화 대책\n- 외국인 및 기관의 코스닥 순매수 지속 여부\n- AI 관련주 추가 반등 및 기술적 저항선 돌파\n\n<sub>참고: [MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTE9YV3hHUzMxR0p3TVBPUk5OR0VFbmZYLU1HNHJySGQ0bURnS1Z4RzJnWVpKOXdfVnZfWGZtT1BEYUtYdkIzMkpDdzZ4b2V5ODhJbjB4SVZwY2x6WE52T1JFcm1IdlhFLWN0X1JsYWZkSzBjQzNW0gF0QVVfeXFMTmNnTktYaTdTV01reUgta0xPcHVXRWxqY0tLMEg3Vkk1Mjh6MzBLLXZqbHhYOVpWeHAyWmFqRXJsU3FKUERiclljWmFkUXN0UldrUjFOYkM4YzdFYXRMMEh6eDFwdU9qbFV3dksyckw2Rmw0MUI?oc=5) / [뉴스핌](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kM2VzcjR3U1BtSW9jV0JjMk9tdzNpUFdKaG1QblVBSzhra2dER2N2a2dVeWJobFpiYVFhSGpkdU9pckhXTE4zSzFDRVJpQjdISG5pYzZUQS13ZVlC?oc=5) / [Investing.com 한국어](https://news.google.com/rss/articles/CBMicEFVX3lxTE5hSFZ3LWZPMnB0UzJXcHh4dFlGNDA3ZFJOcTZHeFk0QTg1d0tweWRkM2FiTFFTM1B2dS1QSTN0bHZFOXg0QUNGaVdEMlRlQUZuS3lfMFRSOGdVZUVPZDdjWV9uUnFhdkNQZkktemhVUTk?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 미 물가 충격에 12월 빅스텝 가능성 급부상\n> 키워드: 미 연준 빅스텝 우려\n\n**📌 무슨 일이 있었나**\n- 미국 10월 소비자물가지수가 예상치를 상회하며 인플레이션 우려가 커지자 뉴욕증시 3대 지수가 일제히 하락했다.\n- 연준 내 강경파인 크리스토퍼 월러 이사가 4년 만의 빅스텝 가능성을 언급하며 시장의 긴축 공포를 자극했다.\n- 물가 충격 여파로 나스닥 지수는 0.74% 하락했으며 엔비디아 등 주요 기술주들이 약세를 면치 못했다.\n- 시장에서는 연준이 인플레이션을 잡기 위해 12월 금리 인상 폭을 0.5%포인트로 확대할 것이라는 전망이 힘을 얻고 있다.\n\n**💬 핵심 Q&A**\n- **Q. 월러 이사가 4년 만의 빅스텝 카드를 다시 꺼내 든 결정적 이유는 무엇인가?**\n  A. 10월 물가 지표가 둔화되지 않고 오히려 예상치를 웃돌면서 기존의 점진적 금리 인상으로는 인플레이션을 통제하기 어렵다고 판단했기 때문이다. 이는 시장의 조기 금리 인하 기대를 완전히 꺾으려는 의도로 풀이된다.\n- **Q. 물가 지표 상회가 기술주 중심의 나스닥 지수에 더 큰 타격을 준 메커니즘은 무엇인가?**\n  A. 금리 상승은 미래 수익을 현재 가치로 환산할 때 할인율을 높여 성장주인 기술주의 밸류에이션을 낮추기 때문이다. 특히 고금리 장기화 우려가 커지면서 자금 조달 비용 상승 압박이 기술주 투매로 이어졌다.\n- **Q. 12월 빅스텝 단행 여부를 결정지을 핵심 경제 지표의 임계치는 어느 수준인가?**\n  A. 다음 달 발표될 고용 보고서에서 임금 상승률이 꺾이지 않거나, 근원 물가 상승률이 전월 대비 0.4% 이상을 유지할 경우 빅스텝은 기정사실화될 가능성이 높다. 노동 시장의 과열 지속 여부가 최대 분기점이다.\n\n**👀 앞으로 볼 포인트**\n- 연준 위원들의 추가 매파적 발언 여부\n- 11월 소비자물가지수(CPI) 예비치 발표\n- 미 국채 10년물 금리의 4.5% 돌파 여부\n\n<sub>참고: [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9odjVpVkR5eTJrcFZQaWdSNzViTUoxTGttTjVDRDZOT3dpNk9QLWs2TEFvZ1NXMWd3UTZqNnJGU2Z2NmJQd3pRTVM3NEhWVmJoMVNPRmZDUUQ1c0nSAWBBVV95cUxOUWJzWnJmalR2Y3pMTkczSWpUX2xianBOaG1HRURVWk9vb0YxaFdTbF85dC1aWDNCWjRMNFp2T1FrdjVtT3k5cmNhSWF0NHpQUXl4UVNEcHlKQ3lqX1RfYzk?oc=5) / [뉴스핌](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXd3JGN1pKdWJHOEhPRFBSZ3JsZV9IU1hOdnJ1MGphYzZtMUdKY1p1UW9NVFRSSVdvWmMzd2VMd1FIMDJRbWFxR0tnMHZJNEpoU3EwR3NDdTZSdlBM?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE5lX0hQbVVEVnIzamJoNzY2MUdjeWtHWWlNejRpZjNSNnllV3dBYUx0TFBISFlERlVIbkJJZmc1bm5kUlRlTHZ0eXFVVVpxRHNGTFVaMkI4UFo5R0pSbDkyWGRNaERpSWstYThIMkZSUU8?oc=5)</sub>\n\n---\n\n### 2. 엔비디아 이틀간 10% 급락과 중국 밀반입 의혹\n> 키워드: 엔비디아 주가 급락\n\n**📌 무슨 일이 있었나**\n- 엔비디아 주가가 물가 우려와 빅스텝 공포 속에 5.5% 급락하며 이틀간 총 10%의 하락폭을 기록했다.\n- 젠슨 황 CEO의 측근이 10조 원 규모의 엔비디아 칩을 중국으로 밀반입했다는 의혹이 제기되며 투자 심리가 급격히 위축되었다.\n- 주가 급락에도 불구하고 엔비디아와 구글은 인공지능 스타트업 앤트로픽에 각각 13조 원을 투자하며 AI 생태계 확장을 지속하고 있다.\n- 나스닥 지수는 엔비디아의 폭락 여파로 187포인트 하락하며 기술주 전반의 조정 장세를 주도했다.\n\n**💬 핵심 Q&A**\n- **Q. 10조 원 규모의 칩 밀반입 의혹이 엔비디아의 기업 가치와 규제 리스크에 미칠 영향은 무엇인가?**\n  A. 미 정부의 대중국 수출 규제 위반 여부가 확인될 경우 막대한 벌금과 추가적인 수출 제한 조치가 뒤따를 수 있다. 이는 엔비디아의 핵심 성장 동력인 중국 시장에서의 매출 불확실성을 극대화하는 요인이다.\n- **Q. 주가 폭락 상황에서도 앤트로픽에 대규모 투자를 단행한 전략적 의도는 무엇인가?**\n  A. 단기적인 주가 변동과 무관하게 AI 연산 수요를 창출할 강력한 소프트웨어 파트너를 확보하려는 포석이다. 앤트로픽의 성장은 곧 엔비디아 칩에 대한 장기적인 수요 확대로 이어지는 선순환 구조를 만든다.\n- **Q. 이틀간 10% 하락한 엔비디아의 주가가 기술적 지지선을 이탈했는지 판단할 기준은 무엇인가?**\n  A. 최근 상승폭의 50% 되돌림 구간인 특정 가격대 유지 여부가 중요하다. 만약 대량 거래를 동반하며 직전 저점을 하향 돌파할 경우 AI 거품론이 재점화되며 장기 조정 국면에 진입할 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 중국 밀반입 의혹에 대한 미 당국의 조사 착수 여부\n- 앤트로픽 투자에 따른 AI 모델 고도화 성과\n- 엔비디아 주가의 200일 이동평균선 지지 여부\n\n<sub>참고: [뉴스핌](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXd3JGN1pKdWJHOEhPRFBSZ3JsZV9IU1hOdnJ1MGphYzZtMUdKY1p1UW9NVFRSSVdvWmMzd2VMd1FIMDJRbWFxR0tnMHZJNEpoU3EwR3NDdTZSdlBM?oc=5) / [글로벌이코노믹](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT0VndVhEdTdTNklfaFYtZ1dQNTJfOC1KYnpuLVlhSW9LSDlPdEk1MUY1dEY1X3NxbDN4elN4SmVfUThIOG4yRmxERDczRk9DRTRsNXRSNXpKNTk2YnNuT0c2RDU1QWZZVGc2cGpOOEZGY1hSV1ctOEp2QmZXekdIUGpqY1JVQXpK?oc=5) / [문화일보](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ycDJwNnlKTjgtTjRQQTBFM09iMkNUTkJ6cFR6dWs2bWpxRmZkTE1iblUtaVNLYXBGMU5fZC1jMkpPeXBVcU0wMm5RMUlNXzl6?oc=5)</sub>\n\n---\n\n### 3. 나스닥 23시간 거래 도입과 국내 증권가 대응\n> 키워드: 나스닥 23시간 거래\n\n**📌 무슨 일이 있었나**\n- 나스닥이 다음 달부터 하루 23시간 거래 체제를 도입함에 따라 국내 증권사들이 시스템 개편 등 본격적인 준비에 착수했다.\n- 이번 조치로 아시아 낮 시간대에도 월가 자본의 거래가 가능해지면서 홍콩 등 주요 금융 허브들이 방어 전략 수립에 나섰다.\n- 퇴직연금 시장에서는 나스닥의 성장성과 미국채의 안정성을 결합한 '반반 투자' 상품이 새로운 대안으로 주목받고 있다.\n- 정부는 국내 코스닥 시장 경쟁력 강화를 위해 오는 13일 거래소에서 별도의 대책 회의를 가질 예정이다.\n\n**💬 핵심 Q&A**\n- **Q. 나스닥의 23시간 거래 도입이 아시아 증시의 유동성을 흡수하는 '블랙홀'이 될 가능성이 있는가?**\n  A. 그렇다. 아시아 투자자들이 자국 증시 대신 실시간 거래가 가능해진 나스닥으로 자금을 옮길 가능성이 커지면서 국내외 증시 간 유동성 확보 경쟁이 치열해질 전망이다.\n- **Q. 국내 증권사들이 시스템 개편을 서두르는 것이 서학개미의 매매 패턴에 어떤 변화를 가져오는가?**\n  A. 기존의 예약 주문이나 야간 거래의 불편함이 사라지면서 국내 주식처럼 실시간 대응이 가능해진다. 이는 미국 주식에 대한 데이트레이딩 수요를 자극하고 해외 주식 투자 비중을 더욱 높이는 결과를 낳을 것이다.\n- **Q. 나스닥 거래 시간 확대가 퇴직연금 포트폴리오의 리스크 관리 방식에 미치는 영향은 무엇인가?**\n  A. 24시간에 가까운 거래가 가능해짐에 따라 야간에 발생하는 돌발 악재에 즉각 대응할 수 있어 리스크 관리 효율성이 높아진다. 특히 나스닥과 미국채를 혼합한 상품의 경우 실시간 자산 배분 조정이 용이해진다.\n\n**👀 앞으로 볼 포인트**\n- 국내 증권사별 23시간 거래 시스템 정식 오픈일\n- 홍콩 증시의 거래 시간 연장 등 대응 조치 발표\n- 퇴직연금 내 미국 자산 비중 변화 추이\n\n<sub>참고: [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zRWZudjlfZXVYWENJbkp2ODNwSV84VGh1R3NBSmxWWjVxeVZFeVpOSFRPRTFBQW8xNDQ4eUt6RlVkMHhaQUpWdEJZelpPVUQ0c0lrSGE0dHliVEXSAWBBVV95cUxNZmRialZQX25RMDJ6WjB1Z3d0Wk5rRTdCX294OUVJQ3FfRXlaS0M1QXl6SDh5WW0xakYwVjZDVDN0V3Y4Mzc1Y0NidkI5XzZuZ3BYQ0d5YXRYNlZuWFlLV20?oc=5) / [강원도민일보](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sUGxLUlpNUGRQMkxPOUg4SFJmMTIyNENFWldlRVZBZDlRT0VzV1MtWU4zWHRMbnduNDZwbmhVNDlKS29zby01d1hYTVBOeXhPdEQyWGVlay1LM2pWcDFCOXJQY05wdE0?oc=5) / [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqMVlESGxRaDlGVVpHbUsxM1JPVE52UHlxTWZ2UXFUeVprdkRNRTZObHNFY3ZlWlplbEwtcFd4S3FLRmxzZG5mcXJMV2NtZFRjUDVURzd0eGpBa2M?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 보도를 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
     "generation_mode": "gemini"
   },
   "yesterday": {
@@ -2934,5 +2970,5 @@
     "newsletter_md": "# ⚡ ZIPPY | AI 경제 데일리 브리핑\n_2026-11-04 ~ 2026-11-10 이슈 · 발행 2026-11-11_\n\n🇰🇷 **국내 경제:** `반도체주 반등과 변동성` · `공정위 플랫폼 규제 강화` · `부동산 부정청약 및 매물 적체`\n🌐 **해외 경제:** `나스닥 기술주 폭락 사태` · `젠슨 황 스캔들과 엔비디아 급락` · `미국 중간선거와 증시 반등`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 반도체주 사이드카 발동과 엔비디아의 디커플링\n> 키워드: 반도체주 반등과 변동성\n\n**📌 무슨 일이 있었나**\n- 삼성전자와 SK하이닉스 등 주요 반도체 종목이 4~5%대 강세를 보이며 코스피와 코스닥 시장에 매수 사이드카가 발동되는 급등세가 나타났다.\n- 뉴욕증시에서 나스닥 지수는 반도체주 반등에 힘입어 0.8% 상승했으나 대장주인 엔비디아는 홀로 4%대 급락하며 시장과 상반된 흐름을 보였다.\n- 개인 투자자들은 반도체주 탈출 고민 속에서도 관련 ETF를 오히려 추가 매수하며 반등장에 대한 기대감과 저점 매수 전략을 동시에 취하고 있다.\n- 미국 중간선거를 앞둔 경계감 속에서도 반도체 업종의 기술적 반등이 지수 하방 경직성을 강화하며 국내외 증시의 회복세를 견인하는 양상이다.\n\n**💬 핵심 Q&A**\n- **Q. 삼성전자와 SK하이닉스 급등으로 매수 사이드카가 발동된 구체적인 배경은 무엇인가?**\n  A. 반도체 대형주들이 4~5%대 강세를 보이며 지수를 급격히 견인하자 프로그램 매수 호가의 효력을 일시 정지하는 사이드카가 발동되었으며 이는 시장의 강력한 매수세 유입을 증명한다.\n- **Q. 나스닥 지수 상승에도 불구하고 엔비디아가 홀로 4%대 급락한 이유는 무엇인가?**\n  A. 기술주 전반의 반등세에도 불구하고 CEO 젠슨 황의 개인적 스캔들 의혹이 불거지며 투자 심리가 급격히 악화된 것이 엔비디아만의 독자적인 하락을 유도했다.\n- **Q. 반도체주 변동성 확대 상황에서 개인 투자자들이 ETF를 담는 전략의 근거는 무엇인가?**\n  A. 반도체 업황의 장기적 우상향을 신뢰하는 투자자들이 단기 폭락을 저가 매수의 기회로 판단하여 개별 종목 대신 분산 투자가 가능한 ETF 비중을 늘리는 것으로 분석된다.\n\n**👀 앞으로 볼 포인트**\n- 삼성전자 및 SK하이닉스의 외국인 수급 변화\n- 엔비디아 실적 발표 및 CEO 스캔들 여파\n- 필라델피아 반도체 지수의 조정장 탈출 여부\n\n<sub>참고: [한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBES1RZRVY4T2RnSVVPcFdFQ2xibUhNVmgwV0s4Nkh3TmE1R09zREFqT0NJZmN1b2JGUmZvQU9kbUFLaElySVlhU01pcHIwY21icTVFVzFPdkpxdw?oc=5) / [한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FN0dtNVNaYjl0ZGtZLVk3d2poeUxsTmY4U0lKZHl2Ti0tOWdiNjdwM202T3lvOTVsOFpJSkZVNHZ3T3BtZWQ3Tmp1cG5hcng3XzJiLXduWVFLUQ?oc=5) / [경향신문](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Jc1VuTmhYa29nSGJUaXFOUXBWc0ljR1Azd1RsemEzWUV5NkNVY1ZfVW1rbmFtT3BLLU1OczAzdmYwbGZSTUo2WjFPQUhPV00yekhjdjg2bExQZ9IBX0FVX3lxTE5BWURWelV5X2liaG1ONWFORnQ5T1NhSERrN09yVllJS21tVDBaSTgtVkhya1lkVzNGZDR2c25DamhSWVphN000RUV4YnVzV0V5QWlUTE5ENjh3ejBrX2dv?oc=5)</sub>\n\n---\n\n### 2. 플랫폼 다크패턴 제재와 AI 규제 공포 확산\n> 키워드: 공정위 플랫폼 규제 강화\n\n**📌 무슨 일이 있었나**\n- 공정거래위원회는 네이버와 두나무의 기업결합이 시장 내 경쟁을 제한할 우려가 있다고 판단하고 연내 심의를 목표로 조사를 진행 중이다.\n- 이용자의 회원 탈퇴를 방해하는 '다크패턴' 행위를 법 위반으로 명시하고 탈퇴 버튼을 숨기거나 절차를 복잡하게 만든 플랫폼들에 대한 제재를 강화했다.\n- 쿠팡이츠와 배달의민족은 공정위의 제재가 과도하다는 입장을 밝히며 의결서를 받는 대로 법적 대응을 검토하겠다고 발표하며 정면 충돌 양상을 보였다.\n- 미국에서는 젠슨 황 스캔들 이후 대중국 반도체 규제 강화 움직임과 함께 AI 규제 공포가 확산되며 나스닥 지수가 장중 5.5% 폭락하는 사태가 발생했다.\n\n**💬 핵심 Q&A**\n- **Q. 공정위가 명시한 플랫폼 '다크패턴'의 구체적인 법 위반 행위는 무엇인가?**\n  A. 이용자가 서비스 해지를 원함에도 불구하고 탈퇴 버튼을 찾기 어렵게 숨기거나 해지 절차를 의도적으로 복잡하게 설계하여 소비자의 선택권을 방해하는 행위를 의미한다.\n- **Q. 네이버와 두나무의 결합에 대해 공정위가 경쟁 제한 우려를 제기한 이유는 무엇인가?**\n  A. 포털 플랫폼과 가상자산 거래소 1위 사업자 간의 결합이 데이터 독점이나 시장 지배력 전이를 통해 관련 생태계의 공정한 경쟁을 저해할 수 있다고 판단했기 때문이다.\n- **Q. AI 규제 공포가 나스닥 지수를 5.5% 폭락시킨 메커니즘은 무엇인가?**\n  A. 정부의 강력한 규제가 AI 기업들의 수익 모델과 기술 개발 속도를 늦출 것이라는 우려가 확산되면서 고평가 논란이 있던 기술주들에 대한 투매 현상이 발생한 결과이다.\n\n**👀 앞으로 볼 포인트**\n- 네이버와 두나무 기업결합 심의 결과 발표\n- 플랫폼 다크패턴 관련 추가 제재 대상 명단\n- 미국 정부의 대중국 AI 반도체 추가 수출 규제\n\n<sub>참고: [한겨레](https://news.google.com/rss/articles/CBMib0FVX3lxTE8yYVNmNWFHMFdremhDU0RKcHdhdXFTSGNjVTZaYTJBbEFCa2xybEVQTUFvaEZGR3ZpZ1N0TWctSFZLRXNTOFFqTnpJNzZqVnJFT2RnWEhhUUN1cThCa0pQWGxjaURkUGRDcENUeUZCSQ?oc=5) / [Investing.com 한국어](https://news.google.com/rss/articles/CBMicEFVX3lxTE5nNU1ZUko5amlmVkstTVZvVXVOR0pkY1VmNVhjSVAxemE4R2E2ZUNTUXFRaEhlaGtpT2RlbE1Fd2RwTTJIUjVSX3FIU2J4eGthLW40MXJSOVFEMllCZ1ktMmtRWFZWSWliMDc4Y3I1eFY?oc=5) / [지디넷코리아](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zWTMyQmdqYU1Cakl0QXYxZWN2TExxdUExdE0wNlFQek5IS3g0NGtpNnE5YmFzcjNkTW5QQ3VsbENQNmEwaGpvR19zQnFBY3R2ajdob3BR?oc=5)</sub>\n\n---\n\n### 3. 위장전입 부정청약 무더기 적발과 매물 적체\n> 키워드: 부동산 부정청약 및 매물 적체\n\n**📌 무슨 일이 있었나**\n- 국토교통부 조사 결과 위장전입 334건을 포함하여 허위 퇴사, 유공자 자격 매매 등 총 354건의 아파트 부정청약 의심 사례가 무더기로 적발되었다.\n- 의사 부부가 청약 자격을 얻기 위해 허위로 퇴사하거나 위장 미혼 상태를 유지하는 등 지능적인 수법을 동원한 사례들이 수사 당국에 송치되었다.\n- 서울 아파트 매물은 3개월 연속 쌓이며 적체 현상이 심화되고 있으나 시장 가격은 과거 정부 시절과 유사한 흐름을 보이며 하방 경직성을 유지하고 있다.\n- 정부는 부정청약 적발 시 당첨 취소는 물론 향후 청약 자격 제한과 막대한 재산상 손실이 뒤따를 것임을 경고하며 엄정 대응 방침을 확고히 했다.\n\n**💬 핵심 Q&A**\n- **Q. 이번에 적발된 부정청약 사례 중 가장 높은 비중을 차지한 수법은 무엇인가?**\n  A. 전체 354건 중 334건을 차지한 위장전입이 압도적으로 많았으며 이는 특정 지역의 우선 공급 자격을 얻기 위해 주소지만 허위로 옮기는 행태가 여전함을 보여준다.\n- **Q. 부정청약으로 적발된 당사자들에게 가해지는 구체적인 불이익은 무엇인가?**\n  A. 이미 체결된 공급 계약이 취소됨은 물론 향후 최장 10년간 청약 신청 자격이 제한되며 형사 처벌에 따른 벌금 및 재산적 손실을 감수해야 한다.\n- **Q. 서울 아파트 매물이 3개월 연속 쌓임에도 가격이 급락하지 않는 이유는 무엇인가?**\n  A. 매물 적체에도 불구하고 실거주 수요와 공급 부족 우려가 공존하며 매도자들이 가격을 낮추기보다 관망세를 유지하는 하방 경직성이 강하게 작용하고 있기 때문이다.\n\n**👀 앞으로 볼 포인트**\n- 부정청약 적발 사례에 대한 최종 당첨 취소 여부\n- 서울 아파트 매물 적체 해소 및 거래량 변화\n- 위장전입 방지를 위한 청약 제도 개선안\n\n<sub>참고: [매일경제](https://news.google.com/rss/articles/CBMiVEFVX3lxTE16bFRQOTZwSFdBUExVb2kzMG95aktocjZydDB5aHd3TWxTMm5xSjBmVnkyQVVYNUkzRFFMb0RoQThocUhqRUJ2MlB4WVlDOUNuVHU1TQ?oc=5) / [경향신문](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NQlpIcXZuV2RNb19aaHltZ1VndWJQcjJoRlptRTA1SGRHWnAxSW9fYmZ6RDNLX2cxMGY3R0stVFhkcG1sRkU4VUV0c2dDSDh5STdhTmd1UDM2QdIBX0FVX3lxTE1IR085TlJvS2ZCeWlwU05ISTMzWTZkbjlEVS0wUzdXNlNRdUhHVWNjeEJodjlXQ3Z3d3VjU1ZoSmJKZE1BUjcxZGJ5REE3RlN6bEUzWHJVZm1iN2xPdXZB?oc=5) / [대한민국 정책브리핑](https://news.google.com/rss/articles/CBMibEFVX3lxTE1nNU40R2tfQ19OUTNsUFpQQWw1WGhaUy1NbGF4UGdGYnZfdVlDcEVHUkxUQTJYT0VBSmVhNGQtZXZvQjJMcHRidmFGczR3amFQNkRfdFhxUkVma3F5cTJIbzhuUDg0WDdpRFV1Rw?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. AI 거품론에 나스닥 5.5% 폭락과 조정장 진입\n> 키워드: 나스닥 기술주 폭락 사태\n\n**📌 무슨 일이 있었나**\n- 뉴욕증시에서 나스닥 지수가 AI 기술주에 대한 투매 여파로 5.5% 폭락하며 작년 4월 이후 최대 낙폭을 기록하고 장중 조정장에 공식 진입했다.\n- 폭락 사태 이후 저가 매수세가 유입되며 나스닥은 1.1% 반등에 성공했으나 엔비디아는 CEO 리스크로 인해 4% 넘게 추가 하락하며 대조를 이뤘다.\n- 다우 지수가 1100포인트 이상 급등하는 상황에서도 기술주 중심의 나스닥은 AI 수익성 의문과 규제 공포가 겹치며 상대적으로 높은 변동성을 노출했다.\n- 이번 폭락을 단순 조정을 넘어선 AI 산업에 대한 재평가 구간으로 해석하며 기술주 전반의 밸류에이션 재조정이 시작되었다.\n\n**💬 핵심 Q&A**\n- **Q. 나스닥 지수가 하루 만에 5.5%나 폭락하게 된 결정적인 트리거는 무엇인가?**\n  A. AI 기술주에 대한 과도한 낙관론이 꺾이면서 대규모 투매가 발생했고 특히 정부의 규제 강화 움직임이 투자자들의 차익 실현 욕구를 자극하며 투매를 가속화했다.\n- **Q. 폭락 이후 1.1% 반등이 하락 추세의 반전을 의미한다고 볼 수 있는가?**\n  A. 기술적 반등에 따른 저가 매수세 유입일 뿐 엔비디아 등 핵심 종목의 하락세가 멈추지 않았고 조정장에 진입한 만큼 추세 반전으로 단정하기는 어렵다.\n- **Q. 다우 지수 급등과 나스닥의 변동성이 동시에 나타나는 시장의 역설은 왜 발생하는가?**\n  A. 금리 환경 변화와 경기 지표에 따라 기술주에서 전통적인 가치주로 자금이 이동하는 순환매 장세가 펼쳐지면서 지수 간 수익률 격차가 크게 벌어지는 현상이다.\n\n**👀 앞으로 볼 포인트**\n- 나스닥 지수의 조정장 탈출 및 안착 여부\n- 주요 빅테크 기업들의 AI 부문 실적 가이던스\n- 미국 국채 금리 변동에 따른 기술주 수급 변화\n\n<sub>참고: [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNMGVCRDJJVzA0Y2JjTHdYY2hYZjhKOXkzeV9XMjBWMzYwTms3VHZlT08xZFZPcHk3WnRrNkQ4MkRIb0RvUXJFdEJwczc0Rk5HcWZxQXQ4U2hGYVnSAWBBVV95cUxPMW9xdWlOUV84b3JIMnd1X0IxU0RhZEdWWlpWaVE3b0E2SmhRMmtLUUlCTGh1REMtRXpYWWFkNEszMzdIdUg1NDY4UXI1MDdFNF9XNVJWSkNEWFRmck0tNUE?oc=5) / [한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CTXc5dFhOdDBtSW5fYUYwRl9zUXNMRURHZEVuWGZtVlNIeG84bFlNblhWcmpVX3g2cE5fbnZ6ZmVBQkhQbWtTa0QtZzQ5UWtTWDNJNS10aXY1UQ?oc=5) / [중앙일보](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwWDNzbTlGdmJzMU9lb0c2V29pVDhsbndNVTR1UkNITk9YTjRJclhYV1BlMi16RFdTOEQ3VUQ0LXdEQUotUlo5ZkhaYUdBZktrbkdON0t3?oc=5)</sub>\n\n---\n\n### 2. 젠슨 황 스캔들 파문에 엔비디아 홀로 급락\n> 키워드: 젠슨 황 스캔들과 엔비디아 급락\n\n**📌 무슨 일이 있었나**\n- 뉴욕증시가 전반적으로 반등하는 가운데 엔비디아는 CEO 젠슨 황의 불륜 의혹 등 개인적 스캔들 여파로 장중 한때 8%대까지 폭락하는 부진을 겪었다.\n- 젠슨 황의 스캔들 보도 이후 미국 정부가 대중국 반도체 수출 규제를 더욱 강화하려는 움직임을 보이면서 기업의 대외 리스크가 가중되고 있다.\n- 다우 지수가 1200포인트 급등하고 나스닥이 2.7% 상승하는 랠리 속에서도 엔비디아는 4~5%대 하락세를 지속하며 시장 소외 현상이 뚜렷해졌다.\n- 투자자들은 CEO의 도덕적 해이가 기업 이미지 실추를 넘어 핵심 경영 의사결정 및 정부와의 관계에 악영향을 미칠 가능성을 우려하며 매물을 쏟아냈다.\n\n**💬 핵심 Q&A**\n- **Q. CEO 개인의 스캔들이 엔비디아 주가에 이토록 치명적인 영향을 미친 이유는 무엇인가?**\n  A. 엔비디아는 젠슨 황의 강력한 리더십에 의존도가 높은 기업이며 그의 개인적 리스크가 정부 규제 대응이나 기업의 전략적 신뢰도에 타격을 줄 수 있다는 공포가 반영되었기 때문이다.\n- **Q. 스캔들 발생 시점과 미국 정부의 대중국 규제 강화 움직임 사이에 어떤 연관성이 있는가?**\n  A. CEO 리스크로 기업의 영향력이 약화된 틈을 타 정부가 안보를 명분으로 반도체 수출 통제 수위를 높이려는 정치적 판단이 개입되었을 가능성이 시장에서 제기되고 있다.\n- **Q. 엔비디아의 8%대 폭락이 반도체 산업 전반의 위기로 전이될 가능성은 어떠한가?**\n  A. 다른 반도체주들은 일제히 반등하며 엔비디아와 디커플링되는 모습을 보였으므로 산업 전체의 위기보다는 엔비디아 특유의 개별 리스크로 한정되는 양상이다.\n\n**👀 앞으로 볼 포인트**\n- 엔비디아 이사회의 CEO 스캔들 관련 공식 입장\n- 미국 상무부의 대중국 반도체 추가 제재 수위\n- 엔비디아 주가의 200일 이동평균선 지지 여부\n\n<sub>참고: [YTN](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Dem53VDA5blhhYUxCd2drRXFkakpBaTV6UjF6TThNRFlTcldQenFWcjlLdDQ2ZXFveWtLdU9UcGEzQmx0X3gyWFFhazVxS3lvYUEtRjlJM3RkUU9fS2c?oc=5) / [경향신문](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BQk1naXhweXc2cGNEVWJpWE1rM0ZHUEZpekh3dWp1dE5WVm5nT2hzY1ZhUjBXSUdVcnFFeW9FbkQydWdNOHpXZlkxcmlrTHNXcUF1ZERhVl9KQdIBX0FVX3lxTE1zbjdLZUZCNDJUMlRKcXFZcTY1dkNYcGt2VXM4bUpqc2RsNnhxMm82czlFVlVXUFo2ZDdxTXVvWUhfWUw0aTFkbnRkYTR2N3FxTXNUM3ZDcEVVQ0l0cmJN?oc=5) / [포커스온경제](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCTUpCZ3ctQUpCNnBPWDV0Y0w1UWNqSTRZSVJITmFRR3FvZ1pNU1RxQ1RpZDM2VGF6ckhSMEYycF9YUHNpVDR4QmVOVVpfZlRNek5WOUU5ckNBTmJ3TlE?oc=5)</sub>\n\n---\n\n### 3. 중간선거 경계감 속 기술주 반등과 코스피 회복\n> 키워드: 미국 중간선거와 증시 반등\n\n**📌 무슨 일이 있었나**\n- 미국 중간선거를 앞두고 시장의 경계감이 고조되며 뉴욕증시는 혼조세를 보였으나 반도체주 중심의 저가 매수세 유입으로 나스닥은 0.8% 상승 마감했다.\n- 국내 증시는 미국 증시의 상승세와 국제 유가 하락이라는 호재가 겹치며 코스피와 코스닥 지수가 동반 반등하는 흐름을 나타냈다.\n- 과거 중간선거 이후 증시가 상승했던 통계적 사례가 부각되면서 코스피가 4950선까지 추락할지 혹은 6700선까지 반등할지에 대한 시장의 전망이 엇갈리고 있다.\n- 투자자들은 선거 결과에 따른 정책 변화 가능성을 주시하며 대형 기술주와 에너지주 사이에서 포트폴리오를 재조정하는 관망세를 유지 중이다.\n\n**💬 핵심 Q&A**\n- **Q. 중간선거를 앞두고 시장이 혼조세를 보이면서도 나스닥이 0.8% 상승한 동력은 무엇인가?**\n  A. 선거 결과에 대한 불확실성으로 전체 지수는 정체되었으나 최근 낙폭이 과도했던 반도체 및 기술주를 중심으로 저가 매수세가 유입되며 지수 상승을 견인했다.\n- **Q. 미국 중간선거 공식이 국내 코스피 시장에도 긍정적인 영향을 미칠 것으로 보는 근거는 무엇인가?**\n  A. 역사적으로 미국 중간선거 이후 불확실성 해소와 함께 증시가 랠리를 보였던 경험적 데이터가 투자 심리를 자극하며 국내 시장의 동반 상승 기대감을 높이고 있다.\n- **Q. 유가 하락이 국내 증시 반등에 구체적으로 어떤 경로로 기여했는가?**\n  A. 에너지 비용 감소에 따른 기업의 비용 부담 완화와 인플레이션 압력 둔화 기대감이 형성되면서 외국인과 기관의 매수 심리를 개선시키는 촉매제로 작용했다.\n\n**👀 앞으로 볼 포인트**\n- 미국 중간선거 결과에 따른 의회 주도권 변화\n- 선거 이후 미중 관계 및 공급망 정책 방향\n- 국제 유가 추이에 따른 국내 증시 추가 반등 여부\n\n<sub>참고: [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LMDhvcGticFZVeDF5ekdHUVVZbUFLaFpfdVUxV0dtWFdLTkx3bEl2RTlBSS1HWE9SaVd4Rjg4cHhuRTd0djZzSnBPTDY2VUdqVlFNWE40eXZ4c2lZakcxeWgzVUszSjg?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wckpvQjNMMWZBNWJDYVQ1Skh6X3c4R2lWbU5ReVkxcTd4dUlkSllMSjVKczhrVkczWHFuVXVzVHl5YkFXa3Z5S0gzV1kwdWN3SlAtdldUbzV2ZlnSAWBBVV95cUxPUVNmQnFtUzN4cnY0VkFqZDNkOXZnSnZuYmJpbHMwSEhRV29Db0lCbjV6VVFxWE42R1hiWjBiMTg5VFdYREp0c04zaG9Ddm8zeGpmU3NwN2hSMlhSZXVPRU0?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iZzhVV0hmTTVQWjlQNjhhVGFLc1ZRbC1SRFdtelZPYi1SMHRVRGE2eHh4RW9WbDdRUGFkM1FMa1pjWjMydXprRkFJYjl2dTBwTW05YnJ0cHgxMEnSAWBBVV95cUxONlBLN2JPUG1MXzhsUkNhZ2VkNXRwS1Etc3h2eXVZQW96ZlF5S2NEQzFVbVlUdlQtYklYMXpLVzN4NTNMSjFJZHB4cEZpX0Z6eHdjeFNmVkFxeVJiN0MxVkQ?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 보도를 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
     "generation_mode": "gemini"
   },
-  "updated_at": "2026-11-11 12:53:04 KST"
+  "updated_at": "2026-11-11 17:17:14 KST"
 }
