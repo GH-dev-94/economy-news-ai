@@ -5,199 +5,196 @@
     "end_date": "2026-11-12",
     "domestic": {
       "keywords": [
-        "코스닥 급등과 사이드카 발동",
-        "대중 반도체 봉쇄 강화",
+        "코스피 코스닥 급등",
+        "AI 데이터센터 구축",
         "기업 3분기 실적 발표"
       ],
       "results": {
-        "코스닥 급등과 사이드카 발동": {
-          "headline": "코스닥 이틀 연속 매수 사이드카 발동",
+        "코스피 코스닥 급등": {
+          "headline": "미 긴축 우려 속 코스닥 5%대 급등 및 700선 회복",
           "facts": [
-            "코스닥 지수가 4%대 급등하며 전날에 이어 이틀 연속으로 프로그램 매수 호가 효력을 일시 정지하는 매수 사이드카가 발동되었다.",
-            "마감 시황 기준 코스피는 2.6%, 코스닥은 5.6% 상승하며 미국발 긴축 우려를 딛고 동반 반등에 성공하는 모습을 보였다.",
-            "최근 급락장에서 코스닥 신용잔고가 1.1조 원가량 증발하며 빚투 물량이 대거 정리된 것이 오히려 반등의 발판이 되었다는 분석이다.",
-            "정부는 오는 13일 한국거래소에서 자본시장 간담회를 개최하고 코스닥 시장 활성화를 위한 구체적인 대책을 논의할 예정이다."
+            "미국 연준의 고금리 긴축 지속과 기준금리 빅스텝 우려라는 거시경제적 악재에도 불구하고 국내 코스피 지수가 2.6% 상승하며 5375선으로 장을 강세 마감했다.",
+            "코스닥 지수는 이틀 연속 폭등세를 나타내며 하루 만에 5.6% 급등하는 기염을 토했고 지수 700선을 단숨에 회복하며 가파른 주가 회복 흐름을 증시에서 보여주었다.",
+            "글로벌 물가 상승과 미 연준의 금리 인상 공포가 증시 상단을 압박했으나 삼성전자와 SK하이닉스 등 시가총액 상위 대형 반도체주 주도의 매수세가 지수 상승을 견인했다.",
+            "코스닥 시장에서는 외국인과 기관 투자가들의 대규모 동반 순매수세가 유입되면서 5%대 급등세를 견인하였으며 위축되었던 투자 심리가 급격하게 개선되는 모습을 보였다."
           ],
           "watch": [
-            "13일 정부 자본시장 간담회 발표 대책",
-            "신용잔고 재유입 여부와 외국인 수급 변화",
-            "미국 금리 인상 우려에 따른 지수 변동성"
+            "코스닥 700선 안착 여부 및 외국인 순매수 지속성",
+            "미국 물가지수 발표 이후 원/달러 환율 변동성"
           ],
           "qna": [
             {
-              "q": "이틀 연속 매수 사이드카가 발동된 시장의 기술적 배경은 무엇인가?",
-              "a": "지난주 과도한 투매로 인해 지수가 저평가 영역에 진입한 상태에서 미국발 긴축 우려가 일부 해소되자 저가 매수세가 강력하게 유입되었다. 특히 프로그램 매수세가 집중되면서 지수 변동폭이 커져 사이드카 발동 조건인 4% 이상의 상승세가 유지되었다."
+              "q": "미국 연준의 빅스텝 우려에도 불구하고 코스닥이 5% 이상 급등한 주요 동력은 무엇인가?",
+              "a": "미국발 금리 악재가 시장에 이미 선반영되었다는 인식이 확산된 가운데 반도체 및 대형 기술주를 중심으로 반가운 저가 매수세가 유입되었다. 특히 이틀 연속 이어진 기술적 반등과 기관의 동반 매수세가 지수를 700선 위로 끌어올렸다."
             },
             {
-              "q": "신용잔고 1.1조 원 증발이 이번 급등장에 어떤 영향을 미쳤는가?",
-              "a": "급락장에서 담보 부족으로 인한 반대매매가 대거 실행되며 시장의 잠재적 매도 압력이 상당 부분 해소되는 과정을 거쳤다. 가벼워진 수급 구조 덕분에 적은 매수세로도 지수가 탄력적으로 상승할 수 있는 환경이 조성된 것으로 분석된다."
+              "q": "코스피와 코스닥 지수의 급등세가 국내 금융 시장 전반에 미치는 파급 효과는 어떠한가?",
+              "a": "주식 시장의 강세는 원/달러 환율 상승 압력을 일부 완화하고 투자 심리를 크게 개선하는 효과를 가져온다. 다만 국채 금리가 오름세를 보이는 등 채권 시장 변동성이 남아있어 금융권 유동성의 균형 여부가 관건이다."
             },
             {
-              "q": "정부의 13일 간담회에서 코스닥 시장을 위해 논의될 핵심 쟁점은 무엇인가?",
-              "a": "최근 롤러코스터 장세를 보인 코스닥 시장의 안정화 방안과 함께 자본시장 체질 개선을 위한 대책이 중점적으로 다뤄질 전망이다. 시장에서는 상장사 밸류업 지원이나 투자자 보호를 위한 제도적 장치 마련 여부에 주목하고 있다."
+              "q": "향후 국내 증시가 지속적인 상승 국면으로 진입하기 위한 주요 분기점은 무엇인가?",
+              "a": "미 연준의 실제 금리 결정 방향과 후속 통화정책 발언이 시장 기대를 뒷받침해 주어야 한다. 또한 외국인 투자가의 자금 유입 지속 여부와 대형 IT 기업들의 4분기 실적 개선세가 수반되는지가 지수 추가 상승의 핵심 지표이다."
             }
           ]
         },
-        "대중 반도체 봉쇄 강화": {
-          "headline": "트럼프발 대중 반도체 봉쇄 고삐 강화",
+        "AI 데이터센터 구축": {
+          "headline": "GS·포스코 AI 데이터센터 혈맹…국가 경쟁력 10위 진입",
           "facts": [
-            "미국 트럼프 행정부가 젠슨 황 엔비디아 CEO의 발언 이후 대중 반도체 봉쇄 조치를 더욱 강화하며 수출 규제 압박을 높이고 있다.",
-            "미국발 긴축 우려에도 불구하고 반도체주가 코스피 상승을 견인하며 SK하이닉스는 장중 7%대 강세를 기록했다.",
-            "나스닥 시장에서도 AI와 반도체 관련주가 급등하며 한국 경제의 반도체 편중 현상에 대한 엄중한 인식이 필요하다는 지적이 제기되었다.",
-            "두산에너빌리티는 협력사와의 상생 강화를 통해 동반성장 최우수 명예기업으로 선정되며 공급망 안정화에 주력하고 있다."
+            "GS그룹과 포스코그룹이 초대형 AI 데이터센터 구축을 위한 인프라 및 철강 분야의 글로벌 사업 협력을 공식 체결하며 글로벌 시장 정조준에 나섰다.",
+            "정부가 내년부터 피지컬 AI 핵심부품 3종 개발을 본격화하며 관련 인프라 구축 및 기술 육성 정책 추진을 국가 차원에서 가속화하기로 발표했다.",
+            "한국의 디지털 및 AI 글로벌 경쟁력 순위가 1년 만에 8계단이나 대폭 상승하며 세계 10위에 진입하는 성과를 거두었음이 확인되었다.",
+            "한미약품과 대웅제약 등 주요 제약업계도 AI 기술을 신약 개발과 분자 적응증 예측 과정에 적극 도입하여 미래 헬스케어 인프라를 확장하고 있다."
           ],
           "watch": [
-            "미국 정부의 추가 대중 반도체 수출 통제안",
-            "SK하이닉스 및 삼성전자 주가 반등 지속성",
-            "국내 반도체 산업의 수출 다변화 전략"
+            "GS·포스코 데이터센터 인프라 착공 및 수주 성과",
+            "정부 추진 피지컬 AI 핵심부품 3종 개발 착수 현황"
           ],
           "qna": [
             {
-              "q": "트럼프 행정부가 대중 반도체 봉쇄를 강화하는 구체적인 이유는 무엇인가?",
-              "a": "중국이 우회 경로를 통해 엔비디아 등 미국의 첨단 AI 칩을 확보하는 것을 원천 차단하여 기술 패권을 유지하려는 목적이다. 특히 군사적 목적으로 전용될 수 있는 고성능 GPU의 중국 유입을 막기 위해 규제의 그물망을 촘촘히 하려는 의도로 풀이된다."
+              "q": "GS와 포스코가 AI 데이터센터 구축을 위해 손을 잡은 사업적 메커니즘은 무엇인가?",
+              "a": "초대형 데이터센터 건설에는 고품질 철강재와 안정적인 에너지·건설 인프라 공급이 필수적이다. 포스코의 소재 기술력과 GS의 인프라 시공 및 운영 노하우를 결합하여 글로벌 AI 인프라 시장을 선점하려는 전략이다."
             },
             {
-              "q": "반도체 업종에 편중된 한국 경제 구조가 증시 조정기에 위험한 이유는 무엇인가?",
-              "a": "한국 증시에서 반도체 섹터가 차지하는 비중이 압도적으로 높아 글로벌 공급망 이슈나 미중 갈등 발생 시 지수 전체가 흔들리는 취약성을 갖기 때문이다. 특정 산업의 업황에 따라 국가 경제 전체의 변동성이 극대화되는 리스크가 존재한다."
+              "q": "AI 데이터센터 확충이 헬스케어 및 제조 등 타 산업에 미치는 연쇄 영향은 어떠한가?",
+              "a": "고성능 연산 인프라가 확보됨에 따라 제약사의 신약 적응증 예측 능력이 획기적으로 늘어나 개발 기간이 단축된다. 동시에 로봇과 기계 시스템에 적용되는 피지컬 AI 기술 개발이 탄력을 받아 제조업 전반의 생산성을 제고한다."
             },
             {
-              "q": "AI 반도체 수요가 거시경제의 긴축 우려를 상쇄하는 메커니즘은 무엇인가?",
-              "a": "고금리 상황에서도 AI 산업의 성장성이 실질적인 기업 실적으로 증명되면서 투자자들이 금리 지표보다 실적 가이드라인에 더 민감하게 반응하기 때문이다. 코어위브와 같은 기업의 호실적이 AI 투심을 자극하며 반도체주 전반의 매수세를 유도하고 있다."
+              "q": "한국의 AI 경쟁력 세계 10위 진입이 향후 인프라 시장 성장의 분기점이 될 수 있는가?",
+              "a": "국가 차원의 디지털 역량 향상은 해외 빅테크 기업들의 국내 데이터센터 투자 유치에 강한 유인책으로 작용한다. 인프라 구축 비용 절감과 관련 대장주들의 글로벌 진출 성과가 향후 시장 확장의 핵심 평가 기준이 될 것이다."
             }
           ]
         },
         "기업 3분기 실적 발표": {
-          "headline": "3분기 실적 발표 본격화와 업종별 희비",
+          "headline": "엔씨 흑자전환·동원 10% 성장…3분기 기업 실적 희비",
           "facts": [
-            "롯데웰푸드는 해외 사업 호조에 힘입어 3분기 영업이익 899억 원을 기록하며 견조한 성장세를 나타냈다.",
-            "동원그룹은 B2B 부문과 수출 성장을 바탕으로 3분기 누적 영업이익 4,473억 원을 달성하며 전년 대비 10% 성장했다.",
-            "메리츠금융은 보험과 증권 부문의 실적이 엇갈리며 3분기 누적 순이익이 전년 대비 3.2% 소폭 감소했다.",
-            "한화손해보험은 보험손익이 3배 수준으로 급증하며 3분기 순이익이 전년 동기 대비 34% 증가하는 성과를 거뒀다."
+            "엔씨소프트가 3분기 영업이익 1196억 원을 기록하며 흑자전환에 성공하고 매출이 전년 동기 대비 91%나 대폭 증가하는 대형 호실적을 달성했다.",
+            "메리츠금융지주는 3분기 누적 순이익이 3.2% 소폭 감소하였으나 보험과 증권 부문 간 실적이 엇갈리는 희비 교차 양상을 나타냈다.",
+            "한화손해보험은 3분기 순이익이 34% 증가하였으며 특히 핵심 지표인 보험손익 부문에서는 전년 대비 3배 수준의 괄목할 만한 성장을 이뤘다.",
+            "동원그룹은 B2B 사업 확대와 수출 호조에 힘입어 3분기 누적 영업이익 4473억 원을 기록하며 전년 대비 10% 이상의 안정적인 성장을 이끌어냈다."
           ],
           "watch": [
-            "주요 대기업의 해외 매출 비중 변화 추이",
-            "금융권 내 보험 및 증권 부문 수익성 차별화",
-            "수출 중심 기업들의 4분기 실적 가이드라인"
+            "엔씨소프트 신작 흥행에 따른 4분기 실적 유지 여부",
+            "금리 변동에 따른 금융·보험사들의 4분기 건전성 지표"
           ],
           "qna": [
             {
-              "q": "롯데웰푸드와 동원그룹 실적에서 공통적으로 나타난 성장 동력은 무엇인가?",
-              "a": "내수 시장의 한계를 극복하기 위해 추진한 해외 사업 확대와 B2B 채널 강화가 실적 성장의 핵심 동력으로 작용했다. 특히 글로벌 시장에서의 브랜드 인지도 상승과 수출 물량 증가가 영업이익 개선에 직접적인 기여를 했다."
+              "q": "엔씨소프트가 3분기 영업이익 1196억 원을 기록하며 흑자전환한 주요 배경은 무엇인가?",
+              "a": "매출이 전년 대비 91%나 대폭 증가하면서 고정비 부담이 대폭 상쇄되는 영업 레버리지 효과가 나타났다. 그동안 추진해 온 비용 효율화 작업과 신규 라이브 서비스의 매출 반영이 실적 반등을 이끌었다."
             },
             {
-              "q": "메리츠금융의 누적 순이익이 감소한 결정적인 원인은 무엇인가?",
-              "a": "보험 부문의 견조한 실적에도 불구하고 증권 부문이 시장 변동성 확대와 거래 대금 변화 등의 영향으로 수익성이 둔화되었기 때문이다. 금융지주 내 계열사 간 실적 상쇄 효과가 발생하며 전체 순이익이 소폭 하락하는 결과로 이어졌다."
+              "q": "동원그룹과 한화손해보험의 호실적이 각 산업 밸류체인에 가져다주는 시사점은 무엇인가?",
+              "a": "동원그룹은 글로벌 B2B 공급망과 수출 확대를 통해 내수 침체를 극복할 수 있음을 입증했다. 한화손해보험은 손해율 관리와 보험손익 3배 증가를 통해 금융권 내 영업 체질 개선의 모범 사례를 보여주었다."
             },
             {
-              "q": "한화손해보험의 보험손익이 3배나 급증할 수 있었던 배경은 무엇인가?",
-              "a": "효율적인 손해율 관리와 더불어 고수익성 보장성 보험 판매가 확대되면서 본업인 보험 인수 부문에서 이익이 극대화되었다. 이는 자산운용 수익에 의존하기보다 보험 본연의 경쟁력을 강화한 결과로 분석된다."
+              "q": "기업들의 3분기 실적 발표 이후 주가 향방을 결정짓는 분기점은 무엇인가?",
+              "a": "일회성 흑자전환에 그치지 않고 지속 가능한 매출 성장 동력을 확보했는지가 핵심 기준이다. 환율 변동과 미국 금리 향방 등 외생 변수 속에서 4분기 영업이익 가이던스를 충족하는지 여부가 주가 향방을 가를 전망이다."
             }
           ]
         }
       },
       "news": {
-        "코스닥 급등과 사이드카 발동": [
+        "코스피 코스닥 급등": [
           {
-            "title": "코스닥 4%대 급등에 이틀 연속 '매수 사이드카' 발동 - MBC 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YV3hHUzMxR0p3TVBPUk5OR0VFbmZYLU1HNHJySGQ0bURnS1Z4RzJnWVpKOXdfVnZfWGZtT1BEYUtYdkIzMkpDdzZ4b2V5ODhJbjB4SVZwY2x6WE52T1JFcm1IdlhFLWN0X1JsYWZkSzBjQzNW0gF0QVVfeXFMTmNnTktYaTdTV01reUgta0xPcHVXRWxqY0tLMEg3Vkk1Mjh6MzBLLXZqbHhYOVpWeHAyWmFqRXJsU3FKUERiclljWmFkUXN0UldrUjFOYkM4YzdFYXRMMEh6eDFwdU9qbFV3dksyckw2Rmw0MUI?oc=5",
+            "title": "미 물가·금리 우려에도 코스피 2.6% 상승…코스닥 5.6% 급등 - 한겨레",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWSUptUmhwaF9ZcWdiNVRBQnV2REtiYk1HcmUzZ0F3bzZsN1NtblE0X2RfZG4zeE9sSGNJdjBXOW9BSTllekhYc0VlS1JKeG5DTkJRZ1lpbVFhaXFWNTBmWlo0Vmk1REM4WENoWHAwb0lYdw?oc=5",
+            "source": "한겨레",
+            "published": "11-11 16:19",
+            "snippet": "미 물가·금리 우려에도 코스피 2.6% 상승…코스닥 5.6% 급등 한겨레 \"반도체 초호황은 위장된 저주다\"… 요동치는 시장서 살아남을 '7대 3' 생존법 네이버페이 머니스토리 美빅스텝 우려에도 급등‥코스피 2.6%·코스닥 5.6%↑ MBC 뉴스 삼전·닉스, 코어위브·앤트로픽발 훈풍에 3∼5%대 급등 마감(종합) 연합뉴스 'AI 겹호재'에 K반도체주 솟구쳤다…앤트로픽 상장·옵션만기 '분수령' - 머니투데이 머니투데이"
+          },
+          {
+            "title": "코스피, 美 긴축 우려에도 강세…코스닥 5% 급등 - 연합뉴스TV",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrdmVtNzNvOWlEZ0tnYm9OcXlidHAxdW5hWDNIeDZDWWJtTGMxWE4zS2tBTks0enljZXhIYkJPa1ZSay1hdjBWMWZfa2NodXhlODgyc2NnWmhEQmtKZnZKaFNnVmVMVFk?oc=5",
+            "source": "연합뉴스TV",
+            "published": "11-11 20:51",
+            "snippet": "코스피, 美 긴축 우려에도 강세…코스닥 5% 급등 연합뉴스TV"
+          },
+          {
+            "title": "코스피 2.6% 오른 5375선 마감…코스닥 이틀 연속 급등해 700선 회복 - 전자신문",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZSjAtVlYzM2NpODZxdHpxLWUzWDZVNjV2WU9NZF9aV2tmdFp1V1gzblJwNnNURFpGazg4T0VSVkxDUFMtTGVTTENxWVFoQQ?oc=5",
+            "source": "전자신문",
+            "published": "11-11 16:09",
+            "snippet": "코스피 2.6% 오른 5375선 마감…코스닥 이틀 연속 급등해 700선 회복 전자신문"
+          },
+          {
+            "title": "美빅스텝 우려에도 급등‥코스피 2.6%·코스닥 5.6%↑ - MBC 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56QUxuYTVvNEFqXzlNdjJGa0xpbHVGSHVoMk9sNlhKaDRvOHE1S0xnd1pMWFpIS3BidlN6UTNEYlBkYllFRDNLZGJMWVRBWW40eTgyZkpmU2pXdExqSE9INjVmcWRwWjZoemNacG9fb204R3Zm0gF0QVVfeXFMTkpGSWJQX0VXY085YkRWQ1VpaFpWM2Z0RVpHd2I1M0c4T0RBMUN3QVQyVUw3V25pdE5pVk5TSjUxTlJ5cW5vM2xGMm5DVnJjMURucGhmU2M1OG9uT2c1Z1R1d2IwWXgtSmxhRXRkd25xYXFOMl8?oc=5",
             "source": "MBC 뉴스",
-            "published": "11-11 11:32",
-            "snippet": "코스닥 4%대 급등에 이틀 연속 '매수 사이드카' 발동 MBC 뉴스 美빅스텝 우려에도 급등‥코스피 2.6%·코스닥 5.6%↑ MBC 뉴스 \"반도체 초호황은 위장된 저주다\"… 요동치는 시장서 살아남을 '7대 3' 생존법 네이버페이 머니스토리 'AI 겹호재'에 K반도체주 솟구쳤다…앤트로픽 상장·옵션만기 '분수령' - 머니투데이 머니투데이 삼전·닉스, 코어위브·앤트로픽발 훈풍에 3∼5%대 급등 마감(종합) 연합뉴스"
+            "published": "11-11 15:55",
+            "snippet": "美빅스텝 우려에도 급등‥코스피 2.6%·코스닥 5.6%↑ MBC 뉴스"
           },
           {
-            "title": "지난주엔 투매, 이번 주엔 사이드카…코스닥 롤러코스터, 지금 타도 될까 - Investing.com 한국어",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hSFZ3LWZPMnB0UzJXcHh4dFlGNDA3ZFJOcTZHeFk0QTg1d0tweWRkM2FiTFFTM1B2dS1QSTN0bHZFOXg0QUNGaVdEMlRlQUZuS3lfMFRSOGdVZUVPZDdjWV9uUnFhdkNQZkktemhVUTk?oc=5",
-            "source": "Investing.com 한국어",
-            "published": "11-11 17:37",
-            "snippet": "지난주엔 투매, 이번 주엔 사이드카…코스닥 롤러코스터, 지금 타도 될까 Investing.com 한국어"
+            "title": "코스피, 美 빅스텝 우려에도 연이틀 상승 마감…코스닥도 5%대 급등 - 더나은미래",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MaVR5MURqMjhtTXRIbzZhTGo1Skg0SEw0cE5HaWcxMm15YmFzSFNiSnowcnhyR2V3YVNCaVJSUU1QS3lxRFluZ3RaVFd4TEVaNHc?oc=5",
+            "source": "더나은미래",
+            "published": "11-11 16:57",
+            "snippet": "코스피, 美 빅스텝 우려에도 연이틀 상승 마감…코스닥도 5%대 급등 더나은미래"
           },
           {
-            "title": "[마감시황] 코스피 2.6%·코스닥 5.6%↑…코스닥 연속 매수 사이드카 - 뉴스핌",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kM2VzcjR3U1BtSW9jV0JjMk9tdzNpUFdKaG1QblVBSzhra2dER2N2a2dVeWJobFpiYVFhSGpkdU9pckhXTE4zSzFDRVJpQjdISG5pYzZUQS13ZVlC?oc=5",
-            "source": "뉴스핌",
-            "published": "11-11 16:04",
-            "snippet": "[마감시황] 코스피 2.6%·코스닥 5.6%↑…코스닥 연속 매수 사이드카 뉴스핌"
-          },
-          {
-            "title": "[증시-마감] 코스피, 美 긴축우려 딛고 반등…코스닥 이틀째 사이드카 - KB Think",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVLXV0bWNUZXBESXRuYi12RlBiQWJWQ2lVZmVKZ3ZHcE5ycnVVQUkwWUxsNHhKU3JHUzlWUzYzaFdFQkVQcEozaDN5dEdlRlRmbm1PSnY2VlB6aU9VdTFmYTh0X3c5Mkp4ZlVVbkhuWjFHQQ?oc=5",
-            "source": "KB Think",
-            "published": "11-11 16:11",
-            "snippet": "[증시-마감] 코스피, 美 긴축우려 딛고 반등…코스닥 이틀째 사이드카 KB Think"
-          },
-          {
-            "title": "코스닥 빚투부터 무너졌다…급락장에 신용잔고 1.1조 증발 By EBN - Investing.com 한국어",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oRjExYTR1UGNMTE9TNlNFLWZxZnU5STRlTmJvNlFyYnJmMWlpLXFfcS02Y3FQc21mOWdWZkphaUVBR1dnX2oyb3VXUm5HZnZ3RnhBeTdnX0NfbEpIYXM4UlhNdjVPb2V1T2pTdlNMajE?oc=5",
-            "source": "Investing.com 한국어",
-            "published": "11-11 11:11",
-            "snippet": "코스닥 빚투부터 무너졌다…급락장에 신용잔고 1.1조 증발 By EBN Investing.com 한국어 증시대기자금·빚투 올들어 최저…반대매매 600억대로↑ 연합뉴스 \"빚내서 주식했다가 망했다\"…하루 만에 '379억' 강제처분 이데일리 [광화문]'베팅의 민족'에 날아든 청구서 - 머니투데이 머니투데이 반대매매 유예에도 강제청산 5배나 늘었다…빚투 개미들 '비명' 뉴시스"
-          },
-          {
-            "title": "[단독]정부, 13일 거래소서 자본시장 간담회...코스닥 대책 주목 - 비즈워치",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXaDZTcTdfZjhVOGcwNGNvcjJ3V3o4MHp2dDRqUWlZVnk4alBVN1NUaEFyb1NGOEJvVzRTVGUwbFpWMHpnclpLdFJ6VmxFVnJ1SFFENUNmay0zZERIMEtjRC1Ka2tMZnVKZnc?oc=5",
-            "source": "비즈워치",
-            "published": "11-11 16:28",
-            "snippet": "[단독]정부, 13일 거래소서 자본시장 간담회...코스닥 대책 주목 비즈워치"
+            "title": "코스피, 미 긴축 우려에도 상승…코스닥 5% 급등 - 연합뉴스TV",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QcVZ5WGMxdlQtQXhCTkktYy1pUjlncTBLUGNxa19TVmw3QUFpcVJGQlpXMXAtQ3gzNTdDeWp5YTVOUDZqMEpnTkd4TFdEbzJ6NTBYbkJ4Q19PTC1nYWFxVUFmOERzM2M?oc=5",
+            "source": "연합뉴스TV",
+            "published": "11-11 18:14",
+            "snippet": "코스피, 미 긴축 우려에도 상승…코스닥 5% 급등 연합뉴스TV"
           }
         ],
-        "대중 반도체 봉쇄 강화": [
+        "AI 데이터센터 구축": [
           {
-            "title": "젠슨 황 후폭풍… ‘對中 반도체 봉쇄’ 고삐 죄는 트럼프 - 조선일보",
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQd1hscEtYZHhQTlc4ZnQ2bUR1aFFzaFlHV2VNMDVMMnRkR2tDa2V0TTJPY0tha3lUOVkzU0N2TUtlNUQ3TDZySV83UHluZkszSUxONlItbGF4OTZVWEw2LUVoeVhfOGlpWmJfeV9JNGMzc2FLNHY2UE1kZHBmYnpYYk0xTQ?oc=5",
-            "source": "조선일보",
-            "published": "11-11 10:11",
-            "snippet": "젠슨 황 후폭풍… ‘對中 반도체 봉쇄’ 고삐 죄는 트럼프 조선일보 Google 뉴스에서 헤드라인 및 의견 더보기"
-          },
-          {
-            "title": "두산에너빌리티, 동반성장 ’최우수 명예기업’ 선정…협력사 상생 강화 By EBN - Investing.com 한국어",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CMTlVVTM5cTZCZFVNSHRkR2x5YnU1OXBLNnIxWmxRRWcwQUs3ei1zQ1FUTWMtRngtdndBR0pKMFJrcGZXazc2dEhVbl9sWkM1UjFVS2Z2MXFuc1d6cTctek92V253RzRYcFFCdDZuWW4?oc=5",
+            "title": "GS-포스코, 초대형 AI 데이터센터 혈맹…’인프라·철강’ 글로벌 정조준 By EBN - Investing.com 한국어",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Gdk10NUI0UUpjT1ViM25XTS1maldTc3Awd3VacUFVVk9oRDFiVEVSbDFFOElERjE4U1ZMN0hESHRzeGF5RWYyajdCWl9ZT3RNcnByT2NtYURhQXV1RFQtTzEzQW9hcmtBakRMYmdrb1g?oc=5",
             "source": "Investing.com 한국어",
-            "published": "11-11 16:45",
-            "snippet": "두산에너빌리티, 동반성장 ’최우수 명예기업’ 선정…협력사 상생 강화 By EBN Investing.com 한국어 네이버·농심 등 동반성장지수 ‘최우수’ 경향신문 SKT, 14년 연속 동반성장지수 최우수 기업 달성 SK텔레콤 뉴스룸 동반성장 최우수 기업 44곳…금융 지원 넘어 ’AI·기술보호’로 상생 확대 연합뉴스TV 상생펀드에 스마트공장까지…삼성전자, 동반성장지수 15년째 '최우수' - 머니투데이 머니투데이"
+            "published": "11-11 17:16",
+            "snippet": "GS-포스코, 초대형 AI 데이터센터 혈맹…’인프라·철강’ 글로벌 정조준 By EBN Investing.com 한국어 GS·포스코, AI 데이터센터 의기투합…글로벌 시장 공동 공략 연합뉴스 GS그룹-포스코, AI데이터센터 시장공략 손잡았다 동아일보 美 데이터센터 규제 우려에 국내 건설사 수혜 기대…GS건설은 재무 부담 변수 녹색경제신문 동해시, 2.4GW AI 데이터센터 연계 지역 성장전략 모색 뉴스1"
           },
           {
-            "title": "박홍근 “증시 조정, 반도체 편중된 한국 경제에 신호…엄중히 인식” - KBS 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SN29XWGdCVmNReTNXS3o1d1ZmMHRIY1d3OEtUWnM1d1NyMDhUM3VoSzlyalJIUFJMU1I1QUpCNlRRMHFHQUVRY3VGZ09OLWo0X2lBVFVWU1luZHM?oc=5",
+            "title": "뉴욕증시, AI 투자 우려 완화에 혼조세…나스닥 1.3%↑ - Chosunbiz",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY2ZLdVNBcDZwSGtLdGxidUhsSU03MjlrbVgzWEpPbGNlSkU5cTZ0UTczcndBLVJxakEwNmJxVlFraXZCV2Y2WXVSbTNXa3didVRsM055cUpzaGJFY092MmR3bDc0X2lrcUlHaURlTHp1MWJpOUdSX2RPMzVuX1lnTm1aSmE4Y0dCZFdkMzNxYkFQSlBmdDRSaTladU9Md9IBsgFBVV95cUxQTFFWaHFzMHk2aE9EbGpUbjg1OS13TEJEcnRRdnJqcmhxaEFSQXhzcmxXXzZxaFRBWV9jR2hYY2gtdzNYUHJQZ1Z3VVVRelpkSjYyT0VpOGt0TlJaYUF3QVF3NDVtbFNuOTRnT1FjUXpmN0dzbTQ4eFlJUTA0ZGVhTkxaTTVBYmFsVlBTSkFjN1VNRmN6VzZ4VU00RHNhSjlpalRvVWhIQmZLS0M5YTVQMXlB?oc=5",
+            "source": "Chosunbiz",
+            "published": "11-12 00:29",
+            "snippet": "뉴욕증시, AI 투자 우려 완화에 혼조세…나스닥 1.3%↑ Chosunbiz 코어위브 CEO \"지분 매각계획 중단\"…깜짝실적에 20%대 주가폭등 연합뉴스 '괜히 팔았나' 깜짝 반전…하루 만에 29% 급등한 회사 정체 한국경제 코어위브, 3Q 호실적·연간 매출 전망 상향…주가 26%↑ 마켓인 AI 데이터센터 바로미터 ‘코어위브’… 깜짝 실적에도 여전한 부채 경고음 서울신문"
+          },
+          {
+            "title": "모건스탠리 \"美 중간선거 후 AI주 급락 과도…선별적 매수 기회\" - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52VDdndHdacFhfX2tWYkFUQ0JkZ2VJeTV5bWswc2ZoLW00UjNmN2F6UnljcFl6YWR6d3hQUVFvQW0yeXVLUFBJVnFwbnREdVdDUkxGMV9ZQzdsREM0ZF95bzFQYWJlT0xJSU1DMWlQTGw?oc=5",
+            "source": "연합인포맥스",
+            "published": "11-11 16:06",
+            "snippet": "모건스탠리 \"美 중간선거 후 AI주 급락 과도…선별적 매수 기회\" 연합인포맥스 한국이 데이터센터 대안으로 뜬다?…이유 봤더니 [잇슈 머니] KBS 뉴스 [이미선의 크립토ON] 주식·크립토 급락, 2018년 데자뷰 연합인포맥스 트럼프·민주 충돌에 韓 성장 'AI 변수'…수출 넘어 내수까지 파장 뉴스1 중간선거서 'AI 역풍' 맞았는데…오픈AI 의장 \"美 주도권 유지해야\" 뉴시스"
+          },
+          {
+            "title": "'피지컬 AI' 핵심부품 3종 육성한다…내년 개발 본격화 - 대한민국 정책브리핑",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05c0FWMEVnbzhteUMzbUNFd1Q1eWVVMWdFNWRBZzJoWXo0ZnNRWUNhRVU4NjdwSlJoRUkzd2VuN3ZORjVnQmMxTjhDQXU0bFpXRk1EZXVIUEdXdUhlQlRvNzBfcXRpN05lYVZfMA?oc=5",
+            "source": "대한민국 정책브리핑",
+            "published": "11-11 18:01",
+            "snippet": "'피지컬 AI' 핵심부품 3종 육성한다…내년 개발 본격화 대한민국 정책브리핑 피지컬AI '눈·근육·동력' 키운다… 초혁신경제 선도 과제 지정 - 머니투데이 머니투데이 재경부, '초혁신 프로젝트' 성과 점검…\"국민 체감토록 노력\" 연합뉴스 정부, 로봇 센서·구동장치·배터리 육성…기술개발·실증 지원 연합뉴스TV 삼현, 피지컬 AI 핵심 액추에이터 국책과제 주관기관 선정 매일경제 마켓"
+          },
+          {
+            "title": "AI로 적응증 예측하고 새로운 분자 만든다…한미약품·대웅제약이 그리는 신약개발 미래 - MEDI:GATE NEWS",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5yTllzSHYtM2dUYWRlMGFmX1E3cFhpanpobW9zWXd4V042aHpFYmhkTXpkVERvZHEwcnhpYktCYWI1YUdwWk1kSlFRMGl2WjI3YU9ySkJMSQ?oc=5",
+            "source": "MEDI:GATE NEWS",
+            "published": "11-11 07:23",
+            "snippet": "AI로 적응증 예측하고 새로운 분자 만든다…한미약품·대웅제약이 그리는 신약개발 미래 MEDI:GATE NEWS AI 신약개발, 가능성에서 성과로…\"좋은 데이터·기술 통합·현장 검증 필요\" - 머니투데이 머니투데이 구글·앤트로픽도 뛰어든 신약개발…경쟁력은 '데이터' : 네이버 블로그 Naver Blog 독성연, AI 신약개발 기술 공유…바이오기업 해외 진출 지원 데일리안 디엑스앤브이엑스, 유전체 진단 AI 기술력 신약개발로 영역 확대 매일경제 마"
+          },
+          {
+            "title": "한국, 디지털·AI 경쟁력 ‘세계 10위’…1년 새 8계단 상승 - KBS 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3WWlDQUozRUdVdUFDVkJ3ZC1OY2FVMG1GVFlzX1dybVItcEo3c2tsUzZoZ3dISEJrdmJXUnotcjF0UFJOMTdNdS1SWHV6Ui1XRGI3VktNdkUwRHc?oc=5",
             "source": "KBS 뉴스",
-            "published": "11-11 16:01",
-            "snippet": "박홍근 “증시 조정, 반도체 편중된 한국 경제에 신호…엄중히 인식” KBS 뉴스 기획처장관, 美 중간선거 이후 경제동향 점검을 위한 전문가 간담회 개최 서울Pn 박홍근 “반도체 편중 리스크 줄여야”…7대 신산업 투자 확대 전자신문 박홍근 \"최근 증시 조정은 반도체 편중 신호…산업 다변화 추진\" 연합인포맥스 발언하는 박홍근 장관 뉴스1"
-          },
-          {
-            "title": "[성공예감] 반도체 ‘Q사이클 전환’은 아직! 그럼 다음 수혜주는? – 노근창 대표(세미콘리서치랩) - KBS 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VQk9CM0lzMDViMFY2UlRKWmVEaEgzY1hpb3RpTGhqNXYzM3NMRkVDT1otTmJyZ1h3blR6ZHM4alYtM3JqWXl4UjZwTGxqRkhkU092c1JVbC1MY00?oc=5",
-            "source": "KBS 뉴스",
-            "published": "11-11 15:15",
-            "snippet": "[성공예감] 반도체 ‘Q사이클 전환’은 아직! 그럼 다음 수혜주는? – 노근창 대표(세미콘리서치랩) KBS 뉴스 11월 10일 오늘의 투자 핵심 콘텐츠! 네이버 프리미엄콘텐츠 [오늘의 이 종목] \"유영화가 짚은 AI 국면 전환의 반도체, 그리고 비만치료제 1위 일라이릴리의 다음 모멘텀\" - 머니투데이 머니투데이 \"반도체 비중 늘린 외국인, 다 판 것 아니다\"…증시 반등 시점 언제? 뉴시스 AI 데이터센터 투자 둔화 우려 '국장 투매' 진정 분위"
-          },
-          {
-            "title": "美 물가·긴축 우려 뚫은 코스피…반도체주 타고 2.60% 상승 - 인더스트리뉴스",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xS0V6azVnQTlIdXZFVWVrckJvcGV3X2ZEREU3UUIwWFZoUXhiSTFydjBKOTVUUGhNdGt6b0diY0doQXVXb3NpWVR3cE83RFdONVZUR3dyeGtVc3hEV3h4TUUtNTNSSWxUS2VDR3J6dTViQQ?oc=5",
-            "source": "인더스트리뉴스",
-            "published": "11-11 18:07",
-            "snippet": "美 물가·긴축 우려 뚫은 코스피…반도체주 타고 2.60% 상승 인더스트리뉴스"
-          },
-          {
-            "title": "미국증시 장초반 나스닥 1.53% 상승…코어위브 실적에 AI·반도체주 급등, SK하이닉스 7% 강세 - 톱스타뉴스",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aVXpMOXd5dkN1cE9UOWZNTUNub3otOTNQVkdhVFhLd3doYkRfZDJENF9JOWJXZ1d0X2hGZktheUVLMjBFV2VWaDAyNWlTdTBsYzlGc0dNVGY0dkVqZjZSMjJ6S3hXR2t3aXFRU1QzYTYxQQ?oc=5",
-            "source": "톱스타뉴스",
-            "published": "11-11 23:46",
-            "snippet": "미국증시 장초반 나스닥 1.53% 상승…코어위브 실적에 AI·반도체주 급등, SK하이닉스 7% 강세 톱스타뉴스"
+            "published": "11-11 08:01",
+            "snippet": "한국, 디지털·AI 경쟁력 ‘세계 10위’…1년 새 8계단 상승 KBS 뉴스 한국 '디지털·AI 경쟁력' 세계 10위…전년 대비 8단계 ↑ 대한민국 정책브리핑 기업 데이터 유출 대응능력 70개국중 58위 문화일보 한국, IMD 디지털·AI 경쟁력 10위… 기술 인프라·효율성 3위 Chosunbiz '기업 사이버 보안 대응' 70개국 중 48위... 작년 40위에서 하락 한국일보"
           }
         ],
         "기업 3분기 실적 발표": [
           {
-            "title": "롯데웰푸드, 3분기 영업이익 899억원…해외사업 호조 - 연합뉴스TV",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JSlgyME11YjU1dUJvSmR1cEwydF9Qc3c5a085MGNDY2VDYkZUSDl4OVNsUmp0STlmaXpxVjBCTXJvV1BGQTl1R3lvSDBzc0o0TFQzTFRrVVpMMTZOOG5KMDNTYVZmTTA?oc=5",
-            "source": "연합뉴스TV",
-            "published": "11-11 15:00",
-            "snippet": "롯데웰푸드, 3분기 영업이익 899억원…해외사업 호조 연합뉴스TV 롯데웰푸드, 해외 시장 고성장 실적 견인…3Q 영업익 899억·29.7%↑(종합) 뉴시스 인도·카자흐서 '훨훨'…롯데웰푸드, 3Q 해외 영업이익 138%↑ - 머니투데이 머니투데이 롯데웰푸드, 3분기 영업익 29.7%↑…인도·카자흐스탄이 견인 전자신문 롯데웰푸드, 3분기 영업익 29.7% 증가⋯ “해외사업 호조” 브릿지경제"
+            "title": "엔씨, 3분기 영업익 1196억원 '흑자전환'…매출 91% 증가 - 지디넷코리아",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JTXprVmdOS0NEelA4cFZfWEF3dlBGRE94MzVUQUlFQ3ZSQWNQcHhZX05oM1RtNlllOW9aVWZQYjdEWmotSzgzZE1xcVNjT21jTFNyRGtB?oc=5",
+            "source": "지디넷코리아",
+            "published": "11-11 14:50",
+            "snippet": "엔씨, 3분기 영업익 1196억원 '흑자전환'…매출 91% 증가 지디넷코리아 엔씨, MMORPG 성과에 3분기 흑자전환…연매출 목표 조기달성(종합2보) 연합뉴스 [컨콜]박병무 엔씨 대표 \"'아스트라에 오라티오' 내년 1분기 출시 전망\" 뉴시스 엔씨 “아이온2, TL보다 결제·핵심 이용자 유지율 높아” [엔씨 컨콜] IT조선 엔씨 글로벌 성장·위메이드 흑자 전환…네오위즈는 실적 부진 아시아투데이"
           },
           {
             "title": "메리츠금융 3분기 누적 순익 3.2%↓…보험·증권 ’희비’ - 연합뉴스TV",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5waUFWT1pmN01DZjI4cEp1a2xEcWZMM3ltalJMdHkxR3FPaWFGWlRUak9zRkZ1N1NXLW5wN0VxQk9iTzlaUlJmN1BZS3lsZmFtd2J4akhoaTk1R3pvRnJ0MUpRSzdEdEE?oc=5",
             "source": "연합뉴스TV",
             "published": "11-11 18:11",
-            "snippet": "메리츠금융 3분기 누적 순익 3.2%↓…보험·증권 ’희비’ 연합뉴스TV 메리츠증권 3분기 영업이익 1천400억원…작년 동기 대비 44.7%↓ 연합뉴스 ‘1.9조 순익’ 메리츠금융지주...높은 수익성에도 ‘투자손익’ 부담 에너지경제신문 메리츠금융 3분기 순이익 26.6% 줄어, 메리츠화재 투자손익 급감 비즈니스포스트 메리츠화재, 보험손익 선방에도 투자손익 부진…3분기 순익 6.8% 감소 - 머니투데이 머니투데이"
+            "snippet": "메리츠금융 3분기 누적 순익 3.2%↓…보험·증권 ’희비’ 연합뉴스TV 메리츠금융, 3분기 누적 순익 1조9천621억원…3.2%↓(종합) 연합뉴스 김용범 \"향후 3년 증권 이익 성장 확대…화재와 선의의 경쟁\"[IR종합] 뉴스1 메리츠금융 3분기 순이익 26.6% 줄어, 메리츠화재 투자손익 급감 비즈니스포스트 메리츠화재, 보험손익 선방에도 투자손익 부진…3분기 순익 6.8% 감소 - 머니투데이 머니투데이"
           },
           {
             "title": "한화손보, 3분기 순익 34%↑…보험손익은 3배 수준 - 연합뉴스TV",
@@ -221,23 +218,34 @@
             "snippet": "뉴욕증시, 코어위브 실적 소화하며 혼조 출발 연합인포맥스"
           },
           {
-            "title": "[뉴욕증시]코어위브 실적 호조에 나스닥 1.2% 상승 - 아시아경제",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JQ2FtLWd2eERTYVlMQWhFd1VBM3lacHFkXy1QTU5LTF9idUNjbS1vSmwwMU90aVNzUmJQejFhMTBBV3M5cnB6OHlIUldLY1JocGJ5U0c0ZTNkc0E5M2JBWQ?oc=5",
-            "source": "아시아경제",
-            "published": "11-12 00:22",
-            "snippet": "[뉴욕증시]코어위브 실적 호조에 나스닥 1.2% 상승 아시아경제"
+            "title": "뉴욕증시, 코어위브 호실적에 기술주 중심 반등…S&P·나스닥 상승 출발 - 파이낸셜뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xOXJMdFktRzlJa2VxLVZ3UUJLZ00wZWRXc212OTBXb1FPY1J6VTNKd0MtY0ZqOWNDNi0yamZkbWM3UXlHNkh2aDVPa2p4eU1sVkhZOVlIeXNTQQ?oc=5",
+            "source": "파이낸셜뉴스",
+            "published": "11-12 00:23",
+            "snippet": "뉴욕증시, 코어위브 호실적에 기술주 중심 반등…S&P·나스닥 상승 출발 파이낸셜뉴스"
           }
         ]
       },
       "queries": {
-        "코스닥 급등과 사이드카 발동": [],
-        "대중 반도체 봉쇄 강화": [
-          "대중 반도체 규제",
-          "대중 반도체 제재",
-          "대중 반도체 수출",
-          "대중 반도체 수출 규제",
-          "대중 반도체 수출통제",
-          "미국 대중 반도체 규제"
+        "코스피 코스닥 급등": [
+          "코스피 코스닥 지수",
+          "코스피 코스닥",
+          "코스피 코스닥 차이",
+          "코스피 코스닥 주가",
+          "코스피 코스닥 나스닥 차이",
+          "코스피 코스닥 지수 실시간",
+          "코스피 코스닥 지수 의미",
+          "코스피 코스닥 지수 차트"
+        ],
+        "AI 데이터센터 구축": [
+          "ai 데이터센터 구축 비용",
+          "ai 데이터센터 구축",
+          "ai 데이터센터 구축을 위한 기획보고서",
+          "ai 데이터센터 구축 계획",
+          "ai 데이터센터 구축 사업",
+          "ai 데이터센터",
+          "ai 데이터센터 관련주 미국",
+          "ai 데이터센터 대장주"
         ],
         "기업 3분기 실적 발표": [
           "기업 3분기 실적 발표일",
@@ -247,125 +255,101 @@
     },
     "global": {
       "keywords": [
-        "연준 빅스텝 인상 우려",
-        "코어위브 호실적과 증시 반등",
-        "엔비디아 주가 급락세"
+        "미 연준 빅스텝 우려",
+        "코어위브 실적 호조",
+        "엔비디아 주가 급락"
       ],
       "results": {
-        "연준 빅스텝 인상 우려": {
-          "headline": "연준 빅스텝 우려에 글로벌 채권시장 요동",
+        "미 연준 빅스텝 우려": {
+          "headline": "연준 빅스텝 우려에 뉴욕 증시 하락 및 국채 금리 급등",
           "facts": [
-            "미국 물가 급등과 연준 위원들의 매파적 발언으로 인해 기준금리를 한 번에 0.5%p 올리는 '빅스텝' 우려가 확산되고 있다.",
-            "금리 인상 공포에 뉴욕증시 나스닥 지수가 0.7% 하락 마감했으며 글로벌 채권시장도 큰 폭의 변동성을 보였다.",
-            "금값은 급락 후 안정세를 찾았는데 이는 연준의 금리 인상 우려를 중앙은행들의 강력한 금 수요가 상쇄했기 때문이다.",
-            "원/달러 환율은 금리 인상 우려에도 불구하고 전날보다 3.9원 내린 1,333.6원에 마감하며 비교적 안정적인 흐름을 보였다."
+            "미국 소비자물가 상승으로 인해 미 연준이 기준금리를 한번에 0.5%p 인상하는 빅스텝을 단행할 것이라는 시장 우려가 빠르게 확산되었다.",
+            "빅스텝 공포가 재점화되면서 뉴욕증시에서 나스닥 지수가 0.7% 하락하고 주요 엔비디아 등 기술주 주가가 일제히 하락세를 면치 못했다.",
+            "국내 금융시장에서는 연준의 강력한 긴축 정책 우려로 인해 국고채 3년물 금리가 연 3.729%로 급등하며 채권 시장 변동성이 크게 확대되었다.",
+            "미 연준의 매파적 기조 우려에도 불구하고 국내 증시는 삼성전자와 SK하이닉스 등 반도체 대형주들의 강세에 힘입어 상승 마감에 성공했다."
           ],
           "watch": [
-            "미국 소비자물가지수(CPI) 추가 발표 수치",
-            "연준 위원들의 50bp 인상 관련 발언 수위",
-            "원/달러 환율 1,330원대 지지 여부"
+            "미 연준 FOMC 금리 결정 및 소비자물가지수 추이",
+            "국고채 3년물 금리 변화 및 국내 시중금리 영향"
           ],
           "qna": [
             {
-              "q": "물가 급등 상황에서 연준의 매파적 발언이 시장에 즉각적인 충격을 준 이유는 무엇인가?",
-              "a": "인플레이션이 예상보다 장기화될 수 있다는 신호로 해석되면서 시장이 기대했던 금리 인하 시점이 늦춰지고 인상 폭은 커질 것이라는 공포가 반영되었기 때문이다. 이는 즉각적인 국채 금리 상승과 기술주 중심의 자산 가격 하락으로 이어졌다."
+              "q": "연준의 빅스텝 우려가 커지면서 국채 금리가 급등하는 메커니즘은 무엇인가?",
+              "a": "연준이 금리를 급격히 올릴 것이라는 전망이 퍼지면 채권 시장에서는 향후 발행될 채권의 금리가 더 높아질 것으로 예상한다. 이로 인해 기존 채권의 매력도가 떨어져 가격이 하락하고, 채권 수익률인 국채 금리는 급등하게 된다."
             },
             {
-              "q": "금리 인상 우려라는 악재 속에서도 금값이 안정세를 유지한 메커니즘은 무엇인가?",
-              "a": "통상 금리는 금값과 역상관 관계를 갖지만 각국 중앙은행들이 포트폴리오 다변화와 리스크 헤지 차원에서 금 매입을 늘리며 하방 경직성을 확보했기 때문이다. 금리 인상에 따른 기회비용 증가보다 안전자산으로서의 수요가 더 강력하게 작용했다."
+              "q": "미국 빅스텝 악재에도 국내 증시에서 반도체 대형주가 상승세를 견인할 수 있었던 이유는 무엇인가?",
+              "a": "거시경제 통화정책 악재보다 반도체 업황의 실적 개선 기대감이 더 크게 작용했기 때문이다. 코어위브 등 해외 AI 인프라 기업들의 실적 호조가 국내 메모리 반도체 공급사에 긍정적인 신호로 해석되었다."
             },
             {
-              "q": "빅스텝 우려에도 불구하고 원/달러 환율이 하락한 역설적 현상의 원인은 무엇인가?",
-              "a": "미국 금리 인상 우려가 이미 시장 가격에 상당 부분 선반영된 상태에서 국내 증시의 반등과 외국인 자금 유입이 환율 하락 압력으로 작용했기 때문이다. 또한 수출 기업들의 네고 물량 유입이 환율 상단을 제한하는 역할을 했다."
+              "q": "연준의 통화 정책 행보가 시장 충격을 완화할 분기점은 어디인가?",
+              "a": "소비자물가지수(CPI)의 상승세가 둔화되고 고용 지표가 안정을 찾아 연준의 금리 동결 명분이 마련되는 시점이다. 통화정책의 불확실성이 해소되어야 채권 금리 안정과 함께 자산 시장의 추세 반전이 일어날 수 있다."
             }
           ]
         },
-        "코어위브 호실적과 증시 반등": {
-          "headline": "코어위브 호실적에 AI 투자 심리 급반등",
+        "코어위브 실적 호조": {
+          "headline": "코어위브 실적 호조에 나스닥 1.2% 상승 및 반도체주 급등",
           "facts": [
-            "AI 인프라 기업 코어위브가 시장 예상을 뛰어넘는 실적을 발표하며 주가가 장중 15% 급등하고 나스닥 상승을 견인했다.",
-            "코어위브의 성과는 AI 산업의 수익성에 대한 의구심을 해소하며 엔비디아(4% 상승)를 포함한 AI 관련주들의 일제 반등을 이끌었다.",
-            "뉴욕증시는 물가 부담에도 불구하고 코어위브발 호재에 힘입어 기술주 중심으로 강한 매수세가 유입되며 상승 출발했다.",
-            "국내 증시에서도 코스피가 미국 긴축 우려를 딛고 반등했으며 SK하이닉스 등 반도체 대형주들이 강세를 보였다."
+            "AI 클라우드 전문 기업 코어위브가 예상치를 웃도는 호실적을 발표하면서 뉴욕증시에서 나스닥 지수가 1.2% 이상 상승 출발하는 강세를 보였다.",
+            "코어위브의 실적 반등 신호에 힘입어 엔비디아를 비롯한 미국 주요 AI 및 반도체 관련 종목들로 강한 매수세가 집중적으로 유입되었다.",
+            "코어위브 실적 수혜 영향으로 국내 증시에서도 SK하이닉스 주가가 장중 7%대 폭등세를 보이는 등 글로벌 반도체 밸류체인이 연동 반응했다.",
+            "월가 일부에서는 코어위브의 실적 개선을 긍정적으로 평가하면서도 시장의 완벽한 신뢰 회복까지는 일정 시간이 필요하다는 신중론을 제시했다."
           ],
           "watch": [
-            "AI 인프라 관련 기업들의 추가 실적 가이드라인",
-            "나스닥 지수의 전고점 탈환 및 안착 여부",
-            "엔비디아와 코어위브 간의 파트너십 확대 소식"
+            "코어위브의 4분기 설비투자(CAPEX) 집행 계획",
+            "SK하이닉스 및 메모리 반도체 업계의 HBM 공급량"
           ],
           "qna": [
             {
-              "q": "코어위브의 15% 급등이 AI 산업 전반에 미친 심리적 영향은 무엇인가?",
-              "a": "막대한 자본이 투입되는 AI 인프라 분야에서 실제적인 매출과 이익 성장이 가능하다는 것을 수치로 증명하며 'AI 거품론'을 잠재웠다. 이는 투자자들이 다시 기술주에 대한 공격적인 포지션을 취하게 만드는 결정적인 트리거가 되었다."
+              "q": "코어위브의 실적 호조가 나스닥과 한국 반도체 주가를 동시에 끌어올린 원인은 무엇인가?",
+              "a": "코어위브는 AI 데이터센터용 GPU 인프라를 제공하는 핵심 기업으로, 이들의 실적 호조는 AI 서버 수요가 여전히 견고함을 입증한다. 이에 따라 고성능 메모리인 HBM을 공급하는 SK하이닉스 등의 실적 기대감이 함께 폭발했다."
             },
             {
-              "q": "코어위브의 실적이 엔비디아 주가와 직접적으로 연동되는 이유는 무엇인가?",
-              "a": "코어위브는 엔비디아의 고성능 GPU를 대량으로 구매하여 클라우드 서비스를 제공하는 핵심 고객사이자 파트너이기 때문이다. 코어위브의 실적 호조는 곧 엔비디아 칩에 대한 강력한 수요가 지속되고 있음을 의미하는 선행 지표 역할을 한다."
+              "q": "코어위브 실적 발표가 AI 관련 밸류체인 내 기업들에 미치는 경제적 파급 효과는 어떠한가?",
+              "a": "AI 거품론으로 주춤했던 빅테크 기업들의 자본지출(CAPEX) 지속성에 대한 불안감을 해소해 주는 계기가 되었다. 클라우드 인프라 업체의 매출 증가는 칩 제조사에서 장비 및 부품 공급사로 이어지는 선순환 고리를 강화한다."
             },
             {
-              "q": "기술주 중심의 반등이 거시경제의 물가 부담을 압도할 수 있었던 분기점은 무엇인가?",
-              "a": "금리 인상이라는 매크로 악재보다 개별 기업의 혁신과 실적 성장이 더 빠를 것이라는 확신이 시장에 형성된 시점이다. 특히 AI 산업은 경기 사이클과 무관하게 구조적 성장을 이룰 것이라는 기대감이 매수세를 자극했다."
+              "q": "코어위브의 반등에도 불구하고 월가가 완벽한 신뢰 회복에 시간이 걸린다고 지목한 분기점은 무엇인가?",
+              "a": "단기적인 실적 개선을 넘어 지속적인 수주 잔고 확보와 투자 대비 수익성(ROI)이 지속 검증되어야 한다. 데이터센터 부지 확보 및 전력 수급 문제가 차질 없이 해결되는지가 향후 장기 신뢰도를 결정할 것이다."
             }
           ]
         },
-        "엔비디아 주가 급락세": {
-          "headline": "엔비디아 칩 밀반입 논란과 AI 투자 명암",
+        "엔비디아 주가 급락": {
+          "headline": "CEO 이슈 및 CPI 충격에 엔비디아 이틀간 10% 급락",
           "facts": [
-            "엔비디아 첨단 칩 24만 장이 중국으로 밀반입되었다는 의혹이 제기되었으며 그 규모는 최소 10조 원에 달하는 것으로 알려졌다.",
-            "미국 블랙리스트에 오른 중국 군 연계 대학들이 규제를 뚫고 엔비디아의 최신 H200 칩을 구매한 사실이 드러나 파장이 일고 있다.",
-            "엔비디아는 앤트로픽에 구글과 함께 13조 원 규모의 대규모 투자를 진행하며 AI 생태계 확장에 박차를 가하고 있다.",
-            "밀반입 논란과 규제 우려로 변동성이 커진 가운데 엔비디아 주가는 코어위브 호실적에 힘입어 4% 반등하며 숨을 고르는 모습이다."
+            "젠슨 황 CEO 스캔들 악재와 미국 CPI 쇼크가 동시 폭발하며 엔비디아 주가가 하루 만에 5.5% 급락하고 이틀간 10% 폭락하는 충격을 주었다.",
+            "엔비디아의 주가 급락 여파로 인해 뉴욕증시 나스닥 지수가 0.74% 하락 마감하는 등 글로벌 기술주 전반의 투매 현상이 확산되었다.",
+            "미국 정부의 블랙리스트에 오른 중국 군연계 대학이 엔비디아 H200 칩을 구매한 정황이 포착되어 대중 반도체 규제 리스크가 재점화되었다.",
+            "엔비디아 목표주가가 60% 하향 조정되는 악재가 발생했음에도 불구하고 월가 분석가의 94%는 여전히 '매수' 투자의견을 유지했다."
           ],
           "watch": [
-            "미 상무부의 대중 반도체 우회 수출 조사 결과",
-            "앤트로픽 등 AI 스타트업 투자에 따른 시너지",
-            "엔비디아의 차세대 칩 공급망 보안 강화 대책"
+            "미국 재무부 및 상무부의 대중 반도체 추가 제재 발표",
+            "엔비디아 CEO 이슈 관련 사법적 및 경영상 파장"
           ],
           "qna": [
             {
-              "q": "10조 원 규모의 엔비디아 칩 밀반입 의혹이 기업에 미칠 법적 리스크는 무엇인가?",
-              "a": "미국 정부의 수출 통제 위반 여부에 따라 막대한 벌금 부과는 물론 향후 수출 허가 절차가 더욱 까다로워질 수 있는 위험이 있다. 이는 엔비디아의 글로벌 공급망 관리 능력에 대한 신뢰도 하락으로 이어져 주가에 부정적인 영향을 줄 수 있다."
+              "q": "젠슨 황 CEO 이슈와 CPI 충격이 엔비디아 주가 폭락을 유발한 메커니즘은 무엇인가?",
+              "a": "최고경영자 개인 스캔들은 지배구조 및 브랜드 리스크를 키웠고, 고물가에 따른 연준의 금리 인상 공포가 고평가 기술주 매도세를 부추겼다. 악재가 겹치면서 투자자들의 이익 실현 매물이 한꺼번에 쏟아져 이틀간 10% 폭락을 기록했다."
             },
             {
-              "q": "엔비디아가 앤트로픽에 대규모 투자를 단행한 전략적 의도는 무엇인가?",
-              "a": "하드웨어 판매를 넘어 AI 모델 개발사와의 결속을 강화함으로써 자사 칩 중심의 소프트웨어 생태계를 공고히 하려는 포석이다. 이는 경쟁사들의 추격을 따돌리고 장기적인 수요처를 확보하는 효과를 거둘 수 있다."
+              "q": "중국 군연계 대학의 H200 구매 정황이 엔비디아의 사업 포지션에 가져다주는 리스크는 무엇인가?",
+              "a": "미국 정부의 대중 수출 통제를 우회했다는 의혹을 받게 되면 보다 엄격한 법적 제재나 조사를 받을 수 있다. 이는 엔비디아의 글로벌 칩 공급망 유통과 매출 비전에 직접적인 악영향을 미칠 가능성이 있다."
             },
             {
-              "q": "중국 대학들의 H200 구매 사실이 향후 미국의 대중 규제 수위를 어떻게 바꿀 것인가?",
-              "a": "기존의 품목별 규제를 넘어 최종 사용자(End-user)에 대한 검증을 대폭 강화하는 방향으로 규제가 진화할 가능성이 높다. 이는 반도체 유통 경로 전반에 대한 실시간 모니터링 시스템 도입 등 더 강력한 통제 장치 마련으로 이어질 전망이다."
+              "q": "목표주가 하향에도 월가 94%가 매수 의견을 유지하는 상황에서 주가 반등의 분기점은 어디인가?",
+              "a": "CEO 관련 리스크의 조기 해소와 함께 차세대 AI 칩인 블랙웰 등의 차질 없는 출하 수치가 확인되어야 한다. 독점적인 시장 지배력과 실적 성장이 입증된다면 하향된 목표주가를 넘어 회복세를 탈 것으로 전망된다."
             }
           ]
         }
       },
       "news": {
-        "연준 빅스텝 인상 우려": [
+        "미 연준 빅스텝 우려": [
           {
-            "title": "미 금리 '빅스텝' 인상 우려에도…환율 3.9원 내린 1,333.6원 - 한국무역협회-KITA.NET",
-            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdWF5cURMSkFPZVR6bm5XSnFOMzNxcHF1bUNGYVNZV1NzcmhZdnB5MkVtU1pwa2dNQUtwQWFhWlZ5V1lMeEc5d0hzT2U0ZzdHV3BaVExtSHVKVUNJMWJ2SDZ2VUJ0NVpjaUx4R0xqaThYV2ZfbFpFWklDejVxYXRqd3BQZ2paYWpMTEEwSHkyX0ZLQkctTmNac0lzbHYyZjBYRlh6X25NWjJZNVpnOE1nQlFlckFQZGV6WThtVkFWaW1CTDFxOFpiTjJraUQ4SHZoSThMUFBn?oc=5",
-            "source": "한국무역협회-KITA.NET",
-            "published": "11-11 16:25",
-            "snippet": "미 금리 '빅스텝' 인상 우려에도…환율 3.9원 내린 1,333.6원 한국무역협회-KITA.NET Google 뉴스에서 헤드라인 및 의견 더보기"
-          },
-          {
-            "title": "금값, 급락 후 안정…중앙은행 수요가 연준 금리 인상 우려 상쇄 - Investing.com 한국어",
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWdnhBdVNCQjRqcnBZb25HLTk2cGNBa056Uk44bTdUOTE0dFRoeW4ybWF5djlWaUtramo0Z3FQWVQwNDJsa2U3S0ZRUFVKdW5uOE5KM1V0cWUtVzliRUdTZEY2dTZrQkZ5bVBMb1ktaw?oc=5",
-            "source": "Investing.com 한국어",
-            "published": "11-11 09:57",
-            "snippet": "금값, 급락 후 안정…중앙은행 수요가 연준 금리 인상 우려 상쇄 Investing.com 한국어"
-          },
-          {
-            "title": "미국 물가 급등·연준 매파 발언에 글로벌 채권시장 흔들…50bp 인상 우려 - Investing.com 한국어",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TOXRmSHRodllEejlsUV9DWExqbGZMUmVqYlo1RktYLXNSRHRhVkRUVUtKYzEyS211WThJeXpMY3RjUXpNTWQ3aFVaSWY4YUk4cEdMZEw1a0NUUnk4VGM0OG93NFlsVkU?oc=5",
-            "source": "Investing.com 한국어",
-            "published": "11-11 18:10",
-            "snippet": "미국 물가 급등·연준 매파 발언에 글로벌 채권시장 흔들…50bp 인상 우려 Investing.com 한국어"
-          },
-          {
-            "title": "물가·연준 '빅스텝' 우려에 뉴욕증시 하락…나스닥 0.7%↓(종합) - 연합뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9odjVpVkR5eTJrcFZQaWdSNzViTUoxTGttTjVDRDZOT3dpNk9QLWs2TEFvZ1NXMWd3UTZqNnJGU2Z2NmJQd3pRTVM3NEhWVmJoMVNPRmZDUUQ1c0nSAWBBVV95cUxOUWJzWnJmalR2Y3pMTkczSWpUX2xianBOaG1HRURVWk9vb0YxaFdTbF85dC1aWDNCWjRMNFp2T1FrdjVtT3k5cmNhSWF0NHpQUXl4UVNEcHlKQ3lqX1RfYzk?oc=5",
-            "source": "연합뉴스",
-            "published": "11-11 07:26",
-            "snippet": "물가·연준 '빅스텝' 우려에 뉴욕증시 하락…나스닥 0.7%↓(종합) 연합뉴스"
+            "title": "美연준 빅스텝 우려에도 코스피 2%·코스닥 5%대 상승...'삼전닉스' 견인 - 티제이비",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mQ2k2ZDFLZi1PeXZjT0FWYUN5aUNjdHBzdWtMWTh2d3M4VXAzb2hVMkxzQmFxUWJjS09nZ2UwWU8yWjNuQmVtT1kxT3N1QWRTZVctOGVEeUxzYWZMU3MxTmJ3?oc=5",
+            "source": "티제이비",
+            "published": "11-11 16:02",
+            "snippet": "美연준 빅스텝 우려에도 코스피 2%·코스닥 5%대 상승...'삼전닉스' 견인 티제이비"
           },
           {
             "title": "코스피, 美연준 '빅스텝'우려에 약보합…코스닥은 2% 가까이 상승 - 연합인포맥스",
@@ -375,14 +359,49 @@
             "snippet": "코스피, 美연준 '빅스텝'우려에 약보합…코스닥은 2% 가까이 상승 연합인포맥스"
           },
           {
+            "title": "물가·연준 '빅스텝' 우려에 뉴욕증시 하락…나스닥 0.7%↓(종합) - 연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9odjVpVkR5eTJrcFZQaWdSNzViTUoxTGttTjVDRDZOT3dpNk9QLWs2TEFvZ1NXMWd3UTZqNnJGU2Z2NmJQd3pRTVM3NEhWVmJoMVNPRmZDUUQ1c0nSAWBBVV95cUxOUWJzWnJmalR2Y3pMTkczSWpUX2xianBOaG1HRURVWk9vb0YxaFdTbF85dC1aWDNCWjRMNFp2T1FrdjVtT3k5cmNhSWF0NHpQUXl4UVNEcHlKQ3lqX1RfYzk?oc=5",
+            "source": "연합뉴스",
+            "published": "11-11 07:26",
+            "snippet": "물가·연준 '빅스텝' 우려에 뉴욕증시 하락…나스닥 0.7%↓(종합) 연합뉴스"
+          },
+          {
             "title": "뉴욕증시, 연준 '빅스텝' 우려·엔비디아 급락에 하락 마감 - 뉴스핌",
             "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXd3JGN1pKdWJHOEhPRFBSZ3JsZV9IU1hOdnJ1MGphYzZtMUdKY1p1UW9NVFRSSVdvWmMzd2VMd1FIMDJRbWFxR0tnMHZJNEpoU3EwR3NDdTZSdlBM?oc=5",
             "source": "뉴스핌",
             "published": "11-11 06:23",
             "snippet": "뉴욕증시, 연준 '빅스텝' 우려·엔비디아 급락에 하락 마감 뉴스핌"
+          },
+          {
+            "title": "미 연준, 기준 금리 ‘빅스텝’ 가능성…소비자 물가는 상승 - KBS 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPcFo0NjFNS2NpRXVQeTVHcEpFSFNTWDJURnRRZzNYbkpUR1dxXzkwWVNta2tMbXJkWkNvdlVEeGhLdENsT0N1R2Y1Z0JPR1oxR1dwc05CMlJKMGM?oc=5",
+            "source": "KBS 뉴스",
+            "published": "11-12 04:18",
+            "snippet": "미 연준, 기준 금리 ‘빅스텝’ 가능성…소비자 물가는 상승 KBS 뉴스 CPI에 발목 잡힌 뉴욕증시...3대 지수 일제히 하락 네이버페이 머니스토리 [뉴스프레소] 뉴욕증시, 물가 부담에 하락…코어위브 호실적, AI 투심 되살아나나 - 머니투데이 머니투데이 美CPI·월러 발언에 월가 \"12월 인상 기정사실…전부 팔아라\" 연합인포맥스 골드만삭스, 연준 12월 금리 인상 후 3월 추가 인상 가능성 마켓인"
+          },
+          {
+            "title": "미국 '빅스텝' 우려 속 국고채 금리 급등…3년물 연 3.729%(종합) - 연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mZW9tVjBKRk9hZ21raUhNdnBYN1haLUdSUmxtX1ZaVDc1WjNHaFRnRnU2Vk1fLUhmS3BTNEhkdkI5N0ZVU09MbHJFLTJ6TEJHVzlUc2hqWDVqX1E?oc=5",
+            "source": "연합뉴스",
+            "published": "11-11 16:56",
+            "snippet": "미국 '빅스텝' 우려 속 국고채 금리 급등…3년물 연 3.729%(종합) 연합뉴스"
           }
         ],
-        "코어위브 호실적과 증시 반등": [
+        "코어위브 실적 호조": [
+          {
+            "title": "[뉴욕증시]코어위브 실적 호조에 나스닥 1.2% 상승 - 아시아경제",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JQ2FtLWd2eERTYVlMQWhFd1VBM3lacHFkXy1QTU5LTF9idUNjbS1vSmwwMU90aVNzUmJQejFhMTBBV3M5cnB6OHlIUldLY1JocGJ5U0c0ZTNkc0E5M2JBWQ?oc=5",
+            "source": "아시아경제",
+            "published": "11-12 00:22",
+            "snippet": "[뉴욕증시]코어위브 실적 호조에 나스닥 1.2% 상승 아시아경제"
+          },
+          {
+            "title": "뉴욕증시, 코어위브 실적 소화하며 혼조 출발 - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KY1Qtb3hFRU5USWpuOWxsNWVhN0RzOTF5TG9xUDREdzVMS0hscFF6ZEVhX2tqZUdRQmZMamRIWXlUVmI1V2ZFWkNWSzNqdWNKdEttd3FLUU43ODJOdVFMcU1EX0Y3NzJXeUk2RFdueTY?oc=5",
+            "source": "연합인포맥스",
+            "published": "11-11 23:49",
+            "snippet": "뉴욕증시, 코어위브 실적 소화하며 혼조 출발 연합인포맥스"
+          },
           {
             "title": "뉴욕증시, 코어위브 호실적에 기술주 중심 반등…S&P·나스닥 상승 출발 - 파이낸셜뉴스",
             "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xOXJMdFktRzlJa2VxLVZ3UUJLZ00wZWRXc212OTBXb1FPY1J6VTNKd0MtY0ZqOWNDNi0yamZkbWM3UXlHNkh2aDVPa2p4eU1sVkhZOVlIeXNTQQ?oc=5",
@@ -391,18 +410,11 @@
             "snippet": "뉴욕증시, 코어위브 호실적에 기술주 중심 반등…S&P·나스닥 상승 출발 파이낸셜뉴스"
           },
           {
-            "title": "뉴욕증시 개장 전 특징주...코어위브 15% 급등·엔비디아 4% 반등…AI 관련주 일제히 강세 - 뉴스핌",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NTnlNamNOSTJJeV84dC1SRHBUVEV0WGFPVFVqRElyLUNyYnhid0RwZk5hRHd2dmhjOVk3WHp4WnhpUmJhd2FKOW94SkFWZXdLQzZRRlhkQmsycS1C?oc=5",
-            "source": "뉴스핌",
-            "published": "11-11 22:33",
-            "snippet": "뉴욕증시 개장 전 특징주...코어위브 15% 급등·엔비디아 4% 반등…AI 관련주 일제히 강세 뉴스핌"
-          },
-          {
-            "title": "뉴욕증시 프리뷰, 미 주가 선물 반등...코어위브 15% 급등에 AI 투자 우려 완화 - 뉴스핌",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XTlhXel9QMVZEczhrVV95X1Jhdjc4cVlUUjAzLW81M2ZNYkwwWGhsNzhLUEItaHphMkpiQUw0czZmRlNwM01iTjJ3UWtnY1dCQmIyVVBRVEwtc2Q1?oc=5",
-            "source": "뉴스핌",
-            "published": "11-11 21:34",
-            "snippet": "뉴욕증시 프리뷰, 미 주가 선물 반등...코어위브 15% 급등에 AI 투자 우려 완화 뉴스핌"
+            "title": "코어위브 실적 반등 신호에 급등…월가 “신뢰 회복엔 시간 필요” 의견도 [월가 업&다운] - 한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rTzVaZXJ6bUs4UktwVzgxTG0xMXJwNGpJeWxqYzZXZm1nenhVU0hCaGI5aVNxNE1ENkU5NkhEY2dEMkxGckt1ZGl2MzBfWkpQdG1WdlA1SEJnQQ?oc=5",
+            "source": "한국경제",
+            "published": "11-11 23:08",
+            "snippet": "코어위브 실적 반등 신호에 급등…월가 “신뢰 회복엔 시간 필요” 의견도 [월가 업&다운] 한국경제"
           },
           {
             "title": "뉴욕증시, 코어위브 호실적에 힘입어 상승세 출발 - 뉴시스",
@@ -412,363 +424,366 @@
             "snippet": "뉴욕증시, 코어위브 호실적에 힘입어 상승세 출발 뉴시스"
           },
           {
-            "title": "[뉴스프레소] 뉴욕증시, 물가 부담에 하락…코어위브 호실적, AI 투심 되살아나나 - 머니투데이 - 머니투데이",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56YlFrNDdaVEZKZGZ2YklONXJLb0xLS2ZIb21fdktmWXZLb2EtOHozbTJ0QlNSRjN5NjE5UVZJeG9yOW5tM3VENW94LVFVWmFqS09SUEdUT0xIQ2J2c0tGZHZtSkNQQU5K0gFuQVVfeXFMTmFGOUN5dm10X0ZtNXFhWUVMek5OWmxfUlV4VnJROFdsYVMzaDJHODg5bWEwc0tnS012UFY0RTRzYV82azU4QWVybnFiOGZtMjhtZ0dQVWFnN2o3aFp3Rkg3YWQxamEtVkxqWlF0TGc?oc=5",
-            "source": "머니투데이",
-            "published": "11-11 12:40",
-            "snippet": "[뉴스프레소] 뉴욕증시, 물가 부담에 하락…코어위브 호실적, AI 투심 되살아나나 - 머니투데이 머니투데이"
-          },
-          {
-            "title": "[증시-마감] 코스피, 美 긴축우려 딛고 반등…코스닥 이틀째 사이드카 - KB Think",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVLXV0bWNUZXBESXRuYi12RlBiQWJWQ2lVZmVKZ3ZHcE5ycnVVQUkwWUxsNHhKU3JHUzlWUzYzaFdFQkVQcEozaDN5dEdlRlRmbm1PSnY2VlB6aU9VdTFmYTh0X3c5Mkp4ZlVVbkhuWjFHQQ?oc=5",
-            "source": "KB Think",
-            "published": "11-11 16:11",
-            "snippet": "[증시-마감] 코스피, 美 긴축우려 딛고 반등…코스닥 이틀째 사이드카 KB Think"
+            "title": "미국증시 장초반 나스닥 1.53% 상승…코어위브 실적에 AI·반도체주 급등, SK하이닉스 7% 강세 - 톱스타뉴스",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aVXpMOXd5dkN1cE9UOWZNTUNub3otOTNQVkdhVFhLd3doYkRfZDJENF9JOWJXZ1d0X2hGZktheUVLMjBFV2VWaDAyNWlTdTBsYzlGc0dNVGY0dkVqZjZSMjJ6S3hXR2t3aXFRU1QzYTYxQQ?oc=5",
+            "source": "톱스타뉴스",
+            "published": "11-11 23:46",
+            "snippet": "미국증시 장초반 나스닥 1.53% 상승…코어위브 실적에 AI·반도체주 급등, SK하이닉스 7% 강세 톱스타뉴스"
           }
         ],
-        "엔비디아 주가 급락세": [
+        "엔비디아 주가 급락": [
           {
-            "title": "“앨리스 황, 엔비디아칩 24만장 중국 밀반입…최소 10조원 규모” - 한겨레",
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSFF6bXZ4MFk3SzVzU09FREF6UWhaOENKQXF4S2tvU0xraFQ1dVVfWjJwTFp1WHVqRXpZMkZfTmZKT0xYUmZyNU1JYmtEaDVLcEdLNXZtcDlXQkVaSXExd1ZXOHNhc3JoRDk1Z3RIMTdfcjVZeEVLM0YxcVBGOFVuVUZR?oc=5",
-            "source": "한겨레",
-            "published": "11-11 20:23",
-            "snippet": "“앨리스 황, 엔비디아칩 24만장 중국 밀반입…최소 10조원 규모” 한겨레 앨리스 황, 10년 간 행적 살펴보니 ‘충격적’···“사모펀드 동업자 ‘주가조작’ 혐의로 구금” 경향신문 엔비디아와 젠슨 황, 동반 침몰할까? 뉴스타운 \"불륜 숨기려고도 안 했다?\"...'젠슨 황' 스캔들의 착시 YTN 젠슨 황 스캔들로 소환된 '마타 하리'…'간첩'인가 '희생양'인가 뉴시스"
+            "title": "젠슨 황 스캔들에 목표주가 60% 뚝…흔들리는 엔비디아, 월가 94%는 여전히 ‘매수’｜Global Money Club - 중앙일보",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSTHRvLUpISkJ6VmNSN2dydl9FWWhoZmRRX2ZSaXNhaEFyWlA2bWctSURWNHhiNk9HclBNUVNTSUlFZXpkX0pXVFV5cUNCQjVlc2FuR051WFZxMW8?oc=5",
+            "source": "중앙일보",
+            "published": "11-11 23:26",
+            "snippet": "젠슨 황 스캔들에 목표주가 60% 뚝…흔들리는 엔비디아, 월가 94%는 여전히 ‘매수’｜Global Money Club 중앙일보"
           },
           {
-            "title": "고점 찍고 반토막 난 삼전닉스…주가 반등 신호 나왔다 - 한국경제",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00SnBVSHRVQVZnM0ZhSDlLTWV2RC13M3EydEp0LVhFeGptSDhqZDJXSVB4dzRveDFnNVpDR2ttRk1qQmVQUEgzMUx2Q2xRYjJ1X2RReC00OUNOUQ?oc=5",
-            "source": "한국경제",
-            "published": "11-11 08:23",
-            "snippet": "고점 찍고 반토막 난 삼전닉스…주가 반등 신호 나왔다 한국경제 TSMC, 앤트로픽·오픈AI에 각각 최대 5억달러 투자 연합뉴스 삼성·SK하이닉스 빠진 앤스로픽 반도체 동맹…TSMC·마이크론은 대규모 투자 뉴스핌 엔비디아 후계 구도부터 TSMC 매출 급증까지 이시각 주요뉴스 연합인포맥스 TSMC 최대 실적인데 소프트뱅크는 6.5조 적자…AI 호황의 두 얼굴 마켓인"
+            "title": "뉴욕증시, 연준 '빅스텝' 우려·엔비디아 급락에 하락 마감 - 뉴스핌",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXd3JGN1pKdWJHOEhPRFBSZ3JsZV9IU1hOdnJ1MGphYzZtMUdKY1p1UW9NVFRSSVdvWmMzd2VMd1FIMDJRbWFxR0tnMHZJNEpoU3EwR3NDdTZSdlBM?oc=5",
+            "source": "뉴스핌",
+            "published": "11-11 06:23",
+            "snippet": "뉴욕증시, 연준 '빅스텝' 우려·엔비디아 급락에 하락 마감 뉴스핌"
           },
           {
-            "title": "앤트로픽 가치 최대 1.4조 달러…엔비디아·구글 13조원씩 투자 - 연합뉴스TV",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00NlYyYUc0ZU8xU3A5T1g4NmU1Y0d6QmdnazBLOFlBa3NNdl9ibVhBWFlxTnBxMUJ2UW5fWG1PMEZwdjVVR1hYek1FNTNNUm96OU4tVEw1NE90ZWg1Qk5EOEtyZ2lnM28?oc=5",
-            "source": "연합뉴스TV",
-            "published": "11-11 09:04",
-            "snippet": "앤트로픽 가치 최대 1.4조 달러…엔비디아·구글 13조원씩 투자 연합뉴스TV 앤트로픽 ‘주당 70~78달러’ 19일 상장…조달 규모 ‘역대 최대 IPO’ 904억달러 경향신문 대형 투자자 줄섰다…앤스로픽 IPO, 공모 물량 몇 배 주문 몰려 마켓인 美정부와 갈등 빚는 앤트로픽도 트럼프의 '슈퍼지능' 용어 사용 연합뉴스 2조 달러 거론되다 1.4조 달러로 후퇴...거품론 시험대 오른 앤트로픽 YTN"
+            "title": "[뉴욕증시] CPI 쇼크에 연준 ‘빅스텝 공포’…나스닥 187P·엔비디아 5.5% 급락 - 글로벌이코노믹",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT0VndVhEdTdTNklfaFYtZ1dQNTJfOC1KYnpuLVlhSW9LSDlPdEk1MUY1dEY1X3NxbDN4elN4SmVfUThIOG4yRmxERDczRk9DRTRsNXRSNXpKNTk2YnNuT0c2RDU1QWZZVGc2cGpOOEZGY1hSV1ctOEp2QmZXekdIUGpqY1JVQXpK?oc=5",
+            "source": "글로벌이코노믹",
+            "published": "11-11 06:33",
+            "snippet": "[뉴욕증시] CPI 쇼크에 연준 ‘빅스텝 공포’…나스닥 187P·엔비디아 5.5% 급락 글로벌이코노믹"
           },
           {
-            "title": "민주 “주가누르기 방지법 정기국회 처리”…이견 해소는 못해 - 한겨레",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3U3hKSXg3UF9xbTlNSlVzbTZ0MEdZa0tkTGpTUldUSGZ2ZXhMODBXdlRKS3B3MzNRRlJNdmtWcU9XZnVUX2dESjgwTHZMXy1NT3AzRXhjT19FcF93OGQxLTBmSC11bFVHYmVwQVJJZlUyMnMx?oc=5",
-            "source": "한겨레",
-            "published": "11-11 00:34",
-            "snippet": "민주 “주가누르기 방지법 정기국회 처리”…이견 해소는 못해 한겨레 눈높이 못 맞추는 정부…자본시장 세제 개편안 연이은 '헛발' - 머니투데이 머니투데이 [사설]“자산 가치보다 주가 낮으면 할증 과세”… 혼란과 왜곡 부를 뿐 동아일보 [단독]“상속세 낼 땐 헐값, 팔 땐 90% 웃돈”…‘PBR 0.8 룰’ 굳히는 與 서울경제 민주당 주가누르기방지법 '연내 처리' 공언, 정부안 vs 의원안 '오랜 평행선' 이번엔 넘을까 비즈니스포스트"
+            "title": "[속보]이틀간 10% 급락 엔비디아…나스닥 0.74%↓ - 문화일보",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ycDJwNnlKTjgtTjRQQTBFM09iMkNUTkJ6cFR6dWs2bWpxRmZkTE1iblUtaVNLYXBGMU5fZC1jMkpPeXBVcU0wMm5RMUlNXzl6?oc=5",
+            "source": "문화일보",
+            "published": "11-11 06:20",
+            "snippet": "[속보]이틀간 10% 급락 엔비디아…나스닥 0.74%↓ 문화일보"
+          },
+          {
+            "title": "뉴욕증시, 물가 우려에 일제히 하락...엔비디아 5%대 급락 - 조세일보",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VVmJIUzBERWV0dUpCUGliM0VNZjZnWjBYeWN3cGdZdGpTQnFtcENGMWVVWHhod0c5MGdUTmpaUWoyVGtkRUJvbllNSGZWQWotMEhmUG04YkQtVWxUWjhRLTc2UWlTcktHWDVsblQwdw?oc=5",
+            "source": "조세일보",
+            "published": "11-11 08:15",
+            "snippet": "뉴욕증시, 물가 우려에 일제히 하락...엔비디아 5%대 급락 조세일보"
           },
           {
             "title": "\"미 블랙리스트 중국 군연계 대학, 엔비디아 H200 구매\" - MBC 뉴스",
             "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1kZFVnd1h1ZU5OS29STFJ2aEFXbmxjbVZCY1AxdFJzcVNlanExbFNEbkJwbjQxZ3M0N3VPcnJ0bFBLRjNCVFpESk85T2FYQnFxXzU0U1RmbEpQaWJiNS1VU0tPdHBBaGhDelQ5Y1lPLUhfTmtG0gF0QVVfeXFMUHBRc3gzVDJMdEcxQ3U0cWNpdVlRQ0h4R0VZajRkV1g4aDZVc1U1cm5lTHpsSENyWG5vOFFzZDIwTEotcnFGdFhENzYyNDlRSm02U05lODllWXV5eGY2WnNtYkhEWTYwMUd5ZlNyUDQ0V2NpM3I?oc=5",
             "source": "MBC 뉴스",
             "published": "11-11 16:52",
-            "snippet": "\"미 블랙리스트 중국 군연계 대학, 엔비디아 H200 구매\" MBC 뉴스 젠슨 황 스캔들 이어 '中 AI칩 봉쇄법'까지…글로벌 완성차 업계 파장 촉각 뉴시스 \"엔비디아 악재에도 반도체는 간다\"…HBM이 메모리 호황 떠받친다 By EBN Investing.com 한국어 \"中 문샷AI, 엔비디아 최첨단 B300 임대 정황\" - 머니투데이 머니투데이 \"中 수출금지된 엔비디아 블랙웰칩…中서 868억원어치 포착\" [블룸버그] 한국경제"
-          },
-          {
-            "title": "뉴욕증시 개장 전 특징주...코어위브 15% 급등·엔비디아 4% 반등…AI 관련주 일제히 강세 - 뉴스핌",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NTnlNamNOSTJJeV84dC1SRHBUVEV0WGFPVFVqRElyLUNyYnhid0RwZk5hRHd2dmhjOVk3WHp4WnhpUmJhd2FKOW94SkFWZXdLQzZRRlhkQmsycS1C?oc=5",
-            "source": "뉴스핌",
-            "published": "11-11 22:33",
-            "snippet": "뉴욕증시 개장 전 특징주...코어위브 15% 급등·엔비디아 4% 반등…AI 관련주 일제히 강세 뉴스핌"
+            "snippet": "\"미 블랙리스트 중국 군연계 대학, 엔비디아 H200 구매\" MBC 뉴스 젠슨황 스캔들로 미국 의회 ‘대중국 칩규제 3법’ 탄력 KBS 뉴스 \"엔비디아칩 24만장 中 유출, 앨리스 황 관여…10조원 규모\" - 머니투데이 머니투데이 미 수출 규제에도 중국 인민해방군 연계 대학이 Nvidia H200 칩 구매 Investing.com 한국어 [세계의 창] 기술이 무기가 될 때, 통제권은 기업의 손에 있다 천지일보"
           }
         ]
       },
       "queries": {
-        "연준 빅스텝 인상 우려": [
-          "연준 빅스텝"
+        "미 연준 빅스텝 우려": [
+          "미 연준 금리",
+          "미 연준",
+          "미 연준 금리 인상",
+          "미 연준의장",
+          "미 연준 금리 발표일",
+          "미 연준 기준금리",
+          "미 연준 금리 전망",
+          "미 연준 발표"
         ],
-        "코어위브 호실적과 증시 반등": [],
-        "엔비디아 주가 급락세": [
+        "코어위브 실적 호조": [
+          "코어위브 실적",
+          "코어위브 실적발표일",
+          "코어위브 실적발표",
+          "코어위브 실적 발표 시간",
+          "코어위브 실적 예상",
+          "코어위브 실적 전망",
+          "코어위브 실적발표 일정",
+          "코어위브 3분기 실적 발표"
+        ],
+        "엔비디아 주가 급락": [
+          "엔비디아 주가 급락 이유",
           "엔비디아 주가",
+          "엔비디아 주가 전망 2027 년 전망",
           "엔비디아 주가 전망",
           "엔비디아 주가 폭락",
           "엔비디아 주가 전망 2030년 전망",
-          "엔비디아 주가 전망 2027 년 전망",
-          "엔비디아 주가 전망 2026",
           "엔비디아 주가 가격",
           "엔비디아 주가 폭락 이유"
         ]
       }
     },
     "keywords": [
-      "코스닥 급등과 사이드카 발동",
-      "대중 반도체 봉쇄 강화",
+      "코스피 코스닥 급등",
+      "AI 데이터센터 구축",
       "기업 3분기 실적 발표",
-      "연준 빅스텝 인상 우려",
-      "코어위브 호실적과 증시 반등",
-      "엔비디아 주가 급락세"
+      "미 연준 빅스텝 우려",
+      "코어위브 실적 호조",
+      "엔비디아 주가 급락"
     ],
     "results": {
-      "코스닥 급등과 사이드카 발동": {
-        "headline": "코스닥 이틀 연속 매수 사이드카 발동",
+      "코스피 코스닥 급등": {
+        "headline": "미 긴축 우려 속 코스닥 5%대 급등 및 700선 회복",
         "facts": [
-          "코스닥 지수가 4%대 급등하며 전날에 이어 이틀 연속으로 프로그램 매수 호가 효력을 일시 정지하는 매수 사이드카가 발동되었다.",
-          "마감 시황 기준 코스피는 2.6%, 코스닥은 5.6% 상승하며 미국발 긴축 우려를 딛고 동반 반등에 성공하는 모습을 보였다.",
-          "최근 급락장에서 코스닥 신용잔고가 1.1조 원가량 증발하며 빚투 물량이 대거 정리된 것이 오히려 반등의 발판이 되었다는 분석이다.",
-          "정부는 오는 13일 한국거래소에서 자본시장 간담회를 개최하고 코스닥 시장 활성화를 위한 구체적인 대책을 논의할 예정이다."
+          "미국 연준의 고금리 긴축 지속과 기준금리 빅스텝 우려라는 거시경제적 악재에도 불구하고 국내 코스피 지수가 2.6% 상승하며 5375선으로 장을 강세 마감했다.",
+          "코스닥 지수는 이틀 연속 폭등세를 나타내며 하루 만에 5.6% 급등하는 기염을 토했고 지수 700선을 단숨에 회복하며 가파른 주가 회복 흐름을 증시에서 보여주었다.",
+          "글로벌 물가 상승과 미 연준의 금리 인상 공포가 증시 상단을 압박했으나 삼성전자와 SK하이닉스 등 시가총액 상위 대형 반도체주 주도의 매수세가 지수 상승을 견인했다.",
+          "코스닥 시장에서는 외국인과 기관 투자가들의 대규모 동반 순매수세가 유입되면서 5%대 급등세를 견인하였으며 위축되었던 투자 심리가 급격하게 개선되는 모습을 보였다."
         ],
         "watch": [
-          "13일 정부 자본시장 간담회 발표 대책",
-          "신용잔고 재유입 여부와 외국인 수급 변화",
-          "미국 금리 인상 우려에 따른 지수 변동성"
+          "코스닥 700선 안착 여부 및 외국인 순매수 지속성",
+          "미국 물가지수 발표 이후 원/달러 환율 변동성"
         ],
         "qna": [
           {
-            "q": "이틀 연속 매수 사이드카가 발동된 시장의 기술적 배경은 무엇인가?",
-            "a": "지난주 과도한 투매로 인해 지수가 저평가 영역에 진입한 상태에서 미국발 긴축 우려가 일부 해소되자 저가 매수세가 강력하게 유입되었다. 특히 프로그램 매수세가 집중되면서 지수 변동폭이 커져 사이드카 발동 조건인 4% 이상의 상승세가 유지되었다."
+            "q": "미국 연준의 빅스텝 우려에도 불구하고 코스닥이 5% 이상 급등한 주요 동력은 무엇인가?",
+            "a": "미국발 금리 악재가 시장에 이미 선반영되었다는 인식이 확산된 가운데 반도체 및 대형 기술주를 중심으로 반가운 저가 매수세가 유입되었다. 특히 이틀 연속 이어진 기술적 반등과 기관의 동반 매수세가 지수를 700선 위로 끌어올렸다."
           },
           {
-            "q": "신용잔고 1.1조 원 증발이 이번 급등장에 어떤 영향을 미쳤는가?",
-            "a": "급락장에서 담보 부족으로 인한 반대매매가 대거 실행되며 시장의 잠재적 매도 압력이 상당 부분 해소되는 과정을 거쳤다. 가벼워진 수급 구조 덕분에 적은 매수세로도 지수가 탄력적으로 상승할 수 있는 환경이 조성된 것으로 분석된다."
+            "q": "코스피와 코스닥 지수의 급등세가 국내 금융 시장 전반에 미치는 파급 효과는 어떠한가?",
+            "a": "주식 시장의 강세는 원/달러 환율 상승 압력을 일부 완화하고 투자 심리를 크게 개선하는 효과를 가져온다. 다만 국채 금리가 오름세를 보이는 등 채권 시장 변동성이 남아있어 금융권 유동성의 균형 여부가 관건이다."
           },
           {
-            "q": "정부의 13일 간담회에서 코스닥 시장을 위해 논의될 핵심 쟁점은 무엇인가?",
-            "a": "최근 롤러코스터 장세를 보인 코스닥 시장의 안정화 방안과 함께 자본시장 체질 개선을 위한 대책이 중점적으로 다뤄질 전망이다. 시장에서는 상장사 밸류업 지원이나 투자자 보호를 위한 제도적 장치 마련 여부에 주목하고 있다."
+            "q": "향후 국내 증시가 지속적인 상승 국면으로 진입하기 위한 주요 분기점은 무엇인가?",
+            "a": "미 연준의 실제 금리 결정 방향과 후속 통화정책 발언이 시장 기대를 뒷받침해 주어야 한다. 또한 외국인 투자가의 자금 유입 지속 여부와 대형 IT 기업들의 4분기 실적 개선세가 수반되는지가 지수 추가 상승의 핵심 지표이다."
           }
         ]
       },
-      "대중 반도체 봉쇄 강화": {
-        "headline": "트럼프발 대중 반도체 봉쇄 고삐 강화",
+      "AI 데이터센터 구축": {
+        "headline": "GS·포스코 AI 데이터센터 혈맹…국가 경쟁력 10위 진입",
         "facts": [
-          "미국 트럼프 행정부가 젠슨 황 엔비디아 CEO의 발언 이후 대중 반도체 봉쇄 조치를 더욱 강화하며 수출 규제 압박을 높이고 있다.",
-          "미국발 긴축 우려에도 불구하고 반도체주가 코스피 상승을 견인하며 SK하이닉스는 장중 7%대 강세를 기록했다.",
-          "나스닥 시장에서도 AI와 반도체 관련주가 급등하며 한국 경제의 반도체 편중 현상에 대한 엄중한 인식이 필요하다는 지적이 제기되었다.",
-          "두산에너빌리티는 협력사와의 상생 강화를 통해 동반성장 최우수 명예기업으로 선정되며 공급망 안정화에 주력하고 있다."
+          "GS그룹과 포스코그룹이 초대형 AI 데이터센터 구축을 위한 인프라 및 철강 분야의 글로벌 사업 협력을 공식 체결하며 글로벌 시장 정조준에 나섰다.",
+          "정부가 내년부터 피지컬 AI 핵심부품 3종 개발을 본격화하며 관련 인프라 구축 및 기술 육성 정책 추진을 국가 차원에서 가속화하기로 발표했다.",
+          "한국의 디지털 및 AI 글로벌 경쟁력 순위가 1년 만에 8계단이나 대폭 상승하며 세계 10위에 진입하는 성과를 거두었음이 확인되었다.",
+          "한미약품과 대웅제약 등 주요 제약업계도 AI 기술을 신약 개발과 분자 적응증 예측 과정에 적극 도입하여 미래 헬스케어 인프라를 확장하고 있다."
         ],
         "watch": [
-          "미국 정부의 추가 대중 반도체 수출 통제안",
-          "SK하이닉스 및 삼성전자 주가 반등 지속성",
-          "국내 반도체 산업의 수출 다변화 전략"
+          "GS·포스코 데이터센터 인프라 착공 및 수주 성과",
+          "정부 추진 피지컬 AI 핵심부품 3종 개발 착수 현황"
         ],
         "qna": [
           {
-            "q": "트럼프 행정부가 대중 반도체 봉쇄를 강화하는 구체적인 이유는 무엇인가?",
-            "a": "중국이 우회 경로를 통해 엔비디아 등 미국의 첨단 AI 칩을 확보하는 것을 원천 차단하여 기술 패권을 유지하려는 목적이다. 특히 군사적 목적으로 전용될 수 있는 고성능 GPU의 중국 유입을 막기 위해 규제의 그물망을 촘촘히 하려는 의도로 풀이된다."
+            "q": "GS와 포스코가 AI 데이터센터 구축을 위해 손을 잡은 사업적 메커니즘은 무엇인가?",
+            "a": "초대형 데이터센터 건설에는 고품질 철강재와 안정적인 에너지·건설 인프라 공급이 필수적이다. 포스코의 소재 기술력과 GS의 인프라 시공 및 운영 노하우를 결합하여 글로벌 AI 인프라 시장을 선점하려는 전략이다."
           },
           {
-            "q": "반도체 업종에 편중된 한국 경제 구조가 증시 조정기에 위험한 이유는 무엇인가?",
-            "a": "한국 증시에서 반도체 섹터가 차지하는 비중이 압도적으로 높아 글로벌 공급망 이슈나 미중 갈등 발생 시 지수 전체가 흔들리는 취약성을 갖기 때문이다. 특정 산업의 업황에 따라 국가 경제 전체의 변동성이 극대화되는 리스크가 존재한다."
+            "q": "AI 데이터센터 확충이 헬스케어 및 제조 등 타 산업에 미치는 연쇄 영향은 어떠한가?",
+            "a": "고성능 연산 인프라가 확보됨에 따라 제약사의 신약 적응증 예측 능력이 획기적으로 늘어나 개발 기간이 단축된다. 동시에 로봇과 기계 시스템에 적용되는 피지컬 AI 기술 개발이 탄력을 받아 제조업 전반의 생산성을 제고한다."
           },
           {
-            "q": "AI 반도체 수요가 거시경제의 긴축 우려를 상쇄하는 메커니즘은 무엇인가?",
-            "a": "고금리 상황에서도 AI 산업의 성장성이 실질적인 기업 실적으로 증명되면서 투자자들이 금리 지표보다 실적 가이드라인에 더 민감하게 반응하기 때문이다. 코어위브와 같은 기업의 호실적이 AI 투심을 자극하며 반도체주 전반의 매수세를 유도하고 있다."
+            "q": "한국의 AI 경쟁력 세계 10위 진입이 향후 인프라 시장 성장의 분기점이 될 수 있는가?",
+            "a": "국가 차원의 디지털 역량 향상은 해외 빅테크 기업들의 국내 데이터센터 투자 유치에 강한 유인책으로 작용한다. 인프라 구축 비용 절감과 관련 대장주들의 글로벌 진출 성과가 향후 시장 확장의 핵심 평가 기준이 될 것이다."
           }
         ]
       },
       "기업 3분기 실적 발표": {
-        "headline": "3분기 실적 발표 본격화와 업종별 희비",
+        "headline": "엔씨 흑자전환·동원 10% 성장…3분기 기업 실적 희비",
         "facts": [
-          "롯데웰푸드는 해외 사업 호조에 힘입어 3분기 영업이익 899억 원을 기록하며 견조한 성장세를 나타냈다.",
-          "동원그룹은 B2B 부문과 수출 성장을 바탕으로 3분기 누적 영업이익 4,473억 원을 달성하며 전년 대비 10% 성장했다.",
-          "메리츠금융은 보험과 증권 부문의 실적이 엇갈리며 3분기 누적 순이익이 전년 대비 3.2% 소폭 감소했다.",
-          "한화손해보험은 보험손익이 3배 수준으로 급증하며 3분기 순이익이 전년 동기 대비 34% 증가하는 성과를 거뒀다."
+          "엔씨소프트가 3분기 영업이익 1196억 원을 기록하며 흑자전환에 성공하고 매출이 전년 동기 대비 91%나 대폭 증가하는 대형 호실적을 달성했다.",
+          "메리츠금융지주는 3분기 누적 순이익이 3.2% 소폭 감소하였으나 보험과 증권 부문 간 실적이 엇갈리는 희비 교차 양상을 나타냈다.",
+          "한화손해보험은 3분기 순이익이 34% 증가하였으며 특히 핵심 지표인 보험손익 부문에서는 전년 대비 3배 수준의 괄목할 만한 성장을 이뤘다.",
+          "동원그룹은 B2B 사업 확대와 수출 호조에 힘입어 3분기 누적 영업이익 4473억 원을 기록하며 전년 대비 10% 이상의 안정적인 성장을 이끌어냈다."
         ],
         "watch": [
-          "주요 대기업의 해외 매출 비중 변화 추이",
-          "금융권 내 보험 및 증권 부문 수익성 차별화",
-          "수출 중심 기업들의 4분기 실적 가이드라인"
+          "엔씨소프트 신작 흥행에 따른 4분기 실적 유지 여부",
+          "금리 변동에 따른 금융·보험사들의 4분기 건전성 지표"
         ],
         "qna": [
           {
-            "q": "롯데웰푸드와 동원그룹 실적에서 공통적으로 나타난 성장 동력은 무엇인가?",
-            "a": "내수 시장의 한계를 극복하기 위해 추진한 해외 사업 확대와 B2B 채널 강화가 실적 성장의 핵심 동력으로 작용했다. 특히 글로벌 시장에서의 브랜드 인지도 상승과 수출 물량 증가가 영업이익 개선에 직접적인 기여를 했다."
+            "q": "엔씨소프트가 3분기 영업이익 1196억 원을 기록하며 흑자전환한 주요 배경은 무엇인가?",
+            "a": "매출이 전년 대비 91%나 대폭 증가하면서 고정비 부담이 대폭 상쇄되는 영업 레버리지 효과가 나타났다. 그동안 추진해 온 비용 효율화 작업과 신규 라이브 서비스의 매출 반영이 실적 반등을 이끌었다."
           },
           {
-            "q": "메리츠금융의 누적 순이익이 감소한 결정적인 원인은 무엇인가?",
-            "a": "보험 부문의 견조한 실적에도 불구하고 증권 부문이 시장 변동성 확대와 거래 대금 변화 등의 영향으로 수익성이 둔화되었기 때문이다. 금융지주 내 계열사 간 실적 상쇄 효과가 발생하며 전체 순이익이 소폭 하락하는 결과로 이어졌다."
+            "q": "동원그룹과 한화손해보험의 호실적이 각 산업 밸류체인에 가져다주는 시사점은 무엇인가?",
+            "a": "동원그룹은 글로벌 B2B 공급망과 수출 확대를 통해 내수 침체를 극복할 수 있음을 입증했다. 한화손해보험은 손해율 관리와 보험손익 3배 증가를 통해 금융권 내 영업 체질 개선의 모범 사례를 보여주었다."
           },
           {
-            "q": "한화손해보험의 보험손익이 3배나 급증할 수 있었던 배경은 무엇인가?",
-            "a": "효율적인 손해율 관리와 더불어 고수익성 보장성 보험 판매가 확대되면서 본업인 보험 인수 부문에서 이익이 극대화되었다. 이는 자산운용 수익에 의존하기보다 보험 본연의 경쟁력을 강화한 결과로 분석된다."
+            "q": "기업들의 3분기 실적 발표 이후 주가 향방을 결정짓는 분기점은 무엇인가?",
+            "a": "일회성 흑자전환에 그치지 않고 지속 가능한 매출 성장 동력을 확보했는지가 핵심 기준이다. 환율 변동과 미국 금리 향방 등 외생 변수 속에서 4분기 영업이익 가이던스를 충족하는지 여부가 주가 향방을 가를 전망이다."
           }
         ]
       },
-      "연준 빅스텝 인상 우려": {
-        "headline": "연준 빅스텝 우려에 글로벌 채권시장 요동",
+      "미 연준 빅스텝 우려": {
+        "headline": "연준 빅스텝 우려에 뉴욕 증시 하락 및 국채 금리 급등",
         "facts": [
-          "미국 물가 급등과 연준 위원들의 매파적 발언으로 인해 기준금리를 한 번에 0.5%p 올리는 '빅스텝' 우려가 확산되고 있다.",
-          "금리 인상 공포에 뉴욕증시 나스닥 지수가 0.7% 하락 마감했으며 글로벌 채권시장도 큰 폭의 변동성을 보였다.",
-          "금값은 급락 후 안정세를 찾았는데 이는 연준의 금리 인상 우려를 중앙은행들의 강력한 금 수요가 상쇄했기 때문이다.",
-          "원/달러 환율은 금리 인상 우려에도 불구하고 전날보다 3.9원 내린 1,333.6원에 마감하며 비교적 안정적인 흐름을 보였다."
+          "미국 소비자물가 상승으로 인해 미 연준이 기준금리를 한번에 0.5%p 인상하는 빅스텝을 단행할 것이라는 시장 우려가 빠르게 확산되었다.",
+          "빅스텝 공포가 재점화되면서 뉴욕증시에서 나스닥 지수가 0.7% 하락하고 주요 엔비디아 등 기술주 주가가 일제히 하락세를 면치 못했다.",
+          "국내 금융시장에서는 연준의 강력한 긴축 정책 우려로 인해 국고채 3년물 금리가 연 3.729%로 급등하며 채권 시장 변동성이 크게 확대되었다.",
+          "미 연준의 매파적 기조 우려에도 불구하고 국내 증시는 삼성전자와 SK하이닉스 등 반도체 대형주들의 강세에 힘입어 상승 마감에 성공했다."
         ],
         "watch": [
-          "미국 소비자물가지수(CPI) 추가 발표 수치",
-          "연준 위원들의 50bp 인상 관련 발언 수위",
-          "원/달러 환율 1,330원대 지지 여부"
+          "미 연준 FOMC 금리 결정 및 소비자물가지수 추이",
+          "국고채 3년물 금리 변화 및 국내 시중금리 영향"
         ],
         "qna": [
           {
-            "q": "물가 급등 상황에서 연준의 매파적 발언이 시장에 즉각적인 충격을 준 이유는 무엇인가?",
-            "a": "인플레이션이 예상보다 장기화될 수 있다는 신호로 해석되면서 시장이 기대했던 금리 인하 시점이 늦춰지고 인상 폭은 커질 것이라는 공포가 반영되었기 때문이다. 이는 즉각적인 국채 금리 상승과 기술주 중심의 자산 가격 하락으로 이어졌다."
+            "q": "연준의 빅스텝 우려가 커지면서 국채 금리가 급등하는 메커니즘은 무엇인가?",
+            "a": "연준이 금리를 급격히 올릴 것이라는 전망이 퍼지면 채권 시장에서는 향후 발행될 채권의 금리가 더 높아질 것으로 예상한다. 이로 인해 기존 채권의 매력도가 떨어져 가격이 하락하고, 채권 수익률인 국채 금리는 급등하게 된다."
           },
           {
-            "q": "금리 인상 우려라는 악재 속에서도 금값이 안정세를 유지한 메커니즘은 무엇인가?",
-            "a": "통상 금리는 금값과 역상관 관계를 갖지만 각국 중앙은행들이 포트폴리오 다변화와 리스크 헤지 차원에서 금 매입을 늘리며 하방 경직성을 확보했기 때문이다. 금리 인상에 따른 기회비용 증가보다 안전자산으로서의 수요가 더 강력하게 작용했다."
+            "q": "미국 빅스텝 악재에도 국내 증시에서 반도체 대형주가 상승세를 견인할 수 있었던 이유는 무엇인가?",
+            "a": "거시경제 통화정책 악재보다 반도체 업황의 실적 개선 기대감이 더 크게 작용했기 때문이다. 코어위브 등 해외 AI 인프라 기업들의 실적 호조가 국내 메모리 반도체 공급사에 긍정적인 신호로 해석되었다."
           },
           {
-            "q": "빅스텝 우려에도 불구하고 원/달러 환율이 하락한 역설적 현상의 원인은 무엇인가?",
-            "a": "미국 금리 인상 우려가 이미 시장 가격에 상당 부분 선반영된 상태에서 국내 증시의 반등과 외국인 자금 유입이 환율 하락 압력으로 작용했기 때문이다. 또한 수출 기업들의 네고 물량 유입이 환율 상단을 제한하는 역할을 했다."
+            "q": "연준의 통화 정책 행보가 시장 충격을 완화할 분기점은 어디인가?",
+            "a": "소비자물가지수(CPI)의 상승세가 둔화되고 고용 지표가 안정을 찾아 연준의 금리 동결 명분이 마련되는 시점이다. 통화정책의 불확실성이 해소되어야 채권 금리 안정과 함께 자산 시장의 추세 반전이 일어날 수 있다."
           }
         ]
       },
-      "코어위브 호실적과 증시 반등": {
-        "headline": "코어위브 호실적에 AI 투자 심리 급반등",
+      "코어위브 실적 호조": {
+        "headline": "코어위브 실적 호조에 나스닥 1.2% 상승 및 반도체주 급등",
         "facts": [
-          "AI 인프라 기업 코어위브가 시장 예상을 뛰어넘는 실적을 발표하며 주가가 장중 15% 급등하고 나스닥 상승을 견인했다.",
-          "코어위브의 성과는 AI 산업의 수익성에 대한 의구심을 해소하며 엔비디아(4% 상승)를 포함한 AI 관련주들의 일제 반등을 이끌었다.",
-          "뉴욕증시는 물가 부담에도 불구하고 코어위브발 호재에 힘입어 기술주 중심으로 강한 매수세가 유입되며 상승 출발했다.",
-          "국내 증시에서도 코스피가 미국 긴축 우려를 딛고 반등했으며 SK하이닉스 등 반도체 대형주들이 강세를 보였다."
+          "AI 클라우드 전문 기업 코어위브가 예상치를 웃도는 호실적을 발표하면서 뉴욕증시에서 나스닥 지수가 1.2% 이상 상승 출발하는 강세를 보였다.",
+          "코어위브의 실적 반등 신호에 힘입어 엔비디아를 비롯한 미국 주요 AI 및 반도체 관련 종목들로 강한 매수세가 집중적으로 유입되었다.",
+          "코어위브 실적 수혜 영향으로 국내 증시에서도 SK하이닉스 주가가 장중 7%대 폭등세를 보이는 등 글로벌 반도체 밸류체인이 연동 반응했다.",
+          "월가 일부에서는 코어위브의 실적 개선을 긍정적으로 평가하면서도 시장의 완벽한 신뢰 회복까지는 일정 시간이 필요하다는 신중론을 제시했다."
         ],
         "watch": [
-          "AI 인프라 관련 기업들의 추가 실적 가이드라인",
-          "나스닥 지수의 전고점 탈환 및 안착 여부",
-          "엔비디아와 코어위브 간의 파트너십 확대 소식"
+          "코어위브의 4분기 설비투자(CAPEX) 집행 계획",
+          "SK하이닉스 및 메모리 반도체 업계의 HBM 공급량"
         ],
         "qna": [
           {
-            "q": "코어위브의 15% 급등이 AI 산업 전반에 미친 심리적 영향은 무엇인가?",
-            "a": "막대한 자본이 투입되는 AI 인프라 분야에서 실제적인 매출과 이익 성장이 가능하다는 것을 수치로 증명하며 'AI 거품론'을 잠재웠다. 이는 투자자들이 다시 기술주에 대한 공격적인 포지션을 취하게 만드는 결정적인 트리거가 되었다."
+            "q": "코어위브의 실적 호조가 나스닥과 한국 반도체 주가를 동시에 끌어올린 원인은 무엇인가?",
+            "a": "코어위브는 AI 데이터센터용 GPU 인프라를 제공하는 핵심 기업으로, 이들의 실적 호조는 AI 서버 수요가 여전히 견고함을 입증한다. 이에 따라 고성능 메모리인 HBM을 공급하는 SK하이닉스 등의 실적 기대감이 함께 폭발했다."
           },
           {
-            "q": "코어위브의 실적이 엔비디아 주가와 직접적으로 연동되는 이유는 무엇인가?",
-            "a": "코어위브는 엔비디아의 고성능 GPU를 대량으로 구매하여 클라우드 서비스를 제공하는 핵심 고객사이자 파트너이기 때문이다. 코어위브의 실적 호조는 곧 엔비디아 칩에 대한 강력한 수요가 지속되고 있음을 의미하는 선행 지표 역할을 한다."
+            "q": "코어위브 실적 발표가 AI 관련 밸류체인 내 기업들에 미치는 경제적 파급 효과는 어떠한가?",
+            "a": "AI 거품론으로 주춤했던 빅테크 기업들의 자본지출(CAPEX) 지속성에 대한 불안감을 해소해 주는 계기가 되었다. 클라우드 인프라 업체의 매출 증가는 칩 제조사에서 장비 및 부품 공급사로 이어지는 선순환 고리를 강화한다."
           },
           {
-            "q": "기술주 중심의 반등이 거시경제의 물가 부담을 압도할 수 있었던 분기점은 무엇인가?",
-            "a": "금리 인상이라는 매크로 악재보다 개별 기업의 혁신과 실적 성장이 더 빠를 것이라는 확신이 시장에 형성된 시점이다. 특히 AI 산업은 경기 사이클과 무관하게 구조적 성장을 이룰 것이라는 기대감이 매수세를 자극했다."
+            "q": "코어위브의 반등에도 불구하고 월가가 완벽한 신뢰 회복에 시간이 걸린다고 지목한 분기점은 무엇인가?",
+            "a": "단기적인 실적 개선을 넘어 지속적인 수주 잔고 확보와 투자 대비 수익성(ROI)이 지속 검증되어야 한다. 데이터센터 부지 확보 및 전력 수급 문제가 차질 없이 해결되는지가 향후 장기 신뢰도를 결정할 것이다."
           }
         ]
       },
-      "엔비디아 주가 급락세": {
-        "headline": "엔비디아 칩 밀반입 논란과 AI 투자 명암",
+      "엔비디아 주가 급락": {
+        "headline": "CEO 이슈 및 CPI 충격에 엔비디아 이틀간 10% 급락",
         "facts": [
-          "엔비디아 첨단 칩 24만 장이 중국으로 밀반입되었다는 의혹이 제기되었으며 그 규모는 최소 10조 원에 달하는 것으로 알려졌다.",
-          "미국 블랙리스트에 오른 중국 군 연계 대학들이 규제를 뚫고 엔비디아의 최신 H200 칩을 구매한 사실이 드러나 파장이 일고 있다.",
-          "엔비디아는 앤트로픽에 구글과 함께 13조 원 규모의 대규모 투자를 진행하며 AI 생태계 확장에 박차를 가하고 있다.",
-          "밀반입 논란과 규제 우려로 변동성이 커진 가운데 엔비디아 주가는 코어위브 호실적에 힘입어 4% 반등하며 숨을 고르는 모습이다."
+          "젠슨 황 CEO 스캔들 악재와 미국 CPI 쇼크가 동시 폭발하며 엔비디아 주가가 하루 만에 5.5% 급락하고 이틀간 10% 폭락하는 충격을 주었다.",
+          "엔비디아의 주가 급락 여파로 인해 뉴욕증시 나스닥 지수가 0.74% 하락 마감하는 등 글로벌 기술주 전반의 투매 현상이 확산되었다.",
+          "미국 정부의 블랙리스트에 오른 중국 군연계 대학이 엔비디아 H200 칩을 구매한 정황이 포착되어 대중 반도체 규제 리스크가 재점화되었다.",
+          "엔비디아 목표주가가 60% 하향 조정되는 악재가 발생했음에도 불구하고 월가 분석가의 94%는 여전히 '매수' 투자의견을 유지했다."
         ],
         "watch": [
-          "미 상무부의 대중 반도체 우회 수출 조사 결과",
-          "앤트로픽 등 AI 스타트업 투자에 따른 시너지",
-          "엔비디아의 차세대 칩 공급망 보안 강화 대책"
+          "미국 재무부 및 상무부의 대중 반도체 추가 제재 발표",
+          "엔비디아 CEO 이슈 관련 사법적 및 경영상 파장"
         ],
         "qna": [
           {
-            "q": "10조 원 규모의 엔비디아 칩 밀반입 의혹이 기업에 미칠 법적 리스크는 무엇인가?",
-            "a": "미국 정부의 수출 통제 위반 여부에 따라 막대한 벌금 부과는 물론 향후 수출 허가 절차가 더욱 까다로워질 수 있는 위험이 있다. 이는 엔비디아의 글로벌 공급망 관리 능력에 대한 신뢰도 하락으로 이어져 주가에 부정적인 영향을 줄 수 있다."
+            "q": "젠슨 황 CEO 이슈와 CPI 충격이 엔비디아 주가 폭락을 유발한 메커니즘은 무엇인가?",
+            "a": "최고경영자 개인 스캔들은 지배구조 및 브랜드 리스크를 키웠고, 고물가에 따른 연준의 금리 인상 공포가 고평가 기술주 매도세를 부추겼다. 악재가 겹치면서 투자자들의 이익 실현 매물이 한꺼번에 쏟아져 이틀간 10% 폭락을 기록했다."
           },
           {
-            "q": "엔비디아가 앤트로픽에 대규모 투자를 단행한 전략적 의도는 무엇인가?",
-            "a": "하드웨어 판매를 넘어 AI 모델 개발사와의 결속을 강화함으로써 자사 칩 중심의 소프트웨어 생태계를 공고히 하려는 포석이다. 이는 경쟁사들의 추격을 따돌리고 장기적인 수요처를 확보하는 효과를 거둘 수 있다."
+            "q": "중국 군연계 대학의 H200 구매 정황이 엔비디아의 사업 포지션에 가져다주는 리스크는 무엇인가?",
+            "a": "미국 정부의 대중 수출 통제를 우회했다는 의혹을 받게 되면 보다 엄격한 법적 제재나 조사를 받을 수 있다. 이는 엔비디아의 글로벌 칩 공급망 유통과 매출 비전에 직접적인 악영향을 미칠 가능성이 있다."
           },
           {
-            "q": "중국 대학들의 H200 구매 사실이 향후 미국의 대중 규제 수위를 어떻게 바꿀 것인가?",
-            "a": "기존의 품목별 규제를 넘어 최종 사용자(End-user)에 대한 검증을 대폭 강화하는 방향으로 규제가 진화할 가능성이 높다. 이는 반도체 유통 경로 전반에 대한 실시간 모니터링 시스템 도입 등 더 강력한 통제 장치 마련으로 이어질 전망이다."
+            "q": "목표주가 하향에도 월가 94%가 매수 의견을 유지하는 상황에서 주가 반등의 분기점은 어디인가?",
+            "a": "CEO 관련 리스크의 조기 해소와 함께 차세대 AI 칩인 블랙웰 등의 차질 없는 출하 수치가 확인되어야 한다. 독점적인 시장 지배력과 실적 성장이 입증된다면 하향된 목표주가를 넘어 회복세를 탈 것으로 전망된다."
           }
         ]
       }
     },
     "news": {
-      "코스닥 급등과 사이드카 발동": [
+      "코스피 코스닥 급등": [
         {
-          "title": "코스닥 4%대 급등에 이틀 연속 '매수 사이드카' 발동 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YV3hHUzMxR0p3TVBPUk5OR0VFbmZYLU1HNHJySGQ0bURnS1Z4RzJnWVpKOXdfVnZfWGZtT1BEYUtYdkIzMkpDdzZ4b2V5ODhJbjB4SVZwY2x6WE52T1JFcm1IdlhFLWN0X1JsYWZkSzBjQzNW0gF0QVVfeXFMTmNnTktYaTdTV01reUgta0xPcHVXRWxqY0tLMEg3Vkk1Mjh6MzBLLXZqbHhYOVpWeHAyWmFqRXJsU3FKUERiclljWmFkUXN0UldrUjFOYkM4YzdFYXRMMEh6eDFwdU9qbFV3dksyckw2Rmw0MUI?oc=5",
+          "title": "미 물가·금리 우려에도 코스피 2.6% 상승…코스닥 5.6% 급등 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWSUptUmhwaF9ZcWdiNVRBQnV2REtiYk1HcmUzZ0F3bzZsN1NtblE0X2RfZG4zeE9sSGNJdjBXOW9BSTllekhYc0VlS1JKeG5DTkJRZ1lpbVFhaXFWNTBmWlo0Vmk1REM4WENoWHAwb0lYdw?oc=5",
+          "source": "한겨레",
+          "published": "11-11 16:19",
+          "snippet": "미 물가·금리 우려에도 코스피 2.6% 상승…코스닥 5.6% 급등 한겨레 \"반도체 초호황은 위장된 저주다\"… 요동치는 시장서 살아남을 '7대 3' 생존법 네이버페이 머니스토리 美빅스텝 우려에도 급등‥코스피 2.6%·코스닥 5.6%↑ MBC 뉴스 삼전·닉스, 코어위브·앤트로픽발 훈풍에 3∼5%대 급등 마감(종합) 연합뉴스 'AI 겹호재'에 K반도체주 솟구쳤다…앤트로픽 상장·옵션만기 '분수령' - 머니투데이 머니투데이"
+        },
+        {
+          "title": "코스피, 美 긴축 우려에도 강세…코스닥 5% 급등 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrdmVtNzNvOWlEZ0tnYm9OcXlidHAxdW5hWDNIeDZDWWJtTGMxWE4zS2tBTks0enljZXhIYkJPa1ZSay1hdjBWMWZfa2NodXhlODgyc2NnWmhEQmtKZnZKaFNnVmVMVFk?oc=5",
+          "source": "연합뉴스TV",
+          "published": "11-11 20:51",
+          "snippet": "코스피, 美 긴축 우려에도 강세…코스닥 5% 급등 연합뉴스TV"
+        },
+        {
+          "title": "코스피 2.6% 오른 5375선 마감…코스닥 이틀 연속 급등해 700선 회복 - 전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZSjAtVlYzM2NpODZxdHpxLWUzWDZVNjV2WU9NZF9aV2tmdFp1V1gzblJwNnNURFpGazg4T0VSVkxDUFMtTGVTTENxWVFoQQ?oc=5",
+          "source": "전자신문",
+          "published": "11-11 16:09",
+          "snippet": "코스피 2.6% 오른 5375선 마감…코스닥 이틀 연속 급등해 700선 회복 전자신문"
+        },
+        {
+          "title": "美빅스텝 우려에도 급등‥코스피 2.6%·코스닥 5.6%↑ - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56QUxuYTVvNEFqXzlNdjJGa0xpbHVGSHVoMk9sNlhKaDRvOHE1S0xnd1pMWFpIS3BidlN6UTNEYlBkYllFRDNLZGJMWVRBWW40eTgyZkpmU2pXdExqSE9INjVmcWRwWjZoemNacG9fb204R3Zm0gF0QVVfeXFMTkpGSWJQX0VXY085YkRWQ1VpaFpWM2Z0RVpHd2I1M0c4T0RBMUN3QVQyVUw3V25pdE5pVk5TSjUxTlJ5cW5vM2xGMm5DVnJjMURucGhmU2M1OG9uT2c1Z1R1d2IwWXgtSmxhRXRkd25xYXFOMl8?oc=5",
           "source": "MBC 뉴스",
-          "published": "11-11 11:32",
-          "snippet": "코스닥 4%대 급등에 이틀 연속 '매수 사이드카' 발동 MBC 뉴스 美빅스텝 우려에도 급등‥코스피 2.6%·코스닥 5.6%↑ MBC 뉴스 \"반도체 초호황은 위장된 저주다\"… 요동치는 시장서 살아남을 '7대 3' 생존법 네이버페이 머니스토리 'AI 겹호재'에 K반도체주 솟구쳤다…앤트로픽 상장·옵션만기 '분수령' - 머니투데이 머니투데이 삼전·닉스, 코어위브·앤트로픽발 훈풍에 3∼5%대 급등 마감(종합) 연합뉴스"
+          "published": "11-11 15:55",
+          "snippet": "美빅스텝 우려에도 급등‥코스피 2.6%·코스닥 5.6%↑ MBC 뉴스"
         },
         {
-          "title": "지난주엔 투매, 이번 주엔 사이드카…코스닥 롤러코스터, 지금 타도 될까 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hSFZ3LWZPMnB0UzJXcHh4dFlGNDA3ZFJOcTZHeFk0QTg1d0tweWRkM2FiTFFTM1B2dS1QSTN0bHZFOXg0QUNGaVdEMlRlQUZuS3lfMFRSOGdVZUVPZDdjWV9uUnFhdkNQZkktemhVUTk?oc=5",
-          "source": "Investing.com 한국어",
-          "published": "11-11 17:37",
-          "snippet": "지난주엔 투매, 이번 주엔 사이드카…코스닥 롤러코스터, 지금 타도 될까 Investing.com 한국어"
+          "title": "코스피, 美 빅스텝 우려에도 연이틀 상승 마감…코스닥도 5%대 급등 - 더나은미래",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MaVR5MURqMjhtTXRIbzZhTGo1Skg0SEw0cE5HaWcxMm15YmFzSFNiSnowcnhyR2V3YVNCaVJSUU1QS3lxRFluZ3RaVFd4TEVaNHc?oc=5",
+          "source": "더나은미래",
+          "published": "11-11 16:57",
+          "snippet": "코스피, 美 빅스텝 우려에도 연이틀 상승 마감…코스닥도 5%대 급등 더나은미래"
         },
         {
-          "title": "[마감시황] 코스피 2.6%·코스닥 5.6%↑…코스닥 연속 매수 사이드카 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kM2VzcjR3U1BtSW9jV0JjMk9tdzNpUFdKaG1QblVBSzhra2dER2N2a2dVeWJobFpiYVFhSGpkdU9pckhXTE4zSzFDRVJpQjdISG5pYzZUQS13ZVlC?oc=5",
-          "source": "뉴스핌",
-          "published": "11-11 16:04",
-          "snippet": "[마감시황] 코스피 2.6%·코스닥 5.6%↑…코스닥 연속 매수 사이드카 뉴스핌"
-        },
-        {
-          "title": "[증시-마감] 코스피, 美 긴축우려 딛고 반등…코스닥 이틀째 사이드카 - KB Think",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVLXV0bWNUZXBESXRuYi12RlBiQWJWQ2lVZmVKZ3ZHcE5ycnVVQUkwWUxsNHhKU3JHUzlWUzYzaFdFQkVQcEozaDN5dEdlRlRmbm1PSnY2VlB6aU9VdTFmYTh0X3c5Mkp4ZlVVbkhuWjFHQQ?oc=5",
-          "source": "KB Think",
-          "published": "11-11 16:11",
-          "snippet": "[증시-마감] 코스피, 美 긴축우려 딛고 반등…코스닥 이틀째 사이드카 KB Think"
-        },
-        {
-          "title": "코스닥 빚투부터 무너졌다…급락장에 신용잔고 1.1조 증발 By EBN - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oRjExYTR1UGNMTE9TNlNFLWZxZnU5STRlTmJvNlFyYnJmMWlpLXFfcS02Y3FQc21mOWdWZkphaUVBR1dnX2oyb3VXUm5HZnZ3RnhBeTdnX0NfbEpIYXM4UlhNdjVPb2V1T2pTdlNMajE?oc=5",
-          "source": "Investing.com 한국어",
-          "published": "11-11 11:11",
-          "snippet": "코스닥 빚투부터 무너졌다…급락장에 신용잔고 1.1조 증발 By EBN Investing.com 한국어 증시대기자금·빚투 올들어 최저…반대매매 600억대로↑ 연합뉴스 \"빚내서 주식했다가 망했다\"…하루 만에 '379억' 강제처분 이데일리 [광화문]'베팅의 민족'에 날아든 청구서 - 머니투데이 머니투데이 반대매매 유예에도 강제청산 5배나 늘었다…빚투 개미들 '비명' 뉴시스"
-        },
-        {
-          "title": "[단독]정부, 13일 거래소서 자본시장 간담회...코스닥 대책 주목 - 비즈워치",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXaDZTcTdfZjhVOGcwNGNvcjJ3V3o4MHp2dDRqUWlZVnk4alBVN1NUaEFyb1NGOEJvVzRTVGUwbFpWMHpnclpLdFJ6VmxFVnJ1SFFENUNmay0zZERIMEtjRC1Ka2tMZnVKZnc?oc=5",
-          "source": "비즈워치",
-          "published": "11-11 16:28",
-          "snippet": "[단독]정부, 13일 거래소서 자본시장 간담회...코스닥 대책 주목 비즈워치"
+          "title": "코스피, 미 긴축 우려에도 상승…코스닥 5% 급등 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QcVZ5WGMxdlQtQXhCTkktYy1pUjlncTBLUGNxa19TVmw3QUFpcVJGQlpXMXAtQ3gzNTdDeWp5YTVOUDZqMEpnTkd4TFdEbzJ6NTBYbkJ4Q19PTC1nYWFxVUFmOERzM2M?oc=5",
+          "source": "연합뉴스TV",
+          "published": "11-11 18:14",
+          "snippet": "코스피, 미 긴축 우려에도 상승…코스닥 5% 급등 연합뉴스TV"
         }
       ],
-      "대중 반도체 봉쇄 강화": [
+      "AI 데이터센터 구축": [
         {
-          "title": "젠슨 황 후폭풍… ‘對中 반도체 봉쇄’ 고삐 죄는 트럼프 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQd1hscEtYZHhQTlc4ZnQ2bUR1aFFzaFlHV2VNMDVMMnRkR2tDa2V0TTJPY0tha3lUOVkzU0N2TUtlNUQ3TDZySV83UHluZkszSUxONlItbGF4OTZVWEw2LUVoeVhfOGlpWmJfeV9JNGMzc2FLNHY2UE1kZHBmYnpYYk0xTQ?oc=5",
-          "source": "조선일보",
-          "published": "11-11 10:11",
-          "snippet": "젠슨 황 후폭풍… ‘對中 반도체 봉쇄’ 고삐 죄는 트럼프 조선일보 Google 뉴스에서 헤드라인 및 의견 더보기"
-        },
-        {
-          "title": "두산에너빌리티, 동반성장 ’최우수 명예기업’ 선정…협력사 상생 강화 By EBN - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CMTlVVTM5cTZCZFVNSHRkR2x5YnU1OXBLNnIxWmxRRWcwQUs3ei1zQ1FUTWMtRngtdndBR0pKMFJrcGZXazc2dEhVbl9sWkM1UjFVS2Z2MXFuc1d6cTctek92V253RzRYcFFCdDZuWW4?oc=5",
+          "title": "GS-포스코, 초대형 AI 데이터센터 혈맹…’인프라·철강’ 글로벌 정조준 By EBN - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Gdk10NUI0UUpjT1ViM25XTS1maldTc3Awd3VacUFVVk9oRDFiVEVSbDFFOElERjE4U1ZMN0hESHRzeGF5RWYyajdCWl9ZT3RNcnByT2NtYURhQXV1RFQtTzEzQW9hcmtBakRMYmdrb1g?oc=5",
           "source": "Investing.com 한국어",
-          "published": "11-11 16:45",
-          "snippet": "두산에너빌리티, 동반성장 ’최우수 명예기업’ 선정…협력사 상생 강화 By EBN Investing.com 한국어 네이버·농심 등 동반성장지수 ‘최우수’ 경향신문 SKT, 14년 연속 동반성장지수 최우수 기업 달성 SK텔레콤 뉴스룸 동반성장 최우수 기업 44곳…금융 지원 넘어 ’AI·기술보호’로 상생 확대 연합뉴스TV 상생펀드에 스마트공장까지…삼성전자, 동반성장지수 15년째 '최우수' - 머니투데이 머니투데이"
+          "published": "11-11 17:16",
+          "snippet": "GS-포스코, 초대형 AI 데이터센터 혈맹…’인프라·철강’ 글로벌 정조준 By EBN Investing.com 한국어 GS·포스코, AI 데이터센터 의기투합…글로벌 시장 공동 공략 연합뉴스 GS그룹-포스코, AI데이터센터 시장공략 손잡았다 동아일보 美 데이터센터 규제 우려에 국내 건설사 수혜 기대…GS건설은 재무 부담 변수 녹색경제신문 동해시, 2.4GW AI 데이터센터 연계 지역 성장전략 모색 뉴스1"
         },
         {
-          "title": "박홍근 “증시 조정, 반도체 편중된 한국 경제에 신호…엄중히 인식” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SN29XWGdCVmNReTNXS3o1d1ZmMHRIY1d3OEtUWnM1d1NyMDhUM3VoSzlyalJIUFJMU1I1QUpCNlRRMHFHQUVRY3VGZ09OLWo0X2lBVFVWU1luZHM?oc=5",
+          "title": "뉴욕증시, AI 투자 우려 완화에 혼조세…나스닥 1.3%↑ - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY2ZLdVNBcDZwSGtLdGxidUhsSU03MjlrbVgzWEpPbGNlSkU5cTZ0UTczcndBLVJxakEwNmJxVlFraXZCV2Y2WXVSbTNXa3didVRsM055cUpzaGJFY092MmR3bDc0X2lrcUlHaURlTHp1MWJpOUdSX2RPMzVuX1lnTm1aSmE4Y0dCZFdkMzNxYkFQSlBmdDRSaTladU9Md9IBsgFBVV95cUxQTFFWaHFzMHk2aE9EbGpUbjg1OS13TEJEcnRRdnJqcmhxaEFSQXhzcmxXXzZxaFRBWV9jR2hYY2gtdzNYUHJQZ1Z3VVVRelpkSjYyT0VpOGt0TlJaYUF3QVF3NDVtbFNuOTRnT1FjUXpmN0dzbTQ4eFlJUTA0ZGVhTkxaTTVBYmFsVlBTSkFjN1VNRmN6VzZ4VU00RHNhSjlpalRvVWhIQmZLS0M5YTVQMXlB?oc=5",
+          "source": "Chosunbiz",
+          "published": "11-12 00:29",
+          "snippet": "뉴욕증시, AI 투자 우려 완화에 혼조세…나스닥 1.3%↑ Chosunbiz 코어위브 CEO \"지분 매각계획 중단\"…깜짝실적에 20%대 주가폭등 연합뉴스 '괜히 팔았나' 깜짝 반전…하루 만에 29% 급등한 회사 정체 한국경제 코어위브, 3Q 호실적·연간 매출 전망 상향…주가 26%↑ 마켓인 AI 데이터센터 바로미터 ‘코어위브’… 깜짝 실적에도 여전한 부채 경고음 서울신문"
+        },
+        {
+          "title": "모건스탠리 \"美 중간선거 후 AI주 급락 과도…선별적 매수 기회\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52VDdndHdacFhfX2tWYkFUQ0JkZ2VJeTV5bWswc2ZoLW00UjNmN2F6UnljcFl6YWR6d3hQUVFvQW0yeXVLUFBJVnFwbnREdVdDUkxGMV9ZQzdsREM0ZF95bzFQYWJlT0xJSU1DMWlQTGw?oc=5",
+          "source": "연합인포맥스",
+          "published": "11-11 16:06",
+          "snippet": "모건스탠리 \"美 중간선거 후 AI주 급락 과도…선별적 매수 기회\" 연합인포맥스 한국이 데이터센터 대안으로 뜬다?…이유 봤더니 [잇슈 머니] KBS 뉴스 [이미선의 크립토ON] 주식·크립토 급락, 2018년 데자뷰 연합인포맥스 트럼프·민주 충돌에 韓 성장 'AI 변수'…수출 넘어 내수까지 파장 뉴스1 중간선거서 'AI 역풍' 맞았는데…오픈AI 의장 \"美 주도권 유지해야\" 뉴시스"
+        },
+        {
+          "title": "'피지컬 AI' 핵심부품 3종 육성한다…내년 개발 본격화 - 대한민국 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05c0FWMEVnbzhteUMzbUNFd1Q1eWVVMWdFNWRBZzJoWXo0ZnNRWUNhRVU4NjdwSlJoRUkzd2VuN3ZORjVnQmMxTjhDQXU0bFpXRk1EZXVIUEdXdUhlQlRvNzBfcXRpN05lYVZfMA?oc=5",
+          "source": "대한민국 정책브리핑",
+          "published": "11-11 18:01",
+          "snippet": "'피지컬 AI' 핵심부품 3종 육성한다…내년 개발 본격화 대한민국 정책브리핑 피지컬AI '눈·근육·동력' 키운다… 초혁신경제 선도 과제 지정 - 머니투데이 머니투데이 재경부, '초혁신 프로젝트' 성과 점검…\"국민 체감토록 노력\" 연합뉴스 정부, 로봇 센서·구동장치·배터리 육성…기술개발·실증 지원 연합뉴스TV 삼현, 피지컬 AI 핵심 액추에이터 국책과제 주관기관 선정 매일경제 마켓"
+        },
+        {
+          "title": "AI로 적응증 예측하고 새로운 분자 만든다…한미약품·대웅제약이 그리는 신약개발 미래 - MEDI:GATE NEWS",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5yTllzSHYtM2dUYWRlMGFmX1E3cFhpanpobW9zWXd4V042aHpFYmhkTXpkVERvZHEwcnhpYktCYWI1YUdwWk1kSlFRMGl2WjI3YU9ySkJMSQ?oc=5",
+          "source": "MEDI:GATE NEWS",
+          "published": "11-11 07:23",
+          "snippet": "AI로 적응증 예측하고 새로운 분자 만든다…한미약품·대웅제약이 그리는 신약개발 미래 MEDI:GATE NEWS AI 신약개발, 가능성에서 성과로…\"좋은 데이터·기술 통합·현장 검증 필요\" - 머니투데이 머니투데이 구글·앤트로픽도 뛰어든 신약개발…경쟁력은 '데이터' : 네이버 블로그 Naver Blog 독성연, AI 신약개발 기술 공유…바이오기업 해외 진출 지원 데일리안 디엑스앤브이엑스, 유전체 진단 AI 기술력 신약개발로 영역 확대 매일경제 마"
+        },
+        {
+          "title": "한국, 디지털·AI 경쟁력 ‘세계 10위’…1년 새 8계단 상승 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3WWlDQUozRUdVdUFDVkJ3ZC1OY2FVMG1GVFlzX1dybVItcEo3c2tsUzZoZ3dISEJrdmJXUnotcjF0UFJOMTdNdS1SWHV6Ui1XRGI3VktNdkUwRHc?oc=5",
           "source": "KBS 뉴스",
-          "published": "11-11 16:01",
-          "snippet": "박홍근 “증시 조정, 반도체 편중된 한국 경제에 신호…엄중히 인식” KBS 뉴스 기획처장관, 美 중간선거 이후 경제동향 점검을 위한 전문가 간담회 개최 서울Pn 박홍근 “반도체 편중 리스크 줄여야”…7대 신산업 투자 확대 전자신문 박홍근 \"최근 증시 조정은 반도체 편중 신호…산업 다변화 추진\" 연합인포맥스 발언하는 박홍근 장관 뉴스1"
-        },
-        {
-          "title": "[성공예감] 반도체 ‘Q사이클 전환’은 아직! 그럼 다음 수혜주는? – 노근창 대표(세미콘리서치랩) - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VQk9CM0lzMDViMFY2UlRKWmVEaEgzY1hpb3RpTGhqNXYzM3NMRkVDT1otTmJyZ1h3blR6ZHM4alYtM3JqWXl4UjZwTGxqRkhkU092c1JVbC1MY00?oc=5",
-          "source": "KBS 뉴스",
-          "published": "11-11 15:15",
-          "snippet": "[성공예감] 반도체 ‘Q사이클 전환’은 아직! 그럼 다음 수혜주는? – 노근창 대표(세미콘리서치랩) KBS 뉴스 11월 10일 오늘의 투자 핵심 콘텐츠! 네이버 프리미엄콘텐츠 [오늘의 이 종목] \"유영화가 짚은 AI 국면 전환의 반도체, 그리고 비만치료제 1위 일라이릴리의 다음 모멘텀\" - 머니투데이 머니투데이 \"반도체 비중 늘린 외국인, 다 판 것 아니다\"…증시 반등 시점 언제? 뉴시스 AI 데이터센터 투자 둔화 우려 '국장 투매' 진정 분위"
-        },
-        {
-          "title": "美 물가·긴축 우려 뚫은 코스피…반도체주 타고 2.60% 상승 - 인더스트리뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xS0V6azVnQTlIdXZFVWVrckJvcGV3X2ZEREU3UUIwWFZoUXhiSTFydjBKOTVUUGhNdGt6b0diY0doQXVXb3NpWVR3cE83RFdONVZUR3dyeGtVc3hEV3h4TUUtNTNSSWxUS2VDR3J6dTViQQ?oc=5",
-          "source": "인더스트리뉴스",
-          "published": "11-11 18:07",
-          "snippet": "美 물가·긴축 우려 뚫은 코스피…반도체주 타고 2.60% 상승 인더스트리뉴스"
-        },
-        {
-          "title": "미국증시 장초반 나스닥 1.53% 상승…코어위브 실적에 AI·반도체주 급등, SK하이닉스 7% 강세 - 톱스타뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aVXpMOXd5dkN1cE9UOWZNTUNub3otOTNQVkdhVFhLd3doYkRfZDJENF9JOWJXZ1d0X2hGZktheUVLMjBFV2VWaDAyNWlTdTBsYzlGc0dNVGY0dkVqZjZSMjJ6S3hXR2t3aXFRU1QzYTYxQQ?oc=5",
-          "source": "톱스타뉴스",
-          "published": "11-11 23:46",
-          "snippet": "미국증시 장초반 나스닥 1.53% 상승…코어위브 실적에 AI·반도체주 급등, SK하이닉스 7% 강세 톱스타뉴스"
+          "published": "11-11 08:01",
+          "snippet": "한국, 디지털·AI 경쟁력 ‘세계 10위’…1년 새 8계단 상승 KBS 뉴스 한국 '디지털·AI 경쟁력' 세계 10위…전년 대비 8단계 ↑ 대한민국 정책브리핑 기업 데이터 유출 대응능력 70개국중 58위 문화일보 한국, IMD 디지털·AI 경쟁력 10위… 기술 인프라·효율성 3위 Chosunbiz '기업 사이버 보안 대응' 70개국 중 48위... 작년 40위에서 하락 한국일보"
         }
       ],
       "기업 3분기 실적 발표": [
         {
-          "title": "롯데웰푸드, 3분기 영업이익 899억원…해외사업 호조 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JSlgyME11YjU1dUJvSmR1cEwydF9Qc3c5a085MGNDY2VDYkZUSDl4OVNsUmp0STlmaXpxVjBCTXJvV1BGQTl1R3lvSDBzc0o0TFQzTFRrVVpMMTZOOG5KMDNTYVZmTTA?oc=5",
-          "source": "연합뉴스TV",
-          "published": "11-11 15:00",
-          "snippet": "롯데웰푸드, 3분기 영업이익 899억원…해외사업 호조 연합뉴스TV 롯데웰푸드, 해외 시장 고성장 실적 견인…3Q 영업익 899억·29.7%↑(종합) 뉴시스 인도·카자흐서 '훨훨'…롯데웰푸드, 3Q 해외 영업이익 138%↑ - 머니투데이 머니투데이 롯데웰푸드, 3분기 영업익 29.7%↑…인도·카자흐스탄이 견인 전자신문 롯데웰푸드, 3분기 영업익 29.7% 증가⋯ “해외사업 호조” 브릿지경제"
+          "title": "엔씨, 3분기 영업익 1196억원 '흑자전환'…매출 91% 증가 - 지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JTXprVmdOS0NEelA4cFZfWEF3dlBGRE94MzVUQUlFQ3ZSQWNQcHhZX05oM1RtNlllOW9aVWZQYjdEWmotSzgzZE1xcVNjT21jTFNyRGtB?oc=5",
+          "source": "지디넷코리아",
+          "published": "11-11 14:50",
+          "snippet": "엔씨, 3분기 영업익 1196억원 '흑자전환'…매출 91% 증가 지디넷코리아 엔씨, MMORPG 성과에 3분기 흑자전환…연매출 목표 조기달성(종합2보) 연합뉴스 [컨콜]박병무 엔씨 대표 \"'아스트라에 오라티오' 내년 1분기 출시 전망\" 뉴시스 엔씨 “아이온2, TL보다 결제·핵심 이용자 유지율 높아” [엔씨 컨콜] IT조선 엔씨 글로벌 성장·위메이드 흑자 전환…네오위즈는 실적 부진 아시아투데이"
         },
         {
           "title": "메리츠금융 3분기 누적 순익 3.2%↓…보험·증권 ’희비’ - 연합뉴스TV",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5waUFWT1pmN01DZjI4cEp1a2xEcWZMM3ltalJMdHkxR3FPaWFGWlRUak9zRkZ1N1NXLW5wN0VxQk9iTzlaUlJmN1BZS3lsZmFtd2J4akhoaTk1R3pvRnJ0MUpRSzdEdEE?oc=5",
           "source": "연합뉴스TV",
           "published": "11-11 18:11",
-          "snippet": "메리츠금융 3분기 누적 순익 3.2%↓…보험·증권 ’희비’ 연합뉴스TV 메리츠증권 3분기 영업이익 1천400억원…작년 동기 대비 44.7%↓ 연합뉴스 ‘1.9조 순익’ 메리츠금융지주...높은 수익성에도 ‘투자손익’ 부담 에너지경제신문 메리츠금융 3분기 순이익 26.6% 줄어, 메리츠화재 투자손익 급감 비즈니스포스트 메리츠화재, 보험손익 선방에도 투자손익 부진…3분기 순익 6.8% 감소 - 머니투데이 머니투데이"
+          "snippet": "메리츠금융 3분기 누적 순익 3.2%↓…보험·증권 ’희비’ 연합뉴스TV 메리츠금융, 3분기 누적 순익 1조9천621억원…3.2%↓(종합) 연합뉴스 김용범 \"향후 3년 증권 이익 성장 확대…화재와 선의의 경쟁\"[IR종합] 뉴스1 메리츠금융 3분기 순이익 26.6% 줄어, 메리츠화재 투자손익 급감 비즈니스포스트 메리츠화재, 보험손익 선방에도 투자손익 부진…3분기 순익 6.8% 감소 - 머니투데이 머니투데이"
         },
         {
           "title": "한화손보, 3분기 순익 34%↑…보험손익은 3배 수준 - 연합뉴스TV",
@@ -792,41 +807,20 @@
           "snippet": "뉴욕증시, 코어위브 실적 소화하며 혼조 출발 연합인포맥스"
         },
         {
-          "title": "[뉴욕증시]코어위브 실적 호조에 나스닥 1.2% 상승 - 아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JQ2FtLWd2eERTYVlMQWhFd1VBM3lacHFkXy1QTU5LTF9idUNjbS1vSmwwMU90aVNzUmJQejFhMTBBV3M5cnB6OHlIUldLY1JocGJ5U0c0ZTNkc0E5M2JBWQ?oc=5",
-          "source": "아시아경제",
-          "published": "11-12 00:22",
-          "snippet": "[뉴욕증시]코어위브 실적 호조에 나스닥 1.2% 상승 아시아경제"
+          "title": "뉴욕증시, 코어위브 호실적에 기술주 중심 반등…S&P·나스닥 상승 출발 - 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xOXJMdFktRzlJa2VxLVZ3UUJLZ00wZWRXc212OTBXb1FPY1J6VTNKd0MtY0ZqOWNDNi0yamZkbWM3UXlHNkh2aDVPa2p4eU1sVkhZOVlIeXNTQQ?oc=5",
+          "source": "파이낸셜뉴스",
+          "published": "11-12 00:23",
+          "snippet": "뉴욕증시, 코어위브 호실적에 기술주 중심 반등…S&P·나스닥 상승 출발 파이낸셜뉴스"
         }
       ],
-      "연준 빅스텝 인상 우려": [
+      "미 연준 빅스텝 우려": [
         {
-          "title": "미 금리 '빅스텝' 인상 우려에도…환율 3.9원 내린 1,333.6원 - 한국무역협회-KITA.NET",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdWF5cURMSkFPZVR6bm5XSnFOMzNxcHF1bUNGYVNZV1NzcmhZdnB5MkVtU1pwa2dNQUtwQWFhWlZ5V1lMeEc5d0hzT2U0ZzdHV3BaVExtSHVKVUNJMWJ2SDZ2VUJ0NVpjaUx4R0xqaThYV2ZfbFpFWklDejVxYXRqd3BQZ2paYWpMTEEwSHkyX0ZLQkctTmNac0lzbHYyZjBYRlh6X25NWjJZNVpnOE1nQlFlckFQZGV6WThtVkFWaW1CTDFxOFpiTjJraUQ4SHZoSThMUFBn?oc=5",
-          "source": "한국무역협회-KITA.NET",
-          "published": "11-11 16:25",
-          "snippet": "미 금리 '빅스텝' 인상 우려에도…환율 3.9원 내린 1,333.6원 한국무역협회-KITA.NET Google 뉴스에서 헤드라인 및 의견 더보기"
-        },
-        {
-          "title": "금값, 급락 후 안정…중앙은행 수요가 연준 금리 인상 우려 상쇄 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWdnhBdVNCQjRqcnBZb25HLTk2cGNBa056Uk44bTdUOTE0dFRoeW4ybWF5djlWaUtramo0Z3FQWVQwNDJsa2U3S0ZRUFVKdW5uOE5KM1V0cWUtVzliRUdTZEY2dTZrQkZ5bVBMb1ktaw?oc=5",
-          "source": "Investing.com 한국어",
-          "published": "11-11 09:57",
-          "snippet": "금값, 급락 후 안정…중앙은행 수요가 연준 금리 인상 우려 상쇄 Investing.com 한국어"
-        },
-        {
-          "title": "미국 물가 급등·연준 매파 발언에 글로벌 채권시장 흔들…50bp 인상 우려 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TOXRmSHRodllEejlsUV9DWExqbGZMUmVqYlo1RktYLXNSRHRhVkRUVUtKYzEyS211WThJeXpMY3RjUXpNTWQ3aFVaSWY4YUk4cEdMZEw1a0NUUnk4VGM0OG93NFlsVkU?oc=5",
-          "source": "Investing.com 한국어",
-          "published": "11-11 18:10",
-          "snippet": "미국 물가 급등·연준 매파 발언에 글로벌 채권시장 흔들…50bp 인상 우려 Investing.com 한국어"
-        },
-        {
-          "title": "물가·연준 '빅스텝' 우려에 뉴욕증시 하락…나스닥 0.7%↓(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9odjVpVkR5eTJrcFZQaWdSNzViTUoxTGttTjVDRDZOT3dpNk9QLWs2TEFvZ1NXMWd3UTZqNnJGU2Z2NmJQd3pRTVM3NEhWVmJoMVNPRmZDUUQ1c0nSAWBBVV95cUxOUWJzWnJmalR2Y3pMTkczSWpUX2xianBOaG1HRURVWk9vb0YxaFdTbF85dC1aWDNCWjRMNFp2T1FrdjVtT3k5cmNhSWF0NHpQUXl4UVNEcHlKQ3lqX1RfYzk?oc=5",
-          "source": "연합뉴스",
-          "published": "11-11 07:26",
-          "snippet": "물가·연준 '빅스텝' 우려에 뉴욕증시 하락…나스닥 0.7%↓(종합) 연합뉴스"
+          "title": "美연준 빅스텝 우려에도 코스피 2%·코스닥 5%대 상승...'삼전닉스' 견인 - 티제이비",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mQ2k2ZDFLZi1PeXZjT0FWYUN5aUNjdHBzdWtMWTh2d3M4VXAzb2hVMkxzQmFxUWJjS09nZ2UwWU8yWjNuQmVtT1kxT3N1QWRTZVctOGVEeUxzYWZMU3MxTmJ3?oc=5",
+          "source": "티제이비",
+          "published": "11-11 16:02",
+          "snippet": "美연준 빅스텝 우려에도 코스피 2%·코스닥 5%대 상승...'삼전닉스' 견인 티제이비"
         },
         {
           "title": "코스피, 美연준 '빅스텝'우려에 약보합…코스닥은 2% 가까이 상승 - 연합인포맥스",
@@ -836,14 +830,49 @@
           "snippet": "코스피, 美연준 '빅스텝'우려에 약보합…코스닥은 2% 가까이 상승 연합인포맥스"
         },
         {
+          "title": "물가·연준 '빅스텝' 우려에 뉴욕증시 하락…나스닥 0.7%↓(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9odjVpVkR5eTJrcFZQaWdSNzViTUoxTGttTjVDRDZOT3dpNk9QLWs2TEFvZ1NXMWd3UTZqNnJGU2Z2NmJQd3pRTVM3NEhWVmJoMVNPRmZDUUQ1c0nSAWBBVV95cUxOUWJzWnJmalR2Y3pMTkczSWpUX2xianBOaG1HRURVWk9vb0YxaFdTbF85dC1aWDNCWjRMNFp2T1FrdjVtT3k5cmNhSWF0NHpQUXl4UVNEcHlKQ3lqX1RfYzk?oc=5",
+          "source": "연합뉴스",
+          "published": "11-11 07:26",
+          "snippet": "물가·연준 '빅스텝' 우려에 뉴욕증시 하락…나스닥 0.7%↓(종합) 연합뉴스"
+        },
+        {
           "title": "뉴욕증시, 연준 '빅스텝' 우려·엔비디아 급락에 하락 마감 - 뉴스핌",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXd3JGN1pKdWJHOEhPRFBSZ3JsZV9IU1hOdnJ1MGphYzZtMUdKY1p1UW9NVFRSSVdvWmMzd2VMd1FIMDJRbWFxR0tnMHZJNEpoU3EwR3NDdTZSdlBM?oc=5",
           "source": "뉴스핌",
           "published": "11-11 06:23",
           "snippet": "뉴욕증시, 연준 '빅스텝' 우려·엔비디아 급락에 하락 마감 뉴스핌"
+        },
+        {
+          "title": "미 연준, 기준 금리 ‘빅스텝’ 가능성…소비자 물가는 상승 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPcFo0NjFNS2NpRXVQeTVHcEpFSFNTWDJURnRRZzNYbkpUR1dxXzkwWVNta2tMbXJkWkNvdlVEeGhLdENsT0N1R2Y1Z0JPR1oxR1dwc05CMlJKMGM?oc=5",
+          "source": "KBS 뉴스",
+          "published": "11-12 04:18",
+          "snippet": "미 연준, 기준 금리 ‘빅스텝’ 가능성…소비자 물가는 상승 KBS 뉴스 CPI에 발목 잡힌 뉴욕증시...3대 지수 일제히 하락 네이버페이 머니스토리 [뉴스프레소] 뉴욕증시, 물가 부담에 하락…코어위브 호실적, AI 투심 되살아나나 - 머니투데이 머니투데이 美CPI·월러 발언에 월가 \"12월 인상 기정사실…전부 팔아라\" 연합인포맥스 골드만삭스, 연준 12월 금리 인상 후 3월 추가 인상 가능성 마켓인"
+        },
+        {
+          "title": "미국 '빅스텝' 우려 속 국고채 금리 급등…3년물 연 3.729%(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mZW9tVjBKRk9hZ21raUhNdnBYN1haLUdSUmxtX1ZaVDc1WjNHaFRnRnU2Vk1fLUhmS3BTNEhkdkI5N0ZVU09MbHJFLTJ6TEJHVzlUc2hqWDVqX1E?oc=5",
+          "source": "연합뉴스",
+          "published": "11-11 16:56",
+          "snippet": "미국 '빅스텝' 우려 속 국고채 금리 급등…3년물 연 3.729%(종합) 연합뉴스"
         }
       ],
-      "코어위브 호실적과 증시 반등": [
+      "코어위브 실적 호조": [
+        {
+          "title": "[뉴욕증시]코어위브 실적 호조에 나스닥 1.2% 상승 - 아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JQ2FtLWd2eERTYVlMQWhFd1VBM3lacHFkXy1QTU5LTF9idUNjbS1vSmwwMU90aVNzUmJQejFhMTBBV3M5cnB6OHlIUldLY1JocGJ5U0c0ZTNkc0E5M2JBWQ?oc=5",
+          "source": "아시아경제",
+          "published": "11-12 00:22",
+          "snippet": "[뉴욕증시]코어위브 실적 호조에 나스닥 1.2% 상승 아시아경제"
+        },
+        {
+          "title": "뉴욕증시, 코어위브 실적 소화하며 혼조 출발 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KY1Qtb3hFRU5USWpuOWxsNWVhN0RzOTF5TG9xUDREdzVMS0hscFF6ZEVhX2tqZUdRQmZMamRIWXlUVmI1V2ZFWkNWSzNqdWNKdEttd3FLUU43ODJOdVFMcU1EX0Y3NzJXeUk2RFdueTY?oc=5",
+          "source": "연합인포맥스",
+          "published": "11-11 23:49",
+          "snippet": "뉴욕증시, 코어위브 실적 소화하며 혼조 출발 연합인포맥스"
+        },
         {
           "title": "뉴욕증시, 코어위브 호실적에 기술주 중심 반등…S&P·나스닥 상승 출발 - 파이낸셜뉴스",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xOXJMdFktRzlJa2VxLVZ3UUJLZ00wZWRXc212OTBXb1FPY1J6VTNKd0MtY0ZqOWNDNi0yamZkbWM3UXlHNkh2aDVPa2p4eU1sVkhZOVlIeXNTQQ?oc=5",
@@ -852,18 +881,11 @@
           "snippet": "뉴욕증시, 코어위브 호실적에 기술주 중심 반등…S&P·나스닥 상승 출발 파이낸셜뉴스"
         },
         {
-          "title": "뉴욕증시 개장 전 특징주...코어위브 15% 급등·엔비디아 4% 반등…AI 관련주 일제히 강세 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NTnlNamNOSTJJeV84dC1SRHBUVEV0WGFPVFVqRElyLUNyYnhid0RwZk5hRHd2dmhjOVk3WHp4WnhpUmJhd2FKOW94SkFWZXdLQzZRRlhkQmsycS1C?oc=5",
-          "source": "뉴스핌",
-          "published": "11-11 22:33",
-          "snippet": "뉴욕증시 개장 전 특징주...코어위브 15% 급등·엔비디아 4% 반등…AI 관련주 일제히 강세 뉴스핌"
-        },
-        {
-          "title": "뉴욕증시 프리뷰, 미 주가 선물 반등...코어위브 15% 급등에 AI 투자 우려 완화 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XTlhXel9QMVZEczhrVV95X1Jhdjc4cVlUUjAzLW81M2ZNYkwwWGhsNzhLUEItaHphMkpiQUw0czZmRlNwM01iTjJ3UWtnY1dCQmIyVVBRVEwtc2Q1?oc=5",
-          "source": "뉴스핌",
-          "published": "11-11 21:34",
-          "snippet": "뉴욕증시 프리뷰, 미 주가 선물 반등...코어위브 15% 급등에 AI 투자 우려 완화 뉴스핌"
+          "title": "코어위브 실적 반등 신호에 급등…월가 “신뢰 회복엔 시간 필요” 의견도 [월가 업&다운] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rTzVaZXJ6bUs4UktwVzgxTG0xMXJwNGpJeWxqYzZXZm1nenhVU0hCaGI5aVNxNE1ENkU5NkhEY2dEMkxGckt1ZGl2MzBfWkpQdG1WdlA1SEJnQQ?oc=5",
+          "source": "한국경제",
+          "published": "11-11 23:08",
+          "snippet": "코어위브 실적 반등 신호에 급등…월가 “신뢰 회복엔 시간 필요” 의견도 [월가 업&다운] 한국경제"
         },
         {
           "title": "뉴욕증시, 코어위브 호실적에 힘입어 상승세 출발 - 뉴시스",
@@ -873,95 +895,115 @@
           "snippet": "뉴욕증시, 코어위브 호실적에 힘입어 상승세 출발 뉴시스"
         },
         {
-          "title": "[뉴스프레소] 뉴욕증시, 물가 부담에 하락…코어위브 호실적, AI 투심 되살아나나 - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56YlFrNDdaVEZKZGZ2YklONXJLb0xLS2ZIb21fdktmWXZLb2EtOHozbTJ0QlNSRjN5NjE5UVZJeG9yOW5tM3VENW94LVFVWmFqS09SUEdUT0xIQ2J2c0tGZHZtSkNQQU5K0gFuQVVfeXFMTmFGOUN5dm10X0ZtNXFhWUVMek5OWmxfUlV4VnJROFdsYVMzaDJHODg5bWEwc0tnS012UFY0RTRzYV82azU4QWVybnFiOGZtMjhtZ0dQVWFnN2o3aFp3Rkg3YWQxamEtVkxqWlF0TGc?oc=5",
-          "source": "머니투데이",
-          "published": "11-11 12:40",
-          "snippet": "[뉴스프레소] 뉴욕증시, 물가 부담에 하락…코어위브 호실적, AI 투심 되살아나나 - 머니투데이 머니투데이"
-        },
-        {
-          "title": "[증시-마감] 코스피, 美 긴축우려 딛고 반등…코스닥 이틀째 사이드카 - KB Think",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVLXV0bWNUZXBESXRuYi12RlBiQWJWQ2lVZmVKZ3ZHcE5ycnVVQUkwWUxsNHhKU3JHUzlWUzYzaFdFQkVQcEozaDN5dEdlRlRmbm1PSnY2VlB6aU9VdTFmYTh0X3c5Mkp4ZlVVbkhuWjFHQQ?oc=5",
-          "source": "KB Think",
-          "published": "11-11 16:11",
-          "snippet": "[증시-마감] 코스피, 美 긴축우려 딛고 반등…코스닥 이틀째 사이드카 KB Think"
+          "title": "미국증시 장초반 나스닥 1.53% 상승…코어위브 실적에 AI·반도체주 급등, SK하이닉스 7% 강세 - 톱스타뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aVXpMOXd5dkN1cE9UOWZNTUNub3otOTNQVkdhVFhLd3doYkRfZDJENF9JOWJXZ1d0X2hGZktheUVLMjBFV2VWaDAyNWlTdTBsYzlGc0dNVGY0dkVqZjZSMjJ6S3hXR2t3aXFRU1QzYTYxQQ?oc=5",
+          "source": "톱스타뉴스",
+          "published": "11-11 23:46",
+          "snippet": "미국증시 장초반 나스닥 1.53% 상승…코어위브 실적에 AI·반도체주 급등, SK하이닉스 7% 강세 톱스타뉴스"
         }
       ],
-      "엔비디아 주가 급락세": [
+      "엔비디아 주가 급락": [
         {
-          "title": "“앨리스 황, 엔비디아칩 24만장 중국 밀반입…최소 10조원 규모” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSFF6bXZ4MFk3SzVzU09FREF6UWhaOENKQXF4S2tvU0xraFQ1dVVfWjJwTFp1WHVqRXpZMkZfTmZKT0xYUmZyNU1JYmtEaDVLcEdLNXZtcDlXQkVaSXExd1ZXOHNhc3JoRDk1Z3RIMTdfcjVZeEVLM0YxcVBGOFVuVUZR?oc=5",
-          "source": "한겨레",
-          "published": "11-11 20:23",
-          "snippet": "“앨리스 황, 엔비디아칩 24만장 중국 밀반입…최소 10조원 규모” 한겨레 앨리스 황, 10년 간 행적 살펴보니 ‘충격적’···“사모펀드 동업자 ‘주가조작’ 혐의로 구금” 경향신문 엔비디아와 젠슨 황, 동반 침몰할까? 뉴스타운 \"불륜 숨기려고도 안 했다?\"...'젠슨 황' 스캔들의 착시 YTN 젠슨 황 스캔들로 소환된 '마타 하리'…'간첩'인가 '희생양'인가 뉴시스"
+          "title": "젠슨 황 스캔들에 목표주가 60% 뚝…흔들리는 엔비디아, 월가 94%는 여전히 ‘매수’｜Global Money Club - 중앙일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSTHRvLUpISkJ6VmNSN2dydl9FWWhoZmRRX2ZSaXNhaEFyWlA2bWctSURWNHhiNk9HclBNUVNTSUlFZXpkX0pXVFV5cUNCQjVlc2FuR051WFZxMW8?oc=5",
+          "source": "중앙일보",
+          "published": "11-11 23:26",
+          "snippet": "젠슨 황 스캔들에 목표주가 60% 뚝…흔들리는 엔비디아, 월가 94%는 여전히 ‘매수’｜Global Money Club 중앙일보"
         },
         {
-          "title": "고점 찍고 반토막 난 삼전닉스…주가 반등 신호 나왔다 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00SnBVSHRVQVZnM0ZhSDlLTWV2RC13M3EydEp0LVhFeGptSDhqZDJXSVB4dzRveDFnNVpDR2ttRk1qQmVQUEgzMUx2Q2xRYjJ1X2RReC00OUNOUQ?oc=5",
-          "source": "한국경제",
-          "published": "11-11 08:23",
-          "snippet": "고점 찍고 반토막 난 삼전닉스…주가 반등 신호 나왔다 한국경제 TSMC, 앤트로픽·오픈AI에 각각 최대 5억달러 투자 연합뉴스 삼성·SK하이닉스 빠진 앤스로픽 반도체 동맹…TSMC·마이크론은 대규모 투자 뉴스핌 엔비디아 후계 구도부터 TSMC 매출 급증까지 이시각 주요뉴스 연합인포맥스 TSMC 최대 실적인데 소프트뱅크는 6.5조 적자…AI 호황의 두 얼굴 마켓인"
+          "title": "뉴욕증시, 연준 '빅스텝' 우려·엔비디아 급락에 하락 마감 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXd3JGN1pKdWJHOEhPRFBSZ3JsZV9IU1hOdnJ1MGphYzZtMUdKY1p1UW9NVFRSSVdvWmMzd2VMd1FIMDJRbWFxR0tnMHZJNEpoU3EwR3NDdTZSdlBM?oc=5",
+          "source": "뉴스핌",
+          "published": "11-11 06:23",
+          "snippet": "뉴욕증시, 연준 '빅스텝' 우려·엔비디아 급락에 하락 마감 뉴스핌"
         },
         {
-          "title": "앤트로픽 가치 최대 1.4조 달러…엔비디아·구글 13조원씩 투자 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00NlYyYUc0ZU8xU3A5T1g4NmU1Y0d6QmdnazBLOFlBa3NNdl9ibVhBWFlxTnBxMUJ2UW5fWG1PMEZwdjVVR1hYek1FNTNNUm96OU4tVEw1NE90ZWg1Qk5EOEtyZ2lnM28?oc=5",
-          "source": "연합뉴스TV",
-          "published": "11-11 09:04",
-          "snippet": "앤트로픽 가치 최대 1.4조 달러…엔비디아·구글 13조원씩 투자 연합뉴스TV 앤트로픽 ‘주당 70~78달러’ 19일 상장…조달 규모 ‘역대 최대 IPO’ 904억달러 경향신문 대형 투자자 줄섰다…앤스로픽 IPO, 공모 물량 몇 배 주문 몰려 마켓인 美정부와 갈등 빚는 앤트로픽도 트럼프의 '슈퍼지능' 용어 사용 연합뉴스 2조 달러 거론되다 1.4조 달러로 후퇴...거품론 시험대 오른 앤트로픽 YTN"
+          "title": "[뉴욕증시] CPI 쇼크에 연준 ‘빅스텝 공포’…나스닥 187P·엔비디아 5.5% 급락 - 글로벌이코노믹",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT0VndVhEdTdTNklfaFYtZ1dQNTJfOC1KYnpuLVlhSW9LSDlPdEk1MUY1dEY1X3NxbDN4elN4SmVfUThIOG4yRmxERDczRk9DRTRsNXRSNXpKNTk2YnNuT0c2RDU1QWZZVGc2cGpOOEZGY1hSV1ctOEp2QmZXekdIUGpqY1JVQXpK?oc=5",
+          "source": "글로벌이코노믹",
+          "published": "11-11 06:33",
+          "snippet": "[뉴욕증시] CPI 쇼크에 연준 ‘빅스텝 공포’…나스닥 187P·엔비디아 5.5% 급락 글로벌이코노믹"
         },
         {
-          "title": "민주 “주가누르기 방지법 정기국회 처리”…이견 해소는 못해 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3U3hKSXg3UF9xbTlNSlVzbTZ0MEdZa0tkTGpTUldUSGZ2ZXhMODBXdlRKS3B3MzNRRlJNdmtWcU9XZnVUX2dESjgwTHZMXy1NT3AzRXhjT19FcF93OGQxLTBmSC11bFVHYmVwQVJJZlUyMnMx?oc=5",
-          "source": "한겨레",
-          "published": "11-11 00:34",
-          "snippet": "민주 “주가누르기 방지법 정기국회 처리”…이견 해소는 못해 한겨레 눈높이 못 맞추는 정부…자본시장 세제 개편안 연이은 '헛발' - 머니투데이 머니투데이 [사설]“자산 가치보다 주가 낮으면 할증 과세”… 혼란과 왜곡 부를 뿐 동아일보 [단독]“상속세 낼 땐 헐값, 팔 땐 90% 웃돈”…‘PBR 0.8 룰’ 굳히는 與 서울경제 민주당 주가누르기방지법 '연내 처리' 공언, 정부안 vs 의원안 '오랜 평행선' 이번엔 넘을까 비즈니스포스트"
+          "title": "[속보]이틀간 10% 급락 엔비디아…나스닥 0.74%↓ - 문화일보",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ycDJwNnlKTjgtTjRQQTBFM09iMkNUTkJ6cFR6dWs2bWpxRmZkTE1iblUtaVNLYXBGMU5fZC1jMkpPeXBVcU0wMm5RMUlNXzl6?oc=5",
+          "source": "문화일보",
+          "published": "11-11 06:20",
+          "snippet": "[속보]이틀간 10% 급락 엔비디아…나스닥 0.74%↓ 문화일보"
+        },
+        {
+          "title": "뉴욕증시, 물가 우려에 일제히 하락...엔비디아 5%대 급락 - 조세일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VVmJIUzBERWV0dUpCUGliM0VNZjZnWjBYeWN3cGdZdGpTQnFtcENGMWVVWHhod0c5MGdUTmpaUWoyVGtkRUJvbllNSGZWQWotMEhmUG04YkQtVWxUWjhRLTc2UWlTcktHWDVsblQwdw?oc=5",
+          "source": "조세일보",
+          "published": "11-11 08:15",
+          "snippet": "뉴욕증시, 물가 우려에 일제히 하락...엔비디아 5%대 급락 조세일보"
         },
         {
           "title": "\"미 블랙리스트 중국 군연계 대학, 엔비디아 H200 구매\" - MBC 뉴스",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1kZFVnd1h1ZU5OS29STFJ2aEFXbmxjbVZCY1AxdFJzcVNlanExbFNEbkJwbjQxZ3M0N3VPcnJ0bFBLRjNCVFpESk85T2FYQnFxXzU0U1RmbEpQaWJiNS1VU0tPdHBBaGhDelQ5Y1lPLUhfTmtG0gF0QVVfeXFMUHBRc3gzVDJMdEcxQ3U0cWNpdVlRQ0h4R0VZajRkV1g4aDZVc1U1cm5lTHpsSENyWG5vOFFzZDIwTEotcnFGdFhENzYyNDlRSm02U05lODllWXV5eGY2WnNtYkhEWTYwMUd5ZlNyUDQ0V2NpM3I?oc=5",
           "source": "MBC 뉴스",
           "published": "11-11 16:52",
-          "snippet": "\"미 블랙리스트 중국 군연계 대학, 엔비디아 H200 구매\" MBC 뉴스 젠슨 황 스캔들 이어 '中 AI칩 봉쇄법'까지…글로벌 완성차 업계 파장 촉각 뉴시스 \"엔비디아 악재에도 반도체는 간다\"…HBM이 메모리 호황 떠받친다 By EBN Investing.com 한국어 \"中 문샷AI, 엔비디아 최첨단 B300 임대 정황\" - 머니투데이 머니투데이 \"中 수출금지된 엔비디아 블랙웰칩…中서 868억원어치 포착\" [블룸버그] 한국경제"
-        },
-        {
-          "title": "뉴욕증시 개장 전 특징주...코어위브 15% 급등·엔비디아 4% 반등…AI 관련주 일제히 강세 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NTnlNamNOSTJJeV84dC1SRHBUVEV0WGFPVFVqRElyLUNyYnhid0RwZk5hRHd2dmhjOVk3WHp4WnhpUmJhd2FKOW94SkFWZXdLQzZRRlhkQmsycS1C?oc=5",
-          "source": "뉴스핌",
-          "published": "11-11 22:33",
-          "snippet": "뉴욕증시 개장 전 특징주...코어위브 15% 급등·엔비디아 4% 반등…AI 관련주 일제히 강세 뉴스핌"
+          "snippet": "\"미 블랙리스트 중국 군연계 대학, 엔비디아 H200 구매\" MBC 뉴스 젠슨황 스캔들로 미국 의회 ‘대중국 칩규제 3법’ 탄력 KBS 뉴스 \"엔비디아칩 24만장 中 유출, 앨리스 황 관여…10조원 규모\" - 머니투데이 머니투데이 미 수출 규제에도 중국 인민해방군 연계 대학이 Nvidia H200 칩 구매 Investing.com 한국어 [세계의 창] 기술이 무기가 될 때, 통제권은 기업의 손에 있다 천지일보"
         }
       ]
     },
     "queries": {
-      "코스닥 급등과 사이드카 발동": [],
-      "대중 반도체 봉쇄 강화": [
-        "대중 반도체 규제",
-        "대중 반도체 제재",
-        "대중 반도체 수출",
-        "대중 반도체 수출 규제",
-        "대중 반도체 수출통제",
-        "미국 대중 반도체 규제"
+      "코스피 코스닥 급등": [
+        "코스피 코스닥 지수",
+        "코스피 코스닥",
+        "코스피 코스닥 차이",
+        "코스피 코스닥 주가",
+        "코스피 코스닥 나스닥 차이",
+        "코스피 코스닥 지수 실시간",
+        "코스피 코스닥 지수 의미",
+        "코스피 코스닥 지수 차트"
+      ],
+      "AI 데이터센터 구축": [
+        "ai 데이터센터 구축 비용",
+        "ai 데이터센터 구축",
+        "ai 데이터센터 구축을 위한 기획보고서",
+        "ai 데이터센터 구축 계획",
+        "ai 데이터센터 구축 사업",
+        "ai 데이터센터",
+        "ai 데이터센터 관련주 미국",
+        "ai 데이터센터 대장주"
       ],
       "기업 3분기 실적 발표": [
         "기업 3분기 실적 발표일",
         "국내 기업 3분기 실적 발표 일정"
       ],
-      "연준 빅스텝 인상 우려": [
-        "연준 빅스텝"
+      "미 연준 빅스텝 우려": [
+        "미 연준 금리",
+        "미 연준",
+        "미 연준 금리 인상",
+        "미 연준의장",
+        "미 연준 금리 발표일",
+        "미 연준 기준금리",
+        "미 연준 금리 전망",
+        "미 연준 발표"
       ],
-      "코어위브 호실적과 증시 반등": [],
-      "엔비디아 주가 급락세": [
+      "코어위브 실적 호조": [
+        "코어위브 실적",
+        "코어위브 실적발표일",
+        "코어위브 실적발표",
+        "코어위브 실적 발표 시간",
+        "코어위브 실적 예상",
+        "코어위브 실적 전망",
+        "코어위브 실적발표 일정",
+        "코어위브 3분기 실적 발표"
+      ],
+      "엔비디아 주가 급락": [
+        "엔비디아 주가 급락 이유",
         "엔비디아 주가",
+        "엔비디아 주가 전망 2027 년 전망",
         "엔비디아 주가 전망",
         "엔비디아 주가 폭락",
         "엔비디아 주가 전망 2030년 전망",
-        "엔비디아 주가 전망 2027 년 전망",
-        "엔비디아 주가 전망 2026",
         "엔비디아 주가 가격",
         "엔비디아 주가 폭락 이유"
       ]
     },
-    "newsletter_md": "# ⚡ ZIPPY | AI 경제 데일리 브리핑\n_2026-11-12 이슈 · 발행 2026-11-12_\n\n🇰🇷 **국내 경제:** `코스닥 급등과 사이드카 발동` · `대중 반도체 봉쇄 강화` · `기업 3분기 실적 발표`\n🌐 **해외 경제:** `연준 빅스텝 인상 우려` · `코어위브 호실적과 증시 반등` · `엔비디아 주가 급락세`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 코스닥 이틀 연속 매수 사이드카 발동\n> 키워드: 코스닥 급등과 사이드카 발동\n\n**📌 무슨 일이 있었나**\n- 코스닥 지수가 4%대 급등하며 전날에 이어 이틀 연속으로 프로그램 매수 호가 효력을 일시 정지하는 매수 사이드카가 발동되었다.\n- 마감 시황 기준 코스피는 2.6%, 코스닥은 5.6% 상승하며 미국발 긴축 우려를 딛고 동반 반등에 성공하는 모습을 보였다.\n- 최근 급락장에서 코스닥 신용잔고가 1.1조 원가량 증발하며 빚투 물량이 대거 정리된 것이 오히려 반등의 발판이 되었다는 분석이다.\n- 정부는 오는 13일 한국거래소에서 자본시장 간담회를 개최하고 코스닥 시장 활성화를 위한 구체적인 대책을 논의할 예정이다.\n\n**💬 핵심 Q&A**\n- **Q. 이틀 연속 매수 사이드카가 발동된 시장의 기술적 배경은 무엇인가?**\n  A. 지난주 과도한 투매로 인해 지수가 저평가 영역에 진입한 상태에서 미국발 긴축 우려가 일부 해소되자 저가 매수세가 강력하게 유입되었다. 특히 프로그램 매수세가 집중되면서 지수 변동폭이 커져 사이드카 발동 조건인 4% 이상의 상승세가 유지되었다.\n- **Q. 신용잔고 1.1조 원 증발이 이번 급등장에 어떤 영향을 미쳤는가?**\n  A. 급락장에서 담보 부족으로 인한 반대매매가 대거 실행되며 시장의 잠재적 매도 압력이 상당 부분 해소되는 과정을 거쳤다. 가벼워진 수급 구조 덕분에 적은 매수세로도 지수가 탄력적으로 상승할 수 있는 환경이 조성된 것으로 분석된다.\n- **Q. 정부의 13일 간담회에서 코스닥 시장을 위해 논의될 핵심 쟁점은 무엇인가?**\n  A. 최근 롤러코스터 장세를 보인 코스닥 시장의 안정화 방안과 함께 자본시장 체질 개선을 위한 대책이 중점적으로 다뤄질 전망이다. 시장에서는 상장사 밸류업 지원이나 투자자 보호를 위한 제도적 장치 마련 여부에 주목하고 있다.\n\n**👀 앞으로 볼 포인트**\n- 13일 정부 자본시장 간담회 발표 대책\n- 신용잔고 재유입 여부와 외국인 수급 변화\n- 미국 금리 인상 우려에 따른 지수 변동성\n\n<sub>참고: [MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTE9YV3hHUzMxR0p3TVBPUk5OR0VFbmZYLU1HNHJySGQ0bURnS1Z4RzJnWVpKOXdfVnZfWGZtT1BEYUtYdkIzMkpDdzZ4b2V5ODhJbjB4SVZwY2x6WE52T1JFcm1IdlhFLWN0X1JsYWZkSzBjQzNW0gF0QVVfeXFMTmNnTktYaTdTV01reUgta0xPcHVXRWxqY0tLMEg3Vkk1Mjh6MzBLLXZqbHhYOVpWeHAyWmFqRXJsU3FKUERiclljWmFkUXN0UldrUjFOYkM4YzdFYXRMMEh6eDFwdU9qbFV3dksyckw2Rmw0MUI?oc=5) / [Investing.com 한국어](https://news.google.com/rss/articles/CBMicEFVX3lxTE5hSFZ3LWZPMnB0UzJXcHh4dFlGNDA3ZFJOcTZHeFk0QTg1d0tweWRkM2FiTFFTM1B2dS1QSTN0bHZFOXg0QUNGaVdEMlRlQUZuS3lfMFRSOGdVZUVPZDdjWV9uUnFhdkNQZkktemhVUTk?oc=5) / [뉴스핌](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kM2VzcjR3U1BtSW9jV0JjMk9tdzNpUFdKaG1QblVBSzhra2dER2N2a2dVeWJobFpiYVFhSGpkdU9pckhXTE4zSzFDRVJpQjdISG5pYzZUQS13ZVlC?oc=5)</sub>\n\n---\n\n### 2. 트럼프발 대중 반도체 봉쇄 고삐 강화\n> 키워드: 대중 반도체 봉쇄 강화\n\n**📌 무슨 일이 있었나**\n- 미국 트럼프 행정부가 젠슨 황 엔비디아 CEO의 발언 이후 대중 반도체 봉쇄 조치를 더욱 강화하며 수출 규제 압박을 높이고 있다.\n- 미국발 긴축 우려에도 불구하고 반도체주가 코스피 상승을 견인하며 SK하이닉스는 장중 7%대 강세를 기록했다.\n- 나스닥 시장에서도 AI와 반도체 관련주가 급등하며 한국 경제의 반도체 편중 현상에 대한 엄중한 인식이 필요하다는 지적이 제기되었다.\n- 두산에너빌리티는 협력사와의 상생 강화를 통해 동반성장 최우수 명예기업으로 선정되며 공급망 안정화에 주력하고 있다.\n\n**💬 핵심 Q&A**\n- **Q. 트럼프 행정부가 대중 반도체 봉쇄를 강화하는 구체적인 이유는 무엇인가?**\n  A. 중국이 우회 경로를 통해 엔비디아 등 미국의 첨단 AI 칩을 확보하는 것을 원천 차단하여 기술 패권을 유지하려는 목적이다. 특히 군사적 목적으로 전용될 수 있는 고성능 GPU의 중국 유입을 막기 위해 규제의 그물망을 촘촘히 하려는 의도로 풀이된다.\n- **Q. 반도체 업종에 편중된 한국 경제 구조가 증시 조정기에 위험한 이유는 무엇인가?**\n  A. 한국 증시에서 반도체 섹터가 차지하는 비중이 압도적으로 높아 글로벌 공급망 이슈나 미중 갈등 발생 시 지수 전체가 흔들리는 취약성을 갖기 때문이다. 특정 산업의 업황에 따라 국가 경제 전체의 변동성이 극대화되는 리스크가 존재한다.\n- **Q. AI 반도체 수요가 거시경제의 긴축 우려를 상쇄하는 메커니즘은 무엇인가?**\n  A. 고금리 상황에서도 AI 산업의 성장성이 실질적인 기업 실적으로 증명되면서 투자자들이 금리 지표보다 실적 가이드라인에 더 민감하게 반응하기 때문이다. 코어위브와 같은 기업의 호실적이 AI 투심을 자극하며 반도체주 전반의 매수세를 유도하고 있다.\n\n**👀 앞으로 볼 포인트**\n- 미국 정부의 추가 대중 반도체 수출 통제안\n- SK하이닉스 및 삼성전자 주가 반등 지속성\n- 국내 반도체 산업의 수출 다변화 전략\n\n<sub>참고: [조선일보](https://news.google.com/rss/articles/CBMigwFBVV95cUxQd1hscEtYZHhQTlc4ZnQ2bUR1aFFzaFlHV2VNMDVMMnRkR2tDa2V0TTJPY0tha3lUOVkzU0N2TUtlNUQ3TDZySV83UHluZkszSUxONlItbGF4OTZVWEw2LUVoeVhfOGlpWmJfeV9JNGMzc2FLNHY2UE1kZHBmYnpYYk0xTQ?oc=5) / [Investing.com 한국어](https://news.google.com/rss/articles/CBMicEFVX3lxTE9CMTlVVTM5cTZCZFVNSHRkR2x5YnU1OXBLNnIxWmxRRWcwQUs3ei1zQ1FUTWMtRngtdndBR0pKMFJrcGZXazc2dEhVbl9sWkM1UjFVS2Z2MXFuc1d6cTctek92V253RzRYcFFCdDZuWW4?oc=5) / [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SN29XWGdCVmNReTNXS3o1d1ZmMHRIY1d3OEtUWnM1d1NyMDhUM3VoSzlyalJIUFJMU1I1QUpCNlRRMHFHQUVRY3VGZ09OLWo0X2lBVFVWU1luZHM?oc=5)</sub>\n\n---\n\n### 3. 3분기 실적 발표 본격화와 업종별 희비\n> 키워드: 기업 3분기 실적 발표\n\n**📌 무슨 일이 있었나**\n- 롯데웰푸드는 해외 사업 호조에 힘입어 3분기 영업이익 899억 원을 기록하며 견조한 성장세를 나타냈다.\n- 동원그룹은 B2B 부문과 수출 성장을 바탕으로 3분기 누적 영업이익 4,473억 원을 달성하며 전년 대비 10% 성장했다.\n- 메리츠금융은 보험과 증권 부문의 실적이 엇갈리며 3분기 누적 순이익이 전년 대비 3.2% 소폭 감소했다.\n- 한화손해보험은 보험손익이 3배 수준으로 급증하며 3분기 순이익이 전년 동기 대비 34% 증가하는 성과를 거뒀다.\n\n**💬 핵심 Q&A**\n- **Q. 롯데웰푸드와 동원그룹 실적에서 공통적으로 나타난 성장 동력은 무엇인가?**\n  A. 내수 시장의 한계를 극복하기 위해 추진한 해외 사업 확대와 B2B 채널 강화가 실적 성장의 핵심 동력으로 작용했다. 특히 글로벌 시장에서의 브랜드 인지도 상승과 수출 물량 증가가 영업이익 개선에 직접적인 기여를 했다.\n- **Q. 메리츠금융의 누적 순이익이 감소한 결정적인 원인은 무엇인가?**\n  A. 보험 부문의 견조한 실적에도 불구하고 증권 부문이 시장 변동성 확대와 거래 대금 변화 등의 영향으로 수익성이 둔화되었기 때문이다. 금융지주 내 계열사 간 실적 상쇄 효과가 발생하며 전체 순이익이 소폭 하락하는 결과로 이어졌다.\n- **Q. 한화손해보험의 보험손익이 3배나 급증할 수 있었던 배경은 무엇인가?**\n  A. 효율적인 손해율 관리와 더불어 고수익성 보장성 보험 판매가 확대되면서 본업인 보험 인수 부문에서 이익이 극대화되었다. 이는 자산운용 수익에 의존하기보다 보험 본연의 경쟁력을 강화한 결과로 분석된다.\n\n**👀 앞으로 볼 포인트**\n- 주요 대기업의 해외 매출 비중 변화 추이\n- 금융권 내 보험 및 증권 부문 수익성 차별화\n- 수출 중심 기업들의 4분기 실적 가이드라인\n\n<sub>참고: [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JSlgyME11YjU1dUJvSmR1cEwydF9Qc3c5a085MGNDY2VDYkZUSDl4OVNsUmp0STlmaXpxVjBCTXJvV1BGQTl1R3lvSDBzc0o0TFQzTFRrVVpMMTZOOG5KMDNTYVZmTTA?oc=5) / [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5waUFWT1pmN01DZjI4cEp1a2xEcWZMM3ltalJMdHkxR3FPaWFGWlRUak9zRkZ1N1NXLW5wN0VxQk9iTzlaUlJmN1BZS3lsZmFtd2J4akhoaTk1R3pvRnJ0MUpRSzdEdEE?oc=5) / [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyWjFrNkRMQXUxRzJuUlNxbmlFNGFKVlA0ZGZhUDJiM1NGU3lHTTZ1NUZfVVZObGhHR0VMblV0dzZrdWl3dmU3WUVGcF9uMWNQbzJMQkx4SVBRVlg3eEtOTFllS3doOFE?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 연준 빅스텝 우려에 글로벌 채권시장 요동\n> 키워드: 연준 빅스텝 인상 우려\n\n**📌 무슨 일이 있었나**\n- 미국 물가 급등과 연준 위원들의 매파적 발언으로 인해 기준금리를 한 번에 0.5%p 올리는 '빅스텝' 우려가 확산되고 있다.\n- 금리 인상 공포에 뉴욕증시 나스닥 지수가 0.7% 하락 마감했으며 글로벌 채권시장도 큰 폭의 변동성을 보였다.\n- 금값은 급락 후 안정세를 찾았는데 이는 연준의 금리 인상 우려를 중앙은행들의 강력한 금 수요가 상쇄했기 때문이다.\n- 원/달러 환율은 금리 인상 우려에도 불구하고 전날보다 3.9원 내린 1,333.6원에 마감하며 비교적 안정적인 흐름을 보였다.\n\n**💬 핵심 Q&A**\n- **Q. 물가 급등 상황에서 연준의 매파적 발언이 시장에 즉각적인 충격을 준 이유는 무엇인가?**\n  A. 인플레이션이 예상보다 장기화될 수 있다는 신호로 해석되면서 시장이 기대했던 금리 인하 시점이 늦춰지고 인상 폭은 커질 것이라는 공포가 반영되었기 때문이다. 이는 즉각적인 국채 금리 상승과 기술주 중심의 자산 가격 하락으로 이어졌다.\n- **Q. 금리 인상 우려라는 악재 속에서도 금값이 안정세를 유지한 메커니즘은 무엇인가?**\n  A. 통상 금리는 금값과 역상관 관계를 갖지만 각국 중앙은행들이 포트폴리오 다변화와 리스크 헤지 차원에서 금 매입을 늘리며 하방 경직성을 확보했기 때문이다. 금리 인상에 따른 기회비용 증가보다 안전자산으로서의 수요가 더 강력하게 작용했다.\n- **Q. 빅스텝 우려에도 불구하고 원/달러 환율이 하락한 역설적 현상의 원인은 무엇인가?**\n  A. 미국 금리 인상 우려가 이미 시장 가격에 상당 부분 선반영된 상태에서 국내 증시의 반등과 외국인 자금 유입이 환율 하락 압력으로 작용했기 때문이다. 또한 수출 기업들의 네고 물량 유입이 환율 상단을 제한하는 역할을 했다.\n\n**👀 앞으로 볼 포인트**\n- 미국 소비자물가지수(CPI) 추가 발표 수치\n- 연준 위원들의 50bp 인상 관련 발언 수위\n- 원/달러 환율 1,330원대 지지 여부\n\n<sub>참고: [한국무역협회-KITA.NET](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdWF5cURMSkFPZVR6bm5XSnFOMzNxcHF1bUNGYVNZV1NzcmhZdnB5MkVtU1pwa2dNQUtwQWFhWlZ5V1lMeEc5d0hzT2U0ZzdHV3BaVExtSHVKVUNJMWJ2SDZ2VUJ0NVpjaUx4R0xqaThYV2ZfbFpFWklDejVxYXRqd3BQZ2paYWpMTEEwSHkyX0ZLQkctTmNac0lzbHYyZjBYRlh6X25NWjJZNVpnOE1nQlFlckFQZGV6WThtVkFWaW1CTDFxOFpiTjJraUQ4SHZoSThMUFBn?oc=5) / [Investing.com 한국어](https://news.google.com/rss/articles/CBMib0FVX3lxTFBWdnhBdVNCQjRqcnBZb25HLTk2cGNBa056Uk44bTdUOTE0dFRoeW4ybWF5djlWaUtramo0Z3FQWVQwNDJsa2U3S0ZRUFVKdW5uOE5KM1V0cWUtVzliRUdTZEY2dTZrQkZ5bVBMb1ktaw?oc=5) / [Investing.com 한국어](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TOXRmSHRodllEejlsUV9DWExqbGZMUmVqYlo1RktYLXNSRHRhVkRUVUtKYzEyS211WThJeXpMY3RjUXpNTWQ3aFVaSWY4YUk4cEdMZEw1a0NUUnk4VGM0OG93NFlsVkU?oc=5)</sub>\n\n---\n\n### 2. 코어위브 호실적에 AI 투자 심리 급반등\n> 키워드: 코어위브 호실적과 증시 반등\n\n**📌 무슨 일이 있었나**\n- AI 인프라 기업 코어위브가 시장 예상을 뛰어넘는 실적을 발표하며 주가가 장중 15% 급등하고 나스닥 상승을 견인했다.\n- 코어위브의 성과는 AI 산업의 수익성에 대한 의구심을 해소하며 엔비디아(4% 상승)를 포함한 AI 관련주들의 일제 반등을 이끌었다.\n- 뉴욕증시는 물가 부담에도 불구하고 코어위브발 호재에 힘입어 기술주 중심으로 강한 매수세가 유입되며 상승 출발했다.\n- 국내 증시에서도 코스피가 미국 긴축 우려를 딛고 반등했으며 SK하이닉스 등 반도체 대형주들이 강세를 보였다.\n\n**💬 핵심 Q&A**\n- **Q. 코어위브의 15% 급등이 AI 산업 전반에 미친 심리적 영향은 무엇인가?**\n  A. 막대한 자본이 투입되는 AI 인프라 분야에서 실제적인 매출과 이익 성장이 가능하다는 것을 수치로 증명하며 'AI 거품론'을 잠재웠다. 이는 투자자들이 다시 기술주에 대한 공격적인 포지션을 취하게 만드는 결정적인 트리거가 되었다.\n- **Q. 코어위브의 실적이 엔비디아 주가와 직접적으로 연동되는 이유는 무엇인가?**\n  A. 코어위브는 엔비디아의 고성능 GPU를 대량으로 구매하여 클라우드 서비스를 제공하는 핵심 고객사이자 파트너이기 때문이다. 코어위브의 실적 호조는 곧 엔비디아 칩에 대한 강력한 수요가 지속되고 있음을 의미하는 선행 지표 역할을 한다.\n- **Q. 기술주 중심의 반등이 거시경제의 물가 부담을 압도할 수 있었던 분기점은 무엇인가?**\n  A. 금리 인상이라는 매크로 악재보다 개별 기업의 혁신과 실적 성장이 더 빠를 것이라는 확신이 시장에 형성된 시점이다. 특히 AI 산업은 경기 사이클과 무관하게 구조적 성장을 이룰 것이라는 기대감이 매수세를 자극했다.\n\n**👀 앞으로 볼 포인트**\n- AI 인프라 관련 기업들의 추가 실적 가이드라인\n- 나스닥 지수의 전고점 탈환 및 안착 여부\n- 엔비디아와 코어위브 간의 파트너십 확대 소식\n\n<sub>참고: [파이낸셜뉴스](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xOXJMdFktRzlJa2VxLVZ3UUJLZ00wZWRXc212OTBXb1FPY1J6VTNKd0MtY0ZqOWNDNi0yamZkbWM3UXlHNkh2aDVPa2p4eU1sVkhZOVlIeXNTQQ?oc=5) / [뉴스핌](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NTnlNamNOSTJJeV84dC1SRHBUVEV0WGFPVFVqRElyLUNyYnhid0RwZk5hRHd2dmhjOVk3WHp4WnhpUmJhd2FKOW94SkFWZXdLQzZRRlhkQmsycS1C?oc=5) / [뉴스핌](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XTlhXel9QMVZEczhrVV95X1Jhdjc4cVlUUjAzLW81M2ZNYkwwWGhsNzhLUEItaHphMkpiQUw0czZmRlNwM01iTjJ3UWtnY1dCQmIyVVBRVEwtc2Q1?oc=5)</sub>\n\n---\n\n### 3. 엔비디아 칩 밀반입 논란과 AI 투자 명암\n> 키워드: 엔비디아 주가 급락세\n\n**📌 무슨 일이 있었나**\n- 엔비디아 첨단 칩 24만 장이 중국으로 밀반입되었다는 의혹이 제기되었으며 그 규모는 최소 10조 원에 달하는 것으로 알려졌다.\n- 미국 블랙리스트에 오른 중국 군 연계 대학들이 규제를 뚫고 엔비디아의 최신 H200 칩을 구매한 사실이 드러나 파장이 일고 있다.\n- 엔비디아는 앤트로픽에 구글과 함께 13조 원 규모의 대규모 투자를 진행하며 AI 생태계 확장에 박차를 가하고 있다.\n- 밀반입 논란과 규제 우려로 변동성이 커진 가운데 엔비디아 주가는 코어위브 호실적에 힘입어 4% 반등하며 숨을 고르는 모습이다.\n\n**💬 핵심 Q&A**\n- **Q. 10조 원 규모의 엔비디아 칩 밀반입 의혹이 기업에 미칠 법적 리스크는 무엇인가?**\n  A. 미국 정부의 수출 통제 위반 여부에 따라 막대한 벌금 부과는 물론 향후 수출 허가 절차가 더욱 까다로워질 수 있는 위험이 있다. 이는 엔비디아의 글로벌 공급망 관리 능력에 대한 신뢰도 하락으로 이어져 주가에 부정적인 영향을 줄 수 있다.\n- **Q. 엔비디아가 앤트로픽에 대규모 투자를 단행한 전략적 의도는 무엇인가?**\n  A. 하드웨어 판매를 넘어 AI 모델 개발사와의 결속을 강화함으로써 자사 칩 중심의 소프트웨어 생태계를 공고히 하려는 포석이다. 이는 경쟁사들의 추격을 따돌리고 장기적인 수요처를 확보하는 효과를 거둘 수 있다.\n- **Q. 중국 대학들의 H200 구매 사실이 향후 미국의 대중 규제 수위를 어떻게 바꿀 것인가?**\n  A. 기존의 품목별 규제를 넘어 최종 사용자(End-user)에 대한 검증을 대폭 강화하는 방향으로 규제가 진화할 가능성이 높다. 이는 반도체 유통 경로 전반에 대한 실시간 모니터링 시스템 도입 등 더 강력한 통제 장치 마련으로 이어질 전망이다.\n\n**👀 앞으로 볼 포인트**\n- 미 상무부의 대중 반도체 우회 수출 조사 결과\n- 앤트로픽 등 AI 스타트업 투자에 따른 시너지\n- 엔비디아의 차세대 칩 공급망 보안 강화 대책\n\n<sub>참고: [한겨레](https://news.google.com/rss/articles/CBMiggFBVV95cUxNSFF6bXZ4MFk3SzVzU09FREF6UWhaOENKQXF4S2tvU0xraFQ1dVVfWjJwTFp1WHVqRXpZMkZfTmZKT0xYUmZyNU1JYmtEaDVLcEdLNXZtcDlXQkVaSXExd1ZXOHNhc3JoRDk1Z3RIMTdfcjVZeEVLM0YxcVBGOFVuVUZR?oc=5) / [한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE00SnBVSHRVQVZnM0ZhSDlLTWV2RC13M3EydEp0LVhFeGptSDhqZDJXSVB4dzRveDFnNVpDR2ttRk1qQmVQUEgzMUx2Q2xRYjJ1X2RReC00OUNOUQ?oc=5) / [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00NlYyYUc0ZU8xU3A5T1g4NmU1Y0d6QmdnazBLOFlBa3NNdl9ibVhBWFlxTnBxMUJ2UW5fWG1PMEZwdjVVR1hYek1FNTNNUm96OU4tVEw1NE90ZWg1Qk5EOEtyZ2lnM28?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 보도를 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
+    "newsletter_md": "# ⚡ ZIPPY | AI 경제 데일리 브리핑\n_2026-11-12 이슈 · 발행 2026-11-12_\n\n🇰🇷 **국내 경제:** `코스피 코스닥 급등` · `AI 데이터센터 구축` · `기업 3분기 실적 발표`\n🌐 **해외 경제:** `미 연준 빅스텝 우려` · `코어위브 실적 호조` · `엔비디아 주가 급락`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 미 긴축 우려 속 코스닥 5%대 급등 및 700선 회복\n> 키워드: 코스피 코스닥 급등\n\n**📌 무슨 일이 있었나**\n- 미국 연준의 고금리 긴축 지속과 기준금리 빅스텝 우려라는 거시경제적 악재에도 불구하고 국내 코스피 지수가 2.6% 상승하며 5375선으로 장을 강세 마감했다.\n- 코스닥 지수는 이틀 연속 폭등세를 나타내며 하루 만에 5.6% 급등하는 기염을 토했고 지수 700선을 단숨에 회복하며 가파른 주가 회복 흐름을 증시에서 보여주었다.\n- 글로벌 물가 상승과 미 연준의 금리 인상 공포가 증시 상단을 압박했으나 삼성전자와 SK하이닉스 등 시가총액 상위 대형 반도체주 주도의 매수세가 지수 상승을 견인했다.\n- 코스닥 시장에서는 외국인과 기관 투자가들의 대규모 동반 순매수세가 유입되면서 5%대 급등세를 견인하였으며 위축되었던 투자 심리가 급격하게 개선되는 모습을 보였다.\n\n**💬 핵심 Q&A**\n- **Q. 미국 연준의 빅스텝 우려에도 불구하고 코스닥이 5% 이상 급등한 주요 동력은 무엇인가?**\n  A. 미국발 금리 악재가 시장에 이미 선반영되었다는 인식이 확산된 가운데 반도체 및 대형 기술주를 중심으로 반가운 저가 매수세가 유입되었다. 특히 이틀 연속 이어진 기술적 반등과 기관의 동반 매수세가 지수를 700선 위로 끌어올렸다.\n- **Q. 코스피와 코스닥 지수의 급등세가 국내 금융 시장 전반에 미치는 파급 효과는 어떠한가?**\n  A. 주식 시장의 강세는 원/달러 환율 상승 압력을 일부 완화하고 투자 심리를 크게 개선하는 효과를 가져온다. 다만 국채 금리가 오름세를 보이는 등 채권 시장 변동성이 남아있어 금융권 유동성의 균형 여부가 관건이다.\n- **Q. 향후 국내 증시가 지속적인 상승 국면으로 진입하기 위한 주요 분기점은 무엇인가?**\n  A. 미 연준의 실제 금리 결정 방향과 후속 통화정책 발언이 시장 기대를 뒷받침해 주어야 한다. 또한 외국인 투자가의 자금 유입 지속 여부와 대형 IT 기업들의 4분기 실적 개선세가 수반되는지가 지수 추가 상승의 핵심 지표이다.\n\n**👀 앞으로 볼 포인트**\n- 코스닥 700선 안착 여부 및 외국인 순매수 지속성\n- 미국 물가지수 발표 이후 원/달러 환율 변동성\n\n<sub>참고: [한겨레](https://news.google.com/rss/articles/CBMickFVX3lxTFBWSUptUmhwaF9ZcWdiNVRBQnV2REtiYk1HcmUzZ0F3bzZsN1NtblE0X2RfZG4zeE9sSGNJdjBXOW9BSTllekhYc0VlS1JKeG5DTkJRZ1lpbVFhaXFWNTBmWlo0Vmk1REM4WENoWHAwb0lYdw?oc=5) / [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrdmVtNzNvOWlEZ0tnYm9OcXlidHAxdW5hWDNIeDZDWWJtTGMxWE4zS2tBTks0enljZXhIYkJPa1ZSay1hdjBWMWZfa2NodXhlODgyc2NnWmhEQmtKZnZKaFNnVmVMVFk?oc=5) / [전자신문](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZSjAtVlYzM2NpODZxdHpxLWUzWDZVNjV2WU9NZF9aV2tmdFp1V1gzblJwNnNURFpGazg4T0VSVkxDUFMtTGVTTENxWVFoQQ?oc=5)</sub>\n\n---\n\n### 2. GS·포스코 AI 데이터센터 혈맹…국가 경쟁력 10위 진입\n> 키워드: AI 데이터센터 구축\n\n**📌 무슨 일이 있었나**\n- GS그룹과 포스코그룹이 초대형 AI 데이터센터 구축을 위한 인프라 및 철강 분야의 글로벌 사업 협력을 공식 체결하며 글로벌 시장 정조준에 나섰다.\n- 정부가 내년부터 피지컬 AI 핵심부품 3종 개발을 본격화하며 관련 인프라 구축 및 기술 육성 정책 추진을 국가 차원에서 가속화하기로 발표했다.\n- 한국의 디지털 및 AI 글로벌 경쟁력 순위가 1년 만에 8계단이나 대폭 상승하며 세계 10위에 진입하는 성과를 거두었음이 확인되었다.\n- 한미약품과 대웅제약 등 주요 제약업계도 AI 기술을 신약 개발과 분자 적응증 예측 과정에 적극 도입하여 미래 헬스케어 인프라를 확장하고 있다.\n\n**💬 핵심 Q&A**\n- **Q. GS와 포스코가 AI 데이터센터 구축을 위해 손을 잡은 사업적 메커니즘은 무엇인가?**\n  A. 초대형 데이터센터 건설에는 고품질 철강재와 안정적인 에너지·건설 인프라 공급이 필수적이다. 포스코의 소재 기술력과 GS의 인프라 시공 및 운영 노하우를 결합하여 글로벌 AI 인프라 시장을 선점하려는 전략이다.\n- **Q. AI 데이터센터 확충이 헬스케어 및 제조 등 타 산업에 미치는 연쇄 영향은 어떠한가?**\n  A. 고성능 연산 인프라가 확보됨에 따라 제약사의 신약 적응증 예측 능력이 획기적으로 늘어나 개발 기간이 단축된다. 동시에 로봇과 기계 시스템에 적용되는 피지컬 AI 기술 개발이 탄력을 받아 제조업 전반의 생산성을 제고한다.\n- **Q. 한국의 AI 경쟁력 세계 10위 진입이 향후 인프라 시장 성장의 분기점이 될 수 있는가?**\n  A. 국가 차원의 디지털 역량 향상은 해외 빅테크 기업들의 국내 데이터센터 투자 유치에 강한 유인책으로 작용한다. 인프라 구축 비용 절감과 관련 대장주들의 글로벌 진출 성과가 향후 시장 확장의 핵심 평가 기준이 될 것이다.\n\n**👀 앞으로 볼 포인트**\n- GS·포스코 데이터센터 인프라 착공 및 수주 성과\n- 정부 추진 피지컬 AI 핵심부품 3종 개발 착수 현황\n\n<sub>참고: [Investing.com 한국어](https://news.google.com/rss/articles/CBMicEFVX3lxTE9Gdk10NUI0UUpjT1ViM25XTS1maldTc3Awd3VacUFVVk9oRDFiVEVSbDFFOElERjE4U1ZMN0hESHRzeGF5RWYyajdCWl9ZT3RNcnByT2NtYURhQXV1RFQtTzEzQW9hcmtBakRMYmdrb1g?oc=5) / [Chosunbiz](https://news.google.com/rss/articles/CBMingFBVV95cUxOY2ZLdVNBcDZwSGtLdGxidUhsSU03MjlrbVgzWEpPbGNlSkU5cTZ0UTczcndBLVJxakEwNmJxVlFraXZCV2Y2WXVSbTNXa3didVRsM055cUpzaGJFY092MmR3bDc0X2lrcUlHaURlTHp1MWJpOUdSX2RPMzVuX1lnTm1aSmE4Y0dCZFdkMzNxYkFQSlBmdDRSaTladU9Md9IBsgFBVV95cUxQTFFWaHFzMHk2aE9EbGpUbjg1OS13TEJEcnRRdnJqcmhxaEFSQXhzcmxXXzZxaFRBWV9jR2hYY2gtdzNYUHJQZ1Z3VVVRelpkSjYyT0VpOGt0TlJaYUF3QVF3NDVtbFNuOTRnT1FjUXpmN0dzbTQ4eFlJUTA0ZGVhTkxaTTVBYmFsVlBTSkFjN1VNRmN6VzZ4VU00RHNhSjlpalRvVWhIQmZLS0M5YTVQMXlB?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE52VDdndHdacFhfX2tWYkFUQ0JkZ2VJeTV5bWswc2ZoLW00UjNmN2F6UnljcFl6YWR6d3hQUVFvQW0yeXVLUFBJVnFwbnREdVdDUkxGMV9ZQzdsREM0ZF95bzFQYWJlT0xJSU1DMWlQTGw?oc=5)</sub>\n\n---\n\n### 3. 엔씨 흑자전환·동원 10% 성장…3분기 기업 실적 희비\n> 키워드: 기업 3분기 실적 발표\n\n**📌 무슨 일이 있었나**\n- 엔씨소프트가 3분기 영업이익 1196억 원을 기록하며 흑자전환에 성공하고 매출이 전년 동기 대비 91%나 대폭 증가하는 대형 호실적을 달성했다.\n- 메리츠금융지주는 3분기 누적 순이익이 3.2% 소폭 감소하였으나 보험과 증권 부문 간 실적이 엇갈리는 희비 교차 양상을 나타냈다.\n- 한화손해보험은 3분기 순이익이 34% 증가하였으며 특히 핵심 지표인 보험손익 부문에서는 전년 대비 3배 수준의 괄목할 만한 성장을 이뤘다.\n- 동원그룹은 B2B 사업 확대와 수출 호조에 힘입어 3분기 누적 영업이익 4473억 원을 기록하며 전년 대비 10% 이상의 안정적인 성장을 이끌어냈다.\n\n**💬 핵심 Q&A**\n- **Q. 엔씨소프트가 3분기 영업이익 1196억 원을 기록하며 흑자전환한 주요 배경은 무엇인가?**\n  A. 매출이 전년 대비 91%나 대폭 증가하면서 고정비 부담이 대폭 상쇄되는 영업 레버리지 효과가 나타났다. 그동안 추진해 온 비용 효율화 작업과 신규 라이브 서비스의 매출 반영이 실적 반등을 이끌었다.\n- **Q. 동원그룹과 한화손해보험의 호실적이 각 산업 밸류체인에 가져다주는 시사점은 무엇인가?**\n  A. 동원그룹은 글로벌 B2B 공급망과 수출 확대를 통해 내수 침체를 극복할 수 있음을 입증했다. 한화손해보험은 손해율 관리와 보험손익 3배 증가를 통해 금융권 내 영업 체질 개선의 모범 사례를 보여주었다.\n- **Q. 기업들의 3분기 실적 발표 이후 주가 향방을 결정짓는 분기점은 무엇인가?**\n  A. 일회성 흑자전환에 그치지 않고 지속 가능한 매출 성장 동력을 확보했는지가 핵심 기준이다. 환율 변동과 미국 금리 향방 등 외생 변수 속에서 4분기 영업이익 가이던스를 충족하는지 여부가 주가 향방을 가를 전망이다.\n\n**👀 앞으로 볼 포인트**\n- 엔씨소프트 신작 흥행에 따른 4분기 실적 유지 여부\n- 금리 변동에 따른 금융·보험사들의 4분기 건전성 지표\n\n<sub>참고: [지디넷코리아](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JTXprVmdOS0NEelA4cFZfWEF3dlBGRE94MzVUQUlFQ3ZSQWNQcHhZX05oM1RtNlllOW9aVWZQYjdEWmotSzgzZE1xcVNjT21jTFNyRGtB?oc=5) / [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5waUFWT1pmN01DZjI4cEp1a2xEcWZMM3ltalJMdHkxR3FPaWFGWlRUak9zRkZ1N1NXLW5wN0VxQk9iTzlaUlJmN1BZS3lsZmFtd2J4akhoaTk1R3pvRnJ0MUpRSzdEdEE?oc=5) / [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyWjFrNkRMQXUxRzJuUlNxbmlFNGFKVlA0ZGZhUDJiM1NGU3lHTTZ1NUZfVVZObGhHR0VMblV0dzZrdWl3dmU3WUVGcF9uMWNQbzJMQkx4SVBRVlg3eEtOTFllS3doOFE?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 연준 빅스텝 우려에 뉴욕 증시 하락 및 국채 금리 급등\n> 키워드: 미 연준 빅스텝 우려\n\n**📌 무슨 일이 있었나**\n- 미국 소비자물가 상승으로 인해 미 연준이 기준금리를 한번에 0.5%p 인상하는 빅스텝을 단행할 것이라는 시장 우려가 빠르게 확산되었다.\n- 빅스텝 공포가 재점화되면서 뉴욕증시에서 나스닥 지수가 0.7% 하락하고 주요 엔비디아 등 기술주 주가가 일제히 하락세를 면치 못했다.\n- 국내 금융시장에서는 연준의 강력한 긴축 정책 우려로 인해 국고채 3년물 금리가 연 3.729%로 급등하며 채권 시장 변동성이 크게 확대되었다.\n- 미 연준의 매파적 기조 우려에도 불구하고 국내 증시는 삼성전자와 SK하이닉스 등 반도체 대형주들의 강세에 힘입어 상승 마감에 성공했다.\n\n**💬 핵심 Q&A**\n- **Q. 연준의 빅스텝 우려가 커지면서 국채 금리가 급등하는 메커니즘은 무엇인가?**\n  A. 연준이 금리를 급격히 올릴 것이라는 전망이 퍼지면 채권 시장에서는 향후 발행될 채권의 금리가 더 높아질 것으로 예상한다. 이로 인해 기존 채권의 매력도가 떨어져 가격이 하락하고, 채권 수익률인 국채 금리는 급등하게 된다.\n- **Q. 미국 빅스텝 악재에도 국내 증시에서 반도체 대형주가 상승세를 견인할 수 있었던 이유는 무엇인가?**\n  A. 거시경제 통화정책 악재보다 반도체 업황의 실적 개선 기대감이 더 크게 작용했기 때문이다. 코어위브 등 해외 AI 인프라 기업들의 실적 호조가 국내 메모리 반도체 공급사에 긍정적인 신호로 해석되었다.\n- **Q. 연준의 통화 정책 행보가 시장 충격을 완화할 분기점은 어디인가?**\n  A. 소비자물가지수(CPI)의 상승세가 둔화되고 고용 지표가 안정을 찾아 연준의 금리 동결 명분이 마련되는 시점이다. 통화정책의 불확실성이 해소되어야 채권 금리 안정과 함께 자산 시장의 추세 반전이 일어날 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 미 연준 FOMC 금리 결정 및 소비자물가지수 추이\n- 국고채 3년물 금리 변화 및 국내 시중금리 영향\n\n<sub>참고: [티제이비](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mQ2k2ZDFLZi1PeXZjT0FWYUN5aUNjdHBzdWtMWTh2d3M4VXAzb2hVMkxzQmFxUWJjS09nZ2UwWU8yWjNuQmVtT1kxT3N1QWRTZVctOGVEeUxzYWZMU3MxTmJ3?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE5lX0hQbVVEVnIzamJoNzY2MUdjeWtHWWlNejRpZjNSNnllV3dBYUx0TFBISFlERlVIbkJJZmc1bm5kUlRlTHZ0eXFVVVpxRHNGTFVaMkI4UFo5R0pSbDkyWGRNaERpSWstYThIMkZSUU8?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9odjVpVkR5eTJrcFZQaWdSNzViTUoxTGttTjVDRDZOT3dpNk9QLWs2TEFvZ1NXMWd3UTZqNnJGU2Z2NmJQd3pRTVM3NEhWVmJoMVNPRmZDUUQ1c0nSAWBBVV95cUxOUWJzWnJmalR2Y3pMTkczSWpUX2xianBOaG1HRURVWk9vb0YxaFdTbF85dC1aWDNCWjRMNFp2T1FrdjVtT3k5cmNhSWF0NHpQUXl4UVNEcHlKQ3lqX1RfYzk?oc=5)</sub>\n\n---\n\n### 2. 코어위브 실적 호조에 나스닥 1.2% 상승 및 반도체주 급등\n> 키워드: 코어위브 실적 호조\n\n**📌 무슨 일이 있었나**\n- AI 클라우드 전문 기업 코어위브가 예상치를 웃도는 호실적을 발표하면서 뉴욕증시에서 나스닥 지수가 1.2% 이상 상승 출발하는 강세를 보였다.\n- 코어위브의 실적 반등 신호에 힘입어 엔비디아를 비롯한 미국 주요 AI 및 반도체 관련 종목들로 강한 매수세가 집중적으로 유입되었다.\n- 코어위브 실적 수혜 영향으로 국내 증시에서도 SK하이닉스 주가가 장중 7%대 폭등세를 보이는 등 글로벌 반도체 밸류체인이 연동 반응했다.\n- 월가 일부에서는 코어위브의 실적 개선을 긍정적으로 평가하면서도 시장의 완벽한 신뢰 회복까지는 일정 시간이 필요하다는 신중론을 제시했다.\n\n**💬 핵심 Q&A**\n- **Q. 코어위브의 실적 호조가 나스닥과 한국 반도체 주가를 동시에 끌어올린 원인은 무엇인가?**\n  A. 코어위브는 AI 데이터센터용 GPU 인프라를 제공하는 핵심 기업으로, 이들의 실적 호조는 AI 서버 수요가 여전히 견고함을 입증한다. 이에 따라 고성능 메모리인 HBM을 공급하는 SK하이닉스 등의 실적 기대감이 함께 폭발했다.\n- **Q. 코어위브 실적 발표가 AI 관련 밸류체인 내 기업들에 미치는 경제적 파급 효과는 어떠한가?**\n  A. AI 거품론으로 주춤했던 빅테크 기업들의 자본지출(CAPEX) 지속성에 대한 불안감을 해소해 주는 계기가 되었다. 클라우드 인프라 업체의 매출 증가는 칩 제조사에서 장비 및 부품 공급사로 이어지는 선순환 고리를 강화한다.\n- **Q. 코어위브의 반등에도 불구하고 월가가 완벽한 신뢰 회복에 시간이 걸린다고 지목한 분기점은 무엇인가?**\n  A. 단기적인 실적 개선을 넘어 지속적인 수주 잔고 확보와 투자 대비 수익성(ROI)이 지속 검증되어야 한다. 데이터센터 부지 확보 및 전력 수급 문제가 차질 없이 해결되는지가 향후 장기 신뢰도를 결정할 것이다.\n\n**👀 앞으로 볼 포인트**\n- 코어위브의 4분기 설비투자(CAPEX) 집행 계획\n- SK하이닉스 및 메모리 반도체 업계의 HBM 공급량\n\n<sub>참고: [아시아경제](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JQ2FtLWd2eERTYVlMQWhFd1VBM3lacHFkXy1QTU5LTF9idUNjbS1vSmwwMU90aVNzUmJQejFhMTBBV3M5cnB6OHlIUldLY1JocGJ5U0c0ZTNkc0E5M2JBWQ?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE5KY1Qtb3hFRU5USWpuOWxsNWVhN0RzOTF5TG9xUDREdzVMS0hscFF6ZEVhX2tqZUdRQmZMamRIWXlUVmI1V2ZFWkNWSzNqdWNKdEttd3FLUU43ODJOdVFMcU1EX0Y3NzJXeUk2RFdueTY?oc=5) / [파이낸셜뉴스](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xOXJMdFktRzlJa2VxLVZ3UUJLZ00wZWRXc212OTBXb1FPY1J6VTNKd0MtY0ZqOWNDNi0yamZkbWM3UXlHNkh2aDVPa2p4eU1sVkhZOVlIeXNTQQ?oc=5)</sub>\n\n---\n\n### 3. CEO 이슈 및 CPI 충격에 엔비디아 이틀간 10% 급락\n> 키워드: 엔비디아 주가 급락\n\n**📌 무슨 일이 있었나**\n- 젠슨 황 CEO 스캔들 악재와 미국 CPI 쇼크가 동시 폭발하며 엔비디아 주가가 하루 만에 5.5% 급락하고 이틀간 10% 폭락하는 충격을 주었다.\n- 엔비디아의 주가 급락 여파로 인해 뉴욕증시 나스닥 지수가 0.74% 하락 마감하는 등 글로벌 기술주 전반의 투매 현상이 확산되었다.\n- 미국 정부의 블랙리스트에 오른 중국 군연계 대학이 엔비디아 H200 칩을 구매한 정황이 포착되어 대중 반도체 규제 리스크가 재점화되었다.\n- 엔비디아 목표주가가 60% 하향 조정되는 악재가 발생했음에도 불구하고 월가 분석가의 94%는 여전히 '매수' 투자의견을 유지했다.\n\n**💬 핵심 Q&A**\n- **Q. 젠슨 황 CEO 이슈와 CPI 충격이 엔비디아 주가 폭락을 유발한 메커니즘은 무엇인가?**\n  A. 최고경영자 개인 스캔들은 지배구조 및 브랜드 리스크를 키웠고, 고물가에 따른 연준의 금리 인상 공포가 고평가 기술주 매도세를 부추겼다. 악재가 겹치면서 투자자들의 이익 실현 매물이 한꺼번에 쏟아져 이틀간 10% 폭락을 기록했다.\n- **Q. 중국 군연계 대학의 H200 구매 정황이 엔비디아의 사업 포지션에 가져다주는 리스크는 무엇인가?**\n  A. 미국 정부의 대중 수출 통제를 우회했다는 의혹을 받게 되면 보다 엄격한 법적 제재나 조사를 받을 수 있다. 이는 엔비디아의 글로벌 칩 공급망 유통과 매출 비전에 직접적인 악영향을 미칠 가능성이 있다.\n- **Q. 목표주가 하향에도 월가 94%가 매수 의견을 유지하는 상황에서 주가 반등의 분기점은 어디인가?**\n  A. CEO 관련 리스크의 조기 해소와 함께 차세대 AI 칩인 블랙웰 등의 차질 없는 출하 수치가 확인되어야 한다. 독점적인 시장 지배력과 실적 성장이 입증된다면 하향된 목표주가를 넘어 회복세를 탈 것으로 전망된다.\n\n**👀 앞으로 볼 포인트**\n- 미국 재무부 및 상무부의 대중 반도체 추가 제재 발표\n- 엔비디아 CEO 이슈 관련 사법적 및 경영상 파장\n\n<sub>참고: [중앙일보](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSTHRvLUpISkJ6VmNSN2dydl9FWWhoZmRRX2ZSaXNhaEFyWlA2bWctSURWNHhiNk9HclBNUVNTSUlFZXpkX0pXVFV5cUNCQjVlc2FuR051WFZxMW8?oc=5) / [뉴스핌](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXd3JGN1pKdWJHOEhPRFBSZ3JsZV9IU1hOdnJ1MGphYzZtMUdKY1p1UW9NVFRSSVdvWmMzd2VMd1FIMDJRbWFxR0tnMHZJNEpoU3EwR3NDdTZSdlBM?oc=5) / [글로벌이코노믹](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT0VndVhEdTdTNklfaFYtZ1dQNTJfOC1KYnpuLVlhSW9LSDlPdEk1MUY1dEY1X3NxbDN4elN4SmVfUThIOG4yRmxERDczRk9DRTRsNXRSNXpKNTk2YnNuT0c2RDU1QWZZVGc2cGpOOEZGY1hSV1ctOEp2QmZXekdIUGpqY1JVQXpK?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 보도를 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
     "generation_mode": "gemini"
   },
   "yesterday": {
@@ -2994,5 +3036,5 @@
     "newsletter_md": "# ⚡ ZIPPY | AI 경제 데일리 브리핑\n_2026-11-05 ~ 2026-11-11 이슈 · 발행 2026-11-12_\n\n🇰🇷 **국내 경제:** `개미들 빚투 폭발과 급락` · `엔비디아칩 중국 밀반입` · `국내 AI 경쟁력 강화`\n🌐 **해외 경제:** `미국 CPI 예상 상회` · `나스닥 AI 기술주 투매` · `젠슨 황 의혹과 급락`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 빚투 폭발 속 증시 급락과 반대매매 공포\n> 키워드: 개미들 빚투 폭발과 급락\n\n**📌 무슨 일이 있었나**\n- 코스닥 시장에서 하락장이 지속되자 개인 투자자들의 신용융자 잔고 중 약 1.1조 원이 증발하며 빚투 물량이 대거 청산되었다.\n- 나스닥 지수가 6년 8개월 만에 최대 낙폭인 5.5% 급락을 기록하면서 국내외 증시에 참여한 개인 투자자들의 손실이 심화되었다.\n- 코스피 시가총액이 고점 대비 약 40%에 달하는 3,000조 원 규모가 증발하며 투자자들 사이에서 패닉 셀링 현상이 확산되었다.\n- 코스피에 이어 코스닥 시장에서도 지수가 5% 이상 급락함에 따라 매도 사이드카가 발동되는 등 시장 변동성이 극에 달했다.\n- 증시가 바닥이라는 판단하에 신용 거래를 늘렸던 개인 투자자들이 예상치 못한 급락세에 직면하며 역대급 반대매매 위기에 노출되었다.\n\n**💬 핵심 Q&A**\n- **Q. 신용잔고 1.1조 원 증발이 시장에 주는 구체적인 경고 신호는 무엇인가?**\n  A. 이는 주가 하락 시 담보 비율을 유지하지 못한 개인들의 물량이 강제로 매도되는 반대매매가 본격화되었음을 의미한다. 매도가 매도를 부르는 악순환이 발생하며 지수의 하방 압력을 가속화하고 시장의 기초 체력을 약화시키는 요인으로 작용한다.\n- **Q. 나스닥 5.5% 급락과 국내 증시 사이드카 발동은 어떤 상관관계가 있는가?**\n  A. 글로벌 AI 기술주 투매 현상이 나스닥의 기록적인 폭락을 야기했고, 이것이 동조화 현상을 통해 국내 IT 및 반도체 비중이 높은 코스피와 코스닥의 동반 폭락을 유도했다. 급격한 지수 변동을 막기 위해 거래소는 프로그램 매도 호가 효력을 일시 정지하는 사이드카를 발동했다.\n- **Q. 시총 3,000조 원 증발 이후 시장 반등을 위한 선결 조건은 무엇인가?**\n  A. 개인 투자자들의 패닉 셀링이 잦아들기 위해서는 신용융자 잔고의 추가적인 정리와 함께 외국인의 순매수 전환이 필수적이다. 특히 고점 대비 40% 하락한 가격 메리트가 부각되는 지점에서 기관의 저가 매수세가 유입되는지가 추세 반전의 분기점이 된다.\n\n**👀 앞으로 볼 포인트**\n- 신용융자 담보부족에 따른 추가 반대매매 규모\n- 코스피 2,400선 지지 여부 및 외국인 수급 변화\n- 추가적인 매도 사이드카 발동 가능성\n\n<sub>참고: [Investing.com 한국어](https://news.google.com/rss/articles/CBMicEFVX3lxTE5oRjExYTR1UGNMTE9TNlNFLWZxZnU5STRlTmJvNlFyYnJmMWlpLXFfcS02Y3FQc21mOWdWZkphaUVBR1dnX2oyb3VXUm5HZnZ3RnhBeTdnX0NfbEpIYXM4UlhNdjVPb2V1T2pTdlNMajE?oc=5) / [한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IRHFvSHdLeHp3MnVQTmdNV3lkdEZVa3VwRGpaT1VGYXN0cnY0Vy1ZMDNuRGgxY0t1Z0ItTFN3aU9BY19QZUZwSHEtNjZfXzlIN09qSEJiWnU3Zw?oc=5) / [한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJamtqSGFDN3NOclNSNjhwQzBTenFDMkZHNVBaVU1uYm9CREt4OGtwUUtrelA3TDloSkRfc1hNSktUMlNvTHJZX2VrYk5xbGp0c3FSM1BsZFpWUQ?oc=5)</sub>\n\n---\n\n### 2. 엔비디아 10조원 규모 칩 중국 밀반입 의혹\n> 키워드: 엔비디아칩 중국 밀반입\n\n**📌 무슨 일이 있었나**\n- 앨리스 황이 젠슨 황 회장과의 관계를 악용하여 약 10조 원 규모에 달하는 엔비디아 AI 칩 24만 장을 중국으로 밀반입했다는 의혹이 제기되었다.\n- 미국 정부의 블랙리스트에 오른 중국 군 연계 대학들이 미국의 수출 규제를 우회하여 엔비디아의 최신형 H200 칩을 구매한 것으로 드러났다.\n- 이번 밀반입 사건은 최소 10조 원 규모로 추산되며, 젠슨 황 회장의 주변 인물이 연루되었다는 점에서 월가와 실리콘밸리에 큰 파장을 일으켰다.\n- 중국 스파이 및 불륜 의혹까지 겹치며 일론 머스크를 포함한 월가 거물들이 이번 사태에 대해 잇따라 공개적인 입장을 표명하고 나섰다.\n- 미국 정부의 대중국 반도체 봉쇄망에 구멍이 뚫렸다는 비판이 나오면서 향후 엔비디아에 대한 규제 감시가 더욱 강화될 것으로 전망된다.\n\n**💬 핵심 Q&A**\n- **Q. 24만 장의 칩 밀반입이 중국 AI 산업에 미치는 실질적인 영향은 어느 정도인가?**\n  A. 10조 원 규모의 H200 등 고성능 칩은 중국이 미국의 규제를 피해 자체 AI 모델을 고도화하고 군사적 목적의 연산을 수행하는 데 핵심 자원으로 활용된다. 이는 미국의 기술 봉쇄 전략을 무력화하고 중국의 AI 자립 속도를 비정상적으로 높이는 결과를 초래한다.\n- **Q. 이번 스캔들이 엔비디아의 주가와 기업 신뢰도에 어떤 경로로 타격을 주는가?**\n  A. CEO 주변 인물의 도덕적 해이가 국가 안보와 직결된 수출 통제 위반으로 이어졌다는 점에서 법적 리스크와 브랜드 가치 하락이 불가피하다. 특히 미 정부의 고강도 조사가 시작될 경우 공급망 관리 부실에 대한 책임론이 불거지며 투자 심리를 급격히 위축시킬 수 있다.\n- **Q. 미국 정부가 이번 사건을 계기로 반도체 수출 규제를 어떻게 강화할 것으로 보이는가?**\n  A. 단순히 제품 사양을 제한하는 것을 넘어 최종 사용자 확인 절차를 대폭 강화하고, 유통 단계에서의 추적 시스템 도입을 의무화할 가능성이 크다. 또한 블랙리스트 기관에 대한 우회 구매 경로를 차단하기 위해 제3국을 경유하는 거래에 대한 감시 수위도 높일 것으로 예상된다.\n\n**👀 앞으로 볼 포인트**\n- 미 상무부의 엔비디아 대상 추가 조사 착수 여부\n- 중국 군 연계 기관의 추가 칩 확보 경로 차단책\n- 젠슨 황 회장의 공식 해명 및 경영권 영향\n\n<sub>참고: [한겨레](https://news.google.com/rss/articles/CBMiggFBVV95cUxNSFF6bXZ4MFk3SzVzU09FREF6UWhaOENKQXF4S2tvU0xraFQ1dVVfWjJwTFp1WHVqRXpZMkZfTmZKT0xYUmZyNU1JYmtEaDVLcEdLNXZtcDlXQkVaSXExd1ZXOHNhc3JoRDk1Z3RIMTdfcjVZeEVLM0YxcVBGOFVuVUZR?oc=5) / [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ET0dmbXVUSVdLYWJpTk10NzE2Njg0R3NWYVFBZWxUa2FhUVZ3RDg5RGo5QnF3ck5YOTJsVnE0RlNtenVlWFdLbklEUWU0bFo1WENNUW9ualB0MEE?oc=5) / [YTN](https://news.google.com/rss/articles/CBMiX0FVX3lxTE94b2ZRc2Jha3p5Q3p0Q0NkMER2R1FQMGl6V0M3dzVRS3NlU2hvU0NBdExndWpzcmYzdGUzeERUNXhjU1huU1MxbWl6cThrNDloT3F3UGtrcG82NmNxQ3FF?oc=5)</sub>\n\n---\n\n### 3. 한국 AI 경쟁력 세계 10위 진입과 인프라 동맹\n> 키워드: 국내 AI 경쟁력 강화\n\n**📌 무슨 일이 있었나**\n- 한국의 디지털 및 AI 경쟁력이 1년 만에 8계단 상승하며 세계 10위를 기록하여 글로벌 기술 시장에서의 입지를 강화했다.\n- GS와 포스코가 초대형 AI 데이터센터 구축을 위해 혈맹을 맺고 인프라와 철강 분야를 결합한 글로벌 시장 공략에 나섰다.\n- 정부는 피지컬 AI의 핵심 부품 3종을 선정하여 내년부터 본격적인 개발에 착수하는 등 하드웨어 경쟁력 확보에 집중할 계획이다.\n- 오픈AI 코리아는 한국 병원들과 AI 활용 논의를 시작했으나, 의료 데이터의 민감성을 고려해 미국보다 신중한 접근 방식을 취하고 있다.\n- 두산에너빌리티는 협력사와의 상생 강화를 통해 AI 및 에너지 인프라 제조 분야에서 최우수 명예기업으로 선정되며 생태계 구축에 기여했다.\n\n**💬 핵심 Q&A**\n- **Q. 한국의 AI 경쟁력 순위가 1년 만에 8계단이나 급등한 핵심 동력은 무엇인가?**\n  A. 정부 주도의 AI 부품 육성 정책과 민간 기업 간의 대규모 인프라 동맹이 시너지를 낸 결과이다. 특히 제조 역량을 바탕으로 한 '피지컬 AI' 분야의 집중 투자와 디지털 전환 가속화가 국가 차원의 기술 점수를 높이는 데 결정적인 역할을 했다.\n- **Q. GS와 포스코의 AI 데이터센터 혈맹은 산업 생태계에 어떤 변화를 가져오는가?**\n  A. 에너지 공급(GS)과 데이터센터 건설에 필요한 특수강재 및 인프라(포스코)가 결합하여 데이터센터 구축 비용을 절감하고 효율성을 극대화하는 모델을 제시한다. 이는 단순 IT 협력을 넘어 중화학 공업과 첨단 기술이 결합한 새로운 형태의 수출 경쟁력을 확보하는 계기가 된다.\n- **Q. 오픈AI가 한국 의료 시장 진출에서 미국보다 신중한 태도를 보이는 이유는 무엇인가?**\n  A. 한국의 엄격한 개인정보보호법과 의료 데이터 활용에 대한 사회적 합의 수준이 미국과 다르기 때문이다. 기술적 적용보다는 데이터 보안 및 윤리적 가이드라인 수립이 선행되어야 하므로, 병원들과의 초기 논의 단계에서부터 보수적인 접근을 유지하고 있다.\n\n**👀 앞으로 볼 포인트**\n- 피지컬 AI 핵심 부품 3종의 구체적 개발 로드맵\n- GS-포스코 데이터센터의 첫 착공 시점 및 규모\n- 오픈AI와 국내 의료계의 실질적 협업 모델 도출\n\n<sub>참고: [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3WWlDQUozRUdVdUFDVkJ3ZC1OY2FVMG1GVFlzX1dybVItcEo3c2tsUzZoZ3dISEJrdmJXUnotcjF0UFJOMTdNdS1SWHV6Ui1XRGI3VktNdkUwRHc?oc=5) / [Investing.com 한국어](https://news.google.com/rss/articles/CBMicEFVX3lxTE9Gdk10NUI0UUpjT1ViM25XTS1maldTc3Awd3VacUFVVk9oRDFiVEVSbDFFOElERjE4U1ZMN0hESHRzeGF5RWYyajdCWl9ZT3RNcnByT2NtYURhQXV1RFQtTzEzQW9hcmtBakRMYmdrb1g?oc=5) / [MEDI:GATE NEWS](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OMDgybzJ2dWhFdS1iOTZ5allxR3JYVjgxOElmM1VXcGtXSnV0eXdlb3U4VnAyRlBybjhvZ3cyTEdpYURvME9yVFFCTjR1Q0dxVW9kNUctdw?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 美 10월 물가 예상 상회에 12월 빅스텝 가능성\n> 키워드: 미국 CPI 예상 상회\n\n**📌 무슨 일이 있었나**\n- 미국 10월 소비자물가지수(CPI)가 전월 대비 0.4% 상승하며 시장 예상치를 웃돌아 인플레이션 우려가 다시 확산되었다.\n- 물가 지표가 높게 나타나자 연준 내 매파적 인사인 크리스토퍼 월러 이사는 12월 금리 인상을 지지하며 50bp 인상 가능성을 언급했다.\n- 예상을 상회한 CPI 발표 직후 뉴욕증시는 연준의 긴축 기조가 강화될 것이라는 공포에 휩싸이며 주요 지수가 일제히 하락했다.\n- 인플레이션 둔화 속도가 정체됨에 따라 시장에서는 연준이 당초 예상보다 더 높은 수준까지 금리를 올릴 것이라는 전망이 힘을 얻고 있다.\n- 정부 관계자는 미국 AI 투자 불확실성에 우려를 표하면서도, 이를 선도국과의 격차를 좁힐 기회로 삼아야 한다고 강조했다.\n\n**💬 핵심 Q&A**\n- **Q. 10월 CPI 0.4% 상승이 연준의 통화정책 경로를 어떻게 뒤흔들었는가?**\n  A. 물가 상승세가 꺾이지 않았음을 증명하며 연준의 '피벗(정책 전환)' 기대를 완전히 꺾어놓았다. 특히 월러 이사가 50bp 인상인 '빅스텝'을 직접 언급함에 따라, 시장은 금리 동결이나 소폭 인상이 아닌 고강도 긴축의 연장을 대비해야 하는 상황에 직면했다.\n- **Q. 물가 지표 상회가 AI 기술주 중심의 나스닥에 더 치명적인 타격을 준 이유는 무엇인가?**\n  A. 고금리 환경은 미래 수익을 당겨오는 기술주의 밸류에이션에 직접적인 타격을 주기 때문이다. 인플레이션 고착화로 금리 인하 시점이 늦춰질 것이라는 전망이 확산되자, 그동안 과도하게 올랐던 AI 관련주들에 대한 차익 실현 욕구와 투매가 동시에 터져 나왔다.\n- **Q. 미국 물가 쇼크 상황에서 한국 AI 산업이 격차를 좁힐 기회라는 주장의 근거는 무엇인가?**\n  A. 미국 내 투자 불확실성이 커지면 글로벌 자본이 상대적으로 저평가되었거나 효율적인 대안을 찾게 된다는 논리이다. 미국 기업들이 긴축 여파로 투자를 주춤하는 사이, 한국이 정부 주도의 집중 투자를 통해 핵심 부품 및 인프라 시장에서 점유율을 확대할 수 있다는 전략적 판단이다.\n\n**👀 앞으로 볼 포인트**\n- 12월 FOMC에서의 기준금리 인상 폭 결정\n- 미국 근원 소비자물가지수의 추가 상승 여부\n- 연준 위원들의 추가적인 매파적 발언 수위\n\n<sub>참고: [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GSmxvMVltRkhoUWFoaUY3dnVQeXlnOTdwejdZOWszaktnZnFMRGpnam9RNVl5cVRlRzV6a0hUM25nb01UQmxkWEZDVEpLaXZGTU9UQ0FleEQ0QXVKWlM0bnFySGpSZ28?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xdDFnbjA1clBCMHM3TGw3MWNJZlVBYy0tSE80N2hKaDk5RFpDejhYallTZEhfLUt2RW1kcV82Nnh6a1ZXNUtiazVNUktUcjFzSDFYQ1N1SzlnV03SAWBBVV95cUxNOXBXUXIzWGF2ZTdSeUlCbDBEOGV0VC1Mc3hUQlNXZWxTMkxQZjlWT0o2eGdMdW15UDYxdGRwMXcwc2x2am56dXZLLUZtRDdXNGR3aklRaUhteWFkLXJXRnE?oc=5) / [동아일보](https://news.google.com/rss/articles/CBMic0FVX3lxTE5xdkJFYjhRY0Nkb3VUS0dKN1JTaUlhWFBjSVdDWVhUOGZMc2JBWWxSSzJ5ZkFCSXVUb1J0eXVnamNLMWFKQkRSaHVxYnItUGlRdkQwYjJPMFI0NW9iTWl6Z3M0c3Zjd2ZaOUdIUjdySlR0LWfSAWZBVV95cUxQdjktV1Z3elRfYW93bUVmSHhuM0N3SHRJbGVya3h1WV9PMUJmRkFMWkkxeUxtSzJQZk9WcjVJcFhtM0F3N0FpM2I2SVNqeXpwWmxqeDJlaU9LUXV3R0U5N1FqcGJqQnc?oc=5)</sub>\n\n---\n\n### 2. 나스닥 5.5% 폭락하며 AI 기술주 투매 현상 심화\n> 키워드: 나스닥 AI 기술주 투매\n\n**📌 무슨 일이 있었나**\n- 뉴욕증시에서 AI 기술주를 중심으로 기록적인 투매가 발생하며 나스닥 지수가 하루 만에 5.5% 폭락하는 사태가 벌어졌다.\n- 이번 낙폭은 장중 조정 국면 진입을 알리는 신호로 해석되었으며, 투자자들이 AI 산업의 수익성에 의문을 제기하며 매도세에 가담했다.\n- 폭락 직후 저가 매수세가 일부 유입되며 나스닥이 1.1% 반등하기도 했으나, 전반적인 투자 심리는 여전히 극도로 위축된 상태이다.\n- 주요 AI 대장주들이 실적 대비 과도하게 평가되었다는 거품론이 확산되면서 기관 투자자들의 대규모 포트폴리오 조정이 이어졌다.\n- 나스닥의 급락은 글로벌 증시 전반에 영향을 미쳐 아시아 및 유럽 증시의 기술주 동반 하락을 견인하는 기폭제가 되었다.\n\n**💬 핵심 Q&A**\n- **Q. 나스닥 5.5% 폭락이 단순 조정을 넘어 하락장 진입의 신호로 평가받는 이유는 무엇인가?**\n  A. 단기적인 악재가 아닌 AI 산업 전반에 대한 '수익성 의구심'이라는 본질적인 회의론이 투매를 촉발했기 때문이다. 6년 8개월 만의 최대 낙폭은 시장의 주도주였던 AI 관련주들에 대한 신뢰가 무너졌음을 시사하며, 이는 장기적인 가격 조정의 시작점이 될 수 있다.\n- **Q. 폭락 다음 날 발생한 1.1% 반등을 추세 전환으로 볼 수 없는 근거는 무엇인가?**\n  A. 5.5%라는 압도적인 하락 폭에 비해 반등 규모가 턱없이 작으며, 이는 기술적 반등인 '데드 캣 바운스'일 가능성이 크기 때문이다. 투매를 유발했던 고금리 우려와 AI 거품론이 해소되지 않은 상태에서의 반등은 추가 하락을 위한 일시적 숨 고르기에 불과할 수 있다.\n- **Q. AI 기술주 투매 현상이 국내 반도체 밸류체인에 미치는 구체적인 파급 경로는 무엇인가?**\n  A. 나스닥 AI 기업들의 주가 하락은 이들에게 핵심 부품을 공급하는 국내 반도체 대형주들의 수주 절벽 우려로 직결된다. 글로벌 빅테크들이 설비 투자(CAPEX)를 축소할 것이라는 공포가 확산되면 국내 반도체 제조 및 장비 업체들의 주가는 지수보다 더 큰 변동성을 보이며 하락하게 된다.\n\n**👀 앞으로 볼 포인트**\n- 나스닥 지수의 추가 조정 및 기술적 지지선 확인\n- 주요 AI 기업들의 4분기 실적 가이드라인 발표\n- 공포지수(VIX) 급등에 따른 변동성 완화 여부\n\n<sub>참고: [MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTE5Qd0Y4NmJERl9KdU1HWFBSOUtVb1JsNXQ1Yk1hb2IxX0pyaks1YllPMmFxd2lWUzNUdG1mREVZOEhaVWtnSDhCQUdDb1RHSmM3NXBoSVBIR0xQeTFwZWdYX3kyUUlmbnZzcktLaVdYZW9veF9L0gF0QVVfeXFMTng1bHBRSmlWTHFLajFFYVJKUUpxVkZWMkZHWVlUMWlJZlRkdnVfSHhpR3VCREVXT1Fpdk9FUVMtOGRqVjRGQWxLNG5PbUFwUksxV0pPVlpZRGN6S1pCWVg3UkE0RmxaTzVtb2dxd2lNM295dXQ?oc=5) / [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFdU85bGwtMkdwV1R1N29KS19paGZCRXdxZVloNVNGUkpaV1dKb1RpMVI2OHk4Ri1nMGowZTktRkdUM3ZsRDhoZm5mMDVocVhNX1d3ZjgzSjItY1B0UGlMcURWQjJfZGs?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nRXhzN3BLRm5lenUzcGM5M2VJbGNRN1Y0MGlWYzN1WmJ6S0JhWHhhSGVBWlRxZmdiUVg2S3FmM1J4dzcyX1JuVk1QdTdoUDlWVDBwSW9ya1lTamvSAWBBVV95cUxNSmxpNHdIS29hWlFNeTFob2JyeHphaUo5R3dOaVdHQjdmeE1Ga013amRYaVJ4WWNxalctUExPNWo4LXBpZ1BfXzlXRHZ0OWNUbHFTN2ExUmhfTzF4bFU2b28?oc=5)</sub>\n\n---\n\n### 3. 젠슨 황 스캔들 의혹과 AI주 조정 국면 진입\n> 키워드: 젠슨 황 의혹과 급락\n\n**📌 무슨 일이 있었나**\n- 젠슨 황 회장의 주변 인물이 연루된 10조 원 규모의 대중국 반도체 밀반입 의혹이 불거지며 엔비디아를 포함한 AI주가 급락했다.\n- 모건스탠리는 미국 중간선거 이후 AI주의 급락이 과도하다고 분석하며, 현재의 하락을 선별적 매수 기회로 삼아야 한다는 의견을 제시했다.\n- 엔비디아 CEO를 둘러싼 스캔들 여파로 뉴욕증시가 급락 반전했으며, 나스닥은 장중 4% 이상 하락하며 본격적인 조정 국면에 진입했다.\n- 트럼프 행정부의 대중국 반도체 봉쇄 강화 기조 속에서 이번 밀반입 의혹은 엔비디아의 향후 사업 전개에 치명적인 리스크로 부상했다.\n- 국내 증시에서도 젠슨 황발 악재가 반영되며 코스닥 신용잔고가 급감하고 매도 사이드카가 발동되는 등 시장 충격이 이어졌다.\n\n**💬 핵심 Q&A**\n- **Q. 젠슨 황 회장의 개인적 스캔들 의혹이 왜 시장 전체의 AI주 투매로 번졌는가?**\n  A. 엔비디아가 AI 산업의 절대적인 상징이자 지수 주도주이기 때문에 CEO의 리스크는 곧 산업 전체의 규제 리스크로 치환되기 때문이다. 특히 밀반입 의혹은 미 정부의 강력한 제재를 유발해 엔비디아의 독점적 지위를 흔들 수 있다는 공포를 자극했다.\n- **Q. 모건스탠리가 이번 급락을 '과도한 하락'이자 '매수 기회'라고 주장하는 근거는 무엇인가?**\n  A. 정치적 불확실성과 스캔들로 인한 심리적 위축이 기업의 펀더멘털(이익 창출 능력)을 훼손하지는 않았다고 판단하기 때문이다. 중간선거 이후의 일시적 변동성이 지나가면 결국 AI 인프라에 대한 수요가 주가를 다시 견인할 것이라는 낙관론에 기반하고 있다.\n- **Q. 트럼프의 '대중 반도체 봉쇄' 강화가 엔비디아의 실적 구조에 어떤 변수를 만드는가?**\n  A. 중국은 엔비디아 전체 매출의 상당 부분을 차지하는 핵심 시장이므로, 봉쇄망이 촘촘해질수록 매출 타격은 불가피하다. 이번 밀반입 의혹을 빌미로 수출 규제가 더 정교해진다면, 엔비디아는 중국 시장을 완전히 포기하거나 수익성이 낮은 저사양 칩만 판매해야 하는 딜레마에 빠지게 된다.\n\n**👀 앞으로 볼 포인트**\n- 엔비디아에 대한 미 법무부의 공식 수사 여부\n- 트럼프 당선인의 대중 반도체 규제 추가 행정명령\n- 모건스탠리 등 주요 투자은행의 목표주가 하향 조정\n\n<sub>참고: [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE52VDdndHdacFhfX2tWYkFUQ0JkZ2VJeTV5bWswc2ZoLW00UjNmN2F6UnljcFl6YWR6d3hQUVFvQW0yeXVLUFBJVnFwbnREdVdDUkxGMV9ZQzdsREM0ZF95bzFQYWJlT0xJSU1DMWlQTGw?oc=5) / [조선일보](https://news.google.com/rss/articles/CBMigwFBVV95cUxQd1hscEtYZHhQTlc4ZnQ2bUR1aFFzaFlHV2VNMDVMMnRkR2tDa2V0TTJPY0tha3lUOVkzU0N2TUtlNUQ3TDZySV83UHluZkszSUxONlItbGF4OTZVWEw2LUVoeVhfOGlpWmJfeV9JNGMzc2FLNHY2UE1kZHBmYnpYYk0xTQ?oc=5) / [Investing.com 한국어](https://news.google.com/rss/articles/CBMicEFVX3lxTE5oRjExYTR1UGNMTE9TNlNFLWZxZnU5STRlTmJvNlFyYnJmMWlpLXFfcS02Y3FQc21mOWdWZkphaUVBR1dnX2oyb3VXUm5HZnZ3RnhBeTdnX0NfbEpIYXM4UlhNdjVPb2V1T2pTdlNMajE?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 보도를 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
     "generation_mode": "gemini"
   },
-  "updated_at": "2026-11-12 00:50:01 KST"
+  "updated_at": "2026-11-12 04:57:01 KST"
 }
