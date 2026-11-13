@@ -5,112 +5,118 @@
     "end_date": "2026-11-13",
     "domestic": {
       "keywords": [
-        "코스피 2%대 상승",
-        "서울 아파트값 상승 둔화",
-        "플랫폼 및 금융사 해킹"
+        "아파트값 상승 둔화",
+        "가상자산 해킹 확산",
+        "10월 수입물가 하락"
       ],
       "results": {
-        "코스피 2%대 상승": {
-          "headline": "젠슨 황 사임 충격 딛고 반등한 코스피, 장중 하락 전환",
+        "아파트값 상승 둔화": {
+          "headline": "서울 아파트값 상승세 둔화와 매물 누적 현상",
           "facts": [
-            "코스피는 엔비디아 젠슨 황 최고경영자의 불명예 퇴진 소식에도 불구하고 장 초반 2%대 상승하며 긍정적인 흐름으로 출발했다.",
-            "오전 중 젠슨 황 사임 여파를 주시하며 코스닥과 동반 상승세를 유지했으나 오후 들어 정치권 간담회 직후 하락세로 돌아섰다.",
-            "외국인 투자자들이 매도세로 전환하며 지수를 압박했고 결국 코스피는 전 거래일보다 0.98% 내린 5,290.53으로 장을 마감했다.",
-            "장 초반의 강한 반등세를 지키지 못하고 음전한 배경에는 외국인의 '팔자' 기조와 국내 정치적 이벤트에 따른 심리 위축이 작용했다."
+            "서울 아파트 가격의 상승 폭이 축소되고 매물이 늘어남에 따라 집값 하향 안정을 나타내는 지표가 확대되고 있다.",
+            "매수자들의 관망세가 짙어지는 가운데 부동산 시장 내 매물 누적이 진행되며 가격 상승 동력이 약화되는 흐름이 관측되었다.",
+            "서울 주요 지역을 중심으로 매매 가격 상승률이 이전 대비 줄어들며 주택 거래 시장 전반의 격열했던 매수세가 가라앉았다.",
+            "당국은 시장 거래량과 매물 변화 추이를 지속적으로 점검하며 집값 하향 안정세가 공고해질 수 있도록 관리할 방침이다."
           ],
           "watch": [
-            "외국인 투자자의 순매도세 지속 여부",
-            "정치권 간담회 후속 조치가 시장에 미칠 영향",
-            "코스피 5,200선 지지 여부 및 코스닥과의 디커플링"
+            "서울 주요 권역별 아파트 매물 누적 속도",
+            "주택담보대출 금리 변동 및 가계대출 규제 동향",
+            "매수우위지수 변동과 실거래가 체결 비율"
           ],
           "qna": [
             {
-              "q": "젠슨 황 사임이라는 대형 악재에도 불구하고 장 초반 코스피가 2%대 급등하며 출발한 원인은 무엇인가?",
-              "a": "미국 주식 선물이 엔비디아 충격을 딛고 반등에 성공하며 국내 증시에도 저가 매수세가 유입되었기 때문이다. 시장은 젠슨 황의 퇴진을 단기적인 경영진 리스크로 해석하며 기술적 반등을 시도했으나 장중 수급 악화로 동력을 잃었다."
+              "q": "매물 증가와 상승세 둔화에도 불구하고 집값 하향 안정을 낙관하기 어려운 메커니즘은 무엇인가?",
+              "a": "매물이 늘어났지만 실거래로 이어지는 매수세가 특정 정주 여건 우수 지역에만 한정되어 나타나기 때문이다. 거래량이 수반되지 않은 채 나타나는 관망세는 일시적인 둔화 착시를 만들 뿐 확실한 하락세 전환으로 보기 어렵다."
             },
             {
-              "q": "상승 출발했던 지수가 오후 들어 하락 전환하며 5,300선 아래로 밀려난 결정적 계기는 무엇인가?",
-              "a": "이재명 대표의 간담회 직후 시장 심리가 급격히 냉각되며 외국인들이 매도 우위로 돌아선 점이 결정적이었다. 장 초반의 낙관론이 정치적 불확실성과 수급 공백을 이기지 못하고 매물 폭탄으로 이어진 결과이다."
+              "q": "서울 아파트 거래 관망세가 지속될 경우 분양 시장과 대출 시장에는 어떤 연쇄 파급이 발생하는가?",
+              "a": "기존 매매 시장의 거래 침체는 신규 분양 청약 시장으로의 수요 쏠림과 양극화를 심화시킨다. 동시에 금융권의 대출 한도 축소와 높은 이자 부담이 더해져 시중 주택 거래 유동성이 급격히 위축되는 결과를 초래한다."
             },
             {
-              "q": "코스피가 하락 마감한 것과 달리 코스닥이 소폭 상승하며 마감한 현상은 어떻게 해석해야 하는가?",
-              "a": "대형주 중심의 코스피는 외국인 매도와 대외 변수에 민감하게 반응했으나 코스닥은 상대적으로 개별 테마주 중심의 매수세가 유입되었기 때문이다. 이는 시장의 관심이 지수 전반보다는 특정 섹터나 중소형주로 분산되고 있음을 시사한다."
+              "q": "정부의 하향 안정 지표 발표에도 불확실성이 지속되는 상황에서 시장 반전의 분기점은 무엇인가?",
+              "a": "기준금리 인하 전환 시점과 실제 주택 공급 물량의 체감 입주 시기가 핵심 분기점이다. 금융 비용 부담 완화와 구체적인 주택 공급 체계가 맞물리는 시점에 매수 심리의 유입 여부가 결정될 수 있다."
             }
           ]
         },
-        "서울 아파트값 상승 둔화": {
-          "headline": "서울 아파트값 상승세 주춤, 매물 증가하며 하향 안정 지표 확대",
+        "가상자산 해킹 확산": {
+          "headline": "잇단 해킹에 가상자산 선제적 입출금 차단 도입",
           "facts": [
-            "정부는 서울 아파트값 상승 폭이 둔화되고 매물이 증가하는 등 집값 하향 안정을 뒷받침하는 지표들이 확대되고 있다고 발표했다.",
-            "서울 전역에서 가격 상승세가 주춤한 가운데 강북권 일부 지역과 경기 남부 지역은 여전히 상대적인 강세를 이어가고 있다.",
-            "부동산 시장 내 매물 적체가 진행되면서 매수자 우위 시장으로의 전환 가능성이 제기되며 시장 관망세가 짙어지는 양상이다.",
-            "정부는 현재의 지표 변화를 시장 안정화의 신호로 판단하고 있으며 향후 공급 대책과 대출 규제 효과가 본격화될 것으로 보고 있다."
+            "가상자산 거래소에서 해킹 이상 징후가 감지될 경우 거래소가 입출금을 선제적으로 차단할 수 있는 대책이 허용되었다.",
+            "금융위원회는 최근 발생한 보안 침해 사고와 관련해 다음 주부터 금융보안원에 대한 고강도 감사에 착수하기로 결정했다.",
+            "기업용 협업 플랫폼인 카카오워크마저 해킹 피해를 입어 업무 정보가 유출되는 등 종단간 암호화 기술의 실효성 논란이 불거졌다.",
+            "생성형 AI 기술을 악용한 해커 집단이 8조 원 규모의 가상자산과 주요 정보 자산을 탈취하며 보안 위협이 급격히 고도화되었다."
           ],
           "watch": [
-            "서울 아파트 매물 적체 속도와 실제 거래량 변화",
-            "강북권 중저가 단지의 매수세 유지 여부",
-            "정부의 추가적인 부동산 시장 안정화 대책 발표"
+            "금융당국의 금융보안원 감사 결과 및 징계 수위",
+            "가상자산 거래소별 이상 거래 감지 시스템 적용 현황",
+            "AI 기반 악성코드 및 해킹 기법에 대한 보안 대책"
           ],
           "qna": [
             {
-              "q": "정부가 집값 하향 안정의 근거로 제시한 구체적인 지표 변화는 무엇인가?",
-              "a": "서울 아파트값 상승률의 수치적 둔화와 더불어 시장에 나온 매물 건수가 유의미하게 증가하고 있다는 점을 핵심 근거로 꼽았다. 이는 매도 희망가는 높지만 매수자가 따라붙지 않는 수급 불균형이 가격 하락 압력으로 작용하기 시작했음을 의미한다."
+              "q": "해킹 의심만으로 가상자산 입출금을 선제 차단하는 조치가 왜 유동성 리스크를 유발할 수 있는가?",
+              "a": "오탐으로 인한 출금 동결 시 정상적인 거래자의 자금이 묶여 시세 차익 기회를 상실하거나 담보비율 미달로 반대매매가 발생할 수 있다. 이는 거래소 신뢰도를 떨어뜨리고 시장 전반의 투매를 유도하는 부작용을 낳는다."
             },
             {
-              "q": "서울 전반의 상승세가 둔화되는 상황에서 강북권과 경기 남부 아파트값이 강세를 보이는 이유는 무엇인가?",
-              "a": "강남권 등 고가 지역의 대출 규제 피로감이 커지자 상대적으로 진입 장벽이 낮은 강북권 중저가 단지로 매수세가 이동하는 풍선효과가 나타났기 때문이다. 경기 남부 역시 교통 호재나 직주근접 수요가 뒷받침되며 서울 외곽의 수요를 흡수하고 있다."
+              "q": "AI 기술을 결합한 해킹 공격의 고도화가 가상자산 및 보안 산업의 이해득실에 어떠한 영향을 미치는가?",
+              "a": "기존 보안 솔루션의 무력화로 보안 구축 비용이 기하급수적으로 증가하게 된다. 거대 자본을 동원해 고도화된 인프라를 구축할 수 있는 대형 거래소 중심의 독점이 심화되고 소형 플랫폼은 시장에서 도태될 가능성이 높다."
             },
             {
-              "q": "매물 증가가 실제 가격 하락으로 이어지기 위한 시장의 임계점은 어디인가?",
-              "a": "매수 대기자들이 금리 부담과 고점 인식을 이유로 관망세를 유지하며 거래 절벽이 3개월 이상 지속될 때 본격적인 가격 조정이 일어날 가능성이 크다. 현재는 매도자와 매수자 간의 희망 가격 격차가 팽팽해 지표상 둔화만 나타나는 단계이다."
+              "q": "금융당국의 금융보안원 감사 착수 조치가 보안 체계의 근본적 체질 개선으로 이어질 분기점은 무엇인가?",
+              "a": "단순 과태료 부과를 넘어 보안 사고 발생 시 사업자에 대한 징벌적 손해배상제 도입 여부가 분기점이다. 법적 책임을 강화하는 제도적 정비가 수반되어야 거래소들의 자발적인 보안 투자 확대를 이끌어낼 수 있다."
             }
           ]
         },
-        "플랫폼 및 금융사 해킹": {
-          "headline": "카카오워크부터 금융보안원까지, 전방위 해킹에 개인정보 유출 비상",
+        "10월 수입물가 하락": {
+          "headline": "환율과 유가 동반 하락에 10월 수입물가 1.8% 감소",
           "facts": [
-            "기업용 협업 플랫폼 카카오워크가 해킹되어 업무 정보가 유출되었으며 강조해온 종단간 암호화 기술이 무력화되었다는 지적을 받았다.",
-            "가상자산 거래소 플라이빗에서도 해킹 사고가 발생하여 고객 40명의 주민등록번호와 납세 정보 등 민감 정보가 외부로 새 나갔다.",
-            "삼성SDS 자회사 멀티캠퍼스는 해킹 공격으로 인해 전현직 임직원 약 7만 명의 개인정보가 유출되는 대규모 사고를 겪었다.",
-            "금융위원회는 보안 컨트롤타워인 금융보안원이 해킹에 뚫린 사안에 대해 다음 주부터 고강도 감사를 실시하기로 결정했다.",
-            "화상회의 지인 초대를 악용한 페이스스틸러 악성코드와 보안에 취약한 홈캠 해킹 사례가 빈번해지며 개인 사생활 침해 우려가 커졌다."
+            "원/달러 환율 안정과 국제 유가 내림세에 힘입어 10월 수입물가지수가 전월 대비 1.8% 하락세를 기록했다.",
+            "유가 하락이 원자재 가격 하락을 이끌고 환율 안정세가 더해지면서 수입물가 하락을 이끄는 주요 요인으로 작용했다.",
+            "수입물가의 하락세는 시차를 두고 국내 원가 부담을 줄여 향후 소비자물가 상승 압력을 낮추는 데 기여할 것으로 전망된다.",
+            "석유 및 화학제품을 중심으로 수입 가격 인하 효과가 크게 나타나면서 제조업 공급망의 원가 관리 부담이 일부 완화되었다."
           ],
           "watch": [
-            "금융위원회의 금융보안원 감사 결과 및 징계 수위",
-            "유출된 개인정보를 악용한 2차 피해 발생 여부",
-            "기업용 협업 툴 보안 인증 체계 강화 방안"
+            "국제 유가 및 산유국 생산량 조정 동향",
+            "원/달러 환율 변동성 및 외환 시장 수급",
+            "수입물가 하락의 소비자물가 시차 반영 정도"
           ],
           "qna": [
             {
-              "q": "카카오워크가 내세운 '종단간 암호화' 기술이 있음에도 업무 정보가 유출된 원인은 무엇인가?",
-              "a": "데이터 전송 구간은 암호화되었으나 사용자 단말기나 서버의 접근 권한 자체가 탈취되어 암호화가 해제된 상태의 데이터에 접근했기 때문이다. 이는 기술적 암호화보다 계정 관리와 엔드포인트 보안의 허점이 더 큰 위협이 될 수 있음을 보여준다."
+              "q": "환율과 유가의 동반 하락이 수입물가를 떨어뜨렸음에도 체감 소비자물가 반영이 더딘 이유는 무엇인가?",
+              "a": "수입 원자재가 최종 소비재 가격에 반영되기까지 보통 1~3개월의 시차 변수가 존재하기 때문이다. 또한 유통 구조상의 마진과 인건비 등 내수 비용 부담이 수입물가 하락 폭을 상쇄하는 영향도 작용한다."
             },
             {
-              "q": "금융보안원까지 해킹 대상이 된 상황에서 금융권 전반의 보안 신뢰도에 어떤 타격이 예상되는가?",
-              "a": "금융권 보안을 점검하고 표준을 만드는 최상위 기관이 뚫렸다는 점에서 개별 금융사들의 보안 체계에 대한 근본적인 불신으로 확산될 수 있다. 금융위의 감사를 통해 보안 관제 시스템의 구조적 결함이 드러날 경우 대대적인 시스템 개편이 불가피하다."
+              "q": "10월 수입물가 1.8% 하락이 국내 수출입 기업 및 환율 포지션에 어떤 파급 경로를 형성하는가?",
+              "a": "원자재 수입 비중이 높은 제조업은 원가 절감에 따른 수익성 개선 효과를 누리게 된다. 반면 환율 하락은 수출 기업의 원화 환산 매출을 감소시켜 실적에 상반된 결과를 가져온다."
             },
             {
-              "q": "홈캠 10대 중 3대가 해킹에 무방비하다는 조사 결과가 시사하는 보안 대책의 시급성은 무엇인가?",
-              "a": "초기 설정된 비밀번호를 변경하지 않거나 보안 패치가 업데이트되지 않은 저가형 제품들이 사생활 유출의 통로가 되고 있음을 뜻한다. 제조사의 보안 인증 의무화와 더불어 사용자의 보안 설정 인식을 강제할 수 있는 제도적 장치가 마련되어야 한다."
+              "q": "수입물가 내림세가 지속 가능한 추세로 정착하기 위한 글로벌 원자재 시장의 핵심 변수는 무엇인가?",
+              "a": "산유국의 감산 정책 변화와 중동발 지질학적 리스크 완화 여부가 가장 결정적인 분기점이다. 원자재 수급 불안이 재발할 경우 환율이 다시 상승해 수입물가 하락세가 단기에 끝날 수 있다."
             }
           ]
         }
       },
       "news": {
-        "코스피 2%대 상승": [
+        "아파트값 상승 둔화": [
           {
-            "title": "코스피, 젠슨 황 '불명예 퇴진' 충격 딛고 2%대 상승 출발 - 연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xbzFWRzkzQVV6OUp2aExEQTJTMEIwNTNLa2d3SUFPTDNMeHZ0Y3RhcEM4QVNRYW85SUlOek45Yjh6SEZOaTJuMEwxYkxaNllCcWpyTXBIenJ5UVVDLXJPbXZoWXluelJ4dC1iNGxDU3I?oc=5",
-            "source": "연합인포맥스",
-            "published": "11-13 09:32",
-            "snippet": "코스피, 젠슨 황 '불명예 퇴진' 충격 딛고 2%대 상승 출발 연합인포맥스 상승 출발 코스피, 李간담회 직후 음전…외인도 '팔자'로 연합인포맥스 나흘만에 순매도 돌아선 외국인…수급 변동성 여전 - 머니투데이 머니투데이 '젠슨황 사임' 여파 지속?…하이닉스, 3% 급락…삼전도 0.96%↓(종합) 연합뉴스 코스피, 0.98% 하락 마감‥반도체 대형주 약세 MBC 뉴스"
+            "title": "정부 “서울 아파트값 상승 둔화·매물 증가…집값 하향 안정 지표 확대” - 한겨레",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WOEVWYm13RmNObk1TcWhQdFFGQjNITG5hQ3pOZUR2RzBwSk1wYnByMjlfdWYzbHM3b0M3WFhUaVpORlFFeWdHdmlnVXdMM3ZYR1dwQUx4ck0zQ0hEajJCa2RXblpvbF8z?oc=5",
+            "source": "한겨레",
+            "published": "11-13 18:16",
+            "snippet": "정부 “서울 아파트값 상승 둔화·매물 증가…집값 하향 안정 지표 확대” 한겨레 정부 \"서울 주택 가격 상승 둔화…수도권 내년 1분기까지 4만호 입주\" 머니투데이 국토부 \"서울 집값 하향 안정 지표 확대‥강북·경기 상승세는 불안 요인\" MBC 뉴스 서울 주택 인허가 33%·착공 36% 증가…수도권 4만4000가구 입주 예정 에너지경제신문 李 질타한 보상금 받고도 '버티기'…국토부 \"이행강제금·장려금 병행\" 파이낸셜뉴스"
           },
           {
             "title": "코스피 장 초반 2% 상승‥'젠슨 황 사임' 여파 주시 - MBC 뉴스",
             "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uNm12VDJrSHY3djVXaW5TdE9yenhGRm5lZTVXTjM0SGJHQnpfZHB5QzlyQnVBSWpRN3JiY0hFdmY4RG9rUWlSek5iaUdjR3pTRGw1SklaU2hOMy04UGNGUUZXS2FJc3JNOXdtdG1NTkFJZHBZ0gF0QVVfeXFMT24xbGNyX1ZYdURBSEVDSXRZeGk2eHVWTHpNczE0M21SVmozT21zY1NIQ1BKZWNnX295ekFkSUk1RlRid0gwV2J1WFNqWXFXZUN6dThZQWp2UXF3SkRkemVFRjR4UGlveFRpVVA3OVdUV0I2cnk?oc=5",
             "source": "MBC 뉴스",
             "published": "11-13 09:24",
-            "snippet": "코스피 장 초반 2% 상승‥'젠슨 황 사임' 여파 주시 MBC 뉴스 \"급락장에 속지 마라…결국 제자리 찾아간다\" 한국경제 코스피·코스닥 동반 상승 KBS 뉴스 반도체 훈풍에 코스피 5,400선 방어…엔비디아 경영 불확실성은 부담 제민일보 코어위브 호재냐, 젠슨 황 악재냐…코스피 5400선 줄다리기 팽팽 - 머니투데이 머니투데이"
+            "snippet": "코스피 장 초반 2% 상승‥'젠슨 황 사임' 여파 주시 MBC 뉴스 \"급락장에 속지 마라…결국 제자리 찾아간다\" 한국경제 코스피, 사흘 연속 반등시도...코스닥은 '숨 고르기' YTN 반도체 훈풍에 코스피 5,400선 방어…엔비디아 경영 불확실성은 부담 제민일보 코스피, 엔비디아 급락 충격에도 상승 개장 Chosunbiz"
+          },
+          {
+            "title": "코어위브 25% 급등에 AI株 반등…나스닥 1.6% 상승 - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORkxHMmVmV1lFdEtwQ3ZuTWNaR1VqR0ZKdHRLdFVWRDl2WkhmeWp1aFhLdTg5WmozSUdHM1dwVVFJcFVsWEc0OW54MFJsYk02Z0VydFZCRmZnZ2VZakRqeHVjaGFjQ24wcHg5bVlCMjZiQ1FQSTJMeFdJOVJXSlNaM2YwMS1GT2ND?oc=5",
+            "source": "조선일보",
+            "published": "11-12 07:28",
+            "snippet": "코어위브 25% 급등에 AI株 반등…나스닥 1.6% 상승 조선일보 코어위브가 불 지폈다, 뉴욕증시 일제히 상승 네이버페이 머니스토리 S&P500 선물, 엔비디아 충격 딛고 상승…美 국채금리↓ 연합인포맥스 코어위브, CEO 8억달러 주식 매각 후 추가 매도 중단 마켓인 미국 AI주 랠리...코스피 사흘 연속 반등하나 YTN"
           },
           {
             "title": "상승 출발 코스피, 李간담회 직후 음전…외인도 '팔자'로 - 연합인포맥스",
@@ -120,11 +126,92 @@
             "snippet": "상승 출발 코스피, 李간담회 직후 음전…외인도 '팔자'로 연합인포맥스"
           },
           {
-            "title": "코스피, 0.98% 내린 5,290.53 마감…코스닥은 소폭 상승 - 연합뉴스TV",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56YTViWEUtUTVEUmVhWmVic2NPMFJoeHFPdEVkR2p4X0JNc0ZDRWhMWXdXZnk2eVV4Q3REc2lLbFh1dElVMHBXaS02UjJDUkpoVWtCM2FVNHp6ajJOaXBhajFiay1pX3c?oc=5",
+            "title": "'젠슨 황 사임'에도 코스피·코스닥 동반상승 - YTN",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvQUVCTXpaNlBkX0xMRlRsdzliekE5MHFwRnk3dHBtWW9paUt2c3dGWGFLcncyUTZzUFh5c2w1TTAyWGZ0S3FrR1hGZkNkMkZnVlJHS19LLXRKUG5EQktJSHAtekNCZ29wYnFyODVsQQ?oc=5",
+            "source": "YTN",
+            "published": "11-13 12:07",
+            "snippet": "'젠슨 황 사임'에도 코스피·코스닥 동반상승 YTN"
+          },
+          {
+            "title": "[속보] 상승 출발했던 코스피, 0.98% 하락으로 마감 - 대구MBC",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0b011Uzk4OWRTXzRHd25XM0ljY3A5WEZTcjdqdkE2TWVQdWF1dTBEd1Z6SUtDYU9tZFZiNnVHRUVJN2pyYzVxMnQxU2M?oc=5",
+            "source": "대구MBC",
+            "published": "11-13 15:43",
+            "snippet": "[속보] 상승 출발했던 코스피, 0.98% 하락으로 마감 대구MBC"
+          }
+        ],
+        "가상자산 해킹 확산": [
+          {
+            "title": "가상자산 잇단 해킹에 “의심되면 입출금 선제 차단” - KBS 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NRVlQNTFPc2VsQ21jbjFLckthSUJRUXZQNjFkbDVKdVdTUEhieTk1dVYxSFZWZFlnaEJieE9mREhweEJkTklyY3JXdHpoSkRXUkV5dW5ZQXQ4MEU?oc=5",
+            "source": "KBS 뉴스",
+            "published": "11-13 08:10",
+            "snippet": "가상자산 잇단 해킹에 “의심되면 입출금 선제 차단” KBS 뉴스 \"해킹 의심 땐 입출금 선제 차단\"...가상자산거래소 보안 강화 YTN 사이언스 가상자산업권 보안대책회의하는 신진창 금융위 부위원장 뉴시스 ‘플라이빗’ 개인정보 40건 유출... 다우기술 그룹웨어 해킹 3번째 피해 보안뉴스 [위클리크립토] 금융위, 디지털자산 거래소에 ‘금융사 수준’ 보안 요구 外 동아일보"
+          },
+          {
+            "title": "금융위, 해킹에 뚫린 금융보안원 다음 주 감사 - MBC 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03d2dGbmFobnhxUVBNNVBkdFI3MnV0Q0RhN3c4MnMyTDNfOTVwNUJYaU1ybWhkWDVMTFlwb3RUWF9NRlhRYUtKeFhhNUY5V1Rub1N6bXJLeUhYSEZDZHA5cno2TkFpSXk1OTNCd1Rnem8yVVV60gF0QVVfeXFMUHpjN0otVENMMUY2dHlldUU2eV9ObVczR192NG81N2R1TnZsdHlCN2NNQ2RPMlhlVS1NLS0zR0FYelQ2d2hEcWpHTXR0aUVMUWZiUU5mcXRVWE5CRzgzYVJKYV8tOTdqZEMzZkthUlVJY2tmSE8?oc=5",
+            "source": "MBC 뉴스",
+            "published": "11-12 19:00",
+            "snippet": "금융위, 해킹에 뚫린 금융보안원 다음 주 감사 MBC 뉴스 해킹 당한 금융보안원 “공격 IP 246개 차단완료…국적은 한국” 매일경제 마켓 금융보안원 해킹 공격, 금감원 권한 ID 만들어 탈취 YTN 사이언스 고개 숙인 금융보안원…금융권 해킹 수습 기준 보여줘야 마켓인 초유의 금융보안원 해킹 사태에 “스스로도 못 지키면서 훈계만 한 셈” 미디어오늘"
+          },
+          {
+            "title": "카카오워크 해킹, 업무 정보 줄줄... ‘종단간 암호화’ 무색 - 보안뉴스",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVWk1aRWJWYzhZbDlTaXpNRWF0NzV4NE5MaHc5QjhqRmNLYjNvU2V1X1NGQXBsdU8zUnd0MmdqLU9DYzc5S3FIZ1dOa01jSGFWTVd2SnBmQXctcmMyWGE3Q3lWZUJTNk5VNVlJ?oc=5",
+            "source": "보안뉴스",
+            "published": "11-13 10:36",
+            "snippet": "카카오워크 해킹, 업무 정보 줄줄... ‘종단간 암호화’ 무색 보안뉴스 카카오워크 뚫렸다…카카오엔터프라이즈 전·현직 임직원 정보 유출 전자신문 카카오 기업용 메신저서 보안 사고…메일 본문·첨부파일 원본도 유출 뉴시스 카카오워크, 해킹으로 개인정보 유출…비밀번호 변경·사칭 주의 지디넷코리아 카카오워크 개인정보 유출…이름·연락처 등 노출 KBS 뉴스"
+          },
+          {
+            "title": "사생활 새나가는 홈캠…10대 중 3대 해킹 무방비 - KBS 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrVUw2dUx4TzhqZTQ5ckYzcEEzU3NZeDNUS3J1VDRzXzZmdUs3TU1wdFVEYXJlRm02eVlNZEM4UVNJUnF6c2JZZFE0bUtVeTFKWDFsajE3VzNMVjg?oc=5",
+            "source": "KBS 뉴스",
+            "published": "11-12 12:09",
+            "snippet": "사생활 새나가는 홈캠…10대 중 3대 해킹 무방비 KBS 뉴스 대책 2년 지났지만...여전히 보안 취약한 IP 카메라 YTN 사이언스 카메라 원격 조작 취약점 등 발견... 한국소비자원·KISA, IP 카메라 보안 점검 결과 발표 보안뉴스 집에 ‘이것’ 뒀을 뿐인데 “남이 안방 훤히 훔쳐보는 수준”…10개 제품 조사했더니 서울경제 [오늘의 브릿지경제 1면] 보안 구멍 뚫린 홈캠… 사생활 ‘탈탈’ 털린다 브릿지경제"
+          },
+          {
+            "title": "핵미사일보다 치명적인 한 방…AI 달고 8조 원 털어간 북한 해커들 - 스브스프리미엄",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wR0Jud1JPb3g4a0RYSDVPRS1aVmlHWHExeHV3RkZJemxXWTJtenNzOWlWV1o1Wnl4aUVlZHhBa19nTWNQRzRzaFJCWVczanNjSWE2WDJB?oc=5",
+            "source": "스브스프리미엄",
+            "published": "11-12 14:00",
+            "snippet": "핵미사일보다 치명적인 한 방…AI 달고 8조 원 털어간 북한 해커들 스브스프리미엄 AI로 신분 위장·탈취도 순식간에…북 해킹의 진화 KBS 뉴스 지인 화상회의 초대장, 알고보니 가짜…북 배후 ’페이스스틸러’ 해킹 연합뉴스TV 美 법무부, 바이낸스 해킹 자산 회수 본격화…12억 달러 압류 승인 지디넷코리아 FBI \"北해커들, 18개월간 가상자산 5300억 탈취\" 마켓인"
+          },
+          {
+            "title": "해킹 의심만으로 가상자산 입출금 차단 허용 - 세이프타임즈",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VN0JXM1BMdzl2MWhuN1ZwUElXOUFXa2pwZTJTQ3daaUVnY1BnY3lWNUVuQWs5Tk5rNnBGY0RTV0FfSmQweXdXYkVyS0hKRnhfanowaHhrY04tSnVjUUhhZDBLTVYtRFlCUUZFY3BWVdIBc0FVX3lxTFB6WTNXaEFoUnZNRlpYcS1xZXlReG5sd2lCbDFCVmViTEx4b0NpUjl5U25IcU5SdllSTjVGQWs0SG50SXV2U3RJOTZIZTRrcEtVamZ6UWZ4RXktU0hUbFFTNVptUjdjQ3dFanluR053cHhycEk?oc=5",
+            "source": "세이프타임즈",
+            "published": "11-13 08:24",
+            "snippet": "해킹 의심만으로 가상자산 입출금 차단 허용 세이프타임즈"
+          }
+        ],
+        "10월 수입물가 하락": [
+          {
+            "title": "환율·유가 동반 하락에 10월 수입물가 1.8%↓ - 한국무역협회-KITA.NET",
+            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMjRWWXZLeXpNNWlsamlKV3BMd1NneVpSbzdZVXRWVmJMVjZZX2c0LXJsaVB2SlNDR0RadlUwRlVaaElYTFVTT0UwUHIwdHRVU2JBNVU2Qk9UV3JnV0w0a2hmcmJuallJRTg1QTNzWF9Ma2lYRUFjbDItRGQ2bEFUM3U0ZmJ1MW9rZTZXY3l3WDZ0VWEyYXdPVjMxNzBRRHU2cnNKd0pLb1BRQnI1dWUxd194eDUwNVNMZDZLTkVRT3BGXzJvcnlQalVHc0xRLUJ5RE0xWG1B?oc=5",
+            "source": "한국무역협회-KITA.NET",
+            "published": "11-13 13:59",
+            "snippet": "환율·유가 동반 하락에 10월 수입물가 1.8%↓ 한국무역협회-KITA.NET Google 뉴스에서 헤드라인 및 의견 더보기"
+          },
+          {
+            "title": "'젠슨황 퇴임'에도 장중 3%까지 올랐던 코스피, 0.98% 하락 마감(종합) - 연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80NlRiSXk5cjRMUXpSSHlselJfSmRTUmNqQnAyZXZwQ3NORzJrNWZOQTY2U3gtc1VQUEJQYUd3V08xT01paDRndzVPM0xUbTNyX0dTaFJzUDdxNW_SAWBBVV95cUxQdGh3RmNOSzBaQ1RWMG90R1UtckJjejJkQlhKN0VJU184TktQY2dORnZBSUtSdW4zc2pPYlA1eEQzeVl2YVNhdkgxWFlUYUF0ZUNvbjNTRnQ0aUk4TXhua1U?oc=5",
+            "source": "연합뉴스",
+            "published": "11-13 16:23",
+            "snippet": "'젠슨황 퇴임'에도 장중 3%까지 올랐던 코스피, 0.98% 하락 마감(종합) 연합뉴스 젠슨 황 쇼크에 출렁인 코스피, 이틀 연속 하락했다고? 네이버페이 머니스토리 상승 출발 코스피, 李간담회 직후 음전…외인도 '팔자'로 연합인포맥스 [연합뉴스 이 시각 헤드라인] - 18:00 연합뉴스 코스피, 장중 하락 전환…외국인 ‘팔자’로 돌아서 KBS 뉴스"
+          },
+          {
+            "title": "내년 전국 오피스텔·상가 2년 연속 내림세…경기·인천도 동반 하락 - 경기일보",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KNTJIZzRhZkt5V2hLZDdxYjJfUHhtSGk0SVRCRmhmOEc5Z1hYRDJnQVVwOVFMWlZhMm5SM054RW16aHZsY0hWTzJKYXNjeHZvaEU3ZVVkSUI5QTg?oc=5",
+            "source": "경기일보",
+            "published": "11-12 15:01",
+            "snippet": "내년 전국 오피스텔·상가 2년 연속 내림세…경기·인천도 동반 하락 경기일보 서울 오피스텔만 오른다···전국 오피스텔 기준시가 4년 연속 하락 경향신문 내년 서울 오피스텔 기준시가 2% 상승 전망…전국은 4년째 하락 연합인포맥스 국세청, 내년도 오피스텔·상업용 건물 기준시가안 공개…경기·인천 하락 중부일보 2년 연속 전국 오피스텔·상업용 건물 기준시가 '↓뚝'…서울만 '상승' - 머니투데이 머니투데이"
+          },
+          {
+            "title": "코스피, 장중 5,500선 돌파 후 하락 반전 - 연합뉴스TV",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12ZF82XzZxUDlyc0hoaVdobHRnS21PMDZVa3JpVWlmdFMwX05mb0wwY2dhZU84TlE5TEhYT1JNUzZEODJwalNRQU0tNmJxcU5rcTE1YXNUVE5ONWN0TUJKUnFUTVJaQUk?oc=5",
             "source": "연합뉴스TV",
-            "published": "11-13 15:40",
-            "snippet": "코스피, 0.98% 내린 5,290.53 마감…코스닥은 소폭 상승 연합뉴스TV"
+            "published": "11-13 18:23",
+            "snippet": "코스피, 장중 5,500선 돌파 후 하락 반전 연합뉴스TV"
           },
           {
             "title": "[속보] 상승 출발했던 코스피, 0.98% 하락으로 마감 - 대구MBC",
@@ -134,213 +221,123 @@
             "snippet": "[속보] 상승 출발했던 코스피, 0.98% 하락으로 마감 대구MBC"
           },
           {
-            "title": "'젠슨 황 사임'에도 코스피·코스닥 동반상승 - YTN",
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvQUVCTXpaNlBkX0xMRlRsdzliekE5MHFwRnk3dHBtWW9paUt2c3dGWGFLcncyUTZzUFh5c2w1TTAyWGZ0S3FrR1hGZkNkMkZnVlJHS19LLXRKUG5EQktJSHAtekNCZ29wYnFyODVsQQ?oc=5",
-            "source": "YTN",
-            "published": "11-13 12:07",
-            "snippet": "'젠슨 황 사임'에도 코스피·코스닥 동반상승 YTN"
-          }
-        ],
-        "서울 아파트값 상승 둔화": [
-          {
-            "title": "정부 “서울 아파트값 상승 둔화·매물 증가…집값 하향 안정 지표 확대” - 한겨레",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WOEVWYm13RmNObk1TcWhQdFFGQjNITG5hQ3pOZUR2RzBwSk1wYnByMjlfdWYzbHM3b0M3WFhUaVpORlFFeWdHdmlnVXdMM3ZYR1dwQUx4ck0zQ0hEajJCa2RXblpvbF8z?oc=5",
-            "source": "한겨레",
-            "published": "11-13 11:49",
-            "snippet": "정부 “서울 아파트값 상승 둔화·매물 증가…집값 하향 안정 지표 확대” 한겨레 정부 \"서울 주택 가격 상승 둔화…수도권 내년 1분기까지 4만호 입주\" 머니투데이 국토부 \"서울 집값 하향 안정 지표 확대‥강북·경기 상승세는 불안 요인\" MBC 뉴스 수도권 아파트에 내년 1분기까지 4만4천 가구 입주(종합) 매일경제 마켓 서울 주택 인허가 33%·착공 36% 증가…수도권 4만4000가구 입주 예정 에너지경제신문"
-          },
-          {
-            "title": "서울 강북·경기 남부 아파트 값 강세 이어가 - 조선일보",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdXFtV1J3VlloUXAzc1QtNHprY2t0VmFIbjVmM2VUTmtzb3cxbXBGLWpLekpNNDVsTHhlN0NsS1AyaERHeEd1cXFyakVCeGpHVTRtNkM2LWdwTnlxNF9PSW1LSFdJZXFBZHF0N1ltV2hucV9hcmVVNnEtaGZVZnE3eGRwTkZjWmNv?oc=5",
-            "source": "조선일보",
-            "published": "11-13 06:44",
-            "snippet": "서울 강북·경기 남부 아파트 값 강세 이어가 조선일보 세제 개편에 재초환 부담까지…강남 3구 하락세 지속 KBS 뉴스 \"내 집 어디에 있나\" 정부, '서울 주택시장 가격 상승세 꺾였다'는데..근거는 [3차 주택공급 정례브리핑] 파이낸셜뉴스 강동 33주·성동 32주 만에 하락…서울 아파트값 5개 구 '마이너스' 뉴스1 서울 아파트 매물 쌓이는데, 거래는 '실종'…집값 하락 신호일까 뉴시스"
-          },
-          {
-            "title": "코스피, 젠슨 황 '불명예 퇴진' 충격 딛고 2%대 상승 출발 - 연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xbzFWRzkzQVV6OUp2aExEQTJTMEIwNTNLa2d3SUFPTDNMeHZ0Y3RhcEM4QVNRYW85SUlOek45Yjh6SEZOaTJuMEwxYkxaNllCcWpyTXBIenJ5UVVDLXJPbXZoWXluelJ4dC1iNGxDU3I?oc=5",
-            "source": "연합인포맥스",
-            "published": "11-13 09:32",
-            "snippet": "코스피, 젠슨 황 '불명예 퇴진' 충격 딛고 2%대 상승 출발 연합인포맥스 상승 출발 코스피, 李간담회 직후 음전…외인도 '팔자'로 연합인포맥스 나흘만에 순매도 돌아선 외국인…수급 변동성 여전 - 머니투데이 머니투데이 '젠슨황 사임' 여파 지속?…하이닉스, 3% 급락…삼전도 0.96%↓(종합) 연합뉴스 코스피, 0.98% 하락 마감‥반도체 대형주 약세 MBC 뉴스"
-          },
-          {
-            "title": "코스피 장 초반 2% 상승‥'젠슨 황 사임' 여파 주시 - MBC 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uNm12VDJrSHY3djVXaW5TdE9yenhGRm5lZTVXTjM0SGJHQnpfZHB5QzlyQnVBSWpRN3JiY0hFdmY4RG9rUWlSek5iaUdjR3pTRGw1SklaU2hOMy04UGNGUUZXS2FJc3JNOXdtdG1NTkFJZHBZ0gF0QVVfeXFMT24xbGNyX1ZYdURBSEVDSXRZeGk2eHVWTHpNczE0M21SVmozT21zY1NIQ1BKZWNnX295ekFkSUk1RlRid0gwV2J1WFNqWXFXZUN6dThZQWp2UXF3SkRkemVFRjR4UGlveFRpVVA3OVdUV0I2cnk?oc=5",
-            "source": "MBC 뉴스",
-            "published": "11-13 09:24",
-            "snippet": "코스피 장 초반 2% 상승‥'젠슨 황 사임' 여파 주시 MBC 뉴스 \"급락장에 속지 마라…결국 제자리 찾아간다\" 한국경제 코스피·코스닥 동반 상승 KBS 뉴스 반도체 훈풍에 코스피 5,400선 방어…엔비디아 경영 불확실성은 부담 제민일보 코어위브 호재냐, 젠슨 황 악재냐…코스피 5400선 줄다리기 팽팽 - 머니투데이 머니투데이"
-          },
-          {
-            "title": "S&P500 선물, 엔비디아 충격 딛고 상승…美 국채금리↓ - 연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9na3lMQk9Na2gyVEJKZTNKY1poZWMxOF9mTHh4czdWNVpWemtMZUpmNllnTXhnRTNQQkdqRG1UekVOS19yclFBNWtuUy1YQ056UU5IT1ZuaDBVeFJWSkU2UG5RZ1dsUnZKc2VKQ0I1dFQ?oc=5",
-            "source": "연합인포맥스",
-            "published": "11-13 12:15",
-            "snippet": "S&P500 선물, 엔비디아 충격 딛고 상승…美 국채금리↓ 연합인포맥스 코어위브가 불 지폈다, 뉴욕증시 일제히 상승 네이버페이 머니스토리 미국 AI주 랠리...코스피 사흘 연속 반등하나 YTN 코어위브, CEO 8억달러 주식 매각 후 추가 매도 중단 마켓인 [뉴스프레소] 뉴욕증시, 코어위브발 일제히 상승… 엔비디아 시간외 폭락, 후임은? - 머니투데이 머니투데이"
-          },
-          {
-            "title": "진에어·에어부산·에어서울 합병 인가‥공정위도 기업결합 승인 - MBC 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UVXA1bFFwemh6NnM0ZkVqaGVsMUZrTHhLbVV5US1mWEVQUjAtRGdjcjFoUEVPQjQ0cEE3VV9ZME5XQnlCOFM4UE5HMFpjV29WRVduaDhQZmhLTmVtYVhMVENYVU1hcWZmNkFETG5qc3A2Unpl0gF0QVVfeXFMUFdEVjlXNFJsd2ZmMzRlWnNGd3ROS1JmVnZrdnlrZFFOak9ZMHljU0pqUGV5ZmVhS1dmSHRhX1FpalFXY2QzZGl4cGpzcmJNWU1JWFlndzNBakR1Zzdmb0hmTTRzU1ZIOFFKOGtXZ1c5aHBtbzE?oc=5",
-            "source": "MBC 뉴스",
-            "published": "11-12 15:26",
-            "snippet": "진에어·에어부산·에어서울 합병 인가‥공정위도 기업결합 승인 MBC 뉴스 진에어-에어서울-에어부산 내년 3월 17일 통합 LCC 출범 KBS 뉴스 [그래픽] 국내 LCC 항공 항공기 보유 현황 연합뉴스 진에어 3사 통합 승인 제주 관광시장 재편 촉각 제민일보 진에어·에어부산·에어서울 합병 인가…공정위 기업결합도 통과 경기일보"
-          }
-        ],
-        "플랫폼 및 금융사 해킹": [
-          {
-            "title": "카카오워크 해킹, 업무 정보 줄줄... ‘종단간 암호화’ 무색 - 보안뉴스",
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVWk1aRWJWYzhZbDlTaXpNRWF0NzV4NE5MaHc5QjhqRmNLYjNvU2V1X1NGQXBsdU8zUnd0MmdqLU9DYzc5S3FIZ1dOa01jSGFWTVd2SnBmQXctcmMyWGE3Q3lWZUJTNk5VNVlJ?oc=5",
-            "source": "보안뉴스",
-            "published": "11-13 10:36",
-            "snippet": "카카오워크 해킹, 업무 정보 줄줄... ‘종단간 암호화’ 무색 보안뉴스 카카오워크 해킹으로 개인정보 유출… 메일·첨부파일도 포함 Chosunbiz 카카오 기업용 메신저 ‘카카오워크’ 해킹…메일 내용·첨부파일도 유출 동아일보 카카오 기업용 메신저서 보안 사고…메일 본문·첨부파일 원본도 유출 뉴시스 카카오워크 개인정보 유출…이름·연락처 등 노출 KBS 뉴스"
-          },
-          {
-            "title": "지인 초대 화상회의에서 악성코드…‘페이스스틸러’ 해킹 적발 - KBS 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WRE4wZGxTV2Vwd3I0eHhEYnBRY0IyMDRSTTZYUzFjWFpoa3RHN1RuVC1WV2x1VHRhUFZrSGlZZXA0LURTdHNOWUd2eHZiTDBkX2RTTjN1VExzQWs?oc=5",
-            "source": "KBS 뉴스",
-            "published": "11-13 09:54",
-            "snippet": "지인 초대 화상회의에서 악성코드…‘페이스스틸러’ 해킹 적발 KBS 뉴스 핵미사일보다 치명적인 한 방…AI 달고 8조 원 털어간 북한 해커들 스브스프리미엄 FBI \"北해커들, 18개월간 가상자산 5300억 탈취\" 마켓인 지인 화상회의 초대장, 알고보니 가짜…북 배후 ’페이스스틸러’ 해킹 연합뉴스TV 美 법무부, 바이낸스 해킹 자산 회수 본격화…12억 달러 압류 승인 지디넷코리아"
-          },
-          {
-            "title": "가상자산 거래소 '플라이빗'도 해킹…고객 40명 주민번호·납세정보 유출 - 연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwOURtVk5YdjBTVkhrYzVjOGFLM1RVNzdSNFRDcGJyUEU4YnRMQkdfNzhJME1yRHZOMFF2U3AzbnhIZHctaVhrZmJYSi15LXNWR1NlYmEwWHhZekNiVVk5VU5OLThPaGZERTltUkE4dkE?oc=5",
-            "source": "연합인포맥스",
-            "published": "11-12 17:58",
-            "snippet": "가상자산 거래소 '플라이빗'도 해킹…고객 40명 주민번호·납세정보 유출 연합인포맥스 ‘플라이빗’ 개인정보 40건 유출... 다우기술 그룹웨어 해킹 3번째 피해 보안뉴스 \"해킹 의심 땐 입출금 선제 차단\"...가상자산거래소 보안 강화 YTN 사이언스 가상자산업권 보안대책회의하는 신진창 금융위 부위원장 뉴시스 코인마켓 거래소 '플라이빗'도 해킹…\"고객 40명 정보 유출\" 연합뉴스"
-          },
-          {
-            "title": "사생활 새나가는 홈캠…10대 중 3대 해킹 무방비 - KBS 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrVUw2dUx4TzhqZTQ5ckYzcEEzU3NZeDNUS3J1VDRzXzZmdUs3TU1wdFVEYXJlRm02eVlNZEM4UVNJUnF6c2JZZFE0bUtVeTFKWDFsajE3VzNMVjg?oc=5",
-            "source": "KBS 뉴스",
-            "published": "11-12 12:09",
-            "snippet": "사생활 새나가는 홈캠…10대 중 3대 해킹 무방비 KBS 뉴스 대책 2년 지났지만...여전히 보안 취약한 IP 카메라 YTN 사이언스 카메라 원격 조작 취약점 등 발견... 한국소비자원·KISA, IP 카메라 보안 점검 결과 발표 보안뉴스 [오늘의 브릿지경제 1면] 보안 구멍 뚫린 홈캠… 사생활 ‘탈탈’ 털린다 브릿지경제 “생중계 되는 우리집 사생활?” 홈캠 10개 중 3개 보안 허술 경향신문"
-          },
-          {
-            "title": "금융위, 해킹에 뚫린 금융보안원 다음 주 감사 - MBC 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03d2dGbmFobnhxUVBNNVBkdFI3MnV0Q0RhN3c4MnMyTDNfOTVwNUJYaU1ybWhkWDVMTFlwb3RUWF9NRlhRYUtKeFhhNUY5V1Rub1N6bXJLeUhYSEZDZHA5cno2TkFpSXk1OTNCd1Rnem8yVVV60gF0QVVfeXFMUHpjN0otVENMMUY2dHlldUU2eV9ObVczR192NG81N2R1TnZsdHlCN2NNQ2RPMlhlVS1NLS0zR0FYelQ2d2hEcWpHTXR0aUVMUWZiUU5mcXRVWE5CRzgzYVJKYV8tOTdqZEMzZkthUlVJY2tmSE8?oc=5",
-            "source": "MBC 뉴스",
-            "published": "11-12 19:00",
-            "snippet": "금융위, 해킹에 뚫린 금융보안원 다음 주 감사 MBC 뉴스 금융보안원 해킹 공격, 금감원 권한 ID 만들어 탈취 YTN 사이언스 '보안은 경영이다'… CEO 책임 되새길 때 [줌인IT] IT조선 고개 숙인 금융보안원…금융권 해킹 수습 기준 보여줘야 마켓인 금보원 해킹, ‘가짜 금감원 계정’ 만들어 침투했다... ‘마스킹’ 없는 개인정보 유출 가능성도 보안뉴스"
-          },
-          {
-            "title": "삼성SDS 자회사 멀티캠퍼스 해킹, 임직원 개인정보 약 7만명 유출 - 데일리시큐",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rMG1KNHJkWUxwRXUzWWhueXFaZlNaZE9xRl9qNTZ4MWhvX0RjNTlGM1NxSFRLZU9VTzRhcDBFdnUxTWhEUEx3UkZQdmROX0w4TG1IVXBnM0NHS2l2QmJGc3VrQXFaeDdQZWMxeg?oc=5",
-            "source": "데일리시큐",
-            "published": "11-12 23:29",
-            "snippet": "삼성SDS 자회사 멀티캠퍼스 해킹, 임직원 개인정보 약 7만명 유출 데일리시큐"
+            "title": "美연준, 내년 '금리 결정' FOMC는 7번만…10월엔 전략 논의 집중 - 연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VSEFvcTlyZHlUeGZiQUR6SmdlTk1JZFpxSE1tdWsyY2kweldQM181WkZoWWN5NlpzYTlJZkJ6aWRNVEpJN2lkT09lSTAxNFlncE1STHNZd0duZ3fSAWBBVV95cUxQUGhyTWtLMVM5Z2p5TS1RaWdMRVF6UXR4NVpsbk5EakxiRU9zNkFqcGhuaDhQZGN0UUw2WDhxVDNLWHA1Tlh1Sl8tUkM3MWk3UFF0NEdhNjFvWTVkRDZ2MEc?oc=5",
+            "source": "연합뉴스",
+            "published": "11-13 05:37",
+            "snippet": "美연준, 내년 '금리 결정' FOMC는 7번만…10월엔 전략 논의 집중 연합뉴스"
           }
         ]
       },
       "queries": {
-        "코스피 2%대 상승": [],
-        "서울 아파트값 상승 둔화": [
-          "서울 아파트값",
+        "아파트값 상승 둔화": [
+          "아파트값 상승률",
+          "아파트값 상승",
+          "아파트값 상승률 더쿠",
           "서울 아파트값 상승률",
-          "서울 아파트값 추이",
-          "서울 아파트값 87주 연속 상승 원인과 강북권 중저가 아파트 매수세 현황",
           "서울 아파트값 상승",
-          "서울 아파트값 전망",
-          "서울 아파트값 순위",
-          "서울 아파트값 86주"
+          "서울 아파트값 상승세",
+          "정권별 서울 아파트값 상승률",
+          "분당 아파트값 상승"
         ],
-        "플랫폼 및 금융사 해킹": [
-          "U-컴퓨팅 플랫폼 및 응용기술"
-        ]
+        "가상자산 해킹 확산": [],
+        "10월 수입물가 하락": []
       }
     },
     "global": {
       "keywords": [
-        "엔비디아 CEO 사임 충격",
-        "연준 FOMC 회의 축소",
-        "유가 급등과 국채금리 상승"
+        "젠슨황 사임 충격",
+        "연준 FOMC 축소",
+        "국채 금리 급등"
       ],
       "results": {
-        "엔비디아 CEO 사임 충격": {
-          "headline": "젠슨 황 전격 사임에 엔비디아 5.5% 급락, 뉴욕증시 일제히 하락",
+        "젠슨황 사임 충격": {
+          "headline": "젠슨 황 엔비디아 CEO 사임 발표에 증시 흔들",
           "facts": [
-            "엔비디아의 창업자이자 수장인 젠슨 황 최고경영자가 전격 사임하면서 엔비디아 주가는 하루 만에 5.5% 폭락했다.",
-            "젠슨 황의 사임 소식과 국제 유가 급등이 겹치며 나스닥 지수가 최대 0.5% 하락하는 등 뉴욕 3대 지수가 일제히 약세를 보였다.",
-            "시장은 AI 반도체 산업의 상징적 인물인 젠슨 황의 부재가 엔비디아의 향후 로드맵과 지배구조에 미칠 불확실성을 우려하고 있다.",
-            "다만 장 후반 S&P500 선물은 국채금리 하락에 힘입어 엔비디아 충격을 일부 상쇄하며 반등을 시도하는 모습을 보였다."
+            "엔비디아 최고경영자 젠슨 황의 사임 소식이 전해지며 뉴욕증시 나스닥 지수가 100.09포인트 하락하는 등 지수가 흔들렸다.",
+            "엔비디아의 리더십 공백 우려가 가중되면서 AI 반도체 선도주 가격이 직격탄을 맞았고 기술주 전반에 불안감이 확산되었다.",
+            "경쟁업체인 AMD와 브로드컴 주가는 시장 점유율 확대에 대한 기대감 속에 5%대 상승을 기록하며 반사이익을 얻었다.",
+            "시장의 갑작스러운 충격에도 불구하고 미 주식 선물이 장중 반등을 시도하는 등 낙폭을 제한하려는 움직임도 나타났다."
           ],
           "watch": [
-            "엔비디아 차기 CEO 선임 발표 및 시장 반응",
-            "AI 반도체 관련주들의 동반 하락 지속 여부",
-            "젠슨 황 사임의 구체적인 배경과 추가 폭로 가능성"
+            "엔비디아 후임 CEO 인선 및 경영진 구성",
+            "AMD와 브로드컴의 AI 반도체 시장 점유율 변화",
+            "AI 주요 기술주의 주가 반등 및 변동성 지수"
           ],
           "qna": [
             {
-              "q": "젠슨 황의 사임이 단순한 경영진 교체를 넘어 엔비디아 주가에 5.5%라는 기록적 폭락을 가져온 이유는 무엇인가?",
-              "a": "젠슨 황은 엔비디아의 기술 비전과 AI 생태계를 상징하는 인물로 그의 사임은 기업의 미래 성장 전략에 대한 근본적인 의구심을 자극했기 때문이다. 특히 불명예 퇴진이라는 수식어가 붙으면서 기업 이미지 실추와 법적 리스크 가능성까지 가격에 반영되었다."
+              "q": "젠슨 황 CEO의 사임 발표에도 불구하고 경쟁수인 AMD와 브로드컴이 5%대 반사이익을 얻은 메커니즘은 무엇인가?",
+              "a": "엔비디아의 핵심 리더십 공백이 빅테크 기업들의 AI 반도체 수주 독점력을 약화시킬 것이라는 기대가 반영되었기 때문이다. 이에 따라 구매처 다변화를 모색하던 빅테크들의 수요가 대체재인 AMD와 브로드컴으로 이동했다."
             },
             {
-              "q": "엔비디아의 급락 속에서도 S&P500 선물이 반등에 성공한 역설적인 배경은 무엇인가?",
-              "a": "미 국채금리가 하락하면서 기술주 전반에 가해졌던 밸류에이션 압박이 완화되었고 엔비디아를 제외한 다른 섹터로의 순환매가 유입되었기 때문이다. 이는 시장이 엔비디아 리스크를 전체 증시의 붕괴가 아닌 개별 종목의 악재로 분리 대응하기 시작했음을 보여준다."
+              "q": "AI 생태계 선도자의 퇴진이 미 증시 전체와 AI 반도체 밸류체인에 가져올 연쇄 파급 효과는 어떠한가?",
+              "a": "AI 붐을 이끌던 앵커 기업의 지배력 약화는 AI 밸류체인 전반의 투자 심리를 냉각시키고 나스닥 기술주의 변동성을 확대시킨다. 반면 후발 주자들에게는 기술 격차를 축소할 수 있는 정체성 전환의 기회가 된다."
             },
             {
-              "q": "나스닥 지수가 0.39%에서 0.5% 하락하며 혼조세를 보인 상황에서 향후 지지선은 어디로 보아야 하는가?",
-              "a": "엔비디아의 실적 발표와 차기 경영진의 비전 제시 전까지는 변동성이 지속될 것이며 주요 기술주들의 실적 지지 여부가 관건이다. 유가 급등에 따른 인플레이션 우려가 국채금리를 다시 자극할 경우 나스닥의 추가 조정 폭은 더 커질 수 있다."
+              "q": "젠슨 황 사임에 따른 기술주 폭락세가 진정되고 주가가 안정화될 분기점은 무엇인가?",
+              "a": "후임 CEO 인선 발표와 더불어 차세대 AI 칩의 생산 및 인도 일정이 차질 없이 진행됨을 증명하는 실적 발표가 핵심 분기점이다. 경영진 교체 리스크를 실적으로 불식시켜야 주가 재상승이 가능하다."
             }
           ]
         },
-        "연준 FOMC 회의 축소": {
-          "headline": "美 연준, 2027년부터 금리 결정 회의 연 7회로 축소",
+        "연준 FOMC 축소": {
+          "headline": "미 연준 금리 결정 회의 연 7회로 축소 개편",
           "facts": [
-            "미국 연방준비제도는 2027년부터 기준금리를 결정하는 연방공개시장위원회(FOMC) 정례회의 횟수를 현행 8회에서 7회로 줄이기로 했다.",
-            "이번 결정은 수십 년간 유지되어 온 통화정책 관행을 손질하는 것으로 10월 회의에서는 금리 결정 대신 전략 논의에만 집중할 계획이다.",
-            "연준은 내년에도 7차례의 금리 결정 회의를 개최할 예정이며 10월에는 통화정책 전략과 프레임워크를 심도 있게 검토하는 시간을 갖는다.",
-            "회의 축소는 통화정책의 유연성을 확보하고 단기적인 지표 변화에 일희일비하기보다 장기적인 전략 수립에 무게를 두려는 의도로 풀이된다."
+            "미국 연방준비제도가 기준금리를 결정하는 연방공개시장위원회 회의 횟수를 연 8회에서 7회로 줄이기로 결정했다.",
+            "금리를 결정하지 않는 10월 회의는 통화정책 전략과 중장기 틀을 논의하는 데에만 집중하는 일정으로 변경된다.",
+            "이번 개편은 수십 년간 이어져 온 연준의 정례 통화정책 운영 관행을 손질하여 시장과의 소통 방식을 다변화하는 조치이다.",
+            "금리 결정 주기가 조정됨에 따라 금융 시장 참가자들의 정책 예측 및 포지션 대응 방식에도 변화가 생길 전망이다."
           ],
           "watch": [
-            "10월 전략 회의에서 발표될 새로운 통화정책 프레임워크",
-            "회의 횟수 축소가 시장의 금리 예측 변동성에 미칠 영향",
-            "연준 위원들 간의 회의 축소에 대한 내부 의견 대립 여부"
+            "연준의 통화정책 전략 논의 세부 의제",
+            "FOMC 회의 간격 확대에 따른 시중 금리 변동성",
+            "금리 결정 축소에 대한 글로벌 중앙은행들의 반응"
           ],
           "qna": [
             {
-              "q": "연준이 수십 년간 유지해온 연 8회 회의 관행을 깨고 7회로 축소하려는 근본적인 목적은 무엇인가?",
-              "a": "매달 지표에 반응해 금리를 결정하는 방식에서 벗어나 통화정책의 장기적 일관성을 확보하고 정책 효과를 점검할 충분한 시간을 갖기 위함이다. 특히 10월을 전략 논의의 달로 지정함으로써 급변하는 경제 구조에 맞춘 정책 프레임워크를 정교화하려는 의도가 담겨 있다."
+              "q": "연준이 금리 결정 회의를 연 8회에서 7회로 축소하고 10월을 전략 논의로 전환하는 관행 수정의 배경은 무엇인가?",
+              "a": "단기 데이터 변화에 일희일비하며 시장 변동성을 키우는 잦은 금리 결정을 피하고 중장기 통화정책 틀을 재점검하기 위함이다. 10월을 전략 집중 달로 지정함으로써 정책 신호의 선명도를 높이려는 의도가 담겨 있다."
             },
             {
-              "q": "회의 횟수가 줄어들면 금리 결정 사이의 간격이 길어지는데 이것이 금융 시장의 변동성을 오히려 키울 위험은 없는가?",
-              "a": "회의 간격이 넓어지면 그사이 축적된 경제 지표들이 한꺼번에 반영되면서 금리 결정 당일의 시장 충격이 더 커질 수 있는 위험이 존재한다. 연준은 이를 방지하기 위해 회의 사이 기간에 위원들의 발언이나 경제 전망 보고서를 통해 시장과의 소통을 더욱 강화할 것으로 예상된다."
+              "q": "금리 결정 회의 축소가 글로벌 금융시장의 거래량 및 자산 가격 변동성 주기에 어떠한 파급 효과를 주는가?",
+              "a": "회의 사이의 간격이 길어짐에 따라 정책 공백 기간 동안 경제 지표 발표에 따른 시장의 과도한 쏠림과 변동성이 커질 수 있다. 또한 10월 금리 결정 부재로 4분기 자산 시장의 정책 예측 부담이 11월과 12월 회의로 집중된다."
             },
             {
-              "q": "2027년부터 시행되는 이 변화가 당장 내년과 내후년의 통화정책 경로에 어떤 사전적 영향을 미치는가?",
-              "a": "내년부터 이미 7회 개최 일정이 예고된 만큼 시장은 연준의 정책 호흡이 길어지고 있음을 선반영하여 금리 인상이나 인하 기대감을 조정할 것이다. 이는 투자자들이 단기 지표 하나에 과잉 반응하기보다 연준의 장기적인 가이던스에 더 집중하게 만드는 효과를 낼 수 있다."
+              "q": "연준의 7회 개편안이 시중 금리 흐름 및 자산 시장에서 긍정적 호재로 작용할 분기점은 무엇인가?",
+              "a": "회의 횟수 감소가 연준의 정책적 불확실성을 낮추고 예측 가능한 통화 정책 로드맵으로 안착하느냐에 달렸다. 분기별 정례 경제전망과의 연계성이 높아져 시장이 중앙은행의 장기 스탠스를 명확히 읽을 수 있을 때 호재가 된다."
             }
           ]
         },
-        "유가 급등과 국채금리 상승": {
-          "headline": "美 국채금리 5.1% 돌파, 유가 상승과 추가 금리 인상 전망 확산",
+        "국채 금리 급등": {
+          "headline": "미 10년물 국채 금리 5.109% 급등 및 긴축 우려",
           "facts": [
-            "미국 10년물 국채금리가 5.109%까지 급등하며 시장에 충격을 주었으며 이는 유가 상승과 연준의 추가 금리 인상 전망이 결합된 결과이다.",
-            "국제 유가 급등은 인플레이션 재점화 우려를 자극했고 이는 국채 매도세로 이어지며 금리를 가파르게 끌어올리는 동력이 되었다.",
-            "10월 수입물가는 환율과 유가 하락 영향으로 전월 대비 1.8% 하락했으나 최근의 유가 반등세로 인해 향후 물가 부담은 다시 커질 전망이다.",
-            "뉴욕증시는 젠슨 황 사임 충격에 금리와 유가 상승이라는 악재가 더해지며 나스닥을 포함한 주요 지수가 하락 압력을 받았다."
+            "미국 10년 만기 국채 금리가 연준의 긴축 장기화 전망과 유가 상승 부담이 가중되면서 5.109%까지 급등했다.",
+            "통화정책에 민감하게 반응하는 미 국채 2년물 금리 역시 4.765%로 상승하며 시장의 금리 인상 공포를 반영했다.",
+            "미국과 일본의 금리 차이가 다시 벌어질 것이라는 전망에 달러당 엔화 환율이 160엔 선을 위협받는 등 외환 시장이 출렁였다.",
+            "장기 국채 금리의 지속적 상승은 기업 자금 조달 비용을 높이고 글로벌 자산 시장의 평가 가치를 하락시키는 압력으로 작용했다."
           ],
           "watch": [
-            "미 국채 10년물 금리의 5.2% 돌파 여부",
-            "국제 유가 상승세가 국내 소비자물가에 전이되는 시차",
-            "연준 위원들의 추가 금리 인상 필요성 관련 발언 수위"
+            "미 국채 10년물 금리의 5.1% 돌파 후 추가 상승 여부",
+            "달러/엔 환율 160엔선 돌파에 따른 일본 당국 개입",
+            "미 재무부 장기채 발행 규모 및 입찰 수요"
           ],
           "qna": [
             {
-              "q": "미 국채 10년물 금리가 5.1%를 돌파한 상황에서 유가 상승이 금리를 밀어 올리는 구체적인 메커니즘은 무엇인가?",
-              "a": "유가 상승은 생산 및 운송 비용을 높여 기대 인플레이션을 자극하고 이는 중앙은행의 긴축 기조를 장기화할 것이라는 공포를 낳기 때문이다. 투자자들이 채권 보유에 대한 더 높은 프리미엄을 요구하면서 채권 가격은 떨어지고 수익률인 금리는 급등하게 된다."
+              "q": "미 10년물 국채 금리가 5.109%까지 폭등하는 과정에서 연준의 추가 인상 전망과 유가가 작용한 메커니즘은 무엇인가?",
+              "a": "국제유가 상승이 인플레이션 상방 압력을 자극하면서 연준의 긴축 조기 종료 기대감이 무너졌기 때문이다. 이에 따라 시장 참여자들이 고금리 장기화 및 추가 인상을 가격에 반영하며 장기 국채 매도세를 유발했다."
             },
             {
-              "q": "10월 수입물가가 1.8% 하락했음에도 불구하고 시장이 향후 물가 상승을 더 우려하는 이유는 무엇인가?",
-              "a": "10월 지표는 과거의 환율 및 유가 하락이 반영된 후행적 수치일 뿐 현재 진행 중인 유가 급등과 국채금리 상승세는 반영되지 않았기 때문이다. 최근의 비용 상승 요인들이 시차를 두고 수입물가에 전이되면 내년 초 물가 안정 가도에 차질이 생길 수 있다는 분석이 지배적이다."
+              "q": "미국 장기 국채 금리 급등이 미일 금리 격차를 넓히며 엔화 환율과 글로벌 기술주에 가져온 파급 경로는 무엇인가?",
+              "a": "미국 국채 수익률 상승은 달러 강세를 촉진해 엔/달러 환율을 160엔 선까지 끌어올리며 엔화 약세를 심화시켰다. 한편 할인율 상승으로 고평가된 기술주들의 미래 수익 가치가 떨어져 증시 하락 압력으로 작용했다."
             },
             {
-              "q": "국채금리 5.1% 돌파가 기술주 중심의 나스닥 지수에 미치는 직접적인 타격 경로는 어떻게 되는가?",
-              "a": "미래 수익을 현재 가치로 할인해 주가를 산정하는 기술주 특성상 할인율인 국채금리가 오르면 기업 가치가 하락하기 때문이다. 특히 엔비디아 같은 고밸류에이션 종목들은 금리 상승 시기에 자금 조달 비용 부담과 투자 심리 위축이 겹치며 하락 폭이 더 커지는 경향을 보인다."
+              "q": "치솟는 국채 금리가 진정되고 채권 시장이 하락세에서 벗어날 구체적인 분기점은 무엇인가?",
+              "a": "미국의 고용 및 물가 지표가 확실한 둔화 세를 보여 연준의 추가 긴축 명분이 소멸되는 시점이 분기점이다. 또한 미 재무부의 장기채 발행 규모 축소 발표 등 수급 부담 완화 신호가 나와야 금리가 안정을 찾을 수 있다."
             }
           ]
         }
       },
       "news": {
-        "엔비디아 CEO 사임 충격": [
+        "젠슨황 사임 충격": [
           {
             "title": "엔비디아 CEO 사임 충격에도 미국 주식 선물 반등 - Investing.com 한국어",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RZktSUWJBVVUyaXZodk1uSlI2dmhGSFhvSDA2RUdobEVnN0xHZXlsTnpuZGZ6SzAyV2tzOU1lbHFzQ2t0MS1JZ25kMVZ1Y3NnQ09wWldaLWVFUVdRRUZyQm9pLW03YzFTN2RPTDRDeC0?oc=5",
@@ -349,48 +346,48 @@
             "snippet": "엔비디아 CEO 사임 충격에도 미국 주식 선물 반등 Investing.com 한국어"
           },
           {
-            "title": "젠슨 황 엔비디아 CEO 사임·유가 급등에 뉴욕증시 일제히 하락 - 서울경제TV",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3eWN3bGJXeW53WW11c2gwWnAyT09yNzZGSnVoenVocllaWUI2djVCWHd6al9PQ2U2QlVucmRpZFNxNExaTl8zRW5GOFJ2NXdhSjlWbzRrcDVxbzE4MVhIdEpCVWY?oc=5",
-            "source": "서울경제TV",
-            "published": "11-13 08:57",
-            "snippet": "젠슨 황 엔비디아 CEO 사임·유가 급등에 뉴욕증시 일제히 하락 서울경제TV"
+            "title": "[뉴욕증시] 젠슨 황 사임 충격 나스닥 100.09P 하락...AMD·브로드컴 5%대 반사이익 - 글로벌이코노믹",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzUyUWJxM2Z4VlNQYktuSy1EU0lTeVJhN28wX0IxMXo4SVNlRTlfQ1djWW9rRlpfN0hmd21aNk1nb1UtN2FmMHB3OTRjQmF5UGFySWdUNExKeVBLMUtKeUNXb3JleDNZT291V1dzZHZ4WEtPWWdqOWJqNktjLWJMTmUySmJhLU51?oc=5",
+            "source": "글로벌이코노믹",
+            "published": "11-13 06:54",
+            "snippet": "[뉴욕증시] 젠슨 황 사임 충격 나스닥 100.09P 하락...AMD·브로드컴 5%대 반사이익 글로벌이코노믹"
           },
           {
-            "title": "[월가 레이더] 엔비디아 황 CEO 전격 사임에 5.5% 급락…나스닥 0.5%↓ - 포커스온경제",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZWHdZcFlBNHBKc3o5U1BzOFNadjg0dzNsZGc2MXRTc3dzT3p4NXNMcGFrQ25RdzFYN0kyemhhUUZIOG90S0w2aTVXWWVrNmxISVZjY0dBMTFUTWloUUVhRQ?oc=5",
-            "source": "포커스온경제",
-            "published": "11-13 05:21",
-            "snippet": "[월가 레이더] 엔비디아 황 CEO 전격 사임에 5.5% 급락…나스닥 0.5%↓ 포커스온경제"
+            "title": "뉴욕증시, 젠슨황 사임·유가상승에 일제 하락...나스닥도 내려 - 조세일보",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85anBENGlRcDZCcVktSk50am95YkNteUpnZWwtNGdUSC1WbjZtVjY0SlNIYmNEVjNyS3hndXB1c3FGRFJQWnIzb3BXUEQwUEQxc092U2d0eF93ZGl5NE1CblRsTlRROTRSVnNNQ0QyMA?oc=5",
+            "source": "조세일보",
+            "published": "11-13 08:20",
+            "snippet": "뉴욕증시, 젠슨황 사임·유가상승에 일제 하락...나스닥도 내려 조세일보"
           },
           {
-            "title": "뉴욕증시, 엔비디아 CEO 사임·유가 급등에 일제히 하락...나스닥 0.39%↓ - M이코노미뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51SnRpMWpJWmpoVnh5bFEta0lnaXNDang1NVphTzctTktEMW52YVhSQXNzNERjUGVfZVhlMDFCWTJvQWh6WUF2MDN1MVFpSGJwVnllOW5nZG9uYmFIc3BYRUlVUmI1Znc?oc=5",
-            "source": "M이코노미뉴스",
-            "published": "11-13 07:33",
-            "snippet": "뉴욕증시, 엔비디아 CEO 사임·유가 급등에 일제히 하락...나스닥 0.39%↓ M이코노미뉴스"
+            "title": "뉴욕증시, 젠슨 황 사임 충격에 3대 지수 하락…유가·금리 상승도 부담 - 마켓인",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92UDRITTdQV0MwYThvcERldFFLOHlaVWZLRElaLTNITU85emFyREJ4bmVnQ1U2ZDNiazR5YThtZXNwYnBvUFkxZWcwTFIyXzlYQVozREx0S1pOWjRqbzUxMmF2QlpWeDZPUXNRd0tzQzM1b0E?oc=5",
+            "source": "마켓인",
+            "published": "11-13 08:46",
+            "snippet": "뉴욕증시, 젠슨 황 사임 충격에 3대 지수 하락…유가·금리 상승도 부담 마켓인"
           },
           {
-            "title": "뉴욕증시, 젠슨 황 엔비디아 CEO 사임 속 혼조 출발 - 연합뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DYUlDTnA5TUNXRmlDTjNORDZJbW9FMHBVcWVtYy13T0xxWlg1YlBvdWdmVGt1dHJ2bmkxVTU0ZV9YYmN4ZVV1X2pMMEVLbFJUcndTd0FyUmpLLVXSAWBBVV95cUxNSjFWUW12YUJiMWJCa0lIbkRUZ3J5NVVTVXlrM2hIRlRHYTFRV1dFaFlZd19rQWpRXzlUSG1ycVFFbzduZ3R6T2htTXpJWVpQVkpEUllsUExFMF9HZjl1Snk?oc=5",
-            "source": "연합뉴스",
-            "published": "11-12 23:55",
-            "snippet": "뉴욕증시, 젠슨 황 엔비디아 CEO 사임 속 혼조 출발 연합뉴스"
+            "title": "뉴욕증시, 젠슨 황 사임 충격에 동반 하락…나스닥 0.39%↓ - 우리경제신문",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tbURXRTBoSl9PUTdFQmltaEpLYkhLeGNTbXJEVmRtQVFBcXNOMnpUMllDakdxLVdlTEZ6aldSM0g4RXBKQjBTOGdCLW1GQ3RjOFFFMTNJX2U?oc=5",
+            "source": "우리경제신문",
+            "published": "11-13 10:47",
+            "snippet": "뉴욕증시, 젠슨 황 사임 충격에 동반 하락…나스닥 0.39%↓ 우리경제신문"
           },
           {
-            "title": "S&P500 선물, 엔비디아 충격 딛고 상승…美 국채금리↓ - 연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9na3lMQk9Na2gyVEJKZTNKY1poZWMxOF9mTHh4czdWNVpWemtMZUpmNllnTXhnRTNQQkdqRG1UekVOS19yclFBNWtuUy1YQ056UU5IT1ZuaDBVeFJWSkU2UG5RZ1dsUnZKc2VKQ0I1dFQ?oc=5",
-            "source": "연합인포맥스",
-            "published": "11-13 12:15",
-            "snippet": "S&P500 선물, 엔비디아 충격 딛고 상승…美 국채금리↓ 연합인포맥스 코어위브가 불 지폈다, 뉴욕증시 일제히 상승 네이버페이 머니스토리 미국 AI주 랠리...코스피 사흘 연속 반등하나 YTN 코어위브, CEO 8억달러 주식 매각 후 추가 매도 중단 마켓인 [뉴스프레소] 뉴욕증시, 코어위브발 일제히 상승… 엔비디아 시간외 폭락, 후임은? - 머니투데이 머니투데이"
+            "title": "뉴욕증시, 젠슨 황 사임 충격 속 하락…AMD·브로드컴은 '반사이익' - 뉴스핌",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIM0ZKQWFTZDlxaDVnZEtueElYZGlGWXVTRTl3ck1sdFRLTnVxQWFjWDdUdzJOS0N6R1VBVmFUX2YtMUwxczR6bFp5WjhuMWp2S3lQZU1wSzdnT3Fu?oc=5",
+            "source": "뉴스핌",
+            "published": "11-13 06:17",
+            "snippet": "뉴욕증시, 젠슨 황 사임 충격 속 하락…AMD·브로드컴은 '반사이익' 뉴스핌"
           }
         ],
-        "연준 FOMC 회의 축소": [
+        "연준 FOMC 축소": [
           {
-            "title": "美 연준, 2027년부터 금리 결정 회의 연 7회로 축소…수십 년 통화정책 관행 손질 - 글로벌이코노믹",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbjZ0UDVkeHE2eDctTnVpYlQ3SlZMMkpwUmNuS0owVXZMOU42b2RzTUVnMUxqVHpib1l3eGtOa0RHeEw5YlRqblNQMkNsWXc3QVNkNFNEMHFBelpNQ0hNNnpITDVLZGRHdlBqTEtfSWtieWVHS2pmUWVISl9KdlM1bkxJS3ctVUhn?oc=5",
-            "source": "글로벌이코노믹",
-            "published": "11-13 16:18",
-            "snippet": "美 연준, 2027년부터 금리 결정 회의 연 7회로 축소…수십 년 통화정책 관행 손질 글로벌이코노믹"
+            "title": "‘금리 결정’ FOMC는 7번만 한다… 美 연준, 내년 일정 발표 - Chosunbiz",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSWdLR0drek85UG54TlhJZjJEMWxSUzR5em1yM25XaXJqazlFaFVTc2diajlpZ0dNbHM2NmRjOEFhSlRJSGlHcWpyR1g4UDJpYzl4Y2NQblhBeVpmYktiQTdJRDJVeFVRWmkwazNqeU4wQ3pRd3Uyd25RZ1ZrTXJXeE9kYWV0R3pYdU5fS05FdklPdEoyRjNQclkwX3NVd9IBsgFBVV95cUxPckRZdUQzWnZfdF84b0poaGtDUkhRZ0dRVGRNeG9aNTBLLU81dlRKN3ZORER3ZUJUejZtb2hSVTRSUG9oeFdfcUQxVGJISGZzQmFsaHJRZFBQRFFtSFpBSEsweE1vWExsdkpEU0NRUXVTN253UnlHaXNfLUdzcXhNMVRIMHhxUlQzX2ljSjg2b2dBUV92TU53bWtieEVvcDh3ZmNpT0g3UGw2eVZJMmYyNG93?oc=5",
+            "source": "Chosunbiz",
+            "published": "11-13 15:20",
+            "snippet": "‘금리 결정’ FOMC는 7번만 한다… 美 연준, 내년 일정 발표 Chosunbiz"
           },
           {
             "title": "美연준, 내년 '금리 결정' FOMC는 7번만…10월엔 전략 논의 집중 - 연합뉴스",
@@ -398,13 +395,6 @@
             "source": "연합뉴스",
             "published": "11-13 05:37",
             "snippet": "美연준, 내년 '금리 결정' FOMC는 7번만…10월엔 전략 논의 집중 연합뉴스"
-          },
-          {
-            "title": "‘금리 결정’ FOMC는 7번만 한다… 美 연준, 내년 일정 발표 - Chosunbiz",
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSWdLR0drek85UG54TlhJZjJEMWxSUzR5em1yM25XaXJqazlFaFVTc2diajlpZ0dNbHM2NmRjOEFhSlRJSGlHcWpyR1g4UDJpYzl4Y2NQblhBeVpmYktiQTdJRDJVeFVRWmkwazNqeU4wQ3pRd3Uyd25RZ1ZrTXJXeE9kYWV0R3pYdU5fS05FdklPdEoyRjNQclkwX3NVd9IBsgFBVV95cUxPckRZdUQzWnZfdF84b0poaGtDUkhRZ0dRVGRNeG9aNTBLLU81dlRKN3ZORER3ZUJUejZtb2hSVTRSUG9oeFdfcUQxVGJISGZzQmFsaHJRZFBQRFFtSFpBSEsweE1vWExsdkpEU0NRUXVTN253UnlHaXNfLUdzcXhNMVRIMHhxUlQzX2ljSjg2b2dBUV92TU53bWtieEVvcDh3ZmNpT0g3UGw2eVZJMmYyNG93?oc=5",
-            "source": "Chosunbiz",
-            "published": "11-13 07:51",
-            "snippet": "‘금리 결정’ FOMC는 7번만 한다… 美 연준, 내년 일정 발표 Chosunbiz"
           },
           {
             "title": "연준, 내년 '금리 결정' FOMC 7차례 개최…10월엔 통화정책 전략만 | - 연합인포맥스",
@@ -426,16 +416,16 @@
             "source": "뉴시스",
             "published": "11-13 10:15",
             "snippet": "美연준, 2027년 FOMC 일정 공개…기준금리 결정 8번→7번 뉴시스"
+          },
+          {
+            "title": "美 연준, 2027년부터 금리 결정 회의 연 7회로 축소…수십 년 통화정책 관행 손질 - 글로벌이코노믹",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbjZ0UDVkeHE2eDctTnVpYlQ3SlZMMkpwUmNuS0owVXZMOU42b2RzTUVnMUxqVHpib1l3eGtOa0RHeEw5YlRqblNQMkNsWXc3QVNkNFNEMHFBelpNQ0hNNnpITDVLZGRHdlBqTEtfSWtieWVHS2pmUWVISl9KdlM1bkxJS3ctVUhn?oc=5",
+            "source": "글로벌이코노믹",
+            "published": "11-13 16:18",
+            "snippet": "美 연준, 2027년부터 금리 결정 회의 연 7회로 축소…수십 년 통화정책 관행 손질 글로벌이코노믹"
           }
         ],
-        "유가 급등과 국채금리 상승": [
-          {
-            "title": "S&P500 선물, 엔비디아 충격 딛고 상승…美 국채금리↓ - 연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9na3lMQk9Na2gyVEJKZTNKY1poZWMxOF9mTHh4czdWNVpWemtMZUpmNllnTXhnRTNQQkdqRG1UekVOS19yclFBNWtuUy1YQ056UU5IT1ZuaDBVeFJWSkU2UG5RZ1dsUnZKc2VKQ0I1dFQ?oc=5",
-            "source": "연합인포맥스",
-            "published": "11-13 12:15",
-            "snippet": "S&P500 선물, 엔비디아 충격 딛고 상승…美 국채금리↓ 연합인포맥스 코어위브가 불 지폈다, 뉴욕증시 일제히 상승 네이버페이 머니스토리 미국 AI주 랠리...코스피 사흘 연속 반등하나 YTN 코어위브, CEO 8억달러 주식 매각 후 추가 매도 중단 마켓인 [뉴스프레소] 뉴욕증시, 코어위브발 일제히 상승… 엔비디아 시간외 폭락, 후임은? - 머니투데이 머니투데이"
-          },
+        "국채 금리 급등": [
           {
             "title": "美 국채 10년물 금리 5.109% 급등…유가 상승·연준 추가 인상 전망 - 뉴스1",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xb2dScXVCS09nMjNpM1NjdTZKemZlRlJ5eThQejFzV000OEpYUXRTb25Ed1NDeU54aV9pOUluSXBhbDY5dnM3cDFVWWFCaG9XWnFkMEdxTGdfYVVjLWZZSUh5VFcxYVU?oc=5",
@@ -444,47 +434,45 @@
             "snippet": "美 국채 10년물 금리 5.109% 급등…유가 상승·연준 추가 인상 전망 뉴스1"
           },
           {
-            "title": "뉴욕증시, 젠슨황 사임·유가상승에 일제 하락...나스닥도 내려 - 조세일보",
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85anBENGlRcDZCcVktSk50am95YkNteUpnZWwtNGdUSC1WbjZtVjY0SlNIYmNEVjNyS3hndXB1c3FGRFJQWnIzb3BXUEQwUEQxc092U2d0eF93ZGl5NE1CblRsTlRROTRSVnNNQ0QyMA?oc=5",
-            "source": "조세일보",
-            "published": "11-13 08:20",
-            "snippet": "뉴욕증시, 젠슨황 사임·유가상승에 일제 하락...나스닥도 내려 조세일보"
+            "title": "美 국채 2년물 금리 4.765%…연준 긴축 전망에 상승 - 글로벌이코노믹",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYlU5bU8zYVVDQUp1R2ducVJMM2s2QnZLbnVoMVFJakdOZFEyZFp3UDdacjE0UVpjOW5kRGFTZjFtRUF6RThPVUQwOXNvX21oVFRKZm55b2UtTnFaTXd6VVFzakw5bkhKdnVUTFhPRi1YT2lWdkEydEt0b2tiQmN2eXZKRlNJTlVx?oc=5",
+            "source": "글로벌이코노믹",
+            "published": "11-13 03:00",
+            "snippet": "美 국채 2년물 금리 4.765%…연준 긴축 전망에 상승 글로벌이코노믹"
           },
           {
-            "title": "[뉴욕증시] 나스닥, 젠슨 황 사임 충격에 0.39%↓…금리·유가 상승도 영향 - 신아일보",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDVWkxWUV6dFYzZmszZkM3aDhyZEhIYXE5RzBrR3VqcklrTkVzM1o3OWVmVUdLSnFoU2F2NGVFSGw3ZWlRYm9keWd2b014Y1ZWNDlvTkFOR2VMR0EzQWQ0RXBxNDZ6U084SnUya1REZUY?oc=5",
-            "source": "신아일보",
-            "published": "11-13 08:03",
-            "snippet": "[뉴욕증시] 나스닥, 젠슨 황 사임 충격에 0.39%↓…금리·유가 상승도 영향 신아일보"
+            "title": "코어위브 25% 급등에 AI株 반등…나스닥 1.6% 상승 - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORkxHMmVmV1lFdEtwQ3ZuTWNaR1VqR0ZKdHRLdFVWRDl2WkhmeWp1aFhLdTg5WmozSUdHM1dwVVFJcFVsWEc0OW54MFJsYk02Z0VydFZCRmZnZ2VZakRqeHVjaGFjQ24wcHg5bVlCMjZiQ1FQSTJMeFdJOVJXSlNaM2YwMS1GT2ND?oc=5",
+            "source": "조선일보",
+            "published": "11-12 07:28",
+            "snippet": "코어위브 25% 급등에 AI株 반등…나스닥 1.6% 상승 조선일보 코어위브가 불 지폈다, 뉴욕증시 일제히 상승 네이버페이 머니스토리 S&P500 선물, 엔비디아 충격 딛고 상승…美 국채금리↓ 연합인포맥스 코어위브, CEO 8억달러 주식 매각 후 추가 매도 중단 마켓인 미국 AI주 랠리...코스피 사흘 연속 반등하나 YTN"
           },
           {
-            "title": "코스피, 젠슨 황 '불명예 퇴진' 충격 딛고 2%대 상승 출발 - 연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xbzFWRzkzQVV6OUp2aExEQTJTMEIwNTNLa2d3SUFPTDNMeHZ0Y3RhcEM4QVNRYW85SUlOek45Yjh6SEZOaTJuMEwxYkxaNllCcWpyTXBIenJ5UVVDLXJPbXZoWXluelJ4dC1iNGxDU3I?oc=5",
-            "source": "연합인포맥스",
-            "published": "11-13 09:32",
-            "snippet": "코스피, 젠슨 황 '불명예 퇴진' 충격 딛고 2%대 상승 출발 연합인포맥스 상승 출발 코스피, 李간담회 직후 음전…외인도 '팔자'로 연합인포맥스 나흘만에 순매도 돌아선 외국인…수급 변동성 여전 - 머니투데이 머니투데이 '젠슨황 사임' 여파 지속?…하이닉스, 3% 급락…삼전도 0.96%↓(종합) 연합뉴스 코스피, 0.98% 하락 마감‥반도체 대형주 약세 MBC 뉴스"
-          },
-          {
-            "title": "환율·유가 동반 하락에 10월 수입물가 1.8%↓ - 한국무역협회-KITA.NET",
-            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMjRWWXZLeXpNNWlsamlKV3BMd1NneVpSbzdZVXRWVmJMVjZZX2c0LXJsaVB2SlNDR0RadlUwRlVaaElYTFVTT0UwUHIwdHRVU2JBNVU2Qk9UV3JnV0w0a2hmcmJuallJRTg1QTNzWF9Ma2lYRUFjbDItRGQ2bEFUM3U0ZmJ1MW9rZTZXY3l3WDZ0VWEyYXdPVjMxNzBRRHU2cnNKd0pLb1BRQnI1dWUxd194eDUwNVNMZDZLTkVRT3BGXzJvcnlQalVHc0xRLUJ5RE0xWG1B?oc=5",
+            "title": "미일 금리격차 전망에 다시 출렁이는 엔화…달러당 160엔선 위협 - 한국무역협회-KITA.NET",
+            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSFV3c2pBUTZUcklGWnhGRWlHRzdMa0xReDNuVkZDWE1fWlFGM1otTTF5WGRJRFIycmphWUhnZk9lYnYwR1dMMkFfTXhwb3JlV3hrY3JSd3hPUmdMWmtUcVVIR1NId2w5MjdObjZRa0toR3B0b3pBOTA1WHlxQjJhQWRxTlROcnNILTlIdEpLd1RxbTg3NW5xMlNfMkRaX2hFNkV1a1dzSGVjRlgyeUM1eWRtUUJURk8tYTlKTlZMS1c4UnBlX213UTZGU0Zxenl3Z3VuUDRn?oc=5",
             "source": "한국무역협회-KITA.NET",
-            "published": "11-13 08:05",
-            "snippet": "환율·유가 동반 하락에 10월 수입물가 1.8%↓ 한국무역협회-KITA.NET Google 뉴스에서 헤드라인 및 의견 더보기"
+            "published": "11-13 13:30",
+            "snippet": "미일 금리격차 전망에 다시 출렁이는 엔화…달러당 160엔선 위협 한국무역협회-KITA.NET 멈추지 않는 엔저... 엔화 또 달러당 160엔, 미일 금리 격차 확대 우려 조선일보 [도쿄환시] 달러-엔 소폭 하락…日재무관 발언에 개입 경계 연합인포맥스 미일 금리차 전망에 엔화 또 ’출렁’…달러당 160엔선 위협 연합뉴스TV 7월 엔화방어서 美의 투입 규모는…\"5억불 규모 유로화\" 확인 마켓인"
+          },
+          {
+            "title": "‘금리 결정’ FOMC는 7번만 한다… 美 연준, 내년 일정 발표 - Chosunbiz",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSWdLR0drek85UG54TlhJZjJEMWxSUzR5em1yM25XaXJqazlFaFVTc2diajlpZ0dNbHM2NmRjOEFhSlRJSGlHcWpyR1g4UDJpYzl4Y2NQblhBeVpmYktiQTdJRDJVeFVRWmkwazNqeU4wQ3pRd3Uyd25RZ1ZrTXJXeE9kYWV0R3pYdU5fS05FdklPdEoyRjNQclkwX3NVd9IBsgFBVV95cUxPckRZdUQzWnZfdF84b0poaGtDUkhRZ0dRVGRNeG9aNTBLLU81dlRKN3ZORER3ZUJUejZtb2hSVTRSUG9oeFdfcUQxVGJISGZzQmFsaHJRZFBQRFFtSFpBSEsweE1vWExsdkpEU0NRUXVTN253UnlHaXNfLUdzcXhNMVRIMHhxUlQzX2ljSjg2b2dBUV92TU53bWtieEVvcDh3ZmNpT0g3UGw2eVZJMmYyNG93?oc=5",
+            "source": "Chosunbiz",
+            "published": "11-13 15:20",
+            "snippet": "‘금리 결정’ FOMC는 7번만 한다… 美 연준, 내년 일정 발표 Chosunbiz"
+          },
+          {
+            "title": "美 연준, 2027년부터 금리 결정 회의 연 7회로 축소…수십 년 통화정책 관행 손질 - 글로벌이코노믹",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbjZ0UDVkeHE2eDctTnVpYlQ3SlZMMkpwUmNuS0owVXZMOU42b2RzTUVnMUxqVHpib1l3eGtOa0RHeEw5YlRqblNQMkNsWXc3QVNkNFNEMHFBelpNQ0hNNnpITDVLZGRHdlBqTEtfSWtieWVHS2pmUWVISl9KdlM1bkxJS3ctVUhn?oc=5",
+            "source": "글로벌이코노믹",
+            "published": "11-13 16:18",
+            "snippet": "美 연준, 2027년부터 금리 결정 회의 연 7회로 축소…수십 년 통화정책 관행 손질 글로벌이코노믹"
           }
         ]
       },
       "queries": {
-        "엔비디아 CEO 사임 충격": [
-          "엔비디아 ceo",
-          "엔비디아 ceo 젠슨황",
-          "엔비디아 ceo 국적",
-          "엔비디아 ceo 젠슨황 특별강연",
-          "엔비디아 ceo연봉",
-          "엔비디아 ceo 인터뷰",
-          "엔비디아 ceo 이름",
-          "엔비디아 여자 ceo"
-        ],
-        "연준 FOMC 회의 축소": [
+        "젠슨황 사임 충격": [],
+        "연준 FOMC 축소": [
           "연준 fomc 일정",
           "연준 fomc",
           "연준 fomc 의사록",
@@ -494,203 +482,218 @@
           "연준 fomc 회의",
           "연준 fomc회의록"
         ],
-        "유가 급등과 국채금리 상승": []
+        "국채 금리 급등": [
+          "국채 금리 급등 이유",
+          "국채 금리 급등 의미",
+          "미국 국채 금리 급등",
+          "미국 국채 금리 급등 이유",
+          "미국 장기 국채 금리 급등",
+          "일본 국채 금리 급등",
+          "한국 국채 금리 급등",
+          "글로벌 국채 금리 급등"
+        ]
       }
     },
     "keywords": [
-      "코스피 2%대 상승",
-      "서울 아파트값 상승 둔화",
-      "플랫폼 및 금융사 해킹",
-      "엔비디아 CEO 사임 충격",
-      "연준 FOMC 회의 축소",
-      "유가 급등과 국채금리 상승"
+      "아파트값 상승 둔화",
+      "가상자산 해킹 확산",
+      "10월 수입물가 하락",
+      "젠슨황 사임 충격",
+      "연준 FOMC 축소",
+      "국채 금리 급등"
     ],
     "results": {
-      "코스피 2%대 상승": {
-        "headline": "젠슨 황 사임 충격 딛고 반등한 코스피, 장중 하락 전환",
+      "아파트값 상승 둔화": {
+        "headline": "서울 아파트값 상승세 둔화와 매물 누적 현상",
         "facts": [
-          "코스피는 엔비디아 젠슨 황 최고경영자의 불명예 퇴진 소식에도 불구하고 장 초반 2%대 상승하며 긍정적인 흐름으로 출발했다.",
-          "오전 중 젠슨 황 사임 여파를 주시하며 코스닥과 동반 상승세를 유지했으나 오후 들어 정치권 간담회 직후 하락세로 돌아섰다.",
-          "외국인 투자자들이 매도세로 전환하며 지수를 압박했고 결국 코스피는 전 거래일보다 0.98% 내린 5,290.53으로 장을 마감했다.",
-          "장 초반의 강한 반등세를 지키지 못하고 음전한 배경에는 외국인의 '팔자' 기조와 국내 정치적 이벤트에 따른 심리 위축이 작용했다."
+          "서울 아파트 가격의 상승 폭이 축소되고 매물이 늘어남에 따라 집값 하향 안정을 나타내는 지표가 확대되고 있다.",
+          "매수자들의 관망세가 짙어지는 가운데 부동산 시장 내 매물 누적이 진행되며 가격 상승 동력이 약화되는 흐름이 관측되었다.",
+          "서울 주요 지역을 중심으로 매매 가격 상승률이 이전 대비 줄어들며 주택 거래 시장 전반의 격열했던 매수세가 가라앉았다.",
+          "당국은 시장 거래량과 매물 변화 추이를 지속적으로 점검하며 집값 하향 안정세가 공고해질 수 있도록 관리할 방침이다."
         ],
         "watch": [
-          "외국인 투자자의 순매도세 지속 여부",
-          "정치권 간담회 후속 조치가 시장에 미칠 영향",
-          "코스피 5,200선 지지 여부 및 코스닥과의 디커플링"
+          "서울 주요 권역별 아파트 매물 누적 속도",
+          "주택담보대출 금리 변동 및 가계대출 규제 동향",
+          "매수우위지수 변동과 실거래가 체결 비율"
         ],
         "qna": [
           {
-            "q": "젠슨 황 사임이라는 대형 악재에도 불구하고 장 초반 코스피가 2%대 급등하며 출발한 원인은 무엇인가?",
-            "a": "미국 주식 선물이 엔비디아 충격을 딛고 반등에 성공하며 국내 증시에도 저가 매수세가 유입되었기 때문이다. 시장은 젠슨 황의 퇴진을 단기적인 경영진 리스크로 해석하며 기술적 반등을 시도했으나 장중 수급 악화로 동력을 잃었다."
+            "q": "매물 증가와 상승세 둔화에도 불구하고 집값 하향 안정을 낙관하기 어려운 메커니즘은 무엇인가?",
+            "a": "매물이 늘어났지만 실거래로 이어지는 매수세가 특정 정주 여건 우수 지역에만 한정되어 나타나기 때문이다. 거래량이 수반되지 않은 채 나타나는 관망세는 일시적인 둔화 착시를 만들 뿐 확실한 하락세 전환으로 보기 어렵다."
           },
           {
-            "q": "상승 출발했던 지수가 오후 들어 하락 전환하며 5,300선 아래로 밀려난 결정적 계기는 무엇인가?",
-            "a": "이재명 대표의 간담회 직후 시장 심리가 급격히 냉각되며 외국인들이 매도 우위로 돌아선 점이 결정적이었다. 장 초반의 낙관론이 정치적 불확실성과 수급 공백을 이기지 못하고 매물 폭탄으로 이어진 결과이다."
+            "q": "서울 아파트 거래 관망세가 지속될 경우 분양 시장과 대출 시장에는 어떤 연쇄 파급이 발생하는가?",
+            "a": "기존 매매 시장의 거래 침체는 신규 분양 청약 시장으로의 수요 쏠림과 양극화를 심화시킨다. 동시에 금융권의 대출 한도 축소와 높은 이자 부담이 더해져 시중 주택 거래 유동성이 급격히 위축되는 결과를 초래한다."
           },
           {
-            "q": "코스피가 하락 마감한 것과 달리 코스닥이 소폭 상승하며 마감한 현상은 어떻게 해석해야 하는가?",
-            "a": "대형주 중심의 코스피는 외국인 매도와 대외 변수에 민감하게 반응했으나 코스닥은 상대적으로 개별 테마주 중심의 매수세가 유입되었기 때문이다. 이는 시장의 관심이 지수 전반보다는 특정 섹터나 중소형주로 분산되고 있음을 시사한다."
+            "q": "정부의 하향 안정 지표 발표에도 불확실성이 지속되는 상황에서 시장 반전의 분기점은 무엇인가?",
+            "a": "기준금리 인하 전환 시점과 실제 주택 공급 물량의 체감 입주 시기가 핵심 분기점이다. 금융 비용 부담 완화와 구체적인 주택 공급 체계가 맞물리는 시점에 매수 심리의 유입 여부가 결정될 수 있다."
           }
         ]
       },
-      "서울 아파트값 상승 둔화": {
-        "headline": "서울 아파트값 상승세 주춤, 매물 증가하며 하향 안정 지표 확대",
+      "가상자산 해킹 확산": {
+        "headline": "잇단 해킹에 가상자산 선제적 입출금 차단 도입",
         "facts": [
-          "정부는 서울 아파트값 상승 폭이 둔화되고 매물이 증가하는 등 집값 하향 안정을 뒷받침하는 지표들이 확대되고 있다고 발표했다.",
-          "서울 전역에서 가격 상승세가 주춤한 가운데 강북권 일부 지역과 경기 남부 지역은 여전히 상대적인 강세를 이어가고 있다.",
-          "부동산 시장 내 매물 적체가 진행되면서 매수자 우위 시장으로의 전환 가능성이 제기되며 시장 관망세가 짙어지는 양상이다.",
-          "정부는 현재의 지표 변화를 시장 안정화의 신호로 판단하고 있으며 향후 공급 대책과 대출 규제 효과가 본격화될 것으로 보고 있다."
+          "가상자산 거래소에서 해킹 이상 징후가 감지될 경우 거래소가 입출금을 선제적으로 차단할 수 있는 대책이 허용되었다.",
+          "금융위원회는 최근 발생한 보안 침해 사고와 관련해 다음 주부터 금융보안원에 대한 고강도 감사에 착수하기로 결정했다.",
+          "기업용 협업 플랫폼인 카카오워크마저 해킹 피해를 입어 업무 정보가 유출되는 등 종단간 암호화 기술의 실효성 논란이 불거졌다.",
+          "생성형 AI 기술을 악용한 해커 집단이 8조 원 규모의 가상자산과 주요 정보 자산을 탈취하며 보안 위협이 급격히 고도화되었다."
         ],
         "watch": [
-          "서울 아파트 매물 적체 속도와 실제 거래량 변화",
-          "강북권 중저가 단지의 매수세 유지 여부",
-          "정부의 추가적인 부동산 시장 안정화 대책 발표"
+          "금융당국의 금융보안원 감사 결과 및 징계 수위",
+          "가상자산 거래소별 이상 거래 감지 시스템 적용 현황",
+          "AI 기반 악성코드 및 해킹 기법에 대한 보안 대책"
         ],
         "qna": [
           {
-            "q": "정부가 집값 하향 안정의 근거로 제시한 구체적인 지표 변화는 무엇인가?",
-            "a": "서울 아파트값 상승률의 수치적 둔화와 더불어 시장에 나온 매물 건수가 유의미하게 증가하고 있다는 점을 핵심 근거로 꼽았다. 이는 매도 희망가는 높지만 매수자가 따라붙지 않는 수급 불균형이 가격 하락 압력으로 작용하기 시작했음을 의미한다."
+            "q": "해킹 의심만으로 가상자산 입출금을 선제 차단하는 조치가 왜 유동성 리스크를 유발할 수 있는가?",
+            "a": "오탐으로 인한 출금 동결 시 정상적인 거래자의 자금이 묶여 시세 차익 기회를 상실하거나 담보비율 미달로 반대매매가 발생할 수 있다. 이는 거래소 신뢰도를 떨어뜨리고 시장 전반의 투매를 유도하는 부작용을 낳는다."
           },
           {
-            "q": "서울 전반의 상승세가 둔화되는 상황에서 강북권과 경기 남부 아파트값이 강세를 보이는 이유는 무엇인가?",
-            "a": "강남권 등 고가 지역의 대출 규제 피로감이 커지자 상대적으로 진입 장벽이 낮은 강북권 중저가 단지로 매수세가 이동하는 풍선효과가 나타났기 때문이다. 경기 남부 역시 교통 호재나 직주근접 수요가 뒷받침되며 서울 외곽의 수요를 흡수하고 있다."
+            "q": "AI 기술을 결합한 해킹 공격의 고도화가 가상자산 및 보안 산업의 이해득실에 어떠한 영향을 미치는가?",
+            "a": "기존 보안 솔루션의 무력화로 보안 구축 비용이 기하급수적으로 증가하게 된다. 거대 자본을 동원해 고도화된 인프라를 구축할 수 있는 대형 거래소 중심의 독점이 심화되고 소형 플랫폼은 시장에서 도태될 가능성이 높다."
           },
           {
-            "q": "매물 증가가 실제 가격 하락으로 이어지기 위한 시장의 임계점은 어디인가?",
-            "a": "매수 대기자들이 금리 부담과 고점 인식을 이유로 관망세를 유지하며 거래 절벽이 3개월 이상 지속될 때 본격적인 가격 조정이 일어날 가능성이 크다. 현재는 매도자와 매수자 간의 희망 가격 격차가 팽팽해 지표상 둔화만 나타나는 단계이다."
+            "q": "금융당국의 금융보안원 감사 착수 조치가 보안 체계의 근본적 체질 개선으로 이어질 분기점은 무엇인가?",
+            "a": "단순 과태료 부과를 넘어 보안 사고 발생 시 사업자에 대한 징벌적 손해배상제 도입 여부가 분기점이다. 법적 책임을 강화하는 제도적 정비가 수반되어야 거래소들의 자발적인 보안 투자 확대를 이끌어낼 수 있다."
           }
         ]
       },
-      "플랫폼 및 금융사 해킹": {
-        "headline": "카카오워크부터 금융보안원까지, 전방위 해킹에 개인정보 유출 비상",
+      "10월 수입물가 하락": {
+        "headline": "환율과 유가 동반 하락에 10월 수입물가 1.8% 감소",
         "facts": [
-          "기업용 협업 플랫폼 카카오워크가 해킹되어 업무 정보가 유출되었으며 강조해온 종단간 암호화 기술이 무력화되었다는 지적을 받았다.",
-          "가상자산 거래소 플라이빗에서도 해킹 사고가 발생하여 고객 40명의 주민등록번호와 납세 정보 등 민감 정보가 외부로 새 나갔다.",
-          "삼성SDS 자회사 멀티캠퍼스는 해킹 공격으로 인해 전현직 임직원 약 7만 명의 개인정보가 유출되는 대규모 사고를 겪었다.",
-          "금융위원회는 보안 컨트롤타워인 금융보안원이 해킹에 뚫린 사안에 대해 다음 주부터 고강도 감사를 실시하기로 결정했다.",
-          "화상회의 지인 초대를 악용한 페이스스틸러 악성코드와 보안에 취약한 홈캠 해킹 사례가 빈번해지며 개인 사생활 침해 우려가 커졌다."
+          "원/달러 환율 안정과 국제 유가 내림세에 힘입어 10월 수입물가지수가 전월 대비 1.8% 하락세를 기록했다.",
+          "유가 하락이 원자재 가격 하락을 이끌고 환율 안정세가 더해지면서 수입물가 하락을 이끄는 주요 요인으로 작용했다.",
+          "수입물가의 하락세는 시차를 두고 국내 원가 부담을 줄여 향후 소비자물가 상승 압력을 낮추는 데 기여할 것으로 전망된다.",
+          "석유 및 화학제품을 중심으로 수입 가격 인하 효과가 크게 나타나면서 제조업 공급망의 원가 관리 부담이 일부 완화되었다."
         ],
         "watch": [
-          "금융위원회의 금융보안원 감사 결과 및 징계 수위",
-          "유출된 개인정보를 악용한 2차 피해 발생 여부",
-          "기업용 협업 툴 보안 인증 체계 강화 방안"
+          "국제 유가 및 산유국 생산량 조정 동향",
+          "원/달러 환율 변동성 및 외환 시장 수급",
+          "수입물가 하락의 소비자물가 시차 반영 정도"
         ],
         "qna": [
           {
-            "q": "카카오워크가 내세운 '종단간 암호화' 기술이 있음에도 업무 정보가 유출된 원인은 무엇인가?",
-            "a": "데이터 전송 구간은 암호화되었으나 사용자 단말기나 서버의 접근 권한 자체가 탈취되어 암호화가 해제된 상태의 데이터에 접근했기 때문이다. 이는 기술적 암호화보다 계정 관리와 엔드포인트 보안의 허점이 더 큰 위협이 될 수 있음을 보여준다."
+            "q": "환율과 유가의 동반 하락이 수입물가를 떨어뜨렸음에도 체감 소비자물가 반영이 더딘 이유는 무엇인가?",
+            "a": "수입 원자재가 최종 소비재 가격에 반영되기까지 보통 1~3개월의 시차 변수가 존재하기 때문이다. 또한 유통 구조상의 마진과 인건비 등 내수 비용 부담이 수입물가 하락 폭을 상쇄하는 영향도 작용한다."
           },
           {
-            "q": "금융보안원까지 해킹 대상이 된 상황에서 금융권 전반의 보안 신뢰도에 어떤 타격이 예상되는가?",
-            "a": "금융권 보안을 점검하고 표준을 만드는 최상위 기관이 뚫렸다는 점에서 개별 금융사들의 보안 체계에 대한 근본적인 불신으로 확산될 수 있다. 금융위의 감사를 통해 보안 관제 시스템의 구조적 결함이 드러날 경우 대대적인 시스템 개편이 불가피하다."
+            "q": "10월 수입물가 1.8% 하락이 국내 수출입 기업 및 환율 포지션에 어떤 파급 경로를 형성하는가?",
+            "a": "원자재 수입 비중이 높은 제조업은 원가 절감에 따른 수익성 개선 효과를 누리게 된다. 반면 환율 하락은 수출 기업의 원화 환산 매출을 감소시켜 실적에 상반된 결과를 가져온다."
           },
           {
-            "q": "홈캠 10대 중 3대가 해킹에 무방비하다는 조사 결과가 시사하는 보안 대책의 시급성은 무엇인가?",
-            "a": "초기 설정된 비밀번호를 변경하지 않거나 보안 패치가 업데이트되지 않은 저가형 제품들이 사생활 유출의 통로가 되고 있음을 뜻한다. 제조사의 보안 인증 의무화와 더불어 사용자의 보안 설정 인식을 강제할 수 있는 제도적 장치가 마련되어야 한다."
+            "q": "수입물가 내림세가 지속 가능한 추세로 정착하기 위한 글로벌 원자재 시장의 핵심 변수는 무엇인가?",
+            "a": "산유국의 감산 정책 변화와 중동발 지질학적 리스크 완화 여부가 가장 결정적인 분기점이다. 원자재 수급 불안이 재발할 경우 환율이 다시 상승해 수입물가 하락세가 단기에 끝날 수 있다."
           }
         ]
       },
-      "엔비디아 CEO 사임 충격": {
-        "headline": "젠슨 황 전격 사임에 엔비디아 5.5% 급락, 뉴욕증시 일제히 하락",
+      "젠슨황 사임 충격": {
+        "headline": "젠슨 황 엔비디아 CEO 사임 발표에 증시 흔들",
         "facts": [
-          "엔비디아의 창업자이자 수장인 젠슨 황 최고경영자가 전격 사임하면서 엔비디아 주가는 하루 만에 5.5% 폭락했다.",
-          "젠슨 황의 사임 소식과 국제 유가 급등이 겹치며 나스닥 지수가 최대 0.5% 하락하는 등 뉴욕 3대 지수가 일제히 약세를 보였다.",
-          "시장은 AI 반도체 산업의 상징적 인물인 젠슨 황의 부재가 엔비디아의 향후 로드맵과 지배구조에 미칠 불확실성을 우려하고 있다.",
-          "다만 장 후반 S&P500 선물은 국채금리 하락에 힘입어 엔비디아 충격을 일부 상쇄하며 반등을 시도하는 모습을 보였다."
+          "엔비디아 최고경영자 젠슨 황의 사임 소식이 전해지며 뉴욕증시 나스닥 지수가 100.09포인트 하락하는 등 지수가 흔들렸다.",
+          "엔비디아의 리더십 공백 우려가 가중되면서 AI 반도체 선도주 가격이 직격탄을 맞았고 기술주 전반에 불안감이 확산되었다.",
+          "경쟁업체인 AMD와 브로드컴 주가는 시장 점유율 확대에 대한 기대감 속에 5%대 상승을 기록하며 반사이익을 얻었다.",
+          "시장의 갑작스러운 충격에도 불구하고 미 주식 선물이 장중 반등을 시도하는 등 낙폭을 제한하려는 움직임도 나타났다."
         ],
         "watch": [
-          "엔비디아 차기 CEO 선임 발표 및 시장 반응",
-          "AI 반도체 관련주들의 동반 하락 지속 여부",
-          "젠슨 황 사임의 구체적인 배경과 추가 폭로 가능성"
+          "엔비디아 후임 CEO 인선 및 경영진 구성",
+          "AMD와 브로드컴의 AI 반도체 시장 점유율 변화",
+          "AI 주요 기술주의 주가 반등 및 변동성 지수"
         ],
         "qna": [
           {
-            "q": "젠슨 황의 사임이 단순한 경영진 교체를 넘어 엔비디아 주가에 5.5%라는 기록적 폭락을 가져온 이유는 무엇인가?",
-            "a": "젠슨 황은 엔비디아의 기술 비전과 AI 생태계를 상징하는 인물로 그의 사임은 기업의 미래 성장 전략에 대한 근본적인 의구심을 자극했기 때문이다. 특히 불명예 퇴진이라는 수식어가 붙으면서 기업 이미지 실추와 법적 리스크 가능성까지 가격에 반영되었다."
+            "q": "젠슨 황 CEO의 사임 발표에도 불구하고 경쟁수인 AMD와 브로드컴이 5%대 반사이익을 얻은 메커니즘은 무엇인가?",
+            "a": "엔비디아의 핵심 리더십 공백이 빅테크 기업들의 AI 반도체 수주 독점력을 약화시킬 것이라는 기대가 반영되었기 때문이다. 이에 따라 구매처 다변화를 모색하던 빅테크들의 수요가 대체재인 AMD와 브로드컴으로 이동했다."
           },
           {
-            "q": "엔비디아의 급락 속에서도 S&P500 선물이 반등에 성공한 역설적인 배경은 무엇인가?",
-            "a": "미 국채금리가 하락하면서 기술주 전반에 가해졌던 밸류에이션 압박이 완화되었고 엔비디아를 제외한 다른 섹터로의 순환매가 유입되었기 때문이다. 이는 시장이 엔비디아 리스크를 전체 증시의 붕괴가 아닌 개별 종목의 악재로 분리 대응하기 시작했음을 보여준다."
+            "q": "AI 생태계 선도자의 퇴진이 미 증시 전체와 AI 반도체 밸류체인에 가져올 연쇄 파급 효과는 어떠한가?",
+            "a": "AI 붐을 이끌던 앵커 기업의 지배력 약화는 AI 밸류체인 전반의 투자 심리를 냉각시키고 나스닥 기술주의 변동성을 확대시킨다. 반면 후발 주자들에게는 기술 격차를 축소할 수 있는 정체성 전환의 기회가 된다."
           },
           {
-            "q": "나스닥 지수가 0.39%에서 0.5% 하락하며 혼조세를 보인 상황에서 향후 지지선은 어디로 보아야 하는가?",
-            "a": "엔비디아의 실적 발표와 차기 경영진의 비전 제시 전까지는 변동성이 지속될 것이며 주요 기술주들의 실적 지지 여부가 관건이다. 유가 급등에 따른 인플레이션 우려가 국채금리를 다시 자극할 경우 나스닥의 추가 조정 폭은 더 커질 수 있다."
+            "q": "젠슨 황 사임에 따른 기술주 폭락세가 진정되고 주가가 안정화될 분기점은 무엇인가?",
+            "a": "후임 CEO 인선 발표와 더불어 차세대 AI 칩의 생산 및 인도 일정이 차질 없이 진행됨을 증명하는 실적 발표가 핵심 분기점이다. 경영진 교체 리스크를 실적으로 불식시켜야 주가 재상승이 가능하다."
           }
         ]
       },
-      "연준 FOMC 회의 축소": {
-        "headline": "美 연준, 2027년부터 금리 결정 회의 연 7회로 축소",
+      "연준 FOMC 축소": {
+        "headline": "미 연준 금리 결정 회의 연 7회로 축소 개편",
         "facts": [
-          "미국 연방준비제도는 2027년부터 기준금리를 결정하는 연방공개시장위원회(FOMC) 정례회의 횟수를 현행 8회에서 7회로 줄이기로 했다.",
-          "이번 결정은 수십 년간 유지되어 온 통화정책 관행을 손질하는 것으로 10월 회의에서는 금리 결정 대신 전략 논의에만 집중할 계획이다.",
-          "연준은 내년에도 7차례의 금리 결정 회의를 개최할 예정이며 10월에는 통화정책 전략과 프레임워크를 심도 있게 검토하는 시간을 갖는다.",
-          "회의 축소는 통화정책의 유연성을 확보하고 단기적인 지표 변화에 일희일비하기보다 장기적인 전략 수립에 무게를 두려는 의도로 풀이된다."
+          "미국 연방준비제도가 기준금리를 결정하는 연방공개시장위원회 회의 횟수를 연 8회에서 7회로 줄이기로 결정했다.",
+          "금리를 결정하지 않는 10월 회의는 통화정책 전략과 중장기 틀을 논의하는 데에만 집중하는 일정으로 변경된다.",
+          "이번 개편은 수십 년간 이어져 온 연준의 정례 통화정책 운영 관행을 손질하여 시장과의 소통 방식을 다변화하는 조치이다.",
+          "금리 결정 주기가 조정됨에 따라 금융 시장 참가자들의 정책 예측 및 포지션 대응 방식에도 변화가 생길 전망이다."
         ],
         "watch": [
-          "10월 전략 회의에서 발표될 새로운 통화정책 프레임워크",
-          "회의 횟수 축소가 시장의 금리 예측 변동성에 미칠 영향",
-          "연준 위원들 간의 회의 축소에 대한 내부 의견 대립 여부"
+          "연준의 통화정책 전략 논의 세부 의제",
+          "FOMC 회의 간격 확대에 따른 시중 금리 변동성",
+          "금리 결정 축소에 대한 글로벌 중앙은행들의 반응"
         ],
         "qna": [
           {
-            "q": "연준이 수십 년간 유지해온 연 8회 회의 관행을 깨고 7회로 축소하려는 근본적인 목적은 무엇인가?",
-            "a": "매달 지표에 반응해 금리를 결정하는 방식에서 벗어나 통화정책의 장기적 일관성을 확보하고 정책 효과를 점검할 충분한 시간을 갖기 위함이다. 특히 10월을 전략 논의의 달로 지정함으로써 급변하는 경제 구조에 맞춘 정책 프레임워크를 정교화하려는 의도가 담겨 있다."
+            "q": "연준이 금리 결정 회의를 연 8회에서 7회로 축소하고 10월을 전략 논의로 전환하는 관행 수정의 배경은 무엇인가?",
+            "a": "단기 데이터 변화에 일희일비하며 시장 변동성을 키우는 잦은 금리 결정을 피하고 중장기 통화정책 틀을 재점검하기 위함이다. 10월을 전략 집중 달로 지정함으로써 정책 신호의 선명도를 높이려는 의도가 담겨 있다."
           },
           {
-            "q": "회의 횟수가 줄어들면 금리 결정 사이의 간격이 길어지는데 이것이 금융 시장의 변동성을 오히려 키울 위험은 없는가?",
-            "a": "회의 간격이 넓어지면 그사이 축적된 경제 지표들이 한꺼번에 반영되면서 금리 결정 당일의 시장 충격이 더 커질 수 있는 위험이 존재한다. 연준은 이를 방지하기 위해 회의 사이 기간에 위원들의 발언이나 경제 전망 보고서를 통해 시장과의 소통을 더욱 강화할 것으로 예상된다."
+            "q": "금리 결정 회의 축소가 글로벌 금융시장의 거래량 및 자산 가격 변동성 주기에 어떠한 파급 효과를 주는가?",
+            "a": "회의 사이의 간격이 길어짐에 따라 정책 공백 기간 동안 경제 지표 발표에 따른 시장의 과도한 쏠림과 변동성이 커질 수 있다. 또한 10월 금리 결정 부재로 4분기 자산 시장의 정책 예측 부담이 11월과 12월 회의로 집중된다."
           },
           {
-            "q": "2027년부터 시행되는 이 변화가 당장 내년과 내후년의 통화정책 경로에 어떤 사전적 영향을 미치는가?",
-            "a": "내년부터 이미 7회 개최 일정이 예고된 만큼 시장은 연준의 정책 호흡이 길어지고 있음을 선반영하여 금리 인상이나 인하 기대감을 조정할 것이다. 이는 투자자들이 단기 지표 하나에 과잉 반응하기보다 연준의 장기적인 가이던스에 더 집중하게 만드는 효과를 낼 수 있다."
+            "q": "연준의 7회 개편안이 시중 금리 흐름 및 자산 시장에서 긍정적 호재로 작용할 분기점은 무엇인가?",
+            "a": "회의 횟수 감소가 연준의 정책적 불확실성을 낮추고 예측 가능한 통화 정책 로드맵으로 안착하느냐에 달렸다. 분기별 정례 경제전망과의 연계성이 높아져 시장이 중앙은행의 장기 스탠스를 명확히 읽을 수 있을 때 호재가 된다."
           }
         ]
       },
-      "유가 급등과 국채금리 상승": {
-        "headline": "美 국채금리 5.1% 돌파, 유가 상승과 추가 금리 인상 전망 확산",
+      "국채 금리 급등": {
+        "headline": "미 10년물 국채 금리 5.109% 급등 및 긴축 우려",
         "facts": [
-          "미국 10년물 국채금리가 5.109%까지 급등하며 시장에 충격을 주었으며 이는 유가 상승과 연준의 추가 금리 인상 전망이 결합된 결과이다.",
-          "국제 유가 급등은 인플레이션 재점화 우려를 자극했고 이는 국채 매도세로 이어지며 금리를 가파르게 끌어올리는 동력이 되었다.",
-          "10월 수입물가는 환율과 유가 하락 영향으로 전월 대비 1.8% 하락했으나 최근의 유가 반등세로 인해 향후 물가 부담은 다시 커질 전망이다.",
-          "뉴욕증시는 젠슨 황 사임 충격에 금리와 유가 상승이라는 악재가 더해지며 나스닥을 포함한 주요 지수가 하락 압력을 받았다."
+          "미국 10년 만기 국채 금리가 연준의 긴축 장기화 전망과 유가 상승 부담이 가중되면서 5.109%까지 급등했다.",
+          "통화정책에 민감하게 반응하는 미 국채 2년물 금리 역시 4.765%로 상승하며 시장의 금리 인상 공포를 반영했다.",
+          "미국과 일본의 금리 차이가 다시 벌어질 것이라는 전망에 달러당 엔화 환율이 160엔 선을 위협받는 등 외환 시장이 출렁였다.",
+          "장기 국채 금리의 지속적 상승은 기업 자금 조달 비용을 높이고 글로벌 자산 시장의 평가 가치를 하락시키는 압력으로 작용했다."
         ],
         "watch": [
-          "미 국채 10년물 금리의 5.2% 돌파 여부",
-          "국제 유가 상승세가 국내 소비자물가에 전이되는 시차",
-          "연준 위원들의 추가 금리 인상 필요성 관련 발언 수위"
+          "미 국채 10년물 금리의 5.1% 돌파 후 추가 상승 여부",
+          "달러/엔 환율 160엔선 돌파에 따른 일본 당국 개입",
+          "미 재무부 장기채 발행 규모 및 입찰 수요"
         ],
         "qna": [
           {
-            "q": "미 국채 10년물 금리가 5.1%를 돌파한 상황에서 유가 상승이 금리를 밀어 올리는 구체적인 메커니즘은 무엇인가?",
-            "a": "유가 상승은 생산 및 운송 비용을 높여 기대 인플레이션을 자극하고 이는 중앙은행의 긴축 기조를 장기화할 것이라는 공포를 낳기 때문이다. 투자자들이 채권 보유에 대한 더 높은 프리미엄을 요구하면서 채권 가격은 떨어지고 수익률인 금리는 급등하게 된다."
+            "q": "미 10년물 국채 금리가 5.109%까지 폭등하는 과정에서 연준의 추가 인상 전망과 유가가 작용한 메커니즘은 무엇인가?",
+            "a": "국제유가 상승이 인플레이션 상방 압력을 자극하면서 연준의 긴축 조기 종료 기대감이 무너졌기 때문이다. 이에 따라 시장 참여자들이 고금리 장기화 및 추가 인상을 가격에 반영하며 장기 국채 매도세를 유발했다."
           },
           {
-            "q": "10월 수입물가가 1.8% 하락했음에도 불구하고 시장이 향후 물가 상승을 더 우려하는 이유는 무엇인가?",
-            "a": "10월 지표는 과거의 환율 및 유가 하락이 반영된 후행적 수치일 뿐 현재 진행 중인 유가 급등과 국채금리 상승세는 반영되지 않았기 때문이다. 최근의 비용 상승 요인들이 시차를 두고 수입물가에 전이되면 내년 초 물가 안정 가도에 차질이 생길 수 있다는 분석이 지배적이다."
+            "q": "미국 장기 국채 금리 급등이 미일 금리 격차를 넓히며 엔화 환율과 글로벌 기술주에 가져온 파급 경로는 무엇인가?",
+            "a": "미국 국채 수익률 상승은 달러 강세를 촉진해 엔/달러 환율을 160엔 선까지 끌어올리며 엔화 약세를 심화시켰다. 한편 할인율 상승으로 고평가된 기술주들의 미래 수익 가치가 떨어져 증시 하락 압력으로 작용했다."
           },
           {
-            "q": "국채금리 5.1% 돌파가 기술주 중심의 나스닥 지수에 미치는 직접적인 타격 경로는 어떻게 되는가?",
-            "a": "미래 수익을 현재 가치로 할인해 주가를 산정하는 기술주 특성상 할인율인 국채금리가 오르면 기업 가치가 하락하기 때문이다. 특히 엔비디아 같은 고밸류에이션 종목들은 금리 상승 시기에 자금 조달 비용 부담과 투자 심리 위축이 겹치며 하락 폭이 더 커지는 경향을 보인다."
+            "q": "치솟는 국채 금리가 진정되고 채권 시장이 하락세에서 벗어날 구체적인 분기점은 무엇인가?",
+            "a": "미국의 고용 및 물가 지표가 확실한 둔화 세를 보여 연준의 추가 긴축 명분이 소멸되는 시점이 분기점이다. 또한 미 재무부의 장기채 발행 규모 축소 발표 등 수급 부담 완화 신호가 나와야 금리가 안정을 찾을 수 있다."
           }
         ]
       }
     },
     "news": {
-      "코스피 2%대 상승": [
+      "아파트값 상승 둔화": [
         {
-          "title": "코스피, 젠슨 황 '불명예 퇴진' 충격 딛고 2%대 상승 출발 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xbzFWRzkzQVV6OUp2aExEQTJTMEIwNTNLa2d3SUFPTDNMeHZ0Y3RhcEM4QVNRYW85SUlOek45Yjh6SEZOaTJuMEwxYkxaNllCcWpyTXBIenJ5UVVDLXJPbXZoWXluelJ4dC1iNGxDU3I?oc=5",
-          "source": "연합인포맥스",
-          "published": "11-13 09:32",
-          "snippet": "코스피, 젠슨 황 '불명예 퇴진' 충격 딛고 2%대 상승 출발 연합인포맥스 상승 출발 코스피, 李간담회 직후 음전…외인도 '팔자'로 연합인포맥스 나흘만에 순매도 돌아선 외국인…수급 변동성 여전 - 머니투데이 머니투데이 '젠슨황 사임' 여파 지속?…하이닉스, 3% 급락…삼전도 0.96%↓(종합) 연합뉴스 코스피, 0.98% 하락 마감‥반도체 대형주 약세 MBC 뉴스"
+          "title": "정부 “서울 아파트값 상승 둔화·매물 증가…집값 하향 안정 지표 확대” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WOEVWYm13RmNObk1TcWhQdFFGQjNITG5hQ3pOZUR2RzBwSk1wYnByMjlfdWYzbHM3b0M3WFhUaVpORlFFeWdHdmlnVXdMM3ZYR1dwQUx4ck0zQ0hEajJCa2RXblpvbF8z?oc=5",
+          "source": "한겨레",
+          "published": "11-13 18:16",
+          "snippet": "정부 “서울 아파트값 상승 둔화·매물 증가…집값 하향 안정 지표 확대” 한겨레 정부 \"서울 주택 가격 상승 둔화…수도권 내년 1분기까지 4만호 입주\" 머니투데이 국토부 \"서울 집값 하향 안정 지표 확대‥강북·경기 상승세는 불안 요인\" MBC 뉴스 서울 주택 인허가 33%·착공 36% 증가…수도권 4만4000가구 입주 예정 에너지경제신문 李 질타한 보상금 받고도 '버티기'…국토부 \"이행강제금·장려금 병행\" 파이낸셜뉴스"
         },
         {
           "title": "코스피 장 초반 2% 상승‥'젠슨 황 사임' 여파 주시 - MBC 뉴스",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uNm12VDJrSHY3djVXaW5TdE9yenhGRm5lZTVXTjM0SGJHQnpfZHB5QzlyQnVBSWpRN3JiY0hFdmY4RG9rUWlSek5iaUdjR3pTRGw1SklaU2hOMy04UGNGUUZXS2FJc3JNOXdtdG1NTkFJZHBZ0gF0QVVfeXFMT24xbGNyX1ZYdURBSEVDSXRZeGk2eHVWTHpNczE0M21SVmozT21zY1NIQ1BKZWNnX295ekFkSUk1RlRid0gwV2J1WFNqWXFXZUN6dThZQWp2UXF3SkRkemVFRjR4UGlveFRpVVA3OVdUV0I2cnk?oc=5",
           "source": "MBC 뉴스",
           "published": "11-13 09:24",
-          "snippet": "코스피 장 초반 2% 상승‥'젠슨 황 사임' 여파 주시 MBC 뉴스 \"급락장에 속지 마라…결국 제자리 찾아간다\" 한국경제 코스피·코스닥 동반 상승 KBS 뉴스 반도체 훈풍에 코스피 5,400선 방어…엔비디아 경영 불확실성은 부담 제민일보 코어위브 호재냐, 젠슨 황 악재냐…코스피 5400선 줄다리기 팽팽 - 머니투데이 머니투데이"
+          "snippet": "코스피 장 초반 2% 상승‥'젠슨 황 사임' 여파 주시 MBC 뉴스 \"급락장에 속지 마라…결국 제자리 찾아간다\" 한국경제 코스피, 사흘 연속 반등시도...코스닥은 '숨 고르기' YTN 반도체 훈풍에 코스피 5,400선 방어…엔비디아 경영 불확실성은 부담 제민일보 코스피, 엔비디아 급락 충격에도 상승 개장 Chosunbiz"
+        },
+        {
+          "title": "코어위브 25% 급등에 AI株 반등…나스닥 1.6% 상승 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORkxHMmVmV1lFdEtwQ3ZuTWNaR1VqR0ZKdHRLdFVWRDl2WkhmeWp1aFhLdTg5WmozSUdHM1dwVVFJcFVsWEc0OW54MFJsYk02Z0VydFZCRmZnZ2VZakRqeHVjaGFjQ24wcHg5bVlCMjZiQ1FQSTJMeFdJOVJXSlNaM2YwMS1GT2ND?oc=5",
+          "source": "조선일보",
+          "published": "11-12 07:28",
+          "snippet": "코어위브 25% 급등에 AI株 반등…나스닥 1.6% 상승 조선일보 코어위브가 불 지폈다, 뉴욕증시 일제히 상승 네이버페이 머니스토리 S&P500 선물, 엔비디아 충격 딛고 상승…美 국채금리↓ 연합인포맥스 코어위브, CEO 8억달러 주식 매각 후 추가 매도 중단 마켓인 미국 AI주 랠리...코스피 사흘 연속 반등하나 YTN"
         },
         {
           "title": "상승 출발 코스피, 李간담회 직후 음전…외인도 '팔자'로 - 연합인포맥스",
@@ -700,11 +703,92 @@
           "snippet": "상승 출발 코스피, 李간담회 직후 음전…외인도 '팔자'로 연합인포맥스"
         },
         {
-          "title": "코스피, 0.98% 내린 5,290.53 마감…코스닥은 소폭 상승 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56YTViWEUtUTVEUmVhWmVic2NPMFJoeHFPdEVkR2p4X0JNc0ZDRWhMWXdXZnk2eVV4Q3REc2lLbFh1dElVMHBXaS02UjJDUkpoVWtCM2FVNHp6ajJOaXBhajFiay1pX3c?oc=5",
+          "title": "'젠슨 황 사임'에도 코스피·코스닥 동반상승 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvQUVCTXpaNlBkX0xMRlRsdzliekE5MHFwRnk3dHBtWW9paUt2c3dGWGFLcncyUTZzUFh5c2w1TTAyWGZ0S3FrR1hGZkNkMkZnVlJHS19LLXRKUG5EQktJSHAtekNCZ29wYnFyODVsQQ?oc=5",
+          "source": "YTN",
+          "published": "11-13 12:07",
+          "snippet": "'젠슨 황 사임'에도 코스피·코스닥 동반상승 YTN"
+        },
+        {
+          "title": "[속보] 상승 출발했던 코스피, 0.98% 하락으로 마감 - 대구MBC",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0b011Uzk4OWRTXzRHd25XM0ljY3A5WEZTcjdqdkE2TWVQdWF1dTBEd1Z6SUtDYU9tZFZiNnVHRUVJN2pyYzVxMnQxU2M?oc=5",
+          "source": "대구MBC",
+          "published": "11-13 15:43",
+          "snippet": "[속보] 상승 출발했던 코스피, 0.98% 하락으로 마감 대구MBC"
+        }
+      ],
+      "가상자산 해킹 확산": [
+        {
+          "title": "가상자산 잇단 해킹에 “의심되면 입출금 선제 차단” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NRVlQNTFPc2VsQ21jbjFLckthSUJRUXZQNjFkbDVKdVdTUEhieTk1dVYxSFZWZFlnaEJieE9mREhweEJkTklyY3JXdHpoSkRXUkV5dW5ZQXQ4MEU?oc=5",
+          "source": "KBS 뉴스",
+          "published": "11-13 08:10",
+          "snippet": "가상자산 잇단 해킹에 “의심되면 입출금 선제 차단” KBS 뉴스 \"해킹 의심 땐 입출금 선제 차단\"...가상자산거래소 보안 강화 YTN 사이언스 가상자산업권 보안대책회의하는 신진창 금융위 부위원장 뉴시스 ‘플라이빗’ 개인정보 40건 유출... 다우기술 그룹웨어 해킹 3번째 피해 보안뉴스 [위클리크립토] 금융위, 디지털자산 거래소에 ‘금융사 수준’ 보안 요구 外 동아일보"
+        },
+        {
+          "title": "금융위, 해킹에 뚫린 금융보안원 다음 주 감사 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03d2dGbmFobnhxUVBNNVBkdFI3MnV0Q0RhN3c4MnMyTDNfOTVwNUJYaU1ybWhkWDVMTFlwb3RUWF9NRlhRYUtKeFhhNUY5V1Rub1N6bXJLeUhYSEZDZHA5cno2TkFpSXk1OTNCd1Rnem8yVVV60gF0QVVfeXFMUHpjN0otVENMMUY2dHlldUU2eV9ObVczR192NG81N2R1TnZsdHlCN2NNQ2RPMlhlVS1NLS0zR0FYelQ2d2hEcWpHTXR0aUVMUWZiUU5mcXRVWE5CRzgzYVJKYV8tOTdqZEMzZkthUlVJY2tmSE8?oc=5",
+          "source": "MBC 뉴스",
+          "published": "11-12 19:00",
+          "snippet": "금융위, 해킹에 뚫린 금융보안원 다음 주 감사 MBC 뉴스 해킹 당한 금융보안원 “공격 IP 246개 차단완료…국적은 한국” 매일경제 마켓 금융보안원 해킹 공격, 금감원 권한 ID 만들어 탈취 YTN 사이언스 고개 숙인 금융보안원…금융권 해킹 수습 기준 보여줘야 마켓인 초유의 금융보안원 해킹 사태에 “스스로도 못 지키면서 훈계만 한 셈” 미디어오늘"
+        },
+        {
+          "title": "카카오워크 해킹, 업무 정보 줄줄... ‘종단간 암호화’ 무색 - 보안뉴스",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVWk1aRWJWYzhZbDlTaXpNRWF0NzV4NE5MaHc5QjhqRmNLYjNvU2V1X1NGQXBsdU8zUnd0MmdqLU9DYzc5S3FIZ1dOa01jSGFWTVd2SnBmQXctcmMyWGE3Q3lWZUJTNk5VNVlJ?oc=5",
+          "source": "보안뉴스",
+          "published": "11-13 10:36",
+          "snippet": "카카오워크 해킹, 업무 정보 줄줄... ‘종단간 암호화’ 무색 보안뉴스 카카오워크 뚫렸다…카카오엔터프라이즈 전·현직 임직원 정보 유출 전자신문 카카오 기업용 메신저서 보안 사고…메일 본문·첨부파일 원본도 유출 뉴시스 카카오워크, 해킹으로 개인정보 유출…비밀번호 변경·사칭 주의 지디넷코리아 카카오워크 개인정보 유출…이름·연락처 등 노출 KBS 뉴스"
+        },
+        {
+          "title": "사생활 새나가는 홈캠…10대 중 3대 해킹 무방비 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrVUw2dUx4TzhqZTQ5ckYzcEEzU3NZeDNUS3J1VDRzXzZmdUs3TU1wdFVEYXJlRm02eVlNZEM4UVNJUnF6c2JZZFE0bUtVeTFKWDFsajE3VzNMVjg?oc=5",
+          "source": "KBS 뉴스",
+          "published": "11-12 12:09",
+          "snippet": "사생활 새나가는 홈캠…10대 중 3대 해킹 무방비 KBS 뉴스 대책 2년 지났지만...여전히 보안 취약한 IP 카메라 YTN 사이언스 카메라 원격 조작 취약점 등 발견... 한국소비자원·KISA, IP 카메라 보안 점검 결과 발표 보안뉴스 집에 ‘이것’ 뒀을 뿐인데 “남이 안방 훤히 훔쳐보는 수준”…10개 제품 조사했더니 서울경제 [오늘의 브릿지경제 1면] 보안 구멍 뚫린 홈캠… 사생활 ‘탈탈’ 털린다 브릿지경제"
+        },
+        {
+          "title": "핵미사일보다 치명적인 한 방…AI 달고 8조 원 털어간 북한 해커들 - 스브스프리미엄",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wR0Jud1JPb3g4a0RYSDVPRS1aVmlHWHExeHV3RkZJemxXWTJtenNzOWlWV1o1Wnl4aUVlZHhBa19nTWNQRzRzaFJCWVczanNjSWE2WDJB?oc=5",
+          "source": "스브스프리미엄",
+          "published": "11-12 14:00",
+          "snippet": "핵미사일보다 치명적인 한 방…AI 달고 8조 원 털어간 북한 해커들 스브스프리미엄 AI로 신분 위장·탈취도 순식간에…북 해킹의 진화 KBS 뉴스 지인 화상회의 초대장, 알고보니 가짜…북 배후 ’페이스스틸러’ 해킹 연합뉴스TV 美 법무부, 바이낸스 해킹 자산 회수 본격화…12억 달러 압류 승인 지디넷코리아 FBI \"北해커들, 18개월간 가상자산 5300억 탈취\" 마켓인"
+        },
+        {
+          "title": "해킹 의심만으로 가상자산 입출금 차단 허용 - 세이프타임즈",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VN0JXM1BMdzl2MWhuN1ZwUElXOUFXa2pwZTJTQ3daaUVnY1BnY3lWNUVuQWs5Tk5rNnBGY0RTV0FfSmQweXdXYkVyS0hKRnhfanowaHhrY04tSnVjUUhhZDBLTVYtRFlCUUZFY3BWVdIBc0FVX3lxTFB6WTNXaEFoUnZNRlpYcS1xZXlReG5sd2lCbDFCVmViTEx4b0NpUjl5U25IcU5SdllSTjVGQWs0SG50SXV2U3RJOTZIZTRrcEtVamZ6UWZ4RXktU0hUbFFTNVptUjdjQ3dFanluR053cHhycEk?oc=5",
+          "source": "세이프타임즈",
+          "published": "11-13 08:24",
+          "snippet": "해킹 의심만으로 가상자산 입출금 차단 허용 세이프타임즈"
+        }
+      ],
+      "10월 수입물가 하락": [
+        {
+          "title": "환율·유가 동반 하락에 10월 수입물가 1.8%↓ - 한국무역협회-KITA.NET",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMjRWWXZLeXpNNWlsamlKV3BMd1NneVpSbzdZVXRWVmJMVjZZX2c0LXJsaVB2SlNDR0RadlUwRlVaaElYTFVTT0UwUHIwdHRVU2JBNVU2Qk9UV3JnV0w0a2hmcmJuallJRTg1QTNzWF9Ma2lYRUFjbDItRGQ2bEFUM3U0ZmJ1MW9rZTZXY3l3WDZ0VWEyYXdPVjMxNzBRRHU2cnNKd0pLb1BRQnI1dWUxd194eDUwNVNMZDZLTkVRT3BGXzJvcnlQalVHc0xRLUJ5RE0xWG1B?oc=5",
+          "source": "한국무역협회-KITA.NET",
+          "published": "11-13 13:59",
+          "snippet": "환율·유가 동반 하락에 10월 수입물가 1.8%↓ 한국무역협회-KITA.NET Google 뉴스에서 헤드라인 및 의견 더보기"
+        },
+        {
+          "title": "'젠슨황 퇴임'에도 장중 3%까지 올랐던 코스피, 0.98% 하락 마감(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80NlRiSXk5cjRMUXpSSHlselJfSmRTUmNqQnAyZXZwQ3NORzJrNWZOQTY2U3gtc1VQUEJQYUd3V08xT01paDRndzVPM0xUbTNyX0dTaFJzUDdxNW_SAWBBVV95cUxQdGh3RmNOSzBaQ1RWMG90R1UtckJjejJkQlhKN0VJU184TktQY2dORnZBSUtSdW4zc2pPYlA1eEQzeVl2YVNhdkgxWFlUYUF0ZUNvbjNTRnQ0aUk4TXhua1U?oc=5",
+          "source": "연합뉴스",
+          "published": "11-13 16:23",
+          "snippet": "'젠슨황 퇴임'에도 장중 3%까지 올랐던 코스피, 0.98% 하락 마감(종합) 연합뉴스 젠슨 황 쇼크에 출렁인 코스피, 이틀 연속 하락했다고? 네이버페이 머니스토리 상승 출발 코스피, 李간담회 직후 음전…외인도 '팔자'로 연합인포맥스 [연합뉴스 이 시각 헤드라인] - 18:00 연합뉴스 코스피, 장중 하락 전환…외국인 ‘팔자’로 돌아서 KBS 뉴스"
+        },
+        {
+          "title": "내년 전국 오피스텔·상가 2년 연속 내림세…경기·인천도 동반 하락 - 경기일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KNTJIZzRhZkt5V2hLZDdxYjJfUHhtSGk0SVRCRmhmOEc5Z1hYRDJnQVVwOVFMWlZhMm5SM054RW16aHZsY0hWTzJKYXNjeHZvaEU3ZVVkSUI5QTg?oc=5",
+          "source": "경기일보",
+          "published": "11-12 15:01",
+          "snippet": "내년 전국 오피스텔·상가 2년 연속 내림세…경기·인천도 동반 하락 경기일보 서울 오피스텔만 오른다···전국 오피스텔 기준시가 4년 연속 하락 경향신문 내년 서울 오피스텔 기준시가 2% 상승 전망…전국은 4년째 하락 연합인포맥스 국세청, 내년도 오피스텔·상업용 건물 기준시가안 공개…경기·인천 하락 중부일보 2년 연속 전국 오피스텔·상업용 건물 기준시가 '↓뚝'…서울만 '상승' - 머니투데이 머니투데이"
+        },
+        {
+          "title": "코스피, 장중 5,500선 돌파 후 하락 반전 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12ZF82XzZxUDlyc0hoaVdobHRnS21PMDZVa3JpVWlmdFMwX05mb0wwY2dhZU84TlE5TEhYT1JNUzZEODJwalNRQU0tNmJxcU5rcTE1YXNUVE5ONWN0TUJKUnFUTVJaQUk?oc=5",
           "source": "연합뉴스TV",
-          "published": "11-13 15:40",
-          "snippet": "코스피, 0.98% 내린 5,290.53 마감…코스닥은 소폭 상승 연합뉴스TV"
+          "published": "11-13 18:23",
+          "snippet": "코스피, 장중 5,500선 돌파 후 하락 반전 연합뉴스TV"
         },
         {
           "title": "[속보] 상승 출발했던 코스피, 0.98% 하락으로 마감 - 대구MBC",
@@ -714,102 +798,14 @@
           "snippet": "[속보] 상승 출발했던 코스피, 0.98% 하락으로 마감 대구MBC"
         },
         {
-          "title": "'젠슨 황 사임'에도 코스피·코스닥 동반상승 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvQUVCTXpaNlBkX0xMRlRsdzliekE5MHFwRnk3dHBtWW9paUt2c3dGWGFLcncyUTZzUFh5c2w1TTAyWGZ0S3FrR1hGZkNkMkZnVlJHS19LLXRKUG5EQktJSHAtekNCZ29wYnFyODVsQQ?oc=5",
-          "source": "YTN",
-          "published": "11-13 12:07",
-          "snippet": "'젠슨 황 사임'에도 코스피·코스닥 동반상승 YTN"
+          "title": "美연준, 내년 '금리 결정' FOMC는 7번만…10월엔 전략 논의 집중 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VSEFvcTlyZHlUeGZiQUR6SmdlTk1JZFpxSE1tdWsyY2kweldQM181WkZoWWN5NlpzYTlJZkJ6aWRNVEpJN2lkT09lSTAxNFlncE1STHNZd0duZ3fSAWBBVV95cUxQUGhyTWtLMVM5Z2p5TS1RaWdMRVF6UXR4NVpsbk5EakxiRU9zNkFqcGhuaDhQZGN0UUw2WDhxVDNLWHA1Tlh1Sl8tUkM3MWk3UFF0NEdhNjFvWTVkRDZ2MEc?oc=5",
+          "source": "연합뉴스",
+          "published": "11-13 05:37",
+          "snippet": "美연준, 내년 '금리 결정' FOMC는 7번만…10월엔 전략 논의 집중 연합뉴스"
         }
       ],
-      "서울 아파트값 상승 둔화": [
-        {
-          "title": "정부 “서울 아파트값 상승 둔화·매물 증가…집값 하향 안정 지표 확대” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WOEVWYm13RmNObk1TcWhQdFFGQjNITG5hQ3pOZUR2RzBwSk1wYnByMjlfdWYzbHM3b0M3WFhUaVpORlFFeWdHdmlnVXdMM3ZYR1dwQUx4ck0zQ0hEajJCa2RXblpvbF8z?oc=5",
-          "source": "한겨레",
-          "published": "11-13 11:49",
-          "snippet": "정부 “서울 아파트값 상승 둔화·매물 증가…집값 하향 안정 지표 확대” 한겨레 정부 \"서울 주택 가격 상승 둔화…수도권 내년 1분기까지 4만호 입주\" 머니투데이 국토부 \"서울 집값 하향 안정 지표 확대‥강북·경기 상승세는 불안 요인\" MBC 뉴스 수도권 아파트에 내년 1분기까지 4만4천 가구 입주(종합) 매일경제 마켓 서울 주택 인허가 33%·착공 36% 증가…수도권 4만4000가구 입주 예정 에너지경제신문"
-        },
-        {
-          "title": "서울 강북·경기 남부 아파트 값 강세 이어가 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdXFtV1J3VlloUXAzc1QtNHprY2t0VmFIbjVmM2VUTmtzb3cxbXBGLWpLekpNNDVsTHhlN0NsS1AyaERHeEd1cXFyakVCeGpHVTRtNkM2LWdwTnlxNF9PSW1LSFdJZXFBZHF0N1ltV2hucV9hcmVVNnEtaGZVZnE3eGRwTkZjWmNv?oc=5",
-          "source": "조선일보",
-          "published": "11-13 06:44",
-          "snippet": "서울 강북·경기 남부 아파트 값 강세 이어가 조선일보 세제 개편에 재초환 부담까지…강남 3구 하락세 지속 KBS 뉴스 \"내 집 어디에 있나\" 정부, '서울 주택시장 가격 상승세 꺾였다'는데..근거는 [3차 주택공급 정례브리핑] 파이낸셜뉴스 강동 33주·성동 32주 만에 하락…서울 아파트값 5개 구 '마이너스' 뉴스1 서울 아파트 매물 쌓이는데, 거래는 '실종'…집값 하락 신호일까 뉴시스"
-        },
-        {
-          "title": "코스피, 젠슨 황 '불명예 퇴진' 충격 딛고 2%대 상승 출발 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xbzFWRzkzQVV6OUp2aExEQTJTMEIwNTNLa2d3SUFPTDNMeHZ0Y3RhcEM4QVNRYW85SUlOek45Yjh6SEZOaTJuMEwxYkxaNllCcWpyTXBIenJ5UVVDLXJPbXZoWXluelJ4dC1iNGxDU3I?oc=5",
-          "source": "연합인포맥스",
-          "published": "11-13 09:32",
-          "snippet": "코스피, 젠슨 황 '불명예 퇴진' 충격 딛고 2%대 상승 출발 연합인포맥스 상승 출발 코스피, 李간담회 직후 음전…외인도 '팔자'로 연합인포맥스 나흘만에 순매도 돌아선 외국인…수급 변동성 여전 - 머니투데이 머니투데이 '젠슨황 사임' 여파 지속?…하이닉스, 3% 급락…삼전도 0.96%↓(종합) 연합뉴스 코스피, 0.98% 하락 마감‥반도체 대형주 약세 MBC 뉴스"
-        },
-        {
-          "title": "코스피 장 초반 2% 상승‥'젠슨 황 사임' 여파 주시 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uNm12VDJrSHY3djVXaW5TdE9yenhGRm5lZTVXTjM0SGJHQnpfZHB5QzlyQnVBSWpRN3JiY0hFdmY4RG9rUWlSek5iaUdjR3pTRGw1SklaU2hOMy04UGNGUUZXS2FJc3JNOXdtdG1NTkFJZHBZ0gF0QVVfeXFMT24xbGNyX1ZYdURBSEVDSXRZeGk2eHVWTHpNczE0M21SVmozT21zY1NIQ1BKZWNnX295ekFkSUk1RlRid0gwV2J1WFNqWXFXZUN6dThZQWp2UXF3SkRkemVFRjR4UGlveFRpVVA3OVdUV0I2cnk?oc=5",
-          "source": "MBC 뉴스",
-          "published": "11-13 09:24",
-          "snippet": "코스피 장 초반 2% 상승‥'젠슨 황 사임' 여파 주시 MBC 뉴스 \"급락장에 속지 마라…결국 제자리 찾아간다\" 한국경제 코스피·코스닥 동반 상승 KBS 뉴스 반도체 훈풍에 코스피 5,400선 방어…엔비디아 경영 불확실성은 부담 제민일보 코어위브 호재냐, 젠슨 황 악재냐…코스피 5400선 줄다리기 팽팽 - 머니투데이 머니투데이"
-        },
-        {
-          "title": "S&P500 선물, 엔비디아 충격 딛고 상승…美 국채금리↓ - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9na3lMQk9Na2gyVEJKZTNKY1poZWMxOF9mTHh4czdWNVpWemtMZUpmNllnTXhnRTNQQkdqRG1UekVOS19yclFBNWtuUy1YQ056UU5IT1ZuaDBVeFJWSkU2UG5RZ1dsUnZKc2VKQ0I1dFQ?oc=5",
-          "source": "연합인포맥스",
-          "published": "11-13 12:15",
-          "snippet": "S&P500 선물, 엔비디아 충격 딛고 상승…美 국채금리↓ 연합인포맥스 코어위브가 불 지폈다, 뉴욕증시 일제히 상승 네이버페이 머니스토리 미국 AI주 랠리...코스피 사흘 연속 반등하나 YTN 코어위브, CEO 8억달러 주식 매각 후 추가 매도 중단 마켓인 [뉴스프레소] 뉴욕증시, 코어위브발 일제히 상승… 엔비디아 시간외 폭락, 후임은? - 머니투데이 머니투데이"
-        },
-        {
-          "title": "진에어·에어부산·에어서울 합병 인가‥공정위도 기업결합 승인 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UVXA1bFFwemh6NnM0ZkVqaGVsMUZrTHhLbVV5US1mWEVQUjAtRGdjcjFoUEVPQjQ0cEE3VV9ZME5XQnlCOFM4UE5HMFpjV29WRVduaDhQZmhLTmVtYVhMVENYVU1hcWZmNkFETG5qc3A2Unpl0gF0QVVfeXFMUFdEVjlXNFJsd2ZmMzRlWnNGd3ROS1JmVnZrdnlrZFFOak9ZMHljU0pqUGV5ZmVhS1dmSHRhX1FpalFXY2QzZGl4cGpzcmJNWU1JWFlndzNBakR1Zzdmb0hmTTRzU1ZIOFFKOGtXZ1c5aHBtbzE?oc=5",
-          "source": "MBC 뉴스",
-          "published": "11-12 15:26",
-          "snippet": "진에어·에어부산·에어서울 합병 인가‥공정위도 기업결합 승인 MBC 뉴스 진에어-에어서울-에어부산 내년 3월 17일 통합 LCC 출범 KBS 뉴스 [그래픽] 국내 LCC 항공 항공기 보유 현황 연합뉴스 진에어 3사 통합 승인 제주 관광시장 재편 촉각 제민일보 진에어·에어부산·에어서울 합병 인가…공정위 기업결합도 통과 경기일보"
-        }
-      ],
-      "플랫폼 및 금융사 해킹": [
-        {
-          "title": "카카오워크 해킹, 업무 정보 줄줄... ‘종단간 암호화’ 무색 - 보안뉴스",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVWk1aRWJWYzhZbDlTaXpNRWF0NzV4NE5MaHc5QjhqRmNLYjNvU2V1X1NGQXBsdU8zUnd0MmdqLU9DYzc5S3FIZ1dOa01jSGFWTVd2SnBmQXctcmMyWGE3Q3lWZUJTNk5VNVlJ?oc=5",
-          "source": "보안뉴스",
-          "published": "11-13 10:36",
-          "snippet": "카카오워크 해킹, 업무 정보 줄줄... ‘종단간 암호화’ 무색 보안뉴스 카카오워크 해킹으로 개인정보 유출… 메일·첨부파일도 포함 Chosunbiz 카카오 기업용 메신저 ‘카카오워크’ 해킹…메일 내용·첨부파일도 유출 동아일보 카카오 기업용 메신저서 보안 사고…메일 본문·첨부파일 원본도 유출 뉴시스 카카오워크 개인정보 유출…이름·연락처 등 노출 KBS 뉴스"
-        },
-        {
-          "title": "지인 초대 화상회의에서 악성코드…‘페이스스틸러’ 해킹 적발 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WRE4wZGxTV2Vwd3I0eHhEYnBRY0IyMDRSTTZYUzFjWFpoa3RHN1RuVC1WV2x1VHRhUFZrSGlZZXA0LURTdHNOWUd2eHZiTDBkX2RTTjN1VExzQWs?oc=5",
-          "source": "KBS 뉴스",
-          "published": "11-13 09:54",
-          "snippet": "지인 초대 화상회의에서 악성코드…‘페이스스틸러’ 해킹 적발 KBS 뉴스 핵미사일보다 치명적인 한 방…AI 달고 8조 원 털어간 북한 해커들 스브스프리미엄 FBI \"北해커들, 18개월간 가상자산 5300억 탈취\" 마켓인 지인 화상회의 초대장, 알고보니 가짜…북 배후 ’페이스스틸러’ 해킹 연합뉴스TV 美 법무부, 바이낸스 해킹 자산 회수 본격화…12억 달러 압류 승인 지디넷코리아"
-        },
-        {
-          "title": "가상자산 거래소 '플라이빗'도 해킹…고객 40명 주민번호·납세정보 유출 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwOURtVk5YdjBTVkhrYzVjOGFLM1RVNzdSNFRDcGJyUEU4YnRMQkdfNzhJME1yRHZOMFF2U3AzbnhIZHctaVhrZmJYSi15LXNWR1NlYmEwWHhZekNiVVk5VU5OLThPaGZERTltUkE4dkE?oc=5",
-          "source": "연합인포맥스",
-          "published": "11-12 17:58",
-          "snippet": "가상자산 거래소 '플라이빗'도 해킹…고객 40명 주민번호·납세정보 유출 연합인포맥스 ‘플라이빗’ 개인정보 40건 유출... 다우기술 그룹웨어 해킹 3번째 피해 보안뉴스 \"해킹 의심 땐 입출금 선제 차단\"...가상자산거래소 보안 강화 YTN 사이언스 가상자산업권 보안대책회의하는 신진창 금융위 부위원장 뉴시스 코인마켓 거래소 '플라이빗'도 해킹…\"고객 40명 정보 유출\" 연합뉴스"
-        },
-        {
-          "title": "사생활 새나가는 홈캠…10대 중 3대 해킹 무방비 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrVUw2dUx4TzhqZTQ5ckYzcEEzU3NZeDNUS3J1VDRzXzZmdUs3TU1wdFVEYXJlRm02eVlNZEM4UVNJUnF6c2JZZFE0bUtVeTFKWDFsajE3VzNMVjg?oc=5",
-          "source": "KBS 뉴스",
-          "published": "11-12 12:09",
-          "snippet": "사생활 새나가는 홈캠…10대 중 3대 해킹 무방비 KBS 뉴스 대책 2년 지났지만...여전히 보안 취약한 IP 카메라 YTN 사이언스 카메라 원격 조작 취약점 등 발견... 한국소비자원·KISA, IP 카메라 보안 점검 결과 발표 보안뉴스 [오늘의 브릿지경제 1면] 보안 구멍 뚫린 홈캠… 사생활 ‘탈탈’ 털린다 브릿지경제 “생중계 되는 우리집 사생활?” 홈캠 10개 중 3개 보안 허술 경향신문"
-        },
-        {
-          "title": "금융위, 해킹에 뚫린 금융보안원 다음 주 감사 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03d2dGbmFobnhxUVBNNVBkdFI3MnV0Q0RhN3c4MnMyTDNfOTVwNUJYaU1ybWhkWDVMTFlwb3RUWF9NRlhRYUtKeFhhNUY5V1Rub1N6bXJLeUhYSEZDZHA5cno2TkFpSXk1OTNCd1Rnem8yVVV60gF0QVVfeXFMUHpjN0otVENMMUY2dHlldUU2eV9ObVczR192NG81N2R1TnZsdHlCN2NNQ2RPMlhlVS1NLS0zR0FYelQ2d2hEcWpHTXR0aUVMUWZiUU5mcXRVWE5CRzgzYVJKYV8tOTdqZEMzZkthUlVJY2tmSE8?oc=5",
-          "source": "MBC 뉴스",
-          "published": "11-12 19:00",
-          "snippet": "금융위, 해킹에 뚫린 금융보안원 다음 주 감사 MBC 뉴스 금융보안원 해킹 공격, 금감원 권한 ID 만들어 탈취 YTN 사이언스 '보안은 경영이다'… CEO 책임 되새길 때 [줌인IT] IT조선 고개 숙인 금융보안원…금융권 해킹 수습 기준 보여줘야 마켓인 금보원 해킹, ‘가짜 금감원 계정’ 만들어 침투했다... ‘마스킹’ 없는 개인정보 유출 가능성도 보안뉴스"
-        },
-        {
-          "title": "삼성SDS 자회사 멀티캠퍼스 해킹, 임직원 개인정보 약 7만명 유출 - 데일리시큐",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rMG1KNHJkWUxwRXUzWWhueXFaZlNaZE9xRl9qNTZ4MWhvX0RjNTlGM1NxSFRLZU9VTzRhcDBFdnUxTWhEUEx3UkZQdmROX0w4TG1IVXBnM0NHS2l2QmJGc3VrQXFaeDdQZWMxeg?oc=5",
-          "source": "데일리시큐",
-          "published": "11-12 23:29",
-          "snippet": "삼성SDS 자회사 멀티캠퍼스 해킹, 임직원 개인정보 약 7만명 유출 데일리시큐"
-        }
-      ],
-      "엔비디아 CEO 사임 충격": [
+      "젠슨황 사임 충격": [
         {
           "title": "엔비디아 CEO 사임 충격에도 미국 주식 선물 반등 - Investing.com 한국어",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RZktSUWJBVVUyaXZodk1uSlI2dmhGSFhvSDA2RUdobEVnN0xHZXlsTnpuZGZ6SzAyV2tzOU1lbHFzQ2t0MS1JZ25kMVZ1Y3NnQ09wWldaLWVFUVdRRUZyQm9pLW03YzFTN2RPTDRDeC0?oc=5",
@@ -818,48 +814,48 @@
           "snippet": "엔비디아 CEO 사임 충격에도 미국 주식 선물 반등 Investing.com 한국어"
         },
         {
-          "title": "젠슨 황 엔비디아 CEO 사임·유가 급등에 뉴욕증시 일제히 하락 - 서울경제TV",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3eWN3bGJXeW53WW11c2gwWnAyT09yNzZGSnVoenVocllaWUI2djVCWHd6al9PQ2U2QlVucmRpZFNxNExaTl8zRW5GOFJ2NXdhSjlWbzRrcDVxbzE4MVhIdEpCVWY?oc=5",
-          "source": "서울경제TV",
-          "published": "11-13 08:57",
-          "snippet": "젠슨 황 엔비디아 CEO 사임·유가 급등에 뉴욕증시 일제히 하락 서울경제TV"
+          "title": "[뉴욕증시] 젠슨 황 사임 충격 나스닥 100.09P 하락...AMD·브로드컴 5%대 반사이익 - 글로벌이코노믹",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzUyUWJxM2Z4VlNQYktuSy1EU0lTeVJhN28wX0IxMXo4SVNlRTlfQ1djWW9rRlpfN0hmd21aNk1nb1UtN2FmMHB3OTRjQmF5UGFySWdUNExKeVBLMUtKeUNXb3JleDNZT291V1dzZHZ4WEtPWWdqOWJqNktjLWJMTmUySmJhLU51?oc=5",
+          "source": "글로벌이코노믹",
+          "published": "11-13 06:54",
+          "snippet": "[뉴욕증시] 젠슨 황 사임 충격 나스닥 100.09P 하락...AMD·브로드컴 5%대 반사이익 글로벌이코노믹"
         },
         {
-          "title": "[월가 레이더] 엔비디아 황 CEO 전격 사임에 5.5% 급락…나스닥 0.5%↓ - 포커스온경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZWHdZcFlBNHBKc3o5U1BzOFNadjg0dzNsZGc2MXRTc3dzT3p4NXNMcGFrQ25RdzFYN0kyemhhUUZIOG90S0w2aTVXWWVrNmxISVZjY0dBMTFUTWloUUVhRQ?oc=5",
-          "source": "포커스온경제",
-          "published": "11-13 05:21",
-          "snippet": "[월가 레이더] 엔비디아 황 CEO 전격 사임에 5.5% 급락…나스닥 0.5%↓ 포커스온경제"
+          "title": "뉴욕증시, 젠슨황 사임·유가상승에 일제 하락...나스닥도 내려 - 조세일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85anBENGlRcDZCcVktSk50am95YkNteUpnZWwtNGdUSC1WbjZtVjY0SlNIYmNEVjNyS3hndXB1c3FGRFJQWnIzb3BXUEQwUEQxc092U2d0eF93ZGl5NE1CblRsTlRROTRSVnNNQ0QyMA?oc=5",
+          "source": "조세일보",
+          "published": "11-13 08:20",
+          "snippet": "뉴욕증시, 젠슨황 사임·유가상승에 일제 하락...나스닥도 내려 조세일보"
         },
         {
-          "title": "뉴욕증시, 엔비디아 CEO 사임·유가 급등에 일제히 하락...나스닥 0.39%↓ - M이코노미뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51SnRpMWpJWmpoVnh5bFEta0lnaXNDang1NVphTzctTktEMW52YVhSQXNzNERjUGVfZVhlMDFCWTJvQWh6WUF2MDN1MVFpSGJwVnllOW5nZG9uYmFIc3BYRUlVUmI1Znc?oc=5",
-          "source": "M이코노미뉴스",
-          "published": "11-13 07:33",
-          "snippet": "뉴욕증시, 엔비디아 CEO 사임·유가 급등에 일제히 하락...나스닥 0.39%↓ M이코노미뉴스"
+          "title": "뉴욕증시, 젠슨 황 사임 충격에 3대 지수 하락…유가·금리 상승도 부담 - 마켓인",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92UDRITTdQV0MwYThvcERldFFLOHlaVWZLRElaLTNITU85emFyREJ4bmVnQ1U2ZDNiazR5YThtZXNwYnBvUFkxZWcwTFIyXzlYQVozREx0S1pOWjRqbzUxMmF2QlpWeDZPUXNRd0tzQzM1b0E?oc=5",
+          "source": "마켓인",
+          "published": "11-13 08:46",
+          "snippet": "뉴욕증시, 젠슨 황 사임 충격에 3대 지수 하락…유가·금리 상승도 부담 마켓인"
         },
         {
-          "title": "뉴욕증시, 젠슨 황 엔비디아 CEO 사임 속 혼조 출발 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DYUlDTnA5TUNXRmlDTjNORDZJbW9FMHBVcWVtYy13T0xxWlg1YlBvdWdmVGt1dHJ2bmkxVTU0ZV9YYmN4ZVV1X2pMMEVLbFJUcndTd0FyUmpLLVXSAWBBVV95cUxNSjFWUW12YUJiMWJCa0lIbkRUZ3J5NVVTVXlrM2hIRlRHYTFRV1dFaFlZd19rQWpRXzlUSG1ycVFFbzduZ3R6T2htTXpJWVpQVkpEUllsUExFMF9HZjl1Snk?oc=5",
-          "source": "연합뉴스",
-          "published": "11-12 23:55",
-          "snippet": "뉴욕증시, 젠슨 황 엔비디아 CEO 사임 속 혼조 출발 연합뉴스"
+          "title": "뉴욕증시, 젠슨 황 사임 충격에 동반 하락…나스닥 0.39%↓ - 우리경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tbURXRTBoSl9PUTdFQmltaEpLYkhLeGNTbXJEVmRtQVFBcXNOMnpUMllDakdxLVdlTEZ6aldSM0g4RXBKQjBTOGdCLW1GQ3RjOFFFMTNJX2U?oc=5",
+          "source": "우리경제신문",
+          "published": "11-13 10:47",
+          "snippet": "뉴욕증시, 젠슨 황 사임 충격에 동반 하락…나스닥 0.39%↓ 우리경제신문"
         },
         {
-          "title": "S&P500 선물, 엔비디아 충격 딛고 상승…美 국채금리↓ - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9na3lMQk9Na2gyVEJKZTNKY1poZWMxOF9mTHh4czdWNVpWemtMZUpmNllnTXhnRTNQQkdqRG1UekVOS19yclFBNWtuUy1YQ056UU5IT1ZuaDBVeFJWSkU2UG5RZ1dsUnZKc2VKQ0I1dFQ?oc=5",
-          "source": "연합인포맥스",
-          "published": "11-13 12:15",
-          "snippet": "S&P500 선물, 엔비디아 충격 딛고 상승…美 국채금리↓ 연합인포맥스 코어위브가 불 지폈다, 뉴욕증시 일제히 상승 네이버페이 머니스토리 미국 AI주 랠리...코스피 사흘 연속 반등하나 YTN 코어위브, CEO 8억달러 주식 매각 후 추가 매도 중단 마켓인 [뉴스프레소] 뉴욕증시, 코어위브발 일제히 상승… 엔비디아 시간외 폭락, 후임은? - 머니투데이 머니투데이"
+          "title": "뉴욕증시, 젠슨 황 사임 충격 속 하락…AMD·브로드컴은 '반사이익' - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIM0ZKQWFTZDlxaDVnZEtueElYZGlGWXVTRTl3ck1sdFRLTnVxQWFjWDdUdzJOS0N6R1VBVmFUX2YtMUwxczR6bFp5WjhuMWp2S3lQZU1wSzdnT3Fu?oc=5",
+          "source": "뉴스핌",
+          "published": "11-13 06:17",
+          "snippet": "뉴욕증시, 젠슨 황 사임 충격 속 하락…AMD·브로드컴은 '반사이익' 뉴스핌"
         }
       ],
-      "연준 FOMC 회의 축소": [
+      "연준 FOMC 축소": [
         {
-          "title": "美 연준, 2027년부터 금리 결정 회의 연 7회로 축소…수십 년 통화정책 관행 손질 - 글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbjZ0UDVkeHE2eDctTnVpYlQ3SlZMMkpwUmNuS0owVXZMOU42b2RzTUVnMUxqVHpib1l3eGtOa0RHeEw5YlRqblNQMkNsWXc3QVNkNFNEMHFBelpNQ0hNNnpITDVLZGRHdlBqTEtfSWtieWVHS2pmUWVISl9KdlM1bkxJS3ctVUhn?oc=5",
-          "source": "글로벌이코노믹",
-          "published": "11-13 16:18",
-          "snippet": "美 연준, 2027년부터 금리 결정 회의 연 7회로 축소…수십 년 통화정책 관행 손질 글로벌이코노믹"
+          "title": "‘금리 결정’ FOMC는 7번만 한다… 美 연준, 내년 일정 발표 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSWdLR0drek85UG54TlhJZjJEMWxSUzR5em1yM25XaXJqazlFaFVTc2diajlpZ0dNbHM2NmRjOEFhSlRJSGlHcWpyR1g4UDJpYzl4Y2NQblhBeVpmYktiQTdJRDJVeFVRWmkwazNqeU4wQ3pRd3Uyd25RZ1ZrTXJXeE9kYWV0R3pYdU5fS05FdklPdEoyRjNQclkwX3NVd9IBsgFBVV95cUxPckRZdUQzWnZfdF84b0poaGtDUkhRZ0dRVGRNeG9aNTBLLU81dlRKN3ZORER3ZUJUejZtb2hSVTRSUG9oeFdfcUQxVGJISGZzQmFsaHJRZFBQRFFtSFpBSEsweE1vWExsdkpEU0NRUXVTN253UnlHaXNfLUdzcXhNMVRIMHhxUlQzX2ljSjg2b2dBUV92TU53bWtieEVvcDh3ZmNpT0g3UGw2eVZJMmYyNG93?oc=5",
+          "source": "Chosunbiz",
+          "published": "11-13 15:20",
+          "snippet": "‘금리 결정’ FOMC는 7번만 한다… 美 연준, 내년 일정 발표 Chosunbiz"
         },
         {
           "title": "美연준, 내년 '금리 결정' FOMC는 7번만…10월엔 전략 논의 집중 - 연합뉴스",
@@ -867,13 +863,6 @@
           "source": "연합뉴스",
           "published": "11-13 05:37",
           "snippet": "美연준, 내년 '금리 결정' FOMC는 7번만…10월엔 전략 논의 집중 연합뉴스"
-        },
-        {
-          "title": "‘금리 결정’ FOMC는 7번만 한다… 美 연준, 내년 일정 발표 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSWdLR0drek85UG54TlhJZjJEMWxSUzR5em1yM25XaXJqazlFaFVTc2diajlpZ0dNbHM2NmRjOEFhSlRJSGlHcWpyR1g4UDJpYzl4Y2NQblhBeVpmYktiQTdJRDJVeFVRWmkwazNqeU4wQ3pRd3Uyd25RZ1ZrTXJXeE9kYWV0R3pYdU5fS05FdklPdEoyRjNQclkwX3NVd9IBsgFBVV95cUxPckRZdUQzWnZfdF84b0poaGtDUkhRZ0dRVGRNeG9aNTBLLU81dlRKN3ZORER3ZUJUejZtb2hSVTRSUG9oeFdfcUQxVGJISGZzQmFsaHJRZFBQRFFtSFpBSEsweE1vWExsdkpEU0NRUXVTN253UnlHaXNfLUdzcXhNMVRIMHhxUlQzX2ljSjg2b2dBUV92TU53bWtieEVvcDh3ZmNpT0g3UGw2eVZJMmYyNG93?oc=5",
-          "source": "Chosunbiz",
-          "published": "11-13 07:51",
-          "snippet": "‘금리 결정’ FOMC는 7번만 한다… 美 연준, 내년 일정 발표 Chosunbiz"
         },
         {
           "title": "연준, 내년 '금리 결정' FOMC 7차례 개최…10월엔 통화정책 전략만 | - 연합인포맥스",
@@ -895,16 +884,16 @@
           "source": "뉴시스",
           "published": "11-13 10:15",
           "snippet": "美연준, 2027년 FOMC 일정 공개…기준금리 결정 8번→7번 뉴시스"
+        },
+        {
+          "title": "美 연준, 2027년부터 금리 결정 회의 연 7회로 축소…수십 년 통화정책 관행 손질 - 글로벌이코노믹",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbjZ0UDVkeHE2eDctTnVpYlQ3SlZMMkpwUmNuS0owVXZMOU42b2RzTUVnMUxqVHpib1l3eGtOa0RHeEw5YlRqblNQMkNsWXc3QVNkNFNEMHFBelpNQ0hNNnpITDVLZGRHdlBqTEtfSWtieWVHS2pmUWVISl9KdlM1bkxJS3ctVUhn?oc=5",
+          "source": "글로벌이코노믹",
+          "published": "11-13 16:18",
+          "snippet": "美 연준, 2027년부터 금리 결정 회의 연 7회로 축소…수십 년 통화정책 관행 손질 글로벌이코노믹"
         }
       ],
-      "유가 급등과 국채금리 상승": [
-        {
-          "title": "S&P500 선물, 엔비디아 충격 딛고 상승…美 국채금리↓ - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9na3lMQk9Na2gyVEJKZTNKY1poZWMxOF9mTHh4czdWNVpWemtMZUpmNllnTXhnRTNQQkdqRG1UekVOS19yclFBNWtuUy1YQ056UU5IT1ZuaDBVeFJWSkU2UG5RZ1dsUnZKc2VKQ0I1dFQ?oc=5",
-          "source": "연합인포맥스",
-          "published": "11-13 12:15",
-          "snippet": "S&P500 선물, 엔비디아 충격 딛고 상승…美 국채금리↓ 연합인포맥스 코어위브가 불 지폈다, 뉴욕증시 일제히 상승 네이버페이 머니스토리 미국 AI주 랠리...코스피 사흘 연속 반등하나 YTN 코어위브, CEO 8억달러 주식 매각 후 추가 매도 중단 마켓인 [뉴스프레소] 뉴욕증시, 코어위브발 일제히 상승… 엔비디아 시간외 폭락, 후임은? - 머니투데이 머니투데이"
-        },
+      "국채 금리 급등": [
         {
           "title": "美 국채 10년물 금리 5.109% 급등…유가 상승·연준 추가 인상 전망 - 뉴스1",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xb2dScXVCS09nMjNpM1NjdTZKemZlRlJ5eThQejFzV000OEpYUXRTb25Ed1NDeU54aV9pOUluSXBhbDY5dnM3cDFVWWFCaG9XWnFkMEdxTGdfYVVjLWZZSUh5VFcxYVU?oc=5",
@@ -913,61 +902,57 @@
           "snippet": "美 국채 10년물 금리 5.109% 급등…유가 상승·연준 추가 인상 전망 뉴스1"
         },
         {
-          "title": "뉴욕증시, 젠슨황 사임·유가상승에 일제 하락...나스닥도 내려 - 조세일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85anBENGlRcDZCcVktSk50am95YkNteUpnZWwtNGdUSC1WbjZtVjY0SlNIYmNEVjNyS3hndXB1c3FGRFJQWnIzb3BXUEQwUEQxc092U2d0eF93ZGl5NE1CblRsTlRROTRSVnNNQ0QyMA?oc=5",
-          "source": "조세일보",
-          "published": "11-13 08:20",
-          "snippet": "뉴욕증시, 젠슨황 사임·유가상승에 일제 하락...나스닥도 내려 조세일보"
+          "title": "美 국채 2년물 금리 4.765%…연준 긴축 전망에 상승 - 글로벌이코노믹",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYlU5bU8zYVVDQUp1R2ducVJMM2s2QnZLbnVoMVFJakdOZFEyZFp3UDdacjE0UVpjOW5kRGFTZjFtRUF6RThPVUQwOXNvX21oVFRKZm55b2UtTnFaTXd6VVFzakw5bkhKdnVUTFhPRi1YT2lWdkEydEt0b2tiQmN2eXZKRlNJTlVx?oc=5",
+          "source": "글로벌이코노믹",
+          "published": "11-13 03:00",
+          "snippet": "美 국채 2년물 금리 4.765%…연준 긴축 전망에 상승 글로벌이코노믹"
         },
         {
-          "title": "[뉴욕증시] 나스닥, 젠슨 황 사임 충격에 0.39%↓…금리·유가 상승도 영향 - 신아일보",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDVWkxWUV6dFYzZmszZkM3aDhyZEhIYXE5RzBrR3VqcklrTkVzM1o3OWVmVUdLSnFoU2F2NGVFSGw3ZWlRYm9keWd2b014Y1ZWNDlvTkFOR2VMR0EzQWQ0RXBxNDZ6U084SnUya1REZUY?oc=5",
-          "source": "신아일보",
-          "published": "11-13 08:03",
-          "snippet": "[뉴욕증시] 나스닥, 젠슨 황 사임 충격에 0.39%↓…금리·유가 상승도 영향 신아일보"
+          "title": "코어위브 25% 급등에 AI株 반등…나스닥 1.6% 상승 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORkxHMmVmV1lFdEtwQ3ZuTWNaR1VqR0ZKdHRLdFVWRDl2WkhmeWp1aFhLdTg5WmozSUdHM1dwVVFJcFVsWEc0OW54MFJsYk02Z0VydFZCRmZnZ2VZakRqeHVjaGFjQ24wcHg5bVlCMjZiQ1FQSTJMeFdJOVJXSlNaM2YwMS1GT2ND?oc=5",
+          "source": "조선일보",
+          "published": "11-12 07:28",
+          "snippet": "코어위브 25% 급등에 AI株 반등…나스닥 1.6% 상승 조선일보 코어위브가 불 지폈다, 뉴욕증시 일제히 상승 네이버페이 머니스토리 S&P500 선물, 엔비디아 충격 딛고 상승…美 국채금리↓ 연합인포맥스 코어위브, CEO 8억달러 주식 매각 후 추가 매도 중단 마켓인 미국 AI주 랠리...코스피 사흘 연속 반등하나 YTN"
         },
         {
-          "title": "코스피, 젠슨 황 '불명예 퇴진' 충격 딛고 2%대 상승 출발 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xbzFWRzkzQVV6OUp2aExEQTJTMEIwNTNLa2d3SUFPTDNMeHZ0Y3RhcEM4QVNRYW85SUlOek45Yjh6SEZOaTJuMEwxYkxaNllCcWpyTXBIenJ5UVVDLXJPbXZoWXluelJ4dC1iNGxDU3I?oc=5",
-          "source": "연합인포맥스",
-          "published": "11-13 09:32",
-          "snippet": "코스피, 젠슨 황 '불명예 퇴진' 충격 딛고 2%대 상승 출발 연합인포맥스 상승 출발 코스피, 李간담회 직후 음전…외인도 '팔자'로 연합인포맥스 나흘만에 순매도 돌아선 외국인…수급 변동성 여전 - 머니투데이 머니투데이 '젠슨황 사임' 여파 지속?…하이닉스, 3% 급락…삼전도 0.96%↓(종합) 연합뉴스 코스피, 0.98% 하락 마감‥반도체 대형주 약세 MBC 뉴스"
-        },
-        {
-          "title": "환율·유가 동반 하락에 10월 수입물가 1.8%↓ - 한국무역협회-KITA.NET",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMjRWWXZLeXpNNWlsamlKV3BMd1NneVpSbzdZVXRWVmJMVjZZX2c0LXJsaVB2SlNDR0RadlUwRlVaaElYTFVTT0UwUHIwdHRVU2JBNVU2Qk9UV3JnV0w0a2hmcmJuallJRTg1QTNzWF9Ma2lYRUFjbDItRGQ2bEFUM3U0ZmJ1MW9rZTZXY3l3WDZ0VWEyYXdPVjMxNzBRRHU2cnNKd0pLb1BRQnI1dWUxd194eDUwNVNMZDZLTkVRT3BGXzJvcnlQalVHc0xRLUJ5RE0xWG1B?oc=5",
+          "title": "미일 금리격차 전망에 다시 출렁이는 엔화…달러당 160엔선 위협 - 한국무역협회-KITA.NET",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSFV3c2pBUTZUcklGWnhGRWlHRzdMa0xReDNuVkZDWE1fWlFGM1otTTF5WGRJRFIycmphWUhnZk9lYnYwR1dMMkFfTXhwb3JlV3hrY3JSd3hPUmdMWmtUcVVIR1NId2w5MjdObjZRa0toR3B0b3pBOTA1WHlxQjJhQWRxTlROcnNILTlIdEpLd1RxbTg3NW5xMlNfMkRaX2hFNkV1a1dzSGVjRlgyeUM1eWRtUUJURk8tYTlKTlZMS1c4UnBlX213UTZGU0Zxenl3Z3VuUDRn?oc=5",
           "source": "한국무역협회-KITA.NET",
-          "published": "11-13 08:05",
-          "snippet": "환율·유가 동반 하락에 10월 수입물가 1.8%↓ 한국무역협회-KITA.NET Google 뉴스에서 헤드라인 및 의견 더보기"
+          "published": "11-13 13:30",
+          "snippet": "미일 금리격차 전망에 다시 출렁이는 엔화…달러당 160엔선 위협 한국무역협회-KITA.NET 멈추지 않는 엔저... 엔화 또 달러당 160엔, 미일 금리 격차 확대 우려 조선일보 [도쿄환시] 달러-엔 소폭 하락…日재무관 발언에 개입 경계 연합인포맥스 미일 금리차 전망에 엔화 또 ’출렁’…달러당 160엔선 위협 연합뉴스TV 7월 엔화방어서 美의 투입 규모는…\"5억불 규모 유로화\" 확인 마켓인"
+        },
+        {
+          "title": "‘금리 결정’ FOMC는 7번만 한다… 美 연준, 내년 일정 발표 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSWdLR0drek85UG54TlhJZjJEMWxSUzR5em1yM25XaXJqazlFaFVTc2diajlpZ0dNbHM2NmRjOEFhSlRJSGlHcWpyR1g4UDJpYzl4Y2NQblhBeVpmYktiQTdJRDJVeFVRWmkwazNqeU4wQ3pRd3Uyd25RZ1ZrTXJXeE9kYWV0R3pYdU5fS05FdklPdEoyRjNQclkwX3NVd9IBsgFBVV95cUxPckRZdUQzWnZfdF84b0poaGtDUkhRZ0dRVGRNeG9aNTBLLU81dlRKN3ZORER3ZUJUejZtb2hSVTRSUG9oeFdfcUQxVGJISGZzQmFsaHJRZFBQRFFtSFpBSEsweE1vWExsdkpEU0NRUXVTN253UnlHaXNfLUdzcXhNMVRIMHhxUlQzX2ljSjg2b2dBUV92TU53bWtieEVvcDh3ZmNpT0g3UGw2eVZJMmYyNG93?oc=5",
+          "source": "Chosunbiz",
+          "published": "11-13 15:20",
+          "snippet": "‘금리 결정’ FOMC는 7번만 한다… 美 연준, 내년 일정 발표 Chosunbiz"
+        },
+        {
+          "title": "美 연준, 2027년부터 금리 결정 회의 연 7회로 축소…수십 년 통화정책 관행 손질 - 글로벌이코노믹",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbjZ0UDVkeHE2eDctTnVpYlQ3SlZMMkpwUmNuS0owVXZMOU42b2RzTUVnMUxqVHpib1l3eGtOa0RHeEw5YlRqblNQMkNsWXc3QVNkNFNEMHFBelpNQ0hNNnpITDVLZGRHdlBqTEtfSWtieWVHS2pmUWVISl9KdlM1bkxJS3ctVUhn?oc=5",
+          "source": "글로벌이코노믹",
+          "published": "11-13 16:18",
+          "snippet": "美 연준, 2027년부터 금리 결정 회의 연 7회로 축소…수십 년 통화정책 관행 손질 글로벌이코노믹"
         }
       ]
     },
     "queries": {
-      "코스피 2%대 상승": [],
-      "서울 아파트값 상승 둔화": [
-        "서울 아파트값",
+      "아파트값 상승 둔화": [
+        "아파트값 상승률",
+        "아파트값 상승",
+        "아파트값 상승률 더쿠",
         "서울 아파트값 상승률",
-        "서울 아파트값 추이",
-        "서울 아파트값 87주 연속 상승 원인과 강북권 중저가 아파트 매수세 현황",
         "서울 아파트값 상승",
-        "서울 아파트값 전망",
-        "서울 아파트값 순위",
-        "서울 아파트값 86주"
+        "서울 아파트값 상승세",
+        "정권별 서울 아파트값 상승률",
+        "분당 아파트값 상승"
       ],
-      "플랫폼 및 금융사 해킹": [
-        "U-컴퓨팅 플랫폼 및 응용기술"
-      ],
-      "엔비디아 CEO 사임 충격": [
-        "엔비디아 ceo",
-        "엔비디아 ceo 젠슨황",
-        "엔비디아 ceo 국적",
-        "엔비디아 ceo 젠슨황 특별강연",
-        "엔비디아 ceo연봉",
-        "엔비디아 ceo 인터뷰",
-        "엔비디아 ceo 이름",
-        "엔비디아 여자 ceo"
-      ],
-      "연준 FOMC 회의 축소": [
+      "가상자산 해킹 확산": [],
+      "10월 수입물가 하락": [],
+      "젠슨황 사임 충격": [],
+      "연준 FOMC 축소": [
         "연준 fomc 일정",
         "연준 fomc",
         "연준 fomc 의사록",
@@ -977,9 +962,18 @@
         "연준 fomc 회의",
         "연준 fomc회의록"
       ],
-      "유가 급등과 국채금리 상승": []
+      "국채 금리 급등": [
+        "국채 금리 급등 이유",
+        "국채 금리 급등 의미",
+        "미국 국채 금리 급등",
+        "미국 국채 금리 급등 이유",
+        "미국 장기 국채 금리 급등",
+        "일본 국채 금리 급등",
+        "한국 국채 금리 급등",
+        "글로벌 국채 금리 급등"
+      ]
     },
-    "newsletter_md": "# ⚡ ZIPPY | AI 경제 데일리 브리핑\n_2026-11-13 이슈 · 발행 2026-11-13_\n\n🇰🇷 **국내 경제:** `코스피 2%대 상승` · `서울 아파트값 상승 둔화` · `플랫폼 및 금융사 해킹`\n🌐 **해외 경제:** `엔비디아 CEO 사임 충격` · `연준 FOMC 회의 축소` · `유가 급등과 국채금리 상승`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 젠슨 황 사임 충격 딛고 반등한 코스피, 장중 하락 전환\n> 키워드: 코스피 2%대 상승\n\n**📌 무슨 일이 있었나**\n- 코스피는 엔비디아 젠슨 황 최고경영자의 불명예 퇴진 소식에도 불구하고 장 초반 2%대 상승하며 긍정적인 흐름으로 출발했다.\n- 오전 중 젠슨 황 사임 여파를 주시하며 코스닥과 동반 상승세를 유지했으나 오후 들어 정치권 간담회 직후 하락세로 돌아섰다.\n- 외국인 투자자들이 매도세로 전환하며 지수를 압박했고 결국 코스피는 전 거래일보다 0.98% 내린 5,290.53으로 장을 마감했다.\n- 장 초반의 강한 반등세를 지키지 못하고 음전한 배경에는 외국인의 '팔자' 기조와 국내 정치적 이벤트에 따른 심리 위축이 작용했다.\n\n**💬 핵심 Q&A**\n- **Q. 젠슨 황 사임이라는 대형 악재에도 불구하고 장 초반 코스피가 2%대 급등하며 출발한 원인은 무엇인가?**\n  A. 미국 주식 선물이 엔비디아 충격을 딛고 반등에 성공하며 국내 증시에도 저가 매수세가 유입되었기 때문이다. 시장은 젠슨 황의 퇴진을 단기적인 경영진 리스크로 해석하며 기술적 반등을 시도했으나 장중 수급 악화로 동력을 잃었다.\n- **Q. 상승 출발했던 지수가 오후 들어 하락 전환하며 5,300선 아래로 밀려난 결정적 계기는 무엇인가?**\n  A. 이재명 대표의 간담회 직후 시장 심리가 급격히 냉각되며 외국인들이 매도 우위로 돌아선 점이 결정적이었다. 장 초반의 낙관론이 정치적 불확실성과 수급 공백을 이기지 못하고 매물 폭탄으로 이어진 결과이다.\n- **Q. 코스피가 하락 마감한 것과 달리 코스닥이 소폭 상승하며 마감한 현상은 어떻게 해석해야 하는가?**\n  A. 대형주 중심의 코스피는 외국인 매도와 대외 변수에 민감하게 반응했으나 코스닥은 상대적으로 개별 테마주 중심의 매수세가 유입되었기 때문이다. 이는 시장의 관심이 지수 전반보다는 특정 섹터나 중소형주로 분산되고 있음을 시사한다.\n\n**👀 앞으로 볼 포인트**\n- 외국인 투자자의 순매도세 지속 여부\n- 정치권 간담회 후속 조치가 시장에 미칠 영향\n- 코스피 5,200선 지지 여부 및 코스닥과의 디커플링\n\n<sub>참고: [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE5xbzFWRzkzQVV6OUp2aExEQTJTMEIwNTNLa2d3SUFPTDNMeHZ0Y3RhcEM4QVNRYW85SUlOek45Yjh6SEZOaTJuMEwxYkxaNllCcWpyTXBIenJ5UVVDLXJPbXZoWXluelJ4dC1iNGxDU3I?oc=5) / [MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTE1uNm12VDJrSHY3djVXaW5TdE9yenhGRm5lZTVXTjM0SGJHQnpfZHB5QzlyQnVBSWpRN3JiY0hFdmY4RG9rUWlSek5iaUdjR3pTRGw1SklaU2hOMy04UGNGUUZXS2FJc3JNOXdtdG1NTkFJZHBZ0gF0QVVfeXFMT24xbGNyX1ZYdURBSEVDSXRZeGk2eHVWTHpNczE0M21SVmozT21zY1NIQ1BKZWNnX295ekFkSUk1RlRid0gwV2J1WFNqWXFXZUN6dThZQWp2UXF3SkRkemVFRjR4UGlveFRpVVA3OVdUV0I2cnk?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE5CNndnTTNqeWFEQXZwLXU2SHpsUk5KOHBBNWJfMTZ3TWV5SXJtblJqQUhNNi1PRjkzM3czT3I5YnV1X3BpaTJJSXZVM2szTGUwbExKcWZXN1I4elJxaW1PUjkxMU4xa05BckhfOElYM0w?oc=5)</sub>\n\n---\n\n### 2. 서울 아파트값 상승세 주춤, 매물 증가하며 하향 안정 지표 확대\n> 키워드: 서울 아파트값 상승 둔화\n\n**📌 무슨 일이 있었나**\n- 정부는 서울 아파트값 상승 폭이 둔화되고 매물이 증가하는 등 집값 하향 안정을 뒷받침하는 지표들이 확대되고 있다고 발표했다.\n- 서울 전역에서 가격 상승세가 주춤한 가운데 강북권 일부 지역과 경기 남부 지역은 여전히 상대적인 강세를 이어가고 있다.\n- 부동산 시장 내 매물 적체가 진행되면서 매수자 우위 시장으로의 전환 가능성이 제기되며 시장 관망세가 짙어지는 양상이다.\n- 정부는 현재의 지표 변화를 시장 안정화의 신호로 판단하고 있으며 향후 공급 대책과 대출 규제 효과가 본격화될 것으로 보고 있다.\n\n**💬 핵심 Q&A**\n- **Q. 정부가 집값 하향 안정의 근거로 제시한 구체적인 지표 변화는 무엇인가?**\n  A. 서울 아파트값 상승률의 수치적 둔화와 더불어 시장에 나온 매물 건수가 유의미하게 증가하고 있다는 점을 핵심 근거로 꼽았다. 이는 매도 희망가는 높지만 매수자가 따라붙지 않는 수급 불균형이 가격 하락 압력으로 작용하기 시작했음을 의미한다.\n- **Q. 서울 전반의 상승세가 둔화되는 상황에서 강북권과 경기 남부 아파트값이 강세를 보이는 이유는 무엇인가?**\n  A. 강남권 등 고가 지역의 대출 규제 피로감이 커지자 상대적으로 진입 장벽이 낮은 강북권 중저가 단지로 매수세가 이동하는 풍선효과가 나타났기 때문이다. 경기 남부 역시 교통 호재나 직주근접 수요가 뒷받침되며 서울 외곽의 수요를 흡수하고 있다.\n- **Q. 매물 증가가 실제 가격 하락으로 이어지기 위한 시장의 임계점은 어디인가?**\n  A. 매수 대기자들이 금리 부담과 고점 인식을 이유로 관망세를 유지하며 거래 절벽이 3개월 이상 지속될 때 본격적인 가격 조정이 일어날 가능성이 크다. 현재는 매도자와 매수자 간의 희망 가격 격차가 팽팽해 지표상 둔화만 나타나는 단계이다.\n\n**👀 앞으로 볼 포인트**\n- 서울 아파트 매물 적체 속도와 실제 거래량 변화\n- 강북권 중저가 단지의 매수세 유지 여부\n- 정부의 추가적인 부동산 시장 안정화 대책 발표\n\n<sub>참고: [한겨레](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WOEVWYm13RmNObk1TcWhQdFFGQjNITG5hQ3pOZUR2RzBwSk1wYnByMjlfdWYzbHM3b0M3WFhUaVpORlFFeWdHdmlnVXdMM3ZYR1dwQUx4ck0zQ0hEajJCa2RXblpvbF8z?oc=5) / [조선일보](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdXFtV1J3VlloUXAzc1QtNHprY2t0VmFIbjVmM2VUTmtzb3cxbXBGLWpLekpNNDVsTHhlN0NsS1AyaERHeEd1cXFyakVCeGpHVTRtNkM2LWdwTnlxNF9PSW1LSFdJZXFBZHF0N1ltV2hucV9hcmVVNnEtaGZVZnE3eGRwTkZjWmNv?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE5xbzFWRzkzQVV6OUp2aExEQTJTMEIwNTNLa2d3SUFPTDNMeHZ0Y3RhcEM4QVNRYW85SUlOek45Yjh6SEZOaTJuMEwxYkxaNllCcWpyTXBIenJ5UVVDLXJPbXZoWXluelJ4dC1iNGxDU3I?oc=5)</sub>\n\n---\n\n### 3. 카카오워크부터 금융보안원까지, 전방위 해킹에 개인정보 유출 비상\n> 키워드: 플랫폼 및 금융사 해킹\n\n**📌 무슨 일이 있었나**\n- 기업용 협업 플랫폼 카카오워크가 해킹되어 업무 정보가 유출되었으며 강조해온 종단간 암호화 기술이 무력화되었다는 지적을 받았다.\n- 가상자산 거래소 플라이빗에서도 해킹 사고가 발생하여 고객 40명의 주민등록번호와 납세 정보 등 민감 정보가 외부로 새 나갔다.\n- 삼성SDS 자회사 멀티캠퍼스는 해킹 공격으로 인해 전현직 임직원 약 7만 명의 개인정보가 유출되는 대규모 사고를 겪었다.\n- 금융위원회는 보안 컨트롤타워인 금융보안원이 해킹에 뚫린 사안에 대해 다음 주부터 고강도 감사를 실시하기로 결정했다.\n- 화상회의 지인 초대를 악용한 페이스스틸러 악성코드와 보안에 취약한 홈캠 해킹 사례가 빈번해지며 개인 사생활 침해 우려가 커졌다.\n\n**💬 핵심 Q&A**\n- **Q. 카카오워크가 내세운 '종단간 암호화' 기술이 있음에도 업무 정보가 유출된 원인은 무엇인가?**\n  A. 데이터 전송 구간은 암호화되었으나 사용자 단말기나 서버의 접근 권한 자체가 탈취되어 암호화가 해제된 상태의 데이터에 접근했기 때문이다. 이는 기술적 암호화보다 계정 관리와 엔드포인트 보안의 허점이 더 큰 위협이 될 수 있음을 보여준다.\n- **Q. 금융보안원까지 해킹 대상이 된 상황에서 금융권 전반의 보안 신뢰도에 어떤 타격이 예상되는가?**\n  A. 금융권 보안을 점검하고 표준을 만드는 최상위 기관이 뚫렸다는 점에서 개별 금융사들의 보안 체계에 대한 근본적인 불신으로 확산될 수 있다. 금융위의 감사를 통해 보안 관제 시스템의 구조적 결함이 드러날 경우 대대적인 시스템 개편이 불가피하다.\n- **Q. 홈캠 10대 중 3대가 해킹에 무방비하다는 조사 결과가 시사하는 보안 대책의 시급성은 무엇인가?**\n  A. 초기 설정된 비밀번호를 변경하지 않거나 보안 패치가 업데이트되지 않은 저가형 제품들이 사생활 유출의 통로가 되고 있음을 뜻한다. 제조사의 보안 인증 의무화와 더불어 사용자의 보안 설정 인식을 강제할 수 있는 제도적 장치가 마련되어야 한다.\n\n**👀 앞으로 볼 포인트**\n- 금융위원회의 금융보안원 감사 결과 및 징계 수위\n- 유출된 개인정보를 악용한 2차 피해 발생 여부\n- 기업용 협업 툴 보안 인증 체계 강화 방안\n\n<sub>참고: [보안뉴스](https://news.google.com/rss/articles/CBMia0FVX3lxTFBVWk1aRWJWYzhZbDlTaXpNRWF0NzV4NE5MaHc5QjhqRmNLYjNvU2V1X1NGQXBsdU8zUnd0MmdqLU9DYzc5S3FIZ1dOa01jSGFWTVd2SnBmQXctcmMyWGE3Q3lWZUJTNk5VNVlJ?oc=5) / [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WRE4wZGxTV2Vwd3I0eHhEYnBRY0IyMDRSTTZYUzFjWFpoa3RHN1RuVC1WV2x1VHRhUFZrSGlZZXA0LURTdHNOWUd2eHZiTDBkX2RTTjN1VExzQWs?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTFBwOURtVk5YdjBTVkhrYzVjOGFLM1RVNzdSNFRDcGJyUEU4YnRMQkdfNzhJME1yRHZOMFF2U3AzbnhIZHctaVhrZmJYSi15LXNWR1NlYmEwWHhZekNiVVk5VU5OLThPaGZERTltUkE4dkE?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 젠슨 황 전격 사임에 엔비디아 5.5% 급락, 뉴욕증시 일제히 하락\n> 키워드: 엔비디아 CEO 사임 충격\n\n**📌 무슨 일이 있었나**\n- 엔비디아의 창업자이자 수장인 젠슨 황 최고경영자가 전격 사임하면서 엔비디아 주가는 하루 만에 5.5% 폭락했다.\n- 젠슨 황의 사임 소식과 국제 유가 급등이 겹치며 나스닥 지수가 최대 0.5% 하락하는 등 뉴욕 3대 지수가 일제히 약세를 보였다.\n- 시장은 AI 반도체 산업의 상징적 인물인 젠슨 황의 부재가 엔비디아의 향후 로드맵과 지배구조에 미칠 불확실성을 우려하고 있다.\n- 다만 장 후반 S&P500 선물은 국채금리 하락에 힘입어 엔비디아 충격을 일부 상쇄하며 반등을 시도하는 모습을 보였다.\n\n**💬 핵심 Q&A**\n- **Q. 젠슨 황의 사임이 단순한 경영진 교체를 넘어 엔비디아 주가에 5.5%라는 기록적 폭락을 가져온 이유는 무엇인가?**\n  A. 젠슨 황은 엔비디아의 기술 비전과 AI 생태계를 상징하는 인물로 그의 사임은 기업의 미래 성장 전략에 대한 근본적인 의구심을 자극했기 때문이다. 특히 불명예 퇴진이라는 수식어가 붙으면서 기업 이미지 실추와 법적 리스크 가능성까지 가격에 반영되었다.\n- **Q. 엔비디아의 급락 속에서도 S&P500 선물이 반등에 성공한 역설적인 배경은 무엇인가?**\n  A. 미 국채금리가 하락하면서 기술주 전반에 가해졌던 밸류에이션 압박이 완화되었고 엔비디아를 제외한 다른 섹터로의 순환매가 유입되었기 때문이다. 이는 시장이 엔비디아 리스크를 전체 증시의 붕괴가 아닌 개별 종목의 악재로 분리 대응하기 시작했음을 보여준다.\n- **Q. 나스닥 지수가 0.39%에서 0.5% 하락하며 혼조세를 보인 상황에서 향후 지지선은 어디로 보아야 하는가?**\n  A. 엔비디아의 실적 발표와 차기 경영진의 비전 제시 전까지는 변동성이 지속될 것이며 주요 기술주들의 실적 지지 여부가 관건이다. 유가 급등에 따른 인플레이션 우려가 국채금리를 다시 자극할 경우 나스닥의 추가 조정 폭은 더 커질 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 엔비디아 차기 CEO 선임 발표 및 시장 반응\n- AI 반도체 관련주들의 동반 하락 지속 여부\n- 젠슨 황 사임의 구체적인 배경과 추가 폭로 가능성\n\n<sub>참고: [Investing.com 한국어](https://news.google.com/rss/articles/CBMicEFVX3lxTE9RZktSUWJBVVUyaXZodk1uSlI2dmhGSFhvSDA2RUdobEVnN0xHZXlsTnpuZGZ6SzAyV2tzOU1lbHFzQ2t0MS1JZ25kMVZ1Y3NnQ09wWldaLWVFUVdRRUZyQm9pLW03YzFTN2RPTDRDeC0?oc=5) / [서울경제TV](https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3eWN3bGJXeW53WW11c2gwWnAyT09yNzZGSnVoenVocllaWUI2djVCWHd6al9PQ2U2QlVucmRpZFNxNExaTl8zRW5GOFJ2NXdhSjlWbzRrcDVxbzE4MVhIdEpCVWY?oc=5) / [포커스온경제](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZWHdZcFlBNHBKc3o5U1BzOFNadjg0dzNsZGc2MXRTc3dzT3p4NXNMcGFrQ25RdzFYN0kyemhhUUZIOG90S0w2aTVXWWVrNmxISVZjY0dBMTFUTWloUUVhRQ?oc=5)</sub>\n\n---\n\n### 2. 美 연준, 2027년부터 금리 결정 회의 연 7회로 축소\n> 키워드: 연준 FOMC 회의 축소\n\n**📌 무슨 일이 있었나**\n- 미국 연방준비제도는 2027년부터 기준금리를 결정하는 연방공개시장위원회(FOMC) 정례회의 횟수를 현행 8회에서 7회로 줄이기로 했다.\n- 이번 결정은 수십 년간 유지되어 온 통화정책 관행을 손질하는 것으로 10월 회의에서는 금리 결정 대신 전략 논의에만 집중할 계획이다.\n- 연준은 내년에도 7차례의 금리 결정 회의를 개최할 예정이며 10월에는 통화정책 전략과 프레임워크를 심도 있게 검토하는 시간을 갖는다.\n- 회의 축소는 통화정책의 유연성을 확보하고 단기적인 지표 변화에 일희일비하기보다 장기적인 전략 수립에 무게를 두려는 의도로 풀이된다.\n\n**💬 핵심 Q&A**\n- **Q. 연준이 수십 년간 유지해온 연 8회 회의 관행을 깨고 7회로 축소하려는 근본적인 목적은 무엇인가?**\n  A. 매달 지표에 반응해 금리를 결정하는 방식에서 벗어나 통화정책의 장기적 일관성을 확보하고 정책 효과를 점검할 충분한 시간을 갖기 위함이다. 특히 10월을 전략 논의의 달로 지정함으로써 급변하는 경제 구조에 맞춘 정책 프레임워크를 정교화하려는 의도가 담겨 있다.\n- **Q. 회의 횟수가 줄어들면 금리 결정 사이의 간격이 길어지는데 이것이 금융 시장의 변동성을 오히려 키울 위험은 없는가?**\n  A. 회의 간격이 넓어지면 그사이 축적된 경제 지표들이 한꺼번에 반영되면서 금리 결정 당일의 시장 충격이 더 커질 수 있는 위험이 존재한다. 연준은 이를 방지하기 위해 회의 사이 기간에 위원들의 발언이나 경제 전망 보고서를 통해 시장과의 소통을 더욱 강화할 것으로 예상된다.\n- **Q. 2027년부터 시행되는 이 변화가 당장 내년과 내후년의 통화정책 경로에 어떤 사전적 영향을 미치는가?**\n  A. 내년부터 이미 7회 개최 일정이 예고된 만큼 시장은 연준의 정책 호흡이 길어지고 있음을 선반영하여 금리 인상이나 인하 기대감을 조정할 것이다. 이는 투자자들이 단기 지표 하나에 과잉 반응하기보다 연준의 장기적인 가이던스에 더 집중하게 만드는 효과를 낼 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 10월 전략 회의에서 발표될 새로운 통화정책 프레임워크\n- 회의 횟수 축소가 시장의 금리 예측 변동성에 미칠 영향\n- 연준 위원들 간의 회의 축소에 대한 내부 의견 대립 여부\n\n<sub>참고: [글로벌이코노믹](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbjZ0UDVkeHE2eDctTnVpYlQ3SlZMMkpwUmNuS0owVXZMOU42b2RzTUVnMUxqVHpib1l3eGtOa0RHeEw5YlRqblNQMkNsWXc3QVNkNFNEMHFBelpNQ0hNNnpITDVLZGRHdlBqTEtfSWtieWVHS2pmUWVISl9KdlM1bkxJS3ctVUhn?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VSEFvcTlyZHlUeGZiQUR6SmdlTk1JZFpxSE1tdWsyY2kweldQM181WkZoWWN5NlpzYTlJZkJ6aWRNVEpJN2lkT09lSTAxNFlncE1STHNZd0duZ3fSAWBBVV95cUxQUGhyTWtLMVM5Z2p5TS1RaWdMRVF6UXR4NVpsbk5EakxiRU9zNkFqcGhuaDhQZGN0UUw2WDhxVDNLWHA1Tlh1Sl8tUkM3MWk3UFF0NEdhNjFvWTVkRDZ2MEc?oc=5) / [Chosunbiz](https://news.google.com/rss/articles/CBMingFBVV95cUxPSWdLR0drek85UG54TlhJZjJEMWxSUzR5em1yM25XaXJqazlFaFVTc2diajlpZ0dNbHM2NmRjOEFhSlRJSGlHcWpyR1g4UDJpYzl4Y2NQblhBeVpmYktiQTdJRDJVeFVRWmkwazNqeU4wQ3pRd3Uyd25RZ1ZrTXJXeE9kYWV0R3pYdU5fS05FdklPdEoyRjNQclkwX3NVd9IBsgFBVV95cUxPckRZdUQzWnZfdF84b0poaGtDUkhRZ0dRVGRNeG9aNTBLLU81dlRKN3ZORER3ZUJUejZtb2hSVTRSUG9oeFdfcUQxVGJISGZzQmFsaHJRZFBQRFFtSFpBSEsweE1vWExsdkpEU0NRUXVTN253UnlHaXNfLUdzcXhNMVRIMHhxUlQzX2ljSjg2b2dBUV92TU53bWtieEVvcDh3ZmNpT0g3UGw2eVZJMmYyNG93?oc=5)</sub>\n\n---\n\n### 3. 美 국채금리 5.1% 돌파, 유가 상승과 추가 금리 인상 전망 확산\n> 키워드: 유가 급등과 국채금리 상승\n\n**📌 무슨 일이 있었나**\n- 미국 10년물 국채금리가 5.109%까지 급등하며 시장에 충격을 주었으며 이는 유가 상승과 연준의 추가 금리 인상 전망이 결합된 결과이다.\n- 국제 유가 급등은 인플레이션 재점화 우려를 자극했고 이는 국채 매도세로 이어지며 금리를 가파르게 끌어올리는 동력이 되었다.\n- 10월 수입물가는 환율과 유가 하락 영향으로 전월 대비 1.8% 하락했으나 최근의 유가 반등세로 인해 향후 물가 부담은 다시 커질 전망이다.\n- 뉴욕증시는 젠슨 황 사임 충격에 금리와 유가 상승이라는 악재가 더해지며 나스닥을 포함한 주요 지수가 하락 압력을 받았다.\n\n**💬 핵심 Q&A**\n- **Q. 미 국채 10년물 금리가 5.1%를 돌파한 상황에서 유가 상승이 금리를 밀어 올리는 구체적인 메커니즘은 무엇인가?**\n  A. 유가 상승은 생산 및 운송 비용을 높여 기대 인플레이션을 자극하고 이는 중앙은행의 긴축 기조를 장기화할 것이라는 공포를 낳기 때문이다. 투자자들이 채권 보유에 대한 더 높은 프리미엄을 요구하면서 채권 가격은 떨어지고 수익률인 금리는 급등하게 된다.\n- **Q. 10월 수입물가가 1.8% 하락했음에도 불구하고 시장이 향후 물가 상승을 더 우려하는 이유는 무엇인가?**\n  A. 10월 지표는 과거의 환율 및 유가 하락이 반영된 후행적 수치일 뿐 현재 진행 중인 유가 급등과 국채금리 상승세는 반영되지 않았기 때문이다. 최근의 비용 상승 요인들이 시차를 두고 수입물가에 전이되면 내년 초 물가 안정 가도에 차질이 생길 수 있다는 분석이 지배적이다.\n- **Q. 국채금리 5.1% 돌파가 기술주 중심의 나스닥 지수에 미치는 직접적인 타격 경로는 어떻게 되는가?**\n  A. 미래 수익을 현재 가치로 할인해 주가를 산정하는 기술주 특성상 할인율인 국채금리가 오르면 기업 가치가 하락하기 때문이다. 특히 엔비디아 같은 고밸류에이션 종목들은 금리 상승 시기에 자금 조달 비용 부담과 투자 심리 위축이 겹치며 하락 폭이 더 커지는 경향을 보인다.\n\n**👀 앞으로 볼 포인트**\n- 미 국채 10년물 금리의 5.2% 돌파 여부\n- 국제 유가 상승세가 국내 소비자물가에 전이되는 시차\n- 연준 위원들의 추가 금리 인상 필요성 관련 발언 수위\n\n<sub>참고: [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE9na3lMQk9Na2gyVEJKZTNKY1poZWMxOF9mTHh4czdWNVpWemtMZUpmNllnTXhnRTNQQkdqRG1UekVOS19yclFBNWtuUy1YQ056UU5IT1ZuaDBVeFJWSkU2UG5RZ1dsUnZKc2VKQ0I1dFQ?oc=5) / [뉴스1](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xb2dScXVCS09nMjNpM1NjdTZKemZlRlJ5eThQejFzV000OEpYUXRTb25Ed1NDeU54aV9pOUluSXBhbDY5dnM3cDFVWWFCaG9XWnFkMEdxTGdfYVVjLWZZSUh5VFcxYVU?oc=5) / [조세일보](https://news.google.com/rss/articles/CBMib0FVX3lxTE85anBENGlRcDZCcVktSk50am95YkNteUpnZWwtNGdUSC1WbjZtVjY0SlNIYmNEVjNyS3hndXB1c3FGRFJQWnIzb3BXUEQwUEQxc092U2d0eF93ZGl5NE1CblRsTlRROTRSVnNNQ0QyMA?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 보도를 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
+    "newsletter_md": "# ⚡ ZIPPY | AI 경제 데일리 브리핑\n_2026-11-13 이슈 · 발행 2026-11-13_\n\n🇰🇷 **국내 경제:** `아파트값 상승 둔화` · `가상자산 해킹 확산` · `10월 수입물가 하락`\n🌐 **해외 경제:** `젠슨황 사임 충격` · `연준 FOMC 축소` · `국채 금리 급등`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 서울 아파트값 상승세 둔화와 매물 누적 현상\n> 키워드: 아파트값 상승 둔화\n\n**📌 무슨 일이 있었나**\n- 서울 아파트 가격의 상승 폭이 축소되고 매물이 늘어남에 따라 집값 하향 안정을 나타내는 지표가 확대되고 있다.\n- 매수자들의 관망세가 짙어지는 가운데 부동산 시장 내 매물 누적이 진행되며 가격 상승 동력이 약화되는 흐름이 관측되었다.\n- 서울 주요 지역을 중심으로 매매 가격 상승률이 이전 대비 줄어들며 주택 거래 시장 전반의 격열했던 매수세가 가라앉았다.\n- 당국은 시장 거래량과 매물 변화 추이를 지속적으로 점검하며 집값 하향 안정세가 공고해질 수 있도록 관리할 방침이다.\n\n**💬 핵심 Q&A**\n- **Q. 매물 증가와 상승세 둔화에도 불구하고 집값 하향 안정을 낙관하기 어려운 메커니즘은 무엇인가?**\n  A. 매물이 늘어났지만 실거래로 이어지는 매수세가 특정 정주 여건 우수 지역에만 한정되어 나타나기 때문이다. 거래량이 수반되지 않은 채 나타나는 관망세는 일시적인 둔화 착시를 만들 뿐 확실한 하락세 전환으로 보기 어렵다.\n- **Q. 서울 아파트 거래 관망세가 지속될 경우 분양 시장과 대출 시장에는 어떤 연쇄 파급이 발생하는가?**\n  A. 기존 매매 시장의 거래 침체는 신규 분양 청약 시장으로의 수요 쏠림과 양극화를 심화시킨다. 동시에 금융권의 대출 한도 축소와 높은 이자 부담이 더해져 시중 주택 거래 유동성이 급격히 위축되는 결과를 초래한다.\n- **Q. 정부의 하향 안정 지표 발표에도 불확실성이 지속되는 상황에서 시장 반전의 분기점은 무엇인가?**\n  A. 기준금리 인하 전환 시점과 실제 주택 공급 물량의 체감 입주 시기가 핵심 분기점이다. 금융 비용 부담 완화와 구체적인 주택 공급 체계가 맞물리는 시점에 매수 심리의 유입 여부가 결정될 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 서울 주요 권역별 아파트 매물 누적 속도\n- 주택담보대출 금리 변동 및 가계대출 규제 동향\n- 매수우위지수 변동과 실거래가 체결 비율\n\n<sub>참고: [한겨레](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WOEVWYm13RmNObk1TcWhQdFFGQjNITG5hQ3pOZUR2RzBwSk1wYnByMjlfdWYzbHM3b0M3WFhUaVpORlFFeWdHdmlnVXdMM3ZYR1dwQUx4ck0zQ0hEajJCa2RXblpvbF8z?oc=5) / [MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTE1uNm12VDJrSHY3djVXaW5TdE9yenhGRm5lZTVXTjM0SGJHQnpfZHB5QzlyQnVBSWpRN3JiY0hFdmY4RG9rUWlSek5iaUdjR3pTRGw1SklaU2hOMy04UGNGUUZXS2FJc3JNOXdtdG1NTkFJZHBZ0gF0QVVfeXFMT24xbGNyX1ZYdURBSEVDSXRZeGk2eHVWTHpNczE0M21SVmozT21zY1NIQ1BKZWNnX295ekFkSUk1RlRid0gwV2J1WFNqWXFXZUN6dThZQWp2UXF3SkRkemVFRjR4UGlveFRpVVA3OVdUV0I2cnk?oc=5) / [조선일보](https://news.google.com/rss/articles/CBMiiAFBVV95cUxORkxHMmVmV1lFdEtwQ3ZuTWNaR1VqR0ZKdHRLdFVWRDl2WkhmeWp1aFhLdTg5WmozSUdHM1dwVVFJcFVsWEc0OW54MFJsYk02Z0VydFZCRmZnZ2VZakRqeHVjaGFjQ24wcHg5bVlCMjZiQ1FQSTJMeFdJOVJXSlNaM2YwMS1GT2ND?oc=5)</sub>\n\n---\n\n### 2. 잇단 해킹에 가상자산 선제적 입출금 차단 도입\n> 키워드: 가상자산 해킹 확산\n\n**📌 무슨 일이 있었나**\n- 가상자산 거래소에서 해킹 이상 징후가 감지될 경우 거래소가 입출금을 선제적으로 차단할 수 있는 대책이 허용되었다.\n- 금융위원회는 최근 발생한 보안 침해 사고와 관련해 다음 주부터 금융보안원에 대한 고강도 감사에 착수하기로 결정했다.\n- 기업용 협업 플랫폼인 카카오워크마저 해킹 피해를 입어 업무 정보가 유출되는 등 종단간 암호화 기술의 실효성 논란이 불거졌다.\n- 생성형 AI 기술을 악용한 해커 집단이 8조 원 규모의 가상자산과 주요 정보 자산을 탈취하며 보안 위협이 급격히 고도화되었다.\n\n**💬 핵심 Q&A**\n- **Q. 해킹 의심만으로 가상자산 입출금을 선제 차단하는 조치가 왜 유동성 리스크를 유발할 수 있는가?**\n  A. 오탐으로 인한 출금 동결 시 정상적인 거래자의 자금이 묶여 시세 차익 기회를 상실하거나 담보비율 미달로 반대매매가 발생할 수 있다. 이는 거래소 신뢰도를 떨어뜨리고 시장 전반의 투매를 유도하는 부작용을 낳는다.\n- **Q. AI 기술을 결합한 해킹 공격의 고도화가 가상자산 및 보안 산업의 이해득실에 어떠한 영향을 미치는가?**\n  A. 기존 보안 솔루션의 무력화로 보안 구축 비용이 기하급수적으로 증가하게 된다. 거대 자본을 동원해 고도화된 인프라를 구축할 수 있는 대형 거래소 중심의 독점이 심화되고 소형 플랫폼은 시장에서 도태될 가능성이 높다.\n- **Q. 금융당국의 금융보안원 감사 착수 조치가 보안 체계의 근본적 체질 개선으로 이어질 분기점은 무엇인가?**\n  A. 단순 과태료 부과를 넘어 보안 사고 발생 시 사업자에 대한 징벌적 손해배상제 도입 여부가 분기점이다. 법적 책임을 강화하는 제도적 정비가 수반되어야 거래소들의 자발적인 보안 투자 확대를 이끌어낼 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 금융당국의 금융보안원 감사 결과 및 징계 수위\n- 가상자산 거래소별 이상 거래 감지 시스템 적용 현황\n- AI 기반 악성코드 및 해킹 기법에 대한 보안 대책\n\n<sub>참고: [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NRVlQNTFPc2VsQ21jbjFLckthSUJRUXZQNjFkbDVKdVdTUEhieTk1dVYxSFZWZFlnaEJieE9mREhweEJkTklyY3JXdHpoSkRXUkV5dW5ZQXQ4MEU?oc=5) / [MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTE03d2dGbmFobnhxUVBNNVBkdFI3MnV0Q0RhN3c4MnMyTDNfOTVwNUJYaU1ybWhkWDVMTFlwb3RUWF9NRlhRYUtKeFhhNUY5V1Rub1N6bXJLeUhYSEZDZHA5cno2TkFpSXk1OTNCd1Rnem8yVVV60gF0QVVfeXFMUHpjN0otVENMMUY2dHlldUU2eV9ObVczR192NG81N2R1TnZsdHlCN2NNQ2RPMlhlVS1NLS0zR0FYelQ2d2hEcWpHTXR0aUVMUWZiUU5mcXRVWE5CRzgzYVJKYV8tOTdqZEMzZkthUlVJY2tmSE8?oc=5) / [보안뉴스](https://news.google.com/rss/articles/CBMia0FVX3lxTFBVWk1aRWJWYzhZbDlTaXpNRWF0NzV4NE5MaHc5QjhqRmNLYjNvU2V1X1NGQXBsdU8zUnd0MmdqLU9DYzc5S3FIZ1dOa01jSGFWTVd2SnBmQXctcmMyWGE3Q3lWZUJTNk5VNVlJ?oc=5)</sub>\n\n---\n\n### 3. 환율과 유가 동반 하락에 10월 수입물가 1.8% 감소\n> 키워드: 10월 수입물가 하락\n\n**📌 무슨 일이 있었나**\n- 원/달러 환율 안정과 국제 유가 내림세에 힘입어 10월 수입물가지수가 전월 대비 1.8% 하락세를 기록했다.\n- 유가 하락이 원자재 가격 하락을 이끌고 환율 안정세가 더해지면서 수입물가 하락을 이끄는 주요 요인으로 작용했다.\n- 수입물가의 하락세는 시차를 두고 국내 원가 부담을 줄여 향후 소비자물가 상승 압력을 낮추는 데 기여할 것으로 전망된다.\n- 석유 및 화학제품을 중심으로 수입 가격 인하 효과가 크게 나타나면서 제조업 공급망의 원가 관리 부담이 일부 완화되었다.\n\n**💬 핵심 Q&A**\n- **Q. 환율과 유가의 동반 하락이 수입물가를 떨어뜨렸음에도 체감 소비자물가 반영이 더딘 이유는 무엇인가?**\n  A. 수입 원자재가 최종 소비재 가격에 반영되기까지 보통 1~3개월의 시차 변수가 존재하기 때문이다. 또한 유통 구조상의 마진과 인건비 등 내수 비용 부담이 수입물가 하락 폭을 상쇄하는 영향도 작용한다.\n- **Q. 10월 수입물가 1.8% 하락이 국내 수출입 기업 및 환율 포지션에 어떤 파급 경로를 형성하는가?**\n  A. 원자재 수입 비중이 높은 제조업은 원가 절감에 따른 수익성 개선 효과를 누리게 된다. 반면 환율 하락은 수출 기업의 원화 환산 매출을 감소시켜 실적에 상반된 결과를 가져온다.\n- **Q. 수입물가 내림세가 지속 가능한 추세로 정착하기 위한 글로벌 원자재 시장의 핵심 변수는 무엇인가?**\n  A. 산유국의 감산 정책 변화와 중동발 지질학적 리스크 완화 여부가 가장 결정적인 분기점이다. 원자재 수급 불안이 재발할 경우 환율이 다시 상승해 수입물가 하락세가 단기에 끝날 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 국제 유가 및 산유국 생산량 조정 동향\n- 원/달러 환율 변동성 및 외환 시장 수급\n- 수입물가 하락의 소비자물가 시차 반영 정도\n\n<sub>참고: [한국무역협회-KITA.NET](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMjRWWXZLeXpNNWlsamlKV3BMd1NneVpSbzdZVXRWVmJMVjZZX2c0LXJsaVB2SlNDR0RadlUwRlVaaElYTFVTT0UwUHIwdHRVU2JBNVU2Qk9UV3JnV0w0a2hmcmJuallJRTg1QTNzWF9Ma2lYRUFjbDItRGQ2bEFUM3U0ZmJ1MW9rZTZXY3l3WDZ0VWEyYXdPVjMxNzBRRHU2cnNKd0pLb1BRQnI1dWUxd194eDUwNVNMZDZLTkVRT3BGXzJvcnlQalVHc0xRLUJ5RE0xWG1B?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE80NlRiSXk5cjRMUXpSSHlselJfSmRTUmNqQnAyZXZwQ3NORzJrNWZOQTY2U3gtc1VQUEJQYUd3V08xT01paDRndzVPM0xUbTNyX0dTaFJzUDdxNW_SAWBBVV95cUxQdGh3RmNOSzBaQ1RWMG90R1UtckJjejJkQlhKN0VJU184TktQY2dORnZBSUtSdW4zc2pPYlA1eEQzeVl2YVNhdkgxWFlUYUF0ZUNvbjNTRnQ0aUk4TXhua1U?oc=5) / [경기일보](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KNTJIZzRhZkt5V2hLZDdxYjJfUHhtSGk0SVRCRmhmOEc5Z1hYRDJnQVVwOVFMWlZhMm5SM054RW16aHZsY0hWTzJKYXNjeHZvaEU3ZVVkSUI5QTg?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 젠슨 황 엔비디아 CEO 사임 발표에 증시 흔들\n> 키워드: 젠슨황 사임 충격\n\n**📌 무슨 일이 있었나**\n- 엔비디아 최고경영자 젠슨 황의 사임 소식이 전해지며 뉴욕증시 나스닥 지수가 100.09포인트 하락하는 등 지수가 흔들렸다.\n- 엔비디아의 리더십 공백 우려가 가중되면서 AI 반도체 선도주 가격이 직격탄을 맞았고 기술주 전반에 불안감이 확산되었다.\n- 경쟁업체인 AMD와 브로드컴 주가는 시장 점유율 확대에 대한 기대감 속에 5%대 상승을 기록하며 반사이익을 얻었다.\n- 시장의 갑작스러운 충격에도 불구하고 미 주식 선물이 장중 반등을 시도하는 등 낙폭을 제한하려는 움직임도 나타났다.\n\n**💬 핵심 Q&A**\n- **Q. 젠슨 황 CEO의 사임 발표에도 불구하고 경쟁수인 AMD와 브로드컴이 5%대 반사이익을 얻은 메커니즘은 무엇인가?**\n  A. 엔비디아의 핵심 리더십 공백이 빅테크 기업들의 AI 반도체 수주 독점력을 약화시킬 것이라는 기대가 반영되었기 때문이다. 이에 따라 구매처 다변화를 모색하던 빅테크들의 수요가 대체재인 AMD와 브로드컴으로 이동했다.\n- **Q. AI 생태계 선도자의 퇴진이 미 증시 전체와 AI 반도체 밸류체인에 가져올 연쇄 파급 효과는 어떠한가?**\n  A. AI 붐을 이끌던 앵커 기업의 지배력 약화는 AI 밸류체인 전반의 투자 심리를 냉각시키고 나스닥 기술주의 변동성을 확대시킨다. 반면 후발 주자들에게는 기술 격차를 축소할 수 있는 정체성 전환의 기회가 된다.\n- **Q. 젠슨 황 사임에 따른 기술주 폭락세가 진정되고 주가가 안정화될 분기점은 무엇인가?**\n  A. 후임 CEO 인선 발표와 더불어 차세대 AI 칩의 생산 및 인도 일정이 차질 없이 진행됨을 증명하는 실적 발표가 핵심 분기점이다. 경영진 교체 리스크를 실적으로 불식시켜야 주가 재상승이 가능하다.\n\n**👀 앞으로 볼 포인트**\n- 엔비디아 후임 CEO 인선 및 경영진 구성\n- AMD와 브로드컴의 AI 반도체 시장 점유율 변화\n- AI 주요 기술주의 주가 반등 및 변동성 지수\n\n<sub>참고: [Investing.com 한국어](https://news.google.com/rss/articles/CBMicEFVX3lxTE9RZktSUWJBVVUyaXZodk1uSlI2dmhGSFhvSDA2RUdobEVnN0xHZXlsTnpuZGZ6SzAyV2tzOU1lbHFzQ2t0MS1JZ25kMVZ1Y3NnQ09wWldaLWVFUVdRRUZyQm9pLW03YzFTN2RPTDRDeC0?oc=5) / [글로벌이코노믹](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzUyUWJxM2Z4VlNQYktuSy1EU0lTeVJhN28wX0IxMXo4SVNlRTlfQ1djWW9rRlpfN0hmd21aNk1nb1UtN2FmMHB3OTRjQmF5UGFySWdUNExKeVBLMUtKeUNXb3JleDNZT291V1dzZHZ4WEtPWWdqOWJqNktjLWJMTmUySmJhLU51?oc=5) / [조세일보](https://news.google.com/rss/articles/CBMib0FVX3lxTE85anBENGlRcDZCcVktSk50am95YkNteUpnZWwtNGdUSC1WbjZtVjY0SlNIYmNEVjNyS3hndXB1c3FGRFJQWnIzb3BXUEQwUEQxc092U2d0eF93ZGl5NE1CblRsTlRROTRSVnNNQ0QyMA?oc=5)</sub>\n\n---\n\n### 2. 미 연준 금리 결정 회의 연 7회로 축소 개편\n> 키워드: 연준 FOMC 축소\n\n**📌 무슨 일이 있었나**\n- 미국 연방준비제도가 기준금리를 결정하는 연방공개시장위원회 회의 횟수를 연 8회에서 7회로 줄이기로 결정했다.\n- 금리를 결정하지 않는 10월 회의는 통화정책 전략과 중장기 틀을 논의하는 데에만 집중하는 일정으로 변경된다.\n- 이번 개편은 수십 년간 이어져 온 연준의 정례 통화정책 운영 관행을 손질하여 시장과의 소통 방식을 다변화하는 조치이다.\n- 금리 결정 주기가 조정됨에 따라 금융 시장 참가자들의 정책 예측 및 포지션 대응 방식에도 변화가 생길 전망이다.\n\n**💬 핵심 Q&A**\n- **Q. 연준이 금리 결정 회의를 연 8회에서 7회로 축소하고 10월을 전략 논의로 전환하는 관행 수정의 배경은 무엇인가?**\n  A. 단기 데이터 변화에 일희일비하며 시장 변동성을 키우는 잦은 금리 결정을 피하고 중장기 통화정책 틀을 재점검하기 위함이다. 10월을 전략 집중 달로 지정함으로써 정책 신호의 선명도를 높이려는 의도가 담겨 있다.\n- **Q. 금리 결정 회의 축소가 글로벌 금융시장의 거래량 및 자산 가격 변동성 주기에 어떠한 파급 효과를 주는가?**\n  A. 회의 사이의 간격이 길어짐에 따라 정책 공백 기간 동안 경제 지표 발표에 따른 시장의 과도한 쏠림과 변동성이 커질 수 있다. 또한 10월 금리 결정 부재로 4분기 자산 시장의 정책 예측 부담이 11월과 12월 회의로 집중된다.\n- **Q. 연준의 7회 개편안이 시중 금리 흐름 및 자산 시장에서 긍정적 호재로 작용할 분기점은 무엇인가?**\n  A. 회의 횟수 감소가 연준의 정책적 불확실성을 낮추고 예측 가능한 통화 정책 로드맵으로 안착하느냐에 달렸다. 분기별 정례 경제전망과의 연계성이 높아져 시장이 중앙은행의 장기 스탠스를 명확히 읽을 수 있을 때 호재가 된다.\n\n**👀 앞으로 볼 포인트**\n- 연준의 통화정책 전략 논의 세부 의제\n- FOMC 회의 간격 확대에 따른 시중 금리 변동성\n- 금리 결정 축소에 대한 글로벌 중앙은행들의 반응\n\n<sub>참고: [Chosunbiz](https://news.google.com/rss/articles/CBMingFBVV95cUxPSWdLR0drek85UG54TlhJZjJEMWxSUzR5em1yM25XaXJqazlFaFVTc2diajlpZ0dNbHM2NmRjOEFhSlRJSGlHcWpyR1g4UDJpYzl4Y2NQblhBeVpmYktiQTdJRDJVeFVRWmkwazNqeU4wQ3pRd3Uyd25RZ1ZrTXJXeE9kYWV0R3pYdU5fS05FdklPdEoyRjNQclkwX3NVd9IBsgFBVV95cUxPckRZdUQzWnZfdF84b0poaGtDUkhRZ0dRVGRNeG9aNTBLLU81dlRKN3ZORER3ZUJUejZtb2hSVTRSUG9oeFdfcUQxVGJISGZzQmFsaHJRZFBQRFFtSFpBSEsweE1vWExsdkpEU0NRUXVTN253UnlHaXNfLUdzcXhNMVRIMHhxUlQzX2ljSjg2b2dBUV92TU53bWtieEVvcDh3ZmNpT0g3UGw2eVZJMmYyNG93?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VSEFvcTlyZHlUeGZiQUR6SmdlTk1JZFpxSE1tdWsyY2kweldQM181WkZoWWN5NlpzYTlJZkJ6aWRNVEpJN2lkT09lSTAxNFlncE1STHNZd0duZ3fSAWBBVV95cUxQUGhyTWtLMVM5Z2p5TS1RaWdMRVF6UXR4NVpsbk5EakxiRU9zNkFqcGhuaDhQZGN0UUw2WDhxVDNLWHA1Tlh1Sl8tUkM3MWk3UFF0NEdhNjFvWTVkRDZ2MEc?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMidEFVX3lxTFBLb2hCUXZERFJUOGdTYkN6a1BycF8xVmxaS3VKVk9OTHBhNDVXdTF6QXlDaWdDdjhpX2dwMzVWV3Y5NWlDVHF6a1dmc3g5RkpLYV9KNER5YTA3Mmd4bHFYOVFIMFN2UUd4WnFoOEd4WXlhWXBw?oc=5)</sub>\n\n---\n\n### 3. 미 10년물 국채 금리 5.109% 급등 및 긴축 우려\n> 키워드: 국채 금리 급등\n\n**📌 무슨 일이 있었나**\n- 미국 10년 만기 국채 금리가 연준의 긴축 장기화 전망과 유가 상승 부담이 가중되면서 5.109%까지 급등했다.\n- 통화정책에 민감하게 반응하는 미 국채 2년물 금리 역시 4.765%로 상승하며 시장의 금리 인상 공포를 반영했다.\n- 미국과 일본의 금리 차이가 다시 벌어질 것이라는 전망에 달러당 엔화 환율이 160엔 선을 위협받는 등 외환 시장이 출렁였다.\n- 장기 국채 금리의 지속적 상승은 기업 자금 조달 비용을 높이고 글로벌 자산 시장의 평가 가치를 하락시키는 압력으로 작용했다.\n\n**💬 핵심 Q&A**\n- **Q. 미 10년물 국채 금리가 5.109%까지 폭등하는 과정에서 연준의 추가 인상 전망과 유가가 작용한 메커니즘은 무엇인가?**\n  A. 국제유가 상승이 인플레이션 상방 압력을 자극하면서 연준의 긴축 조기 종료 기대감이 무너졌기 때문이다. 이에 따라 시장 참여자들이 고금리 장기화 및 추가 인상을 가격에 반영하며 장기 국채 매도세를 유발했다.\n- **Q. 미국 장기 국채 금리 급등이 미일 금리 격차를 넓히며 엔화 환율과 글로벌 기술주에 가져온 파급 경로는 무엇인가?**\n  A. 미국 국채 수익률 상승은 달러 강세를 촉진해 엔/달러 환율을 160엔 선까지 끌어올리며 엔화 약세를 심화시켰다. 한편 할인율 상승으로 고평가된 기술주들의 미래 수익 가치가 떨어져 증시 하락 압력으로 작용했다.\n- **Q. 치솟는 국채 금리가 진정되고 채권 시장이 하락세에서 벗어날 구체적인 분기점은 무엇인가?**\n  A. 미국의 고용 및 물가 지표가 확실한 둔화 세를 보여 연준의 추가 긴축 명분이 소멸되는 시점이 분기점이다. 또한 미 재무부의 장기채 발행 규모 축소 발표 등 수급 부담 완화 신호가 나와야 금리가 안정을 찾을 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 미 국채 10년물 금리의 5.1% 돌파 후 추가 상승 여부\n- 달러/엔 환율 160엔선 돌파에 따른 일본 당국 개입\n- 미 재무부 장기채 발행 규모 및 입찰 수요\n\n<sub>참고: [뉴스1](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xb2dScXVCS09nMjNpM1NjdTZKemZlRlJ5eThQejFzV000OEpYUXRTb25Ed1NDeU54aV9pOUluSXBhbDY5dnM3cDFVWWFCaG9XWnFkMEdxTGdfYVVjLWZZSUh5VFcxYVU?oc=5) / [글로벌이코노믹](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYlU5bU8zYVVDQUp1R2ducVJMM2s2QnZLbnVoMVFJakdOZFEyZFp3UDdacjE0UVpjOW5kRGFTZjFtRUF6RThPVUQwOXNvX21oVFRKZm55b2UtTnFaTXd6VVFzakw5bkhKdnVUTFhPRi1YT2lWdkEydEt0b2tiQmN2eXZKRlNJTlVx?oc=5) / [조선일보](https://news.google.com/rss/articles/CBMiiAFBVV95cUxORkxHMmVmV1lFdEtwQ3ZuTWNaR1VqR0ZKdHRLdFVWRDl2WkhmeWp1aFhLdTg5WmozSUdHM1dwVVFJcFVsWEc0OW54MFJsYk02Z0VydFZCRmZnZ2VZakRqeHVjaGFjQ24wcHg5bVlCMjZiQ1FQSTJMeFdJOVJXSlNaM2YwMS1GT2ND?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 보도를 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
     "generation_mode": "gemini"
   },
   "yesterday": {
@@ -2994,5 +2988,5 @@
     "newsletter_md": "# ⚡ ZIPPY | AI 경제 데일리 브리핑\n_2026-11-06 ~ 2026-11-12 이슈 · 발행 2026-11-13_\n\n🇰🇷 **국내 경제:** `젠슨 황 사임 여파 증시 휘청` · `서울 아파트값 상승폭 축소` · `해킹 사고 잇따른 보안 강화`\n🌐 **해외 경제:** `나스닥 AI 기술주 투매 폭락` · `코어위브 훈풍에 기술주 반등` · `미국 물가 상승에 금리 인상론`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 젠슨 황 엔비디아 사임에 증시 급락\n> 키워드: 젠슨 황 사임 여파 증시 휘청\n\n**📌 무슨 일이 있었나**\n- 엔비디아 창업자 젠슨 황이 CEO직에서 전격 사임하고 콜레트 크레스 CFO가 임시 CEO로 임명되면서 시장에 큰 충격을 주었다.\n- 사임 소식 직후 나스닥 선물이 7% 급락하고 엔비디아 주가가 시간 외 거래에서 폭락하는 등 기술주 전반에 투매세가 나타났다.\n- 국내 증시 역시 여파를 피하지 못하고 코스피 지수가 5342 하락 마감하며 시장의 변동성이 극대화된 모습을 보였다.\n- 일부 투자자들은 사생활 스캔들 이슈보다 저가 매수 기회에 주목하며 반등을 시도했으나 경영권 공백에 대한 우려는 여전하다.\n\n**💬 핵심 Q&A**\n- **Q. 젠슨 황의 사임이 엔비디아 기업 가치에 즉각적인 타격을 준 핵심 기제는 무엇인가?**\n  A. 창업자이자 상징적 인물인 젠슨 황의 부재가 AI 산업 내 엔비디아의 독보적인 지배력 약화로 이어질 것이라는 공포가 투매를 촉발했다. 특히 사생활 스캔들과 연계된 갑작스러운 사임 소식은 경영권 공백에 대한 불확실성을 극대화하며 나스닥 선물 하락과 시총 급락을 야기했다.\n- **Q. 임시 CEO로 임명된 콜레트 크레스 CFO 체제에서 시장이 우려하는 리스크는 무엇인가?**\n  A. 재무 전문가인 크레스가 기술 혁신을 주도해야 하는 AI 반도체 기업의 비전을 젠슨 황만큼 강력하게 제시할 수 있을지에 대한 의구심이 존재한다. 경영진 교체기에 발생할 수 있는 전략적 의사결정 지연이 경쟁사들의 추격 기회로 작용할 수 있다는 점이 주요 리스크 경로로 분석된다.\n- **Q. 국내 증시가 미 증시보다 더 민감하게 반응하며 코스피가 급락한 배경은 무엇인가?**\n  A. 삼성전자와 SK하이닉스 등 엔비디아 공급망에 직결된 반도체 대형주 비중이 높은 국내 증시 특성상 엔비디아의 위기는 곧 국내 수출 기업의 실적 악화로 직결된다는 심리가 작용했다. 글로벌 AI 밸류체인의 핵심 축이 흔들리면서 외국인 투자자들이 신흥국 시장에서 자금을 우선적으로 회수한 결과이다.\n\n**👀 앞으로 볼 포인트**\n- 콜레트 크레스 임시 CEO 체제의 경영 안정성\n- 엔비디아 주가의 저가 매수세 유입 및 지지선 확보\n- 젠슨 황 사임 관련 추가 후속 보도 및 공식 입장\n\n<sub>참고: [한겨레](https://news.google.com/rss/articles/CBMickFVX3lxTE04X1F5Yks1a0dtRkREbXJ0TnZrNnNHZUR6aTl1VThLcGV0OFZQN2RDY3ptQWtJWEFMOHNnay1tUkFRbE9MQjFfU2JvdmJYTlFlZDNGMXNQWU9NMmhadWJfTjlGTDZMTlJaRU5XOUFxQWtNdw?oc=5) / [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lNzZSOFdkMEl0cVBNbmQtWU9RcHliZm9IT1NQcjVoUG81VEV4alRHMVRMaXJzekt5M1NrcDhjVUFxazhmUGdhalhzNWpLMVZwN21kZ2lnOFBtZ0k?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE1nOGpwQlFQN1lrV1BoYnM0T2Nidy1oS1ZMUGpJRXM1Zms0YnRNMWdnMEVoUEZIdmtBcWN4M3dIUDA2R2ZTYmNuOW4zMUJUNXVUeXRZd2h4VE1XclBNbDhpM0ZUVDRNQXhrWHNPN0xvRGc?oc=5)</sub>\n\n---\n\n### 2. 강남발 하락세 확산에 서울 집값 주춤\n> 키워드: 서울 아파트값 상승폭 축소\n\n**📌 무슨 일이 있었나**\n- 서울 아파트값 상승세가 둔화되며 강남 3구를 포함한 8개 자치구에서 상승폭이 축소된 것으로 나타났다.\n- 강남권에서 시작된 약세가 한강벨트로 확산되면서 성동구와 강동구의 아파트값이 하락으로 전환되는 등 시장 분위기가 냉각되었다.\n- 강남권 하락세와 대조적으로 강북권 일부 중저가 단지에는 매수세가 유입되는 역설적인 흐름이 관찰되기도 했다.\n- 서울시와 LH 간의 책임 공방 속에 도심 복합 사업이 지연되면서 주택 공급 불확실성이 시장의 불안 요소로 잔존하고 있다.\n\n**💬 핵심 Q&A**\n- **Q. 강남 3구의 아파트값 약세가 성동·강동구 등 주변 지역으로 전이된 원인은 무엇인가?**\n  A. 고점 인식 확산과 대출 규제 강화로 인해 매수 심리가 위축되면서 강남권의 가격 조정이 인접한 상급지로 확산되는 양상이다. 투자 수요가 몰렸던 한강벨트 지역에서 차익 실현 매물이 늘어나고 매수 대기자들이 관망세로 돌아선 것이 하락 전환의 주요 원인이다.\n- **Q. 강남권 하락 속에서도 강북권 중저가 단지에 매수세가 유입되는 현상을 어떻게 해석해야 하는가?**\n  A. 고가 아파트에 대한 대출 문턱이 높아지자 상대적으로 진입 장벽이 낮은 강북권 중저가 단지로 실수요가 이동하는 풍선효과가 발생한 것이다. 이는 전체 시장의 대세 상승보다는 규제를 피한 틈새 수요의 이동으로 보이며 시장 양극화가 심화되는 과정으로 분석된다.\n- **Q. 서울시와 LH 간의 도심 복합 사업 책임 공방이 향후 공급 시장에 미칠 영향은 무엇인가?**\n  A. 사업 지연이 장기화될 경우 도심 내 신축 아파트 공급 계획에 차질이 생겨 중장기적인 수급 불균형을 초래할 수 있다. 공급 부족 우려가 해소되지 않으면 현재의 일시적 가격 조정 이후 다시 매수세가 붙는 불씨가 될 수 있어 정책적 합의가 시급한 분기점이다.\n\n**👀 앞으로 볼 포인트**\n- 성동·강동구의 하락 전환 추세 지속 여부\n- 도심 복합 사업 지연 해소를 위한 국토부 중재안\n- 강북권 중저가 아파트 매수세의 지속 가능성\n\n<sub>참고: [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTFBoM1hsdXdRVUZKckEzbTJ0NmZFVmhVYVNZVGJqMjY2V2lCQ09saXMzSll5eUhaSUlLNm9kcE9BcFFhVE9sU20wLWFheURkS3dKWWZwN0RUY3VSaHRKRHY0ZXNzNV9UdkpYeUcwTV9RazE?oc=5) / [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yTnd6YUtlS3dHbURsa3p0ZTdDaFlCalFmUFNRQ2FHM3BiTDBOOTRWYzdPeG11RzcweVg0bGU5NlV6T0tNOHB3V0tsM3VWdXZueGg3MmgxUWZ1dms?oc=5) / [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oZFc5aWlJcXFyNWFZTmJQVDZNeHB1Xy1ienRFXzRweEZDblRHMnpvdkthei12WUJFRVUyMU9PRS1oZVBOYlZhb2RubDFjZTlPa0tJcWFyLUlRN28?oc=5)</sub>\n\n---\n\n### 3. 잇단 해킹에 금융·유통 보안 체계 비상\n> 키워드: 해킹 사고 잇따른 보안 강화\n\n**📌 무슨 일이 있었나**\n- 가상자산거래소들이 해킹 의심 징후 포착 시 입출금을 선제적으로 차단하는 강력한 보안 강화 대책을 도입하기로 했다.\n- 금융보안원장은 최근 잇따른 해킹 사고에 대해 공식 사과하며 재발 방지를 위한 보안 관제 시스템 고도화를 약속했다.\n- 일본 무인양품에서 카드번호 109만 건이 유출되고 국내 홈캠 10대 중 3대가 해킹에 취약한 것으로 드러나 사생활 침해 우려가 커졌다.\n- 금융당국은 보안 사고 책임을 묻기 위해 은행지주 CEO의 연임 문턱을 높이는 등 지배구조 규제 강화를 검토 중이다.\n\n**💬 핵심 Q&A**\n- **Q. 가상자산거래소의 선제적 입출금 차단 조치가 투자자 보호와 자산 유동성에 어떤 영향을 미치는가?**\n  A. 해킹 발생 시 자산 유출을 즉각 막을 수 있는 강력한 방어 기제이나, 오탐지로 인해 정상적인 거래가 제한될 경우 투자자의 재산권 침해 논란이 발생할 수 있다. 보안성과 이용자 편의성 사이의 균형을 맞추기 위한 정교한 이상거래 탐지 알고리즘 확보가 핵심 과제이다.\n- **Q. 무인양품의 대규모 카드 정보 유출 사고가 유통업계 전반의 결제 보안 시스템에 주는 경고는 무엇인가?**\n  A. 글로벌 유통망을 가진 기업일수록 해커들의 표적이 되기 쉬우며, 단 한 번의 뚫림으로 백만 건 이상의 개인정보가 유출될 수 있음을 보여준다. 이는 단순한 데이터 암호화를 넘어 결제 데이터의 분산 저장과 실시간 보안 모니터링 체계 구축이 유통업계의 필수 생존 전략임을 시사한다.\n- **Q. 홈캠 해킹 취약성 문제가 스마트홈 산업의 신뢰도에 어떤 타격을 줄 것으로 보이는가?**\n  A. 10대 중 3대가 무방비 상태라는 통계는 소비자들에게 스마트 기기가 오히려 사생활 침해의 도구가 될 수 있다는 공포를 심어주어 수요 위축을 초래할 수 있다. 제조사의 보안 패치 업데이트 의무화와 국가 차원의 보안 인증 제도가 정착되지 않으면 산업 전체의 성장이 저해될 가능성이 크다.\n\n**👀 앞으로 볼 포인트**\n- 가상자산거래소의 실시간 이상거래 탐지 시스템 성능\n- 홈캠 보안 인증 의무화 등 정부의 기술적 가이드라인\n- 금융지주 주총 의결요건 강화 법안 통과 여부\n\n<sub>참고: [YTN](https://news.google.com/rss/articles/CBMiXkFVX3lxTE40czhTQllwN2ExUzRkSzZ4VW5wZEhDSWUzSTJXNmhvU1hxMHYxdDhnY2t4aS1jWk5URmxiNldta19jUGpLX0I5SjdQR0pZdVZjdG5jUEloZnktVHRqMlE?oc=5) / [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ubl9CNWJxamlGSklxN3BtSURVYV85T0poVXZzU2pTaFNmWHJYb3hvdkRHa0xYVW9nQnpYZ0JXclh6Y0NfWUE5UnVLZ29FaUt0WGJhT1J5b2N4ZzQ?oc=5) / [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYZW9pZmZzZU1QNE4wZXdqR2xHVWlob05SUHpfNTNmNklUbDdqbzNDMFAtQ3ZHMGctWU56RU1ZdTktXzFNdGY4WkpLaFVNaDM0TFFSY21iUnpmMzQ?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. AI 거품론 확산에 나스닥 5.5% 폭락\n> 키워드: 나스닥 AI 기술주 투매 폭락\n\n**📌 무슨 일이 있었나**\n- 뉴욕증시에서 AI 기술주에 대한 대규모 투매가 발생하며 나스닥 지수가 하루 만에 5.5% 폭락하는 초유의 사태가 벌어졌다.\n- 이번 폭락으로 AI 관련 주요 기업들의 시가총액 중 약 2조 5천억 달러가 증발하며 시장의 공포 심리가 극대화되었다.\n- 투자자들이 AI 수익성에 대한 의구심과 고점 인식에 따라 차익 실현 매물을 쏟아내면서 주요 기술주들이 일제히 무너졌다.\n- 나스닥의 급락은 글로벌 증시 전반의 투자 심리를 위축시켰으며 장중 조정장에 진입하는 등 불안한 흐름을 보였다.\n\n**💬 핵심 Q&A**\n- **Q. 단 하루 만에 2조 5천억 달러의 시가총액이 증발한 폭락의 근본적인 트리거는 무엇인가?**\n  A. AI 기술에 대한 막대한 투자 대비 가시적인 수익 모델이 부족하다는 'AI 거품론'이 시장을 지배하며 투매를 유도했다. 여기에 금리 인상 우려와 경기 둔화 신호가 겹치면서 밸류에이션 부담이 컸던 고성장 기술주들이 가장 먼저 타격을 입은 결과이다.\n- **Q. 나스닥 5.5% 폭락이 향후 기술주 중심의 투자 패러다임을 어떻게 변화시킬 것으로 보이는가?**\n  A. 단순한 기대감만으로 주가가 오르던 시기는 지나고, 실제 매출과 이익으로 AI 역량을 증명하는 기업 위주로 시장이 재편될 가능성이 크다. 투자자들이 리스크 관리를 위해 레버리지 포지션을 축소하고 우량주 중심의 선별적 투자를 강화하는 보수적 기조가 뚜렷해질 것이다.\n- **Q. 이번 폭락 사태가 기술적 조정인지 혹은 장기 하락장의 시작인지를 가를 분기점은 무엇인가?**\n  A. 향후 발표될 주요 AI 기업들의 분기 실적에서 인프라 투자 비용 대비 영업이익률 개선 여부가 핵심 지표가 될 것이다. 만약 실적 개선세가 확인되지 않은 상태에서 물가 지표마저 악화된다면 저가 매수세 유입보다는 추가적인 투매가 발생할 위험이 높다.\n\n**👀 앞으로 볼 포인트**\n- 나스닥 지수의 추가 하락 여부 및 지지선 확인\n- AI 관련주들의 실적 발표를 통한 수익성 검증\n- 글로벌 헤지펀드들의 기술주 포지션 재조정 동향\n\n<sub>참고: [한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CTXc5dFhOdDBtSW5fYUYwRl9zUXNMRURHZEVuWGZtVlNIeG84bFlNblhWcmpVX3g2cE5fbnZ6ZmVBQkhQbWtTa0QtZzQ5UWtTWDNJNS10aXY1UQ?oc=5) / [MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTE5Qd0Y4NmJERl9KdU1HWFBSOUtVb1JsNXQ1Yk1hb2IxX0pyaks1YllPMmFxd2lWUzNUdG1mREVZOEhaVWtnSDhCQUdDb1RHSmM3NXBoSVBIR0xQeTFwZWdYX3kyUUlmbnZzcktLaVdYZW9veF9L0gF0QVVfeXFMTng1bHBRSmlWTHFLajFFYVJKUUpxVkZWMkZHWVlUMWlJZlRkdnVfSHhpR3VCREVXT1Fpdk9FUVMtOGRqVjRGQWxLNG5PbUFwUksxV0pPVlpZRGN6S1pCWVg3UkE0RmxaTzVtb2dxd2lNM295dXQ?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nRXhzN3BLRm5lenUzcGM5M2VJbGNRN1Y0MGlWYzN1WmJ6S0JhWHhhSGVBWlRxZmdiUVg2S3FmM1J4dzcyX1JuVk1QdTdoUDlWVDBwSW9ya1lTamvSAWBBVV95cUxNSmxpNHdIS29hWlFNeTFob2JyeHphaUo5R3dOaVdHQjdmeE1Ga013amRYaVJ4WWNxalctUExPNWo4LXBpZ1BfXzlXRHZ0OWNUbHFTN2ExUmhfTzF4bFU2b28?oc=5)</sub>\n\n---\n\n### 2. 코어위브 실적 호조에 AI 기술주 반등\n> 키워드: 코어위브 훈풍에 기술주 반등\n\n**📌 무슨 일이 있었나**\n- AI 클라우드 기업 코어위브의 호실적 발표가 시장에 훈풍을 불어넣으며 나스닥 지수가 1.6% 반등에 성공했다.\n- 코어위브발 AI 수요 건재 소식에 엔비디아 주가가 2.8% 상승하는 등 폭락했던 기술주들이 일제히 오름세로 돌아섰다.\n- 뉴욕증시의 반등 영향으로 국내 증시에서도 삼성전자가 1%대 강세를 보이며 반도체 업황 회복에 대한 기대감을 높였다.\n- S&P500과 나스닥이 상승 출발하며 AI 관련주를 중심으로 저가 매수세가 유입되는 등 시장 심리가 일부 회복되는 양상이다.\n\n**💬 핵심 Q&A**\n- **Q. 코어위브라는 특정 기업의 실적이 나스닥 전체 기술주 반등을 이끌어낸 메커니즘은 무엇인가?**\n  A. 코어위브는 AI 연산을 위한 GPU 클라우드 서비스를 제공하므로, 이들의 실적 호조는 곧 AI 인프라에 대한 기업들의 수요가 여전히 강력함을 입증하는 지표가 된다. 이는 AI 거품론에 시달리던 엔비디아 등 하드웨어 제조사들의 미래 수익성을 보증하는 신호로 해석되어 투자 심리를 반전시켰다.\n- **Q. 엔비디아가 2.8% 반등하며 기술주 상승을 주도한 것이 하락 추세의 완전한 종결을 의미하는가?**\n  A. 기술적 반등의 성격이 강하며, 젠슨 황 사임 여파 등 경영 불확실성이 완전히 해소되지 않았기에 추세적 상승으로 단정하기는 어렵다. 다만 코어위브와 같은 전방 산업의 실적 뒷받침은 주가의 하방 경직성을 확보해주는 중요한 펀더멘털 근거가 된다.\n- **Q. 미국 기술주 반등 속에서도 코스피가 약세 전환과 혼조세를 반복한 이유는 무엇인가?**\n  A. 삼성전자 등 특정 종목은 강세를 보였으나, 환율 변동성과 글로벌 금리 인상 우려가 국내 증시 전반의 하방 압력으로 작용했기 때문이다. 미 증시의 온기가 국내 반도체 섹터에는 전달되었지만, 경기 민감주 전반으로 확산되기에는 대외 거시경제 환경의 불확실성이 여전히 높다.\n\n**👀 앞으로 볼 포인트**\n- 코어위브 실적이 반도체 공급망에 미치는 낙수효과\n- 엔비디아의 2.8% 반등세 지속 및 전고점 회복 여부\n- 국내 반도체 대형주의 외국인 순매수 전환 시점\n\n<sub>참고: [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NUjRCTDJ0THF1T29NQ2g3ckRSQW9BRklabldoWFpNaktYcUl2bENraUxYN3BsQ19iaGFkaUdpbVAzSWJzdTZxdWNVR2pmREg1Rm4zZGxEVkVhSmfSAWBBVV95cUxQbkxweGJQMVJEV09ucXRkS05CbVRLWi1henM0OHJzSGhtYkR2NENkeC02MmtqbTVPYUh6WUxiZGR2Y3l3cnR4OE5aSVZvZ0JPVkV4T2gwbUd3Vy1VamloclA?oc=5) / [오피니언뉴스](https://news.google.com/rss/articles/CBMicEFVX3lxTE1Hb0VSY2c2MElwTkVuQ1BTRVYxRDluRGxVemhWYjBJV3FXMXVoR1ZGemtJM0hHZ3RraGEwc0g1eWJ6ZjdJLUtRdC1CUEdQRzNKeC1YVnhiZjJPM0VmUmJCVGd0SENYalhjLUVaMm9lZWI?oc=5) / [글로벌이코노믹](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZDlDb29MaEtSc2FUQ2UyOXZxM09sb05maFdINWM5Uk1lWGR5akhVenRkTlI1dXIyOW43bDNJZmtGd0gyNC1QNE5hUC01MnFIX1IxeXlnMF9rVUpOQW1rYUdVQmpPdjBPWmc1ZXBwTXRKbS16bnFjMHJyUENWMTExTExSMEJIRzN0?oc=5)</sub>\n\n---\n\n### 3. 미 CPI 예상 상회에 금리 인상론 재점화\n> 키워드: 미국 물가 상승에 금리 인상론\n\n**📌 무슨 일이 있었나**\n- 미국의 10월 소비자물가지수(CPI)가 전월 대비 0.4% 상승하며 시장 예상치를 웃돌자 연준의 긴축 기조가 강화될 것이라는 우려가 커졌다.\n- 시카고 연은 총재가 연준의 물가 관리 실패를 인정해야 한다고 발언하며 정책 실기론을 제기해 시장의 불안감을 증폭시켰다.\n- JP모건은 인상 기대가 이미 정점에 달했다고 분석했으나 월가 전문가들은 추가 인상이 경기 회복을 꺾을 수 있다고 경고했다.\n- 물가 압력에 따른 증시 급락 여파로 헤지펀드들은 10여 년 만에 최대 규모로 포지션을 축소하며 리스크 관리에 돌입했다.\n\n**💬 핵심 Q&A**\n- **Q. 10월 CPI가 0.4% 상승하며 예상을 상회한 것이 연준의 12월 금리 결정에 어떤 변수로 작용하는가?**\n  A. 물가 상승세가 둔화되지 않고 고착화될 조짐을 보이면서 연준이 금리 동결 대신 추가 인상 카드를 검토할 명분이 강화되었다. 특히 시카고 연은 총재의 비판적 발언은 연준 내부에서도 현재의 금리 수준이 물가를 잡기에 충분하지 않다는 매파적 목소리가 커지고 있음을 시사한다.\n- **Q. JP모건의 '인상 기대 정점' 분석과 월가의 '경기 위축 경고'가 충돌하는 배경은 무엇인가?**\n  A. JP모건은 에너지 가격 하락 등 향후 물가 하방 요인에 주목해 추가 인상이 불필요하다고 보지만, 월가 전문가들은 물가를 잡기 위한 과도한 긴축이 실물 경제를 침체에 빠뜨리는 '오버슈팅' 리스크를 우려하는 것이다. 이는 물가 안정과 경기 부양 사이에서 연준이 직면한 딜레마를 극명하게 보여준다.\n- **Q. 헤지펀드들이 10여 년 만에 최대 규모로 포지션을 축소한 행보가 시장에 주는 시그널은 무엇인가?**\n  A. 전문 투자자들이 현재의 물가 상승과 금리 불확실성을 단순한 변동성이 아닌 장기적인 시장 하락의 전조로 받아들이고 있음을 의미한다. 자산 배분 전략이 공격적 수익 추구에서 현금 확보와 방어적 포트폴리오 구축으로 급격히 전환되면서 시장의 유동성 위축이 가속화될 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 12월 FOMC 전 발표될 마지막 CPI 수치\n- 임금 상승률이 근원 물가에 미치는 추가 압력\n- 연준 위원들의 금리 경로 관련 추가 발언\n\n<sub>참고: [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE90b3ZMYTN1bnlYZUdtbDhDNWlWWjdMVGE3aVJEaDM5a2hEQ09KQno1dmVxSHl0aEhuRmNmVGtoSHhKVXBnaWlFVGhsUnVjV3V3T2gtWkRkTWhxTWRSVGVOZFBiV0VvUUdzejFNZ2g2RFk?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE03N1Y3YURkUVpUM2RKc3AwZG5wQUNXYVRmSF9JcGhOTFlocWlPSDhnZnlGZ1NCNS1WX0pySzRhMDFUTS04bGotMjJLd3cya0YzX2IzUFVCNjhQV1pMLVZpa0R2VlRkT3Bqdzc2M25YdE4?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE9aN2tHeV9wZDVhSGtpYzZ1cW5GTTJjTV8yOWJtM1VMWGdSRlVkZEdPNENwUnhGWUdfb3dmdzZyVEJUT0JtaDVXdC12OUdjWkYxSTJvTDdSdWpyRDVYMjNxU0o3dlRnVnFzX284b29VaTA?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 보도를 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
     "generation_mode": "gemini"
   },
-  "updated_at": "2026-11-13 17:19:03 KST"
+  "updated_at": "2026-11-13 20:52:52 KST"
 }
