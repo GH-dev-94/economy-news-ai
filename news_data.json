@@ -6,93 +6,91 @@
     "domestic": {
       "keywords": [
         "코스피 5000선 붕괴",
-        "금융권 해킹 사고",
-        "수도권 집값 상승"
+        "보안 취약점 및 해킹 피해",
+        "수도권 집값 상승 및 격차"
       ],
       "results": {
         "코스피 5000선 붕괴": {
-          "headline": "코스피 5000선 붕괴, 외인 1.5조 투매에 9개월 만에 최저치",
+          "headline": "코스피 5000선 붕괴 외국인 1조 원 매도 폭탄",
           "facts": [
-            "코스피 지수가 외국인의 강력한 매도세에 밀려 5000선 아래로 추락하며 4960선까지 후퇴했다.",
-            "외국인 투자자들은 하루 동안 유가증권시장에서 1.2조 원에서 최대 1.5조 원 규모의 주식을 순매도하며 지수 하락을 주도했다.",
-            "이번 5000선 붕괴는 지난 9개월 만에 처음 발생한 사건으로 장중 내내 반등 기회를 잡지 못하고 하락 마감했다.",
-            "미국발 젠슨 황 사임 소식과 연준의 AI 위험 경고 등 대외 악재가 겹치며 국내 증시의 투자 심리가 급격히 얼어붙었다."
+            "코스피 지수가 외국인의 1조 원 넘는 대규모 매도세에 밀려 전 거래일 대비 2.59% 하락하며 5,000선 아래로 내려앉았으며 이는 시장의 예상치를 크게 하회하는 급격한 하락세로 기록되었다.",
+            "엔비디아의 실적 발표를 하루 앞두고 시장의 경계감이 극에 달한 가운데 반도체 대형주를 중심으로 차익 실현 매물이 쏟아지며 지수 하락을 주도하는 양상이 뚜렷하게 나타났다.",
+            "지수 5,000선이 무너진 것은 약 9개월 만의 일로 장중 내내 하락 압력이 지속되었으며 투자 심리가 급격히 위축되면서 개인 투자자들의 저가 매수세도 지수를 방어하기에는 역부족이었다.",
+            "외국인 투자자들은 오후 들어 매도 폭을 더욱 확대하며 지수 하방 압력을 가중시켰고 기관 역시 동반 매도에 나서며 코스피는 장중 한때 최저점을 경신하는 등 불안한 흐름을 보였다."
           ],
           "watch": [
-            "외국인 자금의 추가 이탈 여부 및 순매도 규모 추이",
-            "4900선 지지 여부와 기관 투자자의 저가 매수세 유입",
-            "미국 반도체 지수 변동에 따른 국내 IT 대형주 영향"
+            "엔비디아 3분기 실적 및 가이드라인 발표",
+            "외국인 순매도세 진정 여부 및 수급 변화",
+            "5,000선 회복을 위한 기술적 지지선 확인"
           ],
           "qna": [
             {
-              "q": "외국인이 하루 만에 1.5조 원을 투매하며 지수를 끌어내린 결정적 배경은 무엇인가?",
-              "a": "미국 엔비디아의 수장인 젠슨 황의 사임 소식과 연준의 AI 거품 경고가 맞물리며 글로벌 기술주 펀드에서 자금이 급격히 빠져나갔다. 한국 증시는 반도체 비중이 높아 글로벌 AI 투자 심리 위축에 직격탄을 맞으며 외국인의 차익 실현 매물이 집중된 것으로 분석된다."
+              "q": "엔비디아 실적 발표 전후로 외국인이 1조 원 이상을 투매한 배경은 무엇인가?",
+              "a": "실적 기대감이 이미 주가에 선반영되었다는 판단과 함께 실제 결과가 시장의 높은 눈높이를 충족하지 못할 경우 발생할 급락 리스크를 피하려는 선제적 대응이다. 특히 한국 증시는 반도체 비중이 높아 글로벌 AI 업황의 작은 변동성에도 외국인 자금이 민감하게 유출입되는 구조적 특성을 지닌다."
             },
             {
-              "q": "9개월 만에 5000선이 무너진 것이 시장에 주는 심리적 임계점의 의미는 무엇인가?",
-              "a": "5000선은 투자자들에게 강력한 지지선이자 시장의 상승 추세를 가늠하는 심리적 마지노선 역할을 해왔다. 이 선이 허무하게 깨지면서 추가 하락에 대한 공포가 확산되었으며, 손절매 물량이 쏟아지는 연쇄 반응을 일으켜 하락 폭을 키웠다."
+              "q": "5,000선 붕괴가 국내 반도체 밸류체인 기업들의 자금 조달 환경에 어떤 영향을 미치는가?",
+              "a": "주가 하락으로 인해 시가총액이 감소하면 기업들의 담보 가치가 하락하고 유상증자나 전환사채 발행 시 발행 가액이 낮아져 자금 조달 비용이 상승하는 결과를 초래한다. 이는 설비 투자가 필수적인 반도체 기업들에게 장기적인 성장 동력 약화로 이어질 수 있는 위험 요소이다."
             },
             {
-              "q": "국내 증시가 단기 반등에 성공하기 위해 필요한 선결 조건은 무엇인가?",
-              "a": "무엇보다 외국인의 매도세 진정과 환율 안정이 우선되어야 하며, 삼성전자 등 시가총액 상위 반도체 종목의 주가 회복이 필수적이다. 또한 미국 나스닥 시장의 AI 관련주들이 진정세를 보여야 국내 증시로의 저가 매수세 유입을 기대할 수 있다."
+              "q": "기술적 분석 관점에서 지수 반등을 견인할 수 있는 핵심 수급 주체와 지표는 무엇인가?",
+              "a": "외국인의 매도세 멈춤과 함께 연기금을 비롯한 기관의 강한 순매수 전환이 필수적이며 고객예탁금의 증감 추이가 반등의 강도를 결정할 것이다. 또한 원/달러 환율의 안정세가 동반되어야 외국인 투자자들이 환차손 우려를 덜고 다시 국내 시장으로 유입될 수 있는 환경이 조성된다."
             }
           ]
         },
-        "금융권 해킹 사고": {
-          "headline": "금융보안원·코인원 잇단 해킹, AI 기반 지능형 공격에 보안망 비상",
+        "보안 취약점 및 해킹 피해": {
+          "headline": "아세안정상회의·레고랜드 잇단 해킹 피해 발생",
           "facts": [
-            "금융권 보안의 핵심 기관인 금융보안원이 해킹 사고를 당해 금융위원회가 긴급 현장 점검에 나섰다.",
-            "가상자산 거래소 코인원의 고객센터가 해킹되어 고객의 자산 탈취 및 사생활 침해 우려가 커지고 있다.",
-            "레고랜드에서도 해킹으로 인해 고객의 이름, 전화번호, 연간이용권 정보 등 민감한 개인정보가 대거 유출되었다.",
-            "국회의원 비서관을 사칭한 해킹 시도가 포착되었으며, 배후로 북한 연계 해킹 조직인 '김수키'가 의심받고 있다.",
-            "구글은 AI가 스스로 취약점을 찾아 공격하는 '자율형 해킹'이 현실화되었다고 경고하며 보안 위협의 진화를 지적했다."
+            "아세안정상회의가 중국 해커 조직의 공격을 받은 것으로 드러나며 외교 안보를 둘러싼 해킹 전쟁이 본격화되었고 국가 주요 행사의 보안 체계에 대한 우려가 커지고 있다.",
+            "레고랜드 코리아에서도 해킹 사고가 발생하여 고객의 성명과 전화번호는 물론 연간 이용권 정보까지 대거 유출되는 등 민간 서비스 분야의 보안 취약점이 여실히 드러났다.",
+            "코인원 고객센터가 해킹당하며 이용자들의 자산 탈취와 사생활 침해 가능성이 제기되었고 의원 비서관을 사칭한 북한 연계 조직 '김수키'의 공격 정황도 포착되어 긴장이 고조되고 있다.",
+            "금융감독원은 대부업권의 보안 취약점을 집중 점검하고 해킹 방어 체계가 미흡한 업체에 대해 엄정 제재를 가할 방침이며 불법 사금융 피해 지원을 위한 온라인 신청 시스템을 가동했다."
           ],
           "watch": [
-            "금융당국의 금융보안원 현장 점검 결과 및 책임 추궁 수위",
-            "코인원 등 가상자산 거래소의 추가 피해 규모 확인",
-            "AI 기반 해킹 방어를 위한 금융권 보안 시스템 고도화 계획"
+            "금감원의 대부업권 보안 점검 결과 및 제재",
+            "유출된 개인정보를 악용한 2차 금융 범죄",
+            "국가 배후 해킹 조직에 대한 외교적 대응"
           ],
           "qna": [
             {
-              "q": "대응 기관인 금융보안원까지 해킹당한 상황이 금융권 전체에 주는 시사점은 무엇인가?",
-              "a": "최후의 보루인 보안 전문 기관마저 뚫렸다는 점에서 기존의 방어 체계가 지능화된 공격을 막기에 역부족임을 드러냈다. 이는 개별 금융사의 보안 점검을 넘어 국가 차원의 금융 보안 거버넌스를 전면 재검토해야 하는 심각한 상황임을 의미한다."
+              "q": "아세안정상회의와 같은 국제 행사를 겨냥한 해킹 공격이 외교 안보에 미치는 실질적 위협은 무엇인가?",
+              "a": "정상 간의 비공개 논의 내용이나 국가 간 전략적 협력 방안이 유출될 경우 외교적 주도권을 상실하거나 국가 신뢰도에 치명적인 타격을 입을 수 있다. 이는 단순한 정보 탈취를 넘어 국가 간 사이버 교전 상태로 번질 수 있는 중대한 안보 위협으로 간주된다."
             },
             {
-              "q": "AI를 활용한 자율형 해킹이 실제 금융권 공격에 도입될 경우 어떤 위험이 발생하는가?",
-              "a": "사람의 개입 없이 AI가 실시간으로 보안 취약점을 찾아내고 공격 패턴을 바꾸기 때문에 기존의 규칙 기반 방어 시스템으로는 대응이 불가능하다. 특히 인터넷 은행이나 가상자산 거래소처럼 비대면 거래가 잦은 곳에서 대규모 자산 탈취가 순식간에 일어날 수 있다."
+              "q": "가상자산 거래소 고객센터 해킹이 단순 정보 유출을 넘어 자산 탈취로 이어지는 구체적인 경로는 어떻게 되는가?",
+              "a": "해커가 탈취한 고객 정보를 바탕으로 피싱 메일을 발송하거나 고객센터 상담원을 사칭하여 2차 인증 번호나 개인 키를 탈취하는 사회공학적 기법을 사용한다. 이를 통해 사용자의 계정에 직접 접속하여 가상자산을 외부 지갑으로 전송하는 방식으로 실질적인 자산 피해를 입힌다."
             },
             {
-              "q": "정치권 사칭 해킹과 금융권 공격이 동시에 발생하는 현상을 어떻게 해석해야 하는가?",
-              "a": "사회적 혼란을 야기하고 주요 정보를 탈취하려는 국가 배후 해킹 조직의 소행일 가능성이 높으며, 이는 단순한 금전적 이득을 넘어 국가 안보 위협으로 확장되고 있다. 금융 정보와 정치적 정보를 동시에 노리는 복합 테러 형태의 사이버 공격에 대비한 민관 합동 대응이 시급하다."
+              "q": "레고랜드 등 민간 서비스의 정보 유출 사고 시 기업이 져야 할 법적 책임과 보상 범위의 기준은 무엇인가?",
+              "a": "개인정보보호법에 따라 기업이 기술적·관리적 보호 조치 의무를 다했는지 여부가 핵심이며 과실이 입증될 경우 매출액의 일정 비율에 해당하는 과징금이 부과될 수 있다. 피해 고객에 대해서는 유출된 정보의 민감도와 실제 발생한 금전적·정신적 피해 규모를 산정하여 손해배상 책임이 결정된다."
             }
           ]
         },
-        "수도권 집값 상승": {
-          "headline": "경기 집값 상승률 서울 추월, 은마아파트 분담금 8억 원 압박",
+        "수도권 집값 상승 및 격차": {
+          "headline": "수도권 집값 양극화 심화 상하위 격차 52배",
           "facts": [
-            "수원 영통과 화성 동탄을 중심으로 경기도 아파트값 상승률이 서울을 앞지르는 기염을 토했다.",
-            "전국 주택소유 비율이 57.6%로 역대 최고치를 기록한 가운데 평균 집값은 전년 대비 9% 상승했다.",
-            "서울 대치동 은마아파트는 재건축 분담금 4억 원과 재초환 4억 원 등 총 8억 원의 비용 부담에도 불구하고 거래가 활발하다.",
-            "서울 전체 집값 상승세는 3개월 연속 둔화하며 6개월 만에 최저 수준의 상승 폭을 기록했다.",
-            "오세훈 서울시장은 정부의 부동산 시장 안정화 인식을 정면 반박하며 서울 집값이 아직 불안정하다고 경고했다."
+            "주택 소유 상위 10%와 하위 10%의 자산 격차가 52배까지 벌어지며 역대 최대치를 기록하는 등 유주택자 사이에서도 자산 양극화 현상이 심각한 수준으로 나타났다.",
+            "경기도 수원 영통과 화성 동탄 등 반도체 벨트 지역의 집값 상승률이 서울을 앞지르는 기염을 토하며 수도권 부동산 시장의 중심축이 이동하는 지각변동이 관측되었다.",
+            "10월 코픽스가 3.62%를 기록하며 주택담보대출 변동금리가 2개월 연속 상승함에 따라 대출을 통해 내 집을 마련한 가계의 이자 상환 부담이 한층 무거워진 상황이다.",
+            "서울의 집값 상승세는 대출 규제 여파로 다소 둔화된 반면 경기도 일부 지역은 반도체 클러스터 조성 등 대형 호재에 힘입어 보합세를 유지하거나 강한 반등세를 보이고 있다."
           ],
           "watch": [
-            "수원·화성 등 경기 남부 지역의 상승세 지속 여부",
-            "재건축 초과이익 환수제 개편 논의 및 분담금 확정 추이",
-            "서울시와 정부 간 부동산 시장 상황 인식 차이에 따른 정책 변화"
+            "코픽스 상승에 따른 주담대 금리 추가 인상",
+            "반도체 클러스터 인근 지역 매수세 유입",
+            "자산 격차 완화를 위한 정부의 세제 변화"
           ],
           "qna": [
             {
-              "q": "서울의 상승세는 둔화하는데 경기 일부 지역이 서울을 앞지른 원인은 무엇인가?",
-              "a": "서울의 급격한 가격 상승에 피로감을 느낀 수요자들이 상대적으로 저평가된 경기 남부의 핵심 거점으로 이동하는 풍선효과가 나타났다. 특히 삼성전자 등 대기업 배후 수요가 탄탄한 수원 영통과 화성 동탄 지역의 신축 선호 현상이 가격을 끌어올린 것으로 분석된다."
+              "q": "주택 자산 격차가 52배까지 벌어진 현상이 가계 소비 여력과 내수 경기에 미치는 파급 효과는 무엇인가?",
+              "a": "자산이 적은 하위 가구는 소득의 상당 부분을 원리금 상환에 지출하며 소비를 줄이는 반면 상위 가구는 자산 가치 상승에 따른 부의 효과로 소비를 유지하는 양극화가 발생한다. 이는 전체적인 내수 활력을 저해하고 계층 간 위화감을 조성하여 사회적 비용을 증가시키는 원인이 된다."
             },
             {
-              "q": "은마아파트의 8억 원에 달하는 비용 부담에도 거래가 최다를 기록한 배경은 무엇인가?",
-              "a": "신축 아파트 공급 부족이 심화되는 상황에서 강남 핵심 입지의 미래 가치가 분담금 부담보다 크다고 판단한 투자자들이 유입되었기 때문이다. 재건축 이후의 가치 상승분이 8억 원 이상의 비용을 상쇄할 것이라는 기대감이 시장에 강하게 작용하고 있다."
+              "q": "서울 강남권의 상승세가 둔화된 상황에서 수원과 화성 등 경기 남부권이 독주하는 시장 메커니즘은 무엇인가?",
+              "a": "강남권은 높은 가격대와 강력한 대출 규제로 인해 신규 진입이 차단된 반면 경기 남부권은 상대적으로 진입 장벽이 낮고 반도체 산업 중심의 양질의 일자리가 집중되어 있다. 직주근접 수요와 미래 가치 상승 기대감이 맞물리며 실거주자와 투자자가 동시에 몰리는 현상이 나타나는 것이다."
             },
             {
-              "q": "오세훈 시장이 정부의 부동산 안정화 발표를 정면 반박한 근거는 무엇인가?",
-              "a": "지표상 상승 폭은 줄었으나 강남권 등 선호 지역의 신고가 경신이 계속되고 있어 서민들이 체감하는 주거비 부담은 여전히 높기 때문이다. 공급 대책의 실효성이 나타나기까지 시차가 존재하므로 성급한 낙관론이 투기 심리를 다시 자극할 수 있다는 우려를 표명한 것이다."
+              "q": "금리 상승기와 자산 양극화가 맞물린 시점에서 무주택자의 진입 장벽을 결정짓는 핵심 변수는 무엇인가?",
+              "a": "단순한 매매 가격보다는 총부채원리금상환비율(DSR) 규제 하에서 개인이 감당할 수 있는 대출 한도와 실제 적용되는 가산 금리의 수준이 가장 결정적인 변수이다. 또한 정부가 공급하는 공공분양 주택의 물량과 청약 자격 완화 여부가 무주택자의 주거 사다리 복원 여부를 가를 분기점이 될 것이다."
             }
           ]
         }
@@ -100,18 +98,18 @@
       "news": {
         "코스피 5000선 붕괴": [
           {
-            "title": "코스피 5000선 붕괴…외국인 1.2조 ’팔자’에 4960선까지 후퇴 By EBN - Investing.com 한국어",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBTmFlUEpiZW9PQjduQ005d0o4V21BVzQ0MzQyOE9RdXNnRzlXQk9CMjJ6UlFxLW5hS3lpeUVIa3Bza2w0S3BKMGVUa1VoLVF6bGpMREFZSUZGVVh1c085STBJTWM3cVVPLWw5VTRHNFA?oc=5",
-            "source": "Investing.com 한국어",
-            "published": "11-17 15:33",
-            "snippet": "코스피 5000선 붕괴…외국인 1.2조 ’팔자’에 4960선까지 후퇴 By EBN Investing.com 한국어"
+            "title": "'엔비디아 실적 하루 앞'…코스피 5000선 붕괴 - 뉴스토마토",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lc1ZqODI4RldMY1ZDYkxuYkNfY0l5R0xIYm41d2p1eFpHQ3gwTkpiLUdOaWM2djhEREV5ekxZUklYOEdMMmN4NHNWRnBfRG9hTGdBMlcyb2ZqUFM1LWhHeA?oc=5",
+            "source": "뉴스토마토",
+            "published": "11-17 16:51",
+            "snippet": "'엔비디아 실적 하루 앞'…코스피 5000선 붕괴 뉴스토마토"
           },
           {
-            "title": "코스피, 9개월 만에 5000선 붕괴…외인 1.5조 '팔자' - 글로벌이코노믹",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNlpQSTdNNjhLdmdKN0JreHduRWpGTEd5TEZBVVBkb1ZJWnpBMUlmLWJTVWw4MWVvOElENVVqSkI2VWVsWWI0a3JQOGl4U2pVb2RTem1taW1TU1lXNkh3SjlSNml1RmNyX1hzVk1oa3Y5Y2NIM1RUSnZaUGNPYlVTYlNrajZ4TWhs?oc=5",
-            "source": "글로벌이코노믹",
-            "published": "11-17 15:56",
-            "snippet": "코스피, 9개월 만에 5000선 붕괴…외인 1.5조 '팔자' 글로벌이코노믹"
+            "title": "’5천피’마저 붕괴…코스피, 2.59% 하락 마감 - 연합뉴스TV",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12MmZMUVpndEMwQjV1R2g0cEVjbDlWbUFmZ0lPSkR1U1ZDTGJBbTM5Uk1qRFVYRy1WcVN5Um80OXpRM2lnZ3I3cWN3NW44RUFiM2FQdUUwMkNiNks3Vy1UVi11Y2pUSGc?oc=5",
+            "source": "연합뉴스TV",
+            "published": "11-17 15:36",
+            "snippet": "’5천피’마저 붕괴…코스피, 2.59% 하락 마감 연합뉴스TV [속보] 코스피 장 초반 2%대 하락‥5천 선 아래로 MBC 뉴스 코스피, 2%대 하락…다시 장중 '5천피' 아래로 연합뉴스 '5천피' 붕괴…코스피, 9개월여 만에 최저 수준 SBS 뉴스 코스피 장중 5,000선 하회…외국인 매도에 장 초반 2%대 하락 연합인포맥스"
           },
           {
             "title": "코스피 5,000선 붕괴…외국인 매도에 휘청 - 연합뉴스TV",
@@ -121,6 +119,13 @@
             "snippet": "코스피 5,000선 붕괴…외국인 매도에 휘청 연합뉴스TV"
           },
           {
+            "title": "[오후시황] 외국인 1조원 넘게 매도…코스피 다시 5000선 아래로 - 한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iSnp2OUhUSGRqV0FSYXBaeFdvTXNWM3NfRWthOUtYWDF1QUV4a215WjNxOUJSWFdkY3BYUEJibUZWdktUajRMM0doOS1hZlh2T2F1RkEyZU4wQQ?oc=5",
+            "source": "한국경제",
+            "published": "11-17 14:18",
+            "snippet": "[오후시황] 외국인 1조원 넘게 매도…코스피 다시 5000선 아래로 한국경제"
+          },
+          {
             "title": "[포토] 코스피 5000 붕괴 - 전자신문",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Rel9DanA2OTZURVNyY0tqS3EzNWpPVXZfaTNEa3U0YzZGNVlhWVhhcGdNNzF3cWl5TkZhVWI5N3FXb2NzdF9MV0ZOa2NUQQ?oc=5",
             "source": "전자신문",
@@ -128,48 +133,41 @@
             "snippet": "[포토] 코스피 5000 붕괴 전자신문"
           },
           {
-            "title": "[속보]'못 버텼다' 코스피 결국 5,000선 붕괴 마감 - KBC광주방송",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00RGl0YVVWb1BfbFdfbUoyTWRvSzhLM2paUEpoMVFmRnhoaUdTckxaRkxiTFdKN2VadkdiV1Z1eTJ6MTM3bk5YLXBJUHd5VDdRNk9lRHphZjZHSFZiWlQ2aQ?oc=5",
-            "source": "KBC광주방송",
-            "published": "11-17 16:08",
-            "snippet": "[속보]'못 버텼다' 코스피 결국 5,000선 붕괴 마감 KBC광주방송"
-          },
-          {
-            "title": "코스피, 5000선도 깨졌다…9개월 만에 최저 - 더나은미래",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVd2ZydVA5ZzN3dzdiY0lsb1lwb2tpUnF0WE52S3NuYlFCS2M3STJkZVZPQjJ6dmJRMVhpZ1BfWExrY1NfWGhoTGsyTG5nT2dUTEE?oc=5",
-            "source": "더나은미래",
-            "published": "11-17 17:16",
-            "snippet": "코스피, 5000선도 깨졌다…9개월 만에 최저 더나은미래"
+            "title": "9개월 만에 5,000선 붕괴, 코스피에 무슨 일이? - 네이버페이 머니스토리",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BdWZIbncyZWpIM191OUZ0Rjd0NVNzTG5IcGZJU3dDcTZjQ29DX1dDSGwzYUVHeWs1X2NwbjdpVmJKaFZ0Q0lqQXBaN1hTM093Z1ZlZDlxeUI?oc=5",
+            "source": "네이버페이 머니스토리",
+            "published": "11-17 17:26",
+            "snippet": "9개월 만에 5,000선 붕괴, 코스피에 무슨 일이? 네이버페이 머니스토리"
           }
         ],
-        "금융권 해킹 사고": [
+        "보안 취약점 및 해킹 피해": [
           {
-            "title": "금융위, '해킹 사고' 금융보안원 현장 점검‥\"대응기관서 발생한 사고, 깊은 유감\" - MBC 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3eEEzbEhsWTRoZlRsZHA2WXdkY2VuM2hVaDdMS2xid1dJSVF5U08tVDRHSTlwWnNjTWxuYWVVNWNuVmRGaXBRenV3MjIyWHFaeG15S2kzU3ZNUVc4bjZTQmd0RmtJRUlBNThXLV9MdGg1c1N40gF0QVVfeXFMTm1VTzFiQVBBd1lCZ1lpZDRraF9iMHhhX2l3eG9ZU0JZb3ZXcmhtV3oxREg3RDhKSTFmUWVpb2NXNUdETDRxRDRabFlhSTFtbUlJN1dvU0FCejNFd3BiSUlLN1FDNjNLeGJGakNQUmE2aHpjMXo?oc=5",
-            "source": "MBC 뉴스",
-            "published": "11-16 10:36",
-            "snippet": "금융위, '해킹 사고' 금융보안원 현장 점검‥\"대응기관서 발생한 사고, 깊은 유감\" MBC 뉴스 금융위, '침해' 금융보안원에 쇄신 요구…인력·조직 강화 예상(종합) 연합뉴스 [현장에서] 금융권 AI 해킹, 명확한 책임규명과 피해보상안이 우선 뉴스핌 '해킹사고' 금융보안원 찾은 신진창 부위원장 \"쇄신과 재발방지\" 당부 - 머니투데이 머니투데이 금융권 580여 개사 보안 전수 점검 본격화… 쿠도커뮤니케이션, TuxCare(턱스케어) 기반 서버 보"
+            "title": "금감원, 대부업권 해킹 보안 점검…\"취약점 발견시 엄정 제재\" - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRenF4eHZfRkEtLXVhMXNOZ1dmOTBrMm8xSjkwaHBsNG03NUpkRzNrZV9vbVpuMEZiVGtFTnY4TVJXX0ZJc0xYaGp6d0xPc3lqQ0VEWUJFeVZETHF4N2hrT3Jfa0ttcTRabTczQlZFZ1Y?oc=5",
+            "source": "연합인포맥스",
+            "published": "11-17 14:00",
+            "snippet": "금감원, 대부업권 해킹 보안 점검…\"취약점 발견시 엄정 제재\" 연합인포맥스 금융당국 ‘580개 금융사 보안 전수점검’ 본격화... 연말 CEO 서명 제출 보안뉴스 [단독]금융사들, 평균 3.4일 지나서야 해킹 알았다…15일 걸린 곳도 동아일보 당국, 대부업·전금·온투업 점검 강조…\"이후 사고 엄정 제재\"(종합) 매일경제 마켓 시민단체, 금융권 해킹 개인정보 유출 규탄…\"보안체계 점검\" 연합뉴스"
           },
           {
-            "title": "금감원 “침해사고 책임 물을 것”…전금·온투업자 보안점검 당부 - KBS 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tcG9PZXh5eENPLWtld3hRTVpQZU8yMURzOUFJLUhVUzQ3NmM1cnhXZ290M2R4ekdUNXQxcllPTmRDVTlkOEJlV1FyYzRmbG5lcW1rVHRJVDIxVDRBUjhfZmRKWmQyQQ?oc=5",
-            "source": "KBS 뉴스",
-            "published": "11-17 10:02",
-            "snippet": "금감원 “침해사고 책임 물을 것”…전금·온투업자 보안점검 당부 KBS 뉴스 금융당국 ‘580개 금융사 보안 전수점검’ 본격화... 연말 CEO 서명 제출 보안뉴스 당국, 대부업·전금·온투업 점검 강조…\"이후 사고 엄정 제재\"(종합) 매일경제 마켓 금감원, 전금업·온투업 대상 '해킹 침해사고' 대응 간담회 개최 MBC 뉴스 시민단체, 금융권 해킹 개인정보 유출 규탄…\"보안체계 점검\" 연합뉴스"
-          },
-          {
-            "title": "AI가 취약점 찾고 공격까지…구글 \"사람 없는 자율형 해킹 현실화\" - 조선일보",
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc0hRT1JBQTVMVlh4R3pwbS1LSDJ5OHMtWGVIR3ltY2hFcXBZdloyam5DSUdzanZ3bWhOaGdfblFjTTFCU2t1NGJVS1h4cmJ4aERaYS03S2hIR3RMVXZMVi12OTNNV0tjLU5TNC1aZHdiWS14YUpYVjgzWVNwc2NqaURWQQ?oc=5",
-            "source": "조선일보",
-            "published": "11-17 10:07",
-            "snippet": "AI가 취약점 찾고 공격까지…구글 \"사람 없는 자율형 해킹 현실화\" 조선일보 패치 나오면 곧바로 공격 코드로... 구글, 해커들의 AI 에이전트 침투 자동화 경고 보안뉴스 \"사람 없이 취약점 찾고 공격까지\"…구글, AI 자율해킹 첫 확인 뉴스1 [사이버보안, 패러다임 전환]〈1〉국가 사이버보안 정책, 새 판 짜자 전자신문 사람 없이 AI가 해킹한 사례 첫 확인…AI끼리 연결해 전 과정 자동화 동아일보"
+            "title": "[단독] 아세안정상회의, 中해커에 공격당했다…외교안보 해킹 전쟁 본격화 - 매일경제",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aRm1Qa2hNSzdTTTNDNy1XcVJsX3owTnRKckhNb3lUVDJHXzg3YkJwak94TWNvSi1UbXBmOTczMTRxWTlySEw1XzkzWlNJbkdCamc?oc=5",
+            "source": "매일경제",
+            "published": "11-17 13:59",
+            "snippet": "[단독] 아세안정상회의, 中해커에 공격당했다…외교안보 해킹 전쟁 본격화 매일경제 패치 나오면 곧바로 공격 코드로... 구글, 해커들의 AI 에이전트 침투 자동화 경고 보안뉴스 \"중국 해킹조직, '아르텍스'로 한국 외교 조직 공격\" MBC 뉴스 [사이버보안, 패러다임 전환]〈1〉주요국, 사이버보안 컨트롤타워 재편…조정 권한 강화 전자신문 사람 없이 AI가 해킹한 사례 첫 확인…AI끼리 연결해 전 과정 자동화 동아일보"
           },
           {
             "title": "코인원 고객센터 해킹 후폭풍…자산 탈취·사생활 침해까지 우려 - 지디넷코리아",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlVnNmWjdTQ19mVFMwZlMtRkM3RFhrNnhiY2lhTS12NDk0bHZWcUk2eklLZjZPRjlnSDFaTFBxcHBfejVPcEQ2Unp6MUlvTEJDUklJQ2NB?oc=5",
             "source": "지디넷코리아",
             "published": "11-17 11:22",
-            "snippet": "코인원 고객센터 해킹 후폭풍…자산 탈취·사생활 침해까지 우려 지디넷코리아 ‘AI 콜센터’ 메타엠 해킹... 병원 등 150개 고객사 공급망 위협 잠재 보안뉴스 가상자산거래소 ‘선제적 입출금 차단’ 허용, 실효성은? 스트레이트뉴스 [심층] 해킹 보고 31시간 뒤 ’믿고 쓰는 코인원’…코인원, 유출 공지는 시한 80분 전 By 알파경제 alphabiz Investing.com 한국어 메가MGC커피, 고객정보 유출…수탁사 해킹에 휴대전화번호 30건 "
+            "snippet": "코인원 고객센터 해킹 후폭풍…자산 탈취·사생활 침해까지 우려 지디넷코리아 ‘AI 콜센터’ 메타엠 해킹... 병원 등 150개 고객사 공급망 위협 잠재 보안뉴스 메가MGC커피 “고객센터 위탁업체 해킹…고객 30명 전화번호 유출” KBS 뉴스 [심층] 해킹 보고 31시간 뒤 ’믿고 쓰는 코인원’…코인원, 유출 공지는 시한 80분 전 By 알파경제 alphabiz Investing.com 한국어 코인 거래소 줄줄이 해킹… \"외부 수탁사·업무망 관리 "
+          },
+          {
+            "title": "불법사금융 피해 지원, 센터 방문 없이 온라인 신청 가능 - 대한민국 정책브리핑",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Fd2NqRUVmRTZhUWR1V09aeVl4VDFXLXVZRGs2ZTFXaWwwa2JzZGM0WHlyaTVBa2V5U0RGc0d6U1Z1N0gxeDJLcnZlbmNjTG1NNm1Od1F1OFc4Y2dTc3ZReUhJNjd1cElRU2xuTw?oc=5",
+            "source": "대한민국 정책브리핑",
+            "published": "11-16 16:07",
+            "snippet": "불법사금융 피해 지원, 센터 방문 없이 온라인 신청 가능 대한민국 정책브리핑 [숏폼뉴스] 플라톤 『국가론』, “민주주의가 독재를 낳는다?” 기호일보 충주시, 취약계층 금융 피해 예방 총력전 충청매일 정부, 불법사금융 피해자 지원 예산 동났다 서울경제 불법사금융 피해구제 '온라인 문' 넓혔지만…채무종결 합의는 7건 중 1건 녹색경제신문"
           },
           {
             "title": "의원 비서관 사칭 해킹…북한 연계 ‘김수키’ 의심 - KBS 뉴스",
@@ -186,48 +184,48 @@
             "snippet": "[단독] 레고랜드도 뚫렸다…고객명·전화번호에 연간이용권 정보까지 유출 매일경제 레고랜드·씨라이프 부산 개인정보 유출 가능성... 입장객 예약 시스템 ‘액세소’ 해킹 보안뉴스 아마데우스 해킹사고로 국내 여행사 개인정보 유출 확산 우려 연합뉴스 [단독]항공예약시스템 아마데우스發 개인정보 유출 일파만파 - 머니투데이 머니투데이 \"여권번호에 여행 일정까지?\"…여행업계 개인정보 유출 '사칭 주의' 뉴스1"
           }
         ],
-        "수도권 집값 상승": [
+        "수도권 집값 상승 및 격차": [
           {
             "title": "수원 영통·화성 동탄 ‘날았다’…경기도 집값 상승률, 서울 앞질렀다 - 경기일보",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYVnRzYjR4eFM3SFBFYS05M3l0Vng2aDZFRnJ4YUUzcnhCZ3RSa3pONHVVWjhWX0E1M0Vib1d2a00wcWtlZklROHZWeWJKLWN5V01hNDVPdmxnQ2s?oc=5",
             "source": "경기일보",
             "published": "11-16 15:36",
-            "snippet": "수원 영통·화성 동탄 ‘날았다’…경기도 집값 상승률, 서울 앞질렀다 경기일보 “서울서 집 구하기, 포기합니다”… 평균 전셋값, 사상 첫 5억원 넘었다 매일경제 ‘부처 이전 기대’ 세종 주택 매수 심리, 서울 앞질러 경향신문 부산지역 부동산시장 소비심리지수 한 달 만에 하락 국제신문 서울 주택 매매심리 6개월 만에 최저… 전국 전세심리는 올해 최고 Chosunbiz"
+            "snippet": "수원 영통·화성 동탄 ‘날았다’…경기도 집값 상승률, 서울 앞질렀다 경기일보 ‘부처 이전 기대’ 세종 주택 매수 심리, 서울 앞질러 경향신문 “아파트만 오르는 줄 알았는데”…서울 집값 상승률 1위는 ‘이곳’ 매일경제 서울 평균 전셋값, 사상 첫 5억원 넘었다 Chosunbiz 부산지역 부동산시장 소비심리지수 한 달 만에 하락 국제신문"
           },
           {
-            "title": "주택소유 비율 57.6% 역대 최고…평균 집값 9%↑ - KBS 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zUmN1bG9XVTNKRGJVNzRaTy1fb1VQakdTMTFKdnlSN2UzZWh6R3haQk04Wk1Xek9Pd2owZGhMeDVmYUtxMGh4bFlfS250NmtqZUxwd3AxdGVmQUlpNlQ3dnVYaF9rUQ?oc=5",
-            "source": "KBS 뉴스",
-            "published": "11-16 12:15",
-            "snippet": "주택소유 비율 57.6% 역대 최고…평균 집값 9%↑ KBS 뉴스 집값 격차 52배 '역대 최대'...12억 초과 소유 가구 32% 급증 YTN (보도설명) 주택소유통계상 12억 초과 주택 소유 가구 전체가 종부세 과세대상은 아닙니다. 대한민국 정책브리핑 15억6000만원 : 3000만원 경향신문 지난해 다주택자 4만4천 명 증가…60대 이상이 약 절반 KBS 뉴스"
+            "title": "주택 소유 최상·하위 10% 자산 격차 최대 52배 '역대 최대' - MBC 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96UHBYUjAzbXdWMGhaVHRRLUV3ZUxNNDVBcmU4TkQwTVRVckdNVTNRdEdZTmp6N2U2eVFuQTdBbkV3RmVCOWx1eU15WFp4RE5XVnA0X0djb1o3OGQxdmFZWDhGVzBqNjNwNTJ4R1FOZFpVbkI10gF0QVVfeXFMTzhpOFVFcUFnV3laODF2ZUpvbVhIaksxT3UxOTR5SU9CWEl6dHlhU05XekRVZHlwRl9XUGZpMEp5MVgtOWxEMVdlRGNtRHl6RlIyaWdsZ0M3YWhYOUYtRXhOZlA0bl95YWVjb0VPYjQyMVBlRmg?oc=5",
+            "source": "MBC 뉴스",
+            "published": "11-16 14:47",
+            "snippet": "주택 소유 최상·하위 10% 자산 격차 최대 52배 '역대 최대' MBC 뉴스 (보도설명) 주택소유통계상 12억 초과 주택 소유 가구 전체가 종부세 과세대상은 아닙니다. 대한민국 정책브리핑 집값 격차 52배 '역대 최대'...12억 초과 소유 가구 32% 급증 YTN 15억6000만원 : 3000만원 경향신문 지난해 다주택자 4만4천 명 증가…60대 이상이 약 절반 KBS 뉴스"
           },
           {
-            "title": "분담금 4억에 재초환 4억… 대치 은마, 신축 빼면 서울 거래 최다 - Chosunbiz",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQlBPTHBZV0tJMDhnbTBoUU9QcW9KNWFTaE1EdVB4ZTlNc0Jic3Z0MnMzaGN3NEZhZVlMRDA0QUFUV0xweTM1djBoZ0Z6SENWUkNHS0lVQ2wyR1l0YzF0OUdWdUtZSTh5NFFPNS1Ed21OLWFXUF8zUHJRZ1dlSU9Ra2MzVFloNDNNUlIwbHo1RnVQbTVjVDluTdIBrAFBVV95cUxNQmFMZG9jVW11QnVPa1JrTFh4bVR1djU4NE9kX3VtM280dTZHeDFzNExKejN1QmRnalN4T1pkRkROd0E4TklXZXQydDExamN1SHV1bW9MVjd0MjItUDRHcmRBbjUxT19MV0QwRlh2SE50X3dTTE1vQ195M1pnTW5QTkFKdTRmNnVfN0lyeWRwcXM5LVVvMHVOaXdlb3BQUXNDOGxmcW1ucDRtMUFM?oc=5",
-            "source": "Chosunbiz",
-            "published": "11-17 06:04",
-            "snippet": "분담금 4억에 재초환 4억… 대치 은마, 신축 빼면 서울 거래 최다 Chosunbiz 오세훈 “재초환은 ‘이중과세’···제2의 종부세 논란 야기할 수 있어, 전면 재검토해야” 경향신문 오세훈 “재초환, 전면 재검토해야… 집값 상승요인” Chosunbiz “재건축 같은 평형 입주에 10억 더 내야할 판”… 미실현 이익에 부담금 논란 대한경제 재초환 폐지 목소리에… \"공급 영향 제한적\" 선 그은 국토부 - 머니투데이 머니투데이"
+            "title": "주담대 변동금리 2개월 연속 상승…10월 코픽스 3.62% - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sbjJHR3RUM0RzRG9EcUdNUE9LVXNPcXd0c0UyWW0zazctQjMza2Y2WDljWXRESUJkUnBuSE5sS2dXeExBQXQxTE5TeS1keWNIZXI2N0FYcWJSeFJORlRTY0pwN3hpTTAwc2RzODRwaFfSAXRBVV95cUxPYUJoMF9rRGJXaU95NGN2NV9RbWtpOEFMZm0tVHV5LVlQNF9jdFREZkYtSjY3SnFkbHdOU1NXbkVPY011MGhlS2lNbzA5bGZ2LWpEVk9ZZGNLdWdaSGYwdUw5NVpMb3pTc19YYUJLcHZYUlh2TQ?oc=5",
+            "source": "연합인포맥스",
+            "published": "11-16 15:12",
+            "snippet": "주담대 변동금리 2개월 연속 상승…10월 코픽스 3.62% 연합인포맥스 내일부터 5대은행 주담대 변동금리 또 올라···최고 연 6.51% 경향신문 신규 코픽스 2년 8개월 만에 최고…주담대 금리 더 오른다 연합뉴스 집도 없는데 월급은 이자로 … 은행 전세대출 상단 6% 돌파, 인뱅 3%대 실종 뉴데일리 경제 \"변동금리 더 싸다더니\"…시장금리 내릴 때 또 오른 변동형 주담대 - 머니투데이 머니투데이"
           },
           {
-            "title": "서울 집값 상승세 둔화…6개월 만에 최저 - LG헬로비전",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1TRnpOVURTREtOYVJvc1FEMnhCdzhfX1VUYjV3SkdkWTBlZDZZd0ttMzR4TG13dWxTT2JVSjBnbXhNSjFjQm5Bcm4tMUhpbzJ4WE9ndUJGSE0xcXc3UFNWWDlPX1NYbmRHVHJlNHEzbnBxUdIBdkFVX3lxTE9jR09MODJTYktOUHVnRDJHX2pIT19NYXlNSzgtcjMxWUJPVF9LV3I5dW1NQ0hXYllGZEdtSjdkTEkyTmllMFNNS2NvWVZQcWZGLXpaV0NPS3k4MVdBdTlWbzJRakNqWTQzU2liRXVnclBvMEgxY1E?oc=5",
-            "source": "LG헬로비전",
-            "published": "11-17 16:27",
-            "snippet": "서울 집값 상승세 둔화…6개월 만에 최저 LG헬로비전"
+            "title": "서울 집값 상승률 꺾였는데 경기는 보합… ‘반도체 벨트’ 효과 - 경인일보",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SRHNISDRfY1FlU1dLQXUxSWlFeFFTYlAyMnBDSGQ2QXhMSWxrTlZxdmlhajRQbWIyeE95M0NMNzgwVjR6UWdJeHoyS21FQS1ZQ2c?oc=5",
+            "source": "경인일보",
+            "published": "11-16 19:31",
+            "snippet": "서울 집값 상승률 꺾였는데 경기는 보합… ‘반도체 벨트’ 효과 경인일보"
           },
           {
-            "title": "서울 집값 상승세 3개월 연속 둔화…경기 아파트값 상승률 서울 추월 - https://www.thedailyeconomy.kr/",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OOV9yRjBuUjNOV1RuTUZielN4Y1RBdWJ2LW1fZ0xiQ0ctbkZiLVQ3YWFJLXk1a21ZVDV0ekF4NGlndWpYSGlibmkySEItT0NSdnJQRWltbGtzM3k0Q25vUFFZM05ESWRFZklxbUc5QVo?oc=5",
-            "source": "https://www.thedailyeconomy.kr/",
-            "published": "11-17 09:17",
-            "snippet": "서울 집값 상승세 3개월 연속 둔화…경기 아파트값 상승률 서울 추월 https://www.thedailyeconomy.kr/"
+            "title": "유주택자도 양극화…상하위 10% 격차 52배 - 매일경제",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yaENobk16NGhLeVAybW5Fd09Ca2xncFdBbFQ4NXhJQ0UxRlY1OEJSQkNZMzV5OXlERWNVRnljRHBWOTNkcndvSFFVRGEyVGNneE9oTw?oc=5",
+            "source": "매일경제",
+            "published": "11-16 17:35",
+            "snippet": "유주택자도 양극화…상하위 10% 격차 52배 매일경제"
           },
           {
-            "title": "오세훈 \"서울 집값 안정된 것 아냐\"···정부 부동산 인식 정면 반박 - 서울파이낸스",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1eGZKSC1pWWhmNjJkRS0wb3JuUlZlOFF2bjBvLVJWZEs3YTdpdXdsSFNwS21vMmJyUlQwNXZENENLTlQ1LWJkazhKNjdWTnFpYVhxNkNfaVBmMUNFSHU2QzBIdjQ5dXVYSmc?oc=5",
-            "source": "서울파이낸스",
-            "published": "11-17 17:01",
-            "snippet": "오세훈 \"서울 집값 안정된 것 아냐\"···정부 부동산 인식 정면 반박 서울파이낸스"
+            "title": "강남은 뚝 경기는 쑥…수도권 아파트도 '지각변동' > 뉴스 - 지데일리",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11eWs5U1FtTkV2ek5RT2VLRGlzeVJhTVotM1VQS1RLU0RXMkJBTXlYTDJja2l6LUNWVHRJQjJoRlBhdlZVLVZiYnVmSzVJc2VoeUlFeGlaenFGNGhVLW0wWGp0Q0hxbXdSdUQzTA?oc=5",
+            "source": "지데일리",
+            "published": "11-16 21:18",
+            "snippet": "강남은 뚝 경기는 쑥…수도권 아파트도 '지각변동' > 뉴스 지데일리"
           }
         ]
       },
@@ -236,138 +234,186 @@
           "코스피 5000선",
           "코스피 5000선 돌파"
         ],
-        "금융권 해킹 사고": [
-          "금융권 잇따른 해킹 사고에 이재명 대통령 진상 규명 긴급 지시",
-          "금융권 해킹",
-          "금융권 해킹 ai",
-          "금융권 해킹 원인",
-          "금융권 해킹 사례",
-          "금융권 해킹사태",
-          "금융권 해킹범",
-          "금융권 해킹 사건 공격 ip 특정 및 인터넷은행 접근 시도 관련 최신 뉴스 알려줘"
+        "보안 취약점 및 해킹 피해": [
+          "보안 취약점",
+          "보안 취약점이 발견된 소프트웨어 관련 파일 삭제 조치 안내",
+          "보안 취약점 점검 툴",
+          "보안 취약점 클리닝 서비스",
+          "보안 취약점 점검",
+          "보안 취약점 cve",
+          "보안 취약점 종류",
+          "보안 취약점 분석"
         ],
-        "수도권 집값 상승": [
-          "수도권 집값 상승률",
-          "수도권 집값 상승 전망",
-          "수도권 집값 상승 원인",
+        "수도권 집값 상승 및 격차": [
           "수도권 집값",
+          "수도권 집값 상승",
+          "수도권 집값 상승률",
           "수도권 집값 싼곳",
           "수도권 집값 추이",
           "수도권 집값 그래프",
-          "수도권 집값 지도"
+          "수도권 집값 지도",
+          "수도권 집값 전망"
         ]
       }
     },
     "global": {
       "keywords": [
-        "연준 AI 경고",
-        "젠슨 황 사임",
-        "나스닥 기술주 급락"
+        "AI주 매도세와 나스닥 급락",
+        "미 연준의 AI 금융 위험 경고",
+        "젠슨 황 거취 및 사임 논란"
       ],
       "results": {
-        "연준 AI 경고": {
-          "headline": "연준 \"대형은행 AI 위험 노출 1조 달러\", 금융 불안정성 공식 경고",
+        "AI주 매도세와 나스닥 급락": {
+          "headline": "나스닥 2.5% 급락 AI주 투매에 조정장 진입",
           "facts": [
-            "미 연준은 대형 은행들의 AI 관련 투자 및 위험 노출액이 1조 달러(약 1300조 원)에 달한다고 발표하며 손실 확산을 경고했다.",
-            "AI 기술이 금융 시스템의 불안정성을 키우고 있으며, 특히 정보 확산 속도를 높여 뱅크런을 가속화할 수 있다는 우려가 제기되었다.",
-            "연준 의장은 AI 투자 실패가 단순한 기업 손실을 넘어 경기 침체와 주가 급락의 트리거가 될 수 있다고 강조했다.",
-            "케빈 워시 연준 이사는 AI 거품 붕괴 가능성을 언급하며 시장에 강력한 경고 메시지를 보냈다.",
-            "AI가 경제의 성장 엔진이 될 수 있다는 기대와 동시에 일자리 파괴 및 증시 변동성 확대라는 양면성을 지적받고 있다."
+            "뉴욕증시에서 나스닥 지수가 AI 관련주에 대한 강력한 매도세가 확산되며 전 거래일 대비 2.49% 급락 마감했고 고점 대비 10% 하락하며 본격적인 조정 구간에 진입했다.",
+            "엔비디아 주가가 4.1% 하락하는 등 반도체와 대형 기술주 전반에 걸쳐 투매가 이어졌으며 이는 실적 발표를 앞둔 시장의 극심한 불안감과 차익 실현 욕구가 반영된 결과이다.",
+            "필라델피아 반도체 지수 역시 5% 넘게 폭락하며 기술주 중심의 하락 압력이 증시 전반을 짓눌렀고 투자자들은 위험 자산 비중을 급격히 줄이며 안전 자산으로 이동하는 모습을 보였다.",
+            "시장은 AI 산업의 수익성 실현 속도가 기대보다 느릴 수 있다는 의구심을 제기하고 있으며 대형 테크 기업들의 과도한 밸류에이션에 대한 재평가가 진행되는 과정으로 풀이된다."
           ],
           "watch": [
-            "연준의 대형 은행 대상 AI 리스크 관리 가이드라인 발표",
-            "AI 관련 기업들의 실적 발표와 투자 회수 가능성 점검",
-            "금융권 내 AI 자동 매매 알고리즘에 대한 규제 도입 여부"
+            "엔비디아 실적 발표 후 시간외 거래 주가",
+            "나스닥 지수의 10% 조정선 지지 여부",
+            "기술주에서 가치주로의 자금 이동 가능성"
           ],
           "qna": [
             {
-              "q": "연준이 지목한 1조 달러 규모의 AI 위험 노출액은 구체적으로 어떤 경로로 형성되었는가?",
-              "a": "대형 은행들이 AI 인프라 구축을 위해 기술 기업에 제공한 대규모 대출과 직접적인 지분 투자, 그리고 AI 알고리즘을 활용한 고위험 파생상품 운용액이 포함된다. AI 산업의 수익성이 기대에 못 미칠 경우 이 자산들이 한꺼번에 부실화되면서 은행 시스템 전체로 위기가 전이될 수 있다."
+              "q": "나스닥 지수가 고점 대비 10% 하락하며 조정장에 진입한 것이 기술적 반등의 신호인가 아니면 하락장의 시작인가?",
+              "a": "과거 사례를 볼 때 10% 조정은 과열된 시장의 거품을 걷어내는 건강한 조정일 수 있으나 이번에는 AI 수익성에 대한 근본적 의문이 동반되었다는 점이 다르다. 주요 지지선인 200일 이동평균선을 하향 돌파할 경우 단순 조정을 넘어 장기 하락 추세로의 전환 가능성을 배제할 수 없다."
             },
             {
-              "q": "AI가 어떻게 뱅크런을 가속화하고 금융 불안정성을 높인다는 것인가?",
-              "a": "AI 기반 소셜 미디어 분석과 자동화된 뉴스 전파로 인해 부정적인 정보가 과거보다 수백 배 빠른 속도로 확산되기 때문이다. 또한 AI 알고리즘에 의한 자동 매도 주문이 특정 시점에 몰릴 경우 시장의 유동성을 순식간에 고갈시켜 금융 시스템을 마비시킬 위험이 크다."
+              "q": "엔비디아 실적 발표를 앞두고 나타난 4% 이상의 주가 폭락이 반도체 공급망 전체에 미치는 심리적 타격은 어느 정도인가?",
+              "a": "엔비디아는 AI 생태계의 가늠자 역할을 하므로 이 회사의 주가 폭락은 장비, 소재, 파운드리 등 전후방 산업 기업들에 대한 투자 심리를 동시에 얼어붙게 만든다. 이는 공급망 내 기업들의 주가 동반 하락은 물론 향후 주문 물량 감소에 대한 공포를 확산시키는 기폭제가 된다."
             },
             {
-              "q": "연준의 이번 경고가 향후 금리 정책이나 시장 규제에 어떤 영향을 미칠 것으로 보이는가?",
-              "a": "자산 거품을 억제하기 위해 고금리 기조를 예상보다 길게 유지하거나, AI 관련 대출에 대한 자본 적립 요건을 강화하는 규제를 도입할 가능성이 높다. 이는 기술주 중심의 유동성 공급을 차단하여 증시의 과열을 식히는 기제로 작용할 전망이다."
+              "q": "AI 산업의 수익성 의구심이 커지는 상황에서 대형 테크 기업들의 자본 지출 계획이 어떻게 수정될 가능성이 있는가?",
+              "a": "투자 대비 성과(ROI)가 명확하지 않을 경우 기업들은 인프라 확충 속도를 조절하고 보수적인 현금 흐름 관리에 들어갈 가능성이 높다. 이는 AI 서버 및 데이터센터 구축 수요의 감소로 이어져 반도체 업황의 피크아웃 논란을 가속화하는 요인이 될 수 있다."
             }
           ]
         },
-        "젠슨 황 사임": {
-          "headline": "젠슨 황 사임 충격에 나스닥·반도체 급락, 글로벌 AI 투자 심리 위축",
+        "미 연준의 AI 금융 위험 경고": {
+          "headline": "미 연준 AI 투자 위험 경고 은행 노출액 1조 달러",
           "facts": [
-            "엔비디아의 상징적 인물인 젠슨 황의 사임 소식이 전해지며 뉴욕 증시 3대 지수가 일제히 하락했다.",
-            "나스닥 지수는 2.49% 급락했으며, 필라델피아 반도체 지수는 5.28% 폭락하며 시장에 큰 충격을 주었다.",
-            "도널드 트럼프 전 대통령은 젠슨 황의 사생활과 관련된 루머를 언급하며 정치적 논란을 부추겼다.",
-            "이번 사태는 국내 증시에도 영향을 미쳐 코스피 5000선 붕괴의 주요 원인 중 하나로 작용했다.",
-            "AI 산업의 성장을 이끌어온 핵심 리더의 부재가 향후 엔비디아의 경영 전략과 기술 혁신에 차질을 줄 것이라는 우려가 확산되고 있다."
+            "미국 연방준비제도가 대형 은행들의 AI 관련 위험 노출액이 1조 달러에 육박한다며 AI 투자 과열에 따른 금융 시스템의 불안정 가능성을 공식적으로 경고하고 나섰다.",
+            "제롬 파월 연준 의장은 AI 투자 실패가 단순한 기업 손실을 넘어 경기 둔화와 실업 증가로 이어질 수 있으며 디지털 환경에서의 뱅크런을 가속화할 우려가 있다고 지적했다.",
+            "IMF와 연준은 AI 투심이 급격히 냉각될 경우 금융 시장 전반으로 손실이 확산될 수 있음을 강조하며 금융권의 철저한 리스크 관리와 자본 확충을 강력히 촉구했다.",
+            "특히 AI 기술에 대한 과도한 의존과 쏠림 현상이 금융 시스템의 취약성을 키우고 있으며 예상치 못한 시장 변동성이 발생할 경우 대규모 연쇄 부실로 이어질 수 있다는 분석이다."
           ],
           "watch": [
-            "엔비디아의 차기 CEO 선임 절차 및 경영권 승계 계획",
-            "젠슨 황 사임의 구체적인 배경과 사생활 관련 루머의 사실 여부",
-            "글로벌 반도체 공급망 내 엔비디아의 지배력 변화 추이"
+            "연준의 대형 은행 대상 AI 리스크 테스트",
+            "AI 관련 대출 및 투자 자산의 부실화 징후",
+            "IMF의 글로벌 금융 안정 보고서 추가 발표"
           ],
           "qna": [
             {
-              "q": "젠슨 황 한 명의 사임이 필라델피아 반도체 지수를 5% 넘게 폭락시킨 이유는 무엇인가?",
-              "a": "젠슨 황은 단순한 경영자를 넘어 AI 혁명의 설계자이자 엔비디아 그 자체로 상징되기 때문이다. 그의 부재는 엔비디아의 독점적 지위와 미래 로드맵에 대한 불확실성을 극대화하며 반도체 섹터 전체에 대한 투매를 촉발했다."
+              "q": "연준이 지목한 1조 달러 규모의 AI 위험 노출액이 실제 금융 시스템 붕괴로 이어지는 임계점은 어디인가?",
+              "a": "단순한 노출액 규모보다 해당 자산의 부실화율과 은행의 자기자본 비율이 핵심이며 AI 스타트업들의 연쇄 도산이 시작되는 시점이 임계점이 될 것이다. 1조 달러 중 상당 부분이 레버리지를 활용한 투자라면 자산 가치 하락 시 마진콜이 발생하며 금융 시장 전반의 유동성 위기로 번질 수 있다."
             },
             {
-              "q": "트럼프 전 대통령이 언급한 중국 스파이 관련 루머가 시장에 어떤 영향을 미치고 있는가?",
-              "a": "단순한 개인 신상 문제를 넘어 미중 갈등이라는 지정학적 리스크로 번지며 투자자들의 불안감을 자극하고 있다. 만약 경영진의 결격 사유가 국가 안보와 연결될 경우 엔비디아에 대한 강력한 규제나 제재가 뒤따를 수 있다는 공포가 주가에 반영된 것이다."
+              "q": "AI 기술이 뱅크런을 가속화할 수 있다는 연준의 경고는 디지털 금융 환경에서 어떤 메커니즘으로 작동하는가?",
+              "a": "AI 알고리즘에 기반한 자동 매매와 정보 확산 속도가 빨라지면서 부정적인 뉴스가 발생할 경우 순식간에 대규모 자금 인출 시도가 일어날 수 있다. 이는 과거의 오프라인 뱅크런과 달리 대응할 시간적 여유가 거의 없는 '초고속 디지털 뱅크런'을 유발하여 은행의 지급 불능 상태를 순식간에 초래한다."
             },
             {
-              "q": "엔비디아의 주가 하락이 국내 반도체 기업인 삼성전자와 SK하이닉스에 미치는 경로는 무엇인가?",
-              "a": "엔비디아는 국내 기업들로부터 HBM 등 고성능 메모리를 구매하는 최대 고객사이기 때문에 엔비디아의 위기는 곧 국내 기업의 실적 악화로 직결된다. AI 서버 투자 수요가 위축될 것이라는 전망이 나오면서 국내 반도체 대형주들에 대한 외국인의 동반 매도세가 강해지고 있다."
+              "q": "중앙은행의 경고가 AI 스타트업에 대한 벤처캐피털의 자금 공급과 대출 금리에 어떤 즉각적인 변화를 가져오는가?",
+              "a": "금융권이 리스크 관리를 강화하면서 AI 기업들에 대한 대출 심사가 엄격해지고 가산 금리가 상승하여 자금 조달 문턱이 크게 높아질 것이다. 이는 수익 모델이 불분명한 스타트업들의 자금줄을 죄어 구조조정을 촉발하고 시장의 옥석 가리기를 강제하는 결과를 낳게 된다."
             }
           ]
         },
-        "나스닥 기술주 급락": {
-          "headline": "나스닥 2.49% 급락, AI 매도세 확산과 대중 반도체 규제 강화 여파",
+        "젠슨 황 거취 및 사임 논란": {
+          "headline": "젠슨 황 사임설에 반도체 지수 5% 폭락 증시 충격",
           "facts": [
-            "뉴욕증시에서 나스닥 지수가 AI 관련주에 대한 투매 여파로 2.49% 하락하며 장중 조정장에 진입했다.",
-            "미국의 대중 반도체 수출 규제 강화 소식이 전해지면서 엔비디아를 비롯한 주요 반도체 종목들이 일제히 급락했다.",
-            "엔비디아 실적 발표를 앞두고 시장의 기대치와 우려가 교차하며 차익 실현 매물이 쏟아져 나왔다.",
-            "AI 기술주 전반에 걸친 매도세 확산으로 인해 시가총액 상위 대형 기술주들이 지수 하락을 견인했다.",
-            "글로벌 증시는 미 기술주 급락의 영향으로 동반 하락세를 보이며 투자 심리가 극도로 위축된 상태다."
+            "엔비디아의 창업자이자 수장인 젠슨 황의 거취를 둘러싼 사임 논란이 불거지며 뉴욕증시 3대 지수가 일제히 하락했고 필라델피아 반도체 지수는 5.28% 폭락하는 사태가 벌어졌다.",
+            "시장은 젠슨 황의 사임 여파가 AI 산업 전반의 리더십 공백과 전략 수정으로 이어질 것을 우려하며 엔비디아를 포함한 주요 기술주를 중심으로 대규모 매물을 쏟아냈다.",
+            "이번 논란은 엔비디아의 분기 실적 발표라는 중대한 이벤트를 앞둔 시점에 발생하여 투자자들의 불안감을 극대화했으며 증시 전반의 하락 압력을 키우는 결정적 요인이 되었다.",
+            "젠슨 황의 거취 문제가 불거진 직후 관련 반도체 종목들이 동반 하락하며 시장 변동성이 커졌고 투자자들은 향후 엔비디아의 경영권 승계 구도와 전략 변화에 촉각을 곤두세우고 있다."
           ],
           "watch": [
-            "엔비디아 실적 발표 결과 및 향후 가이던스 제시 내용",
-            "미국 정부의 추가적인 대중 반도체 수출 제한 조치 세부안",
-            "나스닥 지수의 주요 이동평균선 지지 여부 및 기술적 반등 시점"
+            "엔비디아 이사회의 공식 입장 발표 여부",
+            "젠슨 황의 직접적인 거취 관련 해명 행보",
+            "반도체 지수 폭락 후 저가 매수세 유입 시점"
           ],
           "qna": [
             {
-              "q": "대중 반도체 수출 규제 강화가 나스닥 급락의 기폭제가 된 구체적인 메커니즘은 무엇인가?",
-              "a": "엔비디아 등 주요 AI 반도체 기업들의 매출 중 상당 부분이 중국 시장에서 발생하기 때문에 수출 제한은 즉각적인 수익 감소로 이어진다. 규제가 강화될수록 미래 성장 동력이 훼손될 것이라는 우려가 커지며 밸류에이션 하향 조정이 일어난 결과다."
+              "q": "특정 기업인의 거취 논란이 개별 종목을 넘어 필라델피아 반도체 지수 전체를 5% 이상 끌어내린 근본적인 원인은 무엇인가?",
+              "a": "젠슨 황은 단순한 CEO를 넘어 글로벌 AI 생태계의 상징적 인물이자 전략적 설계자이기 때문에 그의 부재는 산업 전체의 방향성 상실로 해석된다. 엔비디아가 반도체 지수 내에서 차지하는 압도적인 비중과 영향력이 지수 전체의 동반 폭락을 야기한 핵심 원인이다."
             },
             {
-              "q": "엔비디아 실적 발표를 앞두고 왜 호재보다 악재에 더 민감하게 반응하는가?",
-              "a": "그동안 AI 기대감으로 주가가 지나치게 가파르게 올랐기 때문에 작은 악재에도 차익을 실현하려는 욕구가 강해진 상태다. 실적이 예상치를 상회하더라도 향후 성장률 둔화 가능성이 조금이라도 보이면 시장은 이를 매도 신호로 받아들이는 역설적 상황에 놓여 있다."
+              "q": "젠슨 황의 사임이 현실화될 경우 엔비디아가 추진 중인 차세대 AI 칩 로드맵과 파운드리 협력 관계에 어떤 차질이 생기는가?",
+              "a": "강력한 카리스마를 바탕으로 추진되던 공격적인 R&D 투자와 TSMC 등 주요 파트너사와의 긴밀한 협력 관계가 리더십 교체기에 일시적으로 흔들릴 수 있다. 이는 경쟁사들에게 시장 점유율을 탈환할 기회를 제공하며 엔비디아의 독점적 지위가 약화되는 계기가 될 가능성이 크다."
             },
             {
-              "q": "나스닥의 기술주 투매 현상이 다른 섹터로 전이될 가능성은 어느 정도인가?",
-              "a": "기술주는 지수 비중이 매우 높기 때문에 이들의 하락은 전체 지수 하락을 유도하고, 이는 다시 마진콜과 담보 부족으로 이어져 다른 섹터의 주식까지 팔게 만드는 연쇄 반응을 일으킬 수 있다. 특히 AI 투자를 위해 부채를 늘린 금융권과 통신 섹터가 다음 리스크 타깃이 될 가능성이 높다."
+              "q": "실적 발표 직전에 터져 나온 거취 논란이 공매도 세력이나 시장 조성자들의 포지션 변화에 어떤 빌미를 제공했는가?",
+              "a": "불확실성을 극도로 혐오하는 시장 특성상 악재성 루머는 공매도 세력에게 주가 하락을 유도할 수 있는 최적의 명분을 제공한다. 시장 조성자들 역시 리스크 회피를 위해 매수 호가를 낮추거나 물량을 줄이면서 유동성이 공급되지 않아 주가 하락 폭이 더욱 확대되는 악순환이 발생했다."
             }
           ]
         }
       },
       "news": {
-        "연준 AI 경고": [
+        "AI주 매도세와 나스닥 급락": [
+          {
+            "title": "[글로벌증시] 美 나스닥 2%대 급락…AI주 매도세 확산 - 연합뉴스TV",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZOXJrdTAzXzJLeC1XbF8wZzBuaF9QU2dpZEdzc0h6ajczaTFOMC1WRW5JY1dZbVppenR5MjJ0TW85V0Q3VWc5cS1RMXQ4eDJCcGVFejAtdThjNkJ1ZlBtMlIwcEp0RFk?oc=5",
+            "source": "연합뉴스TV",
+            "published": "11-17 06:51",
+            "snippet": "[글로벌증시] 美 나스닥 2%대 급락…AI주 매도세 확산 연합뉴스TV"
+          },
+          {
+            "title": "[뉴스프레소] 나스닥, AI주 매도세 확산에 2.5% 급락… 엔비디아 실적 프리뷰 - 머니투데이 - 머니투데이",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83cTRxYjFIRFlqWUZSYTFxZDVRUGNfOS1tNXdwX2s1UkROZkxZSE5aTUZXMlNJRXBrZUIzQzVsWjVDQ0RCRGdvRWI3YzFGZFlMYmtJeHN1ZUFPV09RblBXclZvdjRuMFV20gFuQVVfeXFMT1pkS2VQYW10LXNrTnNPQmJ3WGRzS0dUWHlLdkxlMVExT1J2Wnc5d2hhWGtDWmpEUldWb2FOZDRJVnREYUFMMkkzLUtKRDQzU3BTd0x6VVkwNXBQUGsxRDJ6c2dWZG5jRkFwUnJZdUE?oc=5",
+            "source": "머니투데이",
+            "published": "11-17 13:42",
+            "snippet": "[뉴스프레소] 나스닥, AI주 매도세 확산에 2.5% 급락… 엔비디아 실적 프리뷰 - 머니투데이 머니투데이"
+          },
+          {
+            "title": "AI주 매도세에 나스닥 2.5% 하락…엔비디아 4.1%↓ - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbDlLMHE2MVhSU1lRZGZVZGNQckhES0lRS0RLRmtiMXIwcldwLVVDSEVUQUFlaWUwWkdYQmVuUUJHcmV4V1hwN1RETUZyNm5mRHhFZGVldWc0R2dvT1FSVnp1Z292eUJGV1ZubnRta3ZvNFEyR21DT0g5YjBHcDcxaGdwcTRiUEhR?oc=5",
+            "source": "조선일보",
+            "published": "11-17 06:43",
+            "snippet": "AI주 매도세에 나스닥 2.5% 하락…엔비디아 4.1%↓ 조선일보"
+          },
+          {
+            "title": "[뉴욕마감]AI주 투매에 나스닥 2.49% 급락…고점 대비 10%↓ 조정 진입 - 뉴스1",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2ampEaURZTC1BX2NFUEtRUFladzRaaGhTc2pWZVUxYjc0SVdVc29jOEs2WHROVjhORWFqVzF6X2VLbW4zdDRMQndmUTJFZS1tRVNidEc2R1JJTEs3Z0czdzVibjRsRVU?oc=5",
+            "source": "뉴스1",
+            "published": "11-17 06:29",
+            "snippet": "[뉴욕마감]AI주 투매에 나스닥 2.49% 급락…고점 대비 10%↓ 조정 진입 뉴스1"
+          },
+          {
+            "title": "[e마켓오프닝] 엔비디아 실적 D-day···나스닥 2.49% 급락·반도체 긴장 - 시사저널e",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUVnhxRzl0alpXYjFqc3puSkJYeDktdmpGRVIwemJUWUFnMUdrYnZEN29jaTFhNTBKM3F5OTdxTmxhQnljNnoxRE1fOXdqemlnMzEwR0x1Y0JVUWZ5ampIYXZwVlJkeG4tbHYwYURQREk0dw?oc=5",
+            "source": "시사저널e",
+            "published": "11-17 09:00",
+            "snippet": "[e마켓오프닝] 엔비디아 실적 D-day···나스닥 2.49% 급락·반도체 긴장 시사저널e"
+          },
+          {
+            "title": "[서울데이터랩]미국 증시, 기술주·반도체주 급락에 일제히 하락 마감…나스닥 2%대 밀려 - 서울신문",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5EeGtabjBQLVpnNFcwQ29KNlYtaWQyNENKSFpVTzJfTWdjNDV0TXBRdWNIMDV3X3U3ZTdZd21sSTFEeXNLOVhrZVVjMXBoOVJOdlU4S3E5NllHS1FNM2VzUlJvZmNLUUtYT3RoVkl3Y2xiM1VLTTliVWJCbl9DQQ?oc=5",
+            "source": "서울신문",
+            "published": "11-17 06:09",
+            "snippet": "[서울데이터랩]미국 증시, 기술주·반도체주 급락에 일제히 하락 마감…나스닥 2%대 밀려 서울신문"
+          }
+        ],
+        "미 연준의 AI 금융 위험 경고": [
+          {
+            "title": "IMF도 美연준도 “AI 투심 흔들리면 금융시장 위험” 경고 - 국민일보",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GdTV6WkZUdFp2NHRUUS1Qb3VOeHRPMmNjR3VOY0NBS19keEd5SHJiT3A2LU5HdjVvX2tzTl9ETGtUeDNMa1JxX0gzalhMTTAwNzlfcndTbm4?oc=5",
+            "source": "국민일보",
+            "published": "11-17 18:44",
+            "snippet": "IMF도 美연준도 “AI 투심 흔들리면 금융시장 위험” 경고 국민일보"
+          },
+          {
+            "title": "미 연준 의장, AI 투자 실패 위험 경고…“경기 둔화·실업 증가로 이어질 수도” - 뉴스21 통신",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fME5Pd19wUmF6UTJKWGJEOFRjNThMY0hEbVV4OUppM2dPOFZHUW52N253SUZXRFRjSm01bGJEQ055bF8yZGRPd0hwVHhyWXpHX0VIVnVR?oc=5",
+            "source": "뉴스21 통신",
+            "published": "11-17 17:25",
+            "snippet": "미 연준 의장, AI 투자 실패 위험 경고…“경기 둔화·실업 증가로 이어질 수도” 뉴스21 통신"
+          },
           {
             "title": "미 연준 \"대형은행 AI 위험노출액 1조달러\"…손실확산 경고 - 연합뉴스",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WbVlKTUpCY2V6d0RUakVpSmtodV82eEZyQkpIeVRZWVpFOFV1aUg2eS1pZ1lndDZxU1lNQlFpOTdDekNPUWFFOEQyOVV4YWxhVFRaUzdZLV9hUkHSAWBBVV95cUxPNWJzR19jSTY3TXNmMEwtWjB0SFEzOV9LaDFTVGtIM2FPVTMtd3NlQnozX0JOYzBMNGtSUlFzc2poa3UtUVNrU01ndWFLXzIzUkFpQllxVzE2cWRnUTBNTFo?oc=5",
             "source": "연합뉴스",
             "published": "11-17 10:39",
             "snippet": "미 연준 \"대형은행 AI 위험노출액 1조달러\"…손실확산 경고 연합뉴스"
-          },
-          {
-            "title": "美 대형 은행 AI 투자 위험 노출 1천300조 원‥연준 경고 - MBC 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNSFg5QVhpbGNiaG5TT3VxSDJFVXpZaVZHS2ROeDU1cGFQYXlmczBmZXd5UVZpRnF3aWZaRmtVNU5vckljMk9FcjAxY3lLWThqaU9WODB3b01aSW92YW1scDE4VnVrd05Oc1NRc204V0prYVlp0gF0QVVfeXFMTXBPOVIzaTA5NWlSSVFjWVhlUVNadjd3a053elRvZDJLekJpeGEyU2JnY2tyQmlvWW5jLTNHR0xpSGRub3oyVGp0THF5bUl2ZVpBOTM3Ri0zeTVmaTlXR0lvd3plSmxYUW1aLUhSZnduQVJQRGE?oc=5",
-            "source": "MBC 뉴스",
-            "published": "11-17 10:46",
-            "snippet": "美 대형 은행 AI 투자 위험 노출 1천300조 원‥연준 경고 MBC 뉴스"
           },
           {
             "title": "미 연준, \"AI가 금융 불안정 키워\" 공식 경고…뱅크런 가속화 우려도 - 이코리아",
@@ -377,28 +423,42 @@
             "snippet": "미 연준, \"AI가 금융 불안정 키워\" 공식 경고…뱅크런 가속화 우려도 이코리아"
           },
           {
-            "title": "연준 의장 “AI 투자 실패 시 경기침체·주가 급락” 경고 - KBS 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15Mmh3NFFHaW9ST1NrTVlhSV9mbkV0bE9BZTZicHpTZmRUOE1UZi1ualkxb3FvSDhYbVJJWEx3bXdfQ3JJVnlKRmN3SUt3ZHBkNTNIdDBOUzRCWEQ4Z3NrWnoxSWE3ZTBFOGw4?oc=5",
-            "source": "KBS 뉴스",
-            "published": "11-17 06:20",
-            "snippet": "연준 의장 “AI 투자 실패 시 경기침체·주가 급락” 경고 KBS 뉴스"
+            "title": "美 대형 은행 AI 투자 위험 노출 1천300조 원‥연준 경고 - MBC 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNSFg5QVhpbGNiaG5TT3VxSDJFVXpZaVZHS2ROeDU1cGFQYXlmczBmZXd5UVZpRnF3aWZaRmtVNU5vckljMk9FcjAxY3lLWThqaU9WODB3b01aSW92YW1scDE4VnVrd05Oc1NRc204V0prYVlp0gF0QVVfeXFMTXBPOVIzaTA5NWlSSVFjWVhlUVNadjd3a053elRvZDJLekJpeGEyU2JnY2tyQmlvWW5jLTNHR0xpSGRub3oyVGp0THF5bUl2ZVpBOTM3Ri0zeTVmaTlXR0lvd3plSmxYUW1aLUhSZnduQVJQRGE?oc=5",
+            "source": "MBC 뉴스",
+            "published": "11-17 10:46",
+            "snippet": "美 대형 은행 AI 투자 위험 노출 1천300조 원‥연준 경고 MBC 뉴스"
           },
           {
-            "title": "[김대호 인물] 케빈워시 연준 FOMC 공개 경고 \"AI 붕괴\" - 글로벌이코노믹",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObVk4d09sczlWRFZEX25XVGM0NkxGOEtKQXVZQ3pmbDdDUUYzdlF4Y3dPcDdSa0tIV1BTUmVOUFFTTW1LQU93TW01ek5QUXhJTDByWnNpRElSNG96cmFjaXNVbmZ2NFBzRUVqWnN0YVk5alpNdnljb0V2Q2dDeWlmcHF5Wi1ma0Zt?oc=5",
-            "source": "글로벌이코노믹",
-            "published": "11-17 06:01",
-            "snippet": "[김대호 인물] 케빈워시 연준 FOMC 공개 경고 \"AI 붕괴\" 글로벌이코노믹"
-          },
-          {
-            "title": "워시 연준 의장 \"AI가 성장 엔진 될 수도\" … 일자리·증시엔 경고 - 뉴데일리",
-            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE56alBmNVp1eEZuLUk4b3o4cVgtWExVNVBNeXVCaDQwVkNwZWR3VXV3WFlubHpCQy1GQXNWVElWYUdpUjhpZTBhYkM1U1lfU2diODZkTzdLNEtyYXFNcHRHWi1wbmFvR1JZeXR2TG9naERxNzRXbFJFc0JFTdIBgAFBVV95cUxPMDZZOGlRQjFzSVBia0V5Z3otS25ENWRWYXg1dG1iLUpac2xqUmhfTmFrcHlqZU1LYzdnWFVDWGZoQjRFUF81MjlaT1lXdHJpUEV6YzhtT1J1LW9tQ1ZSUEozQlJNcV9MSWk2cEV0Z3VrdjdraXhSMDJHbW1aNExjaQ?oc=5",
-            "source": "뉴데일리",
-            "published": "11-17 08:32",
-            "snippet": "워시 연준 의장 \"AI가 성장 엔진 될 수도\" … 일자리·증시엔 경고 뉴데일리"
+            "title": "美연준, AI 투자 과열에 경고…대형 은행 위험노출액 1조 달러 육박 - 아주경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sYmtKSDdtc3R1X1NfdnJleTNvZHpRZWN3eW04Yi0wVGJUS2V6S0JuN2JtUGduMnBManlZaWpfRi1yal9VWTA5ZE5iRkdQXzI2YndqUEhNbDFIUdIBWEFVX3lxTE9mR2ROVXZETjlxX2N4VDJKVDhxWnctb2VzZjhucDRDR003WkVZNkJ0MTRhZzNXS1ZUQUQ0SU9VREZKRU9pMkMtb1NmM0RhblA2VGphZ2FLU2M?oc=5",
+            "source": "아주경제",
+            "published": "11-17 13:20",
+            "snippet": "美연준, AI 투자 과열에 경고…대형 은행 위험노출액 1조 달러 육박 아주경제"
           }
         ],
-        "젠슨 황 사임": [
+        "젠슨 황 거취 및 사임 논란": [
+          {
+            "title": "[3분증시] 뉴욕증시, 젠슨 황 거취 논란에 동반 하락 - 연합뉴스 한민족센터",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1OdWh3MjZnaDJpdm5uLXNVc1Z1Y1BQcmJSUlVNeXA5WjZJTUFreTZPY1VDVXlfa3dtZ1lMX0FfektwZTFGbEtzYkhiSklZNFpLVmctRDdPQWhyYTZOREpuRllHNHNDRkVnN2RYdS10cWRzZjFC?oc=5",
+            "source": "연합뉴스 한민족센터",
+            "published": "11-17 07:48",
+            "snippet": "[3분증시] 뉴욕증시, 젠슨 황 거취 논란에 동반 하락 연합뉴스 한민족센터"
+          },
+          {
+            "title": "[뉴욕증시] 젠슨 황 거취에 휘둘린 증시…필리 반도체 지수 5% 급락 - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oeEduX3kwZ0Nfd2dEWmJJY0JOVUVtcnZ2NkhpQ3lDMTZ5YnlPZlB0QS1jOEN0LXhtNmRBMHhhbWpacjBhdWxUTVhpS19YSEpvdklKV3hNalRYWXFGaXNfRkw5SWVrdF9YdE4zOGxGWk0?oc=5",
+            "source": "연합인포맥스",
+            "published": "11-17 06:34",
+            "snippet": "[뉴욕증시] 젠슨 황 거취에 휘둘린 증시…필리 반도체 지수 5% 급락 연합인포맥스"
+          },
+          {
+            "title": "[뉴욕증시-1보] 젠슨 황 거취에 휘둘린 증시…필리 5% 급락하며 3일째↓ - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SYjdwa0xrcnVJei1jeWpocWZVTzVFeEh5NGlIZ09jNFNoZGp5WUIyb2U2MmVJVWtuZmljYmdxXzdLdXktWng5a0VPX1BnVWdUU3UtVHM0M1owOHlaZWhqUHhackw4cGZINFdiLWJCRks?oc=5",
+            "source": "연합인포맥스",
+            "published": "11-17 06:08",
+            "snippet": "[뉴욕증시-1보] 젠슨 황 거취에 휘둘린 증시…필리 5% 급락하며 3일째↓ 연합인포맥스"
+          },
           {
             "title": "[뉴욕 증시] 젠슨 황 사임 여파에 AI주 매도세… 3대 지수 일제히 하락 - 한양경제",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JXzBwR0lULUx5LVY2N2U5OWFMS3g2eGdsOFN3cDE1Nnc1OW1RbU1DWG03cWVjUnZlMHhiR1Q5ZFJ1MFVxMmRaMEIzNnprOVpaV2lSWmlDREpyWmpETjJvTVRDcWlfYWRoRi1iN3diWVpFUQ?oc=5",
@@ -419,80 +479,22 @@
             "source": "티제이비",
             "published": "11-17 07:14",
             "snippet": "젠슨황 사임 여파 지속, 뉴욕증시 일제 하락...필리지수 5.28%↓ 티제이비"
-          },
-          {
-            "title": "뉴욕증시, 젠슨 황 사임 여파에 일제히 하락…반도체지수 5.3% 급락 - 디지털데일리",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xMnVSMktnLVMyd0cySEwtVEhUN3ZRcElBN01fV25sSWM1Z0p3MFpQMHBKNm5Uc21rV05kU3N0Snd3UTdlMEJmNWcxajRCUFNqMV9zVGI4RGZkZXF6dERoMlRQUDE?oc=5",
-            "source": "디지털데일리",
-            "published": "11-17 06:39",
-            "snippet": "뉴욕증시, 젠슨 황 사임 여파에 일제히 하락…반도체지수 5.3% 급락 디지털데일리"
-          },
-          {
-            "title": "트럼프 “젠슨 황 혼외관계 여성, 중국 스파이 아닐 수도”…밴스도 맞장구 - 한겨레",
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOTNYUktrWENXdThmSnBCM3cwVlhmZzNXcENrR0JBMTQ4Tnc3ZlJKNEI0cW1scUxDNzZLaGN3YjJsSi1zQl9GMnpxbUY0NUJ3YU9lX25Ed1Jia20zT3FpRkhGaG9UMTljOFhCU2dhemlsNElMUWJMZ2lPOFEzX3NGMkx3?oc=5",
-            "source": "한겨레",
-            "published": "11-17 14:54",
-            "snippet": "트럼프 “젠슨 황 혼외관계 여성, 중국 스파이 아닐 수도”…밴스도 맞장구 한겨레 부인했던 순환금융, 젠슨 황 복귀 주장 근거됐다 조선일보 싱가포르 디지털장관 \"메가스피드 철저히 조사중‥타국법 위반도 용납 안 해\" MBC 뉴스 \"젠슨 황 딸, 사실상 아버지 비서실장…막강 권력 휘둘러\" 연합뉴스TV “젠슨 황 딸, 엔비디아서 ‘막후 실세’ 역할···임원들에 고성·압박, 12명 줄퇴사” 경향신문"
-          },
-          {
-            "title": "젠슨황·앤트로픽·금리…'삼중고'에 5,000선 무너진 코스피(종합) - 연합뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80S0JhamIzTVpRTUI4eU9JWmhsb1FiSWRxQmRLeDN6Ry1HckJWYldvVDB2a2ptaDFsdkI5b1VfMWxUNmNZLXpMbTNjRzZiSThIT2JYR05LbWZfYkXSAWBBVV95cUxPSUFUWGszTDR2YVFNclZIbmw2MXF3eWVRSjd6WTJFWkh5dDRkUXI3MDE5SXJqTzZKdnhQQXJ5UGVyTWVQOEhMUUtzMXZmcEVDNldmckliZnhLMnRvdlJfd1E?oc=5",
-            "source": "연합뉴스",
-            "published": "11-17 16:33",
-            "snippet": "젠슨황·앤트로픽·금리…'삼중고'에 5,000선 무너진 코스피(종합) 연합뉴스"
-          }
-        ],
-        "나스닥 기술주 급락": [
-          {
-            "title": "[서울데이터랩]미국 증시, 기술주·반도체주 급락에 일제히 하락 마감…나스닥 2%대 밀려 - 서울신문",
-            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5EeGtabjBQLVpnNFcwQ29KNlYtaWQyNENKSFpVTzJfTWdjNDV0TXBRdWNIMDV3X3U3ZTdZd21sSTFEeXNLOVhrZVVjMXBoOVJOdlU4S3E5NllHS1FNM2VzUlJvZmNLUUtYT3RoVkl3Y2xiM1VLTTliVWJCbl9DQQ?oc=5",
-            "source": "서울신문",
-            "published": "11-17 06:09",
-            "snippet": "[서울데이터랩]미국 증시, 기술주·반도체주 급락에 일제히 하락 마감…나스닥 2%대 밀려 서울신문"
-          },
-          {
-            "title": "[e마켓오프닝] 엔비디아 실적 D-day···나스닥 2.49% 급락·반도체 긴장 - 시사저널e",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUVnhxRzl0alpXYjFqc3puSkJYeDktdmpGRVIwemJUWUFnMUdrYnZEN29jaTFhNTBKM3F5OTdxTmxhQnljNnoxRE1fOXdqemlnMzEwR0x1Y0JVUWZ5ampIYXZwVlJkeG4tbHYwYURQREk0dw?oc=5",
-            "source": "시사저널e",
-            "published": "11-17 09:00",
-            "snippet": "[e마켓오프닝] 엔비디아 실적 D-day···나스닥 2.49% 급락·반도체 긴장 시사저널e"
-          },
-          {
-            "title": "美 대중 반도체 수출규제 강화에 나스닥 2.49% 급락 [뉴욕증시] - 매일일보",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52TFUyUU00OE1oSzdhVVIxVW55MUlEdXNFSmJfaEs2QjBvZnNVdTBxTWtyX2VSREFpOWkzRVB5MFhLUmUwOWlXbHQ4V3F0cnRfWjE2eHFOdE45cEhTb3duaFlVbHI?oc=5",
-            "source": "매일일보",
-            "published": "11-17 08:18",
-            "snippet": "美 대중 반도체 수출규제 강화에 나스닥 2.49% 급락 [뉴욕증시] 매일일보"
-          },
-          {
-            "title": "[뉴스프레소] 나스닥, AI주 매도세 확산에 2.5% 급락… 엔비디아 실적 프리뷰 - 머니투데이 - 머니투데이",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83cTRxYjFIRFlqWUZSYTFxZDVRUGNfOS1tNXdwX2s1UkROZkxZSE5aTUZXMlNJRXBrZUIzQzVsWjVDQ0RCRGdvRWI3YzFGZFlMYmtJeHN1ZUFPV09RblBXclZvdjRuMFV20gFuQVVfeXFMT1pkS2VQYW10LXNrTnNPQmJ3WGRzS0dUWHlLdkxlMVExT1J2Wnc5d2hhWGtDWmpEUldWb2FOZDRJVnREYUFMMkkzLUtKRDQzU3BTd0x6VVkwNXBQUGsxRDJ6c2dWZG5jRkFwUnJZdUE?oc=5",
-            "source": "머니투데이",
-            "published": "11-17 13:42",
-            "snippet": "[뉴스프레소] 나스닥, AI주 매도세 확산에 2.5% 급락… 엔비디아 실적 프리뷰 - 머니투데이 머니투데이"
-          },
-          {
-            "title": "뉴욕증시, 엔비디아發 악재에 3대 지수 급락…나스닥 2.49%↓ - 산경투데이",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zZHhXMTZWM21GbGNIUWJiSnZyVDVTMl9WQTZQNHYxTkJ4Y2J5R1VoemFxMktzN3JPNThjTGNqM1VZblZOd3dxWV9vQ3B2N09peVNQYzFiVXhrQU5nZVlEelRUa1k5dGhXM2NlUGNBbDbSAXRBVV95cUxNQWdBZnUtWFU0OEJNeTlGRXVXeHg3Wm1XUFhtQVhwdnNxeFhXT3BPb0Y2ZXQ3dTN3ZWVUQUdUelNxTTZEME5ySWYyblRmbEFzSXo5MWczR0pDYjB2bVlwNmJGQTdhM2laSVVyM0pyWTk1Z08zRQ?oc=5",
-            "source": "산경투데이",
-            "published": "11-17 07:15",
-            "snippet": "뉴욕증시, 엔비디아發 악재에 3대 지수 급락…나스닥 2.49%↓ 산경투데이"
-          },
-          {
-            "title": "[글로벌증시] 美 나스닥 2%대 급락…AI주 매도세 확산 - 연합뉴스TV",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZOXJrdTAzXzJLeC1XbF8wZzBuaF9QU2dpZEdzc0h6ajczaTFOMC1WRW5JY1dZbVppenR5MjJ0TW85V0Q3VWc5cS1RMXQ4eDJCcGVFejAtdThjNkJ1ZlBtMlIwcEp0RFk?oc=5",
-            "source": "연합뉴스TV",
-            "published": "11-17 06:51",
-            "snippet": "[글로벌증시] 美 나스닥 2%대 급락…AI주 매도세 확산 연합뉴스TV"
           }
         ]
       },
       "queries": {
-        "연준 AI 경고": [
-          "연준 ai",
-          "연준 ai 버블"
+        "AI주 매도세와 나스닥 급락": [],
+        "미 연준의 AI 금융 위험 경고": [
+          "미 연준의장",
+          "미 연준의장 임기",
+          "미 연준의장 교체",
+          "미 연준의장 교체시기",
+          "미 연준의장 후보",
+          "미 연준의장 지명",
+          "미 연준 의장 취임",
+          "미 연준의장 쿠팡"
         ],
-        "젠슨 황 사임": [
+        "젠슨 황 거취 및 사임 논란": [
           "젠슨 황",
           "젠슨 황 부인",
           "젠슨 황 가족 사진",
@@ -501,198 +503,183 @@
           "젠슨 황 자녀",
           "젠슨 황 국적",
           "젠슨 황 나이"
-        ],
-        "나스닥 기술주 급락": [
-          "나스닥 기술주",
-          "나스닥 기술주 etf",
-          "나스닥 기술주 종류",
-          "나스닥 기술주 하락",
-          "나스닥 기술주 비중",
-          "나스닥 기술주 하락 이유",
-          "나스닥 기술주 디시",
-          "나스닥 기술주 지수"
         ]
       }
     },
     "keywords": [
       "코스피 5000선 붕괴",
-      "금융권 해킹 사고",
-      "수도권 집값 상승",
-      "연준 AI 경고",
-      "젠슨 황 사임",
-      "나스닥 기술주 급락"
+      "보안 취약점 및 해킹 피해",
+      "수도권 집값 상승 및 격차",
+      "AI주 매도세와 나스닥 급락",
+      "미 연준의 AI 금융 위험 경고",
+      "젠슨 황 거취 및 사임 논란"
     ],
     "results": {
       "코스피 5000선 붕괴": {
-        "headline": "코스피 5000선 붕괴, 외인 1.5조 투매에 9개월 만에 최저치",
+        "headline": "코스피 5000선 붕괴 외국인 1조 원 매도 폭탄",
         "facts": [
-          "코스피 지수가 외국인의 강력한 매도세에 밀려 5000선 아래로 추락하며 4960선까지 후퇴했다.",
-          "외국인 투자자들은 하루 동안 유가증권시장에서 1.2조 원에서 최대 1.5조 원 규모의 주식을 순매도하며 지수 하락을 주도했다.",
-          "이번 5000선 붕괴는 지난 9개월 만에 처음 발생한 사건으로 장중 내내 반등 기회를 잡지 못하고 하락 마감했다.",
-          "미국발 젠슨 황 사임 소식과 연준의 AI 위험 경고 등 대외 악재가 겹치며 국내 증시의 투자 심리가 급격히 얼어붙었다."
+          "코스피 지수가 외국인의 1조 원 넘는 대규모 매도세에 밀려 전 거래일 대비 2.59% 하락하며 5,000선 아래로 내려앉았으며 이는 시장의 예상치를 크게 하회하는 급격한 하락세로 기록되었다.",
+          "엔비디아의 실적 발표를 하루 앞두고 시장의 경계감이 극에 달한 가운데 반도체 대형주를 중심으로 차익 실현 매물이 쏟아지며 지수 하락을 주도하는 양상이 뚜렷하게 나타났다.",
+          "지수 5,000선이 무너진 것은 약 9개월 만의 일로 장중 내내 하락 압력이 지속되었으며 투자 심리가 급격히 위축되면서 개인 투자자들의 저가 매수세도 지수를 방어하기에는 역부족이었다.",
+          "외국인 투자자들은 오후 들어 매도 폭을 더욱 확대하며 지수 하방 압력을 가중시켰고 기관 역시 동반 매도에 나서며 코스피는 장중 한때 최저점을 경신하는 등 불안한 흐름을 보였다."
         ],
         "watch": [
-          "외국인 자금의 추가 이탈 여부 및 순매도 규모 추이",
-          "4900선 지지 여부와 기관 투자자의 저가 매수세 유입",
-          "미국 반도체 지수 변동에 따른 국내 IT 대형주 영향"
+          "엔비디아 3분기 실적 및 가이드라인 발표",
+          "외국인 순매도세 진정 여부 및 수급 변화",
+          "5,000선 회복을 위한 기술적 지지선 확인"
         ],
         "qna": [
           {
-            "q": "외국인이 하루 만에 1.5조 원을 투매하며 지수를 끌어내린 결정적 배경은 무엇인가?",
-            "a": "미국 엔비디아의 수장인 젠슨 황의 사임 소식과 연준의 AI 거품 경고가 맞물리며 글로벌 기술주 펀드에서 자금이 급격히 빠져나갔다. 한국 증시는 반도체 비중이 높아 글로벌 AI 투자 심리 위축에 직격탄을 맞으며 외국인의 차익 실현 매물이 집중된 것으로 분석된다."
+            "q": "엔비디아 실적 발표 전후로 외국인이 1조 원 이상을 투매한 배경은 무엇인가?",
+            "a": "실적 기대감이 이미 주가에 선반영되었다는 판단과 함께 실제 결과가 시장의 높은 눈높이를 충족하지 못할 경우 발생할 급락 리스크를 피하려는 선제적 대응이다. 특히 한국 증시는 반도체 비중이 높아 글로벌 AI 업황의 작은 변동성에도 외국인 자금이 민감하게 유출입되는 구조적 특성을 지닌다."
           },
           {
-            "q": "9개월 만에 5000선이 무너진 것이 시장에 주는 심리적 임계점의 의미는 무엇인가?",
-            "a": "5000선은 투자자들에게 강력한 지지선이자 시장의 상승 추세를 가늠하는 심리적 마지노선 역할을 해왔다. 이 선이 허무하게 깨지면서 추가 하락에 대한 공포가 확산되었으며, 손절매 물량이 쏟아지는 연쇄 반응을 일으켜 하락 폭을 키웠다."
+            "q": "5,000선 붕괴가 국내 반도체 밸류체인 기업들의 자금 조달 환경에 어떤 영향을 미치는가?",
+            "a": "주가 하락으로 인해 시가총액이 감소하면 기업들의 담보 가치가 하락하고 유상증자나 전환사채 발행 시 발행 가액이 낮아져 자금 조달 비용이 상승하는 결과를 초래한다. 이는 설비 투자가 필수적인 반도체 기업들에게 장기적인 성장 동력 약화로 이어질 수 있는 위험 요소이다."
           },
           {
-            "q": "국내 증시가 단기 반등에 성공하기 위해 필요한 선결 조건은 무엇인가?",
-            "a": "무엇보다 외국인의 매도세 진정과 환율 안정이 우선되어야 하며, 삼성전자 등 시가총액 상위 반도체 종목의 주가 회복이 필수적이다. 또한 미국 나스닥 시장의 AI 관련주들이 진정세를 보여야 국내 증시로의 저가 매수세 유입을 기대할 수 있다."
+            "q": "기술적 분석 관점에서 지수 반등을 견인할 수 있는 핵심 수급 주체와 지표는 무엇인가?",
+            "a": "외국인의 매도세 멈춤과 함께 연기금을 비롯한 기관의 강한 순매수 전환이 필수적이며 고객예탁금의 증감 추이가 반등의 강도를 결정할 것이다. 또한 원/달러 환율의 안정세가 동반되어야 외국인 투자자들이 환차손 우려를 덜고 다시 국내 시장으로 유입될 수 있는 환경이 조성된다."
           }
         ]
       },
-      "금융권 해킹 사고": {
-        "headline": "금융보안원·코인원 잇단 해킹, AI 기반 지능형 공격에 보안망 비상",
+      "보안 취약점 및 해킹 피해": {
+        "headline": "아세안정상회의·레고랜드 잇단 해킹 피해 발생",
         "facts": [
-          "금융권 보안의 핵심 기관인 금융보안원이 해킹 사고를 당해 금융위원회가 긴급 현장 점검에 나섰다.",
-          "가상자산 거래소 코인원의 고객센터가 해킹되어 고객의 자산 탈취 및 사생활 침해 우려가 커지고 있다.",
-          "레고랜드에서도 해킹으로 인해 고객의 이름, 전화번호, 연간이용권 정보 등 민감한 개인정보가 대거 유출되었다.",
-          "국회의원 비서관을 사칭한 해킹 시도가 포착되었으며, 배후로 북한 연계 해킹 조직인 '김수키'가 의심받고 있다.",
-          "구글은 AI가 스스로 취약점을 찾아 공격하는 '자율형 해킹'이 현실화되었다고 경고하며 보안 위협의 진화를 지적했다."
+          "아세안정상회의가 중국 해커 조직의 공격을 받은 것으로 드러나며 외교 안보를 둘러싼 해킹 전쟁이 본격화되었고 국가 주요 행사의 보안 체계에 대한 우려가 커지고 있다.",
+          "레고랜드 코리아에서도 해킹 사고가 발생하여 고객의 성명과 전화번호는 물론 연간 이용권 정보까지 대거 유출되는 등 민간 서비스 분야의 보안 취약점이 여실히 드러났다.",
+          "코인원 고객센터가 해킹당하며 이용자들의 자산 탈취와 사생활 침해 가능성이 제기되었고 의원 비서관을 사칭한 북한 연계 조직 '김수키'의 공격 정황도 포착되어 긴장이 고조되고 있다.",
+          "금융감독원은 대부업권의 보안 취약점을 집중 점검하고 해킹 방어 체계가 미흡한 업체에 대해 엄정 제재를 가할 방침이며 불법 사금융 피해 지원을 위한 온라인 신청 시스템을 가동했다."
         ],
         "watch": [
-          "금융당국의 금융보안원 현장 점검 결과 및 책임 추궁 수위",
-          "코인원 등 가상자산 거래소의 추가 피해 규모 확인",
-          "AI 기반 해킹 방어를 위한 금융권 보안 시스템 고도화 계획"
+          "금감원의 대부업권 보안 점검 결과 및 제재",
+          "유출된 개인정보를 악용한 2차 금융 범죄",
+          "국가 배후 해킹 조직에 대한 외교적 대응"
         ],
         "qna": [
           {
-            "q": "대응 기관인 금융보안원까지 해킹당한 상황이 금융권 전체에 주는 시사점은 무엇인가?",
-            "a": "최후의 보루인 보안 전문 기관마저 뚫렸다는 점에서 기존의 방어 체계가 지능화된 공격을 막기에 역부족임을 드러냈다. 이는 개별 금융사의 보안 점검을 넘어 국가 차원의 금융 보안 거버넌스를 전면 재검토해야 하는 심각한 상황임을 의미한다."
+            "q": "아세안정상회의와 같은 국제 행사를 겨냥한 해킹 공격이 외교 안보에 미치는 실질적 위협은 무엇인가?",
+            "a": "정상 간의 비공개 논의 내용이나 국가 간 전략적 협력 방안이 유출될 경우 외교적 주도권을 상실하거나 국가 신뢰도에 치명적인 타격을 입을 수 있다. 이는 단순한 정보 탈취를 넘어 국가 간 사이버 교전 상태로 번질 수 있는 중대한 안보 위협으로 간주된다."
           },
           {
-            "q": "AI를 활용한 자율형 해킹이 실제 금융권 공격에 도입될 경우 어떤 위험이 발생하는가?",
-            "a": "사람의 개입 없이 AI가 실시간으로 보안 취약점을 찾아내고 공격 패턴을 바꾸기 때문에 기존의 규칙 기반 방어 시스템으로는 대응이 불가능하다. 특히 인터넷 은행이나 가상자산 거래소처럼 비대면 거래가 잦은 곳에서 대규모 자산 탈취가 순식간에 일어날 수 있다."
+            "q": "가상자산 거래소 고객센터 해킹이 단순 정보 유출을 넘어 자산 탈취로 이어지는 구체적인 경로는 어떻게 되는가?",
+            "a": "해커가 탈취한 고객 정보를 바탕으로 피싱 메일을 발송하거나 고객센터 상담원을 사칭하여 2차 인증 번호나 개인 키를 탈취하는 사회공학적 기법을 사용한다. 이를 통해 사용자의 계정에 직접 접속하여 가상자산을 외부 지갑으로 전송하는 방식으로 실질적인 자산 피해를 입힌다."
           },
           {
-            "q": "정치권 사칭 해킹과 금융권 공격이 동시에 발생하는 현상을 어떻게 해석해야 하는가?",
-            "a": "사회적 혼란을 야기하고 주요 정보를 탈취하려는 국가 배후 해킹 조직의 소행일 가능성이 높으며, 이는 단순한 금전적 이득을 넘어 국가 안보 위협으로 확장되고 있다. 금융 정보와 정치적 정보를 동시에 노리는 복합 테러 형태의 사이버 공격에 대비한 민관 합동 대응이 시급하다."
+            "q": "레고랜드 등 민간 서비스의 정보 유출 사고 시 기업이 져야 할 법적 책임과 보상 범위의 기준은 무엇인가?",
+            "a": "개인정보보호법에 따라 기업이 기술적·관리적 보호 조치 의무를 다했는지 여부가 핵심이며 과실이 입증될 경우 매출액의 일정 비율에 해당하는 과징금이 부과될 수 있다. 피해 고객에 대해서는 유출된 정보의 민감도와 실제 발생한 금전적·정신적 피해 규모를 산정하여 손해배상 책임이 결정된다."
           }
         ]
       },
-      "수도권 집값 상승": {
-        "headline": "경기 집값 상승률 서울 추월, 은마아파트 분담금 8억 원 압박",
+      "수도권 집값 상승 및 격차": {
+        "headline": "수도권 집값 양극화 심화 상하위 격차 52배",
         "facts": [
-          "수원 영통과 화성 동탄을 중심으로 경기도 아파트값 상승률이 서울을 앞지르는 기염을 토했다.",
-          "전국 주택소유 비율이 57.6%로 역대 최고치를 기록한 가운데 평균 집값은 전년 대비 9% 상승했다.",
-          "서울 대치동 은마아파트는 재건축 분담금 4억 원과 재초환 4억 원 등 총 8억 원의 비용 부담에도 불구하고 거래가 활발하다.",
-          "서울 전체 집값 상승세는 3개월 연속 둔화하며 6개월 만에 최저 수준의 상승 폭을 기록했다.",
-          "오세훈 서울시장은 정부의 부동산 시장 안정화 인식을 정면 반박하며 서울 집값이 아직 불안정하다고 경고했다."
+          "주택 소유 상위 10%와 하위 10%의 자산 격차가 52배까지 벌어지며 역대 최대치를 기록하는 등 유주택자 사이에서도 자산 양극화 현상이 심각한 수준으로 나타났다.",
+          "경기도 수원 영통과 화성 동탄 등 반도체 벨트 지역의 집값 상승률이 서울을 앞지르는 기염을 토하며 수도권 부동산 시장의 중심축이 이동하는 지각변동이 관측되었다.",
+          "10월 코픽스가 3.62%를 기록하며 주택담보대출 변동금리가 2개월 연속 상승함에 따라 대출을 통해 내 집을 마련한 가계의 이자 상환 부담이 한층 무거워진 상황이다.",
+          "서울의 집값 상승세는 대출 규제 여파로 다소 둔화된 반면 경기도 일부 지역은 반도체 클러스터 조성 등 대형 호재에 힘입어 보합세를 유지하거나 강한 반등세를 보이고 있다."
         ],
         "watch": [
-          "수원·화성 등 경기 남부 지역의 상승세 지속 여부",
-          "재건축 초과이익 환수제 개편 논의 및 분담금 확정 추이",
-          "서울시와 정부 간 부동산 시장 상황 인식 차이에 따른 정책 변화"
+          "코픽스 상승에 따른 주담대 금리 추가 인상",
+          "반도체 클러스터 인근 지역 매수세 유입",
+          "자산 격차 완화를 위한 정부의 세제 변화"
         ],
         "qna": [
           {
-            "q": "서울의 상승세는 둔화하는데 경기 일부 지역이 서울을 앞지른 원인은 무엇인가?",
-            "a": "서울의 급격한 가격 상승에 피로감을 느낀 수요자들이 상대적으로 저평가된 경기 남부의 핵심 거점으로 이동하는 풍선효과가 나타났다. 특히 삼성전자 등 대기업 배후 수요가 탄탄한 수원 영통과 화성 동탄 지역의 신축 선호 현상이 가격을 끌어올린 것으로 분석된다."
+            "q": "주택 자산 격차가 52배까지 벌어진 현상이 가계 소비 여력과 내수 경기에 미치는 파급 효과는 무엇인가?",
+            "a": "자산이 적은 하위 가구는 소득의 상당 부분을 원리금 상환에 지출하며 소비를 줄이는 반면 상위 가구는 자산 가치 상승에 따른 부의 효과로 소비를 유지하는 양극화가 발생한다. 이는 전체적인 내수 활력을 저해하고 계층 간 위화감을 조성하여 사회적 비용을 증가시키는 원인이 된다."
           },
           {
-            "q": "은마아파트의 8억 원에 달하는 비용 부담에도 거래가 최다를 기록한 배경은 무엇인가?",
-            "a": "신축 아파트 공급 부족이 심화되는 상황에서 강남 핵심 입지의 미래 가치가 분담금 부담보다 크다고 판단한 투자자들이 유입되었기 때문이다. 재건축 이후의 가치 상승분이 8억 원 이상의 비용을 상쇄할 것이라는 기대감이 시장에 강하게 작용하고 있다."
+            "q": "서울 강남권의 상승세가 둔화된 상황에서 수원과 화성 등 경기 남부권이 독주하는 시장 메커니즘은 무엇인가?",
+            "a": "강남권은 높은 가격대와 강력한 대출 규제로 인해 신규 진입이 차단된 반면 경기 남부권은 상대적으로 진입 장벽이 낮고 반도체 산업 중심의 양질의 일자리가 집중되어 있다. 직주근접 수요와 미래 가치 상승 기대감이 맞물리며 실거주자와 투자자가 동시에 몰리는 현상이 나타나는 것이다."
           },
           {
-            "q": "오세훈 시장이 정부의 부동산 안정화 발표를 정면 반박한 근거는 무엇인가?",
-            "a": "지표상 상승 폭은 줄었으나 강남권 등 선호 지역의 신고가 경신이 계속되고 있어 서민들이 체감하는 주거비 부담은 여전히 높기 때문이다. 공급 대책의 실효성이 나타나기까지 시차가 존재하므로 성급한 낙관론이 투기 심리를 다시 자극할 수 있다는 우려를 표명한 것이다."
+            "q": "금리 상승기와 자산 양극화가 맞물린 시점에서 무주택자의 진입 장벽을 결정짓는 핵심 변수는 무엇인가?",
+            "a": "단순한 매매 가격보다는 총부채원리금상환비율(DSR) 규제 하에서 개인이 감당할 수 있는 대출 한도와 실제 적용되는 가산 금리의 수준이 가장 결정적인 변수이다. 또한 정부가 공급하는 공공분양 주택의 물량과 청약 자격 완화 여부가 무주택자의 주거 사다리 복원 여부를 가를 분기점이 될 것이다."
           }
         ]
       },
-      "연준 AI 경고": {
-        "headline": "연준 \"대형은행 AI 위험 노출 1조 달러\", 금융 불안정성 공식 경고",
+      "AI주 매도세와 나스닥 급락": {
+        "headline": "나스닥 2.5% 급락 AI주 투매에 조정장 진입",
         "facts": [
-          "미 연준은 대형 은행들의 AI 관련 투자 및 위험 노출액이 1조 달러(약 1300조 원)에 달한다고 발표하며 손실 확산을 경고했다.",
-          "AI 기술이 금융 시스템의 불안정성을 키우고 있으며, 특히 정보 확산 속도를 높여 뱅크런을 가속화할 수 있다는 우려가 제기되었다.",
-          "연준 의장은 AI 투자 실패가 단순한 기업 손실을 넘어 경기 침체와 주가 급락의 트리거가 될 수 있다고 강조했다.",
-          "케빈 워시 연준 이사는 AI 거품 붕괴 가능성을 언급하며 시장에 강력한 경고 메시지를 보냈다.",
-          "AI가 경제의 성장 엔진이 될 수 있다는 기대와 동시에 일자리 파괴 및 증시 변동성 확대라는 양면성을 지적받고 있다."
+          "뉴욕증시에서 나스닥 지수가 AI 관련주에 대한 강력한 매도세가 확산되며 전 거래일 대비 2.49% 급락 마감했고 고점 대비 10% 하락하며 본격적인 조정 구간에 진입했다.",
+          "엔비디아 주가가 4.1% 하락하는 등 반도체와 대형 기술주 전반에 걸쳐 투매가 이어졌으며 이는 실적 발표를 앞둔 시장의 극심한 불안감과 차익 실현 욕구가 반영된 결과이다.",
+          "필라델피아 반도체 지수 역시 5% 넘게 폭락하며 기술주 중심의 하락 압력이 증시 전반을 짓눌렀고 투자자들은 위험 자산 비중을 급격히 줄이며 안전 자산으로 이동하는 모습을 보였다.",
+          "시장은 AI 산업의 수익성 실현 속도가 기대보다 느릴 수 있다는 의구심을 제기하고 있으며 대형 테크 기업들의 과도한 밸류에이션에 대한 재평가가 진행되는 과정으로 풀이된다."
         ],
         "watch": [
-          "연준의 대형 은행 대상 AI 리스크 관리 가이드라인 발표",
-          "AI 관련 기업들의 실적 발표와 투자 회수 가능성 점검",
-          "금융권 내 AI 자동 매매 알고리즘에 대한 규제 도입 여부"
+          "엔비디아 실적 발표 후 시간외 거래 주가",
+          "나스닥 지수의 10% 조정선 지지 여부",
+          "기술주에서 가치주로의 자금 이동 가능성"
         ],
         "qna": [
           {
-            "q": "연준이 지목한 1조 달러 규모의 AI 위험 노출액은 구체적으로 어떤 경로로 형성되었는가?",
-            "a": "대형 은행들이 AI 인프라 구축을 위해 기술 기업에 제공한 대규모 대출과 직접적인 지분 투자, 그리고 AI 알고리즘을 활용한 고위험 파생상품 운용액이 포함된다. AI 산업의 수익성이 기대에 못 미칠 경우 이 자산들이 한꺼번에 부실화되면서 은행 시스템 전체로 위기가 전이될 수 있다."
+            "q": "나스닥 지수가 고점 대비 10% 하락하며 조정장에 진입한 것이 기술적 반등의 신호인가 아니면 하락장의 시작인가?",
+            "a": "과거 사례를 볼 때 10% 조정은 과열된 시장의 거품을 걷어내는 건강한 조정일 수 있으나 이번에는 AI 수익성에 대한 근본적 의문이 동반되었다는 점이 다르다. 주요 지지선인 200일 이동평균선을 하향 돌파할 경우 단순 조정을 넘어 장기 하락 추세로의 전환 가능성을 배제할 수 없다."
           },
           {
-            "q": "AI가 어떻게 뱅크런을 가속화하고 금융 불안정성을 높인다는 것인가?",
-            "a": "AI 기반 소셜 미디어 분석과 자동화된 뉴스 전파로 인해 부정적인 정보가 과거보다 수백 배 빠른 속도로 확산되기 때문이다. 또한 AI 알고리즘에 의한 자동 매도 주문이 특정 시점에 몰릴 경우 시장의 유동성을 순식간에 고갈시켜 금융 시스템을 마비시킬 위험이 크다."
+            "q": "엔비디아 실적 발표를 앞두고 나타난 4% 이상의 주가 폭락이 반도체 공급망 전체에 미치는 심리적 타격은 어느 정도인가?",
+            "a": "엔비디아는 AI 생태계의 가늠자 역할을 하므로 이 회사의 주가 폭락은 장비, 소재, 파운드리 등 전후방 산업 기업들에 대한 투자 심리를 동시에 얼어붙게 만든다. 이는 공급망 내 기업들의 주가 동반 하락은 물론 향후 주문 물량 감소에 대한 공포를 확산시키는 기폭제가 된다."
           },
           {
-            "q": "연준의 이번 경고가 향후 금리 정책이나 시장 규제에 어떤 영향을 미칠 것으로 보이는가?",
-            "a": "자산 거품을 억제하기 위해 고금리 기조를 예상보다 길게 유지하거나, AI 관련 대출에 대한 자본 적립 요건을 강화하는 규제를 도입할 가능성이 높다. 이는 기술주 중심의 유동성 공급을 차단하여 증시의 과열을 식히는 기제로 작용할 전망이다."
+            "q": "AI 산업의 수익성 의구심이 커지는 상황에서 대형 테크 기업들의 자본 지출 계획이 어떻게 수정될 가능성이 있는가?",
+            "a": "투자 대비 성과(ROI)가 명확하지 않을 경우 기업들은 인프라 확충 속도를 조절하고 보수적인 현금 흐름 관리에 들어갈 가능성이 높다. 이는 AI 서버 및 데이터센터 구축 수요의 감소로 이어져 반도체 업황의 피크아웃 논란을 가속화하는 요인이 될 수 있다."
           }
         ]
       },
-      "젠슨 황 사임": {
-        "headline": "젠슨 황 사임 충격에 나스닥·반도체 급락, 글로벌 AI 투자 심리 위축",
+      "미 연준의 AI 금융 위험 경고": {
+        "headline": "미 연준 AI 투자 위험 경고 은행 노출액 1조 달러",
         "facts": [
-          "엔비디아의 상징적 인물인 젠슨 황의 사임 소식이 전해지며 뉴욕 증시 3대 지수가 일제히 하락했다.",
-          "나스닥 지수는 2.49% 급락했으며, 필라델피아 반도체 지수는 5.28% 폭락하며 시장에 큰 충격을 주었다.",
-          "도널드 트럼프 전 대통령은 젠슨 황의 사생활과 관련된 루머를 언급하며 정치적 논란을 부추겼다.",
-          "이번 사태는 국내 증시에도 영향을 미쳐 코스피 5000선 붕괴의 주요 원인 중 하나로 작용했다.",
-          "AI 산업의 성장을 이끌어온 핵심 리더의 부재가 향후 엔비디아의 경영 전략과 기술 혁신에 차질을 줄 것이라는 우려가 확산되고 있다."
+          "미국 연방준비제도가 대형 은행들의 AI 관련 위험 노출액이 1조 달러에 육박한다며 AI 투자 과열에 따른 금융 시스템의 불안정 가능성을 공식적으로 경고하고 나섰다.",
+          "제롬 파월 연준 의장은 AI 투자 실패가 단순한 기업 손실을 넘어 경기 둔화와 실업 증가로 이어질 수 있으며 디지털 환경에서의 뱅크런을 가속화할 우려가 있다고 지적했다.",
+          "IMF와 연준은 AI 투심이 급격히 냉각될 경우 금융 시장 전반으로 손실이 확산될 수 있음을 강조하며 금융권의 철저한 리스크 관리와 자본 확충을 강력히 촉구했다.",
+          "특히 AI 기술에 대한 과도한 의존과 쏠림 현상이 금융 시스템의 취약성을 키우고 있으며 예상치 못한 시장 변동성이 발생할 경우 대규모 연쇄 부실로 이어질 수 있다는 분석이다."
         ],
         "watch": [
-          "엔비디아의 차기 CEO 선임 절차 및 경영권 승계 계획",
-          "젠슨 황 사임의 구체적인 배경과 사생활 관련 루머의 사실 여부",
-          "글로벌 반도체 공급망 내 엔비디아의 지배력 변화 추이"
+          "연준의 대형 은행 대상 AI 리스크 테스트",
+          "AI 관련 대출 및 투자 자산의 부실화 징후",
+          "IMF의 글로벌 금융 안정 보고서 추가 발표"
         ],
         "qna": [
           {
-            "q": "젠슨 황 한 명의 사임이 필라델피아 반도체 지수를 5% 넘게 폭락시킨 이유는 무엇인가?",
-            "a": "젠슨 황은 단순한 경영자를 넘어 AI 혁명의 설계자이자 엔비디아 그 자체로 상징되기 때문이다. 그의 부재는 엔비디아의 독점적 지위와 미래 로드맵에 대한 불확실성을 극대화하며 반도체 섹터 전체에 대한 투매를 촉발했다."
+            "q": "연준이 지목한 1조 달러 규모의 AI 위험 노출액이 실제 금융 시스템 붕괴로 이어지는 임계점은 어디인가?",
+            "a": "단순한 노출액 규모보다 해당 자산의 부실화율과 은행의 자기자본 비율이 핵심이며 AI 스타트업들의 연쇄 도산이 시작되는 시점이 임계점이 될 것이다. 1조 달러 중 상당 부분이 레버리지를 활용한 투자라면 자산 가치 하락 시 마진콜이 발생하며 금융 시장 전반의 유동성 위기로 번질 수 있다."
           },
           {
-            "q": "트럼프 전 대통령이 언급한 중국 스파이 관련 루머가 시장에 어떤 영향을 미치고 있는가?",
-            "a": "단순한 개인 신상 문제를 넘어 미중 갈등이라는 지정학적 리스크로 번지며 투자자들의 불안감을 자극하고 있다. 만약 경영진의 결격 사유가 국가 안보와 연결될 경우 엔비디아에 대한 강력한 규제나 제재가 뒤따를 수 있다는 공포가 주가에 반영된 것이다."
+            "q": "AI 기술이 뱅크런을 가속화할 수 있다는 연준의 경고는 디지털 금융 환경에서 어떤 메커니즘으로 작동하는가?",
+            "a": "AI 알고리즘에 기반한 자동 매매와 정보 확산 속도가 빨라지면서 부정적인 뉴스가 발생할 경우 순식간에 대규모 자금 인출 시도가 일어날 수 있다. 이는 과거의 오프라인 뱅크런과 달리 대응할 시간적 여유가 거의 없는 '초고속 디지털 뱅크런'을 유발하여 은행의 지급 불능 상태를 순식간에 초래한다."
           },
           {
-            "q": "엔비디아의 주가 하락이 국내 반도체 기업인 삼성전자와 SK하이닉스에 미치는 경로는 무엇인가?",
-            "a": "엔비디아는 국내 기업들로부터 HBM 등 고성능 메모리를 구매하는 최대 고객사이기 때문에 엔비디아의 위기는 곧 국내 기업의 실적 악화로 직결된다. AI 서버 투자 수요가 위축될 것이라는 전망이 나오면서 국내 반도체 대형주들에 대한 외국인의 동반 매도세가 강해지고 있다."
+            "q": "중앙은행의 경고가 AI 스타트업에 대한 벤처캐피털의 자금 공급과 대출 금리에 어떤 즉각적인 변화를 가져오는가?",
+            "a": "금융권이 리스크 관리를 강화하면서 AI 기업들에 대한 대출 심사가 엄격해지고 가산 금리가 상승하여 자금 조달 문턱이 크게 높아질 것이다. 이는 수익 모델이 불분명한 스타트업들의 자금줄을 죄어 구조조정을 촉발하고 시장의 옥석 가리기를 강제하는 결과를 낳게 된다."
           }
         ]
       },
-      "나스닥 기술주 급락": {
-        "headline": "나스닥 2.49% 급락, AI 매도세 확산과 대중 반도체 규제 강화 여파",
+      "젠슨 황 거취 및 사임 논란": {
+        "headline": "젠슨 황 사임설에 반도체 지수 5% 폭락 증시 충격",
         "facts": [
-          "뉴욕증시에서 나스닥 지수가 AI 관련주에 대한 투매 여파로 2.49% 하락하며 장중 조정장에 진입했다.",
-          "미국의 대중 반도체 수출 규제 강화 소식이 전해지면서 엔비디아를 비롯한 주요 반도체 종목들이 일제히 급락했다.",
-          "엔비디아 실적 발표를 앞두고 시장의 기대치와 우려가 교차하며 차익 실현 매물이 쏟아져 나왔다.",
-          "AI 기술주 전반에 걸친 매도세 확산으로 인해 시가총액 상위 대형 기술주들이 지수 하락을 견인했다.",
-          "글로벌 증시는 미 기술주 급락의 영향으로 동반 하락세를 보이며 투자 심리가 극도로 위축된 상태다."
+          "엔비디아의 창업자이자 수장인 젠슨 황의 거취를 둘러싼 사임 논란이 불거지며 뉴욕증시 3대 지수가 일제히 하락했고 필라델피아 반도체 지수는 5.28% 폭락하는 사태가 벌어졌다.",
+          "시장은 젠슨 황의 사임 여파가 AI 산업 전반의 리더십 공백과 전략 수정으로 이어질 것을 우려하며 엔비디아를 포함한 주요 기술주를 중심으로 대규모 매물을 쏟아냈다.",
+          "이번 논란은 엔비디아의 분기 실적 발표라는 중대한 이벤트를 앞둔 시점에 발생하여 투자자들의 불안감을 극대화했으며 증시 전반의 하락 압력을 키우는 결정적 요인이 되었다.",
+          "젠슨 황의 거취 문제가 불거진 직후 관련 반도체 종목들이 동반 하락하며 시장 변동성이 커졌고 투자자들은 향후 엔비디아의 경영권 승계 구도와 전략 변화에 촉각을 곤두세우고 있다."
         ],
         "watch": [
-          "엔비디아 실적 발표 결과 및 향후 가이던스 제시 내용",
-          "미국 정부의 추가적인 대중 반도체 수출 제한 조치 세부안",
-          "나스닥 지수의 주요 이동평균선 지지 여부 및 기술적 반등 시점"
+          "엔비디아 이사회의 공식 입장 발표 여부",
+          "젠슨 황의 직접적인 거취 관련 해명 행보",
+          "반도체 지수 폭락 후 저가 매수세 유입 시점"
         ],
         "qna": [
           {
-            "q": "대중 반도체 수출 규제 강화가 나스닥 급락의 기폭제가 된 구체적인 메커니즘은 무엇인가?",
-            "a": "엔비디아 등 주요 AI 반도체 기업들의 매출 중 상당 부분이 중국 시장에서 발생하기 때문에 수출 제한은 즉각적인 수익 감소로 이어진다. 규제가 강화될수록 미래 성장 동력이 훼손될 것이라는 우려가 커지며 밸류에이션 하향 조정이 일어난 결과다."
+            "q": "특정 기업인의 거취 논란이 개별 종목을 넘어 필라델피아 반도체 지수 전체를 5% 이상 끌어내린 근본적인 원인은 무엇인가?",
+            "a": "젠슨 황은 단순한 CEO를 넘어 글로벌 AI 생태계의 상징적 인물이자 전략적 설계자이기 때문에 그의 부재는 산업 전체의 방향성 상실로 해석된다. 엔비디아가 반도체 지수 내에서 차지하는 압도적인 비중과 영향력이 지수 전체의 동반 폭락을 야기한 핵심 원인이다."
           },
           {
-            "q": "엔비디아 실적 발표를 앞두고 왜 호재보다 악재에 더 민감하게 반응하는가?",
-            "a": "그동안 AI 기대감으로 주가가 지나치게 가파르게 올랐기 때문에 작은 악재에도 차익을 실현하려는 욕구가 강해진 상태다. 실적이 예상치를 상회하더라도 향후 성장률 둔화 가능성이 조금이라도 보이면 시장은 이를 매도 신호로 받아들이는 역설적 상황에 놓여 있다."
+            "q": "젠슨 황의 사임이 현실화될 경우 엔비디아가 추진 중인 차세대 AI 칩 로드맵과 파운드리 협력 관계에 어떤 차질이 생기는가?",
+            "a": "강력한 카리스마를 바탕으로 추진되던 공격적인 R&D 투자와 TSMC 등 주요 파트너사와의 긴밀한 협력 관계가 리더십 교체기에 일시적으로 흔들릴 수 있다. 이는 경쟁사들에게 시장 점유율을 탈환할 기회를 제공하며 엔비디아의 독점적 지위가 약화되는 계기가 될 가능성이 크다."
           },
           {
-            "q": "나스닥의 기술주 투매 현상이 다른 섹터로 전이될 가능성은 어느 정도인가?",
-            "a": "기술주는 지수 비중이 매우 높기 때문에 이들의 하락은 전체 지수 하락을 유도하고, 이는 다시 마진콜과 담보 부족으로 이어져 다른 섹터의 주식까지 팔게 만드는 연쇄 반응을 일으킬 수 있다. 특히 AI 투자를 위해 부채를 늘린 금융권과 통신 섹터가 다음 리스크 타깃이 될 가능성이 높다."
+            "q": "실적 발표 직전에 터져 나온 거취 논란이 공매도 세력이나 시장 조성자들의 포지션 변화에 어떤 빌미를 제공했는가?",
+            "a": "불확실성을 극도로 혐오하는 시장 특성상 악재성 루머는 공매도 세력에게 주가 하락을 유도할 수 있는 최적의 명분을 제공한다. 시장 조성자들 역시 리스크 회피를 위해 매수 호가를 낮추거나 물량을 줄이면서 유동성이 공급되지 않아 주가 하락 폭이 더욱 확대되는 악순환이 발생했다."
           }
         ]
       }
@@ -700,18 +687,18 @@
     "news": {
       "코스피 5000선 붕괴": [
         {
-          "title": "코스피 5000선 붕괴…외국인 1.2조 ’팔자’에 4960선까지 후퇴 By EBN - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBTmFlUEpiZW9PQjduQ005d0o4V21BVzQ0MzQyOE9RdXNnRzlXQk9CMjJ6UlFxLW5hS3lpeUVIa3Bza2w0S3BKMGVUa1VoLVF6bGpMREFZSUZGVVh1c085STBJTWM3cVVPLWw5VTRHNFA?oc=5",
-          "source": "Investing.com 한국어",
-          "published": "11-17 15:33",
-          "snippet": "코스피 5000선 붕괴…외국인 1.2조 ’팔자’에 4960선까지 후퇴 By EBN Investing.com 한국어"
+          "title": "'엔비디아 실적 하루 앞'…코스피 5000선 붕괴 - 뉴스토마토",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lc1ZqODI4RldMY1ZDYkxuYkNfY0l5R0xIYm41d2p1eFpHQ3gwTkpiLUdOaWM2djhEREV5ekxZUklYOEdMMmN4NHNWRnBfRG9hTGdBMlcyb2ZqUFM1LWhHeA?oc=5",
+          "source": "뉴스토마토",
+          "published": "11-17 16:51",
+          "snippet": "'엔비디아 실적 하루 앞'…코스피 5000선 붕괴 뉴스토마토"
         },
         {
-          "title": "코스피, 9개월 만에 5000선 붕괴…외인 1.5조 '팔자' - 글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNlpQSTdNNjhLdmdKN0JreHduRWpGTEd5TEZBVVBkb1ZJWnpBMUlmLWJTVWw4MWVvOElENVVqSkI2VWVsWWI0a3JQOGl4U2pVb2RTem1taW1TU1lXNkh3SjlSNml1RmNyX1hzVk1oa3Y5Y2NIM1RUSnZaUGNPYlVTYlNrajZ4TWhs?oc=5",
-          "source": "글로벌이코노믹",
-          "published": "11-17 15:56",
-          "snippet": "코스피, 9개월 만에 5000선 붕괴…외인 1.5조 '팔자' 글로벌이코노믹"
+          "title": "’5천피’마저 붕괴…코스피, 2.59% 하락 마감 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12MmZMUVpndEMwQjV1R2g0cEVjbDlWbUFmZ0lPSkR1U1ZDTGJBbTM5Uk1qRFVYRy1WcVN5Um80OXpRM2lnZ3I3cWN3NW44RUFiM2FQdUUwMkNiNks3Vy1UVi11Y2pUSGc?oc=5",
+          "source": "연합뉴스TV",
+          "published": "11-17 15:36",
+          "snippet": "’5천피’마저 붕괴…코스피, 2.59% 하락 마감 연합뉴스TV [속보] 코스피 장 초반 2%대 하락‥5천 선 아래로 MBC 뉴스 코스피, 2%대 하락…다시 장중 '5천피' 아래로 연합뉴스 '5천피' 붕괴…코스피, 9개월여 만에 최저 수준 SBS 뉴스 코스피 장중 5,000선 하회…외국인 매도에 장 초반 2%대 하락 연합인포맥스"
         },
         {
           "title": "코스피 5,000선 붕괴…외국인 매도에 휘청 - 연합뉴스TV",
@@ -721,6 +708,13 @@
           "snippet": "코스피 5,000선 붕괴…외국인 매도에 휘청 연합뉴스TV"
         },
         {
+          "title": "[오후시황] 외국인 1조원 넘게 매도…코스피 다시 5000선 아래로 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iSnp2OUhUSGRqV0FSYXBaeFdvTXNWM3NfRWthOUtYWDF1QUV4a215WjNxOUJSWFdkY3BYUEJibUZWdktUajRMM0doOS1hZlh2T2F1RkEyZU4wQQ?oc=5",
+          "source": "한국경제",
+          "published": "11-17 14:18",
+          "snippet": "[오후시황] 외국인 1조원 넘게 매도…코스피 다시 5000선 아래로 한국경제"
+        },
+        {
           "title": "[포토] 코스피 5000 붕괴 - 전자신문",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Rel9DanA2OTZURVNyY0tqS3EzNWpPVXZfaTNEa3U0YzZGNVlhWVhhcGdNNzF3cWl5TkZhVWI5N3FXb2NzdF9MV0ZOa2NUQQ?oc=5",
           "source": "전자신문",
@@ -728,48 +722,41 @@
           "snippet": "[포토] 코스피 5000 붕괴 전자신문"
         },
         {
-          "title": "[속보]'못 버텼다' 코스피 결국 5,000선 붕괴 마감 - KBC광주방송",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00RGl0YVVWb1BfbFdfbUoyTWRvSzhLM2paUEpoMVFmRnhoaUdTckxaRkxiTFdKN2VadkdiV1Z1eTJ6MTM3bk5YLXBJUHd5VDdRNk9lRHphZjZHSFZiWlQ2aQ?oc=5",
-          "source": "KBC광주방송",
-          "published": "11-17 16:08",
-          "snippet": "[속보]'못 버텼다' 코스피 결국 5,000선 붕괴 마감 KBC광주방송"
-        },
-        {
-          "title": "코스피, 5000선도 깨졌다…9개월 만에 최저 - 더나은미래",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVd2ZydVA5ZzN3dzdiY0lsb1lwb2tpUnF0WE52S3NuYlFCS2M3STJkZVZPQjJ6dmJRMVhpZ1BfWExrY1NfWGhoTGsyTG5nT2dUTEE?oc=5",
-          "source": "더나은미래",
-          "published": "11-17 17:16",
-          "snippet": "코스피, 5000선도 깨졌다…9개월 만에 최저 더나은미래"
+          "title": "9개월 만에 5,000선 붕괴, 코스피에 무슨 일이? - 네이버페이 머니스토리",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BdWZIbncyZWpIM191OUZ0Rjd0NVNzTG5IcGZJU3dDcTZjQ29DX1dDSGwzYUVHeWs1X2NwbjdpVmJKaFZ0Q0lqQXBaN1hTM093Z1ZlZDlxeUI?oc=5",
+          "source": "네이버페이 머니스토리",
+          "published": "11-17 17:26",
+          "snippet": "9개월 만에 5,000선 붕괴, 코스피에 무슨 일이? 네이버페이 머니스토리"
         }
       ],
-      "금융권 해킹 사고": [
+      "보안 취약점 및 해킹 피해": [
         {
-          "title": "금융위, '해킹 사고' 금융보안원 현장 점검‥\"대응기관서 발생한 사고, 깊은 유감\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3eEEzbEhsWTRoZlRsZHA2WXdkY2VuM2hVaDdMS2xid1dJSVF5U08tVDRHSTlwWnNjTWxuYWVVNWNuVmRGaXBRenV3MjIyWHFaeG15S2kzU3ZNUVc4bjZTQmd0RmtJRUlBNThXLV9MdGg1c1N40gF0QVVfeXFMTm1VTzFiQVBBd1lCZ1lpZDRraF9iMHhhX2l3eG9ZU0JZb3ZXcmhtV3oxREg3RDhKSTFmUWVpb2NXNUdETDRxRDRabFlhSTFtbUlJN1dvU0FCejNFd3BiSUlLN1FDNjNLeGJGakNQUmE2aHpjMXo?oc=5",
-          "source": "MBC 뉴스",
-          "published": "11-16 10:36",
-          "snippet": "금융위, '해킹 사고' 금융보안원 현장 점검‥\"대응기관서 발생한 사고, 깊은 유감\" MBC 뉴스 금융위, '침해' 금융보안원에 쇄신 요구…인력·조직 강화 예상(종합) 연합뉴스 [현장에서] 금융권 AI 해킹, 명확한 책임규명과 피해보상안이 우선 뉴스핌 '해킹사고' 금융보안원 찾은 신진창 부위원장 \"쇄신과 재발방지\" 당부 - 머니투데이 머니투데이 금융권 580여 개사 보안 전수 점검 본격화… 쿠도커뮤니케이션, TuxCare(턱스케어) 기반 서버 보"
+          "title": "금감원, 대부업권 해킹 보안 점검…\"취약점 발견시 엄정 제재\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRenF4eHZfRkEtLXVhMXNOZ1dmOTBrMm8xSjkwaHBsNG03NUpkRzNrZV9vbVpuMEZiVGtFTnY4TVJXX0ZJc0xYaGp6d0xPc3lqQ0VEWUJFeVZETHF4N2hrT3Jfa0ttcTRabTczQlZFZ1Y?oc=5",
+          "source": "연합인포맥스",
+          "published": "11-17 14:00",
+          "snippet": "금감원, 대부업권 해킹 보안 점검…\"취약점 발견시 엄정 제재\" 연합인포맥스 금융당국 ‘580개 금융사 보안 전수점검’ 본격화... 연말 CEO 서명 제출 보안뉴스 [단독]금융사들, 평균 3.4일 지나서야 해킹 알았다…15일 걸린 곳도 동아일보 당국, 대부업·전금·온투업 점검 강조…\"이후 사고 엄정 제재\"(종합) 매일경제 마켓 시민단체, 금융권 해킹 개인정보 유출 규탄…\"보안체계 점검\" 연합뉴스"
         },
         {
-          "title": "금감원 “침해사고 책임 물을 것”…전금·온투업자 보안점검 당부 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tcG9PZXh5eENPLWtld3hRTVpQZU8yMURzOUFJLUhVUzQ3NmM1cnhXZ290M2R4ekdUNXQxcllPTmRDVTlkOEJlV1FyYzRmbG5lcW1rVHRJVDIxVDRBUjhfZmRKWmQyQQ?oc=5",
-          "source": "KBS 뉴스",
-          "published": "11-17 10:02",
-          "snippet": "금감원 “침해사고 책임 물을 것”…전금·온투업자 보안점검 당부 KBS 뉴스 금융당국 ‘580개 금융사 보안 전수점검’ 본격화... 연말 CEO 서명 제출 보안뉴스 당국, 대부업·전금·온투업 점검 강조…\"이후 사고 엄정 제재\"(종합) 매일경제 마켓 금감원, 전금업·온투업 대상 '해킹 침해사고' 대응 간담회 개최 MBC 뉴스 시민단체, 금융권 해킹 개인정보 유출 규탄…\"보안체계 점검\" 연합뉴스"
-        },
-        {
-          "title": "AI가 취약점 찾고 공격까지…구글 \"사람 없는 자율형 해킹 현실화\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc0hRT1JBQTVMVlh4R3pwbS1LSDJ5OHMtWGVIR3ltY2hFcXBZdloyam5DSUdzanZ3bWhOaGdfblFjTTFCU2t1NGJVS1h4cmJ4aERaYS03S2hIR3RMVXZMVi12OTNNV0tjLU5TNC1aZHdiWS14YUpYVjgzWVNwc2NqaURWQQ?oc=5",
-          "source": "조선일보",
-          "published": "11-17 10:07",
-          "snippet": "AI가 취약점 찾고 공격까지…구글 \"사람 없는 자율형 해킹 현실화\" 조선일보 패치 나오면 곧바로 공격 코드로... 구글, 해커들의 AI 에이전트 침투 자동화 경고 보안뉴스 \"사람 없이 취약점 찾고 공격까지\"…구글, AI 자율해킹 첫 확인 뉴스1 [사이버보안, 패러다임 전환]〈1〉국가 사이버보안 정책, 새 판 짜자 전자신문 사람 없이 AI가 해킹한 사례 첫 확인…AI끼리 연결해 전 과정 자동화 동아일보"
+          "title": "[단독] 아세안정상회의, 中해커에 공격당했다…외교안보 해킹 전쟁 본격화 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aRm1Qa2hNSzdTTTNDNy1XcVJsX3owTnRKckhNb3lUVDJHXzg3YkJwak94TWNvSi1UbXBmOTczMTRxWTlySEw1XzkzWlNJbkdCamc?oc=5",
+          "source": "매일경제",
+          "published": "11-17 13:59",
+          "snippet": "[단독] 아세안정상회의, 中해커에 공격당했다…외교안보 해킹 전쟁 본격화 매일경제 패치 나오면 곧바로 공격 코드로... 구글, 해커들의 AI 에이전트 침투 자동화 경고 보안뉴스 \"중국 해킹조직, '아르텍스'로 한국 외교 조직 공격\" MBC 뉴스 [사이버보안, 패러다임 전환]〈1〉주요국, 사이버보안 컨트롤타워 재편…조정 권한 강화 전자신문 사람 없이 AI가 해킹한 사례 첫 확인…AI끼리 연결해 전 과정 자동화 동아일보"
         },
         {
           "title": "코인원 고객센터 해킹 후폭풍…자산 탈취·사생활 침해까지 우려 - 지디넷코리아",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlVnNmWjdTQ19mVFMwZlMtRkM3RFhrNnhiY2lhTS12NDk0bHZWcUk2eklLZjZPRjlnSDFaTFBxcHBfejVPcEQ2Unp6MUlvTEJDUklJQ2NB?oc=5",
           "source": "지디넷코리아",
           "published": "11-17 11:22",
-          "snippet": "코인원 고객센터 해킹 후폭풍…자산 탈취·사생활 침해까지 우려 지디넷코리아 ‘AI 콜센터’ 메타엠 해킹... 병원 등 150개 고객사 공급망 위협 잠재 보안뉴스 가상자산거래소 ‘선제적 입출금 차단’ 허용, 실효성은? 스트레이트뉴스 [심층] 해킹 보고 31시간 뒤 ’믿고 쓰는 코인원’…코인원, 유출 공지는 시한 80분 전 By 알파경제 alphabiz Investing.com 한국어 메가MGC커피, 고객정보 유출…수탁사 해킹에 휴대전화번호 30건 "
+          "snippet": "코인원 고객센터 해킹 후폭풍…자산 탈취·사생활 침해까지 우려 지디넷코리아 ‘AI 콜센터’ 메타엠 해킹... 병원 등 150개 고객사 공급망 위협 잠재 보안뉴스 메가MGC커피 “고객센터 위탁업체 해킹…고객 30명 전화번호 유출” KBS 뉴스 [심층] 해킹 보고 31시간 뒤 ’믿고 쓰는 코인원’…코인원, 유출 공지는 시한 80분 전 By 알파경제 alphabiz Investing.com 한국어 코인 거래소 줄줄이 해킹… \"외부 수탁사·업무망 관리 "
+        },
+        {
+          "title": "불법사금융 피해 지원, 센터 방문 없이 온라인 신청 가능 - 대한민국 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Fd2NqRUVmRTZhUWR1V09aeVl4VDFXLXVZRGs2ZTFXaWwwa2JzZGM0WHlyaTVBa2V5U0RGc0d6U1Z1N0gxeDJLcnZlbmNjTG1NNm1Od1F1OFc4Y2dTc3ZReUhJNjd1cElRU2xuTw?oc=5",
+          "source": "대한민국 정책브리핑",
+          "published": "11-16 16:07",
+          "snippet": "불법사금융 피해 지원, 센터 방문 없이 온라인 신청 가능 대한민국 정책브리핑 [숏폼뉴스] 플라톤 『국가론』, “민주주의가 독재를 낳는다?” 기호일보 충주시, 취약계층 금융 피해 예방 총력전 충청매일 정부, 불법사금융 피해자 지원 예산 동났다 서울경제 불법사금융 피해구제 '온라인 문' 넓혔지만…채무종결 합의는 7건 중 1건 녹색경제신문"
         },
         {
           "title": "의원 비서관 사칭 해킹…북한 연계 ‘김수키’ 의심 - KBS 뉴스",
@@ -786,64 +773,115 @@
           "snippet": "[단독] 레고랜드도 뚫렸다…고객명·전화번호에 연간이용권 정보까지 유출 매일경제 레고랜드·씨라이프 부산 개인정보 유출 가능성... 입장객 예약 시스템 ‘액세소’ 해킹 보안뉴스 아마데우스 해킹사고로 국내 여행사 개인정보 유출 확산 우려 연합뉴스 [단독]항공예약시스템 아마데우스發 개인정보 유출 일파만파 - 머니투데이 머니투데이 \"여권번호에 여행 일정까지?\"…여행업계 개인정보 유출 '사칭 주의' 뉴스1"
         }
       ],
-      "수도권 집값 상승": [
+      "수도권 집값 상승 및 격차": [
         {
           "title": "수원 영통·화성 동탄 ‘날았다’…경기도 집값 상승률, 서울 앞질렀다 - 경기일보",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYVnRzYjR4eFM3SFBFYS05M3l0Vng2aDZFRnJ4YUUzcnhCZ3RSa3pONHVVWjhWX0E1M0Vib1d2a00wcWtlZklROHZWeWJKLWN5V01hNDVPdmxnQ2s?oc=5",
           "source": "경기일보",
           "published": "11-16 15:36",
-          "snippet": "수원 영통·화성 동탄 ‘날았다’…경기도 집값 상승률, 서울 앞질렀다 경기일보 “서울서 집 구하기, 포기합니다”… 평균 전셋값, 사상 첫 5억원 넘었다 매일경제 ‘부처 이전 기대’ 세종 주택 매수 심리, 서울 앞질러 경향신문 부산지역 부동산시장 소비심리지수 한 달 만에 하락 국제신문 서울 주택 매매심리 6개월 만에 최저… 전국 전세심리는 올해 최고 Chosunbiz"
+          "snippet": "수원 영통·화성 동탄 ‘날았다’…경기도 집값 상승률, 서울 앞질렀다 경기일보 ‘부처 이전 기대’ 세종 주택 매수 심리, 서울 앞질러 경향신문 “아파트만 오르는 줄 알았는데”…서울 집값 상승률 1위는 ‘이곳’ 매일경제 서울 평균 전셋값, 사상 첫 5억원 넘었다 Chosunbiz 부산지역 부동산시장 소비심리지수 한 달 만에 하락 국제신문"
         },
         {
-          "title": "주택소유 비율 57.6% 역대 최고…평균 집값 9%↑ - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zUmN1bG9XVTNKRGJVNzRaTy1fb1VQakdTMTFKdnlSN2UzZWh6R3haQk04Wk1Xek9Pd2owZGhMeDVmYUtxMGh4bFlfS250NmtqZUxwd3AxdGVmQUlpNlQ3dnVYaF9rUQ?oc=5",
-          "source": "KBS 뉴스",
-          "published": "11-16 12:15",
-          "snippet": "주택소유 비율 57.6% 역대 최고…평균 집값 9%↑ KBS 뉴스 집값 격차 52배 '역대 최대'...12억 초과 소유 가구 32% 급증 YTN (보도설명) 주택소유통계상 12억 초과 주택 소유 가구 전체가 종부세 과세대상은 아닙니다. 대한민국 정책브리핑 15억6000만원 : 3000만원 경향신문 지난해 다주택자 4만4천 명 증가…60대 이상이 약 절반 KBS 뉴스"
+          "title": "주택 소유 최상·하위 10% 자산 격차 최대 52배 '역대 최대' - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96UHBYUjAzbXdWMGhaVHRRLUV3ZUxNNDVBcmU4TkQwTVRVckdNVTNRdEdZTmp6N2U2eVFuQTdBbkV3RmVCOWx1eU15WFp4RE5XVnA0X0djb1o3OGQxdmFZWDhGVzBqNjNwNTJ4R1FOZFpVbkI10gF0QVVfeXFMTzhpOFVFcUFnV3laODF2ZUpvbVhIaksxT3UxOTR5SU9CWEl6dHlhU05XekRVZHlwRl9XUGZpMEp5MVgtOWxEMVdlRGNtRHl6RlIyaWdsZ0M3YWhYOUYtRXhOZlA0bl95YWVjb0VPYjQyMVBlRmg?oc=5",
+          "source": "MBC 뉴스",
+          "published": "11-16 14:47",
+          "snippet": "주택 소유 최상·하위 10% 자산 격차 최대 52배 '역대 최대' MBC 뉴스 (보도설명) 주택소유통계상 12억 초과 주택 소유 가구 전체가 종부세 과세대상은 아닙니다. 대한민국 정책브리핑 집값 격차 52배 '역대 최대'...12억 초과 소유 가구 32% 급증 YTN 15억6000만원 : 3000만원 경향신문 지난해 다주택자 4만4천 명 증가…60대 이상이 약 절반 KBS 뉴스"
         },
         {
-          "title": "분담금 4억에 재초환 4억… 대치 은마, 신축 빼면 서울 거래 최다 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQlBPTHBZV0tJMDhnbTBoUU9QcW9KNWFTaE1EdVB4ZTlNc0Jic3Z0MnMzaGN3NEZhZVlMRDA0QUFUV0xweTM1djBoZ0Z6SENWUkNHS0lVQ2wyR1l0YzF0OUdWdUtZSTh5NFFPNS1Ed21OLWFXUF8zUHJRZ1dlSU9Ra2MzVFloNDNNUlIwbHo1RnVQbTVjVDluTdIBrAFBVV95cUxNQmFMZG9jVW11QnVPa1JrTFh4bVR1djU4NE9kX3VtM280dTZHeDFzNExKejN1QmRnalN4T1pkRkROd0E4TklXZXQydDExamN1SHV1bW9MVjd0MjItUDRHcmRBbjUxT19MV0QwRlh2SE50X3dTTE1vQ195M1pnTW5QTkFKdTRmNnVfN0lyeWRwcXM5LVVvMHVOaXdlb3BQUXNDOGxmcW1ucDRtMUFM?oc=5",
-          "source": "Chosunbiz",
-          "published": "11-17 06:04",
-          "snippet": "분담금 4억에 재초환 4억… 대치 은마, 신축 빼면 서울 거래 최다 Chosunbiz 오세훈 “재초환은 ‘이중과세’···제2의 종부세 논란 야기할 수 있어, 전면 재검토해야” 경향신문 오세훈 “재초환, 전면 재검토해야… 집값 상승요인” Chosunbiz “재건축 같은 평형 입주에 10억 더 내야할 판”… 미실현 이익에 부담금 논란 대한경제 재초환 폐지 목소리에… \"공급 영향 제한적\" 선 그은 국토부 - 머니투데이 머니투데이"
+          "title": "주담대 변동금리 2개월 연속 상승…10월 코픽스 3.62% - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sbjJHR3RUM0RzRG9EcUdNUE9LVXNPcXd0c0UyWW0zazctQjMza2Y2WDljWXRESUJkUnBuSE5sS2dXeExBQXQxTE5TeS1keWNIZXI2N0FYcWJSeFJORlRTY0pwN3hpTTAwc2RzODRwaFfSAXRBVV95cUxPYUJoMF9rRGJXaU95NGN2NV9RbWtpOEFMZm0tVHV5LVlQNF9jdFREZkYtSjY3SnFkbHdOU1NXbkVPY011MGhlS2lNbzA5bGZ2LWpEVk9ZZGNLdWdaSGYwdUw5NVpMb3pTc19YYUJLcHZYUlh2TQ?oc=5",
+          "source": "연합인포맥스",
+          "published": "11-16 15:12",
+          "snippet": "주담대 변동금리 2개월 연속 상승…10월 코픽스 3.62% 연합인포맥스 내일부터 5대은행 주담대 변동금리 또 올라···최고 연 6.51% 경향신문 신규 코픽스 2년 8개월 만에 최고…주담대 금리 더 오른다 연합뉴스 집도 없는데 월급은 이자로 … 은행 전세대출 상단 6% 돌파, 인뱅 3%대 실종 뉴데일리 경제 \"변동금리 더 싸다더니\"…시장금리 내릴 때 또 오른 변동형 주담대 - 머니투데이 머니투데이"
         },
         {
-          "title": "서울 집값 상승세 둔화…6개월 만에 최저 - LG헬로비전",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1TRnpOVURTREtOYVJvc1FEMnhCdzhfX1VUYjV3SkdkWTBlZDZZd0ttMzR4TG13dWxTT2JVSjBnbXhNSjFjQm5Bcm4tMUhpbzJ4WE9ndUJGSE0xcXc3UFNWWDlPX1NYbmRHVHJlNHEzbnBxUdIBdkFVX3lxTE9jR09MODJTYktOUHVnRDJHX2pIT19NYXlNSzgtcjMxWUJPVF9LV3I5dW1NQ0hXYllGZEdtSjdkTEkyTmllMFNNS2NvWVZQcWZGLXpaV0NPS3k4MVdBdTlWbzJRakNqWTQzU2liRXVnclBvMEgxY1E?oc=5",
-          "source": "LG헬로비전",
-          "published": "11-17 16:27",
-          "snippet": "서울 집값 상승세 둔화…6개월 만에 최저 LG헬로비전"
+          "title": "서울 집값 상승률 꺾였는데 경기는 보합… ‘반도체 벨트’ 효과 - 경인일보",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SRHNISDRfY1FlU1dLQXUxSWlFeFFTYlAyMnBDSGQ2QXhMSWxrTlZxdmlhajRQbWIyeE95M0NMNzgwVjR6UWdJeHoyS21FQS1ZQ2c?oc=5",
+          "source": "경인일보",
+          "published": "11-16 19:31",
+          "snippet": "서울 집값 상승률 꺾였는데 경기는 보합… ‘반도체 벨트’ 효과 경인일보"
         },
         {
-          "title": "서울 집값 상승세 3개월 연속 둔화…경기 아파트값 상승률 서울 추월 - https://www.thedailyeconomy.kr/",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OOV9yRjBuUjNOV1RuTUZielN4Y1RBdWJ2LW1fZ0xiQ0ctbkZiLVQ3YWFJLXk1a21ZVDV0ekF4NGlndWpYSGlibmkySEItT0NSdnJQRWltbGtzM3k0Q25vUFFZM05ESWRFZklxbUc5QVo?oc=5",
-          "source": "https://www.thedailyeconomy.kr/",
-          "published": "11-17 09:17",
-          "snippet": "서울 집값 상승세 3개월 연속 둔화…경기 아파트값 상승률 서울 추월 https://www.thedailyeconomy.kr/"
+          "title": "유주택자도 양극화…상하위 10% 격차 52배 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yaENobk16NGhLeVAybW5Fd09Ca2xncFdBbFQ4NXhJQ0UxRlY1OEJSQkNZMzV5OXlERWNVRnljRHBWOTNkcndvSFFVRGEyVGNneE9oTw?oc=5",
+          "source": "매일경제",
+          "published": "11-16 17:35",
+          "snippet": "유주택자도 양극화…상하위 10% 격차 52배 매일경제"
         },
         {
-          "title": "오세훈 \"서울 집값 안정된 것 아냐\"···정부 부동산 인식 정면 반박 - 서울파이낸스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1eGZKSC1pWWhmNjJkRS0wb3JuUlZlOFF2bjBvLVJWZEs3YTdpdXdsSFNwS21vMmJyUlQwNXZENENLTlQ1LWJkazhKNjdWTnFpYVhxNkNfaVBmMUNFSHU2QzBIdjQ5dXVYSmc?oc=5",
-          "source": "서울파이낸스",
-          "published": "11-17 17:01",
-          "snippet": "오세훈 \"서울 집값 안정된 것 아냐\"···정부 부동산 인식 정면 반박 서울파이낸스"
+          "title": "강남은 뚝 경기는 쑥…수도권 아파트도 '지각변동' > 뉴스 - 지데일리",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11eWs5U1FtTkV2ek5RT2VLRGlzeVJhTVotM1VQS1RLU0RXMkJBTXlYTDJja2l6LUNWVHRJQjJoRlBhdlZVLVZiYnVmSzVJc2VoeUlFeGlaenFGNGhVLW0wWGp0Q0hxbXdSdUQzTA?oc=5",
+          "source": "지데일리",
+          "published": "11-16 21:18",
+          "snippet": "강남은 뚝 경기는 쑥…수도권 아파트도 '지각변동' > 뉴스 지데일리"
         }
       ],
-      "연준 AI 경고": [
+      "AI주 매도세와 나스닥 급락": [
+        {
+          "title": "[글로벌증시] 美 나스닥 2%대 급락…AI주 매도세 확산 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZOXJrdTAzXzJLeC1XbF8wZzBuaF9QU2dpZEdzc0h6ajczaTFOMC1WRW5JY1dZbVppenR5MjJ0TW85V0Q3VWc5cS1RMXQ4eDJCcGVFejAtdThjNkJ1ZlBtMlIwcEp0RFk?oc=5",
+          "source": "연합뉴스TV",
+          "published": "11-17 06:51",
+          "snippet": "[글로벌증시] 美 나스닥 2%대 급락…AI주 매도세 확산 연합뉴스TV"
+        },
+        {
+          "title": "[뉴스프레소] 나스닥, AI주 매도세 확산에 2.5% 급락… 엔비디아 실적 프리뷰 - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83cTRxYjFIRFlqWUZSYTFxZDVRUGNfOS1tNXdwX2s1UkROZkxZSE5aTUZXMlNJRXBrZUIzQzVsWjVDQ0RCRGdvRWI3YzFGZFlMYmtJeHN1ZUFPV09RblBXclZvdjRuMFV20gFuQVVfeXFMT1pkS2VQYW10LXNrTnNPQmJ3WGRzS0dUWHlLdkxlMVExT1J2Wnc5d2hhWGtDWmpEUldWb2FOZDRJVnREYUFMMkkzLUtKRDQzU3BTd0x6VVkwNXBQUGsxRDJ6c2dWZG5jRkFwUnJZdUE?oc=5",
+          "source": "머니투데이",
+          "published": "11-17 13:42",
+          "snippet": "[뉴스프레소] 나스닥, AI주 매도세 확산에 2.5% 급락… 엔비디아 실적 프리뷰 - 머니투데이 머니투데이"
+        },
+        {
+          "title": "AI주 매도세에 나스닥 2.5% 하락…엔비디아 4.1%↓ - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbDlLMHE2MVhSU1lRZGZVZGNQckhES0lRS0RLRmtiMXIwcldwLVVDSEVUQUFlaWUwWkdYQmVuUUJHcmV4V1hwN1RETUZyNm5mRHhFZGVldWc0R2dvT1FSVnp1Z292eUJGV1ZubnRta3ZvNFEyR21DT0g5YjBHcDcxaGdwcTRiUEhR?oc=5",
+          "source": "조선일보",
+          "published": "11-17 06:43",
+          "snippet": "AI주 매도세에 나스닥 2.5% 하락…엔비디아 4.1%↓ 조선일보"
+        },
+        {
+          "title": "[뉴욕마감]AI주 투매에 나스닥 2.49% 급락…고점 대비 10%↓ 조정 진입 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2ampEaURZTC1BX2NFUEtRUFladzRaaGhTc2pWZVUxYjc0SVdVc29jOEs2WHROVjhORWFqVzF6X2VLbW4zdDRMQndmUTJFZS1tRVNidEc2R1JJTEs3Z0czdzVibjRsRVU?oc=5",
+          "source": "뉴스1",
+          "published": "11-17 06:29",
+          "snippet": "[뉴욕마감]AI주 투매에 나스닥 2.49% 급락…고점 대비 10%↓ 조정 진입 뉴스1"
+        },
+        {
+          "title": "[e마켓오프닝] 엔비디아 실적 D-day···나스닥 2.49% 급락·반도체 긴장 - 시사저널e",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUVnhxRzl0alpXYjFqc3puSkJYeDktdmpGRVIwemJUWUFnMUdrYnZEN29jaTFhNTBKM3F5OTdxTmxhQnljNnoxRE1fOXdqemlnMzEwR0x1Y0JVUWZ5ampIYXZwVlJkeG4tbHYwYURQREk0dw?oc=5",
+          "source": "시사저널e",
+          "published": "11-17 09:00",
+          "snippet": "[e마켓오프닝] 엔비디아 실적 D-day···나스닥 2.49% 급락·반도체 긴장 시사저널e"
+        },
+        {
+          "title": "[서울데이터랩]미국 증시, 기술주·반도체주 급락에 일제히 하락 마감…나스닥 2%대 밀려 - 서울신문",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5EeGtabjBQLVpnNFcwQ29KNlYtaWQyNENKSFpVTzJfTWdjNDV0TXBRdWNIMDV3X3U3ZTdZd21sSTFEeXNLOVhrZVVjMXBoOVJOdlU4S3E5NllHS1FNM2VzUlJvZmNLUUtYT3RoVkl3Y2xiM1VLTTliVWJCbl9DQQ?oc=5",
+          "source": "서울신문",
+          "published": "11-17 06:09",
+          "snippet": "[서울데이터랩]미국 증시, 기술주·반도체주 급락에 일제히 하락 마감…나스닥 2%대 밀려 서울신문"
+        }
+      ],
+      "미 연준의 AI 금융 위험 경고": [
+        {
+          "title": "IMF도 美연준도 “AI 투심 흔들리면 금융시장 위험” 경고 - 국민일보",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GdTV6WkZUdFp2NHRUUS1Qb3VOeHRPMmNjR3VOY0NBS19keEd5SHJiT3A2LU5HdjVvX2tzTl9ETGtUeDNMa1JxX0gzalhMTTAwNzlfcndTbm4?oc=5",
+          "source": "국민일보",
+          "published": "11-17 18:44",
+          "snippet": "IMF도 美연준도 “AI 투심 흔들리면 금융시장 위험” 경고 국민일보"
+        },
+        {
+          "title": "미 연준 의장, AI 투자 실패 위험 경고…“경기 둔화·실업 증가로 이어질 수도” - 뉴스21 통신",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fME5Pd19wUmF6UTJKWGJEOFRjNThMY0hEbVV4OUppM2dPOFZHUW52N253SUZXRFRjSm01bGJEQ055bF8yZGRPd0hwVHhyWXpHX0VIVnVR?oc=5",
+          "source": "뉴스21 통신",
+          "published": "11-17 17:25",
+          "snippet": "미 연준 의장, AI 투자 실패 위험 경고…“경기 둔화·실업 증가로 이어질 수도” 뉴스21 통신"
+        },
         {
           "title": "미 연준 \"대형은행 AI 위험노출액 1조달러\"…손실확산 경고 - 연합뉴스",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WbVlKTUpCY2V6d0RUakVpSmtodV82eEZyQkpIeVRZWVpFOFV1aUg2eS1pZ1lndDZxU1lNQlFpOTdDekNPUWFFOEQyOVV4YWxhVFRaUzdZLV9hUkHSAWBBVV95cUxPNWJzR19jSTY3TXNmMEwtWjB0SFEzOV9LaDFTVGtIM2FPVTMtd3NlQnozX0JOYzBMNGtSUlFzc2poa3UtUVNrU01ndWFLXzIzUkFpQllxVzE2cWRnUTBNTFo?oc=5",
           "source": "연합뉴스",
           "published": "11-17 10:39",
           "snippet": "미 연준 \"대형은행 AI 위험노출액 1조달러\"…손실확산 경고 연합뉴스"
-        },
-        {
-          "title": "美 대형 은행 AI 투자 위험 노출 1천300조 원‥연준 경고 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNSFg5QVhpbGNiaG5TT3VxSDJFVXpZaVZHS2ROeDU1cGFQYXlmczBmZXd5UVZpRnF3aWZaRmtVNU5vckljMk9FcjAxY3lLWThqaU9WODB3b01aSW92YW1scDE4VnVrd05Oc1NRc204V0prYVlp0gF0QVVfeXFMTXBPOVIzaTA5NWlSSVFjWVhlUVNadjd3a053elRvZDJLekJpeGEyU2JnY2tyQmlvWW5jLTNHR0xpSGRub3oyVGp0THF5bUl2ZVpBOTM3Ri0zeTVmaTlXR0lvd3plSmxYUW1aLUhSZnduQVJQRGE?oc=5",
-          "source": "MBC 뉴스",
-          "published": "11-17 10:46",
-          "snippet": "美 대형 은행 AI 투자 위험 노출 1천300조 원‥연준 경고 MBC 뉴스"
         },
         {
           "title": "미 연준, \"AI가 금융 불안정 키워\" 공식 경고…뱅크런 가속화 우려도 - 이코리아",
@@ -853,28 +891,42 @@
           "snippet": "미 연준, \"AI가 금융 불안정 키워\" 공식 경고…뱅크런 가속화 우려도 이코리아"
         },
         {
-          "title": "연준 의장 “AI 투자 실패 시 경기침체·주가 급락” 경고 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15Mmh3NFFHaW9ST1NrTVlhSV9mbkV0bE9BZTZicHpTZmRUOE1UZi1ualkxb3FvSDhYbVJJWEx3bXdfQ3JJVnlKRmN3SUt3ZHBkNTNIdDBOUzRCWEQ4Z3NrWnoxSWE3ZTBFOGw4?oc=5",
-          "source": "KBS 뉴스",
-          "published": "11-17 06:20",
-          "snippet": "연준 의장 “AI 투자 실패 시 경기침체·주가 급락” 경고 KBS 뉴스"
+          "title": "美 대형 은행 AI 투자 위험 노출 1천300조 원‥연준 경고 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNSFg5QVhpbGNiaG5TT3VxSDJFVXpZaVZHS2ROeDU1cGFQYXlmczBmZXd5UVZpRnF3aWZaRmtVNU5vckljMk9FcjAxY3lLWThqaU9WODB3b01aSW92YW1scDE4VnVrd05Oc1NRc204V0prYVlp0gF0QVVfeXFMTXBPOVIzaTA5NWlSSVFjWVhlUVNadjd3a053elRvZDJLekJpeGEyU2JnY2tyQmlvWW5jLTNHR0xpSGRub3oyVGp0THF5bUl2ZVpBOTM3Ri0zeTVmaTlXR0lvd3plSmxYUW1aLUhSZnduQVJQRGE?oc=5",
+          "source": "MBC 뉴스",
+          "published": "11-17 10:46",
+          "snippet": "美 대형 은행 AI 투자 위험 노출 1천300조 원‥연준 경고 MBC 뉴스"
         },
         {
-          "title": "[김대호 인물] 케빈워시 연준 FOMC 공개 경고 \"AI 붕괴\" - 글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObVk4d09sczlWRFZEX25XVGM0NkxGOEtKQXVZQ3pmbDdDUUYzdlF4Y3dPcDdSa0tIV1BTUmVOUFFTTW1LQU93TW01ek5QUXhJTDByWnNpRElSNG96cmFjaXNVbmZ2NFBzRUVqWnN0YVk5alpNdnljb0V2Q2dDeWlmcHF5Wi1ma0Zt?oc=5",
-          "source": "글로벌이코노믹",
-          "published": "11-17 06:01",
-          "snippet": "[김대호 인물] 케빈워시 연준 FOMC 공개 경고 \"AI 붕괴\" 글로벌이코노믹"
-        },
-        {
-          "title": "워시 연준 의장 \"AI가 성장 엔진 될 수도\" … 일자리·증시엔 경고 - 뉴데일리",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE56alBmNVp1eEZuLUk4b3o4cVgtWExVNVBNeXVCaDQwVkNwZWR3VXV3WFlubHpCQy1GQXNWVElWYUdpUjhpZTBhYkM1U1lfU2diODZkTzdLNEtyYXFNcHRHWi1wbmFvR1JZeXR2TG9naERxNzRXbFJFc0JFTdIBgAFBVV95cUxPMDZZOGlRQjFzSVBia0V5Z3otS25ENWRWYXg1dG1iLUpac2xqUmhfTmFrcHlqZU1LYzdnWFVDWGZoQjRFUF81MjlaT1lXdHJpUEV6YzhtT1J1LW9tQ1ZSUEozQlJNcV9MSWk2cEV0Z3VrdjdraXhSMDJHbW1aNExjaQ?oc=5",
-          "source": "뉴데일리",
-          "published": "11-17 08:32",
-          "snippet": "워시 연준 의장 \"AI가 성장 엔진 될 수도\" … 일자리·증시엔 경고 뉴데일리"
+          "title": "美연준, AI 투자 과열에 경고…대형 은행 위험노출액 1조 달러 육박 - 아주경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sYmtKSDdtc3R1X1NfdnJleTNvZHpRZWN3eW04Yi0wVGJUS2V6S0JuN2JtUGduMnBManlZaWpfRi1yal9VWTA5ZE5iRkdQXzI2YndqUEhNbDFIUdIBWEFVX3lxTE9mR2ROVXZETjlxX2N4VDJKVDhxWnctb2VzZjhucDRDR003WkVZNkJ0MTRhZzNXS1ZUQUQ0SU9VREZKRU9pMkMtb1NmM0RhblA2VGphZ2FLU2M?oc=5",
+          "source": "아주경제",
+          "published": "11-17 13:20",
+          "snippet": "美연준, AI 투자 과열에 경고…대형 은행 위험노출액 1조 달러 육박 아주경제"
         }
       ],
-      "젠슨 황 사임": [
+      "젠슨 황 거취 및 사임 논란": [
+        {
+          "title": "[3분증시] 뉴욕증시, 젠슨 황 거취 논란에 동반 하락 - 연합뉴스 한민족센터",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1OdWh3MjZnaDJpdm5uLXNVc1Z1Y1BQcmJSUlVNeXA5WjZJTUFreTZPY1VDVXlfa3dtZ1lMX0FfektwZTFGbEtzYkhiSklZNFpLVmctRDdPQWhyYTZOREpuRllHNHNDRkVnN2RYdS10cWRzZjFC?oc=5",
+          "source": "연합뉴스 한민족센터",
+          "published": "11-17 07:48",
+          "snippet": "[3분증시] 뉴욕증시, 젠슨 황 거취 논란에 동반 하락 연합뉴스 한민족센터"
+        },
+        {
+          "title": "[뉴욕증시] 젠슨 황 거취에 휘둘린 증시…필리 반도체 지수 5% 급락 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oeEduX3kwZ0Nfd2dEWmJJY0JOVUVtcnZ2NkhpQ3lDMTZ5YnlPZlB0QS1jOEN0LXhtNmRBMHhhbWpacjBhdWxUTVhpS19YSEpvdklKV3hNalRYWXFGaXNfRkw5SWVrdF9YdE4zOGxGWk0?oc=5",
+          "source": "연합인포맥스",
+          "published": "11-17 06:34",
+          "snippet": "[뉴욕증시] 젠슨 황 거취에 휘둘린 증시…필리 반도체 지수 5% 급락 연합인포맥스"
+        },
+        {
+          "title": "[뉴욕증시-1보] 젠슨 황 거취에 휘둘린 증시…필리 5% 급락하며 3일째↓ - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SYjdwa0xrcnVJei1jeWpocWZVTzVFeEh5NGlIZ09jNFNoZGp5WUIyb2U2MmVJVWtuZmljYmdxXzdLdXktWng5a0VPX1BnVWdUU3UtVHM0M1owOHlaZWhqUHhackw4cGZINFdiLWJCRks?oc=5",
+          "source": "연합인포맥스",
+          "published": "11-17 06:08",
+          "snippet": "[뉴욕증시-1보] 젠슨 황 거취에 휘둘린 증시…필리 5% 급락하며 3일째↓ 연합인포맥스"
+        },
         {
           "title": "[뉴욕 증시] 젠슨 황 사임 여파에 AI주 매도세… 3대 지수 일제히 하락 - 한양경제",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JXzBwR0lULUx5LVY2N2U5OWFMS3g2eGdsOFN3cDE1Nnc1OW1RbU1DWG03cWVjUnZlMHhiR1Q5ZFJ1MFVxMmRaMEIzNnprOVpaV2lSWmlDREpyWmpETjJvTVRDcWlfYWRoRi1iN3diWVpFUQ?oc=5",
@@ -895,71 +947,6 @@
           "source": "티제이비",
           "published": "11-17 07:14",
           "snippet": "젠슨황 사임 여파 지속, 뉴욕증시 일제 하락...필리지수 5.28%↓ 티제이비"
-        },
-        {
-          "title": "뉴욕증시, 젠슨 황 사임 여파에 일제히 하락…반도체지수 5.3% 급락 - 디지털데일리",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xMnVSMktnLVMyd0cySEwtVEhUN3ZRcElBN01fV25sSWM1Z0p3MFpQMHBKNm5Uc21rV05kU3N0Snd3UTdlMEJmNWcxajRCUFNqMV9zVGI4RGZkZXF6dERoMlRQUDE?oc=5",
-          "source": "디지털데일리",
-          "published": "11-17 06:39",
-          "snippet": "뉴욕증시, 젠슨 황 사임 여파에 일제히 하락…반도체지수 5.3% 급락 디지털데일리"
-        },
-        {
-          "title": "트럼프 “젠슨 황 혼외관계 여성, 중국 스파이 아닐 수도”…밴스도 맞장구 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOTNYUktrWENXdThmSnBCM3cwVlhmZzNXcENrR0JBMTQ4Tnc3ZlJKNEI0cW1scUxDNzZLaGN3YjJsSi1zQl9GMnpxbUY0NUJ3YU9lX25Ed1Jia20zT3FpRkhGaG9UMTljOFhCU2dhemlsNElMUWJMZ2lPOFEzX3NGMkx3?oc=5",
-          "source": "한겨레",
-          "published": "11-17 14:54",
-          "snippet": "트럼프 “젠슨 황 혼외관계 여성, 중국 스파이 아닐 수도”…밴스도 맞장구 한겨레 부인했던 순환금융, 젠슨 황 복귀 주장 근거됐다 조선일보 싱가포르 디지털장관 \"메가스피드 철저히 조사중‥타국법 위반도 용납 안 해\" MBC 뉴스 \"젠슨 황 딸, 사실상 아버지 비서실장…막강 권력 휘둘러\" 연합뉴스TV “젠슨 황 딸, 엔비디아서 ‘막후 실세’ 역할···임원들에 고성·압박, 12명 줄퇴사” 경향신문"
-        },
-        {
-          "title": "젠슨황·앤트로픽·금리…'삼중고'에 5,000선 무너진 코스피(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80S0JhamIzTVpRTUI4eU9JWmhsb1FiSWRxQmRLeDN6Ry1HckJWYldvVDB2a2ptaDFsdkI5b1VfMWxUNmNZLXpMbTNjRzZiSThIT2JYR05LbWZfYkXSAWBBVV95cUxPSUFUWGszTDR2YVFNclZIbmw2MXF3eWVRSjd6WTJFWkh5dDRkUXI3MDE5SXJqTzZKdnhQQXJ5UGVyTWVQOEhMUUtzMXZmcEVDNldmckliZnhLMnRvdlJfd1E?oc=5",
-          "source": "연합뉴스",
-          "published": "11-17 16:33",
-          "snippet": "젠슨황·앤트로픽·금리…'삼중고'에 5,000선 무너진 코스피(종합) 연합뉴스"
-        }
-      ],
-      "나스닥 기술주 급락": [
-        {
-          "title": "[서울데이터랩]미국 증시, 기술주·반도체주 급락에 일제히 하락 마감…나스닥 2%대 밀려 - 서울신문",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5EeGtabjBQLVpnNFcwQ29KNlYtaWQyNENKSFpVTzJfTWdjNDV0TXBRdWNIMDV3X3U3ZTdZd21sSTFEeXNLOVhrZVVjMXBoOVJOdlU4S3E5NllHS1FNM2VzUlJvZmNLUUtYT3RoVkl3Y2xiM1VLTTliVWJCbl9DQQ?oc=5",
-          "source": "서울신문",
-          "published": "11-17 06:09",
-          "snippet": "[서울데이터랩]미국 증시, 기술주·반도체주 급락에 일제히 하락 마감…나스닥 2%대 밀려 서울신문"
-        },
-        {
-          "title": "[e마켓오프닝] 엔비디아 실적 D-day···나스닥 2.49% 급락·반도체 긴장 - 시사저널e",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUVnhxRzl0alpXYjFqc3puSkJYeDktdmpGRVIwemJUWUFnMUdrYnZEN29jaTFhNTBKM3F5OTdxTmxhQnljNnoxRE1fOXdqemlnMzEwR0x1Y0JVUWZ5ampIYXZwVlJkeG4tbHYwYURQREk0dw?oc=5",
-          "source": "시사저널e",
-          "published": "11-17 09:00",
-          "snippet": "[e마켓오프닝] 엔비디아 실적 D-day···나스닥 2.49% 급락·반도체 긴장 시사저널e"
-        },
-        {
-          "title": "美 대중 반도체 수출규제 강화에 나스닥 2.49% 급락 [뉴욕증시] - 매일일보",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52TFUyUU00OE1oSzdhVVIxVW55MUlEdXNFSmJfaEs2QjBvZnNVdTBxTWtyX2VSREFpOWkzRVB5MFhLUmUwOWlXbHQ4V3F0cnRfWjE2eHFOdE45cEhTb3duaFlVbHI?oc=5",
-          "source": "매일일보",
-          "published": "11-17 08:18",
-          "snippet": "美 대중 반도체 수출규제 강화에 나스닥 2.49% 급락 [뉴욕증시] 매일일보"
-        },
-        {
-          "title": "[뉴스프레소] 나스닥, AI주 매도세 확산에 2.5% 급락… 엔비디아 실적 프리뷰 - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83cTRxYjFIRFlqWUZSYTFxZDVRUGNfOS1tNXdwX2s1UkROZkxZSE5aTUZXMlNJRXBrZUIzQzVsWjVDQ0RCRGdvRWI3YzFGZFlMYmtJeHN1ZUFPV09RblBXclZvdjRuMFV20gFuQVVfeXFMT1pkS2VQYW10LXNrTnNPQmJ3WGRzS0dUWHlLdkxlMVExT1J2Wnc5d2hhWGtDWmpEUldWb2FOZDRJVnREYUFMMkkzLUtKRDQzU3BTd0x6VVkwNXBQUGsxRDJ6c2dWZG5jRkFwUnJZdUE?oc=5",
-          "source": "머니투데이",
-          "published": "11-17 13:42",
-          "snippet": "[뉴스프레소] 나스닥, AI주 매도세 확산에 2.5% 급락… 엔비디아 실적 프리뷰 - 머니투데이 머니투데이"
-        },
-        {
-          "title": "뉴욕증시, 엔비디아發 악재에 3대 지수 급락…나스닥 2.49%↓ - 산경투데이",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zZHhXMTZWM21GbGNIUWJiSnZyVDVTMl9WQTZQNHYxTkJ4Y2J5R1VoemFxMktzN3JPNThjTGNqM1VZblZOd3dxWV9vQ3B2N09peVNQYzFiVXhrQU5nZVlEelRUa1k5dGhXM2NlUGNBbDbSAXRBVV95cUxNQWdBZnUtWFU0OEJNeTlGRXVXeHg3Wm1XUFhtQVhwdnNxeFhXT3BPb0Y2ZXQ3dTN3ZWVUQUdUelNxTTZEME5ySWYyblRmbEFzSXo5MWczR0pDYjB2bVlwNmJGQTdhM2laSVVyM0pyWTk1Z08zRQ?oc=5",
-          "source": "산경투데이",
-          "published": "11-17 07:15",
-          "snippet": "뉴욕증시, 엔비디아發 악재에 3대 지수 급락…나스닥 2.49%↓ 산경투데이"
-        },
-        {
-          "title": "[글로벌증시] 美 나스닥 2%대 급락…AI주 매도세 확산 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZOXJrdTAzXzJLeC1XbF8wZzBuaF9QU2dpZEdzc0h6ajczaTFOMC1WRW5JY1dZbVppenR5MjJ0TW85V0Q3VWc5cS1RMXQ4eDJCcGVFejAtdThjNkJ1ZlBtMlIwcEp0RFk?oc=5",
-          "source": "연합뉴스TV",
-          "published": "11-17 06:51",
-          "snippet": "[글로벌증시] 美 나스닥 2%대 급락…AI주 매도세 확산 연합뉴스TV"
         }
       ]
     },
@@ -968,31 +955,38 @@
         "코스피 5000선",
         "코스피 5000선 돌파"
       ],
-      "금융권 해킹 사고": [
-        "금융권 잇따른 해킹 사고에 이재명 대통령 진상 규명 긴급 지시",
-        "금융권 해킹",
-        "금융권 해킹 ai",
-        "금융권 해킹 원인",
-        "금융권 해킹 사례",
-        "금융권 해킹사태",
-        "금융권 해킹범",
-        "금융권 해킹 사건 공격 ip 특정 및 인터넷은행 접근 시도 관련 최신 뉴스 알려줘"
+      "보안 취약점 및 해킹 피해": [
+        "보안 취약점",
+        "보안 취약점이 발견된 소프트웨어 관련 파일 삭제 조치 안내",
+        "보안 취약점 점검 툴",
+        "보안 취약점 클리닝 서비스",
+        "보안 취약점 점검",
+        "보안 취약점 cve",
+        "보안 취약점 종류",
+        "보안 취약점 분석"
       ],
-      "수도권 집값 상승": [
-        "수도권 집값 상승률",
-        "수도권 집값 상승 전망",
-        "수도권 집값 상승 원인",
+      "수도권 집값 상승 및 격차": [
         "수도권 집값",
+        "수도권 집값 상승",
+        "수도권 집값 상승률",
         "수도권 집값 싼곳",
         "수도권 집값 추이",
         "수도권 집값 그래프",
-        "수도권 집값 지도"
+        "수도권 집값 지도",
+        "수도권 집값 전망"
       ],
-      "연준 AI 경고": [
-        "연준 ai",
-        "연준 ai 버블"
+      "AI주 매도세와 나스닥 급락": [],
+      "미 연준의 AI 금융 위험 경고": [
+        "미 연준의장",
+        "미 연준의장 임기",
+        "미 연준의장 교체",
+        "미 연준의장 교체시기",
+        "미 연준의장 후보",
+        "미 연준의장 지명",
+        "미 연준 의장 취임",
+        "미 연준의장 쿠팡"
       ],
-      "젠슨 황 사임": [
+      "젠슨 황 거취 및 사임 논란": [
         "젠슨 황",
         "젠슨 황 부인",
         "젠슨 황 가족 사진",
@@ -1001,19 +995,9 @@
         "젠슨 황 자녀",
         "젠슨 황 국적",
         "젠슨 황 나이"
-      ],
-      "나스닥 기술주 급락": [
-        "나스닥 기술주",
-        "나스닥 기술주 etf",
-        "나스닥 기술주 종류",
-        "나스닥 기술주 하락",
-        "나스닥 기술주 비중",
-        "나스닥 기술주 하락 이유",
-        "나스닥 기술주 디시",
-        "나스닥 기술주 지수"
       ]
     },
-    "newsletter_md": "# ⚡ ZIPPY | AI 경제 데일리 브리핑\n_2026-11-17 이슈 · 발행 2026-11-17_\n\n🇰🇷 **국내 경제:** `코스피 5000선 붕괴` · `금융권 해킹 사고` · `수도권 집값 상승`\n🌐 **해외 경제:** `연준 AI 경고` · `젠슨 황 사임` · `나스닥 기술주 급락`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 코스피 5000선 붕괴, 외인 1.5조 투매에 9개월 만에 최저치\n> 키워드: 코스피 5000선 붕괴\n\n**📌 무슨 일이 있었나**\n- 코스피 지수가 외국인의 강력한 매도세에 밀려 5000선 아래로 추락하며 4960선까지 후퇴했다.\n- 외국인 투자자들은 하루 동안 유가증권시장에서 1.2조 원에서 최대 1.5조 원 규모의 주식을 순매도하며 지수 하락을 주도했다.\n- 이번 5000선 붕괴는 지난 9개월 만에 처음 발생한 사건으로 장중 내내 반등 기회를 잡지 못하고 하락 마감했다.\n- 미국발 젠슨 황 사임 소식과 연준의 AI 위험 경고 등 대외 악재가 겹치며 국내 증시의 투자 심리가 급격히 얼어붙었다.\n\n**💬 핵심 Q&A**\n- **Q. 외국인이 하루 만에 1.5조 원을 투매하며 지수를 끌어내린 결정적 배경은 무엇인가?**\n  A. 미국 엔비디아의 수장인 젠슨 황의 사임 소식과 연준의 AI 거품 경고가 맞물리며 글로벌 기술주 펀드에서 자금이 급격히 빠져나갔다. 한국 증시는 반도체 비중이 높아 글로벌 AI 투자 심리 위축에 직격탄을 맞으며 외국인의 차익 실현 매물이 집중된 것으로 분석된다.\n- **Q. 9개월 만에 5000선이 무너진 것이 시장에 주는 심리적 임계점의 의미는 무엇인가?**\n  A. 5000선은 투자자들에게 강력한 지지선이자 시장의 상승 추세를 가늠하는 심리적 마지노선 역할을 해왔다. 이 선이 허무하게 깨지면서 추가 하락에 대한 공포가 확산되었으며, 손절매 물량이 쏟아지는 연쇄 반응을 일으켜 하락 폭을 키웠다.\n- **Q. 국내 증시가 단기 반등에 성공하기 위해 필요한 선결 조건은 무엇인가?**\n  A. 무엇보다 외국인의 매도세 진정과 환율 안정이 우선되어야 하며, 삼성전자 등 시가총액 상위 반도체 종목의 주가 회복이 필수적이다. 또한 미국 나스닥 시장의 AI 관련주들이 진정세를 보여야 국내 증시로의 저가 매수세 유입을 기대할 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 외국인 자금의 추가 이탈 여부 및 순매도 규모 추이\n- 4900선 지지 여부와 기관 투자자의 저가 매수세 유입\n- 미국 반도체 지수 변동에 따른 국내 IT 대형주 영향\n\n<sub>참고: [Investing.com 한국어](https://news.google.com/rss/articles/CBMicEFVX3lxTFBBTmFlUEpiZW9PQjduQ005d0o4V21BVzQ0MzQyOE9RdXNnRzlXQk9CMjJ6UlFxLW5hS3lpeUVIa3Bza2w0S3BKMGVUa1VoLVF6bGpMREFZSUZGVVh1c085STBJTWM3cVVPLWw5VTRHNFA?oc=5) / [글로벌이코노믹](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNlpQSTdNNjhLdmdKN0JreHduRWpGTEd5TEZBVVBkb1ZJWnpBMUlmLWJTVWw4MWVvOElENVVqSkI2VWVsWWI0a3JQOGl4U2pVb2RTem1taW1TU1lXNkh3SjlSNml1RmNyX1hzVk1oa3Y5Y2NIM1RUSnZaUGNPYlVTYlNrajZ4TWhs?oc=5) / [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtcmlrRWtfQnhjX1lwQUdkbmE0ZUp1SUFoaVJuOHM1dUNqLUhvUUZ3cjExa2ZpRmZScC15ekZXdmlOTnc2SnowQy1tVmpyTkwzXy1iUjQ2XzBrRVVybWJpRVJwS0tMODA?oc=5)</sub>\n\n---\n\n### 2. 금융보안원·코인원 잇단 해킹, AI 기반 지능형 공격에 보안망 비상\n> 키워드: 금융권 해킹 사고\n\n**📌 무슨 일이 있었나**\n- 금융권 보안의 핵심 기관인 금융보안원이 해킹 사고를 당해 금융위원회가 긴급 현장 점검에 나섰다.\n- 가상자산 거래소 코인원의 고객센터가 해킹되어 고객의 자산 탈취 및 사생활 침해 우려가 커지고 있다.\n- 레고랜드에서도 해킹으로 인해 고객의 이름, 전화번호, 연간이용권 정보 등 민감한 개인정보가 대거 유출되었다.\n- 국회의원 비서관을 사칭한 해킹 시도가 포착되었으며, 배후로 북한 연계 해킹 조직인 '김수키'가 의심받고 있다.\n- 구글은 AI가 스스로 취약점을 찾아 공격하는 '자율형 해킹'이 현실화되었다고 경고하며 보안 위협의 진화를 지적했다.\n\n**💬 핵심 Q&A**\n- **Q. 대응 기관인 금융보안원까지 해킹당한 상황이 금융권 전체에 주는 시사점은 무엇인가?**\n  A. 최후의 보루인 보안 전문 기관마저 뚫렸다는 점에서 기존의 방어 체계가 지능화된 공격을 막기에 역부족임을 드러냈다. 이는 개별 금융사의 보안 점검을 넘어 국가 차원의 금융 보안 거버넌스를 전면 재검토해야 하는 심각한 상황임을 의미한다.\n- **Q. AI를 활용한 자율형 해킹이 실제 금융권 공격에 도입될 경우 어떤 위험이 발생하는가?**\n  A. 사람의 개입 없이 AI가 실시간으로 보안 취약점을 찾아내고 공격 패턴을 바꾸기 때문에 기존의 규칙 기반 방어 시스템으로는 대응이 불가능하다. 특히 인터넷 은행이나 가상자산 거래소처럼 비대면 거래가 잦은 곳에서 대규모 자산 탈취가 순식간에 일어날 수 있다.\n- **Q. 정치권 사칭 해킹과 금융권 공격이 동시에 발생하는 현상을 어떻게 해석해야 하는가?**\n  A. 사회적 혼란을 야기하고 주요 정보를 탈취하려는 국가 배후 해킹 조직의 소행일 가능성이 높으며, 이는 단순한 금전적 이득을 넘어 국가 안보 위협으로 확장되고 있다. 금융 정보와 정치적 정보를 동시에 노리는 복합 테러 형태의 사이버 공격에 대비한 민관 합동 대응이 시급하다.\n\n**👀 앞으로 볼 포인트**\n- 금융당국의 금융보안원 현장 점검 결과 및 책임 추궁 수위\n- 코인원 등 가상자산 거래소의 추가 피해 규모 확인\n- AI 기반 해킹 방어를 위한 금융권 보안 시스템 고도화 계획\n\n<sub>참고: [MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTFB3eEEzbEhsWTRoZlRsZHA2WXdkY2VuM2hVaDdMS2xid1dJSVF5U08tVDRHSTlwWnNjTWxuYWVVNWNuVmRGaXBRenV3MjIyWHFaeG15S2kzU3ZNUVc4bjZTQmd0RmtJRUlBNThXLV9MdGg1c1N40gF0QVVfeXFMTm1VTzFiQVBBd1lCZ1lpZDRraF9iMHhhX2l3eG9ZU0JZb3ZXcmhtV3oxREg3RDhKSTFmUWVpb2NXNUdETDRxRDRabFlhSTFtbUlJN1dvU0FCejNFd3BiSUlLN1FDNjNLeGJGakNQUmE2aHpjMXo?oc=5) / [KBS 뉴스](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tcG9PZXh5eENPLWtld3hRTVpQZU8yMURzOUFJLUhVUzQ3NmM1cnhXZ290M2R4ekdUNXQxcllPTmRDVTlkOEJlV1FyYzRmbG5lcW1rVHRJVDIxVDRBUjhfZmRKWmQyQQ?oc=5) / [조선일보](https://news.google.com/rss/articles/CBMigwFBVV95cUxNc0hRT1JBQTVMVlh4R3pwbS1LSDJ5OHMtWGVIR3ltY2hFcXBZdloyam5DSUdzanZ3bWhOaGdfblFjTTFCU2t1NGJVS1h4cmJ4aERaYS03S2hIR3RMVXZMVi12OTNNV0tjLU5TNC1aZHdiWS14YUpYVjgzWVNwc2NqaURWQQ?oc=5)</sub>\n\n---\n\n### 3. 경기 집값 상승률 서울 추월, 은마아파트 분담금 8억 원 압박\n> 키워드: 수도권 집값 상승\n\n**📌 무슨 일이 있었나**\n- 수원 영통과 화성 동탄을 중심으로 경기도 아파트값 상승률이 서울을 앞지르는 기염을 토했다.\n- 전국 주택소유 비율이 57.6%로 역대 최고치를 기록한 가운데 평균 집값은 전년 대비 9% 상승했다.\n- 서울 대치동 은마아파트는 재건축 분담금 4억 원과 재초환 4억 원 등 총 8억 원의 비용 부담에도 불구하고 거래가 활발하다.\n- 서울 전체 집값 상승세는 3개월 연속 둔화하며 6개월 만에 최저 수준의 상승 폭을 기록했다.\n- 오세훈 서울시장은 정부의 부동산 시장 안정화 인식을 정면 반박하며 서울 집값이 아직 불안정하다고 경고했다.\n\n**💬 핵심 Q&A**\n- **Q. 서울의 상승세는 둔화하는데 경기 일부 지역이 서울을 앞지른 원인은 무엇인가?**\n  A. 서울의 급격한 가격 상승에 피로감을 느낀 수요자들이 상대적으로 저평가된 경기 남부의 핵심 거점으로 이동하는 풍선효과가 나타났다. 특히 삼성전자 등 대기업 배후 수요가 탄탄한 수원 영통과 화성 동탄 지역의 신축 선호 현상이 가격을 끌어올린 것으로 분석된다.\n- **Q. 은마아파트의 8억 원에 달하는 비용 부담에도 거래가 최다를 기록한 배경은 무엇인가?**\n  A. 신축 아파트 공급 부족이 심화되는 상황에서 강남 핵심 입지의 미래 가치가 분담금 부담보다 크다고 판단한 투자자들이 유입되었기 때문이다. 재건축 이후의 가치 상승분이 8억 원 이상의 비용을 상쇄할 것이라는 기대감이 시장에 강하게 작용하고 있다.\n- **Q. 오세훈 시장이 정부의 부동산 안정화 발표를 정면 반박한 근거는 무엇인가?**\n  A. 지표상 상승 폭은 줄었으나 강남권 등 선호 지역의 신고가 경신이 계속되고 있어 서민들이 체감하는 주거비 부담은 여전히 높기 때문이다. 공급 대책의 실효성이 나타나기까지 시차가 존재하므로 성급한 낙관론이 투기 심리를 다시 자극할 수 있다는 우려를 표명한 것이다.\n\n**👀 앞으로 볼 포인트**\n- 수원·화성 등 경기 남부 지역의 상승세 지속 여부\n- 재건축 초과이익 환수제 개편 논의 및 분담금 확정 추이\n- 서울시와 정부 간 부동산 시장 상황 인식 차이에 따른 정책 변화\n\n<sub>참고: [경기일보](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYVnRzYjR4eFM3SFBFYS05M3l0Vng2aDZFRnJ4YUUzcnhCZ3RSa3pONHVVWjhWX0E1M0Vib1d2a00wcWtlZklROHZWeWJKLWN5V01hNDVPdmxnQ2s?oc=5) / [KBS 뉴스](https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zUmN1bG9XVTNKRGJVNzRaTy1fb1VQakdTMTFKdnlSN2UzZWh6R3haQk04Wk1Xek9Pd2owZGhMeDVmYUtxMGh4bFlfS250NmtqZUxwd3AxdGVmQUlpNlQ3dnVYaF9rUQ?oc=5) / [Chosunbiz](https://news.google.com/rss/articles/CBMimAFBVV95cUxPQlBPTHBZV0tJMDhnbTBoUU9QcW9KNWFTaE1EdVB4ZTlNc0Jic3Z0MnMzaGN3NEZhZVlMRDA0QUFUV0xweTM1djBoZ0Z6SENWUkNHS0lVQ2wyR1l0YzF0OUdWdUtZSTh5NFFPNS1Ed21OLWFXUF8zUHJRZ1dlSU9Ra2MzVFloNDNNUlIwbHo1RnVQbTVjVDluTdIBrAFBVV95cUxNQmFMZG9jVW11QnVPa1JrTFh4bVR1djU4NE9kX3VtM280dTZHeDFzNExKejN1QmRnalN4T1pkRkROd0E4TklXZXQydDExamN1SHV1bW9MVjd0MjItUDRHcmRBbjUxT19MV0QwRlh2SE50X3dTTE1vQ195M1pnTW5QTkFKdTRmNnVfN0lyeWRwcXM5LVVvMHVOaXdlb3BQUXNDOGxmcW1ucDRtMUFM?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 연준 \"대형은행 AI 위험 노출 1조 달러\", 금융 불안정성 공식 경고\n> 키워드: 연준 AI 경고\n\n**📌 무슨 일이 있었나**\n- 미 연준은 대형 은행들의 AI 관련 투자 및 위험 노출액이 1조 달러(약 1300조 원)에 달한다고 발표하며 손실 확산을 경고했다.\n- AI 기술이 금융 시스템의 불안정성을 키우고 있으며, 특히 정보 확산 속도를 높여 뱅크런을 가속화할 수 있다는 우려가 제기되었다.\n- 연준 의장은 AI 투자 실패가 단순한 기업 손실을 넘어 경기 침체와 주가 급락의 트리거가 될 수 있다고 강조했다.\n- 케빈 워시 연준 이사는 AI 거품 붕괴 가능성을 언급하며 시장에 강력한 경고 메시지를 보냈다.\n- AI가 경제의 성장 엔진이 될 수 있다는 기대와 동시에 일자리 파괴 및 증시 변동성 확대라는 양면성을 지적받고 있다.\n\n**💬 핵심 Q&A**\n- **Q. 연준이 지목한 1조 달러 규모의 AI 위험 노출액은 구체적으로 어떤 경로로 형성되었는가?**\n  A. 대형 은행들이 AI 인프라 구축을 위해 기술 기업에 제공한 대규모 대출과 직접적인 지분 투자, 그리고 AI 알고리즘을 활용한 고위험 파생상품 운용액이 포함된다. AI 산업의 수익성이 기대에 못 미칠 경우 이 자산들이 한꺼번에 부실화되면서 은행 시스템 전체로 위기가 전이될 수 있다.\n- **Q. AI가 어떻게 뱅크런을 가속화하고 금융 불안정성을 높인다는 것인가?**\n  A. AI 기반 소셜 미디어 분석과 자동화된 뉴스 전파로 인해 부정적인 정보가 과거보다 수백 배 빠른 속도로 확산되기 때문이다. 또한 AI 알고리즘에 의한 자동 매도 주문이 특정 시점에 몰릴 경우 시장의 유동성을 순식간에 고갈시켜 금융 시스템을 마비시킬 위험이 크다.\n- **Q. 연준의 이번 경고가 향후 금리 정책이나 시장 규제에 어떤 영향을 미칠 것으로 보이는가?**\n  A. 자산 거품을 억제하기 위해 고금리 기조를 예상보다 길게 유지하거나, AI 관련 대출에 대한 자본 적립 요건을 강화하는 규제를 도입할 가능성이 높다. 이는 기술주 중심의 유동성 공급을 차단하여 증시의 과열을 식히는 기제로 작용할 전망이다.\n\n**👀 앞으로 볼 포인트**\n- 연준의 대형 은행 대상 AI 리스크 관리 가이드라인 발표\n- AI 관련 기업들의 실적 발표와 투자 회수 가능성 점검\n- 금융권 내 AI 자동 매매 알고리즘에 대한 규제 도입 여부\n\n<sub>참고: [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WbVlKTUpCY2V6d0RUakVpSmtodV82eEZyQkpIeVRZWVpFOFV1aUg2eS1pZ1lndDZxU1lNQlFpOTdDekNPUWFFOEQyOVV4YWxhVFRaUzdZLV9hUkHSAWBBVV95cUxPNWJzR19jSTY3TXNmMEwtWjB0SFEzOV9LaDFTVGtIM2FPVTMtd3NlQnozX0JOYzBMNGtSUlFzc2poa3UtUVNrU01ndWFLXzIzUkFpQllxVzE2cWRnUTBNTFo?oc=5) / [MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTFBNSFg5QVhpbGNiaG5TT3VxSDJFVXpZaVZHS2ROeDU1cGFQYXlmczBmZXd5UVZpRnF3aWZaRmtVNU5vckljMk9FcjAxY3lLWThqaU9WODB3b01aSW92YW1scDE4VnVrd05Oc1NRc204V0prYVlp0gF0QVVfeXFMTXBPOVIzaTA5NWlSSVFjWVhlUVNadjd3a053elRvZDJLekJpeGEyU2JnY2tyQmlvWW5jLTNHR0xpSGRub3oyVGp0THF5bUl2ZVpBOTM3Ri0zeTVmaTlXR0lvd3plSmxYUW1aLUhSZnduQVJQRGE?oc=5) / [이코리아](https://news.google.com/rss/articles/CBMib0FVX3lxTFAydjlFSFBmaDVEalVGZ3pyZXNEbF9nWWVadkx4WVZMZzNIZk1GSHdXOW90TWlzWXU3UHRBczQ4alJxZXFHUER6REloMTFLcU9DdlBiczN6YjdvX3FBdjVNNnFxOVp1WnlESVNNNlF4Yw?oc=5)</sub>\n\n---\n\n### 2. 젠슨 황 사임 충격에 나스닥·반도체 급락, 글로벌 AI 투자 심리 위축\n> 키워드: 젠슨 황 사임\n\n**📌 무슨 일이 있었나**\n- 엔비디아의 상징적 인물인 젠슨 황의 사임 소식이 전해지며 뉴욕 증시 3대 지수가 일제히 하락했다.\n- 나스닥 지수는 2.49% 급락했으며, 필라델피아 반도체 지수는 5.28% 폭락하며 시장에 큰 충격을 주었다.\n- 도널드 트럼프 전 대통령은 젠슨 황의 사생활과 관련된 루머를 언급하며 정치적 논란을 부추겼다.\n- 이번 사태는 국내 증시에도 영향을 미쳐 코스피 5000선 붕괴의 주요 원인 중 하나로 작용했다.\n- AI 산업의 성장을 이끌어온 핵심 리더의 부재가 향후 엔비디아의 경영 전략과 기술 혁신에 차질을 줄 것이라는 우려가 확산되고 있다.\n\n**💬 핵심 Q&A**\n- **Q. 젠슨 황 한 명의 사임이 필라델피아 반도체 지수를 5% 넘게 폭락시킨 이유는 무엇인가?**\n  A. 젠슨 황은 단순한 경영자를 넘어 AI 혁명의 설계자이자 엔비디아 그 자체로 상징되기 때문이다. 그의 부재는 엔비디아의 독점적 지위와 미래 로드맵에 대한 불확실성을 극대화하며 반도체 섹터 전체에 대한 투매를 촉발했다.\n- **Q. 트럼프 전 대통령이 언급한 중국 스파이 관련 루머가 시장에 어떤 영향을 미치고 있는가?**\n  A. 단순한 개인 신상 문제를 넘어 미중 갈등이라는 지정학적 리스크로 번지며 투자자들의 불안감을 자극하고 있다. 만약 경영진의 결격 사유가 국가 안보와 연결될 경우 엔비디아에 대한 강력한 규제나 제재가 뒤따를 수 있다는 공포가 주가에 반영된 것이다.\n- **Q. 엔비디아의 주가 하락이 국내 반도체 기업인 삼성전자와 SK하이닉스에 미치는 경로는 무엇인가?**\n  A. 엔비디아는 국내 기업들로부터 HBM 등 고성능 메모리를 구매하는 최대 고객사이기 때문에 엔비디아의 위기는 곧 국내 기업의 실적 악화로 직결된다. AI 서버 투자 수요가 위축될 것이라는 전망이 나오면서 국내 반도체 대형주들에 대한 외국인의 동반 매도세가 강해지고 있다.\n\n**👀 앞으로 볼 포인트**\n- 엔비디아의 차기 CEO 선임 절차 및 경영권 승계 계획\n- 젠슨 황 사임의 구체적인 배경과 사생활 관련 루머의 사실 여부\n- 글로벌 반도체 공급망 내 엔비디아의 지배력 변화 추이\n\n<sub>참고: [한양경제](https://news.google.com/rss/articles/CBMickFVX3lxTE5JXzBwR0lULUx5LVY2N2U5OWFMS3g2eGdsOFN3cDE1Nnc1OW1RbU1DWG03cWVjUnZlMHhiR1Q5ZFJ1MFVxMmRaMEIzNnprOVpaV2lSWmlDREpyWmpETjJvTVRDcWlfYWRoRi1iN3diWVpFUQ?oc=5) / [서울경제TV](https://news.google.com/rss/articles/CBMiZEFVX3lxTE16ZkVNY1dhOUdxR1ZGVVNocmVQdHp4Sy1Wczl3cDNWNVA0eDl5TTVua2kyRUFxV3pqVmlpZF9fcWRnZWtLU0tvTF9NSG1JRHhyeXBVNU55aTN3TjRMQ3dwU2wtQWM?oc=5) / [티제이비](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yeVV1a3ZGR2dIcTFFX3UxUVl5dldqTlJpQmVsUUxtSk14VFNXeEhKSkZIcEM0U3Y3dGJUSGZTcFdodGhqRXZmc2p3MEZ4M1VaMjBESXBndlFZWGFo?oc=5)</sub>\n\n---\n\n### 3. 나스닥 2.49% 급락, AI 매도세 확산과 대중 반도체 규제 강화 여파\n> 키워드: 나스닥 기술주 급락\n\n**📌 무슨 일이 있었나**\n- 뉴욕증시에서 나스닥 지수가 AI 관련주에 대한 투매 여파로 2.49% 하락하며 장중 조정장에 진입했다.\n- 미국의 대중 반도체 수출 규제 강화 소식이 전해지면서 엔비디아를 비롯한 주요 반도체 종목들이 일제히 급락했다.\n- 엔비디아 실적 발표를 앞두고 시장의 기대치와 우려가 교차하며 차익 실현 매물이 쏟아져 나왔다.\n- AI 기술주 전반에 걸친 매도세 확산으로 인해 시가총액 상위 대형 기술주들이 지수 하락을 견인했다.\n- 글로벌 증시는 미 기술주 급락의 영향으로 동반 하락세를 보이며 투자 심리가 극도로 위축된 상태다.\n\n**💬 핵심 Q&A**\n- **Q. 대중 반도체 수출 규제 강화가 나스닥 급락의 기폭제가 된 구체적인 메커니즘은 무엇인가?**\n  A. 엔비디아 등 주요 AI 반도체 기업들의 매출 중 상당 부분이 중국 시장에서 발생하기 때문에 수출 제한은 즉각적인 수익 감소로 이어진다. 규제가 강화될수록 미래 성장 동력이 훼손될 것이라는 우려가 커지며 밸류에이션 하향 조정이 일어난 결과다.\n- **Q. 엔비디아 실적 발표를 앞두고 왜 호재보다 악재에 더 민감하게 반응하는가?**\n  A. 그동안 AI 기대감으로 주가가 지나치게 가파르게 올랐기 때문에 작은 악재에도 차익을 실현하려는 욕구가 강해진 상태다. 실적이 예상치를 상회하더라도 향후 성장률 둔화 가능성이 조금이라도 보이면 시장은 이를 매도 신호로 받아들이는 역설적 상황에 놓여 있다.\n- **Q. 나스닥의 기술주 투매 현상이 다른 섹터로 전이될 가능성은 어느 정도인가?**\n  A. 기술주는 지수 비중이 매우 높기 때문에 이들의 하락은 전체 지수 하락을 유도하고, 이는 다시 마진콜과 담보 부족으로 이어져 다른 섹터의 주식까지 팔게 만드는 연쇄 반응을 일으킬 수 있다. 특히 AI 투자를 위해 부채를 늘린 금융권과 통신 섹터가 다음 리스크 타깃이 될 가능성이 높다.\n\n**👀 앞으로 볼 포인트**\n- 엔비디아 실적 발표 결과 및 향후 가이던스 제시 내용\n- 미국 정부의 추가적인 대중 반도체 수출 제한 조치 세부안\n- 나스닥 지수의 주요 이동평균선 지지 여부 및 기술적 반등 시점\n\n<sub>참고: [서울신문](https://news.google.com/rss/articles/CBMifkFVX3lxTE5EeGtabjBQLVpnNFcwQ29KNlYtaWQyNENKSFpVTzJfTWdjNDV0TXBRdWNIMDV3X3U3ZTdZd21sSTFEeXNLOVhrZVVjMXBoOVJOdlU4S3E5NllHS1FNM2VzUlJvZmNLUUtYT3RoVkl3Y2xiM1VLTTliVWJCbl9DQQ?oc=5) / [시사저널e](https://news.google.com/rss/articles/CBMickFVX3lxTFBUVnhxRzl0alpXYjFqc3puSkJYeDktdmpGRVIwemJUWUFnMUdrYnZEN29jaTFhNTBKM3F5OTdxTmxhQnljNnoxRE1fOXdqemlnMzEwR0x1Y0JVUWZ5ampIYXZwVlJkeG4tbHYwYURQREk0dw?oc=5) / [매일일보](https://news.google.com/rss/articles/CBMiZEFVX3lxTE52TFUyUU00OE1oSzdhVVIxVW55MUlEdXNFSmJfaEs2QjBvZnNVdTBxTWtyX2VSREFpOWkzRVB5MFhLUmUwOWlXbHQ4V3F0cnRfWjE2eHFOdE45cEhTb3duaFlVbHI?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 보도를 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
+    "newsletter_md": "# ⚡ ZIPPY | AI 경제 데일리 브리핑\n_2026-11-17 이슈 · 발행 2026-11-17_\n\n🇰🇷 **국내 경제:** `코스피 5000선 붕괴` · `보안 취약점 및 해킹 피해` · `수도권 집값 상승 및 격차`\n🌐 **해외 경제:** `AI주 매도세와 나스닥 급락` · `미 연준의 AI 금융 위험 경고` · `젠슨 황 거취 및 사임 논란`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 코스피 5000선 붕괴 외국인 1조 원 매도 폭탄\n> 키워드: 코스피 5000선 붕괴\n\n**📌 무슨 일이 있었나**\n- 코스피 지수가 외국인의 1조 원 넘는 대규모 매도세에 밀려 전 거래일 대비 2.59% 하락하며 5,000선 아래로 내려앉았으며 이는 시장의 예상치를 크게 하회하는 급격한 하락세로 기록되었다.\n- 엔비디아의 실적 발표를 하루 앞두고 시장의 경계감이 극에 달한 가운데 반도체 대형주를 중심으로 차익 실현 매물이 쏟아지며 지수 하락을 주도하는 양상이 뚜렷하게 나타났다.\n- 지수 5,000선이 무너진 것은 약 9개월 만의 일로 장중 내내 하락 압력이 지속되었으며 투자 심리가 급격히 위축되면서 개인 투자자들의 저가 매수세도 지수를 방어하기에는 역부족이었다.\n- 외국인 투자자들은 오후 들어 매도 폭을 더욱 확대하며 지수 하방 압력을 가중시켰고 기관 역시 동반 매도에 나서며 코스피는 장중 한때 최저점을 경신하는 등 불안한 흐름을 보였다.\n\n**💬 핵심 Q&A**\n- **Q. 엔비디아 실적 발표 전후로 외국인이 1조 원 이상을 투매한 배경은 무엇인가?**\n  A. 실적 기대감이 이미 주가에 선반영되었다는 판단과 함께 실제 결과가 시장의 높은 눈높이를 충족하지 못할 경우 발생할 급락 리스크를 피하려는 선제적 대응이다. 특히 한국 증시는 반도체 비중이 높아 글로벌 AI 업황의 작은 변동성에도 외국인 자금이 민감하게 유출입되는 구조적 특성을 지닌다.\n- **Q. 5,000선 붕괴가 국내 반도체 밸류체인 기업들의 자금 조달 환경에 어떤 영향을 미치는가?**\n  A. 주가 하락으로 인해 시가총액이 감소하면 기업들의 담보 가치가 하락하고 유상증자나 전환사채 발행 시 발행 가액이 낮아져 자금 조달 비용이 상승하는 결과를 초래한다. 이는 설비 투자가 필수적인 반도체 기업들에게 장기적인 성장 동력 약화로 이어질 수 있는 위험 요소이다.\n- **Q. 기술적 분석 관점에서 지수 반등을 견인할 수 있는 핵심 수급 주체와 지표는 무엇인가?**\n  A. 외국인의 매도세 멈춤과 함께 연기금을 비롯한 기관의 강한 순매수 전환이 필수적이며 고객예탁금의 증감 추이가 반등의 강도를 결정할 것이다. 또한 원/달러 환율의 안정세가 동반되어야 외국인 투자자들이 환차손 우려를 덜고 다시 국내 시장으로 유입될 수 있는 환경이 조성된다.\n\n**👀 앞으로 볼 포인트**\n- 엔비디아 3분기 실적 및 가이드라인 발표\n- 외국인 순매도세 진정 여부 및 수급 변화\n- 5,000선 회복을 위한 기술적 지지선 확인\n\n<sub>참고: [뉴스토마토](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lc1ZqODI4RldMY1ZDYkxuYkNfY0l5R0xIYm41d2p1eFpHQ3gwTkpiLUdOaWM2djhEREV5ekxZUklYOEdMMmN4NHNWRnBfRG9hTGdBMlcyb2ZqUFM1LWhHeA?oc=5) / [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12MmZMUVpndEMwQjV1R2g0cEVjbDlWbUFmZ0lPSkR1U1ZDTGJBbTM5Uk1qRFVYRy1WcVN5Um80OXpRM2lnZ3I3cWN3NW44RUFiM2FQdUUwMkNiNks3Vy1UVi11Y2pUSGc?oc=5) / [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtcmlrRWtfQnhjX1lwQUdkbmE0ZUp1SUFoaVJuOHM1dUNqLUhvUUZ3cjExa2ZpRmZScC15ekZXdmlOTnc2SnowQy1tVmpyTkwzXy1iUjQ2XzBrRVVybWJpRVJwS0tMODA?oc=5)</sub>\n\n---\n\n### 2. 아세안정상회의·레고랜드 잇단 해킹 피해 발생\n> 키워드: 보안 취약점 및 해킹 피해\n\n**📌 무슨 일이 있었나**\n- 아세안정상회의가 중국 해커 조직의 공격을 받은 것으로 드러나며 외교 안보를 둘러싼 해킹 전쟁이 본격화되었고 국가 주요 행사의 보안 체계에 대한 우려가 커지고 있다.\n- 레고랜드 코리아에서도 해킹 사고가 발생하여 고객의 성명과 전화번호는 물론 연간 이용권 정보까지 대거 유출되는 등 민간 서비스 분야의 보안 취약점이 여실히 드러났다.\n- 코인원 고객센터가 해킹당하며 이용자들의 자산 탈취와 사생활 침해 가능성이 제기되었고 의원 비서관을 사칭한 북한 연계 조직 '김수키'의 공격 정황도 포착되어 긴장이 고조되고 있다.\n- 금융감독원은 대부업권의 보안 취약점을 집중 점검하고 해킹 방어 체계가 미흡한 업체에 대해 엄정 제재를 가할 방침이며 불법 사금융 피해 지원을 위한 온라인 신청 시스템을 가동했다.\n\n**💬 핵심 Q&A**\n- **Q. 아세안정상회의와 같은 국제 행사를 겨냥한 해킹 공격이 외교 안보에 미치는 실질적 위협은 무엇인가?**\n  A. 정상 간의 비공개 논의 내용이나 국가 간 전략적 협력 방안이 유출될 경우 외교적 주도권을 상실하거나 국가 신뢰도에 치명적인 타격을 입을 수 있다. 이는 단순한 정보 탈취를 넘어 국가 간 사이버 교전 상태로 번질 수 있는 중대한 안보 위협으로 간주된다.\n- **Q. 가상자산 거래소 고객센터 해킹이 단순 정보 유출을 넘어 자산 탈취로 이어지는 구체적인 경로는 어떻게 되는가?**\n  A. 해커가 탈취한 고객 정보를 바탕으로 피싱 메일을 발송하거나 고객센터 상담원을 사칭하여 2차 인증 번호나 개인 키를 탈취하는 사회공학적 기법을 사용한다. 이를 통해 사용자의 계정에 직접 접속하여 가상자산을 외부 지갑으로 전송하는 방식으로 실질적인 자산 피해를 입힌다.\n- **Q. 레고랜드 등 민간 서비스의 정보 유출 사고 시 기업이 져야 할 법적 책임과 보상 범위의 기준은 무엇인가?**\n  A. 개인정보보호법에 따라 기업이 기술적·관리적 보호 조치 의무를 다했는지 여부가 핵심이며 과실이 입증될 경우 매출액의 일정 비율에 해당하는 과징금이 부과될 수 있다. 피해 고객에 대해서는 유출된 정보의 민감도와 실제 발생한 금전적·정신적 피해 규모를 산정하여 손해배상 책임이 결정된다.\n\n**👀 앞으로 볼 포인트**\n- 금감원의 대부업권 보안 점검 결과 및 제재\n- 유출된 개인정보를 악용한 2차 금융 범죄\n- 국가 배후 해킹 조직에 대한 외교적 대응\n\n<sub>참고: [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTFBRenF4eHZfRkEtLXVhMXNOZ1dmOTBrMm8xSjkwaHBsNG03NUpkRzNrZV9vbVpuMEZiVGtFTnY4TVJXX0ZJc0xYaGp6d0xPc3lqQ0VEWUJFeVZETHF4N2hrT3Jfa0ttcTRabTczQlZFZ1Y?oc=5) / [매일경제](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aRm1Qa2hNSzdTTTNDNy1XcVJsX3owTnRKckhNb3lUVDJHXzg3YkJwak94TWNvSi1UbXBmOTczMTRxWTlySEw1XzkzWlNJbkdCamc?oc=5) / [지디넷코리아](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlVnNmWjdTQ19mVFMwZlMtRkM3RFhrNnhiY2lhTS12NDk0bHZWcUk2eklLZjZPRjlnSDFaTFBxcHBfejVPcEQ2Unp6MUlvTEJDUklJQ2NB?oc=5)</sub>\n\n---\n\n### 3. 수도권 집값 양극화 심화 상하위 격차 52배\n> 키워드: 수도권 집값 상승 및 격차\n\n**📌 무슨 일이 있었나**\n- 주택 소유 상위 10%와 하위 10%의 자산 격차가 52배까지 벌어지며 역대 최대치를 기록하는 등 유주택자 사이에서도 자산 양극화 현상이 심각한 수준으로 나타났다.\n- 경기도 수원 영통과 화성 동탄 등 반도체 벨트 지역의 집값 상승률이 서울을 앞지르는 기염을 토하며 수도권 부동산 시장의 중심축이 이동하는 지각변동이 관측되었다.\n- 10월 코픽스가 3.62%를 기록하며 주택담보대출 변동금리가 2개월 연속 상승함에 따라 대출을 통해 내 집을 마련한 가계의 이자 상환 부담이 한층 무거워진 상황이다.\n- 서울의 집값 상승세는 대출 규제 여파로 다소 둔화된 반면 경기도 일부 지역은 반도체 클러스터 조성 등 대형 호재에 힘입어 보합세를 유지하거나 강한 반등세를 보이고 있다.\n\n**💬 핵심 Q&A**\n- **Q. 주택 자산 격차가 52배까지 벌어진 현상이 가계 소비 여력과 내수 경기에 미치는 파급 효과는 무엇인가?**\n  A. 자산이 적은 하위 가구는 소득의 상당 부분을 원리금 상환에 지출하며 소비를 줄이는 반면 상위 가구는 자산 가치 상승에 따른 부의 효과로 소비를 유지하는 양극화가 발생한다. 이는 전체적인 내수 활력을 저해하고 계층 간 위화감을 조성하여 사회적 비용을 증가시키는 원인이 된다.\n- **Q. 서울 강남권의 상승세가 둔화된 상황에서 수원과 화성 등 경기 남부권이 독주하는 시장 메커니즘은 무엇인가?**\n  A. 강남권은 높은 가격대와 강력한 대출 규제로 인해 신규 진입이 차단된 반면 경기 남부권은 상대적으로 진입 장벽이 낮고 반도체 산업 중심의 양질의 일자리가 집중되어 있다. 직주근접 수요와 미래 가치 상승 기대감이 맞물리며 실거주자와 투자자가 동시에 몰리는 현상이 나타나는 것이다.\n- **Q. 금리 상승기와 자산 양극화가 맞물린 시점에서 무주택자의 진입 장벽을 결정짓는 핵심 변수는 무엇인가?**\n  A. 단순한 매매 가격보다는 총부채원리금상환비율(DSR) 규제 하에서 개인이 감당할 수 있는 대출 한도와 실제 적용되는 가산 금리의 수준이 가장 결정적인 변수이다. 또한 정부가 공급하는 공공분양 주택의 물량과 청약 자격 완화 여부가 무주택자의 주거 사다리 복원 여부를 가를 분기점이 될 것이다.\n\n**👀 앞으로 볼 포인트**\n- 코픽스 상승에 따른 주담대 금리 추가 인상\n- 반도체 클러스터 인근 지역 매수세 유입\n- 자산 격차 완화를 위한 정부의 세제 변화\n\n<sub>참고: [경기일보](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYVnRzYjR4eFM3SFBFYS05M3l0Vng2aDZFRnJ4YUUzcnhCZ3RSa3pONHVVWjhWX0E1M0Vib1d2a00wcWtlZklROHZWeWJKLWN5V01hNDVPdmxnQ2s?oc=5) / [MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTE96UHBYUjAzbXdWMGhaVHRRLUV3ZUxNNDVBcmU4TkQwTVRVckdNVTNRdEdZTmp6N2U2eVFuQTdBbkV3RmVCOWx1eU15WFp4RE5XVnA0X0djb1o3OGQxdmFZWDhGVzBqNjNwNTJ4R1FOZFpVbkI10gF0QVVfeXFMTzhpOFVFcUFnV3laODF2ZUpvbVhIaksxT3UxOTR5SU9CWEl6dHlhU05XekRVZHlwRl9XUGZpMEp5MVgtOWxEMVdlRGNtRHl6RlIyaWdsZ0M3YWhYOUYtRXhOZlA0bl95YWVjb0VPYjQyMVBlRmg?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE1sbjJHR3RUM0RzRG9EcUdNUE9LVXNPcXd0c0UyWW0zazctQjMza2Y2WDljWXRESUJkUnBuSE5sS2dXeExBQXQxTE5TeS1keWNIZXI2N0FYcWJSeFJORlRTY0pwN3hpTTAwc2RzODRwaFfSAXRBVV95cUxPYUJoMF9rRGJXaU95NGN2NV9RbWtpOEFMZm0tVHV5LVlQNF9jdFREZkYtSjY3SnFkbHdOU1NXbkVPY011MGhlS2lNbzA5bGZ2LWpEVk9ZZGNLdWdaSGYwdUw5NVpMb3pTc19YYUJLcHZYUlh2TQ?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 나스닥 2.5% 급락 AI주 투매에 조정장 진입\n> 키워드: AI주 매도세와 나스닥 급락\n\n**📌 무슨 일이 있었나**\n- 뉴욕증시에서 나스닥 지수가 AI 관련주에 대한 강력한 매도세가 확산되며 전 거래일 대비 2.49% 급락 마감했고 고점 대비 10% 하락하며 본격적인 조정 구간에 진입했다.\n- 엔비디아 주가가 4.1% 하락하는 등 반도체와 대형 기술주 전반에 걸쳐 투매가 이어졌으며 이는 실적 발표를 앞둔 시장의 극심한 불안감과 차익 실현 욕구가 반영된 결과이다.\n- 필라델피아 반도체 지수 역시 5% 넘게 폭락하며 기술주 중심의 하락 압력이 증시 전반을 짓눌렀고 투자자들은 위험 자산 비중을 급격히 줄이며 안전 자산으로 이동하는 모습을 보였다.\n- 시장은 AI 산업의 수익성 실현 속도가 기대보다 느릴 수 있다는 의구심을 제기하고 있으며 대형 테크 기업들의 과도한 밸류에이션에 대한 재평가가 진행되는 과정으로 풀이된다.\n\n**💬 핵심 Q&A**\n- **Q. 나스닥 지수가 고점 대비 10% 하락하며 조정장에 진입한 것이 기술적 반등의 신호인가 아니면 하락장의 시작인가?**\n  A. 과거 사례를 볼 때 10% 조정은 과열된 시장의 거품을 걷어내는 건강한 조정일 수 있으나 이번에는 AI 수익성에 대한 근본적 의문이 동반되었다는 점이 다르다. 주요 지지선인 200일 이동평균선을 하향 돌파할 경우 단순 조정을 넘어 장기 하락 추세로의 전환 가능성을 배제할 수 없다.\n- **Q. 엔비디아 실적 발표를 앞두고 나타난 4% 이상의 주가 폭락이 반도체 공급망 전체에 미치는 심리적 타격은 어느 정도인가?**\n  A. 엔비디아는 AI 생태계의 가늠자 역할을 하므로 이 회사의 주가 폭락은 장비, 소재, 파운드리 등 전후방 산업 기업들에 대한 투자 심리를 동시에 얼어붙게 만든다. 이는 공급망 내 기업들의 주가 동반 하락은 물론 향후 주문 물량 감소에 대한 공포를 확산시키는 기폭제가 된다.\n- **Q. AI 산업의 수익성 의구심이 커지는 상황에서 대형 테크 기업들의 자본 지출 계획이 어떻게 수정될 가능성이 있는가?**\n  A. 투자 대비 성과(ROI)가 명확하지 않을 경우 기업들은 인프라 확충 속도를 조절하고 보수적인 현금 흐름 관리에 들어갈 가능성이 높다. 이는 AI 서버 및 데이터센터 구축 수요의 감소로 이어져 반도체 업황의 피크아웃 논란을 가속화하는 요인이 될 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 엔비디아 실적 발표 후 시간외 거래 주가\n- 나스닥 지수의 10% 조정선 지지 여부\n- 기술주에서 가치주로의 자금 이동 가능성\n\n<sub>참고: [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZOXJrdTAzXzJLeC1XbF8wZzBuaF9QU2dpZEdzc0h6ajczaTFOMC1WRW5JY1dZbVppenR5MjJ0TW85V0Q3VWc5cS1RMXQ4eDJCcGVFejAtdThjNkJ1ZlBtMlIwcEp0RFk?oc=5) / [머니투데이](https://news.google.com/rss/articles/CBMiaEFVX3lxTE83cTRxYjFIRFlqWUZSYTFxZDVRUGNfOS1tNXdwX2s1UkROZkxZSE5aTUZXMlNJRXBrZUIzQzVsWjVDQ0RCRGdvRWI3YzFGZFlMYmtJeHN1ZUFPV09RblBXclZvdjRuMFV20gFuQVVfeXFMT1pkS2VQYW10LXNrTnNPQmJ3WGRzS0dUWHlLdkxlMVExT1J2Wnc5d2hhWGtDWmpEUldWb2FOZDRJVnREYUFMMkkzLUtKRDQzU3BTd0x6VVkwNXBQUGsxRDJ6c2dWZG5jRkFwUnJZdUE?oc=5) / [조선일보](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbDlLMHE2MVhSU1lRZGZVZGNQckhES0lRS0RLRmtiMXIwcldwLVVDSEVUQUFlaWUwWkdYQmVuUUJHcmV4V1hwN1RETUZyNm5mRHhFZGVldWc0R2dvT1FSVnp1Z292eUJGV1ZubnRta3ZvNFEyR21DT0g5YjBHcDcxaGdwcTRiUEhR?oc=5)</sub>\n\n---\n\n### 2. 미 연준 AI 투자 위험 경고 은행 노출액 1조 달러\n> 키워드: 미 연준의 AI 금융 위험 경고\n\n**📌 무슨 일이 있었나**\n- 미국 연방준비제도가 대형 은행들의 AI 관련 위험 노출액이 1조 달러에 육박한다며 AI 투자 과열에 따른 금융 시스템의 불안정 가능성을 공식적으로 경고하고 나섰다.\n- 제롬 파월 연준 의장은 AI 투자 실패가 단순한 기업 손실을 넘어 경기 둔화와 실업 증가로 이어질 수 있으며 디지털 환경에서의 뱅크런을 가속화할 우려가 있다고 지적했다.\n- IMF와 연준은 AI 투심이 급격히 냉각될 경우 금융 시장 전반으로 손실이 확산될 수 있음을 강조하며 금융권의 철저한 리스크 관리와 자본 확충을 강력히 촉구했다.\n- 특히 AI 기술에 대한 과도한 의존과 쏠림 현상이 금융 시스템의 취약성을 키우고 있으며 예상치 못한 시장 변동성이 발생할 경우 대규모 연쇄 부실로 이어질 수 있다는 분석이다.\n\n**💬 핵심 Q&A**\n- **Q. 연준이 지목한 1조 달러 규모의 AI 위험 노출액이 실제 금융 시스템 붕괴로 이어지는 임계점은 어디인가?**\n  A. 단순한 노출액 규모보다 해당 자산의 부실화율과 은행의 자기자본 비율이 핵심이며 AI 스타트업들의 연쇄 도산이 시작되는 시점이 임계점이 될 것이다. 1조 달러 중 상당 부분이 레버리지를 활용한 투자라면 자산 가치 하락 시 마진콜이 발생하며 금융 시장 전반의 유동성 위기로 번질 수 있다.\n- **Q. AI 기술이 뱅크런을 가속화할 수 있다는 연준의 경고는 디지털 금융 환경에서 어떤 메커니즘으로 작동하는가?**\n  A. AI 알고리즘에 기반한 자동 매매와 정보 확산 속도가 빨라지면서 부정적인 뉴스가 발생할 경우 순식간에 대규모 자금 인출 시도가 일어날 수 있다. 이는 과거의 오프라인 뱅크런과 달리 대응할 시간적 여유가 거의 없는 '초고속 디지털 뱅크런'을 유발하여 은행의 지급 불능 상태를 순식간에 초래한다.\n- **Q. 중앙은행의 경고가 AI 스타트업에 대한 벤처캐피털의 자금 공급과 대출 금리에 어떤 즉각적인 변화를 가져오는가?**\n  A. 금융권이 리스크 관리를 강화하면서 AI 기업들에 대한 대출 심사가 엄격해지고 가산 금리가 상승하여 자금 조달 문턱이 크게 높아질 것이다. 이는 수익 모델이 불분명한 스타트업들의 자금줄을 죄어 구조조정을 촉발하고 시장의 옥석 가리기를 강제하는 결과를 낳게 된다.\n\n**👀 앞으로 볼 포인트**\n- 연준의 대형 은행 대상 AI 리스크 테스트\n- AI 관련 대출 및 투자 자산의 부실화 징후\n- IMF의 글로벌 금융 안정 보고서 추가 발표\n\n<sub>참고: [국민일보](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GdTV6WkZUdFp2NHRUUS1Qb3VOeHRPMmNjR3VOY0NBS19keEd5SHJiT3A2LU5HdjVvX2tzTl9ETGtUeDNMa1JxX0gzalhMTTAwNzlfcndTbm4?oc=5) / [뉴스21 통신](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fME5Pd19wUmF6UTJKWGJEOFRjNThMY0hEbVV4OUppM2dPOFZHUW52N253SUZXRFRjSm01bGJEQ055bF8yZGRPd0hwVHhyWXpHX0VIVnVR?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WbVlKTUpCY2V6d0RUakVpSmtodV82eEZyQkpIeVRZWVpFOFV1aUg2eS1pZ1lndDZxU1lNQlFpOTdDekNPUWFFOEQyOVV4YWxhVFRaUzdZLV9hUkHSAWBBVV95cUxPNWJzR19jSTY3TXNmMEwtWjB0SFEzOV9LaDFTVGtIM2FPVTMtd3NlQnozX0JOYzBMNGtSUlFzc2poa3UtUVNrU01ndWFLXzIzUkFpQllxVzE2cWRnUTBNTFo?oc=5)</sub>\n\n---\n\n### 3. 젠슨 황 사임설에 반도체 지수 5% 폭락 증시 충격\n> 키워드: 젠슨 황 거취 및 사임 논란\n\n**📌 무슨 일이 있었나**\n- 엔비디아의 창업자이자 수장인 젠슨 황의 거취를 둘러싼 사임 논란이 불거지며 뉴욕증시 3대 지수가 일제히 하락했고 필라델피아 반도체 지수는 5.28% 폭락하는 사태가 벌어졌다.\n- 시장은 젠슨 황의 사임 여파가 AI 산업 전반의 리더십 공백과 전략 수정으로 이어질 것을 우려하며 엔비디아를 포함한 주요 기술주를 중심으로 대규모 매물을 쏟아냈다.\n- 이번 논란은 엔비디아의 분기 실적 발표라는 중대한 이벤트를 앞둔 시점에 발생하여 투자자들의 불안감을 극대화했으며 증시 전반의 하락 압력을 키우는 결정적 요인이 되었다.\n- 젠슨 황의 거취 문제가 불거진 직후 관련 반도체 종목들이 동반 하락하며 시장 변동성이 커졌고 투자자들은 향후 엔비디아의 경영권 승계 구도와 전략 변화에 촉각을 곤두세우고 있다.\n\n**💬 핵심 Q&A**\n- **Q. 특정 기업인의 거취 논란이 개별 종목을 넘어 필라델피아 반도체 지수 전체를 5% 이상 끌어내린 근본적인 원인은 무엇인가?**\n  A. 젠슨 황은 단순한 CEO를 넘어 글로벌 AI 생태계의 상징적 인물이자 전략적 설계자이기 때문에 그의 부재는 산업 전체의 방향성 상실로 해석된다. 엔비디아가 반도체 지수 내에서 차지하는 압도적인 비중과 영향력이 지수 전체의 동반 폭락을 야기한 핵심 원인이다.\n- **Q. 젠슨 황의 사임이 현실화될 경우 엔비디아가 추진 중인 차세대 AI 칩 로드맵과 파운드리 협력 관계에 어떤 차질이 생기는가?**\n  A. 강력한 카리스마를 바탕으로 추진되던 공격적인 R&D 투자와 TSMC 등 주요 파트너사와의 긴밀한 협력 관계가 리더십 교체기에 일시적으로 흔들릴 수 있다. 이는 경쟁사들에게 시장 점유율을 탈환할 기회를 제공하며 엔비디아의 독점적 지위가 약화되는 계기가 될 가능성이 크다.\n- **Q. 실적 발표 직전에 터져 나온 거취 논란이 공매도 세력이나 시장 조성자들의 포지션 변화에 어떤 빌미를 제공했는가?**\n  A. 불확실성을 극도로 혐오하는 시장 특성상 악재성 루머는 공매도 세력에게 주가 하락을 유도할 수 있는 최적의 명분을 제공한다. 시장 조성자들 역시 리스크 회피를 위해 매수 호가를 낮추거나 물량을 줄이면서 유동성이 공급되지 않아 주가 하락 폭이 더욱 확대되는 악순환이 발생했다.\n\n**👀 앞으로 볼 포인트**\n- 엔비디아 이사회의 공식 입장 발표 여부\n- 젠슨 황의 직접적인 거취 관련 해명 행보\n- 반도체 지수 폭락 후 저가 매수세 유입 시점\n\n<sub>참고: [연합뉴스 한민족센터](https://news.google.com/rss/articles/CBMidEFVX3lxTE1OdWh3MjZnaDJpdm5uLXNVc1Z1Y1BQcmJSUlVNeXA5WjZJTUFreTZPY1VDVXlfa3dtZ1lMX0FfektwZTFGbEtzYkhiSklZNFpLVmctRDdPQWhyYTZOREpuRllHNHNDRkVnN2RYdS10cWRzZjFC?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE9oeEduX3kwZ0Nfd2dEWmJJY0JOVUVtcnZ2NkhpQ3lDMTZ5YnlPZlB0QS1jOEN0LXhtNmRBMHhhbWpacjBhdWxUTVhpS19YSEpvdklKV3hNalRYWXFGaXNfRkw5SWVrdF9YdE4zOGxGWk0?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE9SYjdwa0xrcnVJei1jeWpocWZVTzVFeEh5NGlIZ09jNFNoZGp5WUIyb2U2MmVJVWtuZmljYmdxXzdLdXktWng5a0VPX1BnVWdUU3UtVHM0M1owOHlaZWhqUHhackw4cGZINFdiLWJCRks?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 보도를 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
     "generation_mode": "gemini"
   },
   "yesterday": {
@@ -3022,5 +3006,5 @@
     "newsletter_md": "# ⚡ ZIPPY | AI 경제 데일리 브리핑\n_2026-11-10 ~ 2026-11-16 이슈 · 발행 2026-11-17_\n\n🇰🇷 **국내 경제:** `외국인 매도와 코스피 급락` · `주담대 변동금리 상승` · `젠슨황 쇼크와 하이닉스 하락`\n🌐 **해외 경제:** `미국 CPI 상승과 빅스텝 우려` · `연준의 AI 금융위험 경고` · `젠슨 황 퇴진과 엔비디아 하락`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 외국인 매도 폭탄에 코스피 5100선 턱걸이\n> 키워드: 외국인 매도와 코스피 급락\n\n**📌 무슨 일이 있었나**\n- 외국인 투자자의 대규모 매도세가 이어지며 코스피 지수가 3.59% 급락해 5,100선까지 후퇴했고 코스닥 역시 4.8% 하락하며 증시 전반이 크게 위축되었다.\n- 모건스탠리가 SK하이닉스의 목표 주가를 38% 하향 조정한 보고서를 낸 이후 반도체 대형주를 중심으로 외국인 자금이 대거 이탈하며 지수 하락을 주도했다.\n- 원/달러 환율은 증시 급락과 강달러 현상에도 불구하고 1,330원대 중반으로 하락하며 하향 안정화되는 모습을 보였으나 증시의 하락 압력을 막기에는 역부족이었다.\n- 인텔이 PC 재고 부진 공시를 지연했다는 이유로 주주들에게 집단소송을 당하며 주가가 29% 폭락한 점도 국내 반도체 및 IT 부품주에 부정적인 영향을 미쳤다.\n- 증시 급락세 속에서도 모건스탠리는 코스피가 이르면 3년 내에 1만 선에 도달할 수 있다는 낙관적인 장기 전망 보고서를 이틀 만에 다시 내놓으며 시장의 혼란을 키웠다.\n\n**💬 핵심 Q&A**\n- **Q. 외국인 매도세가 코스피 5100선 붕괴를 위협하는 핵심 동력은 무엇인가?**\n  A. 모건스탠리가 SK하이닉스 목표주가를 38% 하향 조정하며 반도체 업황에 대한 불신을 키운 점이 외국인 이탈의 기폭제가 되었다. 여기에 인텔의 실적 공시 지연에 따른 집단소송 등 글로벌 반도체 악재가 겹치며 대형주 중심의 매도 폭탄이 쏟아졌다.\n- **Q. 강달러와 증시 급락 속에서도 원/달러 환율이 1,330원대로 하락한 역설적 배경은 무엇인가?**\n  A. 일반적으로 증시 급락 시 환율은 상승하지만 외환 당국의 미세 조정이나 수출 업체의 네고 물량 유입이 강달러 압력을 상쇄한 결과로 풀이된다. 다만 증시에서 빠져나간 외국인 자금이 환전 수요로 이어질 경우 환율 하락세가 지속되기는 어려울 수 있다.\n- **Q. 모건스탠리가 목표주가 하향 직후 코스피 1만 선을 예고한 것은 어떤 의미를 갖는가?**\n  A. 단기적으로는 반도체 업황 부진에 따른 주가 조정을 경고하면서도 장기적으로는 한국 증시의 저평가 해소와 성장 잠재력을 높게 평가하는 이중적 시각을 드러낸 것이다. 이는 단기 변동성에 대응하는 투자자와 장기 가치 투자자 사이의 시각 차이를 극명하게 보여준다.\n\n**👀 앞으로 볼 포인트**\n- 외국인 순매도세 지속 여부 및 수급 변화\n- 원/달러 환율 1330원대 하향 안정화 지속성\n- 모건스탠리의 코스피 1만선 전망 실현 가능성\n\n<sub>참고: [한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrQkY4M1Y1Rk5uZUJ4cEZvRW1pNV8wNkRGUG9EX3VEU3V0eC1fS1lJY25KYnNjYjB1ZWlrWFFHblhSUTRHMW9pc1UwWm1tcklTanVqQ25OeVRSdw?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE56TDBhNzh6OEFvMXV3QVhMTGN4MFo5Q1BUVm82cWhUZ3NneGp4X1JXRWRNcnQ5RHg5Y0h6cjNHQ3ZyWXFvVUh2Z2YzTTM4ek1UMWdZSDViNGMwUk3SAWBBVV95cUxQd1JoVXB6dDJpVXRnYnFMZkFxdF9lN0sxZHBLQTVicnRHc1MyLXVScXMyNHRsTWJlUmdCbGlMbHlVdndFX2FaWk1GbWFqME91WW1xSzFRX3UwSmVxVGJqdWk?oc=5) / [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tRi1wWGJkVVAwZnVJR3oxTkE3VURRRUVVOXRsb3FTTjlLWVRIN3dTVl9PWVZiVHVGTFFNNVRZUHNYbktwMmEtM2Q0NmxRekVQSUxNWFBQR215ZTg?oc=5)</sub>\n\n---\n\n### 2. 10월 코픽스 3.62% 기록하며 주담대 금리 상승\n> 키워드: 주담대 변동금리 상승\n\n**📌 무슨 일이 있었나**\n- 10월 기준 자금조달비용지수인 코픽스가 3.62%를 기록하며 2개월 연속 상승함에 따라 시중은행의 주택담보대출 변동금리가 일제히 상향 조정되었다.\n- 수원 영통과 화성 동탄 등 경기 남부 지역의 집값 상승률이 서울을 앞지르는 등 부동산 시장의 국지적 과열 양상이 나타나며 대출 수요가 지속되고 있다.\n- 국내 증시는 장 초반 상승 출발했으나 이재명 대표 간담회 직후 외국인 매도세가 강화되며 하락 전환하는 등 변동성이 극심한 모습을 보였다.\n- 코스닥 시장에서는 장중 4%대 급등으로 매수 사이드카가 발동되기도 했으나 장 후반 하락세로 돌아서며 투자자들의 불안감을 키웠다.\n- 뉴욕증시에서는 클라우드 기업 코어위브의 실적 호조에 힘입어 나스닥이 1.6% 상승하는 등 기술주 중심의 반등세가 나타나 국내 증시와 대조를 이뤘다.\n\n**💬 핵심 Q&A**\n- **Q. 10월 코픽스가 3.62%로 상승하며 주담대 변동금리에 미치는 직접적인 영향은 어느 정도인가?**\n  A. 코픽스는 시중은행 주택담보대출 변동금리의 기준이 되므로 2개월 연속 상승은 차주들의 이자 부담을 즉각적으로 가중시킨다. 특히 경기 남부권의 집값 상승세가 서울을 앞지르는 상황에서 금리 상승은 가계 부채 건전성에 상당한 압박으로 작용할 전망이다.\n- **Q. 코스닥에서 매수 사이드카가 발동된 후 다시 하락 전환한 원인은 무엇인가?**\n  A. 장 초반 저가 매수세가 유입되며 급등했으나 외국인의 '팔자' 기조가 꺾이지 않으면서 상승 동력을 상실했기 때문이다. 이는 시장의 기초 체력이 약해진 상태에서 일시적인 수급 불균형에 의한 변동성만 커지고 있음을 시사한다.\n- **Q. 뉴욕증시 나스닥의 1.6% 상승이 국내 증시의 하락세를 방어하지 못한 이유는 무엇인가?**\n  A. 코어위브 등 특정 기업 호재에 따른 미국 기술주 반등이 국내 반도체 및 IT 기업들의 실적 우려를 상쇄하지 못했기 때문이다. 국내 증시는 글로벌 훈풍보다는 외국인 매도세와 국내 정치적 불확실성 등 내부 리스크에 더 민감하게 반응하고 있다.\n\n**👀 앞으로 볼 포인트**\n- 11월 코픽스 지수 및 변동금리 추가 상승폭\n- 경기 남부권 집값 상승세의 서울 전이 여부\n- 뉴욕증시 기술주 반등이 국내 증시에 미칠 영향\n\n<sub>참고: [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE9yNHVxdjZLcWUxYW9MdVdvZGRJalpwQlRyZ05tblVsMDV6SmJGVkU2TzFTTmdrdWtmdFVCbkJlaVFfZEVRVXhqTm5Ub1dQRTIxSjFIcXBnbm92VExQR3hRaWMweExXZ1pIUlFwVmhWVEHSAXRBVV95cUxQUW5oNGtvQVR6YWJGb0JjcjRUQWpvcFBWVlg1ZmJCQ25lWWt6MG5nS09BcHJEWElFcDJXX1A3WnhuNHMxaU9VTFBOTnB1blpoLVNPemp5blNUUWNYNExJRFpBaUV0NVpNaGhPNUNYNWJwX29nRQ?oc=5) / [경기일보](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYVnRzYjR4eFM3SFBFYS05M3l0Vng2aDZFRnJ4YUUzcnhCZ3RSa3pONHVVWjhWX0E1M0Vib1d2a00wcWtlZklROHZWeWJKLWN5V01hNDVPdmxnQ2s?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE5CNndnTTNqeWFEQXZwLXU2SHpsUk5KOHBBNWJfMTZ3TWV5SXJtblJqQUhNNi1PRjkzM3czT3I5YnV1X3BpaTJJSXZVM2szTGUwbExKcWZXN1I4elJxaW1PUjkxMU4xa05BckhfOElYM0w?oc=5)</sub>\n\n---\n\n### 3. 젠슨황 쇼크에 SK하이닉스 급락 및 시총 위기\n> 키워드: 젠슨황 쇼크와 하이닉스 하락\n\n**📌 무슨 일이 있었나**\n- 엔비디아 수장 젠슨 황의 거취와 관련된 불확실성이 불거진 이른바 '젠슨황 쇼크'로 인해 SK하이닉스 주가가 급락하며 반도체 섹터 전반이 흔들렸다.\n- SK하이닉스의 주가 하락 여파로 SK그룹 전체 시가총액이 장중 한때 1,000조 원 아래로 떨어지며 그룹사 전반의 밸류에이션이 위협받았다.\n- 미국 법원이 삼성전자와 SK하이닉스의 DRAM 감산 조치를 '되돌리기 어려운 결정'으로 주목하며 판결문에 명시한 점이 향후 공급 전략의 변수로 떠올랐다.\n- SK하이닉스는 올해 3분기까지 누적 설비투자에 역대 최대 규모인 31조 원을 투입하며 용인 팹 건설 등 미래 생산 능력 확보에 총력을 기울이고 있다.\n- 모건스탠리는 SK하이닉스의 목표가를 대폭 낮췄음에도 불구하고 한국 증시 전체에 대해서는 3년 내 코스피 1만 선 도달 가능성을 언급하는 모순된 태도를 보였다.\n\n**💬 핵심 Q&A**\n- **Q. 젠슨황 쇼크와 미국 법원의 DRAM 감산 주목 판결이 SK하이닉스에 미치는 복합적 영향은 무엇인가?**\n  A. 엔비디아 수장의 거취 변화로 인한 수요 불확실성에 더해 법원이 인위적인 공급 조절 가능성을 들여다보면서 가격 결정권 약화 우려가 커졌다. 이는 SK그룹 전체 시가총액이 장중 1,000조 원 아래로 밀려나는 등 기업 가치에 대한 전방위적 재평가로 이어졌다.\n- **Q. SK하이닉스가 역대 최대인 31조 원의 설비투자를 강행하는 전략적 배경은 무엇인가?**\n  A. 단기적인 주가 급락과 업황 우려에도 불구하고 용인 상생 팹 등 차세대 생산 거점을 선점하여 AI 반도체 시장의 주도권을 놓치지 않겠다는 의지이다. 양산 검증 장벽을 허물고 기술 격차를 유지하기 위한 대규모 투자가 향후 실적 반등의 핵심 열쇠가 될 전망이다.\n- **Q. 모건스탠리의 목표주가 하향과 코스피 1만 선 전망이 공존하는 상황을 어떻게 해석해야 하는가?**\n  A. 개별 기업인 SK하이닉스에 대해서는 단기적인 고평가와 업황 둔화를 경고하면서도 한국 증시 전반의 구조적 성장성에는 베팅하는 전략으로 풀이된다. 이는 반도체 외 섹터의 약진이나 한국 기업들의 거버넌스 개선이 전제될 때 가능한 시나리오이다.\n\n**👀 앞으로 볼 포인트**\n- SK하이닉스 31조원 설비투자 집행 및 수익성\n- 미국 법원의 DRAM 감산 관련 최종 판결 결과\n- 엔비디아발 AI 반도체 수요 불확실성 해소 시점\n\n<sub>참고: [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCdC1OanBiNXNJMXAyQ3BTV1hPMHNwczYxNThoU2RaV1k1RWpiYmtpWGI4SERWZjl1aUZiLTdUQ3F4R2UzbXFRSlZYemRwVVhBdzZqOERzVlJiMHJlU1BsenZjZVhNV28?oc=5) / [뉴스핌](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EeHpuNXlqWW1nU1RJMVhtc2tsVXJLeWRpNlVPQkNPWGpXWmdmR0NsckVkWEtkRGg3dy1IdGRhR2dndDB2dFBtbE9aWlA5OG8zdl8yUmRlYWR1Q3I0?oc=5) / [한국무역협회-KITA.NET](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNM09TU1oxdGlmUnJCY3RoXzlvZGNDeWdGdTlsUEhSdldzQl9PWU85NEFBaWtfVzFScGR6aFhydmhLUUhPQnh6dmdBYUxDTzNWNFVTRkgwSThCb0MwR0lZbENleEZmamZvSnRsdmt5X3FOcUc4UzdNTUxPX24wVVdsVENmZkUySy1LSy00Y2hPMXpjNGRmU2F3bEVPRW15eGdqU1dhMHpsYkVVXzlnWmNuU0NSRmRrd2NWZlRXZGJieThQQ0ZxV0s0YXpnbFVWTm5pZGlXR1ZB?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 美 CPI 발표 후 빅스텝 우려에 뉴욕증시 하락\n> 키워드: 미국 CPI 상승과 빅스텝 우려\n\n**📌 무슨 일이 있었나**\n- 미국 소비자물가지수(CPI) 발표 이후 인플레이션 우려가 재점화되면서 뉴욕증시 나스닥 지수가 0.7% 하락하는 등 반등 흐름에 제동이 걸렸다.\n- 연준이 기준금리를 0.5%포인트 인상하는 '빅스텝'을 단행할 가능성이 커지면서 시장의 긴장감이 고조되었고 기술주 중심의 매도세가 강화되었다.\n- 한국은행 역시 오는 26일 예정된 금융통화위원회에서 미국의 빅스텝 가능성을 고려해 기준금리 인상 여부를 심도 있게 검토할 것으로 보인다.\n- 연준은 AI 열풍으로 인한 자산 가치 고평가와 부채 급증이 금융 시스템의 위험 요인이 될 수 있다고 경고하며 과열된 시장에 주의를 당부했다.\n- 국내 증시는 미국의 빅스텝 우려에도 불구하고 장중 한때 코스피 2.6%, 코스닥 5.6% 급등하는 등 극심한 변동성을 보이며 혼조세를 나타냈다.\n\n**💬 핵심 Q&A**\n- **Q. 미국 CPI 발표가 연준의 빅스텝 우려를 자극하며 증시에 찬물을 끼얹은 배경은 무엇인가?**\n  A. 예상치를 상회하거나 둔화되지 않은 물가 지표가 확인되면서 연준이 기준금리를 0.5%포인트 인상하는 빅스텝을 단행할 가능성이 커졌기 때문이다. 이는 기술주 중심의 나스닥 지수를 0.7% 하락시키는 등 자산 가치 재평가 압력으로 작용했다.\n- **Q. 연준이 AI발 금융 위험을 경고하며 지목한 구체적인 리스크 요인은 무엇인가?**\n  A. AI 기술에 대한 과도한 기대감이 자산 가치를 실제 펀더멘털보다 높게 평가하게 만들고 이 과정에서 급증한 부채가 금융 시스템의 취약성을 키우고 있다는 점이다. 특히 자산 가치 하락 시 부채 상환 능력이 급격히 악화될 수 있음을 시사한다.\n- **Q. 미국 빅스텝 우려 속에서도 국내 코스닥 지수가 5.6% 급등한 현상을 어떻게 이해해야 하는가?**\n  A. 금리 인상 공포라는 대외 악재보다 국내 시장의 과도한 낙폭에 따른 기술적 반등이나 특정 테마주로의 수급 쏠림이 일시적으로 강하게 작용했기 때문이다. 다만 이러한 급등은 펀더멘털 개선에 기반한 것이 아니어서 변동성 확대에 유의해야 한다.\n\n**👀 앞으로 볼 포인트**\n- 11월 26일 한국은행 기준금리 인상 여부\n- 연준 위원들의 추가 금리 인상 관련 발언\n- AI 자산 가치 고평가에 따른 금융 위험 지표\n\n<sub>참고: [MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTE56QUxuYTVvNEFqXzlNdjJGa0xpbHVGSHVoMk9sNlhKaDRvOHE1S0xnd1pMWFpIS3BidlN6UTNEYlBkYllFRDNLZGJMWVRBWW40eTgyZkpmU2pXdExqSE9INjVmcWRwWjZoemNacG9fb204R3Zm0gF0QVVfeXFMTkpGSWJQX0VXY085YkRWQ1VpaFpWM2Z0RVpHd2I1M0c4T0RBMUN3QVQyVUw3V25pdE5pVk5TSjUxTlJ5cW5vM2xGMm5DVnJjMURucGhmU2M1OG9uT2c1Z1R1d2IwWXgtSmxhRXRkd25xYXFOMl8?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9odjVpVkR5eTJrcFZQaWdSNzViTUoxTGttTjVDRDZOT3dpNk9QLWs2TEFvZ1NXMWd3UTZqNnJGU2Z2NmJQd3pRTVM3NEhWVmJoMVNPRmZDUUQ1c0nSAWBBVV95cUxOUWJzWnJmalR2Y3pMTkczSWpUX2xianBOaG1HRURVWk9vb0YxaFdTbF85dC1aWDNCWjRMNFp2T1FrdjVtT3k5cmNhSWF0NHpQUXl4UVNEcHlKQ3lqX1RfYzk?oc=5) / [뉴닉](https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxcFNHYlJxTURNSlVsTWJuekhOYURndG5VUU85ZzhRM25RTnJpMU1ncGI3R1dxMzVFR0tZSkZEbmVoOUM4Q2dwUHVxdTVMRXM3dXRF?oc=5)</sub>\n\n---\n\n### 2. 연준 AI발 금융위기 경고에 증시 관망세 확산\n> 키워드: 연준의 AI 금융위험 경고\n\n**📌 무슨 일이 있었나**\n- 미국 연준은 AI 열풍이 자산 가치 고평가와 부채 급증을 초래해 금융 시스템의 '시한폭탄'이 될 수 있다고 공식 경고하며 시장의 주의를 환기했다.\n- 연준 바 부총재는 AI 확산으로 인한 급격한 자금 이탈(뱅크런) 가능성과 부채 위험을 언급하며 금융 기관들의 리스크 관리 강화를 촉구했다.\n- 특히 AI 데이터센터 구축을 위해 발행된 첨단 컴퓨팅 부채 규모가 6,800억 달러에 달하는 등 이른바 '순환금융'의 위험성이 심각한 수준으로 지적되었다.\n- 연준의 경고 이후 증시에서는 AI 관련주에 대한 투자 심리가 급격히 위축되었으며 투자자들의 관망세가 짙어지며 거래가 둔화되는 양상을 보였다.\n- 금융 당국은 AI 투자가 실질적인 수익으로 연결되지 않을 경우 발생할 수 있는 자산 가치 폭락 시나리오에 대비해 모니터링을 강화하고 있다.\n\n**💬 핵심 Q&A**\n- **Q. 연준이 지목한 AI 데이터센터 관련 6,800억 달러 규모의 순환금융은 왜 위험한가?**\n  A. 첨단 컴퓨팅 자산을 담보로 발행된 부채가 급증하면서 자산 가치 고평가와 부채 급증이 맞물리는 시한폭탄 구조를 형성하고 있기 때문이다. AI 열풍이 꺾일 경우 담보 가치가 하락하며 금융 시스템 전반으로 리스크가 전이되는 뱅크런 가능성을 경고한 것이다.\n- **Q. 연준 바 부총재가 AI 확산으로 인한 뱅크런 위험을 경고한 논거는 무엇인가?**\n  A. AI를 활용한 알고리즘 매매나 정보 확산 속도가 빨라지면서 시장 불안 발생 시 자금이 순식간에 빠져나가는 속도가 과거와 비교할 수 없이 빨라졌기 때문이다. 이는 금융 기관이 대응할 시간을 주지 않고 유동성 위기에 빠뜨릴 수 있는 새로운 형태의 리스크이다.\n- **Q. 연준의 경고 이후 증시 관망세가 짙어지는 현상을 전환할 분기점은 무엇인가?**\n  A. AI 투자가 실제 기업의 생산성 향상과 실적 개선으로 증명되는 구체적인 수치가 확인되어야 고평가 논란을 잠재울 수 있다. 또한 6,800억 달러에 달하는 부채의 상환 능력을 입증할 수 있는 데이터센터 수익 모델의 가시화가 필수적이다.\n\n**👀 앞으로 볼 포인트**\n- AI 데이터센터 관련 부채 발행 규모 추이\n- 연준의 AI 자산 가치 평가 보고서 후속 내용\n- 기술주 중심의 자금 유출입 및 변동성 지수\n\n<sub>참고: [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jRENzYWswRTFiTEVvTTRYN2dKSktsVkw0anVDZXNkQlNtWWU0MVFaaURIclhTcmtnY2pQMEVUT0sxOWh1X3FtY3RYSTg5dWRUdks0ckptVGZqaGvSAWBBVV95cUxPVTE3RUlMY2RzUG1LejE5dkVuaTh3dmdNb0FuLTh3Z3VRcGtYdUtzb1BwMkFONWs5bURESzZHWDZIal8zQUNOSkh2cnpLM3V1WUNtM3hBY1BYalp2ZnRFRy0?oc=5) / [Chosunbiz](https://news.google.com/rss/articles/CBMingFBVV95cUxQUkZya0xDaUdaMWloUlRsdEt2c1Bwd0xCQ0hKWnhTeFlNdlhtVF9ZOFg0NFR2SEFLRjdCQ0tESGZ1U0ljNVU5aW9LUm80Rzc4RlYtSFBlV1JGZEFRQldJMzNua29ZMDNMYi1LNzBQZXh6TDVLSWNpai03SWFJRGtHLWkxQXhZM0s0WF9odnNJVEY5WV9xV3JNdXBVMjI2UdIBsgFBVV95cUxPRzY2QktzVENvQV93M1Z1MVhERTktZTE3SDJGQ0V2NUVfM3hTeEZCSFQ1ZjF6LTVsOW93ZVItb0MyZTN1ZGhFZG1ZcDZlbGlQUk1WLXRMUG5iU1haVlBWaHYwX0p4WmZGV0tXcmdLTXQzeFU0LWxTc3MwR0NvbXp4aFI1SnA0M2h4cGItcHBoWWdqYnNkV3lxMWNZSmd6M3BXVXFuVUV1MVRBcEp1cWQxOEp3?oc=5) / [Investing.com 한국어](https://news.google.com/rss/articles/CBMiakFVX3lxTE9rOEdqbU1tTm5VZ2hXSmo5QlRTdmh5aG5UUkhEN1dpYWNDWnJVNF9kTzdybURfLXdlVXBoMFYxMGlVSEc2ang4SVdRYWhZTW4xcVBsMjZSeUlaMDZPck5SNUpManFvUl9wc1E?oc=5)</sub>\n\n---\n\n### 3. 젠슨 황 퇴진 충격에 엔비디아 급락 및 하향\n> 키워드: 젠슨 황 퇴진과 엔비디아 하락\n\n**📌 무슨 일이 있었나**\n- 엔비디아의 상징적 인물인 젠슨 황의 퇴진 소식이 전해지며 뉴욕증시에서 엔비디아 주가가 급락했고 나스닥 지수도 0.4% 하락 마감했다.\n- 젠슨 황 퇴진 이후 AI 생태계 전반에 '자금 절벽'이 닥칠 수 있다는 경고음이 커지면서 관련 스타트업과 기술주들에 대한 투자 심리가 얼어붙었다.\n- 월가 주요 투자은행들은 젠슨 황의 해임 및 스캔들 의혹을 이유로 엔비디아에 대한 투자의견을 일제히 하향 조정하며 불확실성을 증폭시켰다.\n- 수장의 공백과 더불어 국제 유가 급등이라는 대외 악재가 겹치면서 기술주들의 밸류에이션 부담이 가중되어 증시 하락 압력을 높였다.\n- 엔비디아의 주가 하락은 국내 반도체 공급망에도 즉각적인 영향을 미쳐 관련 부품 및 장비주들의 동반 약세를 초래했다.\n\n**💬 핵심 Q&A**\n- **Q. 젠슨 황의 갑작스러운 퇴진이 AI 생태계 전반의 자금 절벽으로 이어지는 경로는 무엇인가?**\n  A. 엔비디아는 단순한 칩 제조사를 넘어 AI 생태계의 핵심 자금줄이자 기술 표준 역할을 해왔기에 수장의 공백은 투자 심리를 급격히 위축시킨다. 월가에서 투자의견을 줄하향하면서 AI 스타트업과 관련 기업들의 밸류에이션이 동반 하락하는 연쇄 반응이 나타나고 있다.\n- **Q. 젠슨 황 스캔들과 해임 소식이 엔비디아의 펀더멘털에 미치는 실질적 타격은 무엇인가?**\n  A. 강력한 리더십 아래 추진되던 차세대 GPU 로드맵과 대규모 데이터센터 파트너십의 연속성이 훼손될 수 있다는 점이 가장 큰 타격이다. 경영진 교체 과정에서의 내부 혼란은 경쟁사들에게 시장 점유율을 탈환할 기회를 제공할 위험이 크다.\n- **Q. 유가 급등과 젠슨 황 퇴진이 동시에 발생한 상황에서 기술주가 특히 취약한 이유는 무엇인가?**\n  A. 유가 상승은 인플레이션 압력을 높여 금리 인하 기대를 꺾는 반면 젠슨 황 퇴진은 성장 동력에 대한 의구심을 키우기 때문이다. 비용 상승과 성장 둔화라는 쌍둥이 악재가 기술주의 높은 멀티플을 정당화하기 어렵게 만들고 있다.\n\n**👀 앞으로 볼 포인트**\n- 엔비디아 차기 경영진 선임 및 전략 변화\n- AI 생태계 내 자금 조달 경색 여부 모니터링\n- 국제 유가 급등이 기술주 밸류에이션에 미치는 영향\n\n<sub>참고: [Chosunbiz](https://news.google.com/rss/articles/CBMiggFBVV95cUxNMklCZXlyT19Rck5XTnBxdV9OdGZUY3JoY0xzMGt3ZFNuS1QwZVBHV3VEZFR4bllRMTMzV3ZZZFdIOWdQa0ViRnNZNDNZRjdhX2YyQVNWT1NzNnNnSFMwXzFOYkMxdEVVYnVHaVRtQldNUXItN1RZSDJwZ21kbWdUaDNR0gGWAUFVX3lxTE5XU0s3X0xIbXBMd1dCTGhSMzdoLTZFNDVzNlIwVDhpa0VoVDlxdllhNnV1QmllTHZESHBfY0RGcTFDS0NSYkVncUtYU1VGZmdXTEJwSDNwcjJYd09oVUVEWV9nV2JXZXRCZmNiTkZ1WHVxTi1DT0RuSml0bjd1SEtoX3UtT0JsZHhYa29fcnpIMTFoYjBiZw?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pUU9rX0VMZWZhX3pFRmdJNGtOTDg2YUtGYWpId3hXdlZIVHNXM3BiTTBia29mRnZ0bXNoTE5Jbk9LTDFKa0ZsUEZ6Rl9DWVJrTmZCbkVsTjhVODjSAWBBVV95cUxNc3lGX3hrdzNLWkE0RmR3VWN2VnhjMmJidGtzLWhMTEJKenRWWUR4OHhkSlRvUzhjajl1aElWN3VQbWpTOGhLYlpod3ZrWG5aT3pvd3pGbFlXMEFJVU50ZDE?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE1qbi1zRzBpYnU4RTdYR2ZwREdWQTEycENXeEJiMFJHMnpSaTMzWk1XekxYM213Y196M0hjYktpYXRaN2dtWkhlellWLTFFbEJZdmVoRU81X2FwekVaeVpXOVZpc0UtYm1WMEhMOThZQlo?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 보도를 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
     "generation_mode": "gemini"
   },
-  "updated_at": "2026-11-17 17:22:13 KST"
+  "updated_at": "2026-11-17 20:49:49 KST"
 }
