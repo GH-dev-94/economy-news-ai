@@ -6,91 +6,91 @@
     "domestic": {
       "keywords": [
         "코스피 5000선 붕괴",
-        "바이오 신약 임상 발표",
-        "서울 아파트값 하락세"
+        "서울 아파트값 하락세",
+        "비만·치매 신약 임상 성과"
       ],
       "results": {
         "코스피 5000선 붕괴": {
-          "headline": "코스피 5000선 붕괴와 9개월 만의 최저치",
+          "headline": "젠슨 황 사임에 5000선 무너진 코스피",
           "facts": [
-            "코스피 지수가 전 거래일 대비 2.59% 하락하며 심리적 지지선인 5000선이 무너졌으며 이는 9개월 만에 기록한 최저 수준이다.",
-            "외국인 투자자들의 대규모 매도세가 지수 하락을 주도했으며 반도체 업종에 이어 금융과 조선주까지 동반 약세를 보였다.",
-            "미국 반도체주 하락과 젠슨 황 복귀설, 앤스로픽 IPO 등 대외 변수가 복합적으로 작용하며 투자 심리가 급격히 위축되었다.",
-            "시장에서는 급격한 낙폭 이후 반등하는 트램펄린 효과를 기대하고 있으나 역자산효과에 따른 내수 위축 우려가 커지고 있다."
+            "외국인이 1조 4,000억 원 규모의 매도세를 보이며 코스피 지수가 5,000선 아래로 하락 마감했다.",
+            "젠슨 황의 사임 소식과 엔비디아 실적 발표를 앞둔 경계감이 시장의 하방 압력을 가중시킨 주요 원인으로 꼽힌다.",
+            "지수 하락에 따른 역자산효과 우려가 커지면서 소비 위축 등 실물 경제로의 파급을 막기 위한 대책 마련 목소리가 높다.",
+            "시장은 엔비디아의 매출 폭증 여부가 5,000선 회복의 결정적 분기점이 될 것으로 보고 치열한 고지전을 벌이고 있다."
           ],
           "watch": [
-            "외국인 순매도세 진정 여부",
-            "반도체 및 금융주 실적 반등 지표",
-            "정부의 역자산효과 방어 대책 발표"
+            "엔비디아 실적 발표 및 향후 가이던스",
+            "외국인 순매도세 지속 여부와 수급 변화",
+            "국내 상장사 실적 반등 및 금리 변동 추이"
           ],
           "qna": [
             {
-              "q": "반도체주 하락이 금융과 조선주까지 연쇄적으로 끌어내린 배경은 무엇인가?",
-              "a": "미국 반도체 지수 급락으로 촉발된 외국인의 위험자산 회피 심리가 국내 증시 전반으로 확산되었기 때문이다. 특히 시가총액 상위권인 반도체주가 무너지자 지수 방어력이 약해지며 업종 구분 없는 투매 현상이 나타났다."
+              "q": "젠슨 황 사임이 국내 증시에 즉각적인 충격을 준 이유는 무엇인가?",
+              "a": "글로벌 AI 산업의 상징적 인물인 젠슨 황의 부재가 엔비디아의 리더십 공백과 사업 연속성 우려를 낳았기 때문이다. 반도체 비중이 압도적인 코스피 시장 특성상 대장주의 흔들림이 지수 전체의 투매로 이어졌다."
             },
             {
-              "q": "코스피 5000선 붕괴가 실물 경제에 미치는 역자산효과의 경로는 어떻게 나타나는가?",
-              "a": "주식 가치 하락으로 가계의 가처분 소득이 줄어들었다고 느끼게 되어 소비 지출을 줄이는 경로로 작동한다. 이는 내수 경기 둔화로 이어져 기업 실적을 다시 악화시키는 악순환의 고리를 형성할 가능성이 크다."
+              "q": "외국인의 1조 4,000억 원대 매도가 시장 수급에 미치는 구체적 경로는 무엇인가?",
+              "a": "대형주 중심의 집중 매도가 지수 하락을 주도하며 개인 투자자의 심리적 지지선을 무너뜨리는 결과를 초래한다. 이는 추가적인 반대매매 위험을 높이고 시장의 자생적 반등 동력을 약화시키는 연쇄 반응을 일으킨다."
             },
             {
-              "q": "기술적 분석 측면에서 언급된 트램펄린 효과가 발생하기 위한 전제 조건은 무엇인가?",
-              "a": "단기 과매도 구간 진입에 따른 저가 매수세 유입과 함께 대외 불확실성인 미 연준의 금리 스탠스가 안정되어야 한다. 외국인 수급이 매수 우위로 전환되는 시점이 기술적 반등의 분기점이 될 것으로 보인다."
-            }
-          ]
-        },
-        "바이오 신약 임상 발표": {
-          "headline": "K-바이오 신약 임상 성공 및 글로벌 허가 릴레이",
-          "facts": [
-            "아리바이오는 치매 치료제 후보물질 AR1001의 글로벌 임상 3상에서 1차 유효성 평가 목표를 달성하며 상용화 가능성을 높였다.",
-            "한미약품은 유럽종양학회(ESMO)에서 항암 신약 2종의 임상 1상 데이터를 발표하며 차세대 항암제 개발 성과를 공개했다.",
-            "온코닉테라퓨틱스는 세마글루타이드와 병용 시 근육 손실을 방지하는 후보물질의 비임상 결과를 발표해 비만 치료 시장의 주목을 받았다.",
-            "HK이노엔의 위식도역류질환 신약 케이캡이 브라질에서 품목 허가를 획득하며 남미 시장 진출을 위한 교두보를 확보했다."
-          ],
-          "watch": [
-            "AR1001의 글로벌 품목 허가 신청 일정",
-            "케이캡의 브라질 현지 출시 및 매출 추이",
-            "한미약품 항암제 임상 2상 진입 여부"
-          ],
-          "qna": [
-            {
-              "q": "아리바이오 AR1001의 임상 3상 유효성 달성이 치매 치료제 시장에서 갖는 의미는 무엇인가?",
-              "a": "기존 치료제 대비 복용 편의성과 안전성을 확보한 경구용 치료제로서의 경쟁력을 입증한 결과이다. 글로벌 임상 3상 성공은 국내 바이오 기업의 신약 개발 역량이 세계적 수준에 도달했음을 시사한다."
-            },
-            {
-              "q": "온코닉테라퓨틱스가 발표한 근육보존 후보물질이 비만 치료제 시장의 게임 체인저가 될 수 있는 이유는 무엇인가?",
-              "a": "기존 GLP-1 계열 비만 치료제의 최대 단점인 근육량 감소 문제를 해결할 수 있는 병용 요법이기 때문이다. 체지방은 줄이면서 근육은 유지하려는 시장 수요를 충족시켜 치료 가치를 높일 수 있다."
-            },
-            {
-              "q": "HK이노엔 케이캡의 브라질 품목 허가가 국내 제약 산업의 글로벌 영토 확장에 미치는 영향은 무엇인가?",
-              "a": "세계 10대 제약 시장 중 하나인 브라질 진출은 국산 신약의 글로벌 블록버스터 성장을 가속화하는 계기가 된다. 이는 다른 남미 국가들로의 추가 허가 및 수출 확대에 긍정적인 레퍼런스로 작용한다."
+              "q": "5,000선 붕괴가 실물 경제의 역자산효과로 이어지는 메커니즘은 무엇인가?",
+              "a": "주식 가치 하락으로 가계의 가처분 자산이 줄어들면 소비 심리가 급격히 위축되는 현상이 나타난다. 자산 가치 하락이 내수 경기 침체로 이어져 기업 실적을 다시 악화시키는 악순환의 고리가 형성될 수 있다."
             }
           ]
         },
         "서울 아파트값 하락세": {
-          "headline": "거래 절벽과 매물 증가 속 서울 아파트값 하락 신호탄",
+          "headline": "거래 절벽 속 하락 신호탄 쏜 서울 아파트",
           "facts": [
-            "서울 아파트 시장에서 거래량이 급감하고 매물이 쌓이면서 본격적인 가격 하락세로 전환될 수 있다는 우려가 확산되고 있다.",
-            "서울 아파트 평균 전셋값이 사상 처음으로 5억 원을 돌파하며 서민들의 주거비 부담이 가중되고 내 집 마련 포기 사례가 늘고 있다.",
-            "대치동 은마아파트 등 주요 재건축 단지에서 분담금과 재건축 초과이익 환수금이 각각 4억 원에 달하는 등 비용 부담이 현실화되었다.",
-            "오세훈 서울시장은 주택 공급 부족의 책임을 지적하며 재건축 초과이익 환수제에 대한 전면적인 재검토가 필요하다는 입장을 밝혔다."
+            "서울 아파트 시장에서 거래량이 줄고 매물이 쌓이면서 본격적인 가격 하락장의 전조 현상이 나타나고 있다.",
+            "서울에서 집을 마련하려면 월급을 12년 동안 한 푼도 쓰지 않고 모아야 할 정도로 주거비 부담이 한계치에 도달했다.",
+            "평균 전셋값이 사상 처음으로 5억 원을 돌파하며 세입자들이 서울 외곽으로 밀려나는 현상이 가속화되고 있다.",
+            "서울시는 공급 부족 책임론에 선을 그으며 재건축 초과이익 환수제 등 규제 재검토를 정부에 강력히 요구했다."
           ],
           "watch": [
+            "서울 아파트 매물 적체 추이 및 거래량 변동",
             "재건축 초과이익 환수제 개편 논의 향방",
-            "서울 아파트 매물 적체량 변화 추이",
-            "전세자금 대출 금리 변동성"
+            "전세가율 변동에 따른 매매가 하방 압력 강도"
           ],
           "qna": [
             {
-              "q": "매물은 늘어나는데 거래량은 줄어드는 현상이 서울 아파트 시장에 시사하는 바는 무엇인가?",
-              "a": "매수자와 매도자 간의 희망 가격 격차가 커지며 시장이 관망세로 돌아섰음을 의미한다. 고금리 지속과 대출 규제 강화로 인해 실수요자들의 구매력이 한계에 도달한 결과로 분석된다."
+              "q": "매물 증가와 거래 감소가 동시에 발생하는 현상은 하락장의 확정적 신호인가?",
+              "a": "매수 대기자들이 고점 인식을 공유하며 관망세로 돌아선 반면 매도자들은 처분을 서두르기 시작한 수급 불균형의 결과이다. 가격 조정이 이루어지지 않은 상태에서 매물만 쌓이는 현상은 전형적인 하락 전환의 초기 단계로 해석된다."
             },
             {
-              "q": "재건축 단지에서 발생하는 고액의 분담금과 환수금이 공급 시장에 미치는 영향은 무엇인가?",
-              "a": "조합원들의 자금 부담이 커지면서 재건축 사업 속도가 지연되거나 중단되는 사례가 늘어날 수 있다. 이는 장기적으로 서울 도심 내 신축 아파트 공급 부족을 심화시켜 가격 불안 요인으로 작용할 가능성이 있다."
+              "q": "전셋값 5억 원 돌파가 매매 시장에 미치는 파급 효과는 무엇인가?",
+              "a": "전세 자금 마련이 어려워진 수요자들이 매매로 전환하기보다 서울 외곽으로 이탈하는 '탈서울' 현상을 유발한다. 이는 도심 내 주거 수요 기반을 약화시켜 장기적으로 매매 가격의 하향 안정을 압박하는 요인이 된다."
             },
             {
-              "q": "평균 전셋값 5억 원 돌파가 매매 시장으로의 수요 전이를 차단하는 이유는 무엇인가?",
-              "a": "전세가 상승이 매매가를 밀어 올리는 과거 공식과 달리 현재는 대출 규제로 인해 전세 자금 마련조차 버거운 상황이다. 주거비 부담 증가가 가계 저축력을 떨어뜨려 매매 시장으로 진입할 수 있는 동력을 약화시키고 있다."
+              "q": "오세훈 시장이 재초환 재검토를 주장하는 근거와 시장 영향은 무엇인가?",
+              "a": "과도한 환수금이 정비사업의 수익성을 악화시켜 민간 공급 물량 확보를 가로막고 있다는 판단에 근거한다. 규제 완화가 실현될 경우 재건축 추진 속도는 빨라질 수 있으나 단기적인 투기 수요 유입 가능성도 상존한다."
+            }
+          ]
+        },
+        "비만·치매 신약 임상 성과": {
+          "headline": "K-바이오 비만·치매 신약 글로벌 임상 순항",
+          "facts": [
+            "동아에스티의 비만 신약 후보물질이 글로벌 제약사 릴리의 제품과 유사한 수준의 체중 감량 효과를 보이며 주목받고 있다.",
+            "아리바이오는 치매 치료제 AR1001의 글로벌 임상 3상에서 1차 유효성 평가 목표를 달성하며 상용화 가능성을 높였다.",
+            "휴온스는 편의성을 높인 먹는 비만 치료제의 체중 및 체지방 감소 효과를 확인하며 임상 성과를 발표했다.",
+            "HK이노엔의 위식도역류질환 신약 케이캡은 브라질에서 품목 허가를 획득하며 남미 시장 진출의 교두보를 마련했다."
+          ],
+          "watch": [
+            "아리바이오 AR1001의 최종 품목 허가 일정",
+            "동아에스티 비만약의 후속 임상 데이터 발표",
+            "디지털융합의약품 임상 및 허가 기준 마련 추이"
+          ],
+          "qna": [
+            {
+              "q": "동아에스티 비만 신약이 릴리와 비슷한 감량 효과를 보인 것이 시장에서 갖는 의미는 무엇인가?",
+              "a": "글로벌 선두 주자와의 기술 격차를 획기적으로 좁혔음을 증명하며 향후 기술 수출이나 공동 개발 협상에서 유리한 고지를 점할 수 있는 근거가 된다. 이는 국내 바이오 기업의 R&D 역량이 글로벌 수준에 도달했음을 시사한다."
+            },
+            {
+              "q": "아리바이오의 임상 3상 유효성 달성이 치매 치료제 시장에 가져올 변화는 무엇인가?",
+              "a": "난치병으로 분류되던 치매 분야에서 국산 신약이 글로벌 표준 치료제 대열에 합류할 수 있는 전기를 마련한 것이다. 임상 3상 성공은 실제 처방으로 이어질 가능성이 매우 높음을 의미하며 기업 가치 재평가의 핵심 동력이 된다."
+            },
+            {
+              "q": "먹는 비만약 개발이 기존 주사제 중심 시장 판도를 어떻게 바꾸는가?",
+              "a": "투약 편의성을 획기적으로 개선해 환자 순응도를 높임으로써 비만 치료 시장의 저변을 대폭 확대할 것으로 전망된다. 주사제에 거부감을 느끼던 잠재적 수요층을 흡수하여 시장 점유율을 빠르게 확보할 수 있는 강력한 무기가 된다."
             }
           ]
         }
@@ -98,11 +98,32 @@
       "news": {
         "코스피 5000선 붕괴": [
           {
-            "title": "[마감시황] 코스피 2.59% 하락해 5000선 붕괴…반도체 이어 금융·조선주도 약세 - 한국경제",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JQ3l4RmxRTkYyVE9JazA5azZCU3gyZW1sOXdFLWVnR1RkT216NlJNUGRYWlJNaDRHbHN0dG5HRzRxYmVrd3hnOWE4WlAwX1lzSUl3VGJrQXhvdw?oc=5",
+            "title": "젠슨 황 사임에 5000선 깨진 코스피, 엔비디아가 다시 살릴까? - 머니투데이 - 머니투데이",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MMmpRcTdRcVFKaGMxSU85OHVKODh6RVNvRnlKaU9IYUYzN3hGQkdsNkR4MEVpLThYNkY4dDlIMDlSZDNGa254TzZ6dnVxRjhzREZ5V0pnRjJqNkdEaWRpdE9DWVJZOEpL0gFuQVVfeXFMUGtMcHBqQ1JoNWZYMkk3bDY0anVIbVFESlBEaUc5QkZHb3ZZQnRoVGRaX0dLaWZscVU4UVdJcHRnYml5VUtKUkJpV29wMWpWOXA5elE3TkpsN2U4VDJHSUlUUHFQeHM4dlY4U2NLRWc?oc=5",
+            "source": "머니투데이",
+            "published": "11-18 07:00",
+            "snippet": "젠슨 황 사임에 5000선 깨진 코스피, 엔비디아가 다시 살릴까? - 머니투데이 머니투데이"
+          },
+          {
+            "title": "엔비디아 매출 폭증…5000선 무너진 코스피 구원할까 [오늘 아침 당신이 알아야 할 7가지] - 한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1TzIxRzhGdFpMWE91WXRaOEt6bWV5WjlCRHlWWngzd1ZQMmE3aW9pY2Y2S1RaTmZ1R3l4STJQTm5HYlQ4T3ZLOTU4Z3E5blQ3ck5qblROTUhGQQ?oc=5",
             "source": "한국경제",
-            "published": "11-17 15:47",
-            "snippet": "[마감시황] 코스피 2.59% 하락해 5000선 붕괴…반도체 이어 금융·조선주도 약세 한국경제"
+            "published": "11-18 07:21",
+            "snippet": "엔비디아 매출 폭증…5000선 무너진 코스피 구원할까 [오늘 아침 당신이 알아야 할 7가지] 한국경제"
+          },
+          {
+            "title": "[오늘 증시 전망] 코스피 5,000선 붕괴…외국인 1조4,000억원대 매도에 18일 증시 긴장 - 업코리아",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01NUQyVW5rQ3NyWU04dF81M2FYVk5PTkxXMHd1WERzTUVfN1drNHRxYjh3dGJjUDg5dzQ0MkVzamdsbTlLcFhxMnJhdldJbEFmSl84NnNRS3EwZFJVQTVuOTRlenByTnU1YmNCYkpn?oc=5",
+            "source": "업코리아",
+            "published": "11-18 07:05",
+            "snippet": "[오늘 증시 전망] 코스피 5,000선 붕괴…외국인 1조4,000억원대 매도에 18일 증시 긴장 업코리아"
+          },
+          {
+            "title": "5000선에서 고지전 벌이는 코스피…'실적·금리'가 반등 결정짓는다 - 뉴스1",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xN1JnUUpWU0M3bXBIX1ZVWWxNSkNvSDIxaUZ6T1ZLTU9nekxZTzlQMFk5SF9EMGJpb3gzREVJLUxYQTJnYjBGMXRSNWhGMVNJb0ZjN0dGbWxuYXBwd21j?oc=5",
+            "source": "뉴스1",
+            "published": "11-18 06:42",
+            "snippet": "5000선에서 고지전 벌이는 코스피…'실적·금리'가 반등 결정짓는다 뉴스1"
           },
           {
             "title": "[사설] 코스피 5000 붕괴, ‘역(逆)자산효과’ 대책 있나 - 아시아투데이",
@@ -112,76 +133,11 @@
             "snippet": "[사설] 코스피 5000 붕괴, ‘역(逆)자산효과’ 대책 있나 아시아투데이"
           },
           {
-            "title": "코스피 5,000선 붕괴 : 낙폭 과대 이후 트램펄린 효과를 원하지만 - Investing.com 한국어",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uQzE1WEo2bXd1VWtFeTBIQmJNcGtIRm51UVlzU0FESWJ4S0h5MVlRLXFOazNyR3hMeTZ3aENPVm82c0tsWklJeXY1alMtRllEblN3SEoyaWNjTmJMSTJnSQ?oc=5",
-            "source": "Investing.com 한국어",
-            "published": "11-18 04:04",
-            "snippet": "코스피 5,000선 붕괴 : 낙폭 과대 이후 트램펄린 효과를 원하지만 Investing.com 한국어"
-          },
-          {
-            "title": "코스피 5,000선 붕괴…외국인 매도에 휘청 - 연합뉴스TV",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtcmlrRWtfQnhjX1lwQUdkbmE0ZUp1SUFoaVJuOHM1dUNqLUhvUUZ3cjExa2ZpRmZScC15ekZXdmlOTnc2SnowQy1tVmpyTkwzXy1iUjQ2XzBrRVVybWJpRVJwS0tMODA?oc=5",
-            "source": "연합뉴스TV",
-            "published": "11-17 16:06",
-            "snippet": "코스피 5,000선 붕괴…외국인 매도에 휘청 연합뉴스TV"
-          },
-          {
-            "title": "코스피, 5000선도 깨졌다…9개월 만에 최저 - 더나은미래",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVd2ZydVA5ZzN3dzdiY0lsb1lwb2tpUnF0WE52S3NuYlFCS2M3STJkZVZPQjJ6dmJRMVhpZ1BfWExrY1NfWGhoTGsyTG5nT2dUTEE?oc=5",
-            "source": "더나은미래",
-            "published": "11-17 17:16",
-            "snippet": "코스피, 5000선도 깨졌다…9개월 만에 최저 더나은미래"
-          },
-          {
-            "title": "美 반도체주 하락에···코스피 5,000선 붕괴 - 강원일보",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wVm1FYU1pUm1ZSFFLQmpKYWxMSFEwTHRpdm5lRE9KU05IUlp6M195WXdrdXBWLVV3bllub1o1X1o3TnlienI1cThTZEJ6cTQtdFpJV3V6bERpZ1U?oc=5",
-            "source": "강원일보",
-            "published": "11-17 17:27",
-            "snippet": "美 반도체주 하락에···코스피 5,000선 붕괴 강원일보"
-          }
-        ],
-        "바이오 신약 임상 발표": [
-          {
-            "title": "아리바이오 \"AR1001, 글로벌 임상 3상 1차 유효성 목표 달성\" - MEDI:GATE NEWS",
-            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54VFFZbEQ5elRoYUdIanhxTmZ6dkRoLWppUDFLYUNXMThUc2NGNGJmYmpGWFNhU1huMHVIU2ctYmY1WUpNTlVOZEVGN3hRbFVkRmdvdkd3VQ?oc=5",
-            "source": "MEDI:GATE NEWS",
-            "published": "11-17 22:17",
-            "snippet": "아리바이오 \"AR1001, 글로벌 임상 3상 1차 유효성 목표 달성\" MEDI:GATE NEWS 정재준 아리바이오 대표 “내년 FDA 허가 신청, 상업화 등 푸싱과 협력” 팜이데일리 아리바이오 \"먹는 치매약 후보, 일부 환자서 악화 31% 늦춰\" 연합뉴스 한국 기업, 먹는 치매 치료약 개발… 글로벌 임상 3상서 1차 효과 입증 Chosunbiz 아리바이오, 'PDE5 저해제' AD 3상 \"전체환자군 1차 미충족\" 바이오스펙테이터"
-          },
-          {
-            "title": "한미약품, 항암신약 2종 임상 1상 데이터 ESMO 발표 - MEDI:GATE NEWS",
-            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13TEZuNGlEMktIWlUxalFHX2ZlRFc4VVJFZGx0UjgyVmdEUk04MHFLaE1XZDJrV0JvNUJUX1hQRHk5Ykh3QXdZaUVEeU9OVnMwMWlaOUpFZw?oc=5",
-            "source": "MEDI:GATE NEWS",
-            "published": "11-17 22:06",
-            "snippet": "한미약품, 항암신약 2종 임상 1상 데이터 ESMO 발표 MEDI:GATE NEWS 한미약품 \"차세대 항암제 2종, 임상 1상서 항종양 효과\" 연합뉴스 한미약품 ‘차세대 항암신약’ 글로벌 1상서 항종양 활성 확인 팜이데일리 한미약품 “차세대 항암신약 2종, 글로벌 1상서 초기 항암 효과·안전성 확인\" Chosunbiz 한미약품, 유럽종양학회에서 임상 1상 최신 데이터 2건 발표 뉴스타운"
-          },
-          {
-            "title": "온코닉테라퓨틱스, 세마글루타이드 병용 근육보존 후보물질 비임상 결과 구두발표 - MEDI:GATE NEWS",
-            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LMTBBRzRHTkVHM3R5c2I3bzMxUUh1Wm5QOHJjMnhKc0dncFhwc0kteVFfa2tsWm9EODJKODBIZDNKRndrLU5WdVQzY3NzLXdRbm0zQk9sZw?oc=5",
-            "source": "MEDI:GATE NEWS",
-            "published": "11-17 22:15",
-            "snippet": "온코닉테라퓨틱스, 세마글루타이드 병용 근육보존 후보물질 비임상 결과 구두발표 MEDI:GATE NEWS 살 빼면서 근육 지키고 먹는 약까지…K비만약 개발 경쟁(종합) 연합뉴스 휴온스, 미국비만학회서 희귀 비만 신약 후보물질 연구 결과 발표 경향신문 세계 비만약 전쟁, 다음 승부는?…美 학회에 글로벌 제약사 총집결 메디파나뉴스 알테오젠 ‘월 1회’ 비만약, 동물실험서 3주 만에 체중 55.3% 감량 팜이데일리"
-          },
-          {
-            "title": "동아ST·메타비아, DA-1726·레타트루타이드 비교 전임상 결과 발표 - MEDI:GATE NEWS",
-            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtakUwcDRBWUFrRk8yMnpkZ0JRMjlkR04xcUtKaXJ0eW1VZFNrZW93RHlPYVc4SlB6STB2VW5reXFxMFhZMzBkRlJnUFd1SFRRVE1xLU4xQQ?oc=5",
-            "source": "MEDI:GATE NEWS",
-            "published": "11-17 22:05",
-            "snippet": "동아ST·메타비아, DA-1726·레타트루타이드 비교 전임상 결과 발표 MEDI:GATE NEWS 동아ST \"DA-1726, 레타트루타이드 대비 큰 혈당·유사 체중 감소 효과 확인\" - 머니투데이 머니투데이 동아ST·메타비아 \"비만치료제 전임상 연구 발표\" 뉴시스 MetaVia, 간질환 치료제 DA-1726 임상 1상 종료 Investing.com 한국어 동아에스티·메타비아, ‘DA-1726’과 레타트루타이드 동물시험 비교 결과 공개 주간한국"
-          },
-          {
-            "title": "HK이노엔, 위식도역류질환 신약 '케이캡' 브라질 품목허가 획득 - MEDI:GATE NEWS",
-            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qR1ZfTDNjeElLZzlBcmNGLUxlUks3cmc2S3B4Z3V4ZzFQSUJiaWQycXR1Q3hCanNZSWdteG4tVmlzaTVJSW01OW5hcktzb28tc3Qxa09CZw?oc=5",
-            "source": "MEDI:GATE NEWS",
-            "published": "11-17 10:07",
-            "snippet": "HK이노엔, 위식도역류질환 신약 '케이캡' 브라질 품목허가 획득 MEDI:GATE NEWS HK이노엔 ’케이캡’, 브라질 허가…중남미 공략 확대 연합뉴스TV HK이노엔 위장약 '케이캡' 브라질 허가…중남미 공략 가속 연합뉴스 HK이노엔 '케이캡', 1.1조 브라질 시장 뚫었다 전자신문 HK이노엔 케이캡, 브라질 품목허가 획득…중남미 공략 본격화 By EBN Investing.com 한국어"
-          },
-          {
-            "title": "[바이오스냅] 대웅제약, 자가면역질환 신약 임상 1상 결과 발표 - 연합뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oVi1iOHhOeWxleElZYlJLZldLM0R2Unh5TkRXRzVMVzZDRklfR3J1aHVFS09pUEJWS1liSUlqNzcyUGYzbU1lN3RZbTRmeTJUR1F3YkpabXFFNG85RjdUbtIBYEFVX3lxTE9oVi1iOHhOeWxleElZYlJLZldLM0R2Unh5TkRXRzVMVzZDRklfR3J1aHVFS09pUEJWS1liSUlqNzcyUGYzbU1lN3RZbTRmeTJUR1F3YkpabXFFNG85RjdUbg?oc=5",
-            "source": "연합뉴스",
-            "published": "11-17 11:57",
-            "snippet": "[바이오스냅] 대웅제약, 자가면역질환 신약 임상 1상 결과 발표 연합뉴스"
+            "title": "[증시-마감] 엔비디아 실적 앞두고 코스피 5,000선 하회…외인 줄매도 - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kVDEyWHJQYm1DdlBYdkxmMC13dUFjNEdUT2dDdGFzMkk3M1lzWkZrQXZWenJhMms2aTV0R2JTaDI1c09scU42d3FJc2h5SGFnZjJ3b0EtRTJTWFR3YWk1bEMzWF9JRHhrc2JLMUFadTk?oc=5",
+            "source": "연합인포맥스",
+            "published": "11-17 16:13",
+            "snippet": "[증시-마감] 엔비디아 실적 앞두고 코스피 5,000선 하회…외인 줄매도 연합인포맥스 9개월 만에 5,000선 붕괴, 코스피에 무슨 일이? 네이버페이 머니스토리 \"코스피, 4600선 바닥권....마지막 진통, 버티며 분할매수\" 마켓인 6천피 붕괴 13거래일 만에…5천피도 무너졌다 매일경제 마켓 코스피, 9달여 만에 5천 선마저 내줘‥4,968로 마감 MBC 뉴스"
           }
         ],
         "서울 아파트값 하락세": [
@@ -190,14 +146,14 @@
             "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xOUdDX3lWajV2VjJDYkFwSG1IZ3FBR1lXeWUwcWVrQUNudlhnSlVscUpPU21adzNwb284b0JjbHZDdE9TS2l1SVVTdUFGS0haSktRQmJreGdoSV9MV3hUa2FLZTh1NG8y?oc=5",
             "source": "한겨레",
             "published": "11-17 19:07",
-            "snippet": "거래 줄고 매물 늘고…서울 아파트값 하락장 신호탄일까? 한겨레 강남 부동산 이번엔?...2027 세금데드라인 결정적 네이버페이 머니스토리 고가 약세·중저가 상승세… 서울 부동산 재편 가속 조선일보 성동·강동까지 번진 ‘강남 하락세’ … 한강벨트 25억대 매물 쏟아진 이유 [손품브리핑] 매일경제 \"11월 들어 손님 끊겼다\"…강남발 집값 조정 한강벨트로 뉴시스"
+            "snippet": "거래 줄고 매물 늘고…서울 아파트값 하락장 신호탄일까? 한겨레 강남 부동산 이번엔?...2027 세금데드라인 결정적 네이버페이 머니스토리 고가 약세·중저가 상승세… 서울 부동산 재편 가속 조선일보 성동·강동까지 번진 -강남 하락세-…한강벨트 25억대 매물 쏟아진 이유 [손품브리핑] 매일경제 \"92주 올랐는데 매물은 8만건 쌓여\"…서울 아파트 시장 덮친 '기현상' 뉴시스"
           },
           {
-            "title": "“서울서 집 구하기, 포기합니다”… 평균 전셋값, 사상 첫 5억원 넘었다 - 매일경제",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLSl9WUVBfTzRWQ1FFaUs1bTBDOUtkUWRxVGZodlVndXYtSkZKTXNacWZpUmpmT3N6VnA4XzdzNnJpLXlTWmpwZ1FCQUtIeHlIMU9mamRLSXc?oc=5",
-            "source": "매일경제",
-            "published": "11-17 14:09",
-            "snippet": "“서울서 집 구하기, 포기합니다”… 평균 전셋값, 사상 첫 5억원 넘었다 매일경제 ‘부처 이전 기대’ 세종 주택 매수 심리, 서울 앞질러 경향신문 수원 영통·화성 동탄 ‘날았다’…경기도 집값 상승률, 서울 앞질렀다 경기일보 지난달 서울 아파트값 상승세 둔화…전세 누적 상승률 10% 육박 KBS 뉴스 서울 주택 매매심리 6개월 만에 최저… 전국 전세심리는 올해 최고 Chosunbiz"
+            "title": "서울 집 사려면 월급 12년 꼬박 모아야‥월소득 5분의 1이 임대료 - MBC 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81ZWt2SmxpOHV2d1A4VXpHOHJwQlVvZ3VaWDFxVzVua1U5d2c4ekRKYWRpNDRqVzVnN1kwS1p1aS1QQlY1cVpDVG9VM2ZIbldjMWw0cFdUZXQwd29XSXdxLVcyVk5NSG00UVhQYkZvUjhIZ0VJ0gF0QVVfeXFMTjRBQ3FielRJQnBYZnY3ZFc1eU9ZYU9sd01ITTl0MG1nUWgzc1lsdTNKVm5uRHhvSElIeXdUWDFtZWV2YWlhMnpncWRUaFFGRlV0bnl3ZWFJcnFod1ZyTzI3MkY1WllCeEp2ekNMbEJoVXlQc3E?oc=5",
+            "source": "MBC 뉴스",
+            "published": "11-17 16:00",
+            "snippet": "서울 집 사려면 월급 12년 꼬박 모아야‥월소득 5분의 1이 임대료 MBC 뉴스 생애 최초 주택 마련에 ‘8년’…20년 만에 최장 기간 기후에너지데이터뱅크 \"소득 1/5이 임대료로\"…지난해 수도권 임차가구 월임대료 비중 19.7% - 머니투데이 머니투데이 세입자 월소득의 17%가 ‘집세’ 경향신문 월급 한 푼 안쓰고 11년8개월 모아야 서울에 내 집 동아일보"
           },
           {
             "title": "삼성서울병원, 수술 장면 맥락 인식 'AI 눈’ 개발 - MEDI:GATE NEWS",
@@ -207,25 +163,69 @@
             "snippet": "삼성서울병원, 수술 장면 맥락 인식 'AI 눈’ 개발 MEDI:GATE NEWS 새벽 3시 AI가 깨우는 삼성서울병원…데이터로 진료·수술 지연 '최소화' 전자신문 수술실부터 재활병동까지…의료현장 파고드는 K-로봇 지디넷코리아 수술 흐름까지 읽는 AI 개발…삼성서울병원, 로봇 수술 앞당긴다 뉴스1 로소타, AI 로봇에 외과의사 ‘술기’ 가르친다 [로보 인사이트] 서울경제"
           },
           {
+            "title": "“서울서 집 구하기, 포기합니다”… 평균 전셋값, 사상 첫 5억원 넘었다 - 매일경제",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLSl9WUVBfTzRWQ1FFaUs1bTBDOUtkUWRxVGZodlVndXYtSkZKTXNacWZpUmpmT3N6VnA4XzdzNnJpLXlTWmpwZ1FCQUtIeHlIMU9mamRLSXc?oc=5",
+            "source": "매일경제",
+            "published": "11-17 14:09",
+            "snippet": "“서울서 집 구하기, 포기합니다”… 평균 전셋값, 사상 첫 5억원 넘었다 매일경제 [그래픽] 서울·경기 집값 상승률 추이 연합뉴스 ‘부처 이전 기대’ 세종 주택 매수 심리, 서울 앞질러 경향신문 부산지역 부동산시장 소비심리지수 한 달 만에 하락 국제신문 강남3구 집값 주춤, 경기 남부는 강세…전셋값은 일제히 상승 뉴스핌"
+          },
+          {
             "title": "오세훈 \"재초환 재검토해야‥'공급부족은 서울시 책임, 늘면 정부 성과' 동의 못해\" - MBC 뉴스",
             "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8yaGFFZUtQbUFyb000dFRzVzEtSTFSZ1lTLUpXQ1F0aVVFX3h1blNzRDl2bXhmd2V3ek4zNWVXeEVldFF0Tm5Qek1sSHV4RTZMODlHUGZDYm8zU2Z5RWJsaHFuZVpIZENUdC1fMEFkM3NQbkhreUFJ0gF3QVVfeXFMUEVQWWdVSzE2ak1xQW1pMkk5YlRFVWVLNXJ5OFNmZWdkOEJzaVI4MnFmODlJWFE0MmJwX2NBRXFVcjY4c0N0cG55dzhoSTUwcG5qRjVjN1ZBcURLX1VPY3B1ckhZSXhLRFVwWFRYRzluaHJBQ1htU0k?oc=5",
             "source": "MBC 뉴스",
             "published": "11-17 14:34",
-            "snippet": "오세훈 \"재초환 재검토해야‥'공급부족은 서울시 책임, 늘면 정부 성과' 동의 못해\" MBC 뉴스 재건축에 1인당 최대 9억… 재초환 청구서 ‘집단 반기’ 대한경제 [기고]주택공급 발목 잡는 재건축부담금, 폐지가 답이다 - 머니투데이 머니투데이 오세훈 “재초환은 ‘이중과세’···제2의 종부세 논란 야기할 수 있어, 전면 재검토해야” 경향신문 오세훈 \"공급 부족하면 서울시 탓, 늘면 정부 성과? 동의 못해\" 연합뉴스"
+            "snippet": "오세훈 \"재초환 재검토해야‥'공급부족은 서울시 책임, 늘면 정부 성과' 동의 못해\" MBC 뉴스 “재건축 같은 평형 입주에 10억 더 내야할 판”… 미실현 이익에 부담금 논란 대한경제 재초환 폐지·완화론에 선그은 국토부… \"공급 영향 크지 않아\" - 머니투데이 머니투데이 [기로에 선 재초환] 팔지도 않은 집에 ‘수억 청구서’…보유·양도세까지 ‘삼중 부담’ 서울경제 오세훈 \"공급 부족하면 서울시 탓, 늘면 정부 성과? 동의 못해\" 연합뉴스"
           },
           {
-            "title": "분담금 4억에 재초환 4억… 대치 은마, 신축 빼면 서울 거래 최다 - Chosunbiz",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQlBPTHBZV0tJMDhnbTBoUU9QcW9KNWFTaE1EdVB4ZTlNc0Jic3Z0MnMzaGN3NEZhZVlMRDA0QUFUV0xweTM1djBoZ0Z6SENWUkNHS0lVQ2wyR1l0YzF0OUdWdUtZSTh5NFFPNS1Ed21OLWFXUF8zUHJRZ1dlSU9Ra2MzVFloNDNNUlIwbHo1RnVQbTVjVDluTdIBrAFBVV95cUxNQmFMZG9jVW11QnVPa1JrTFh4bVR1djU4NE9kX3VtM280dTZHeDFzNExKejN1QmRnalN4T1pkRkROd0E4TklXZXQydDExamN1SHV1bW9MVjd0MjItUDRHcmRBbjUxT19MV0QwRlh2SE50X3dTTE1vQ195M1pnTW5QTkFKdTRmNnVfN0lyeWRwcXM5LVVvMHVOaXdlb3BQUXNDOGxmcW1ucDRtMUFM?oc=5",
-            "source": "Chosunbiz",
-            "published": "11-17 06:04",
-            "snippet": "분담금 4억에 재초환 4억… 대치 은마, 신축 빼면 서울 거래 최다 Chosunbiz Google 뉴스에서 헤드라인 및 의견 더보기"
+            "title": "뉴욕증시 하락세 계속…S&P500 1%↓, 7월 이후 최저 - KBS 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GM05XNXEyTFQ4UVI3bU8teVZkZnFlMmpROW9yamoxaTJ3djB1b1NUVllFak1OYjgybE5Ebl9NaGtpeW5HUzk1VGN4Y3R5OGNGQlZtY010RkxielE?oc=5",
+            "source": "KBS 뉴스",
+            "published": "11-18 07:38",
+            "snippet": "뉴욕증시 하락세 계속…S&P500 1%↓, 7월 이후 최저 KBS 뉴스"
+          }
+        ],
+        "비만·치매 신약 임상 성과": [
+          {
+            "title": "동아에스티 비만신약 물질, 릴리와 감량 ‘비슷’ - 데일리메디",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yUHIwd0JzS0U0MkRxWGsxSFdPeHdJa2p5ZkhhQi1kc0RyRmlocFNLQTNsUXBlLXBEQVJBdHh0TERBX0E0YzRZUVNpWHRCcGliaC1EeDAxbTFKak95Wm1VQkN0T1lfQVRD?oc=5",
+            "source": "데일리메디",
+            "published": "11-17 17:50",
+            "snippet": "동아에스티 비만신약 물질, 릴리와 감량 ‘비슷’ 데일리메디 동아ST \"DA-1726, 레타트루타이드 대비 큰 혈당·유사 체중 감소 효과 확인\" - 머니투데이 머니투데이 동아ST·메타비아 \"비만치료제 전임상 연구 발표\" 뉴시스 MetaVia, 간질환 치료제 DA-1726 임상 1상 종료 Investing.com 한국어 동아에스티·메타비아, ‘DA-1726’과 레타트루타이드 동물시험 비교 결과 공개 주간한국"
           },
           {
-            "title": "뉴욕증시, 하락세로 전환…나스닥 1.08%↓ - 블루밍비트",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fWDlycVFTcmxka3pIQTl1cWRweE11XzloZU5fQTFELVNRQWZDODJPZml0RW5lN0lIcE1sanNWX21nOVViTW0xOFdGbXFfTWh6?oc=5",
-            "source": "블루밍비트",
-            "published": "11-18 03:06",
-            "snippet": "뉴욕증시, 하락세로 전환…나스닥 1.08%↓ 블루밍비트"
+            "title": "한미약품, 항암신약 2종 임상 1상 데이터 ESMO 발표 - MEDI:GATE NEWS",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13TEZuNGlEMktIWlUxalFHX2ZlRFc4VVJFZGx0UjgyVmdEUk04MHFLaE1XZDJrV0JvNUJUX1hQRHk5Ykh3QXdZaUVEeU9OVnMwMWlaOUpFZw?oc=5",
+            "source": "MEDI:GATE NEWS",
+            "published": "11-17 22:06",
+            "snippet": "한미약품, 항암신약 2종 임상 1상 데이터 ESMO 발표 MEDI:GATE NEWS 한미약품 \"차세대 항암제 2종, 임상 1상서 항종양 효과\" 연합뉴스 한미약품 ‘차세대 항암신약’ 글로벌 1상서 항종양 활성 확인 팜이데일리 한미약품 “차세대 항암신약 2종, 글로벌 1상서 초기 항암 효과·안전성 확인\" Chosunbiz 한미약품, 유럽종양학회에서 임상 1상 최신 데이터 2건 발표 뉴스타운"
+          },
+          {
+            "title": "아리바이오 \"AR1001, 글로벌 임상 3상 1차 유효성 목표 달성\" - MEDI:GATE NEWS",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54VFFZbEQ5elRoYUdIanhxTmZ6dkRoLWppUDFLYUNXMThUc2NGNGJmYmpGWFNhU1huMHVIU2ctYmY1WUpNTlVOZEVGN3hRbFVkRmdvdkd3VQ?oc=5",
+            "source": "MEDI:GATE NEWS",
+            "published": "11-17 22:17",
+            "snippet": "아리바이오 \"AR1001, 글로벌 임상 3상 1차 유효성 목표 달성\" MEDI:GATE NEWS 아리바이오 AR1001 먹는 치매 치료제 임상 3상 성공…국내 최초 글로벌 3상 독자 수행 성과 바이오타임즈 아리바이오 알츠하이머 신약 3상 엇갈린 평가...추가 임상 가능성도 제기 팜이데일리 [클리니컬 히스토리] 아리바이오, 단독요법 3상 성공…허가 범위 관건 Daum '먹는 치매약' 3상 성과에도...아리바이오 관련주 급락, 왜? - 머니투데이 "
+          },
+          {
+            "title": "휴온스 “먹는 비만약, 체중·체지방 감소 효과 확인” - 데일리메디",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wUFc0M1NTNVJPRktNcWdSUWRCd01CU2FWT0dCU3J3VEZuaEUzTVZpXy1EQS1xMV8ydWktN3NSb0FpWVZ0YjVUWVZsYnVSQWpNTFlNRUVaY3Nuc09waTRCU1FITmRReV9t?oc=5",
+            "source": "데일리메디",
+            "published": "11-18 05:41",
+            "snippet": "휴온스 “먹는 비만약, 체중·체지방 감소 효과 확인” 데일리메디 알테오젠 “月 1회 비만약, 동물실험서 지속성 확인” 동아비즈니스리뷰 DXVX, 美 학회서 경구용 비만약 연구 발표…글로벌 개발 본격화 매일경제 마켓 살 빼면서 근육 지키고 먹는 약까지…K비만약 개발 경쟁(종합) 연합뉴스 나이벡 비만 신약, 지방간·근육 지표 개선…2상서 GLP-1 병용 추진 팜이데일리"
+          },
+          {
+            "title": "디지털융합의약품 제도 마련됐지만…임상시험·허가자료 인정 기준은 '과제' - MEDI:GATE NEWS",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fOHl5YnVSSjFoZDNUOFd0VzRnYVhUb2VXSW41Q20zakQySjl6UUMwNTVITWQyNkdqTUhQd0RaT3Y4bGhjTnN5UkFzbjZ4MnNrSFhBZzNqQQ?oc=5",
+            "source": "MEDI:GATE NEWS",
+            "published": "11-18 07:41",
+            "snippet": "디지털융합의약품 제도 마련됐지만…임상시험·허가자료 인정 기준은 '과제' MEDI:GATE NEWS [보도참고자료] 디지털의료기기·디지털융합의약품 현장 중심 정책 간담회 개최 대한민국 정책브리핑 AI 의료기기 시장 진입 앞당긴다…식약처 '혁신의료기기포럼' 뉴스1 \"선제적 지원\"…식약처, 디지털융합의약품 간담회 뉴시스 “인공지능으로 인슐린 최적 용량 추천”…식약처, 디지털융합의약품 개발 지원 매일경제"
+          },
+          {
+            "title": "HK이노엔, 위식도역류질환 신약 '케이캡' 브라질 품목허가 획득 - MEDI:GATE NEWS",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qR1ZfTDNjeElLZzlBcmNGLUxlUks3cmc2S3B4Z3V4ZzFQSUJiaWQycXR1Q3hCanNZSWdteG4tVmlzaTVJSW01OW5hcktzb28tc3Qxa09CZw?oc=5",
+            "source": "MEDI:GATE NEWS",
+            "published": "11-17 10:07",
+            "snippet": "HK이노엔, 위식도역류질환 신약 '케이캡' 브라질 품목허가 획득 MEDI:GATE NEWS HK이노엔 ’케이캡’, 브라질 허가…중남미 공략 확대 연합뉴스TV HK이노엔 위장약 '케이캡' 브라질 허가…중남미 공략 가속 연합뉴스 HK이노엔 '케이캡', 1.1조 브라질 시장 뚫었다 전자신문 HK이노엔 케이캡, 브라질 품목허가 획득…중남미 공략 본격화 By EBN Investing.com 한국어"
           }
         ]
       },
@@ -234,461 +234,436 @@
           "코스피 5000선",
           "코스피 5000선 돌파"
         ],
-        "바이오 신약 임상 발표": [
-          "바이오 신약 혁명",
-          "바이오 신약 관련주",
-          "바이오 신약 규제 과학과",
-          "바이오 신약",
-          "바이오 신약 규제 과학과 약학과 차이",
-          "바이오 신약 연구원",
-          "바이오 신약 개발 과정",
-          "바이오 신약 규제과학과 디시"
-        ],
         "서울 아파트값 하락세": [
+          "서울 아파트값 87주 연속 상승 원인과 강북권 중저가 아파트 매수세 현황",
           "서울 아파트값",
           "서울 아파트값 상승률",
           "서울 아파트값 추이",
-          "서울 아파트값 87주 연속 상승 원인과 강북권 중저가 아파트 매수세 현황",
           "서울 아파트값 상승",
           "서울 아파트값 전망",
           "서울 아파트값 순위",
           "서울 아파트값 86주"
-        ]
+        ],
+        "비만·치매 신약 임상 성과": []
       }
     },
     "global": {
       "keywords": [
-        "젠슨 황 복귀설 파장",
-        "미 연준 AI 거품 경고",
-        "앤스로픽 IPO 흥행"
+        "S&P500 7월 이후 최저",
+        "미국 전산 시스템 장애",
+        "엔비디아 실적 경계감"
       ],
       "results": {
-        "젠슨 황 복귀설 파장": {
-          "headline": "젠슨 황 복귀 선언과 엔비디아발 글로벌 증시 변동성",
+        "S&P500 7월 이후 최저": {
+          "headline": "AI 불확실성에 7월 수준으로 후퇴한 S&P500",
           "facts": [
-            "젠슨 황이 이사회의 요청이 있을 경우 엔비디아 최고경영자(CEO)로 복귀하겠다는 의사를 밝히며 뉴욕증시와 글로벌 IT 업종이 크게 흔들렸다.",
-            "조지 소로스 등 미국의 주요 억만장자들이 젠슨 황의 퇴진설이 돌기 전 엔비디아 지분을 최대 20% 축소한 사실이 알려지며 매도세가 강화되었다.",
-            "미국 정부는 젠슨 황 스캔들과 맞물려 중국의 AI 반도체 원격 접속을 차단하는 등 대중국 기술 규제를 한층 강화하고 나섰다.",
-            "젠슨 황 복귀설과 앤스로픽 IPO 등 대외 악재가 겹치며 코스피 지수는 9개월 전 수준인 5000선 아래로 급락하는 후폭풍을 맞았다."
+            "뉴욕증시의 S&P500 지수가 1% 하락하며 지난 7월 이후 가장 낮은 수준으로 떨어졌다.",
+            "인공지능 산업에 대한 수익성 불확실성과 미국 내 잇따른 전산 장애 소식이 투자 심리를 급격히 위축시켰다.",
+            "엔비디아의 실적 발표를 앞두고 시장 전반에 경계감이 확산되면서 4거래일 연속 하락세를 이어갔다.",
+            "기술주 중심의 매도세가 지수 전체를 끌어내리며 여름 상승분을 대부분 반납하는 양상을 보였다."
           ],
           "watch": [
-            "엔비디아 이사회의 CEO 복귀 공식 요청 여부",
-            "미국 정부의 추가적인 대중국 AI 규제 조치",
-            "엔비디아 주가 변동에 따른 나스닥 지지선 확인"
+            "S&P500의 주요 기술적 지지선 회복 여부",
+            "엔비디아 실적 발표 후 기술주 반등 강도",
+            "미국 전산 장애 복구 완료 및 원인 규명 발표"
           ],
           "qna": [
             {
-              "q": "젠슨 황의 복귀 의사 표명이 시장에 불확실성으로 작용하는 이유는 무엇인가?",
-              "a": "CEO의 거취가 불분명해지면서 엔비디아의 장기 경영 전략과 리더십에 대한 의구심이 커졌기 때문이다. 특히 억만장자들의 선제적 지분 매각 사실이 드러나며 고점 신호로 해석되는 경향이 강해졌다."
+              "q": "S&P500이 7월 이후 최저치로 떨어진 결정적 트리거는 무엇인가?",
+              "a": "AI 기술주에 대한 과열 우려와 예상치 못한 전산 시스템 장애가 결합하며 시장의 펀더멘털 신뢰를 흔들었기 때문이다. 특히 대형 기술주들의 실적 지속성에 대한 의구심이 지수 하락의 촉매제가 되었다."
             },
             {
-              "q": "미국 정부가 AI 반도체 원격 접속까지 차단하며 규제 수위를 높인 배경은 무엇인가?",
-              "a": "중국이 클라우드 서비스를 통해 우회적으로 고성능 AI 칩을 사용하는 경로를 원천 봉쇄하기 위함이다. 이는 AI 기술 패권 경쟁에서 우위를 점하려는 안보적 목적과 기술 유출 방지 전략이 결합된 조치이다."
+              "q": "4거래일 연속 하락이 향후 뉴욕증시 추세에 미치는 영향은 무엇인가?",
+              "a": "단기 조정 국면을 넘어 중장기 하락 추세로의 전환 여부를 결정짓는 기술적 변곡점에 도달했음을 의미한다. 연속 하락은 투자자들의 손절매를 유도하여 하락 압력을 가중시키는 심리적 저항선을 형성한다."
             },
             {
-              "q": "젠슨 황 관련 이슈가 국내 반도체 기업들의 주가에 직접적인 타격을 준 메커니즘은 무엇인가?",
-              "a": "엔비디아는 국내 반도체 공급망의 핵심 수요처이므로 엔비디아의 경영 불안은 곧 국내 기업들의 수주 물량 감소 우려로 직결된다. 글로벌 AI 투자 심리 위축이 시가총액 비중이 높은 삼성전자와 SK하이닉스에 집중적인 매도세를 유발했다."
+              "q": "엔비디아 실적 경계감이 S&P500 지수 전체의 하락으로 번지는 이유는 무엇인가?",
+              "a": "엔비디아가 지수 내 차지하는 비중이 크고 AI 산업 생태계의 가늠자 역할을 하기 때문이다. 엔비디아의 실적 실망감이 전 업종의 AI 투자 위축으로 해석될 수 있다는 우려가 시장 전반에 확산된 결과이다."
             }
           ]
         },
-        "미 연준 AI 거품 경고": {
-          "headline": "미 연준의 AI 거품 공식 경고와 금융 시스템 리스크",
+        "미국 전산 시스템 장애": {
+          "headline": "5일간 이어진 전산 장애에 멈춰선 뉴욕증시",
           "facts": [
-            "미 연준 의장은 AI 투자 실패가 경기 둔화와 실업 증가로 이어질 수 있다고 경고하며 AI 기술에 대한 과도한 낙관론을 경계했다.",
-            "연준 조사 결과 대형 은행들의 AI 관련 위험 노출액이 1조 달러에 달하는 것으로 나타나 손실 확산에 따른 금융 불안정 가능성이 제기되었다.",
-            "AI 에이전트가 수분 내에 뱅크런을 유발할 수 있다는 분석과 함께 스테이블코인 확산이 금융 시스템의 취약성을 높일 수 있다는 경고가 나왔다.",
-            "IMF와 미 연준은 AI 투자 심리가 꺾일 경우 금융 시장 전반에 심각한 충격을 줄 수 있다는 점을 공식화하며 대비책 마련을 촉구했다."
+            "미국 내 주요 기술 인프라에서 닷새 동안 연쇄적인 시스템 장애가 발생하며 국가 안보와 경제 전반에 우려가 확산되고 있다.",
+            "국가안보국(NSA) 통신망 장애 소식까지 전해지며 투자자들의 불안 심리가 극에 달해 증시 하락을 부추겼다.",
+            "전산 장애로 인한 불확실성은 S&P500과 나스닥 지수를 4일 연속 하락세로 몰아넣는 주요 원인이 되었다.",
+            "기술적 결함이 단순 사고를 넘어 인프라 전반의 취약성 문제로 비화되면서 시장의 리스크 관리 비용이 증가하고 있다."
           ],
           "watch": [
-            "연준의 대형 은행 AI 리스크 관리 가이드라인 발표",
-            "AI 관련 기업들의 실적 가시성 확보 여부",
-            "스테이블코인 규제 법안 입법 속도"
+            "전산 장애의 구체적 원인 및 해킹 연루 여부",
+            "미 정부의 국가 기간 시설 보안 강화 대책",
+            "기술 기업들의 시스템 복구 및 안정화 비용 규모"
           ],
           "qna": [
             {
-              "q": "AI 에이전트가 어떻게 수분 내에 뱅크런을 유발할 수 있다는 것인가?",
-              "a": "AI가 실시간으로 시장 뉴스와 데이터를 분석해 위험 신호를 감지하면 인간보다 훨씬 빠른 속도로 대규모 자금 인출 명령을 실행하기 때문이다. 알고리즘에 의한 동시다발적 인출은 은행의 유동성 대응 능력을 순식간에 마비시킬 위험이 있다."
+              "q": "닷새간 이어진 전산 장애가 단순 기술 오류 이상의 의미를 갖는 이유는 무엇인가?",
+              "a": "국가 핵심 통신망인 NSA까지 영향을 받으면서 사이버 보안 체계 전반에 대한 구조적 불신을 야기했기 때문이다. 이는 단순한 불편을 넘어 국가 안보와 직결된 인프라의 취약성을 드러낸 사건으로 평가된다."
             },
             {
-              "q": "대형 은행들의 AI 위험 노출액 1조 달러가 실제 손실로 이어질 수 있는 시나리오는 무엇인가?",
-              "a": "AI 기업들에 제공한 대출이나 투자가 기술 상용화 실패로 부실화될 경우 발생한다. AI 수익 모델이 증명되지 않은 상태에서 과잉 투자가 지속되다가 투심이 급격히 냉각되면 은행 자산 건전성이 급격히 악화될 수 있다."
+              "q": "전산 장애 불확실성이 나스닥 지수에 더 큰 타격을 주는 경로는 무엇인가?",
+              "a": "클라우드와 네트워크 의존도가 높은 빅테크 기업들의 서비스 중단 우려가 실적 악화 전망으로 직결되기 때문이다. 시스템 신뢰도 하락은 사용자 이탈과 운영 비용 상승으로 이어져 기술주 밸류에이션에 부정적인 영향을 미친다."
             },
             {
-              "q": "연준의 경고가 향후 금리 결정 경로에 어떤 변수로 작용할 수 있는가?",
-              "a": "AI 거품 붕괴가 실물 경제의 고용 악화로 이어질 경우 연준은 경기 부양을 위해 금리 인하 카드를 꺼낼 수밖에 없다. 즉, AI 리스크는 단순한 기술주 이슈를 넘어 거시 경제의 하방 압력을 높이는 핵심 변수로 부상했다."
+              "q": "이번 사태가 향후 미국 기술 기업들의 비용 구조에 어떤 변화를 가져오는가?",
+              "a": "시스템 중단 리스크를 줄이기 위한 인프라 이중화와 보안 솔루션 투자 확대가 강제되면서 단기적인 수익성 저하 요인이 될 수 있다. 리스크 관리가 기업 경영의 핵심 과제로 부상하며 관련 보안 비용 지출이 크게 늘어날 전망이다."
             }
           ]
         },
-        "앤스로픽 IPO 흥행": {
-          "headline": "앤스로픽 IPO 흥행과 AI 시장 신뢰도 시험대",
+        "엔비디아 실적 경계감": {
+          "headline": "엔비디아 실적 발표 앞두고 얼어붙은 글로벌 증시",
           "facts": [
-            "생성형 AI 스타트업 앤스로픽의 기업공개(IPO) 공모가가 희망 밴드 상단인 78달러를 웃돌 것으로 예상되며 시장의 뜨거운 관심을 받고 있다.",
-            "공모주 청약 결과 모집 수량의 6배가 넘는 주문이 몰리며 월가 투자자들의 강력한 베팅이 이어지고 있음이 확인되었다.",
-            "앤스로픽 주식은 오는 19일부터 나스닥 시장에서 본격적인 거래가 시작될 예정이며 이는 AI 거품론을 잠재울 분수령이 될 전망이다.",
-            "시장 전문가들은 엔비디아의 실적 발표와 앤스로픽의 IPO 성과가 향후 AI 산업에 대한 투자 지속 여부를 결정할 핵심 시험대가 될 것으로 보고 있다."
+            "엔비디아의 실적 발표를 앞두고 글로벌 증시가 극도의 경계감을 보이며 일제히 하락 마감했다.",
+            "나스닥 지수는 0.74% 하락했으며 국내 코스피 시장에서도 외국인들이 줄매도에 나서며 5,000선이 무너졌다.",
+            "시장은 엔비디아의 매출 성장세가 둔화될 경우 AI 산업 전반의 거품이 꺼질 수 있다는 공포에 휩싸여 있다.",
+            "국가안보국 통신망 장애 등 대외 악재까지 겹치며 실적 발표 전 위험 자산을 회피하려는 심리가 강하게 나타났다."
           ],
           "watch": [
-            "19일 나스닥 상장 첫날 주가 등락률",
-            "앤스로픽의 최종 공모가 확정 수치",
-            "엔비디아 실적 발표와의 상관관계"
+            "엔비디아의 4분기 매출 가이던스 수치",
+            "AI 칩 수요 지속성 및 차세대 제품 출시 일정",
+            "실적 발표 직후 시간외 주가 및 선물 지수 움직임"
           ],
           "qna": [
             {
-              "q": "AI 거품론 속에서도 앤스로픽 IPO에 6배의 주문이 몰린 이유는 무엇인가?",
-              "a": "앤스로픽이 보유한 고도화된 언어 모델 기술력과 오픈AI의 강력한 대항마라는 상징성이 투자자들을 유인했기 때문이다. 기술의 실질적 활용 가능성을 높게 평가한 기관 투자자들이 장기 성장성에 베팅한 결과로 풀이된다."
+              "q": "엔비디아 실적에 대한 경계감이 유독 이번 분기에 강하게 나타나는 이유는 무엇인가?",
+              "a": "그동안의 가파른 주가 상승을 정당화할 만큼의 압도적인 실적 성장이 지속될 수 있는지에 대한 시장의 의구심이 임계점에 도달했기 때문이다. 기대치가 최고조에 달한 상황에서 작은 실망감도 큰 폭의 주가 조정을 유발할 수 있다는 공포가 작용하고 있다."
             },
             {
-              "q": "앤스로픽의 상장 성과가 엔비디아 실적과 함께 AI 시장의 신뢰도를 결정하는 이유는 무엇인가?",
-              "a": "엔비디아가 하드웨어 공급 측면의 지표라면 앤스로픽은 소프트웨어 서비스의 시장 가치를 증명하는 지표이기 때문이다. 두 지표가 모두 긍정적일 경우 AI 산업 전반의 펀더멘털이 견고하다는 신뢰를 줄 수 있다."
+              "q": "엔비디아 실적 결과가 국내 반도체 밸류체인 기업들에 미치는 영향은 무엇인가?",
+              "a": "실적 가이던스에 따라 HBM 등 고대역폭 메모리를 공급하는 국내 기업들의 수주 물량과 주가 향방이 결정되는 동조화 현상이 심화될 것이다. 엔비디아의 성장이 꺾일 경우 국내 반도체 수출 전선에도 직접적인 타격이 불가피하다."
             },
             {
-              "q": "공모가가 희망 밴드 상단을 돌파할 경우 발생할 수 있는 시장의 연쇄 반응은 무엇인가?",
-              "a": "상장 대기 중인 다른 AI 스타트업들의 몸값이 동반 상승하며 IPO 시장에 훈풍이 불 수 있다. 또한 AI 기술주 전반에 대한 저가 매수세 유입을 촉발해 최근의 하락세를 반전시키는 트리거가 될 가능성이 존재한다."
+              "q": "실적 발표 전 외국인 투자자들이 코스피에서 대규모 매도를 선택한 전략적 배경은 무엇인가?",
+              "a": "불확실성이 큰 이벤트 직전에 신흥국 시장의 비중을 줄여 포트폴리오의 변동성을 관리하려는 리스크 오프 전략의 일환이다. 글로벌 대장주의 실적 확인 전까지는 안전 자산 선호 심리가 강화되며 자금 유출이 지속되는 경향이 있다."
             }
           ]
         }
       },
       "news": {
-        "젠슨 황 복귀설 파장": [
+        "S&P500 7월 이후 최저": [
           {
-            "title": "젠슨 황 복귀설에 흔들린 뉴욕증시…유가도 급락 - 네이버페이 머니스토리",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hUFg3N3JZX0R6ZjdtbDhwQlNkcW1ISHVmOGJ6UktodXotUVJrMzhVYTg0NWxRdW9RWmU4UXk1RllGVS1OOV9taVRncnJUemNyaGM1Wl9iS2I?oc=5",
-            "source": "네이버페이 머니스토리",
-            "published": "11-17 08:49",
-            "snippet": "젠슨 황 복귀설에 흔들린 뉴욕증시…유가도 급락 네이버페이 머니스토리"
-          },
-          {
-            "title": "[속보] 젠슨 황 “이사회 요청하면 엔비디아 최고경영자로 복귀하겠다” - 한겨레",
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94ejVFV25EVFY2RHBFZ0ZJcGNCbnN5bXphTTZuWUVxekZMRERNbUNoOWVQZ1J6RWFoR0wtSDRnYlQ3V3BZRlNhNmFVME4ySDNzY001MEFLLWpxRXpWRHRsQXhCaHh1Y2c2N3ZhZWlkSQ?oc=5",
-            "source": "한겨레",
-            "published": "11-18 01:31",
-            "snippet": "[속보] 젠슨 황 “이사회 요청하면 엔비디아 최고경영자로 복귀하겠다” 한겨레 “요리학교 출신 젠슨 황 맏딸 ‘사내 갑질’…직원들 퇴사-공황 발작” 동아일보 '불륜스캔들' 젠슨황 복귀의사 공식화…\"이사회 요청시 응할것\"(종합) 연합뉴스 “임원들에 고성·압박, 12명 줄퇴사···엔비디아 경영진도 꼼짝 못 한 젠슨 황 딸은 사실상 ‘아버지 비서실장’” 경향신문 AI생태계, 젠슨 황 없어도 돈이 돌까⋯ ‘엔비디아 순환금융’ 시험대 국민일보"
-          },
-          {
-            "title": "'젠슨 황 스캔들' 美, AI반도체 中 원격접속 차단...트럼프 \"스파이 아닐 수도\" - KBC광주방송",
-            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WLUg2NTRISjNMeWZxenVrZ2pEV1htbUoyQXlMWkZMR2VTM2dnZHJGV3pqc1Yta3pCRlFpZlc2OTY2Wlh4MVpHNVRfZm9ZQkhOMjB4QnJ4LWp5V09maHhQOE5B?oc=5",
-            "source": "KBC광주방송",
-            "published": "11-17 06:09",
-            "snippet": "'젠슨 황 스캔들' 美, AI반도체 中 원격접속 차단...트럼프 \"스파이 아닐 수도\" KBC광주방송 美, 동남아 우회 AI칩 '패스트트랙' 닫았다…韓 파운드리·후공정 악영향 우려 전자신문 美, AI칩 中유출 규제 강화… 젠슨 황 통해 드러난 구멍 뒤늦게 땜질 동아일보 트럼프 행정부, 빅테크 반발에도 중국산 데이터센터 부품 수입 금지 강행 - 머니투데이 머니투데이 미, 대중 AI 제재 기습 발표...순방 앞둔 '보여주기' 논란 YTN 사이언스"
-          },
-          {
-            "title": "美 억만장자들, 젠슨 황 퇴진 전 엔비디아 털기…소로스도 20% 줄여 - 한국경제",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3X3pPT2dlWjZ5OFJwczVKSUpueHo5Y1VfUVRCRjNWVV9nU2hWOURXa1pxLUVIbkRIbldkV2FfeG1sUWFXc2hUZG1yTFY1dE1mZVpNNmhBZHNRdw?oc=5",
-            "source": "한국경제",
-            "published": "11-17 10:25",
-            "snippet": "美 억만장자들, 젠슨 황 퇴진 전 엔비디아 털기…소로스도 20% 줄여 한국경제 인텔, 엔비디아 지분 25% 축소·협력 불확실성에 주가 2%↓ 마켓인 젠슨 황, 8개월 전 '14조 주식' 가족 신탁으로…증여세 無 - 머니투데이 머니투데이 Nokia 주가, Nvidia의 지분 절반 이상 매각 후 4% 이상 하락 Investing.com 한국어 [미국 특징주] 엔비디아, 인텔 지분 25% 축소…스페이스X 최대 투자처로 부상 뉴스핌"
-          },
-          {
-            "title": "‘젠슨황 후폭풍’에 9개월 전으로 돌아간 코스피 - KBS 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2Z0ZSeFFlbVh3YlJLVTlYMy1lM01JUDdSei1TQ3VBMGtGVFBMYWc2MzdHNmlscHRMeFZkUGc4a2o3Zkp4Slp2d0hCeTU0NTdBQm5nZmJOUXNyY2s?oc=5",
+            "title": "뉴욕증시 하락세 계속…S&P500 1%↓, 7월 이후 최저 - KBS 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GM05XNXEyTFQ4UVI3bU8teVZkZnFlMmpROW9yamoxaTJ3djB1b1NUVllFak1OYjgybE5Ebl9NaGtpeW5HUzk1VGN4Y3R5OGNGQlZtY010RkxielE?oc=5",
             "source": "KBS 뉴스",
-            "published": "11-17 21:16",
-            "snippet": "‘젠슨황 후폭풍’에 9개월 전으로 돌아간 코스피 KBS 뉴스"
+            "published": "11-18 07:38",
+            "snippet": "뉴욕증시 하락세 계속…S&P500 1%↓, 7월 이후 최저 KBS 뉴스"
           },
           {
-            "title": "젠슨황·앤트로픽·금리…'삼중고'에 5,000선 무너진 코스피(종합) - 연합뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80S0JhamIzTVpRTUI4eU9JWmhsb1FiSWRxQmRLeDN6Ry1HckJWYldvVDB2a2ptaDFsdkI5b1VfMWxUNmNZLXpMbTNjRzZiSThIT2JYR05LbWZfYkXSAWBBVV95cUxPSUFUWGszTDR2YVFNclZIbmw2MXF3eWVRSjd6WTJFWkh5dDRkUXI3MDE5SXJqTzZKdnhQQXJ5UGVyTWVQOEhMUUtzMXZmcEVDNldmckliZnhLMnRvdlJfd1E?oc=5",
+            "title": "AI 불확실성에 전산 장애까지... S&P500 7월 이후 최저 [뉴욕증시] - 매일일보",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZYmtBbllDSG0yekM5YUJPMGxOeVFsbVQtQVREbm1jQmZMOWRSTUdBSFNBSV9YTllvblRVYmpvdUpPNEtpRTlibXVGRFpoSkJSME9zZjdiajRUYmVnSkxuQ0VqS0U?oc=5",
+            "source": "매일일보",
+            "published": "11-18 08:29",
+            "snippet": "AI 불확실성에 전산 장애까지... S&P500 7월 이후 최저 [뉴욕증시] 매일일보"
+          },
+          {
+            "title": "뉴욕증시, 하락세 계속…S&P500 1%↓, 7월 이후 최저 - 연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iN0ZjT3ZkZXIzdlBkdWs0b2Y2S2JRSmVoMzVpYk9VUkpzdUpRbGM2T1JQaWlaMDFZTl9VdS1GOU42ZWNJNmxoTEp2Z3cydFdBT0NfZ29VbXZJQXZpQVFtS9IBYEFVX3lxTE5iN0ZjT3ZkZXIzdlBkdWs0b2Y2S2JRSmVoMzVpYk9VUkpzdUpRbGM2T1JQaWlaMDFZTl9VdS1GOU42ZWNJNmxoTEp2Z3cydFdBT0NfZ29VbXZJQXZpQVFtSw?oc=5",
             "source": "연합뉴스",
-            "published": "11-17 16:33",
-            "snippet": "젠슨황·앤트로픽·금리…'삼중고'에 5,000선 무너진 코스피(종합) 연합뉴스"
+            "published": "11-18 06:23",
+            "snippet": "뉴욕증시, 하락세 계속…S&P500 1%↓, 7월 이후 최저 연합뉴스"
+          },
+          {
+            "title": "뉴욕증시, 하락세 계속‥S&P500 1%↓, 7월 이후 최저 - MBC 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GbTZFWHFCT0JkZ2ktdTk1THZ6R0FGVzA1bS1nWVV4bWs4dEZ6aG9oRENwSHctQ05SQ3g1TXNOSnQ1ZDJxeWdJWUFfUlpETTFyNGtTRndTX2JYeU9rSkFadFhBMjFpaG9HVERwaHVUY0cxNkdo0gF0QVVfeXFMUDE3UmdvR2RwRGNIUU9FVHItTWVKSlVRQ1U4bS10aUN6YzNDNlRqSXF5ang0QTVRX053bXN4bDZYVDlCSGVTS3VQemRleE10dGMyMUo5bUhMM3Faa20xTENHcjhrNUZvZFNob0FHUVZoQ3ByZ2I?oc=5",
+            "source": "MBC 뉴스",
+            "published": "11-18 06:47",
+            "snippet": "뉴욕증시, 하락세 계속‥S&P500 1%↓, 7월 이후 최저 MBC 뉴스"
+          },
+          {
+            "title": "뉴욕증시 하락세 이어져…S&P500, 7월 이후 최저 - 연합뉴스TV",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9saHM0REVoeExGejhsNUFhRURYa1lQTGtCYk1GZUVIcTgwVk5raUxzMmJnamQ4dHBUUldNVXpWWG9GeDRza2pWdFZzeWplSVVrbFF2RU1fdUdBMUFzcGpFVDZKVzhldWs?oc=5",
+            "source": "연합뉴스TV",
+            "published": "11-18 06:25",
+            "snippet": "뉴욕증시 하락세 이어져…S&P500, 7월 이후 최저 연합뉴스TV"
+          },
+          {
+            "title": "뉴욕증시, 하락세 계속…S&P500 1%↓, 7월 이후 최저(종합) - 연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uWTZVbWtTeHNCNnRsblZwd1daVWNIWHRmUi15SFZ5cGNZUnZnc25RMFh2Z1hwSjdQQ3QzcExGMXNhVU5wVC14RGxYQ2dpcUVZRGJ2Zm1kTV9BUUHSAWBBVV95cUxQM0NaTzNpV0pvS0FPMVFsOXdnSDhpaVp1eWVfelRDU2ZVM2NzZExCX0VVNFZ1eTJjU0F2SWFhQ3F0Z2F6TENybEhmYkhDaFJFZGs0NFVoM0VrS1dJZTlCMkw?oc=5",
+            "source": "연합뉴스",
+            "published": "11-18 07:28",
+            "snippet": "뉴욕증시, 하락세 계속…S&P500 1%↓, 7월 이후 최저(종합) 연합뉴스"
           }
         ],
-        "미 연준 AI 거품 경고": [
+        "미국 전산 시스템 장애": [
           {
-            "title": "[사설]美연준 AI거품 경고, 우린 대비하나 - 머니투데이 - 머니투데이",
-            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ybGdEMmpFQXpHUWFMaUdXb0hZa0JWLS1Nbi1vTHpQN3oxR2tDS0QyVnMxQUp2eVBuZWtoMldGMThKQ0hVSnQ4TnFrNzR4RUNiX2xZQWZVa3kwVUFXcm8zU0NkTkFiWHIxOXdwRmtnMmFuR2JoU3AxONIBfkFVX3lxTE51eWt0aF9CWlpmRlQ4dEVNRzJJWXI5MEg4ZVRKUUZfZXY4bk92NW9meW5rUkJKTFRIdEF0RUxMWm44UEdXbFBhWVVfUmJDUjB0bjlvQ1V1bW1FTlNpd01XSlo4MzZlWkV1ZWo5Q3pJdXZBU3hNNFExdV9CUmNRdw?oc=5",
-            "source": "머니투데이",
-            "published": "11-18 04:01",
-            "snippet": "[사설]美연준 AI거품 경고, 우린 대비하나 - 머니투데이 머니투데이"
+            "title": "미국 기술 인프라에 무슨 일이? 닷새간 잇따른 시스템 장애에 우려 확산 - Investing.com 한국어",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjeDFvbmhjSmlDYnZvc3pkX193UEk5eUpRTGtjdDAyQXJWT0NXODJlSUktZkZleUNZX2FnZ01JQ3FKUDNqMmc5ZU9RdlY4eTFkMmxvWmNmY2NPVmdmWEVqTHMzVUVQM0dvUmRnX0gzUEI?oc=5",
+            "source": "Investing.com 한국어",
+            "published": "11-18 00:37",
+            "snippet": "미국 기술 인프라에 무슨 일이? 닷새간 잇따른 시스템 장애에 우려 확산 Investing.com 한국어 MS 먹통-공항 마비 이어 이번엔 금융망… 美 최대은행 JP모건 전산장애-거래 차질 동아일보 “외부 공격 아니”라지만 “무언가 일어나고 있다”···닷새 동안 미국 곳곳 시스템 마비 경향신문 이번에는 은행?...줄줄이 터지는 사고에 미 산업계 불안감 확산 YTN 사이언스 美 최대은행 체이스 서비스 장애…\"사이버 공격 증거는 없어\" 연합뉴스"
           },
           {
-            "title": "미 연준 의장, AI 투자 실패 위험 경고…“경기 둔화·실업 증가로 이어질 수도” - 뉴스21 통신",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fME5Pd19wUmF6UTJKWGJEOFRjNThMY0hEbVV4OUppM2dPOFZHUW52N253SUZXRFRjSm01bGJEQ055bF8yZGRPd0hwVHhyWXpHX0VIVnVR?oc=5",
-            "source": "뉴스21 통신",
-            "published": "11-17 17:25",
-            "snippet": "미 연준 의장, AI 투자 실패 위험 경고…“경기 둔화·실업 증가로 이어질 수도” 뉴스21 통신"
+            "title": "[뉴욕증시] 美 잇따른 전산장애에 S&P 500·나스닥 4일째↓ - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hSHR1LTh6RjJNQ19LMGhqVWlwT3Z2Y3dzeGFxdGlBWkJWdl9YcTctZG50ZW5pdE1CR3VHRzFSUlBJTF9SR2NKTWpCQ2M2eDZTanVra0tmSjNRWS1ZUTA3ekhqQ3YtbFJ5TGJ6emlmNC0?oc=5",
+            "source": "연합인포맥스",
+            "published": "11-18 06:34",
+            "snippet": "[뉴욕증시] 美 잇따른 전산장애에 S&P 500·나스닥 4일째↓ 연합인포맥스"
           },
           {
-            "title": "미 연준 \"대형은행 AI 위험노출액 1조달러\"…손실확산 경고 - 연합뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WbVlKTUpCY2V6d0RUakVpSmtodV82eEZyQkpIeVRZWVpFOFV1aUg2eS1pZ1lndDZxU1lNQlFpOTdDekNPUWFFOEQyOVV4YWxhVFRaUzdZLV9hUkHSAWBBVV95cUxPNWJzR19jSTY3TXNmMEwtWjB0SFEzOV9LaDFTVGtIM2FPVTMtd3NlQnozX0JOYzBMNGtSUlFzc2poa3UtUVNrU01ndWFLXzIzUkFpQllxVzE2cWRnUTBNTFo?oc=5",
-            "source": "연합뉴스",
-            "published": "11-17 10:39",
-            "snippet": "미 연준 \"대형은행 AI 위험노출액 1조달러\"…손실확산 경고 연합뉴스"
+            "title": "AI 불확실성에 전산 장애까지... S&P500 7월 이후 최저 [뉴욕증시] - 매일일보",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZYmtBbllDSG0yekM5YUJPMGxOeVFsbVQtQVREbm1jQmZMOWRSTUdBSFNBSV9YTllvblRVYmpvdUpPNEtpRTlibXVGRFpoSkJSME9zZjdiajRUYmVnSkxuQ0VqS0U?oc=5",
+            "source": "매일일보",
+            "published": "11-18 08:29",
+            "snippet": "AI 불확실성에 전산 장애까지... S&P500 7월 이후 최저 [뉴욕증시] 매일일보"
           },
           {
-            "title": "IMF도 美연준도 “AI 투심 흔들리면 금융시장 위험” 경고 - 국민일보",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GdTV6WkZUdFp2NHRUUS1Qb3VOeHRPMmNjR3VOY0NBS19keEd5SHJiT3A2LU5HdjVvX2tzTl9ETGtUeDNMa1JxX0gzalhMTTAwNzlfcndTbm4?oc=5",
-            "source": "국민일보",
-            "published": "11-17 18:44",
-            "snippet": "IMF도 美연준도 “AI 투심 흔들리면 금융시장 위험” 경고 국민일보"
+            "title": "[해외시황] 뉴욕증시, 엔비디아 실적 경계·전산 장애에 '하락'…나스닥 0.74%↓ - 프라임경제",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zSVlEa1ozazJYbGNCT1NqY183WlVFVUs0UExsdG9UOE1fX2JZemhMTGZfT3hPQ0Vucm1GMDNGY0tQYVZpNXNYV1QwUi0zMVlCNFRLOEpzUGFkeDRSOUxkNw?oc=5",
+            "source": "프라임경제",
+            "published": "11-18 08:41",
+            "snippet": "[해외시황] 뉴욕증시, 엔비디아 실적 경계·전산 장애에 '하락'…나스닥 0.74%↓ 프라임경제"
           },
           {
-            "title": "美 연준 이사 \"AI 에이전트, 수분 내 뱅크런 유발 가능\"…스테이블코인 확산에 경고 - 블루밍비트",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9icGRBd2xLaTJESlVwM0NwR2sxa2pURG9jSmU5Uzk2bUlGY0FhTjlHQXF6bHctZkJteWJiS0V4VVloVlY1dnhBcTNZNGpONnZB?oc=5",
-            "source": "블루밍비트",
-            "published": "11-17 20:47",
-            "snippet": "美 연준 이사 \"AI 에이전트, 수분 내 뱅크런 유발 가능\"…스테이블코인 확산에 경고 블루밍비트"
+            "title": "[뉴욕증시-1보] 美 잇따른 전산장애에 S&P 500·나스닥 4일째↓ | - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHaGJjMW9NSnJSVU5HVnAzcXJkZEdzNVpVQkZkQ012cFU3bFpoc2JsR1lSanJuQW0wUDZadUVpWll1bE85UnFMUVdZaUh2ckUyd0R6eFpqNmo3TVM2d2FVdFNLVW9jVkJDUlBnMVczQW1oeHBT?oc=5",
+            "source": "연합인포맥스",
+            "published": "11-18 06:16",
+            "snippet": "[뉴욕증시-1보] 美 잇따른 전산장애에 S&P 500·나스닥 4일째↓ | 연합인포맥스"
           },
           {
-            "title": "미 연준 \"AI로 금융 불안정 위험 커져\" 공식 경고…'뛰어난 능력이 문제' - 이코리아",
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAydjlFSFBmaDVEalVGZ3pyZXNEbF9nWWVadkx4WVZMZzNIZk1GSHdXOW90TWlzWXU3UHRBczQ4alJxZXFHUER6REloMTFLcU9DdlBiczN6YjdvX3FBdjVNNnFxOVp1WnlESVNNNlF4Yw?oc=5",
-            "source": "이코리아",
-            "published": "11-17 17:14",
-            "snippet": "미 연준 \"AI로 금융 불안정 위험 커져\" 공식 경고…'뛰어난 능력이 문제' 이코리아"
+            "title": "[3분증시] 뉴욕 증시, 전산장애 불안에 동반 하락 - 연합뉴스 한민족센터",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uMVpCN2VMc0N0cVlnX19xamx3ZGUtOE54QkFqLWt6REtvZ3d4VndPUk9JWEVLMFI0VHhnNUNwRDBJdTVRN1E5d3Y1QmNXa2FlTk1KOXc2c09qeUpLR2tYX3F4cHU0dW5ZQkxnSEo4MElqc01i?oc=5",
+            "source": "연합뉴스 한민족센터",
+            "published": "11-18 07:48",
+            "snippet": "[3분증시] 뉴욕 증시, 전산장애 불안에 동반 하락 연합뉴스 한민족센터"
           }
         ],
-        "앤스로픽 IPO 흥행": [
+        "엔비디아 실적 경계감": [
           {
-            "title": "뉴욕증시 프리뷰, 미 주가지수 선물 혼조…엔비디아 실적·앤스로픽 IPO 앞두고 기술주 반등 - 뉴스핌",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pbWdjTUFnRFlndVdNaklFLTRmVWt0ZDU5dG45SnNzRlZXZlV5blBrV01yaW5pV3VrX0JtNWpUVmp2a014VjhUc0ZMYUR5Y2JLU1pDSUxCUG9Ia2JO?oc=5",
-            "source": "뉴스핌",
-            "published": "11-17 22:29",
-            "snippet": "뉴욕증시 프리뷰, 미 주가지수 선물 혼조…엔비디아 실적·앤스로픽 IPO 앞두고 기술주 반등 뉴스핌"
+            "title": "[오늘의 글로벌마켓] 뉴욕증시, 엔비디아 실적 앞둔 경계감 속 하락세 - 오피니언뉴스",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FaHUwd1RmY3JxekVmcnJiU1RXZERXMW43VUpUQS1PdjYwMHhHR2M3WkxqUk5lbE45Mm50ZWY0eUpKN3BGT1Rwby1Ga3BSUGh6UnVkbXJNVEZaTTVsUXlNNUhoNEJZOWRpeDFMeVFpZ0RhZw?oc=5",
+            "source": "오피니언뉴스",
+            "published": "11-18 07:43",
+            "snippet": "[오늘의 글로벌마켓] 뉴욕증시, 엔비디아 실적 앞둔 경계감 속 하락세 오피니언뉴스"
           },
           {
-            "title": "\"앤트로픽 IPO 공모가 '희망밴드 상단' 78달러 웃돌 듯…19일부터 거래\" - 연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaanNYVGs4R1VSbmxHS1MtZERJVG9aSVI2ZFNOQkFyUC15Ty1KMFFsZ0l2YXdHa2JMcVVyU21kcGY4LTNKMzBWbEE0X214SjAwUFZkdUVnTjJqQ2FjZ3dGZWtyYk9oR0k5YmZNZnRoZjI?oc=5",
-            "source": "연합인포맥스",
-            "published": "11-17 23:48",
-            "snippet": "\"앤트로픽 IPO 공모가 '희망밴드 상단' 78달러 웃돌 듯…19일부터 거래\" 연합인포맥스 앤트로픽 공모가 희망범위 상단 웃돌듯…흥행 기대감 연합뉴스 앤트로픽 공모가 희망범위 상단 웃돌 듯‥흥행 기대감 MBC 뉴스 [단독] 국민연금, 앤트로픽 간접 보유 1조원대…간접 보유만 1200만주 - 머니투데이 머니투데이 \"이 신호 뜨면 주식 팔아라?\"…앤트로픽 상장 앞두고 나온 경고 [분석+] 한국경제"
+            "title": "뉴욕증시, 엔비디아 실적 발표 경계감·국가안보국(NSA)통신망 장애 투심악화에 하락 - 한국증권신문",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjcGlzVm5zVzJRenZJWnkydDlFQkI3dUVMalBYckJlR3IxVk9PdURQT2Z4U09CY21CbjZGcXpJMEoyVnVQTG51TVBUTEp3am9mNkUwOElqb3RsUHhHUFJJbnhBSWtHWmtTU1Br?oc=5",
+            "source": "한국증권신문",
+            "published": "11-18 08:40",
+            "snippet": "뉴욕증시, 엔비디아 실적 발표 경계감·국가안보국(NSA)통신망 장애 투심악화에 하락 한국증권신문"
           },
           {
-            "title": "[앤트로픽 IPO-①] 6배 주문의 실체…월가의 베팅은 어디까지 - 연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TV29iWFBUV1NlWEx2b2owN0owYXhIU3JyQ0hjYUFKUy1LeUtnc3l0TmZMaDliVHI2QjhPaEdXT2dTLVduM3ZOZnhxcUxqTjdjVTRQcUNqZm9oNU01NVozdkdBSEJrcDZHTmlGbU5mTmY?oc=5",
-            "source": "연합인포맥스",
-            "published": "11-17 09:00",
-            "snippet": "[앤트로픽 IPO-①] 6배 주문의 실체…월가의 베팅은 어디까지 연합인포맥스"
-          },
-          {
-            "title": "윈드워드, 나스닥 IPO 1.75억弗..\"장기지속 TSLP 항체\" - 바이오스펙테이터",
-            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QV1pEUWd4ckF6NFdGeDJhc3RGQldGTjJRLXFBOVpKeUtIZXZGbmZvZEd1cXROMzBzbHFHVFJHeUJISHdZdGVqNHIwSEtnRlNwbGJvSHdFdw?oc=5",
-            "source": "바이오스펙테이터",
-            "published": "11-17 10:02",
-            "snippet": "윈드워드, 나스닥 IPO 1.75억弗..\"장기지속 TSLP 항체\" 바이오스펙테이터"
-          },
-          {
-            "title": "AI거품론 무색…앤스로픽 공모주에 6배 넘는 주문 몰려 - 한국경제",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42Qk84aVplZnZUbWk1WmZ5Y3RhaGswbm9UZW5IYnVJQU9KZzRUUHpUOW9PeXZiR2xqeVljakVHa3ZiOWZtTFQyekdLeUd4QXFCTGJkQWVDRU1sQQ?oc=5",
+            "title": "엔비디아 실적 경계감에 일제히 하락…S&P500, 7월 이후 최저 [뉴욕증시 브리핑] - 한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FMmdrMWNtb0UtdzhiLVE0aVByY0xxYjh0SDFCanM3OHpFd2otY3pRX1h3OEx4YllsMkk3RmtNcUd0d3l6SUJoaDU5VFpYRlc3aXY1RVFxak1UZw?oc=5",
             "source": "한국경제",
-            "published": "11-17 23:45",
-            "snippet": "AI거품론 무색…앤스로픽 공모주에 6배 넘는 주문 몰려 한국경제"
+            "published": "11-18 07:09",
+            "snippet": "엔비디아 실적 경계감에 일제히 하락…S&P500, 7월 이후 최저 [뉴욕증시 브리핑] 한국경제"
           },
           {
-            "title": "다음 주 전망: 엔비디아 실적과 앤스로픽 IPO가 AI 시장 신뢰도 시험대에 - VT Markets",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOXI1NEhoQzk2T3dwUWxocXl0LWN3aHAtY2ZIYXd0blJ3eldmVGV0QmJCVXVfdlQycTJxQlM4ZW5tdXFCYzE2enQ4RnlLMGRuc1dPVGpGUHVwcE5Fa2doT3NpZXoweXVOUlppaUwzTnVqeldLOGxDWWtiVFRHTGpRNjE0dXl0dFFXa21DcWRjcHZPOHZyOWJJTExiZEJHWURxdEdmZ0IySmVOMFdYWnNYRi02Mzg?oc=5",
-            "source": "VT Markets",
-            "published": "11-17 01:11",
-            "snippet": "다음 주 전망: 엔비디아 실적과 앤스로픽 IPO가 AI 시장 신뢰도 시험대에 VT Markets"
+            "title": "[속보]뉴욕증시, 엔비디아 실적 경계감에 하락 마감…나스닥 0.74%↓ - 뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJNV9vZEp6bG1scG4tLUtaNVFoRF85N2dfaDNjWUxPU09rZ1E3NVV1RlBpXzBzR0RkdDdpYWJQdUFPQmNQVmxQdFFQcm9mQngyY09hR3FKZ0kyTmFsaGlVUtIBeEFVX3lxTFB5MzVzcVlGczFGMTNFM2FlQmNmYUR5NDNFWlhud1V5V25pWms0OTlra0NWMFZQOGFSRnM3bnNRa1hKOC1vRXM3U2UzRnRudzQ1QU5VNE94dlU0cHdzTFVOS25Ra1U0Q2hSdHAzdW1Wczk5OFJ3eEw4YQ?oc=5",
+            "source": "뉴시스",
+            "published": "11-18 06:01",
+            "snippet": "[속보]뉴욕증시, 엔비디아 실적 경계감에 하락 마감…나스닥 0.74%↓ 뉴시스"
+          },
+          {
+            "title": "뉴욕증시, 엔비디아 실적 경계감에 하락 마감…나스닥 0.74%↓ - 뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRVXd4b3JVQ0NUZ1ZxMXE2OWRnbnhuNzNjZ0lUYWFaS05kSWdsOHlPSzk0RmFtRFJBVTUtWGo0LTBfSlNQeEVUVUlzcHdVeW1zOHRQc2JOX3hncE40SjA5R9IBeEFVX3lxTE1COXFlWlpaVGwzODdkcEY1WVVlWjJLZUs3eUVBTjVTZTUtRnltR3NRUVhXbGZoMU1JTUgxWlRzNHViMlV2cGF4QTVOZnVnZTNLWXhGTzZJYXJLakhJOVVfRU53cGs2V3Zhbl82bHJnNXZaQ21YaHBpMQ?oc=5",
+            "source": "뉴시스",
+            "published": "11-18 06:35",
+            "snippet": "뉴욕증시, 엔비디아 실적 경계감에 하락 마감…나스닥 0.74%↓ 뉴시스"
+          },
+          {
+            "title": "[증시-마감] 엔비디아 실적 앞두고 코스피 5,000선 하회…외인 줄매도 - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kVDEyWHJQYm1DdlBYdkxmMC13dUFjNEdUT2dDdGFzMkk3M1lzWkZrQXZWenJhMms2aTV0R2JTaDI1c09scU42d3FJc2h5SGFnZjJ3b0EtRTJTWFR3YWk1bEMzWF9JRHhrc2JLMUFadTk?oc=5",
+            "source": "연합인포맥스",
+            "published": "11-17 16:13",
+            "snippet": "[증시-마감] 엔비디아 실적 앞두고 코스피 5,000선 하회…외인 줄매도 연합인포맥스 9개월 만에 5,000선 붕괴, 코스피에 무슨 일이? 네이버페이 머니스토리 \"코스피, 4600선 바닥권....마지막 진통, 버티며 분할매수\" 마켓인 6천피 붕괴 13거래일 만에…5천피도 무너졌다 매일경제 마켓 코스피, 9달여 만에 5천 선마저 내줘‥4,968로 마감 MBC 뉴스"
           }
         ]
       },
       "queries": {
-        "젠슨 황 복귀설 파장": [
-          "젠슨 황",
-          "젠슨 황 부인",
-          "젠슨 황 가족 사진",
-          "젠슨 황 한국어",
-          "젠슨 황 재산",
-          "젠슨 황 자녀",
-          "젠슨 황 국적",
-          "젠슨 황 나이"
+        "S&P500 7월 이후 최저": [],
+        "미국 전산 시스템 장애": [
+          "미국 주식 전산 오류"
         ],
-        "미 연준 AI 거품 경고": [
-          "미 연준 금리",
-          "미 연준",
-          "미 연준 금리 인상",
-          "미 연준의장",
-          "미 연준 금리 발표일",
-          "미 연준 기준금리",
-          "미 연준 금리 전망",
-          "미 연준 발표"
-        ],
-        "앤스로픽 IPO 흥행": [
-          "앤트로픽 ipo",
-          "앤트로픽 ipo 일정",
-          "앤트로픽 ipo 연기",
-          "앤트로픽 ipo 날짜",
-          "앤트로픽 ipo 규모",
-          "앤트로픽 ipo 가치",
-          "앤트로픽 ipo 투자설명서",
-          "앤트로픽 ipo 신청"
+        "엔비디아 실적 경계감": [
+          "엔비디아 실적발표 일정",
+          "엔비디아 실적발표",
+          "엔비디아 실적발표일",
+          "엔비디아 실적",
+          "엔비디아 실적 예상",
+          "엔비디아 실적 발표 4 분기",
+          "엔비디아 실적 발표 일정 2026",
+          "엔비디아 실적 발표 후 주가"
         ]
       }
     },
     "keywords": [
       "코스피 5000선 붕괴",
-      "바이오 신약 임상 발표",
       "서울 아파트값 하락세",
-      "젠슨 황 복귀설 파장",
-      "미 연준 AI 거품 경고",
-      "앤스로픽 IPO 흥행"
+      "비만·치매 신약 임상 성과",
+      "S&P500 7월 이후 최저",
+      "미국 전산 시스템 장애",
+      "엔비디아 실적 경계감"
     ],
     "results": {
       "코스피 5000선 붕괴": {
-        "headline": "코스피 5000선 붕괴와 9개월 만의 최저치",
+        "headline": "젠슨 황 사임에 5000선 무너진 코스피",
         "facts": [
-          "코스피 지수가 전 거래일 대비 2.59% 하락하며 심리적 지지선인 5000선이 무너졌으며 이는 9개월 만에 기록한 최저 수준이다.",
-          "외국인 투자자들의 대규모 매도세가 지수 하락을 주도했으며 반도체 업종에 이어 금융과 조선주까지 동반 약세를 보였다.",
-          "미국 반도체주 하락과 젠슨 황 복귀설, 앤스로픽 IPO 등 대외 변수가 복합적으로 작용하며 투자 심리가 급격히 위축되었다.",
-          "시장에서는 급격한 낙폭 이후 반등하는 트램펄린 효과를 기대하고 있으나 역자산효과에 따른 내수 위축 우려가 커지고 있다."
+          "외국인이 1조 4,000억 원 규모의 매도세를 보이며 코스피 지수가 5,000선 아래로 하락 마감했다.",
+          "젠슨 황의 사임 소식과 엔비디아 실적 발표를 앞둔 경계감이 시장의 하방 압력을 가중시킨 주요 원인으로 꼽힌다.",
+          "지수 하락에 따른 역자산효과 우려가 커지면서 소비 위축 등 실물 경제로의 파급을 막기 위한 대책 마련 목소리가 높다.",
+          "시장은 엔비디아의 매출 폭증 여부가 5,000선 회복의 결정적 분기점이 될 것으로 보고 치열한 고지전을 벌이고 있다."
         ],
         "watch": [
-          "외국인 순매도세 진정 여부",
-          "반도체 및 금융주 실적 반등 지표",
-          "정부의 역자산효과 방어 대책 발표"
+          "엔비디아 실적 발표 및 향후 가이던스",
+          "외국인 순매도세 지속 여부와 수급 변화",
+          "국내 상장사 실적 반등 및 금리 변동 추이"
         ],
         "qna": [
           {
-            "q": "반도체주 하락이 금융과 조선주까지 연쇄적으로 끌어내린 배경은 무엇인가?",
-            "a": "미국 반도체 지수 급락으로 촉발된 외국인의 위험자산 회피 심리가 국내 증시 전반으로 확산되었기 때문이다. 특히 시가총액 상위권인 반도체주가 무너지자 지수 방어력이 약해지며 업종 구분 없는 투매 현상이 나타났다."
+            "q": "젠슨 황 사임이 국내 증시에 즉각적인 충격을 준 이유는 무엇인가?",
+            "a": "글로벌 AI 산업의 상징적 인물인 젠슨 황의 부재가 엔비디아의 리더십 공백과 사업 연속성 우려를 낳았기 때문이다. 반도체 비중이 압도적인 코스피 시장 특성상 대장주의 흔들림이 지수 전체의 투매로 이어졌다."
           },
           {
-            "q": "코스피 5000선 붕괴가 실물 경제에 미치는 역자산효과의 경로는 어떻게 나타나는가?",
-            "a": "주식 가치 하락으로 가계의 가처분 소득이 줄어들었다고 느끼게 되어 소비 지출을 줄이는 경로로 작동한다. 이는 내수 경기 둔화로 이어져 기업 실적을 다시 악화시키는 악순환의 고리를 형성할 가능성이 크다."
+            "q": "외국인의 1조 4,000억 원대 매도가 시장 수급에 미치는 구체적 경로는 무엇인가?",
+            "a": "대형주 중심의 집중 매도가 지수 하락을 주도하며 개인 투자자의 심리적 지지선을 무너뜨리는 결과를 초래한다. 이는 추가적인 반대매매 위험을 높이고 시장의 자생적 반등 동력을 약화시키는 연쇄 반응을 일으킨다."
           },
           {
-            "q": "기술적 분석 측면에서 언급된 트램펄린 효과가 발생하기 위한 전제 조건은 무엇인가?",
-            "a": "단기 과매도 구간 진입에 따른 저가 매수세 유입과 함께 대외 불확실성인 미 연준의 금리 스탠스가 안정되어야 한다. 외국인 수급이 매수 우위로 전환되는 시점이 기술적 반등의 분기점이 될 것으로 보인다."
-          }
-        ]
-      },
-      "바이오 신약 임상 발표": {
-        "headline": "K-바이오 신약 임상 성공 및 글로벌 허가 릴레이",
-        "facts": [
-          "아리바이오는 치매 치료제 후보물질 AR1001의 글로벌 임상 3상에서 1차 유효성 평가 목표를 달성하며 상용화 가능성을 높였다.",
-          "한미약품은 유럽종양학회(ESMO)에서 항암 신약 2종의 임상 1상 데이터를 발표하며 차세대 항암제 개발 성과를 공개했다.",
-          "온코닉테라퓨틱스는 세마글루타이드와 병용 시 근육 손실을 방지하는 후보물질의 비임상 결과를 발표해 비만 치료 시장의 주목을 받았다.",
-          "HK이노엔의 위식도역류질환 신약 케이캡이 브라질에서 품목 허가를 획득하며 남미 시장 진출을 위한 교두보를 확보했다."
-        ],
-        "watch": [
-          "AR1001의 글로벌 품목 허가 신청 일정",
-          "케이캡의 브라질 현지 출시 및 매출 추이",
-          "한미약품 항암제 임상 2상 진입 여부"
-        ],
-        "qna": [
-          {
-            "q": "아리바이오 AR1001의 임상 3상 유효성 달성이 치매 치료제 시장에서 갖는 의미는 무엇인가?",
-            "a": "기존 치료제 대비 복용 편의성과 안전성을 확보한 경구용 치료제로서의 경쟁력을 입증한 결과이다. 글로벌 임상 3상 성공은 국내 바이오 기업의 신약 개발 역량이 세계적 수준에 도달했음을 시사한다."
-          },
-          {
-            "q": "온코닉테라퓨틱스가 발표한 근육보존 후보물질이 비만 치료제 시장의 게임 체인저가 될 수 있는 이유는 무엇인가?",
-            "a": "기존 GLP-1 계열 비만 치료제의 최대 단점인 근육량 감소 문제를 해결할 수 있는 병용 요법이기 때문이다. 체지방은 줄이면서 근육은 유지하려는 시장 수요를 충족시켜 치료 가치를 높일 수 있다."
-          },
-          {
-            "q": "HK이노엔 케이캡의 브라질 품목 허가가 국내 제약 산업의 글로벌 영토 확장에 미치는 영향은 무엇인가?",
-            "a": "세계 10대 제약 시장 중 하나인 브라질 진출은 국산 신약의 글로벌 블록버스터 성장을 가속화하는 계기가 된다. 이는 다른 남미 국가들로의 추가 허가 및 수출 확대에 긍정적인 레퍼런스로 작용한다."
+            "q": "5,000선 붕괴가 실물 경제의 역자산효과로 이어지는 메커니즘은 무엇인가?",
+            "a": "주식 가치 하락으로 가계의 가처분 자산이 줄어들면 소비 심리가 급격히 위축되는 현상이 나타난다. 자산 가치 하락이 내수 경기 침체로 이어져 기업 실적을 다시 악화시키는 악순환의 고리가 형성될 수 있다."
           }
         ]
       },
       "서울 아파트값 하락세": {
-        "headline": "거래 절벽과 매물 증가 속 서울 아파트값 하락 신호탄",
+        "headline": "거래 절벽 속 하락 신호탄 쏜 서울 아파트",
         "facts": [
-          "서울 아파트 시장에서 거래량이 급감하고 매물이 쌓이면서 본격적인 가격 하락세로 전환될 수 있다는 우려가 확산되고 있다.",
-          "서울 아파트 평균 전셋값이 사상 처음으로 5억 원을 돌파하며 서민들의 주거비 부담이 가중되고 내 집 마련 포기 사례가 늘고 있다.",
-          "대치동 은마아파트 등 주요 재건축 단지에서 분담금과 재건축 초과이익 환수금이 각각 4억 원에 달하는 등 비용 부담이 현실화되었다.",
-          "오세훈 서울시장은 주택 공급 부족의 책임을 지적하며 재건축 초과이익 환수제에 대한 전면적인 재검토가 필요하다는 입장을 밝혔다."
+          "서울 아파트 시장에서 거래량이 줄고 매물이 쌓이면서 본격적인 가격 하락장의 전조 현상이 나타나고 있다.",
+          "서울에서 집을 마련하려면 월급을 12년 동안 한 푼도 쓰지 않고 모아야 할 정도로 주거비 부담이 한계치에 도달했다.",
+          "평균 전셋값이 사상 처음으로 5억 원을 돌파하며 세입자들이 서울 외곽으로 밀려나는 현상이 가속화되고 있다.",
+          "서울시는 공급 부족 책임론에 선을 그으며 재건축 초과이익 환수제 등 규제 재검토를 정부에 강력히 요구했다."
         ],
         "watch": [
+          "서울 아파트 매물 적체 추이 및 거래량 변동",
           "재건축 초과이익 환수제 개편 논의 향방",
-          "서울 아파트 매물 적체량 변화 추이",
-          "전세자금 대출 금리 변동성"
+          "전세가율 변동에 따른 매매가 하방 압력 강도"
         ],
         "qna": [
           {
-            "q": "매물은 늘어나는데 거래량은 줄어드는 현상이 서울 아파트 시장에 시사하는 바는 무엇인가?",
-            "a": "매수자와 매도자 간의 희망 가격 격차가 커지며 시장이 관망세로 돌아섰음을 의미한다. 고금리 지속과 대출 규제 강화로 인해 실수요자들의 구매력이 한계에 도달한 결과로 분석된다."
+            "q": "매물 증가와 거래 감소가 동시에 발생하는 현상은 하락장의 확정적 신호인가?",
+            "a": "매수 대기자들이 고점 인식을 공유하며 관망세로 돌아선 반면 매도자들은 처분을 서두르기 시작한 수급 불균형의 결과이다. 가격 조정이 이루어지지 않은 상태에서 매물만 쌓이는 현상은 전형적인 하락 전환의 초기 단계로 해석된다."
           },
           {
-            "q": "재건축 단지에서 발생하는 고액의 분담금과 환수금이 공급 시장에 미치는 영향은 무엇인가?",
-            "a": "조합원들의 자금 부담이 커지면서 재건축 사업 속도가 지연되거나 중단되는 사례가 늘어날 수 있다. 이는 장기적으로 서울 도심 내 신축 아파트 공급 부족을 심화시켜 가격 불안 요인으로 작용할 가능성이 있다."
+            "q": "전셋값 5억 원 돌파가 매매 시장에 미치는 파급 효과는 무엇인가?",
+            "a": "전세 자금 마련이 어려워진 수요자들이 매매로 전환하기보다 서울 외곽으로 이탈하는 '탈서울' 현상을 유발한다. 이는 도심 내 주거 수요 기반을 약화시켜 장기적으로 매매 가격의 하향 안정을 압박하는 요인이 된다."
           },
           {
-            "q": "평균 전셋값 5억 원 돌파가 매매 시장으로의 수요 전이를 차단하는 이유는 무엇인가?",
-            "a": "전세가 상승이 매매가를 밀어 올리는 과거 공식과 달리 현재는 대출 규제로 인해 전세 자금 마련조차 버거운 상황이다. 주거비 부담 증가가 가계 저축력을 떨어뜨려 매매 시장으로 진입할 수 있는 동력을 약화시키고 있다."
+            "q": "오세훈 시장이 재초환 재검토를 주장하는 근거와 시장 영향은 무엇인가?",
+            "a": "과도한 환수금이 정비사업의 수익성을 악화시켜 민간 공급 물량 확보를 가로막고 있다는 판단에 근거한다. 규제 완화가 실현될 경우 재건축 추진 속도는 빨라질 수 있으나 단기적인 투기 수요 유입 가능성도 상존한다."
           }
         ]
       },
-      "젠슨 황 복귀설 파장": {
-        "headline": "젠슨 황 복귀 선언과 엔비디아발 글로벌 증시 변동성",
+      "비만·치매 신약 임상 성과": {
+        "headline": "K-바이오 비만·치매 신약 글로벌 임상 순항",
         "facts": [
-          "젠슨 황이 이사회의 요청이 있을 경우 엔비디아 최고경영자(CEO)로 복귀하겠다는 의사를 밝히며 뉴욕증시와 글로벌 IT 업종이 크게 흔들렸다.",
-          "조지 소로스 등 미국의 주요 억만장자들이 젠슨 황의 퇴진설이 돌기 전 엔비디아 지분을 최대 20% 축소한 사실이 알려지며 매도세가 강화되었다.",
-          "미국 정부는 젠슨 황 스캔들과 맞물려 중국의 AI 반도체 원격 접속을 차단하는 등 대중국 기술 규제를 한층 강화하고 나섰다.",
-          "젠슨 황 복귀설과 앤스로픽 IPO 등 대외 악재가 겹치며 코스피 지수는 9개월 전 수준인 5000선 아래로 급락하는 후폭풍을 맞았다."
+          "동아에스티의 비만 신약 후보물질이 글로벌 제약사 릴리의 제품과 유사한 수준의 체중 감량 효과를 보이며 주목받고 있다.",
+          "아리바이오는 치매 치료제 AR1001의 글로벌 임상 3상에서 1차 유효성 평가 목표를 달성하며 상용화 가능성을 높였다.",
+          "휴온스는 편의성을 높인 먹는 비만 치료제의 체중 및 체지방 감소 효과를 확인하며 임상 성과를 발표했다.",
+          "HK이노엔의 위식도역류질환 신약 케이캡은 브라질에서 품목 허가를 획득하며 남미 시장 진출의 교두보를 마련했다."
         ],
         "watch": [
-          "엔비디아 이사회의 CEO 복귀 공식 요청 여부",
-          "미국 정부의 추가적인 대중국 AI 규제 조치",
-          "엔비디아 주가 변동에 따른 나스닥 지지선 확인"
+          "아리바이오 AR1001의 최종 품목 허가 일정",
+          "동아에스티 비만약의 후속 임상 데이터 발표",
+          "디지털융합의약품 임상 및 허가 기준 마련 추이"
         ],
         "qna": [
           {
-            "q": "젠슨 황의 복귀 의사 표명이 시장에 불확실성으로 작용하는 이유는 무엇인가?",
-            "a": "CEO의 거취가 불분명해지면서 엔비디아의 장기 경영 전략과 리더십에 대한 의구심이 커졌기 때문이다. 특히 억만장자들의 선제적 지분 매각 사실이 드러나며 고점 신호로 해석되는 경향이 강해졌다."
+            "q": "동아에스티 비만 신약이 릴리와 비슷한 감량 효과를 보인 것이 시장에서 갖는 의미는 무엇인가?",
+            "a": "글로벌 선두 주자와의 기술 격차를 획기적으로 좁혔음을 증명하며 향후 기술 수출이나 공동 개발 협상에서 유리한 고지를 점할 수 있는 근거가 된다. 이는 국내 바이오 기업의 R&D 역량이 글로벌 수준에 도달했음을 시사한다."
           },
           {
-            "q": "미국 정부가 AI 반도체 원격 접속까지 차단하며 규제 수위를 높인 배경은 무엇인가?",
-            "a": "중국이 클라우드 서비스를 통해 우회적으로 고성능 AI 칩을 사용하는 경로를 원천 봉쇄하기 위함이다. 이는 AI 기술 패권 경쟁에서 우위를 점하려는 안보적 목적과 기술 유출 방지 전략이 결합된 조치이다."
+            "q": "아리바이오의 임상 3상 유효성 달성이 치매 치료제 시장에 가져올 변화는 무엇인가?",
+            "a": "난치병으로 분류되던 치매 분야에서 국산 신약이 글로벌 표준 치료제 대열에 합류할 수 있는 전기를 마련한 것이다. 임상 3상 성공은 실제 처방으로 이어질 가능성이 매우 높음을 의미하며 기업 가치 재평가의 핵심 동력이 된다."
           },
           {
-            "q": "젠슨 황 관련 이슈가 국내 반도체 기업들의 주가에 직접적인 타격을 준 메커니즘은 무엇인가?",
-            "a": "엔비디아는 국내 반도체 공급망의 핵심 수요처이므로 엔비디아의 경영 불안은 곧 국내 기업들의 수주 물량 감소 우려로 직결된다. 글로벌 AI 투자 심리 위축이 시가총액 비중이 높은 삼성전자와 SK하이닉스에 집중적인 매도세를 유발했다."
+            "q": "먹는 비만약 개발이 기존 주사제 중심 시장 판도를 어떻게 바꾸는가?",
+            "a": "투약 편의성을 획기적으로 개선해 환자 순응도를 높임으로써 비만 치료 시장의 저변을 대폭 확대할 것으로 전망된다. 주사제에 거부감을 느끼던 잠재적 수요층을 흡수하여 시장 점유율을 빠르게 확보할 수 있는 강력한 무기가 된다."
           }
         ]
       },
-      "미 연준 AI 거품 경고": {
-        "headline": "미 연준의 AI 거품 공식 경고와 금융 시스템 리스크",
+      "S&P500 7월 이후 최저": {
+        "headline": "AI 불확실성에 7월 수준으로 후퇴한 S&P500",
         "facts": [
-          "미 연준 의장은 AI 투자 실패가 경기 둔화와 실업 증가로 이어질 수 있다고 경고하며 AI 기술에 대한 과도한 낙관론을 경계했다.",
-          "연준 조사 결과 대형 은행들의 AI 관련 위험 노출액이 1조 달러에 달하는 것으로 나타나 손실 확산에 따른 금융 불안정 가능성이 제기되었다.",
-          "AI 에이전트가 수분 내에 뱅크런을 유발할 수 있다는 분석과 함께 스테이블코인 확산이 금융 시스템의 취약성을 높일 수 있다는 경고가 나왔다.",
-          "IMF와 미 연준은 AI 투자 심리가 꺾일 경우 금융 시장 전반에 심각한 충격을 줄 수 있다는 점을 공식화하며 대비책 마련을 촉구했다."
+          "뉴욕증시의 S&P500 지수가 1% 하락하며 지난 7월 이후 가장 낮은 수준으로 떨어졌다.",
+          "인공지능 산업에 대한 수익성 불확실성과 미국 내 잇따른 전산 장애 소식이 투자 심리를 급격히 위축시켰다.",
+          "엔비디아의 실적 발표를 앞두고 시장 전반에 경계감이 확산되면서 4거래일 연속 하락세를 이어갔다.",
+          "기술주 중심의 매도세가 지수 전체를 끌어내리며 여름 상승분을 대부분 반납하는 양상을 보였다."
         ],
         "watch": [
-          "연준의 대형 은행 AI 리스크 관리 가이드라인 발표",
-          "AI 관련 기업들의 실적 가시성 확보 여부",
-          "스테이블코인 규제 법안 입법 속도"
+          "S&P500의 주요 기술적 지지선 회복 여부",
+          "엔비디아 실적 발표 후 기술주 반등 강도",
+          "미국 전산 장애 복구 완료 및 원인 규명 발표"
         ],
         "qna": [
           {
-            "q": "AI 에이전트가 어떻게 수분 내에 뱅크런을 유발할 수 있다는 것인가?",
-            "a": "AI가 실시간으로 시장 뉴스와 데이터를 분석해 위험 신호를 감지하면 인간보다 훨씬 빠른 속도로 대규모 자금 인출 명령을 실행하기 때문이다. 알고리즘에 의한 동시다발적 인출은 은행의 유동성 대응 능력을 순식간에 마비시킬 위험이 있다."
+            "q": "S&P500이 7월 이후 최저치로 떨어진 결정적 트리거는 무엇인가?",
+            "a": "AI 기술주에 대한 과열 우려와 예상치 못한 전산 시스템 장애가 결합하며 시장의 펀더멘털 신뢰를 흔들었기 때문이다. 특히 대형 기술주들의 실적 지속성에 대한 의구심이 지수 하락의 촉매제가 되었다."
           },
           {
-            "q": "대형 은행들의 AI 위험 노출액 1조 달러가 실제 손실로 이어질 수 있는 시나리오는 무엇인가?",
-            "a": "AI 기업들에 제공한 대출이나 투자가 기술 상용화 실패로 부실화될 경우 발생한다. AI 수익 모델이 증명되지 않은 상태에서 과잉 투자가 지속되다가 투심이 급격히 냉각되면 은행 자산 건전성이 급격히 악화될 수 있다."
+            "q": "4거래일 연속 하락이 향후 뉴욕증시 추세에 미치는 영향은 무엇인가?",
+            "a": "단기 조정 국면을 넘어 중장기 하락 추세로의 전환 여부를 결정짓는 기술적 변곡점에 도달했음을 의미한다. 연속 하락은 투자자들의 손절매를 유도하여 하락 압력을 가중시키는 심리적 저항선을 형성한다."
           },
           {
-            "q": "연준의 경고가 향후 금리 결정 경로에 어떤 변수로 작용할 수 있는가?",
-            "a": "AI 거품 붕괴가 실물 경제의 고용 악화로 이어질 경우 연준은 경기 부양을 위해 금리 인하 카드를 꺼낼 수밖에 없다. 즉, AI 리스크는 단순한 기술주 이슈를 넘어 거시 경제의 하방 압력을 높이는 핵심 변수로 부상했다."
+            "q": "엔비디아 실적 경계감이 S&P500 지수 전체의 하락으로 번지는 이유는 무엇인가?",
+            "a": "엔비디아가 지수 내 차지하는 비중이 크고 AI 산업 생태계의 가늠자 역할을 하기 때문이다. 엔비디아의 실적 실망감이 전 업종의 AI 투자 위축으로 해석될 수 있다는 우려가 시장 전반에 확산된 결과이다."
           }
         ]
       },
-      "앤스로픽 IPO 흥행": {
-        "headline": "앤스로픽 IPO 흥행과 AI 시장 신뢰도 시험대",
+      "미국 전산 시스템 장애": {
+        "headline": "5일간 이어진 전산 장애에 멈춰선 뉴욕증시",
         "facts": [
-          "생성형 AI 스타트업 앤스로픽의 기업공개(IPO) 공모가가 희망 밴드 상단인 78달러를 웃돌 것으로 예상되며 시장의 뜨거운 관심을 받고 있다.",
-          "공모주 청약 결과 모집 수량의 6배가 넘는 주문이 몰리며 월가 투자자들의 강력한 베팅이 이어지고 있음이 확인되었다.",
-          "앤스로픽 주식은 오는 19일부터 나스닥 시장에서 본격적인 거래가 시작될 예정이며 이는 AI 거품론을 잠재울 분수령이 될 전망이다.",
-          "시장 전문가들은 엔비디아의 실적 발표와 앤스로픽의 IPO 성과가 향후 AI 산업에 대한 투자 지속 여부를 결정할 핵심 시험대가 될 것으로 보고 있다."
+          "미국 내 주요 기술 인프라에서 닷새 동안 연쇄적인 시스템 장애가 발생하며 국가 안보와 경제 전반에 우려가 확산되고 있다.",
+          "국가안보국(NSA) 통신망 장애 소식까지 전해지며 투자자들의 불안 심리가 극에 달해 증시 하락을 부추겼다.",
+          "전산 장애로 인한 불확실성은 S&P500과 나스닥 지수를 4일 연속 하락세로 몰아넣는 주요 원인이 되었다.",
+          "기술적 결함이 단순 사고를 넘어 인프라 전반의 취약성 문제로 비화되면서 시장의 리스크 관리 비용이 증가하고 있다."
         ],
         "watch": [
-          "19일 나스닥 상장 첫날 주가 등락률",
-          "앤스로픽의 최종 공모가 확정 수치",
-          "엔비디아 실적 발표와의 상관관계"
+          "전산 장애의 구체적 원인 및 해킹 연루 여부",
+          "미 정부의 국가 기간 시설 보안 강화 대책",
+          "기술 기업들의 시스템 복구 및 안정화 비용 규모"
         ],
         "qna": [
           {
-            "q": "AI 거품론 속에서도 앤스로픽 IPO에 6배의 주문이 몰린 이유는 무엇인가?",
-            "a": "앤스로픽이 보유한 고도화된 언어 모델 기술력과 오픈AI의 강력한 대항마라는 상징성이 투자자들을 유인했기 때문이다. 기술의 실질적 활용 가능성을 높게 평가한 기관 투자자들이 장기 성장성에 베팅한 결과로 풀이된다."
+            "q": "닷새간 이어진 전산 장애가 단순 기술 오류 이상의 의미를 갖는 이유는 무엇인가?",
+            "a": "국가 핵심 통신망인 NSA까지 영향을 받으면서 사이버 보안 체계 전반에 대한 구조적 불신을 야기했기 때문이다. 이는 단순한 불편을 넘어 국가 안보와 직결된 인프라의 취약성을 드러낸 사건으로 평가된다."
           },
           {
-            "q": "앤스로픽의 상장 성과가 엔비디아 실적과 함께 AI 시장의 신뢰도를 결정하는 이유는 무엇인가?",
-            "a": "엔비디아가 하드웨어 공급 측면의 지표라면 앤스로픽은 소프트웨어 서비스의 시장 가치를 증명하는 지표이기 때문이다. 두 지표가 모두 긍정적일 경우 AI 산업 전반의 펀더멘털이 견고하다는 신뢰를 줄 수 있다."
+            "q": "전산 장애 불확실성이 나스닥 지수에 더 큰 타격을 주는 경로는 무엇인가?",
+            "a": "클라우드와 네트워크 의존도가 높은 빅테크 기업들의 서비스 중단 우려가 실적 악화 전망으로 직결되기 때문이다. 시스템 신뢰도 하락은 사용자 이탈과 운영 비용 상승으로 이어져 기술주 밸류에이션에 부정적인 영향을 미친다."
           },
           {
-            "q": "공모가가 희망 밴드 상단을 돌파할 경우 발생할 수 있는 시장의 연쇄 반응은 무엇인가?",
-            "a": "상장 대기 중인 다른 AI 스타트업들의 몸값이 동반 상승하며 IPO 시장에 훈풍이 불 수 있다. 또한 AI 기술주 전반에 대한 저가 매수세 유입을 촉발해 최근의 하락세를 반전시키는 트리거가 될 가능성이 존재한다."
+            "q": "이번 사태가 향후 미국 기술 기업들의 비용 구조에 어떤 변화를 가져오는가?",
+            "a": "시스템 중단 리스크를 줄이기 위한 인프라 이중화와 보안 솔루션 투자 확대가 강제되면서 단기적인 수익성 저하 요인이 될 수 있다. 리스크 관리가 기업 경영의 핵심 과제로 부상하며 관련 보안 비용 지출이 크게 늘어날 전망이다."
+          }
+        ]
+      },
+      "엔비디아 실적 경계감": {
+        "headline": "엔비디아 실적 발표 앞두고 얼어붙은 글로벌 증시",
+        "facts": [
+          "엔비디아의 실적 발표를 앞두고 글로벌 증시가 극도의 경계감을 보이며 일제히 하락 마감했다.",
+          "나스닥 지수는 0.74% 하락했으며 국내 코스피 시장에서도 외국인들이 줄매도에 나서며 5,000선이 무너졌다.",
+          "시장은 엔비디아의 매출 성장세가 둔화될 경우 AI 산업 전반의 거품이 꺼질 수 있다는 공포에 휩싸여 있다.",
+          "국가안보국 통신망 장애 등 대외 악재까지 겹치며 실적 발표 전 위험 자산을 회피하려는 심리가 강하게 나타났다."
+        ],
+        "watch": [
+          "엔비디아의 4분기 매출 가이던스 수치",
+          "AI 칩 수요 지속성 및 차세대 제품 출시 일정",
+          "실적 발표 직후 시간외 주가 및 선물 지수 움직임"
+        ],
+        "qna": [
+          {
+            "q": "엔비디아 실적에 대한 경계감이 유독 이번 분기에 강하게 나타나는 이유는 무엇인가?",
+            "a": "그동안의 가파른 주가 상승을 정당화할 만큼의 압도적인 실적 성장이 지속될 수 있는지에 대한 시장의 의구심이 임계점에 도달했기 때문이다. 기대치가 최고조에 달한 상황에서 작은 실망감도 큰 폭의 주가 조정을 유발할 수 있다는 공포가 작용하고 있다."
+          },
+          {
+            "q": "엔비디아 실적 결과가 국내 반도체 밸류체인 기업들에 미치는 영향은 무엇인가?",
+            "a": "실적 가이던스에 따라 HBM 등 고대역폭 메모리를 공급하는 국내 기업들의 수주 물량과 주가 향방이 결정되는 동조화 현상이 심화될 것이다. 엔비디아의 성장이 꺾일 경우 국내 반도체 수출 전선에도 직접적인 타격이 불가피하다."
+          },
+          {
+            "q": "실적 발표 전 외국인 투자자들이 코스피에서 대규모 매도를 선택한 전략적 배경은 무엇인가?",
+            "a": "불확실성이 큰 이벤트 직전에 신흥국 시장의 비중을 줄여 포트폴리오의 변동성을 관리하려는 리스크 오프 전략의 일환이다. 글로벌 대장주의 실적 확인 전까지는 안전 자산 선호 심리가 강화되며 자금 유출이 지속되는 경향이 있다."
           }
         ]
       }
@@ -696,11 +671,32 @@
     "news": {
       "코스피 5000선 붕괴": [
         {
-          "title": "[마감시황] 코스피 2.59% 하락해 5000선 붕괴…반도체 이어 금융·조선주도 약세 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JQ3l4RmxRTkYyVE9JazA5azZCU3gyZW1sOXdFLWVnR1RkT216NlJNUGRYWlJNaDRHbHN0dG5HRzRxYmVrd3hnOWE4WlAwX1lzSUl3VGJrQXhvdw?oc=5",
+          "title": "젠슨 황 사임에 5000선 깨진 코스피, 엔비디아가 다시 살릴까? - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MMmpRcTdRcVFKaGMxSU85OHVKODh6RVNvRnlKaU9IYUYzN3hGQkdsNkR4MEVpLThYNkY4dDlIMDlSZDNGa254TzZ6dnVxRjhzREZ5V0pnRjJqNkdEaWRpdE9DWVJZOEpL0gFuQVVfeXFMUGtMcHBqQ1JoNWZYMkk3bDY0anVIbVFESlBEaUc5QkZHb3ZZQnRoVGRaX0dLaWZscVU4UVdJcHRnYml5VUtKUkJpV29wMWpWOXA5elE3TkpsN2U4VDJHSUlUUHFQeHM4dlY4U2NLRWc?oc=5",
+          "source": "머니투데이",
+          "published": "11-18 07:00",
+          "snippet": "젠슨 황 사임에 5000선 깨진 코스피, 엔비디아가 다시 살릴까? - 머니투데이 머니투데이"
+        },
+        {
+          "title": "엔비디아 매출 폭증…5000선 무너진 코스피 구원할까 [오늘 아침 당신이 알아야 할 7가지] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1TzIxRzhGdFpMWE91WXRaOEt6bWV5WjlCRHlWWngzd1ZQMmE3aW9pY2Y2S1RaTmZ1R3l4STJQTm5HYlQ4T3ZLOTU4Z3E5blQ3ck5qblROTUhGQQ?oc=5",
           "source": "한국경제",
-          "published": "11-17 15:47",
-          "snippet": "[마감시황] 코스피 2.59% 하락해 5000선 붕괴…반도체 이어 금융·조선주도 약세 한국경제"
+          "published": "11-18 07:21",
+          "snippet": "엔비디아 매출 폭증…5000선 무너진 코스피 구원할까 [오늘 아침 당신이 알아야 할 7가지] 한국경제"
+        },
+        {
+          "title": "[오늘 증시 전망] 코스피 5,000선 붕괴…외국인 1조4,000억원대 매도에 18일 증시 긴장 - 업코리아",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01NUQyVW5rQ3NyWU04dF81M2FYVk5PTkxXMHd1WERzTUVfN1drNHRxYjh3dGJjUDg5dzQ0MkVzamdsbTlLcFhxMnJhdldJbEFmSl84NnNRS3EwZFJVQTVuOTRlenByTnU1YmNCYkpn?oc=5",
+          "source": "업코리아",
+          "published": "11-18 07:05",
+          "snippet": "[오늘 증시 전망] 코스피 5,000선 붕괴…외국인 1조4,000억원대 매도에 18일 증시 긴장 업코리아"
+        },
+        {
+          "title": "5000선에서 고지전 벌이는 코스피…'실적·금리'가 반등 결정짓는다 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xN1JnUUpWU0M3bXBIX1ZVWWxNSkNvSDIxaUZ6T1ZLTU9nekxZTzlQMFk5SF9EMGJpb3gzREVJLUxYQTJnYjBGMXRSNWhGMVNJb0ZjN0dGbWxuYXBwd21j?oc=5",
+          "source": "뉴스1",
+          "published": "11-18 06:42",
+          "snippet": "5000선에서 고지전 벌이는 코스피…'실적·금리'가 반등 결정짓는다 뉴스1"
         },
         {
           "title": "[사설] 코스피 5000 붕괴, ‘역(逆)자산효과’ 대책 있나 - 아시아투데이",
@@ -710,76 +706,11 @@
           "snippet": "[사설] 코스피 5000 붕괴, ‘역(逆)자산효과’ 대책 있나 아시아투데이"
         },
         {
-          "title": "코스피 5,000선 붕괴 : 낙폭 과대 이후 트램펄린 효과를 원하지만 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uQzE1WEo2bXd1VWtFeTBIQmJNcGtIRm51UVlzU0FESWJ4S0h5MVlRLXFOazNyR3hMeTZ3aENPVm82c0tsWklJeXY1alMtRllEblN3SEoyaWNjTmJMSTJnSQ?oc=5",
-          "source": "Investing.com 한국어",
-          "published": "11-18 04:04",
-          "snippet": "코스피 5,000선 붕괴 : 낙폭 과대 이후 트램펄린 효과를 원하지만 Investing.com 한국어"
-        },
-        {
-          "title": "코스피 5,000선 붕괴…외국인 매도에 휘청 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtcmlrRWtfQnhjX1lwQUdkbmE0ZUp1SUFoaVJuOHM1dUNqLUhvUUZ3cjExa2ZpRmZScC15ekZXdmlOTnc2SnowQy1tVmpyTkwzXy1iUjQ2XzBrRVVybWJpRVJwS0tMODA?oc=5",
-          "source": "연합뉴스TV",
-          "published": "11-17 16:06",
-          "snippet": "코스피 5,000선 붕괴…외국인 매도에 휘청 연합뉴스TV"
-        },
-        {
-          "title": "코스피, 5000선도 깨졌다…9개월 만에 최저 - 더나은미래",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVd2ZydVA5ZzN3dzdiY0lsb1lwb2tpUnF0WE52S3NuYlFCS2M3STJkZVZPQjJ6dmJRMVhpZ1BfWExrY1NfWGhoTGsyTG5nT2dUTEE?oc=5",
-          "source": "더나은미래",
-          "published": "11-17 17:16",
-          "snippet": "코스피, 5000선도 깨졌다…9개월 만에 최저 더나은미래"
-        },
-        {
-          "title": "美 반도체주 하락에···코스피 5,000선 붕괴 - 강원일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wVm1FYU1pUm1ZSFFLQmpKYWxMSFEwTHRpdm5lRE9KU05IUlp6M195WXdrdXBWLVV3bllub1o1X1o3TnlienI1cThTZEJ6cTQtdFpJV3V6bERpZ1U?oc=5",
-          "source": "강원일보",
-          "published": "11-17 17:27",
-          "snippet": "美 반도체주 하락에···코스피 5,000선 붕괴 강원일보"
-        }
-      ],
-      "바이오 신약 임상 발표": [
-        {
-          "title": "아리바이오 \"AR1001, 글로벌 임상 3상 1차 유효성 목표 달성\" - MEDI:GATE NEWS",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54VFFZbEQ5elRoYUdIanhxTmZ6dkRoLWppUDFLYUNXMThUc2NGNGJmYmpGWFNhU1huMHVIU2ctYmY1WUpNTlVOZEVGN3hRbFVkRmdvdkd3VQ?oc=5",
-          "source": "MEDI:GATE NEWS",
-          "published": "11-17 22:17",
-          "snippet": "아리바이오 \"AR1001, 글로벌 임상 3상 1차 유효성 목표 달성\" MEDI:GATE NEWS 정재준 아리바이오 대표 “내년 FDA 허가 신청, 상업화 등 푸싱과 협력” 팜이데일리 아리바이오 \"먹는 치매약 후보, 일부 환자서 악화 31% 늦춰\" 연합뉴스 한국 기업, 먹는 치매 치료약 개발… 글로벌 임상 3상서 1차 효과 입증 Chosunbiz 아리바이오, 'PDE5 저해제' AD 3상 \"전체환자군 1차 미충족\" 바이오스펙테이터"
-        },
-        {
-          "title": "한미약품, 항암신약 2종 임상 1상 데이터 ESMO 발표 - MEDI:GATE NEWS",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13TEZuNGlEMktIWlUxalFHX2ZlRFc4VVJFZGx0UjgyVmdEUk04MHFLaE1XZDJrV0JvNUJUX1hQRHk5Ykh3QXdZaUVEeU9OVnMwMWlaOUpFZw?oc=5",
-          "source": "MEDI:GATE NEWS",
-          "published": "11-17 22:06",
-          "snippet": "한미약품, 항암신약 2종 임상 1상 데이터 ESMO 발표 MEDI:GATE NEWS 한미약품 \"차세대 항암제 2종, 임상 1상서 항종양 효과\" 연합뉴스 한미약품 ‘차세대 항암신약’ 글로벌 1상서 항종양 활성 확인 팜이데일리 한미약품 “차세대 항암신약 2종, 글로벌 1상서 초기 항암 효과·안전성 확인\" Chosunbiz 한미약품, 유럽종양학회에서 임상 1상 최신 데이터 2건 발표 뉴스타운"
-        },
-        {
-          "title": "온코닉테라퓨틱스, 세마글루타이드 병용 근육보존 후보물질 비임상 결과 구두발표 - MEDI:GATE NEWS",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LMTBBRzRHTkVHM3R5c2I3bzMxUUh1Wm5QOHJjMnhKc0dncFhwc0kteVFfa2tsWm9EODJKODBIZDNKRndrLU5WdVQzY3NzLXdRbm0zQk9sZw?oc=5",
-          "source": "MEDI:GATE NEWS",
-          "published": "11-17 22:15",
-          "snippet": "온코닉테라퓨틱스, 세마글루타이드 병용 근육보존 후보물질 비임상 결과 구두발표 MEDI:GATE NEWS 살 빼면서 근육 지키고 먹는 약까지…K비만약 개발 경쟁(종합) 연합뉴스 휴온스, 미국비만학회서 희귀 비만 신약 후보물질 연구 결과 발표 경향신문 세계 비만약 전쟁, 다음 승부는?…美 학회에 글로벌 제약사 총집결 메디파나뉴스 알테오젠 ‘월 1회’ 비만약, 동물실험서 3주 만에 체중 55.3% 감량 팜이데일리"
-        },
-        {
-          "title": "동아ST·메타비아, DA-1726·레타트루타이드 비교 전임상 결과 발표 - MEDI:GATE NEWS",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtakUwcDRBWUFrRk8yMnpkZ0JRMjlkR04xcUtKaXJ0eW1VZFNrZW93RHlPYVc4SlB6STB2VW5reXFxMFhZMzBkRlJnUFd1SFRRVE1xLU4xQQ?oc=5",
-          "source": "MEDI:GATE NEWS",
-          "published": "11-17 22:05",
-          "snippet": "동아ST·메타비아, DA-1726·레타트루타이드 비교 전임상 결과 발표 MEDI:GATE NEWS 동아ST \"DA-1726, 레타트루타이드 대비 큰 혈당·유사 체중 감소 효과 확인\" - 머니투데이 머니투데이 동아ST·메타비아 \"비만치료제 전임상 연구 발표\" 뉴시스 MetaVia, 간질환 치료제 DA-1726 임상 1상 종료 Investing.com 한국어 동아에스티·메타비아, ‘DA-1726’과 레타트루타이드 동물시험 비교 결과 공개 주간한국"
-        },
-        {
-          "title": "HK이노엔, 위식도역류질환 신약 '케이캡' 브라질 품목허가 획득 - MEDI:GATE NEWS",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qR1ZfTDNjeElLZzlBcmNGLUxlUks3cmc2S3B4Z3V4ZzFQSUJiaWQycXR1Q3hCanNZSWdteG4tVmlzaTVJSW01OW5hcktzb28tc3Qxa09CZw?oc=5",
-          "source": "MEDI:GATE NEWS",
-          "published": "11-17 10:07",
-          "snippet": "HK이노엔, 위식도역류질환 신약 '케이캡' 브라질 품목허가 획득 MEDI:GATE NEWS HK이노엔 ’케이캡’, 브라질 허가…중남미 공략 확대 연합뉴스TV HK이노엔 위장약 '케이캡' 브라질 허가…중남미 공략 가속 연합뉴스 HK이노엔 '케이캡', 1.1조 브라질 시장 뚫었다 전자신문 HK이노엔 케이캡, 브라질 품목허가 획득…중남미 공략 본격화 By EBN Investing.com 한국어"
-        },
-        {
-          "title": "[바이오스냅] 대웅제약, 자가면역질환 신약 임상 1상 결과 발표 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oVi1iOHhOeWxleElZYlJLZldLM0R2Unh5TkRXRzVMVzZDRklfR3J1aHVFS09pUEJWS1liSUlqNzcyUGYzbU1lN3RZbTRmeTJUR1F3YkpabXFFNG85RjdUbtIBYEFVX3lxTE9oVi1iOHhOeWxleElZYlJLZldLM0R2Unh5TkRXRzVMVzZDRklfR3J1aHVFS09pUEJWS1liSUlqNzcyUGYzbU1lN3RZbTRmeTJUR1F3YkpabXFFNG85RjdUbg?oc=5",
-          "source": "연합뉴스",
-          "published": "11-17 11:57",
-          "snippet": "[바이오스냅] 대웅제약, 자가면역질환 신약 임상 1상 결과 발표 연합뉴스"
+          "title": "[증시-마감] 엔비디아 실적 앞두고 코스피 5,000선 하회…외인 줄매도 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kVDEyWHJQYm1DdlBYdkxmMC13dUFjNEdUT2dDdGFzMkk3M1lzWkZrQXZWenJhMms2aTV0R2JTaDI1c09scU42d3FJc2h5SGFnZjJ3b0EtRTJTWFR3YWk1bEMzWF9JRHhrc2JLMUFadTk?oc=5",
+          "source": "연합인포맥스",
+          "published": "11-17 16:13",
+          "snippet": "[증시-마감] 엔비디아 실적 앞두고 코스피 5,000선 하회…외인 줄매도 연합인포맥스 9개월 만에 5,000선 붕괴, 코스피에 무슨 일이? 네이버페이 머니스토리 \"코스피, 4600선 바닥권....마지막 진통, 버티며 분할매수\" 마켓인 6천피 붕괴 13거래일 만에…5천피도 무너졌다 매일경제 마켓 코스피, 9달여 만에 5천 선마저 내줘‥4,968로 마감 MBC 뉴스"
         }
       ],
       "서울 아파트값 하락세": [
@@ -788,14 +719,14 @@
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xOUdDX3lWajV2VjJDYkFwSG1IZ3FBR1lXeWUwcWVrQUNudlhnSlVscUpPU21adzNwb284b0JjbHZDdE9TS2l1SVVTdUFGS0haSktRQmJreGdoSV9MV3hUa2FLZTh1NG8y?oc=5",
           "source": "한겨레",
           "published": "11-17 19:07",
-          "snippet": "거래 줄고 매물 늘고…서울 아파트값 하락장 신호탄일까? 한겨레 강남 부동산 이번엔?...2027 세금데드라인 결정적 네이버페이 머니스토리 고가 약세·중저가 상승세… 서울 부동산 재편 가속 조선일보 성동·강동까지 번진 ‘강남 하락세’ … 한강벨트 25억대 매물 쏟아진 이유 [손품브리핑] 매일경제 \"11월 들어 손님 끊겼다\"…강남발 집값 조정 한강벨트로 뉴시스"
+          "snippet": "거래 줄고 매물 늘고…서울 아파트값 하락장 신호탄일까? 한겨레 강남 부동산 이번엔?...2027 세금데드라인 결정적 네이버페이 머니스토리 고가 약세·중저가 상승세… 서울 부동산 재편 가속 조선일보 성동·강동까지 번진 -강남 하락세-…한강벨트 25억대 매물 쏟아진 이유 [손품브리핑] 매일경제 \"92주 올랐는데 매물은 8만건 쌓여\"…서울 아파트 시장 덮친 '기현상' 뉴시스"
         },
         {
-          "title": "“서울서 집 구하기, 포기합니다”… 평균 전셋값, 사상 첫 5억원 넘었다 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLSl9WUVBfTzRWQ1FFaUs1bTBDOUtkUWRxVGZodlVndXYtSkZKTXNacWZpUmpmT3N6VnA4XzdzNnJpLXlTWmpwZ1FCQUtIeHlIMU9mamRLSXc?oc=5",
-          "source": "매일경제",
-          "published": "11-17 14:09",
-          "snippet": "“서울서 집 구하기, 포기합니다”… 평균 전셋값, 사상 첫 5억원 넘었다 매일경제 ‘부처 이전 기대’ 세종 주택 매수 심리, 서울 앞질러 경향신문 수원 영통·화성 동탄 ‘날았다’…경기도 집값 상승률, 서울 앞질렀다 경기일보 지난달 서울 아파트값 상승세 둔화…전세 누적 상승률 10% 육박 KBS 뉴스 서울 주택 매매심리 6개월 만에 최저… 전국 전세심리는 올해 최고 Chosunbiz"
+          "title": "서울 집 사려면 월급 12년 꼬박 모아야‥월소득 5분의 1이 임대료 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81ZWt2SmxpOHV2d1A4VXpHOHJwQlVvZ3VaWDFxVzVua1U5d2c4ekRKYWRpNDRqVzVnN1kwS1p1aS1QQlY1cVpDVG9VM2ZIbldjMWw0cFdUZXQwd29XSXdxLVcyVk5NSG00UVhQYkZvUjhIZ0VJ0gF0QVVfeXFMTjRBQ3FielRJQnBYZnY3ZFc1eU9ZYU9sd01ITTl0MG1nUWgzc1lsdTNKVm5uRHhvSElIeXdUWDFtZWV2YWlhMnpncWRUaFFGRlV0bnl3ZWFJcnFod1ZyTzI3MkY1WllCeEp2ekNMbEJoVXlQc3E?oc=5",
+          "source": "MBC 뉴스",
+          "published": "11-17 16:00",
+          "snippet": "서울 집 사려면 월급 12년 꼬박 모아야‥월소득 5분의 1이 임대료 MBC 뉴스 생애 최초 주택 마련에 ‘8년’…20년 만에 최장 기간 기후에너지데이터뱅크 \"소득 1/5이 임대료로\"…지난해 수도권 임차가구 월임대료 비중 19.7% - 머니투데이 머니투데이 세입자 월소득의 17%가 ‘집세’ 경향신문 월급 한 푼 안쓰고 11년8개월 모아야 서울에 내 집 동아일보"
         },
         {
           "title": "삼성서울병원, 수술 장면 맥락 인식 'AI 눈’ 개발 - MEDI:GATE NEWS",
@@ -805,157 +736,201 @@
           "snippet": "삼성서울병원, 수술 장면 맥락 인식 'AI 눈’ 개발 MEDI:GATE NEWS 새벽 3시 AI가 깨우는 삼성서울병원…데이터로 진료·수술 지연 '최소화' 전자신문 수술실부터 재활병동까지…의료현장 파고드는 K-로봇 지디넷코리아 수술 흐름까지 읽는 AI 개발…삼성서울병원, 로봇 수술 앞당긴다 뉴스1 로소타, AI 로봇에 외과의사 ‘술기’ 가르친다 [로보 인사이트] 서울경제"
         },
         {
+          "title": "“서울서 집 구하기, 포기합니다”… 평균 전셋값, 사상 첫 5억원 넘었다 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLSl9WUVBfTzRWQ1FFaUs1bTBDOUtkUWRxVGZodlVndXYtSkZKTXNacWZpUmpmT3N6VnA4XzdzNnJpLXlTWmpwZ1FCQUtIeHlIMU9mamRLSXc?oc=5",
+          "source": "매일경제",
+          "published": "11-17 14:09",
+          "snippet": "“서울서 집 구하기, 포기합니다”… 평균 전셋값, 사상 첫 5억원 넘었다 매일경제 [그래픽] 서울·경기 집값 상승률 추이 연합뉴스 ‘부처 이전 기대’ 세종 주택 매수 심리, 서울 앞질러 경향신문 부산지역 부동산시장 소비심리지수 한 달 만에 하락 국제신문 강남3구 집값 주춤, 경기 남부는 강세…전셋값은 일제히 상승 뉴스핌"
+        },
+        {
           "title": "오세훈 \"재초환 재검토해야‥'공급부족은 서울시 책임, 늘면 정부 성과' 동의 못해\" - MBC 뉴스",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8yaGFFZUtQbUFyb000dFRzVzEtSTFSZ1lTLUpXQ1F0aVVFX3h1blNzRDl2bXhmd2V3ek4zNWVXeEVldFF0Tm5Qek1sSHV4RTZMODlHUGZDYm8zU2Z5RWJsaHFuZVpIZENUdC1fMEFkM3NQbkhreUFJ0gF3QVVfeXFMUEVQWWdVSzE2ak1xQW1pMkk5YlRFVWVLNXJ5OFNmZWdkOEJzaVI4MnFmODlJWFE0MmJwX2NBRXFVcjY4c0N0cG55dzhoSTUwcG5qRjVjN1ZBcURLX1VPY3B1ckhZSXhLRFVwWFRYRzluaHJBQ1htU0k?oc=5",
           "source": "MBC 뉴스",
           "published": "11-17 14:34",
-          "snippet": "오세훈 \"재초환 재검토해야‥'공급부족은 서울시 책임, 늘면 정부 성과' 동의 못해\" MBC 뉴스 재건축에 1인당 최대 9억… 재초환 청구서 ‘집단 반기’ 대한경제 [기고]주택공급 발목 잡는 재건축부담금, 폐지가 답이다 - 머니투데이 머니투데이 오세훈 “재초환은 ‘이중과세’···제2의 종부세 논란 야기할 수 있어, 전면 재검토해야” 경향신문 오세훈 \"공급 부족하면 서울시 탓, 늘면 정부 성과? 동의 못해\" 연합뉴스"
+          "snippet": "오세훈 \"재초환 재검토해야‥'공급부족은 서울시 책임, 늘면 정부 성과' 동의 못해\" MBC 뉴스 “재건축 같은 평형 입주에 10억 더 내야할 판”… 미실현 이익에 부담금 논란 대한경제 재초환 폐지·완화론에 선그은 국토부… \"공급 영향 크지 않아\" - 머니투데이 머니투데이 [기로에 선 재초환] 팔지도 않은 집에 ‘수억 청구서’…보유·양도세까지 ‘삼중 부담’ 서울경제 오세훈 \"공급 부족하면 서울시 탓, 늘면 정부 성과? 동의 못해\" 연합뉴스"
         },
         {
-          "title": "분담금 4억에 재초환 4억… 대치 은마, 신축 빼면 서울 거래 최다 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQlBPTHBZV0tJMDhnbTBoUU9QcW9KNWFTaE1EdVB4ZTlNc0Jic3Z0MnMzaGN3NEZhZVlMRDA0QUFUV0xweTM1djBoZ0Z6SENWUkNHS0lVQ2wyR1l0YzF0OUdWdUtZSTh5NFFPNS1Ed21OLWFXUF8zUHJRZ1dlSU9Ra2MzVFloNDNNUlIwbHo1RnVQbTVjVDluTdIBrAFBVV95cUxNQmFMZG9jVW11QnVPa1JrTFh4bVR1djU4NE9kX3VtM280dTZHeDFzNExKejN1QmRnalN4T1pkRkROd0E4TklXZXQydDExamN1SHV1bW9MVjd0MjItUDRHcmRBbjUxT19MV0QwRlh2SE50X3dTTE1vQ195M1pnTW5QTkFKdTRmNnVfN0lyeWRwcXM5LVVvMHVOaXdlb3BQUXNDOGxmcW1ucDRtMUFM?oc=5",
-          "source": "Chosunbiz",
-          "published": "11-17 06:04",
-          "snippet": "분담금 4억에 재초환 4억… 대치 은마, 신축 빼면 서울 거래 최다 Chosunbiz Google 뉴스에서 헤드라인 및 의견 더보기"
-        },
-        {
-          "title": "뉴욕증시, 하락세로 전환…나스닥 1.08%↓ - 블루밍비트",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fWDlycVFTcmxka3pIQTl1cWRweE11XzloZU5fQTFELVNRQWZDODJPZml0RW5lN0lIcE1sanNWX21nOVViTW0xOFdGbXFfTWh6?oc=5",
-          "source": "블루밍비트",
-          "published": "11-18 03:06",
-          "snippet": "뉴욕증시, 하락세로 전환…나스닥 1.08%↓ 블루밍비트"
-        }
-      ],
-      "젠슨 황 복귀설 파장": [
-        {
-          "title": "젠슨 황 복귀설에 흔들린 뉴욕증시…유가도 급락 - 네이버페이 머니스토리",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hUFg3N3JZX0R6ZjdtbDhwQlNkcW1ISHVmOGJ6UktodXotUVJrMzhVYTg0NWxRdW9RWmU4UXk1RllGVS1OOV9taVRncnJUemNyaGM1Wl9iS2I?oc=5",
-          "source": "네이버페이 머니스토리",
-          "published": "11-17 08:49",
-          "snippet": "젠슨 황 복귀설에 흔들린 뉴욕증시…유가도 급락 네이버페이 머니스토리"
-        },
-        {
-          "title": "[속보] 젠슨 황 “이사회 요청하면 엔비디아 최고경영자로 복귀하겠다” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94ejVFV25EVFY2RHBFZ0ZJcGNCbnN5bXphTTZuWUVxekZMRERNbUNoOWVQZ1J6RWFoR0wtSDRnYlQ3V3BZRlNhNmFVME4ySDNzY001MEFLLWpxRXpWRHRsQXhCaHh1Y2c2N3ZhZWlkSQ?oc=5",
-          "source": "한겨레",
-          "published": "11-18 01:31",
-          "snippet": "[속보] 젠슨 황 “이사회 요청하면 엔비디아 최고경영자로 복귀하겠다” 한겨레 “요리학교 출신 젠슨 황 맏딸 ‘사내 갑질’…직원들 퇴사-공황 발작” 동아일보 '불륜스캔들' 젠슨황 복귀의사 공식화…\"이사회 요청시 응할것\"(종합) 연합뉴스 “임원들에 고성·압박, 12명 줄퇴사···엔비디아 경영진도 꼼짝 못 한 젠슨 황 딸은 사실상 ‘아버지 비서실장’” 경향신문 AI생태계, 젠슨 황 없어도 돈이 돌까⋯ ‘엔비디아 순환금융’ 시험대 국민일보"
-        },
-        {
-          "title": "'젠슨 황 스캔들' 美, AI반도체 中 원격접속 차단...트럼프 \"스파이 아닐 수도\" - KBC광주방송",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WLUg2NTRISjNMeWZxenVrZ2pEV1htbUoyQXlMWkZMR2VTM2dnZHJGV3pqc1Yta3pCRlFpZlc2OTY2Wlh4MVpHNVRfZm9ZQkhOMjB4QnJ4LWp5V09maHhQOE5B?oc=5",
-          "source": "KBC광주방송",
-          "published": "11-17 06:09",
-          "snippet": "'젠슨 황 스캔들' 美, AI반도체 中 원격접속 차단...트럼프 \"스파이 아닐 수도\" KBC광주방송 美, 동남아 우회 AI칩 '패스트트랙' 닫았다…韓 파운드리·후공정 악영향 우려 전자신문 美, AI칩 中유출 규제 강화… 젠슨 황 통해 드러난 구멍 뒤늦게 땜질 동아일보 트럼프 행정부, 빅테크 반발에도 중국산 데이터센터 부품 수입 금지 강행 - 머니투데이 머니투데이 미, 대중 AI 제재 기습 발표...순방 앞둔 '보여주기' 논란 YTN 사이언스"
-        },
-        {
-          "title": "美 억만장자들, 젠슨 황 퇴진 전 엔비디아 털기…소로스도 20% 줄여 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3X3pPT2dlWjZ5OFJwczVKSUpueHo5Y1VfUVRCRjNWVV9nU2hWOURXa1pxLUVIbkRIbldkV2FfeG1sUWFXc2hUZG1yTFY1dE1mZVpNNmhBZHNRdw?oc=5",
-          "source": "한국경제",
-          "published": "11-17 10:25",
-          "snippet": "美 억만장자들, 젠슨 황 퇴진 전 엔비디아 털기…소로스도 20% 줄여 한국경제 인텔, 엔비디아 지분 25% 축소·협력 불확실성에 주가 2%↓ 마켓인 젠슨 황, 8개월 전 '14조 주식' 가족 신탁으로…증여세 無 - 머니투데이 머니투데이 Nokia 주가, Nvidia의 지분 절반 이상 매각 후 4% 이상 하락 Investing.com 한국어 [미국 특징주] 엔비디아, 인텔 지분 25% 축소…스페이스X 최대 투자처로 부상 뉴스핌"
-        },
-        {
-          "title": "‘젠슨황 후폭풍’에 9개월 전으로 돌아간 코스피 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2Z0ZSeFFlbVh3YlJLVTlYMy1lM01JUDdSei1TQ3VBMGtGVFBMYWc2MzdHNmlscHRMeFZkUGc4a2o3Zkp4Slp2d0hCeTU0NTdBQm5nZmJOUXNyY2s?oc=5",
+          "title": "뉴욕증시 하락세 계속…S&P500 1%↓, 7월 이후 최저 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GM05XNXEyTFQ4UVI3bU8teVZkZnFlMmpROW9yamoxaTJ3djB1b1NUVllFak1OYjgybE5Ebl9NaGtpeW5HUzk1VGN4Y3R5OGNGQlZtY010RkxielE?oc=5",
           "source": "KBS 뉴스",
-          "published": "11-17 21:16",
-          "snippet": "‘젠슨황 후폭풍’에 9개월 전으로 돌아간 코스피 KBS 뉴스"
-        },
-        {
-          "title": "젠슨황·앤트로픽·금리…'삼중고'에 5,000선 무너진 코스피(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80S0JhamIzTVpRTUI4eU9JWmhsb1FiSWRxQmRLeDN6Ry1HckJWYldvVDB2a2ptaDFsdkI5b1VfMWxUNmNZLXpMbTNjRzZiSThIT2JYR05LbWZfYkXSAWBBVV95cUxPSUFUWGszTDR2YVFNclZIbmw2MXF3eWVRSjd6WTJFWkh5dDRkUXI3MDE5SXJqTzZKdnhQQXJ5UGVyTWVQOEhMUUtzMXZmcEVDNldmckliZnhLMnRvdlJfd1E?oc=5",
-          "source": "연합뉴스",
-          "published": "11-17 16:33",
-          "snippet": "젠슨황·앤트로픽·금리…'삼중고'에 5,000선 무너진 코스피(종합) 연합뉴스"
+          "published": "11-18 07:38",
+          "snippet": "뉴욕증시 하락세 계속…S&P500 1%↓, 7월 이후 최저 KBS 뉴스"
         }
       ],
-      "미 연준 AI 거품 경고": [
+      "비만·치매 신약 임상 성과": [
         {
-          "title": "[사설]美연준 AI거품 경고, 우린 대비하나 - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ybGdEMmpFQXpHUWFMaUdXb0hZa0JWLS1Nbi1vTHpQN3oxR2tDS0QyVnMxQUp2eVBuZWtoMldGMThKQ0hVSnQ4TnFrNzR4RUNiX2xZQWZVa3kwVUFXcm8zU0NkTkFiWHIxOXdwRmtnMmFuR2JoU3AxONIBfkFVX3lxTE51eWt0aF9CWlpmRlQ4dEVNRzJJWXI5MEg4ZVRKUUZfZXY4bk92NW9meW5rUkJKTFRIdEF0RUxMWm44UEdXbFBhWVVfUmJDUjB0bjlvQ1V1bW1FTlNpd01XSlo4MzZlWkV1ZWo5Q3pJdXZBU3hNNFExdV9CUmNRdw?oc=5",
-          "source": "머니투데이",
-          "published": "11-18 04:01",
-          "snippet": "[사설]美연준 AI거품 경고, 우린 대비하나 - 머니투데이 머니투데이"
+          "title": "동아에스티 비만신약 물질, 릴리와 감량 ‘비슷’ - 데일리메디",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yUHIwd0JzS0U0MkRxWGsxSFdPeHdJa2p5ZkhhQi1kc0RyRmlocFNLQTNsUXBlLXBEQVJBdHh0TERBX0E0YzRZUVNpWHRCcGliaC1EeDAxbTFKak95Wm1VQkN0T1lfQVRD?oc=5",
+          "source": "데일리메디",
+          "published": "11-17 17:50",
+          "snippet": "동아에스티 비만신약 물질, 릴리와 감량 ‘비슷’ 데일리메디 동아ST \"DA-1726, 레타트루타이드 대비 큰 혈당·유사 체중 감소 효과 확인\" - 머니투데이 머니투데이 동아ST·메타비아 \"비만치료제 전임상 연구 발표\" 뉴시스 MetaVia, 간질환 치료제 DA-1726 임상 1상 종료 Investing.com 한국어 동아에스티·메타비아, ‘DA-1726’과 레타트루타이드 동물시험 비교 결과 공개 주간한국"
         },
         {
-          "title": "미 연준 의장, AI 투자 실패 위험 경고…“경기 둔화·실업 증가로 이어질 수도” - 뉴스21 통신",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fME5Pd19wUmF6UTJKWGJEOFRjNThMY0hEbVV4OUppM2dPOFZHUW52N253SUZXRFRjSm01bGJEQ055bF8yZGRPd0hwVHhyWXpHX0VIVnVR?oc=5",
-          "source": "뉴스21 통신",
-          "published": "11-17 17:25",
-          "snippet": "미 연준 의장, AI 투자 실패 위험 경고…“경기 둔화·실업 증가로 이어질 수도” 뉴스21 통신"
+          "title": "한미약품, 항암신약 2종 임상 1상 데이터 ESMO 발표 - MEDI:GATE NEWS",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13TEZuNGlEMktIWlUxalFHX2ZlRFc4VVJFZGx0UjgyVmdEUk04MHFLaE1XZDJrV0JvNUJUX1hQRHk5Ykh3QXdZaUVEeU9OVnMwMWlaOUpFZw?oc=5",
+          "source": "MEDI:GATE NEWS",
+          "published": "11-17 22:06",
+          "snippet": "한미약품, 항암신약 2종 임상 1상 데이터 ESMO 발표 MEDI:GATE NEWS 한미약품 \"차세대 항암제 2종, 임상 1상서 항종양 효과\" 연합뉴스 한미약품 ‘차세대 항암신약’ 글로벌 1상서 항종양 활성 확인 팜이데일리 한미약품 “차세대 항암신약 2종, 글로벌 1상서 초기 항암 효과·안전성 확인\" Chosunbiz 한미약품, 유럽종양학회에서 임상 1상 최신 데이터 2건 발표 뉴스타운"
         },
         {
-          "title": "미 연준 \"대형은행 AI 위험노출액 1조달러\"…손실확산 경고 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WbVlKTUpCY2V6d0RUakVpSmtodV82eEZyQkpIeVRZWVpFOFV1aUg2eS1pZ1lndDZxU1lNQlFpOTdDekNPUWFFOEQyOVV4YWxhVFRaUzdZLV9hUkHSAWBBVV95cUxPNWJzR19jSTY3TXNmMEwtWjB0SFEzOV9LaDFTVGtIM2FPVTMtd3NlQnozX0JOYzBMNGtSUlFzc2poa3UtUVNrU01ndWFLXzIzUkFpQllxVzE2cWRnUTBNTFo?oc=5",
-          "source": "연합뉴스",
-          "published": "11-17 10:39",
-          "snippet": "미 연준 \"대형은행 AI 위험노출액 1조달러\"…손실확산 경고 연합뉴스"
+          "title": "아리바이오 \"AR1001, 글로벌 임상 3상 1차 유효성 목표 달성\" - MEDI:GATE NEWS",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54VFFZbEQ5elRoYUdIanhxTmZ6dkRoLWppUDFLYUNXMThUc2NGNGJmYmpGWFNhU1huMHVIU2ctYmY1WUpNTlVOZEVGN3hRbFVkRmdvdkd3VQ?oc=5",
+          "source": "MEDI:GATE NEWS",
+          "published": "11-17 22:17",
+          "snippet": "아리바이오 \"AR1001, 글로벌 임상 3상 1차 유효성 목표 달성\" MEDI:GATE NEWS 아리바이오 AR1001 먹는 치매 치료제 임상 3상 성공…국내 최초 글로벌 3상 독자 수행 성과 바이오타임즈 아리바이오 알츠하이머 신약 3상 엇갈린 평가...추가 임상 가능성도 제기 팜이데일리 [클리니컬 히스토리] 아리바이오, 단독요법 3상 성공…허가 범위 관건 Daum '먹는 치매약' 3상 성과에도...아리바이오 관련주 급락, 왜? - 머니투데이 "
         },
         {
-          "title": "IMF도 美연준도 “AI 투심 흔들리면 금융시장 위험” 경고 - 국민일보",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GdTV6WkZUdFp2NHRUUS1Qb3VOeHRPMmNjR3VOY0NBS19keEd5SHJiT3A2LU5HdjVvX2tzTl9ETGtUeDNMa1JxX0gzalhMTTAwNzlfcndTbm4?oc=5",
-          "source": "국민일보",
-          "published": "11-17 18:44",
-          "snippet": "IMF도 美연준도 “AI 투심 흔들리면 금융시장 위험” 경고 국민일보"
+          "title": "휴온스 “먹는 비만약, 체중·체지방 감소 효과 확인” - 데일리메디",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wUFc0M1NTNVJPRktNcWdSUWRCd01CU2FWT0dCU3J3VEZuaEUzTVZpXy1EQS1xMV8ydWktN3NSb0FpWVZ0YjVUWVZsYnVSQWpNTFlNRUVaY3Nuc09waTRCU1FITmRReV9t?oc=5",
+          "source": "데일리메디",
+          "published": "11-18 05:41",
+          "snippet": "휴온스 “먹는 비만약, 체중·체지방 감소 효과 확인” 데일리메디 알테오젠 “月 1회 비만약, 동물실험서 지속성 확인” 동아비즈니스리뷰 DXVX, 美 학회서 경구용 비만약 연구 발표…글로벌 개발 본격화 매일경제 마켓 살 빼면서 근육 지키고 먹는 약까지…K비만약 개발 경쟁(종합) 연합뉴스 나이벡 비만 신약, 지방간·근육 지표 개선…2상서 GLP-1 병용 추진 팜이데일리"
         },
         {
-          "title": "美 연준 이사 \"AI 에이전트, 수분 내 뱅크런 유발 가능\"…스테이블코인 확산에 경고 - 블루밍비트",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9icGRBd2xLaTJESlVwM0NwR2sxa2pURG9jSmU5Uzk2bUlGY0FhTjlHQXF6bHctZkJteWJiS0V4VVloVlY1dnhBcTNZNGpONnZB?oc=5",
-          "source": "블루밍비트",
-          "published": "11-17 20:47",
-          "snippet": "美 연준 이사 \"AI 에이전트, 수분 내 뱅크런 유발 가능\"…스테이블코인 확산에 경고 블루밍비트"
+          "title": "디지털융합의약품 제도 마련됐지만…임상시험·허가자료 인정 기준은 '과제' - MEDI:GATE NEWS",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fOHl5YnVSSjFoZDNUOFd0VzRnYVhUb2VXSW41Q20zakQySjl6UUMwNTVITWQyNkdqTUhQd0RaT3Y4bGhjTnN5UkFzbjZ4MnNrSFhBZzNqQQ?oc=5",
+          "source": "MEDI:GATE NEWS",
+          "published": "11-18 07:41",
+          "snippet": "디지털융합의약품 제도 마련됐지만…임상시험·허가자료 인정 기준은 '과제' MEDI:GATE NEWS [보도참고자료] 디지털의료기기·디지털융합의약품 현장 중심 정책 간담회 개최 대한민국 정책브리핑 AI 의료기기 시장 진입 앞당긴다…식약처 '혁신의료기기포럼' 뉴스1 \"선제적 지원\"…식약처, 디지털융합의약품 간담회 뉴시스 “인공지능으로 인슐린 최적 용량 추천”…식약처, 디지털융합의약품 개발 지원 매일경제"
         },
         {
-          "title": "미 연준 \"AI로 금융 불안정 위험 커져\" 공식 경고…'뛰어난 능력이 문제' - 이코리아",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAydjlFSFBmaDVEalVGZ3pyZXNEbF9nWWVadkx4WVZMZzNIZk1GSHdXOW90TWlzWXU3UHRBczQ4alJxZXFHUER6REloMTFLcU9DdlBiczN6YjdvX3FBdjVNNnFxOVp1WnlESVNNNlF4Yw?oc=5",
-          "source": "이코리아",
-          "published": "11-17 17:14",
-          "snippet": "미 연준 \"AI로 금융 불안정 위험 커져\" 공식 경고…'뛰어난 능력이 문제' 이코리아"
+          "title": "HK이노엔, 위식도역류질환 신약 '케이캡' 브라질 품목허가 획득 - MEDI:GATE NEWS",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qR1ZfTDNjeElLZzlBcmNGLUxlUks3cmc2S3B4Z3V4ZzFQSUJiaWQycXR1Q3hCanNZSWdteG4tVmlzaTVJSW01OW5hcktzb28tc3Qxa09CZw?oc=5",
+          "source": "MEDI:GATE NEWS",
+          "published": "11-17 10:07",
+          "snippet": "HK이노엔, 위식도역류질환 신약 '케이캡' 브라질 품목허가 획득 MEDI:GATE NEWS HK이노엔 ’케이캡’, 브라질 허가…중남미 공략 확대 연합뉴스TV HK이노엔 위장약 '케이캡' 브라질 허가…중남미 공략 가속 연합뉴스 HK이노엔 '케이캡', 1.1조 브라질 시장 뚫었다 전자신문 HK이노엔 케이캡, 브라질 품목허가 획득…중남미 공략 본격화 By EBN Investing.com 한국어"
         }
       ],
-      "앤스로픽 IPO 흥행": [
+      "S&P500 7월 이후 최저": [
         {
-          "title": "뉴욕증시 프리뷰, 미 주가지수 선물 혼조…엔비디아 실적·앤스로픽 IPO 앞두고 기술주 반등 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pbWdjTUFnRFlndVdNaklFLTRmVWt0ZDU5dG45SnNzRlZXZlV5blBrV01yaW5pV3VrX0JtNWpUVmp2a014VjhUc0ZMYUR5Y2JLU1pDSUxCUG9Ia2JO?oc=5",
-          "source": "뉴스핌",
-          "published": "11-17 22:29",
-          "snippet": "뉴욕증시 프리뷰, 미 주가지수 선물 혼조…엔비디아 실적·앤스로픽 IPO 앞두고 기술주 반등 뉴스핌"
+          "title": "뉴욕증시 하락세 계속…S&P500 1%↓, 7월 이후 최저 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GM05XNXEyTFQ4UVI3bU8teVZkZnFlMmpROW9yamoxaTJ3djB1b1NUVllFak1OYjgybE5Ebl9NaGtpeW5HUzk1VGN4Y3R5OGNGQlZtY010RkxielE?oc=5",
+          "source": "KBS 뉴스",
+          "published": "11-18 07:38",
+          "snippet": "뉴욕증시 하락세 계속…S&P500 1%↓, 7월 이후 최저 KBS 뉴스"
         },
         {
-          "title": "\"앤트로픽 IPO 공모가 '희망밴드 상단' 78달러 웃돌 듯…19일부터 거래\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaanNYVGs4R1VSbmxHS1MtZERJVG9aSVI2ZFNOQkFyUC15Ty1KMFFsZ0l2YXdHa2JMcVVyU21kcGY4LTNKMzBWbEE0X214SjAwUFZkdUVnTjJqQ2FjZ3dGZWtyYk9oR0k5YmZNZnRoZjI?oc=5",
+          "title": "AI 불확실성에 전산 장애까지... S&P500 7월 이후 최저 [뉴욕증시] - 매일일보",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZYmtBbllDSG0yekM5YUJPMGxOeVFsbVQtQVREbm1jQmZMOWRSTUdBSFNBSV9YTllvblRVYmpvdUpPNEtpRTlibXVGRFpoSkJSME9zZjdiajRUYmVnSkxuQ0VqS0U?oc=5",
+          "source": "매일일보",
+          "published": "11-18 08:29",
+          "snippet": "AI 불확실성에 전산 장애까지... S&P500 7월 이후 최저 [뉴욕증시] 매일일보"
+        },
+        {
+          "title": "뉴욕증시, 하락세 계속…S&P500 1%↓, 7월 이후 최저 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iN0ZjT3ZkZXIzdlBkdWs0b2Y2S2JRSmVoMzVpYk9VUkpzdUpRbGM2T1JQaWlaMDFZTl9VdS1GOU42ZWNJNmxoTEp2Z3cydFdBT0NfZ29VbXZJQXZpQVFtS9IBYEFVX3lxTE5iN0ZjT3ZkZXIzdlBkdWs0b2Y2S2JRSmVoMzVpYk9VUkpzdUpRbGM2T1JQaWlaMDFZTl9VdS1GOU42ZWNJNmxoTEp2Z3cydFdBT0NfZ29VbXZJQXZpQVFtSw?oc=5",
+          "source": "연합뉴스",
+          "published": "11-18 06:23",
+          "snippet": "뉴욕증시, 하락세 계속…S&P500 1%↓, 7월 이후 최저 연합뉴스"
+        },
+        {
+          "title": "뉴욕증시, 하락세 계속‥S&P500 1%↓, 7월 이후 최저 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GbTZFWHFCT0JkZ2ktdTk1THZ6R0FGVzA1bS1nWVV4bWs4dEZ6aG9oRENwSHctQ05SQ3g1TXNOSnQ1ZDJxeWdJWUFfUlpETTFyNGtTRndTX2JYeU9rSkFadFhBMjFpaG9HVERwaHVUY0cxNkdo0gF0QVVfeXFMUDE3UmdvR2RwRGNIUU9FVHItTWVKSlVRQ1U4bS10aUN6YzNDNlRqSXF5ang0QTVRX053bXN4bDZYVDlCSGVTS3VQemRleE10dGMyMUo5bUhMM3Faa20xTENHcjhrNUZvZFNob0FHUVZoQ3ByZ2I?oc=5",
+          "source": "MBC 뉴스",
+          "published": "11-18 06:47",
+          "snippet": "뉴욕증시, 하락세 계속‥S&P500 1%↓, 7월 이후 최저 MBC 뉴스"
+        },
+        {
+          "title": "뉴욕증시 하락세 이어져…S&P500, 7월 이후 최저 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9saHM0REVoeExGejhsNUFhRURYa1lQTGtCYk1GZUVIcTgwVk5raUxzMmJnamQ4dHBUUldNVXpWWG9GeDRza2pWdFZzeWplSVVrbFF2RU1fdUdBMUFzcGpFVDZKVzhldWs?oc=5",
+          "source": "연합뉴스TV",
+          "published": "11-18 06:25",
+          "snippet": "뉴욕증시 하락세 이어져…S&P500, 7월 이후 최저 연합뉴스TV"
+        },
+        {
+          "title": "뉴욕증시, 하락세 계속…S&P500 1%↓, 7월 이후 최저(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uWTZVbWtTeHNCNnRsblZwd1daVWNIWHRmUi15SFZ5cGNZUnZnc25RMFh2Z1hwSjdQQ3QzcExGMXNhVU5wVC14RGxYQ2dpcUVZRGJ2Zm1kTV9BUUHSAWBBVV95cUxQM0NaTzNpV0pvS0FPMVFsOXdnSDhpaVp1eWVfelRDU2ZVM2NzZExCX0VVNFZ1eTJjU0F2SWFhQ3F0Z2F6TENybEhmYkhDaFJFZGs0NFVoM0VrS1dJZTlCMkw?oc=5",
+          "source": "연합뉴스",
+          "published": "11-18 07:28",
+          "snippet": "뉴욕증시, 하락세 계속…S&P500 1%↓, 7월 이후 최저(종합) 연합뉴스"
+        }
+      ],
+      "미국 전산 시스템 장애": [
+        {
+          "title": "미국 기술 인프라에 무슨 일이? 닷새간 잇따른 시스템 장애에 우려 확산 - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjeDFvbmhjSmlDYnZvc3pkX193UEk5eUpRTGtjdDAyQXJWT0NXODJlSUktZkZleUNZX2FnZ01JQ3FKUDNqMmc5ZU9RdlY4eTFkMmxvWmNmY2NPVmdmWEVqTHMzVUVQM0dvUmRnX0gzUEI?oc=5",
+          "source": "Investing.com 한국어",
+          "published": "11-18 00:37",
+          "snippet": "미국 기술 인프라에 무슨 일이? 닷새간 잇따른 시스템 장애에 우려 확산 Investing.com 한국어 MS 먹통-공항 마비 이어 이번엔 금융망… 美 최대은행 JP모건 전산장애-거래 차질 동아일보 “외부 공격 아니”라지만 “무언가 일어나고 있다”···닷새 동안 미국 곳곳 시스템 마비 경향신문 이번에는 은행?...줄줄이 터지는 사고에 미 산업계 불안감 확산 YTN 사이언스 美 최대은행 체이스 서비스 장애…\"사이버 공격 증거는 없어\" 연합뉴스"
+        },
+        {
+          "title": "[뉴욕증시] 美 잇따른 전산장애에 S&P 500·나스닥 4일째↓ - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hSHR1LTh6RjJNQ19LMGhqVWlwT3Z2Y3dzeGFxdGlBWkJWdl9YcTctZG50ZW5pdE1CR3VHRzFSUlBJTF9SR2NKTWpCQ2M2eDZTanVra0tmSjNRWS1ZUTA3ekhqQ3YtbFJ5TGJ6emlmNC0?oc=5",
           "source": "연합인포맥스",
-          "published": "11-17 23:48",
-          "snippet": "\"앤트로픽 IPO 공모가 '희망밴드 상단' 78달러 웃돌 듯…19일부터 거래\" 연합인포맥스 앤트로픽 공모가 희망범위 상단 웃돌듯…흥행 기대감 연합뉴스 앤트로픽 공모가 희망범위 상단 웃돌 듯‥흥행 기대감 MBC 뉴스 [단독] 국민연금, 앤트로픽 간접 보유 1조원대…간접 보유만 1200만주 - 머니투데이 머니투데이 \"이 신호 뜨면 주식 팔아라?\"…앤트로픽 상장 앞두고 나온 경고 [분석+] 한국경제"
+          "published": "11-18 06:34",
+          "snippet": "[뉴욕증시] 美 잇따른 전산장애에 S&P 500·나스닥 4일째↓ 연합인포맥스"
         },
         {
-          "title": "[앤트로픽 IPO-①] 6배 주문의 실체…월가의 베팅은 어디까지 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TV29iWFBUV1NlWEx2b2owN0owYXhIU3JyQ0hjYUFKUy1LeUtnc3l0TmZMaDliVHI2QjhPaEdXT2dTLVduM3ZOZnhxcUxqTjdjVTRQcUNqZm9oNU01NVozdkdBSEJrcDZHTmlGbU5mTmY?oc=5",
+          "title": "AI 불확실성에 전산 장애까지... S&P500 7월 이후 최저 [뉴욕증시] - 매일일보",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZYmtBbllDSG0yekM5YUJPMGxOeVFsbVQtQVREbm1jQmZMOWRSTUdBSFNBSV9YTllvblRVYmpvdUpPNEtpRTlibXVGRFpoSkJSME9zZjdiajRUYmVnSkxuQ0VqS0U?oc=5",
+          "source": "매일일보",
+          "published": "11-18 08:29",
+          "snippet": "AI 불확실성에 전산 장애까지... S&P500 7월 이후 최저 [뉴욕증시] 매일일보"
+        },
+        {
+          "title": "[해외시황] 뉴욕증시, 엔비디아 실적 경계·전산 장애에 '하락'…나스닥 0.74%↓ - 프라임경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zSVlEa1ozazJYbGNCT1NqY183WlVFVUs0UExsdG9UOE1fX2JZemhMTGZfT3hPQ0Vucm1GMDNGY0tQYVZpNXNYV1QwUi0zMVlCNFRLOEpzUGFkeDRSOUxkNw?oc=5",
+          "source": "프라임경제",
+          "published": "11-18 08:41",
+          "snippet": "[해외시황] 뉴욕증시, 엔비디아 실적 경계·전산 장애에 '하락'…나스닥 0.74%↓ 프라임경제"
+        },
+        {
+          "title": "[뉴욕증시-1보] 美 잇따른 전산장애에 S&P 500·나스닥 4일째↓ | - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHaGJjMW9NSnJSVU5HVnAzcXJkZEdzNVpVQkZkQ012cFU3bFpoc2JsR1lSanJuQW0wUDZadUVpWll1bE85UnFMUVdZaUh2ckUyd0R6eFpqNmo3TVM2d2FVdFNLVW9jVkJDUlBnMVczQW1oeHBT?oc=5",
           "source": "연합인포맥스",
-          "published": "11-17 09:00",
-          "snippet": "[앤트로픽 IPO-①] 6배 주문의 실체…월가의 베팅은 어디까지 연합인포맥스"
+          "published": "11-18 06:16",
+          "snippet": "[뉴욕증시-1보] 美 잇따른 전산장애에 S&P 500·나스닥 4일째↓ | 연합인포맥스"
         },
         {
-          "title": "윈드워드, 나스닥 IPO 1.75억弗..\"장기지속 TSLP 항체\" - 바이오스펙테이터",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QV1pEUWd4ckF6NFdGeDJhc3RGQldGTjJRLXFBOVpKeUtIZXZGbmZvZEd1cXROMzBzbHFHVFJHeUJISHdZdGVqNHIwSEtnRlNwbGJvSHdFdw?oc=5",
-          "source": "바이오스펙테이터",
-          "published": "11-17 10:02",
-          "snippet": "윈드워드, 나스닥 IPO 1.75억弗..\"장기지속 TSLP 항체\" 바이오스펙테이터"
+          "title": "[3분증시] 뉴욕 증시, 전산장애 불안에 동반 하락 - 연합뉴스 한민족센터",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uMVpCN2VMc0N0cVlnX19xamx3ZGUtOE54QkFqLWt6REtvZ3d4VndPUk9JWEVLMFI0VHhnNUNwRDBJdTVRN1E5d3Y1QmNXa2FlTk1KOXc2c09qeUpLR2tYX3F4cHU0dW5ZQkxnSEo4MElqc01i?oc=5",
+          "source": "연합뉴스 한민족센터",
+          "published": "11-18 07:48",
+          "snippet": "[3분증시] 뉴욕 증시, 전산장애 불안에 동반 하락 연합뉴스 한민족센터"
+        }
+      ],
+      "엔비디아 실적 경계감": [
+        {
+          "title": "[오늘의 글로벌마켓] 뉴욕증시, 엔비디아 실적 앞둔 경계감 속 하락세 - 오피니언뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FaHUwd1RmY3JxekVmcnJiU1RXZERXMW43VUpUQS1PdjYwMHhHR2M3WkxqUk5lbE45Mm50ZWY0eUpKN3BGT1Rwby1Ga3BSUGh6UnVkbXJNVEZaTTVsUXlNNUhoNEJZOWRpeDFMeVFpZ0RhZw?oc=5",
+          "source": "오피니언뉴스",
+          "published": "11-18 07:43",
+          "snippet": "[오늘의 글로벌마켓] 뉴욕증시, 엔비디아 실적 앞둔 경계감 속 하락세 오피니언뉴스"
         },
         {
-          "title": "AI거품론 무색…앤스로픽 공모주에 6배 넘는 주문 몰려 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42Qk84aVplZnZUbWk1WmZ5Y3RhaGswbm9UZW5IYnVJQU9KZzRUUHpUOW9PeXZiR2xqeVljakVHa3ZiOWZtTFQyekdLeUd4QXFCTGJkQWVDRU1sQQ?oc=5",
+          "title": "뉴욕증시, 엔비디아 실적 발표 경계감·국가안보국(NSA)통신망 장애 투심악화에 하락 - 한국증권신문",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjcGlzVm5zVzJRenZJWnkydDlFQkI3dUVMalBYckJlR3IxVk9PdURQT2Z4U09CY21CbjZGcXpJMEoyVnVQTG51TVBUTEp3am9mNkUwOElqb3RsUHhHUFJJbnhBSWtHWmtTU1Br?oc=5",
+          "source": "한국증권신문",
+          "published": "11-18 08:40",
+          "snippet": "뉴욕증시, 엔비디아 실적 발표 경계감·국가안보국(NSA)통신망 장애 투심악화에 하락 한국증권신문"
+        },
+        {
+          "title": "엔비디아 실적 경계감에 일제히 하락…S&P500, 7월 이후 최저 [뉴욕증시 브리핑] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FMmdrMWNtb0UtdzhiLVE0aVByY0xxYjh0SDFCanM3OHpFd2otY3pRX1h3OEx4YllsMkk3RmtNcUd0d3l6SUJoaDU5VFpYRlc3aXY1RVFxak1UZw?oc=5",
           "source": "한국경제",
-          "published": "11-17 23:45",
-          "snippet": "AI거품론 무색…앤스로픽 공모주에 6배 넘는 주문 몰려 한국경제"
+          "published": "11-18 07:09",
+          "snippet": "엔비디아 실적 경계감에 일제히 하락…S&P500, 7월 이후 최저 [뉴욕증시 브리핑] 한국경제"
         },
         {
-          "title": "다음 주 전망: 엔비디아 실적과 앤스로픽 IPO가 AI 시장 신뢰도 시험대에 - VT Markets",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOXI1NEhoQzk2T3dwUWxocXl0LWN3aHAtY2ZIYXd0blJ3eldmVGV0QmJCVXVfdlQycTJxQlM4ZW5tdXFCYzE2enQ4RnlLMGRuc1dPVGpGUHVwcE5Fa2doT3NpZXoweXVOUlppaUwzTnVqeldLOGxDWWtiVFRHTGpRNjE0dXl0dFFXa21DcWRjcHZPOHZyOWJJTExiZEJHWURxdEdmZ0IySmVOMFdYWnNYRi02Mzg?oc=5",
-          "source": "VT Markets",
-          "published": "11-17 01:11",
-          "snippet": "다음 주 전망: 엔비디아 실적과 앤스로픽 IPO가 AI 시장 신뢰도 시험대에 VT Markets"
+          "title": "[속보]뉴욕증시, 엔비디아 실적 경계감에 하락 마감…나스닥 0.74%↓ - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJNV9vZEp6bG1scG4tLUtaNVFoRF85N2dfaDNjWUxPU09rZ1E3NVV1RlBpXzBzR0RkdDdpYWJQdUFPQmNQVmxQdFFQcm9mQngyY09hR3FKZ0kyTmFsaGlVUtIBeEFVX3lxTFB5MzVzcVlGczFGMTNFM2FlQmNmYUR5NDNFWlhud1V5V25pWms0OTlra0NWMFZQOGFSRnM3bnNRa1hKOC1vRXM3U2UzRnRudzQ1QU5VNE94dlU0cHdzTFVOS25Ra1U0Q2hSdHAzdW1Wczk5OFJ3eEw4YQ?oc=5",
+          "source": "뉴시스",
+          "published": "11-18 06:01",
+          "snippet": "[속보]뉴욕증시, 엔비디아 실적 경계감에 하락 마감…나스닥 0.74%↓ 뉴시스"
+        },
+        {
+          "title": "뉴욕증시, 엔비디아 실적 경계감에 하락 마감…나스닥 0.74%↓ - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRVXd4b3JVQ0NUZ1ZxMXE2OWRnbnhuNzNjZ0lUYWFaS05kSWdsOHlPSzk0RmFtRFJBVTUtWGo0LTBfSlNQeEVUVUlzcHdVeW1zOHRQc2JOX3hncE40SjA5R9IBeEFVX3lxTE1COXFlWlpaVGwzODdkcEY1WVVlWjJLZUs3eUVBTjVTZTUtRnltR3NRUVhXbGZoMU1JTUgxWlRzNHViMlV2cGF4QTVOZnVnZTNLWXhGTzZJYXJLakhJOVVfRU53cGs2V3Zhbl82bHJnNXZaQ21YaHBpMQ?oc=5",
+          "source": "뉴시스",
+          "published": "11-18 06:35",
+          "snippet": "뉴욕증시, 엔비디아 실적 경계감에 하락 마감…나스닥 0.74%↓ 뉴시스"
+        },
+        {
+          "title": "[증시-마감] 엔비디아 실적 앞두고 코스피 5,000선 하회…외인 줄매도 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kVDEyWHJQYm1DdlBYdkxmMC13dUFjNEdUT2dDdGFzMkk3M1lzWkZrQXZWenJhMms2aTV0R2JTaDI1c09scU42d3FJc2h5SGFnZjJ3b0EtRTJTWFR3YWk1bEMzWF9JRHhrc2JLMUFadTk?oc=5",
+          "source": "연합인포맥스",
+          "published": "11-17 16:13",
+          "snippet": "[증시-마감] 엔비디아 실적 앞두고 코스피 5,000선 하회…외인 줄매도 연합인포맥스 9개월 만에 5,000선 붕괴, 코스피에 무슨 일이? 네이버페이 머니스토리 \"코스피, 4600선 바닥권....마지막 진통, 버티며 분할매수\" 마켓인 6천피 붕괴 13거래일 만에…5천피도 무너졌다 매일경제 마켓 코스피, 9달여 만에 5천 선마저 내줘‥4,968로 마감 MBC 뉴스"
         }
       ]
     },
@@ -964,58 +939,33 @@
         "코스피 5000선",
         "코스피 5000선 돌파"
       ],
-      "바이오 신약 임상 발표": [
-        "바이오 신약 혁명",
-        "바이오 신약 관련주",
-        "바이오 신약 규제 과학과",
-        "바이오 신약",
-        "바이오 신약 규제 과학과 약학과 차이",
-        "바이오 신약 연구원",
-        "바이오 신약 개발 과정",
-        "바이오 신약 규제과학과 디시"
-      ],
       "서울 아파트값 하락세": [
+        "서울 아파트값 87주 연속 상승 원인과 강북권 중저가 아파트 매수세 현황",
         "서울 아파트값",
         "서울 아파트값 상승률",
         "서울 아파트값 추이",
-        "서울 아파트값 87주 연속 상승 원인과 강북권 중저가 아파트 매수세 현황",
         "서울 아파트값 상승",
         "서울 아파트값 전망",
         "서울 아파트값 순위",
         "서울 아파트값 86주"
       ],
-      "젠슨 황 복귀설 파장": [
-        "젠슨 황",
-        "젠슨 황 부인",
-        "젠슨 황 가족 사진",
-        "젠슨 황 한국어",
-        "젠슨 황 재산",
-        "젠슨 황 자녀",
-        "젠슨 황 국적",
-        "젠슨 황 나이"
+      "비만·치매 신약 임상 성과": [],
+      "S&P500 7월 이후 최저": [],
+      "미국 전산 시스템 장애": [
+        "미국 주식 전산 오류"
       ],
-      "미 연준 AI 거품 경고": [
-        "미 연준 금리",
-        "미 연준",
-        "미 연준 금리 인상",
-        "미 연준의장",
-        "미 연준 금리 발표일",
-        "미 연준 기준금리",
-        "미 연준 금리 전망",
-        "미 연준 발표"
-      ],
-      "앤스로픽 IPO 흥행": [
-        "앤트로픽 ipo",
-        "앤트로픽 ipo 일정",
-        "앤트로픽 ipo 연기",
-        "앤트로픽 ipo 날짜",
-        "앤트로픽 ipo 규모",
-        "앤트로픽 ipo 가치",
-        "앤트로픽 ipo 투자설명서",
-        "앤트로픽 ipo 신청"
+      "엔비디아 실적 경계감": [
+        "엔비디아 실적발표 일정",
+        "엔비디아 실적발표",
+        "엔비디아 실적발표일",
+        "엔비디아 실적",
+        "엔비디아 실적 예상",
+        "엔비디아 실적 발표 4 분기",
+        "엔비디아 실적 발표 일정 2026",
+        "엔비디아 실적 발표 후 주가"
       ]
     },
-    "newsletter_md": "# ⚡ ZIPPY | AI 경제 데일리 브리핑\n_2026-11-18 이슈 · 발행 2026-11-18_\n\n🇰🇷 **국내 경제:** `코스피 5000선 붕괴` · `바이오 신약 임상 발표` · `서울 아파트값 하락세`\n🌐 **해외 경제:** `젠슨 황 복귀설 파장` · `미 연준 AI 거품 경고` · `앤스로픽 IPO 흥행`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 코스피 5000선 붕괴와 9개월 만의 최저치\n> 키워드: 코스피 5000선 붕괴\n\n**📌 무슨 일이 있었나**\n- 코스피 지수가 전 거래일 대비 2.59% 하락하며 심리적 지지선인 5000선이 무너졌으며 이는 9개월 만에 기록한 최저 수준이다.\n- 외국인 투자자들의 대규모 매도세가 지수 하락을 주도했으며 반도체 업종에 이어 금융과 조선주까지 동반 약세를 보였다.\n- 미국 반도체주 하락과 젠슨 황 복귀설, 앤스로픽 IPO 등 대외 변수가 복합적으로 작용하며 투자 심리가 급격히 위축되었다.\n- 시장에서는 급격한 낙폭 이후 반등하는 트램펄린 효과를 기대하고 있으나 역자산효과에 따른 내수 위축 우려가 커지고 있다.\n\n**💬 핵심 Q&A**\n- **Q. 반도체주 하락이 금융과 조선주까지 연쇄적으로 끌어내린 배경은 무엇인가?**\n  A. 미국 반도체 지수 급락으로 촉발된 외국인의 위험자산 회피 심리가 국내 증시 전반으로 확산되었기 때문이다. 특히 시가총액 상위권인 반도체주가 무너지자 지수 방어력이 약해지며 업종 구분 없는 투매 현상이 나타났다.\n- **Q. 코스피 5000선 붕괴가 실물 경제에 미치는 역자산효과의 경로는 어떻게 나타나는가?**\n  A. 주식 가치 하락으로 가계의 가처분 소득이 줄어들었다고 느끼게 되어 소비 지출을 줄이는 경로로 작동한다. 이는 내수 경기 둔화로 이어져 기업 실적을 다시 악화시키는 악순환의 고리를 형성할 가능성이 크다.\n- **Q. 기술적 분석 측면에서 언급된 트램펄린 효과가 발생하기 위한 전제 조건은 무엇인가?**\n  A. 단기 과매도 구간 진입에 따른 저가 매수세 유입과 함께 대외 불확실성인 미 연준의 금리 스탠스가 안정되어야 한다. 외국인 수급이 매수 우위로 전환되는 시점이 기술적 반등의 분기점이 될 것으로 보인다.\n\n**👀 앞으로 볼 포인트**\n- 외국인 순매도세 진정 여부\n- 반도체 및 금융주 실적 반등 지표\n- 정부의 역자산효과 방어 대책 발표\n\n<sub>참고: [한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JQ3l4RmxRTkYyVE9JazA5azZCU3gyZW1sOXdFLWVnR1RkT216NlJNUGRYWlJNaDRHbHN0dG5HRzRxYmVrd3hnOWE4WlAwX1lzSUl3VGJrQXhvdw?oc=5) / [아시아투데이](https://news.google.com/rss/articles/CBMibkFVX3lxTE9naFJOcGxZZ2JsVTZoZUVkTzZQanlJeUd6OGluWEY2dkdob29HMWszaDR6dVQ0Zy1XajNMOWFONWZBVzNEV25MQjRMQ2tERHdwclVwZENpakt1S1V4LVkwVEpybGdJZDZoS01MSFRn?oc=5) / [Investing.com 한국어](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uQzE1WEo2bXd1VWtFeTBIQmJNcGtIRm51UVlzU0FESWJ4S0h5MVlRLXFOazNyR3hMeTZ3aENPVm82c0tsWklJeXY1alMtRllEblN3SEoyaWNjTmJMSTJnSQ?oc=5)</sub>\n\n---\n\n### 2. K-바이오 신약 임상 성공 및 글로벌 허가 릴레이\n> 키워드: 바이오 신약 임상 발표\n\n**📌 무슨 일이 있었나**\n- 아리바이오는 치매 치료제 후보물질 AR1001의 글로벌 임상 3상에서 1차 유효성 평가 목표를 달성하며 상용화 가능성을 높였다.\n- 한미약품은 유럽종양학회(ESMO)에서 항암 신약 2종의 임상 1상 데이터를 발표하며 차세대 항암제 개발 성과를 공개했다.\n- 온코닉테라퓨틱스는 세마글루타이드와 병용 시 근육 손실을 방지하는 후보물질의 비임상 결과를 발표해 비만 치료 시장의 주목을 받았다.\n- HK이노엔의 위식도역류질환 신약 케이캡이 브라질에서 품목 허가를 획득하며 남미 시장 진출을 위한 교두보를 확보했다.\n\n**💬 핵심 Q&A**\n- **Q. 아리바이오 AR1001의 임상 3상 유효성 달성이 치매 치료제 시장에서 갖는 의미는 무엇인가?**\n  A. 기존 치료제 대비 복용 편의성과 안전성을 확보한 경구용 치료제로서의 경쟁력을 입증한 결과이다. 글로벌 임상 3상 성공은 국내 바이오 기업의 신약 개발 역량이 세계적 수준에 도달했음을 시사한다.\n- **Q. 온코닉테라퓨틱스가 발표한 근육보존 후보물질이 비만 치료제 시장의 게임 체인저가 될 수 있는 이유는 무엇인가?**\n  A. 기존 GLP-1 계열 비만 치료제의 최대 단점인 근육량 감소 문제를 해결할 수 있는 병용 요법이기 때문이다. 체지방은 줄이면서 근육은 유지하려는 시장 수요를 충족시켜 치료 가치를 높일 수 있다.\n- **Q. HK이노엔 케이캡의 브라질 품목 허가가 국내 제약 산업의 글로벌 영토 확장에 미치는 영향은 무엇인가?**\n  A. 세계 10대 제약 시장 중 하나인 브라질 진출은 국산 신약의 글로벌 블록버스터 성장을 가속화하는 계기가 된다. 이는 다른 남미 국가들로의 추가 허가 및 수출 확대에 긍정적인 레퍼런스로 작용한다.\n\n**👀 앞으로 볼 포인트**\n- AR1001의 글로벌 품목 허가 신청 일정\n- 케이캡의 브라질 현지 출시 및 매출 추이\n- 한미약품 항암제 임상 2상 진입 여부\n\n<sub>참고: [MEDI:GATE NEWS](https://news.google.com/rss/articles/CBMiV0FVX3lxTE54VFFZbEQ5elRoYUdIanhxTmZ6dkRoLWppUDFLYUNXMThUc2NGNGJmYmpGWFNhU1huMHVIU2ctYmY1WUpNTlVOZEVGN3hRbFVkRmdvdkd3VQ?oc=5) / [MEDI:GATE NEWS](https://news.google.com/rss/articles/CBMiV0FVX3lxTE13TEZuNGlEMktIWlUxalFHX2ZlRFc4VVJFZGx0UjgyVmdEUk04MHFLaE1XZDJrV0JvNUJUX1hQRHk5Ykh3QXdZaUVEeU9OVnMwMWlaOUpFZw?oc=5) / [MEDI:GATE NEWS](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LMTBBRzRHTkVHM3R5c2I3bzMxUUh1Wm5QOHJjMnhKc0dncFhwc0kteVFfa2tsWm9EODJKODBIZDNKRndrLU5WdVQzY3NzLXdRbm0zQk9sZw?oc=5)</sub>\n\n---\n\n### 3. 거래 절벽과 매물 증가 속 서울 아파트값 하락 신호탄\n> 키워드: 서울 아파트값 하락세\n\n**📌 무슨 일이 있었나**\n- 서울 아파트 시장에서 거래량이 급감하고 매물이 쌓이면서 본격적인 가격 하락세로 전환될 수 있다는 우려가 확산되고 있다.\n- 서울 아파트 평균 전셋값이 사상 처음으로 5억 원을 돌파하며 서민들의 주거비 부담이 가중되고 내 집 마련 포기 사례가 늘고 있다.\n- 대치동 은마아파트 등 주요 재건축 단지에서 분담금과 재건축 초과이익 환수금이 각각 4억 원에 달하는 등 비용 부담이 현실화되었다.\n- 오세훈 서울시장은 주택 공급 부족의 책임을 지적하며 재건축 초과이익 환수제에 대한 전면적인 재검토가 필요하다는 입장을 밝혔다.\n\n**💬 핵심 Q&A**\n- **Q. 매물은 늘어나는데 거래량은 줄어드는 현상이 서울 아파트 시장에 시사하는 바는 무엇인가?**\n  A. 매수자와 매도자 간의 희망 가격 격차가 커지며 시장이 관망세로 돌아섰음을 의미한다. 고금리 지속과 대출 규제 강화로 인해 실수요자들의 구매력이 한계에 도달한 결과로 분석된다.\n- **Q. 재건축 단지에서 발생하는 고액의 분담금과 환수금이 공급 시장에 미치는 영향은 무엇인가?**\n  A. 조합원들의 자금 부담이 커지면서 재건축 사업 속도가 지연되거나 중단되는 사례가 늘어날 수 있다. 이는 장기적으로 서울 도심 내 신축 아파트 공급 부족을 심화시켜 가격 불안 요인으로 작용할 가능성이 있다.\n- **Q. 평균 전셋값 5억 원 돌파가 매매 시장으로의 수요 전이를 차단하는 이유는 무엇인가?**\n  A. 전세가 상승이 매매가를 밀어 올리는 과거 공식과 달리 현재는 대출 규제로 인해 전세 자금 마련조차 버거운 상황이다. 주거비 부담 증가가 가계 저축력을 떨어뜨려 매매 시장으로 진입할 수 있는 동력을 약화시키고 있다.\n\n**👀 앞으로 볼 포인트**\n- 재건축 초과이익 환수제 개편 논의 향방\n- 서울 아파트 매물 적체량 변화 추이\n- 전세자금 대출 금리 변동성\n\n<sub>참고: [한겨레](https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xOUdDX3lWajV2VjJDYkFwSG1IZ3FBR1lXeWUwcWVrQUNudlhnSlVscUpPU21adzNwb284b0JjbHZDdE9TS2l1SVVTdUFGS0haSktRQmJreGdoSV9MV3hUa2FLZTh1NG8y?oc=5) / [매일경제](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLSl9WUVBfTzRWQ1FFaUs1bTBDOUtkUWRxVGZodlVndXYtSkZKTXNacWZpUmpmT3N6VnA4XzdzNnJpLXlTWmpwZ1FCQUtIeHlIMU9mamRLSXc?oc=5) / [MEDI:GATE NEWS](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIOXpYV1l3WkVwOUNfQkpvR1BLUDc2YU55M0NKcHY0eGxmS3p1Ry1fTEpIZ1h2ODJxZC1nOHpzTTFSNU8yMHlrbFViX2dKc0tMTzVsczBzZw?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 젠슨 황 복귀 선언과 엔비디아발 글로벌 증시 변동성\n> 키워드: 젠슨 황 복귀설 파장\n\n**📌 무슨 일이 있었나**\n- 젠슨 황이 이사회의 요청이 있을 경우 엔비디아 최고경영자(CEO)로 복귀하겠다는 의사를 밝히며 뉴욕증시와 글로벌 IT 업종이 크게 흔들렸다.\n- 조지 소로스 등 미국의 주요 억만장자들이 젠슨 황의 퇴진설이 돌기 전 엔비디아 지분을 최대 20% 축소한 사실이 알려지며 매도세가 강화되었다.\n- 미국 정부는 젠슨 황 스캔들과 맞물려 중국의 AI 반도체 원격 접속을 차단하는 등 대중국 기술 규제를 한층 강화하고 나섰다.\n- 젠슨 황 복귀설과 앤스로픽 IPO 등 대외 악재가 겹치며 코스피 지수는 9개월 전 수준인 5000선 아래로 급락하는 후폭풍을 맞았다.\n\n**💬 핵심 Q&A**\n- **Q. 젠슨 황의 복귀 의사 표명이 시장에 불확실성으로 작용하는 이유는 무엇인가?**\n  A. CEO의 거취가 불분명해지면서 엔비디아의 장기 경영 전략과 리더십에 대한 의구심이 커졌기 때문이다. 특히 억만장자들의 선제적 지분 매각 사실이 드러나며 고점 신호로 해석되는 경향이 강해졌다.\n- **Q. 미국 정부가 AI 반도체 원격 접속까지 차단하며 규제 수위를 높인 배경은 무엇인가?**\n  A. 중국이 클라우드 서비스를 통해 우회적으로 고성능 AI 칩을 사용하는 경로를 원천 봉쇄하기 위함이다. 이는 AI 기술 패권 경쟁에서 우위를 점하려는 안보적 목적과 기술 유출 방지 전략이 결합된 조치이다.\n- **Q. 젠슨 황 관련 이슈가 국내 반도체 기업들의 주가에 직접적인 타격을 준 메커니즘은 무엇인가?**\n  A. 엔비디아는 국내 반도체 공급망의 핵심 수요처이므로 엔비디아의 경영 불안은 곧 국내 기업들의 수주 물량 감소 우려로 직결된다. 글로벌 AI 투자 심리 위축이 시가총액 비중이 높은 삼성전자와 SK하이닉스에 집중적인 매도세를 유발했다.\n\n**👀 앞으로 볼 포인트**\n- 엔비디아 이사회의 CEO 복귀 공식 요청 여부\n- 미국 정부의 추가적인 대중국 AI 규제 조치\n- 엔비디아 주가 변동에 따른 나스닥 지지선 확인\n\n<sub>참고: [네이버페이 머니스토리](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hUFg3N3JZX0R6ZjdtbDhwQlNkcW1ISHVmOGJ6UktodXotUVJrMzhVYTg0NWxRdW9RWmU4UXk1RllGVS1OOV9taVRncnJUemNyaGM1Wl9iS2I?oc=5) / [한겨레](https://news.google.com/rss/articles/CBMib0FVX3lxTE94ejVFV25EVFY2RHBFZ0ZJcGNCbnN5bXphTTZuWUVxekZMRERNbUNoOWVQZ1J6RWFoR0wtSDRnYlQ3V3BZRlNhNmFVME4ySDNzY001MEFLLWpxRXpWRHRsQXhCaHh1Y2c2N3ZhZWlkSQ?oc=5) / [KBC광주방송](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WLUg2NTRISjNMeWZxenVrZ2pEV1htbUoyQXlMWkZMR2VTM2dnZHJGV3pqc1Yta3pCRlFpZlc2OTY2Wlh4MVpHNVRfZm9ZQkhOMjB4QnJ4LWp5V09maHhQOE5B?oc=5)</sub>\n\n---\n\n### 2. 미 연준의 AI 거품 공식 경고와 금융 시스템 리스크\n> 키워드: 미 연준 AI 거품 경고\n\n**📌 무슨 일이 있었나**\n- 미 연준 의장은 AI 투자 실패가 경기 둔화와 실업 증가로 이어질 수 있다고 경고하며 AI 기술에 대한 과도한 낙관론을 경계했다.\n- 연준 조사 결과 대형 은행들의 AI 관련 위험 노출액이 1조 달러에 달하는 것으로 나타나 손실 확산에 따른 금융 불안정 가능성이 제기되었다.\n- AI 에이전트가 수분 내에 뱅크런을 유발할 수 있다는 분석과 함께 스테이블코인 확산이 금융 시스템의 취약성을 높일 수 있다는 경고가 나왔다.\n- IMF와 미 연준은 AI 투자 심리가 꺾일 경우 금융 시장 전반에 심각한 충격을 줄 수 있다는 점을 공식화하며 대비책 마련을 촉구했다.\n\n**💬 핵심 Q&A**\n- **Q. AI 에이전트가 어떻게 수분 내에 뱅크런을 유발할 수 있다는 것인가?**\n  A. AI가 실시간으로 시장 뉴스와 데이터를 분석해 위험 신호를 감지하면 인간보다 훨씬 빠른 속도로 대규모 자금 인출 명령을 실행하기 때문이다. 알고리즘에 의한 동시다발적 인출은 은행의 유동성 대응 능력을 순식간에 마비시킬 위험이 있다.\n- **Q. 대형 은행들의 AI 위험 노출액 1조 달러가 실제 손실로 이어질 수 있는 시나리오는 무엇인가?**\n  A. AI 기업들에 제공한 대출이나 투자가 기술 상용화 실패로 부실화될 경우 발생한다. AI 수익 모델이 증명되지 않은 상태에서 과잉 투자가 지속되다가 투심이 급격히 냉각되면 은행 자산 건전성이 급격히 악화될 수 있다.\n- **Q. 연준의 경고가 향후 금리 결정 경로에 어떤 변수로 작용할 수 있는가?**\n  A. AI 거품 붕괴가 실물 경제의 고용 악화로 이어질 경우 연준은 경기 부양을 위해 금리 인하 카드를 꺼낼 수밖에 없다. 즉, AI 리스크는 단순한 기술주 이슈를 넘어 거시 경제의 하방 압력을 높이는 핵심 변수로 부상했다.\n\n**👀 앞으로 볼 포인트**\n- 연준의 대형 은행 AI 리스크 관리 가이드라인 발표\n- AI 관련 기업들의 실적 가시성 확보 여부\n- 스테이블코인 규제 법안 입법 속도\n\n<sub>참고: [머니투데이](https://news.google.com/rss/articles/CBMieEFVX3lxTE9ybGdEMmpFQXpHUWFMaUdXb0hZa0JWLS1Nbi1vTHpQN3oxR2tDS0QyVnMxQUp2eVBuZWtoMldGMThKQ0hVSnQ4TnFrNzR4RUNiX2xZQWZVa3kwVUFXcm8zU0NkTkFiWHIxOXdwRmtnMmFuR2JoU3AxONIBfkFVX3lxTE51eWt0aF9CWlpmRlQ4dEVNRzJJWXI5MEg4ZVRKUUZfZXY4bk92NW9meW5rUkJKTFRIdEF0RUxMWm44UEdXbFBhWVVfUmJDUjB0bjlvQ1V1bW1FTlNpd01XSlo4MzZlWkV1ZWo5Q3pJdXZBU3hNNFExdV9CUmNRdw?oc=5) / [뉴스21 통신](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fME5Pd19wUmF6UTJKWGJEOFRjNThMY0hEbVV4OUppM2dPOFZHUW52N253SUZXRFRjSm01bGJEQ055bF8yZGRPd0hwVHhyWXpHX0VIVnVR?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WbVlKTUpCY2V6d0RUakVpSmtodV82eEZyQkpIeVRZWVpFOFV1aUg2eS1pZ1lndDZxU1lNQlFpOTdDekNPUWFFOEQyOVV4YWxhVFRaUzdZLV9hUkHSAWBBVV95cUxPNWJzR19jSTY3TXNmMEwtWjB0SFEzOV9LaDFTVGtIM2FPVTMtd3NlQnozX0JOYzBMNGtSUlFzc2poa3UtUVNrU01ndWFLXzIzUkFpQllxVzE2cWRnUTBNTFo?oc=5)</sub>\n\n---\n\n### 3. 앤스로픽 IPO 흥행과 AI 시장 신뢰도 시험대\n> 키워드: 앤스로픽 IPO 흥행\n\n**📌 무슨 일이 있었나**\n- 생성형 AI 스타트업 앤스로픽의 기업공개(IPO) 공모가가 희망 밴드 상단인 78달러를 웃돌 것으로 예상되며 시장의 뜨거운 관심을 받고 있다.\n- 공모주 청약 결과 모집 수량의 6배가 넘는 주문이 몰리며 월가 투자자들의 강력한 베팅이 이어지고 있음이 확인되었다.\n- 앤스로픽 주식은 오는 19일부터 나스닥 시장에서 본격적인 거래가 시작될 예정이며 이는 AI 거품론을 잠재울 분수령이 될 전망이다.\n- 시장 전문가들은 엔비디아의 실적 발표와 앤스로픽의 IPO 성과가 향후 AI 산업에 대한 투자 지속 여부를 결정할 핵심 시험대가 될 것으로 보고 있다.\n\n**💬 핵심 Q&A**\n- **Q. AI 거품론 속에서도 앤스로픽 IPO에 6배의 주문이 몰린 이유는 무엇인가?**\n  A. 앤스로픽이 보유한 고도화된 언어 모델 기술력과 오픈AI의 강력한 대항마라는 상징성이 투자자들을 유인했기 때문이다. 기술의 실질적 활용 가능성을 높게 평가한 기관 투자자들이 장기 성장성에 베팅한 결과로 풀이된다.\n- **Q. 앤스로픽의 상장 성과가 엔비디아 실적과 함께 AI 시장의 신뢰도를 결정하는 이유는 무엇인가?**\n  A. 엔비디아가 하드웨어 공급 측면의 지표라면 앤스로픽은 소프트웨어 서비스의 시장 가치를 증명하는 지표이기 때문이다. 두 지표가 모두 긍정적일 경우 AI 산업 전반의 펀더멘털이 견고하다는 신뢰를 줄 수 있다.\n- **Q. 공모가가 희망 밴드 상단을 돌파할 경우 발생할 수 있는 시장의 연쇄 반응은 무엇인가?**\n  A. 상장 대기 중인 다른 AI 스타트업들의 몸값이 동반 상승하며 IPO 시장에 훈풍이 불 수 있다. 또한 AI 기술주 전반에 대한 저가 매수세 유입을 촉발해 최근의 하락세를 반전시키는 트리거가 될 가능성이 존재한다.\n\n**👀 앞으로 볼 포인트**\n- 19일 나스닥 상장 첫날 주가 등락률\n- 앤스로픽의 최종 공모가 확정 수치\n- 엔비디아 실적 발표와의 상관관계\n\n<sub>참고: [뉴스핌](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pbWdjTUFnRFlndVdNaklFLTRmVWt0ZDU5dG45SnNzRlZXZlV5blBrV01yaW5pV3VrX0JtNWpUVmp2a014VjhUc0ZMYUR5Y2JLU1pDSUxCUG9Ia2JO?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTFBaanNYVGs4R1VSbmxHS1MtZERJVG9aSVI2ZFNOQkFyUC15Ty1KMFFsZ0l2YXdHa2JMcVVyU21kcGY4LTNKMzBWbEE0X214SjAwUFZkdUVnTjJqQ2FjZ3dGZWtyYk9oR0k5YmZNZnRoZjI?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE1TV29iWFBUV1NlWEx2b2owN0owYXhIU3JyQ0hjYUFKUy1LeUtnc3l0TmZMaDliVHI2QjhPaEdXT2dTLVduM3ZOZnhxcUxqTjdjVTRQcUNqZm9oNU01NVozdkdBSEJrcDZHTmlGbU5mTmY?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 보도를 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
+    "newsletter_md": "# ⚡ ZIPPY | AI 경제 데일리 브리핑\n_2026-11-18 이슈 · 발행 2026-11-18_\n\n🇰🇷 **국내 경제:** `코스피 5000선 붕괴` · `서울 아파트값 하락세` · `비만·치매 신약 임상 성과`\n🌐 **해외 경제:** `S&P500 7월 이후 최저` · `미국 전산 시스템 장애` · `엔비디아 실적 경계감`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 젠슨 황 사임에 5000선 무너진 코스피\n> 키워드: 코스피 5000선 붕괴\n\n**📌 무슨 일이 있었나**\n- 외국인이 1조 4,000억 원 규모의 매도세를 보이며 코스피 지수가 5,000선 아래로 하락 마감했다.\n- 젠슨 황의 사임 소식과 엔비디아 실적 발표를 앞둔 경계감이 시장의 하방 압력을 가중시킨 주요 원인으로 꼽힌다.\n- 지수 하락에 따른 역자산효과 우려가 커지면서 소비 위축 등 실물 경제로의 파급을 막기 위한 대책 마련 목소리가 높다.\n- 시장은 엔비디아의 매출 폭증 여부가 5,000선 회복의 결정적 분기점이 될 것으로 보고 치열한 고지전을 벌이고 있다.\n\n**💬 핵심 Q&A**\n- **Q. 젠슨 황 사임이 국내 증시에 즉각적인 충격을 준 이유는 무엇인가?**\n  A. 글로벌 AI 산업의 상징적 인물인 젠슨 황의 부재가 엔비디아의 리더십 공백과 사업 연속성 우려를 낳았기 때문이다. 반도체 비중이 압도적인 코스피 시장 특성상 대장주의 흔들림이 지수 전체의 투매로 이어졌다.\n- **Q. 외국인의 1조 4,000억 원대 매도가 시장 수급에 미치는 구체적 경로는 무엇인가?**\n  A. 대형주 중심의 집중 매도가 지수 하락을 주도하며 개인 투자자의 심리적 지지선을 무너뜨리는 결과를 초래한다. 이는 추가적인 반대매매 위험을 높이고 시장의 자생적 반등 동력을 약화시키는 연쇄 반응을 일으킨다.\n- **Q. 5,000선 붕괴가 실물 경제의 역자산효과로 이어지는 메커니즘은 무엇인가?**\n  A. 주식 가치 하락으로 가계의 가처분 자산이 줄어들면 소비 심리가 급격히 위축되는 현상이 나타난다. 자산 가치 하락이 내수 경기 침체로 이어져 기업 실적을 다시 악화시키는 악순환의 고리가 형성될 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 엔비디아 실적 발표 및 향후 가이던스\n- 외국인 순매도세 지속 여부와 수급 변화\n- 국내 상장사 실적 반등 및 금리 변동 추이\n\n<sub>참고: [머니투데이](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MMmpRcTdRcVFKaGMxSU85OHVKODh6RVNvRnlKaU9IYUYzN3hGQkdsNkR4MEVpLThYNkY4dDlIMDlSZDNGa254TzZ6dnVxRjhzREZ5V0pnRjJqNkdEaWRpdE9DWVJZOEpL0gFuQVVfeXFMUGtMcHBqQ1JoNWZYMkk3bDY0anVIbVFESlBEaUc5QkZHb3ZZQnRoVGRaX0dLaWZscVU4UVdJcHRnYml5VUtKUkJpV29wMWpWOXA5elE3TkpsN2U4VDJHSUlUUHFQeHM4dlY4U2NLRWc?oc=5) / [한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1TzIxRzhGdFpMWE91WXRaOEt6bWV5WjlCRHlWWngzd1ZQMmE3aW9pY2Y2S1RaTmZ1R3l4STJQTm5HYlQ4T3ZLOTU4Z3E5blQ3ck5qblROTUhGQQ?oc=5) / [업코리아](https://news.google.com/rss/articles/CBMibkFVX3lxTE01NUQyVW5rQ3NyWU04dF81M2FYVk5PTkxXMHd1WERzTUVfN1drNHRxYjh3dGJjUDg5dzQ0MkVzamdsbTlLcFhxMnJhdldJbEFmSl84NnNRS3EwZFJVQTVuOTRlenByTnU1YmNCYkpn?oc=5)</sub>\n\n---\n\n### 2. 거래 절벽 속 하락 신호탄 쏜 서울 아파트\n> 키워드: 서울 아파트값 하락세\n\n**📌 무슨 일이 있었나**\n- 서울 아파트 시장에서 거래량이 줄고 매물이 쌓이면서 본격적인 가격 하락장의 전조 현상이 나타나고 있다.\n- 서울에서 집을 마련하려면 월급을 12년 동안 한 푼도 쓰지 않고 모아야 할 정도로 주거비 부담이 한계치에 도달했다.\n- 평균 전셋값이 사상 처음으로 5억 원을 돌파하며 세입자들이 서울 외곽으로 밀려나는 현상이 가속화되고 있다.\n- 서울시는 공급 부족 책임론에 선을 그으며 재건축 초과이익 환수제 등 규제 재검토를 정부에 강력히 요구했다.\n\n**💬 핵심 Q&A**\n- **Q. 매물 증가와 거래 감소가 동시에 발생하는 현상은 하락장의 확정적 신호인가?**\n  A. 매수 대기자들이 고점 인식을 공유하며 관망세로 돌아선 반면 매도자들은 처분을 서두르기 시작한 수급 불균형의 결과이다. 가격 조정이 이루어지지 않은 상태에서 매물만 쌓이는 현상은 전형적인 하락 전환의 초기 단계로 해석된다.\n- **Q. 전셋값 5억 원 돌파가 매매 시장에 미치는 파급 효과는 무엇인가?**\n  A. 전세 자금 마련이 어려워진 수요자들이 매매로 전환하기보다 서울 외곽으로 이탈하는 '탈서울' 현상을 유발한다. 이는 도심 내 주거 수요 기반을 약화시켜 장기적으로 매매 가격의 하향 안정을 압박하는 요인이 된다.\n- **Q. 오세훈 시장이 재초환 재검토를 주장하는 근거와 시장 영향은 무엇인가?**\n  A. 과도한 환수금이 정비사업의 수익성을 악화시켜 민간 공급 물량 확보를 가로막고 있다는 판단에 근거한다. 규제 완화가 실현될 경우 재건축 추진 속도는 빨라질 수 있으나 단기적인 투기 수요 유입 가능성도 상존한다.\n\n**👀 앞으로 볼 포인트**\n- 서울 아파트 매물 적체 추이 및 거래량 변동\n- 재건축 초과이익 환수제 개편 논의 향방\n- 전세가율 변동에 따른 매매가 하방 압력 강도\n\n<sub>참고: [한겨레](https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xOUdDX3lWajV2VjJDYkFwSG1IZ3FBR1lXeWUwcWVrQUNudlhnSlVscUpPU21adzNwb284b0JjbHZDdE9TS2l1SVVTdUFGS0haSktRQmJreGdoSV9MV3hUa2FLZTh1NG8y?oc=5) / [MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTE81ZWt2SmxpOHV2d1A4VXpHOHJwQlVvZ3VaWDFxVzVua1U5d2c4ekRKYWRpNDRqVzVnN1kwS1p1aS1QQlY1cVpDVG9VM2ZIbldjMWw0cFdUZXQwd29XSXdxLVcyVk5NSG00UVhQYkZvUjhIZ0VJ0gF0QVVfeXFMTjRBQ3FielRJQnBYZnY3ZFc1eU9ZYU9sd01ITTl0MG1nUWgzc1lsdTNKVm5uRHhvSElIeXdUWDFtZWV2YWlhMnpncWRUaFFGRlV0bnl3ZWFJcnFod1ZyTzI3MkY1WllCeEp2ekNMbEJoVXlQc3E?oc=5) / [MEDI:GATE NEWS](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIOXpYV1l3WkVwOUNfQkpvR1BLUDc2YU55M0NKcHY0eGxmS3p1Ry1fTEpIZ1h2ODJxZC1nOHpzTTFSNU8yMHlrbFViX2dKc0tMTzVsczBzZw?oc=5)</sub>\n\n---\n\n### 3. K-바이오 비만·치매 신약 글로벌 임상 순항\n> 키워드: 비만·치매 신약 임상 성과\n\n**📌 무슨 일이 있었나**\n- 동아에스티의 비만 신약 후보물질이 글로벌 제약사 릴리의 제품과 유사한 수준의 체중 감량 효과를 보이며 주목받고 있다.\n- 아리바이오는 치매 치료제 AR1001의 글로벌 임상 3상에서 1차 유효성 평가 목표를 달성하며 상용화 가능성을 높였다.\n- 휴온스는 편의성을 높인 먹는 비만 치료제의 체중 및 체지방 감소 효과를 확인하며 임상 성과를 발표했다.\n- HK이노엔의 위식도역류질환 신약 케이캡은 브라질에서 품목 허가를 획득하며 남미 시장 진출의 교두보를 마련했다.\n\n**💬 핵심 Q&A**\n- **Q. 동아에스티 비만 신약이 릴리와 비슷한 감량 효과를 보인 것이 시장에서 갖는 의미는 무엇인가?**\n  A. 글로벌 선두 주자와의 기술 격차를 획기적으로 좁혔음을 증명하며 향후 기술 수출이나 공동 개발 협상에서 유리한 고지를 점할 수 있는 근거가 된다. 이는 국내 바이오 기업의 R&D 역량이 글로벌 수준에 도달했음을 시사한다.\n- **Q. 아리바이오의 임상 3상 유효성 달성이 치매 치료제 시장에 가져올 변화는 무엇인가?**\n  A. 난치병으로 분류되던 치매 분야에서 국산 신약이 글로벌 표준 치료제 대열에 합류할 수 있는 전기를 마련한 것이다. 임상 3상 성공은 실제 처방으로 이어질 가능성이 매우 높음을 의미하며 기업 가치 재평가의 핵심 동력이 된다.\n- **Q. 먹는 비만약 개발이 기존 주사제 중심 시장 판도를 어떻게 바꾸는가?**\n  A. 투약 편의성을 획기적으로 개선해 환자 순응도를 높임으로써 비만 치료 시장의 저변을 대폭 확대할 것으로 전망된다. 주사제에 거부감을 느끼던 잠재적 수요층을 흡수하여 시장 점유율을 빠르게 확보할 수 있는 강력한 무기가 된다.\n\n**👀 앞으로 볼 포인트**\n- 아리바이오 AR1001의 최종 품목 허가 일정\n- 동아에스티 비만약의 후속 임상 데이터 발표\n- 디지털융합의약품 임상 및 허가 기준 마련 추이\n\n<sub>참고: [데일리메디](https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yUHIwd0JzS0U0MkRxWGsxSFdPeHdJa2p5ZkhhQi1kc0RyRmlocFNLQTNsUXBlLXBEQVJBdHh0TERBX0E0YzRZUVNpWHRCcGliaC1EeDAxbTFKak95Wm1VQkN0T1lfQVRD?oc=5) / [MEDI:GATE NEWS](https://news.google.com/rss/articles/CBMiV0FVX3lxTE13TEZuNGlEMktIWlUxalFHX2ZlRFc4VVJFZGx0UjgyVmdEUk04MHFLaE1XZDJrV0JvNUJUX1hQRHk5Ykh3QXdZaUVEeU9OVnMwMWlaOUpFZw?oc=5) / [MEDI:GATE NEWS](https://news.google.com/rss/articles/CBMiV0FVX3lxTE54VFFZbEQ5elRoYUdIanhxTmZ6dkRoLWppUDFLYUNXMThUc2NGNGJmYmpGWFNhU1huMHVIU2ctYmY1WUpNTlVOZEVGN3hRbFVkRmdvdkd3VQ?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. AI 불확실성에 7월 수준으로 후퇴한 S&P500\n> 키워드: S&P500 7월 이후 최저\n\n**📌 무슨 일이 있었나**\n- 뉴욕증시의 S&P500 지수가 1% 하락하며 지난 7월 이후 가장 낮은 수준으로 떨어졌다.\n- 인공지능 산업에 대한 수익성 불확실성과 미국 내 잇따른 전산 장애 소식이 투자 심리를 급격히 위축시켰다.\n- 엔비디아의 실적 발표를 앞두고 시장 전반에 경계감이 확산되면서 4거래일 연속 하락세를 이어갔다.\n- 기술주 중심의 매도세가 지수 전체를 끌어내리며 여름 상승분을 대부분 반납하는 양상을 보였다.\n\n**💬 핵심 Q&A**\n- **Q. S&P500이 7월 이후 최저치로 떨어진 결정적 트리거는 무엇인가?**\n  A. AI 기술주에 대한 과열 우려와 예상치 못한 전산 시스템 장애가 결합하며 시장의 펀더멘털 신뢰를 흔들었기 때문이다. 특히 대형 기술주들의 실적 지속성에 대한 의구심이 지수 하락의 촉매제가 되었다.\n- **Q. 4거래일 연속 하락이 향후 뉴욕증시 추세에 미치는 영향은 무엇인가?**\n  A. 단기 조정 국면을 넘어 중장기 하락 추세로의 전환 여부를 결정짓는 기술적 변곡점에 도달했음을 의미한다. 연속 하락은 투자자들의 손절매를 유도하여 하락 압력을 가중시키는 심리적 저항선을 형성한다.\n- **Q. 엔비디아 실적 경계감이 S&P500 지수 전체의 하락으로 번지는 이유는 무엇인가?**\n  A. 엔비디아가 지수 내 차지하는 비중이 크고 AI 산업 생태계의 가늠자 역할을 하기 때문이다. 엔비디아의 실적 실망감이 전 업종의 AI 투자 위축으로 해석될 수 있다는 우려가 시장 전반에 확산된 결과이다.\n\n**👀 앞으로 볼 포인트**\n- S&P500의 주요 기술적 지지선 회복 여부\n- 엔비디아 실적 발표 후 기술주 반등 강도\n- 미국 전산 장애 복구 완료 및 원인 규명 발표\n\n<sub>참고: [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GM05XNXEyTFQ4UVI3bU8teVZkZnFlMmpROW9yamoxaTJ3djB1b1NUVllFak1OYjgybE5Ebl9NaGtpeW5HUzk1VGN4Y3R5OGNGQlZtY010RkxielE?oc=5) / [매일일보](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZYmtBbllDSG0yekM5YUJPMGxOeVFsbVQtQVREbm1jQmZMOWRSTUdBSFNBSV9YTllvblRVYmpvdUpPNEtpRTlibXVGRFpoSkJSME9zZjdiajRUYmVnSkxuQ0VqS0U?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iN0ZjT3ZkZXIzdlBkdWs0b2Y2S2JRSmVoMzVpYk9VUkpzdUpRbGM2T1JQaWlaMDFZTl9VdS1GOU42ZWNJNmxoTEp2Z3cydFdBT0NfZ29VbXZJQXZpQVFtS9IBYEFVX3lxTE5iN0ZjT3ZkZXIzdlBkdWs0b2Y2S2JRSmVoMzVpYk9VUkpzdUpRbGM2T1JQaWlaMDFZTl9VdS1GOU42ZWNJNmxoTEp2Z3cydFdBT0NfZ29VbXZJQXZpQVFtSw?oc=5)</sub>\n\n---\n\n### 2. 5일간 이어진 전산 장애에 멈춰선 뉴욕증시\n> 키워드: 미국 전산 시스템 장애\n\n**📌 무슨 일이 있었나**\n- 미국 내 주요 기술 인프라에서 닷새 동안 연쇄적인 시스템 장애가 발생하며 국가 안보와 경제 전반에 우려가 확산되고 있다.\n- 국가안보국(NSA) 통신망 장애 소식까지 전해지며 투자자들의 불안 심리가 극에 달해 증시 하락을 부추겼다.\n- 전산 장애로 인한 불확실성은 S&P500과 나스닥 지수를 4일 연속 하락세로 몰아넣는 주요 원인이 되었다.\n- 기술적 결함이 단순 사고를 넘어 인프라 전반의 취약성 문제로 비화되면서 시장의 리스크 관리 비용이 증가하고 있다.\n\n**💬 핵심 Q&A**\n- **Q. 닷새간 이어진 전산 장애가 단순 기술 오류 이상의 의미를 갖는 이유는 무엇인가?**\n  A. 국가 핵심 통신망인 NSA까지 영향을 받으면서 사이버 보안 체계 전반에 대한 구조적 불신을 야기했기 때문이다. 이는 단순한 불편을 넘어 국가 안보와 직결된 인프라의 취약성을 드러낸 사건으로 평가된다.\n- **Q. 전산 장애 불확실성이 나스닥 지수에 더 큰 타격을 주는 경로는 무엇인가?**\n  A. 클라우드와 네트워크 의존도가 높은 빅테크 기업들의 서비스 중단 우려가 실적 악화 전망으로 직결되기 때문이다. 시스템 신뢰도 하락은 사용자 이탈과 운영 비용 상승으로 이어져 기술주 밸류에이션에 부정적인 영향을 미친다.\n- **Q. 이번 사태가 향후 미국 기술 기업들의 비용 구조에 어떤 변화를 가져오는가?**\n  A. 시스템 중단 리스크를 줄이기 위한 인프라 이중화와 보안 솔루션 투자 확대가 강제되면서 단기적인 수익성 저하 요인이 될 수 있다. 리스크 관리가 기업 경영의 핵심 과제로 부상하며 관련 보안 비용 지출이 크게 늘어날 전망이다.\n\n**👀 앞으로 볼 포인트**\n- 전산 장애의 구체적 원인 및 해킹 연루 여부\n- 미 정부의 국가 기간 시설 보안 강화 대책\n- 기술 기업들의 시스템 복구 및 안정화 비용 규모\n\n<sub>참고: [Investing.com 한국어](https://news.google.com/rss/articles/CBMicEFVX3lxTFBjeDFvbmhjSmlDYnZvc3pkX193UEk5eUpRTGtjdDAyQXJWT0NXODJlSUktZkZleUNZX2FnZ01JQ3FKUDNqMmc5ZU9RdlY4eTFkMmxvWmNmY2NPVmdmWEVqTHMzVUVQM0dvUmRnX0gzUEI?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE5hSHR1LTh6RjJNQ19LMGhqVWlwT3Z2Y3dzeGFxdGlBWkJWdl9YcTctZG50ZW5pdE1CR3VHRzFSUlBJTF9SR2NKTWpCQ2M2eDZTanVra0tmSjNRWS1ZUTA3ekhqQ3YtbFJ5TGJ6emlmNC0?oc=5) / [매일일보](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZYmtBbllDSG0yekM5YUJPMGxOeVFsbVQtQVREbm1jQmZMOWRSTUdBSFNBSV9YTllvblRVYmpvdUpPNEtpRTlibXVGRFpoSkJSME9zZjdiajRUYmVnSkxuQ0VqS0U?oc=5)</sub>\n\n---\n\n### 3. 엔비디아 실적 발표 앞두고 얼어붙은 글로벌 증시\n> 키워드: 엔비디아 실적 경계감\n\n**📌 무슨 일이 있었나**\n- 엔비디아의 실적 발표를 앞두고 글로벌 증시가 극도의 경계감을 보이며 일제히 하락 마감했다.\n- 나스닥 지수는 0.74% 하락했으며 국내 코스피 시장에서도 외국인들이 줄매도에 나서며 5,000선이 무너졌다.\n- 시장은 엔비디아의 매출 성장세가 둔화될 경우 AI 산업 전반의 거품이 꺼질 수 있다는 공포에 휩싸여 있다.\n- 국가안보국 통신망 장애 등 대외 악재까지 겹치며 실적 발표 전 위험 자산을 회피하려는 심리가 강하게 나타났다.\n\n**💬 핵심 Q&A**\n- **Q. 엔비디아 실적에 대한 경계감이 유독 이번 분기에 강하게 나타나는 이유는 무엇인가?**\n  A. 그동안의 가파른 주가 상승을 정당화할 만큼의 압도적인 실적 성장이 지속될 수 있는지에 대한 시장의 의구심이 임계점에 도달했기 때문이다. 기대치가 최고조에 달한 상황에서 작은 실망감도 큰 폭의 주가 조정을 유발할 수 있다는 공포가 작용하고 있다.\n- **Q. 엔비디아 실적 결과가 국내 반도체 밸류체인 기업들에 미치는 영향은 무엇인가?**\n  A. 실적 가이던스에 따라 HBM 등 고대역폭 메모리를 공급하는 국내 기업들의 수주 물량과 주가 향방이 결정되는 동조화 현상이 심화될 것이다. 엔비디아의 성장이 꺾일 경우 국내 반도체 수출 전선에도 직접적인 타격이 불가피하다.\n- **Q. 실적 발표 전 외국인 투자자들이 코스피에서 대규모 매도를 선택한 전략적 배경은 무엇인가?**\n  A. 불확실성이 큰 이벤트 직전에 신흥국 시장의 비중을 줄여 포트폴리오의 변동성을 관리하려는 리스크 오프 전략의 일환이다. 글로벌 대장주의 실적 확인 전까지는 안전 자산 선호 심리가 강화되며 자금 유출이 지속되는 경향이 있다.\n\n**👀 앞으로 볼 포인트**\n- 엔비디아의 4분기 매출 가이던스 수치\n- AI 칩 수요 지속성 및 차세대 제품 출시 일정\n- 실적 발표 직후 시간외 주가 및 선물 지수 움직임\n\n<sub>참고: [오피니언뉴스](https://news.google.com/rss/articles/CBMickFVX3lxTE5FaHUwd1RmY3JxekVmcnJiU1RXZERXMW43VUpUQS1PdjYwMHhHR2M3WkxqUk5lbE45Mm50ZWY0eUpKN3BGT1Rwby1Ga3BSUGh6UnVkbXJNVEZaTTVsUXlNNUhoNEJZOWRpeDFMeVFpZ0RhZw?oc=5) / [한국증권신문](https://news.google.com/rss/articles/CBMia0FVX3lxTFBjcGlzVm5zVzJRenZJWnkydDlFQkI3dUVMalBYckJlR3IxVk9PdURQT2Z4U09CY21CbjZGcXpJMEoyVnVQTG51TVBUTEp3am9mNkUwOElqb3RsUHhHUFJJbnhBSWtHWmtTU1Br?oc=5) / [한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FMmdrMWNtb0UtdzhiLVE0aVByY0xxYjh0SDFCanM3OHpFd2otY3pRX1h3OEx4YllsMkk3RmtNcUd0d3l6SUJoaDU5VFpYRlc3aXY1RVFxak1UZw?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 보도를 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
     "generation_mode": "gemini"
   },
   "yesterday": {
@@ -2976,5 +2926,5 @@
     "newsletter_md": "# ⚡ ZIPPY | AI 경제 데일리 브리핑\n_2026-11-11 ~ 2026-11-17 이슈 · 발행 2026-11-18_\n\n🇰🇷 **국내 경제:** `코스피 5000선 붕괴` · `제약사 신약 임상 결과 발표` · `AI 도입에 따른 직무 재편`\n🌐 **해외 경제:** `젠슨 황 퇴진 및 복귀 논란` · `미국 물가 상승과 금리 인상` · `나스닥 AI주 매도세 확산`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 코스피 5000선 붕괴와 AI 악재 전환\n> 키워드: 코스피 5000선 붕괴\n\n**📌 무슨 일이 있었나**\n- 코스피 지수가 전 거래일 대비 2.59% 하락하며 9개월 만에 5,000선 아래로 추락했다.\n- 그동안 증시 상승을 견인했던 AI 산업이 오히려 악재로 작용하며 지수 하락의 주요 원인이 되었다.\n- 외국인 투자자들은 정치권 간담회 직후 매도세로 돌아서며 지수 하락을 주도하는 모습을 보였다.\n- 증권가가 제시했던 8,300선 전망과 달리 지수가 급락하자 개인 투자자들의 불만이 고조되고 있다.\n- 주요 종목들이 고점 대비 80% 이상 상승해야 본전인 상황에 놓이면서 매물 부담이 증시 반등을 가로막고 있다.\n\n**💬 핵심 Q&A**\n- **Q. 성장 동력이었던 AI가 왜 갑자기 증시의 악재로 변했는가?**\n  A. AI 산업의 수익성 실현 속도가 시장의 기대치에 미치지 못하면서 고평가 논란이 불거졌기 때문이다. 특히 반도체 규제와 같은 외부 변수가 겹치며 AI 관련주에 쏠렸던 자금이 급격히 이탈하는 양상을 보이고 있다.\n- **Q. 외국인 투자자들이 특정 간담회 직후 매도세로 전환한 배경은 무엇인가?**\n  A. 국내 정치 및 정책적 불확실성이 해소되지 않으면서 투자 심리가 급격히 위축된 결과이다. 글로벌 증시 대비 국내 증시의 매력도가 낮아진 상황에서 외국인들이 리스크 관리 차원의 비중 축소에 나선 것으로 분석된다.\n- **Q. 개인 투자자들의 '본전 매도' 심리가 증시에 어떤 영향을 미치는가?**\n  A. 주가가 조금만 반등해도 손실을 만회하려는 매도 물량이 쏟아지는 상단 저항을 형성하게 된다. 이는 거래량 감소와 함께 지수의 하방 압력을 높여 추세적인 반등을 어렵게 만드는 요인이 된다.\n\n**👀 앞으로 볼 포인트**\n- 외국인 투자자의 순매도 지속 여부\n- AI 관련주에 대한 시장 평가 변화\n- 4,800선 지지 여부 및 기술적 반등 가능성\n\n<sub>참고: [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12MmZMUVpndEMwQjV1R2g0cEVjbDlWbUFmZ0lPSkR1U1ZDTGJBbTM5Uk1qRFVYRy1WcVN5Um80OXpRM2lnZ3I3cWN3NW44RUFiM2FQdUUwMkNiNks3Vy1UVi11Y2pUSGc?oc=5) / [한겨레](https://news.google.com/rss/articles/CBMickFVX3lxTFBZNXV5ZktDamN1SUdST2F2VXo0Uk1ONUJ1ZS1YZmFWMkxVX3dNd0pFRDdIb3ppTXRzRXZhSjVJQ25VUnVKZ1IxUGx5dXFTUjRRNmJkU3o2SVRSQ2hQNEhFR0xNa0J3Zk5MWVVjb19IaFJYQQ?oc=5) / [한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCVW5VazlkSUVSUEppYXdGbks3Nnl2NG5wVnZScElRX0tTc0wxdmlMT2NYSXkzWnNTUHZRcXFhZTYtdVdZNjFWZnNFQWF4aXg3YWc2bmVmRWdDQQ?oc=5)</sub>\n\n---\n\n### 2. K-제약바이오 신약 임상 성과 잇따라\n> 키워드: 제약사 신약 임상 결과 발표\n\n**📌 무슨 일이 있었나**\n- 아리바이오의 치매 치료제 AR1001이 글로벌 임상 3상에서 1차 유효성 평가 목표를 달성했다.\n- 한미약품은 항암 신약 2종의 임상 1상 데이터를 유럽종양학회(ESMO)에서 발표하며 기술력을 입증했다.\n- 휴온스는 경구용 비만 치료제 HUC1-622의 비임상 결과를 공개하며 차세대 약물 가능성을 제시했다.\n- 동아ST는 메타비아와 함께 비만 치료제 DA-1726의 전임상 비교 결과를 발표하며 경쟁력을 확인했다.\n- HK이노엔의 위식도역류질환 신약 케이캡이 브라질에서 품목 허가를 획득하며 남미 시장 진출을 본격화했다.\n\n**💬 핵심 Q&A**\n- **Q. 아리바이오가 달성한 임상 3상 1차 유효성 목표의 의미는 무엇인가?**\n  A. 글로벌 시장에서 상업화 가능성을 입증하는 가장 중요한 관문을 통과했다는 뜻이다. 이는 국내 기업이 개발한 치매 치료제가 세계 시장에서 경쟁할 수 있는 과학적 근거를 확보했음을 시사한다.\n- **Q. 경구용 비만 치료제 비임상 결과가 시장에서 주목받는 이유는 무엇인가?**\n  A. 기존 주사제 방식보다 복용 편의성이 뛰어나 시장 점유율을 빠르게 확대할 수 있기 때문이다. 휴온스와 동아ST의 연구 결과는 글로벌 비만 치료제 시장의 판도 변화를 예고하는 지표로 해석된다.\n- **Q. 국내 의료진의 임상 결과가 네이처 메디슨에 게재된 것이 왜 중요한가?**\n  A. 분당서울대병원 연구팀의 위암 임상 결과 게재는 한국의 임상 시험 수준이 세계 최고 권위지에 인정받았음을 의미한다. 이는 향후 글로벌 제약사들과의 공동 연구 및 신약 개발 협력에서 유리한 고지를 점하는 계기가 된다.\n\n**👀 앞으로 볼 포인트**\n- 아리바이오 AR1001의 최종 임상 데이터\n- 케이캡의 브라질 현지 출시 및 매출 추이\n- 한미약품 항암 신약의 글로벌 라이선스 아웃\n\n<sub>참고: [MEDI:GATE NEWS](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KcGJxMWtkaU1RRV9xOHY4U29faTI0V09yMlRLckJwY2g1OEEzajBEZzV1ZG5yaDJiVWZOMFgxNHRPaTNHM0JkTnNra3gya0RUTUxiWDhYaw?oc=5) / [MEDI:GATE NEWS](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtakUwcDRBWUFrRk8yMnpkZ0JRMjlkR04xcUtKaXJ0eW1VZFNrZW93RHlPYVc4SlB6STB2VW5reXFxMFhZMzBkRlJnUFd1SFRRVE1xLU4xQQ?oc=5) / [MEDI:GATE NEWS](https://news.google.com/rss/articles/CBMiV0FVX3lxTE13TEZuNGlEMktIWlUxalFHX2ZlRFc4VVJFZGx0UjgyVmdEUk04MHFLaE1XZDJrV0JvNUJUX1hQRHk5Ykh3QXdZaUVEeU9OVnMwMWlaOUpFZw?oc=5)</sub>\n\n---\n\n### 3. 2030년까지 4억 명 직무 재편 가속화\n> 키워드: AI 도입에 따른 직무 재편\n\n**📌 무슨 일이 있었나**\n- AI 기술 도입으로 인해 2030년까지 전 세계 직장인 4억 3,550만 명의 직무가 재편될 것으로 전망된다.\n- 한국은행 고용연구팀은 AI 활용을 통해 근로자들의 업무 시간이 평균 3.7시간 단축될 것으로 분석했다.\n- 미 연준은 AI가 경제 성장을 가속화하는 동시에 일자리 구조를 근본적으로 바꿀 세 가지 미래 시나리오를 검토 중이다.\n- 삼성서울병원은 수술 장면의 맥락을 인식하는 'AI 눈'을 개발하여 의료 현장의 직무 효율성을 높이고 있다.\n- AI는 단순 반복 업무를 넘어 전문직 영역까지 침투하며 고용 시장의 새로운 패러다임을 요구하고 있다.\n\n**💬 핵심 Q&A**\n- **Q. 업무 시간 3.7시간 단축이 고용 시장에 미치는 역설적인 영향은 무엇인가?**\n  A. 생산성 향상으로 이어질 수 있으나, 동일한 업무량에 필요한 인력이 줄어들어 신규 채용 감소나 인력 감축 압박으로 작용할 수 있다. 단축된 시간을 창의적 업무에 재배치하느냐가 기업 경쟁력의 핵심이 될 것이다.\n- **Q. 미 연준이 따져본 AI의 세 가지 미래 시나리오의 핵심은 무엇인가?**\n  A. AI가 노동력을 대체하는 속도와 새로운 일자리를 창출하는 속도 사이의 균형을 분석하는 것이다. 특히 AI가 인플레이션을 억제하는 생산성 도구가 될지, 아니면 소득 불평등을 심화시킬지에 초점을 맞추고 있다.\n- **Q. 의료 현장의 'AI 눈' 개발이 전문직 직무 재편에 시사하는 바는 무엇인가?**\n  A. 고도의 숙련도가 필요한 수술 영역에서도 AI가 보조 역할을 수행하며 인간의 실수를 줄이고 효율을 극대화할 수 있음을 보여준다. 이는 전문직의 역할이 '직접 수행'에서 'AI 시스템 관리 및 최종 판단'으로 이동함을 의미한다.\n\n**👀 앞으로 볼 포인트**\n- AI 도입에 따른 산업별 고용 지표 변화\n- 미 연준의 AI 경제 파급 효과 보고서\n- 정부의 직무 재교육 및 고용 안전망 정책\n\n<sub>참고: [매일경제](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9VS1dCM3g1d3U3SkRaN290dHRKUW1RZmZzU0pLY3dKSWFUMjJBSE1oemNBZHM1ZFJUVkdlY1l1Vl9yYUczTjBXeWdRQS1jZw?oc=5) / [MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTE14cFFoZ201M2RNdWNlOHNEbDl1dUxpZUJtLTRialQzSXhJYjF5aE1rdUh5LWpqczdRYzVocUViandBUVdIb1V0alJqU2h3Tk00anBjMnpqSldadHcxRllRYzEzeEJ1T3EzVE1leVFfaHZMOWNv0gF0QVVfeXFMTkV3aUlJZ1NSU3V0bUN4U0UxVVRQSE1qWXY3cHRucmpOUks4cHRmeXljcGdLQmhtMk1YMzJrbGtvX1J3dWVMalFGMEh1UlhqcVcyT2RySG9SeGR4bTA5OERXUnJCRTZKVC1iSnI2MjNGbDlJbU8?oc=5) / [한겨레](https://news.google.com/rss/articles/CBMickFVX3lxTFBZNXV5ZktDamN1SUdST2F2VXo0Uk1ONUJ1ZS1YZmFWMkxVX3dNd0pFRDdIb3ppTXRzRXZhSjVJQ25VUnVKZ1IxUGx5dXFTUjRRNmJkU3o2SVRSQ2hQNEhFR0xNa0J3Zk5MWVVjb19IaFJYQQ?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 젠슨 황 퇴진과 복귀 무산에 나스닥 폭락\n> 키워드: 젠슨 황 퇴진 및 복귀 논란\n\n**📌 무슨 일이 있었나**\n- 젠슨 황의 퇴진 소식과 유가 급등이 맞물리며 뉴욕증시 나스닥 지수가 0.4% 하락 마감했다.\n- 엔비디아 복귀 가능성을 두고 월가의 전망이 엇갈렸으나 최종적으로 복귀가 무산되었다는 소식이 전해졌다.\n- 복귀 무산 여파로 반도체주가 일제히 급락하며 나스닥 지수는 하루 만에 626포인트 폭락했다.\n- 젠슨 황의 거취를 둘러싼 불확실성이 커지면서 AI 산업 전반에 대한 투자 심리가 급격히 냉각되었다.\n- 시장에서는 젠슨 황의 부재가 엔비디아의 리더십 공백과 차세대 칩 개발 지연으로 이어질 것을 우려하고 있다.\n\n**💬 핵심 Q&A**\n- **Q. 왜 젠슨 황 한 명의 거취가 나스닥 626포인트 폭락이라는 극단적 결과를 초래했는가?**\n  A. 젠슨 황은 단순한 경영자를 넘어 AI 혁신의 상징적 인물로 평가받기 때문이다. 그의 부재는 엔비디아뿐만 아니라 AI 생태계 전체의 성장 속도가 둔화될 수 있다는 공포를 시장에 심어주었다.\n- **Q. 젠슨 황 복귀설이 시장에서 반복적으로 제기된 배경은 무엇인가?**\n  A. 엔비디아의 주가 급락을 막기 위한 시장의 희망 섞인 관측과 내부 경영권 승계 과정의 혼선이 겹쳤기 때문이다. 명확한 복귀 의사가 확인되지 않은 상태에서 흘러나온 루머가 시장 변동성을 키우는 독이 되었다.\n- **Q. 반도체주 '와르르' 현상이 향후 기술주 전반으로 확산될 가능성은 어떠한가?**\n  A. 엔비디아가 기술주 전체의 밸류에이션을 지탱하던 기둥이었기에 확산 가능성이 매우 높다. 반도체 공급망에 연결된 빅테크 기업들의 실적 전망치가 하향 조정될 경우 기술주 전반의 조정 국면이 길어질 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 엔비디아 차기 CEO 선임 절차\n- 나스닥 지수의 18,000선 지지 여부\n- 반도체 섹터 내 자금 유출입 동향\n\n<sub>참고: [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pUU9rX0VMZWZhX3pFRmdJNGtOTDg2YUtGYWpId3hXdlZIVHNXM3BiTTBia29mRnZ0bXNoTE5Jbk9LTDFKa0ZsUEZ6Rl9DWVJrTmZCbkVsTjhVODjSAWBBVV95cUxNc3lGX3hrdzNLWkE0RmR3VWN2VnhjMmJidGtzLWhMTEJKenRWWUR4OHhkSlRvUzhjajl1aElWN3VQbWpTOGhLYlpod3ZrWG5aT3pvd3pGbFlXMEFJVU50ZDE?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE5FY1JpVHpxOUQ4VXFBYjlMX1RRSGU4dmRYR2pqYm5abkk0NzBIWFFTMTBZclhBcUlnbFA0VlBMN1F5ZmpCZ21uQzNmOVFBX3NHdkgzaUZCazBTenZiY05aZUVJY0dUSlBTNG9tdlV1eHXSAXRBVV95cUxNamxEaDU2Rlc2OW9tSnhUdHJjR0had1g0SEhfTk12VHBlYUUtUnQ1aElDbjlLOVJQVDdWM0RPU3N4YlZjejNqWnFJQ2txcV94Y1NGQnUtQzlTa0FoMUl0S0NWcWVqTUxnMDFRb3N0Sm10eE5iZw?oc=5) / [MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTE9YWVBTS005ZDdMM3NMUDBQeWpKNlJra2lCZ0tnMXV4bkVnaHJjVzY3N2tGRHo4Mjh4bW1uNG9EZGlzNmZOUWdzYjRXUC1NVks4akZHaVg3OXViUFlRNHJVcUJxdVg5cUZOSVhwckJfZTBvVnpN0gF0QVVfeXFMUHpxRXRfYTExYzdqd0NVZGFBWFVOdUNqV0lUeUVyUTZIc3ByOU5mMG5MVXdqU1YtSDhJb2xqWEszRGFyWFFPcW9QcHdFRjV6cVp4dkF3SzVKeTQ5VU1hWEFKdElaaks2dTRQNElWZ0RhLV9QcWk?oc=5)</sub>\n\n---\n\n### 2. 미 물가 쇼크에 12월 빅스텝 가능성 부상\n> 키워드: 미국 물가 상승과 금리 인상\n\n**📌 무슨 일이 있었나**\n- 미국 소비자물가지수(CPI)가 시장 예상치를 웃돌면서 인플레이션 우려가 다시 확산되고 있다.\n- 물가 지표를 근거로 12월에 0.5%p 금리 인상을 고려할 수 있다.\n- 예상을 상회한 물가 발표 직후 나스닥 지수는 0.7% 하락하며 긴축 공포를 반영했다.\n- 국내 시장에서는 변동형 주택담보대출 금리가 고정형보다 높아지는 금리 역전 현상이 나타났다.\n- 기술주와 반도체주를 중심으로 매도세가 집중되면서 나스닥은 장중 2%대까지 밀려나며 하락 마감했다.\n\n**💬 핵심 Q&A**\n- **Q. 연준이 12월에 다시 0.5%p 인상인 '빅스텝'을 거론하게 된 결정적 이유는 무엇인가?**\n  A. 물가 상승세가 둔화될 것이라는 기대와 달리 CPI가 견고하게 유지되면서 인플레이션 고착화 위험이 커졌기 때문이다. 월러 이사의 발언은 시장의 조기 금리 인하 기대를 꺾고 강력한 긴축 의지를 재확인한 것으로 풀이된다.\n- **Q. 주택담보대출 금리 역전 현상이 가계 경제에 미치는 구체적인 위험은 무엇인가?**\n  A. 변동금리 차주들의 이자 부담이 고정금리보다 커지면서 가처분 소득이 급감하고 소비 위축으로 이어진다. 이는 부동산 시장의 거래 절벽을 심화시키고 가계 부채의 부실 위험을 높이는 트리거가 될 수 있다.\n- **Q. 물가 지표 발표 후 왜 유독 기술주와 반도체주의 하락폭이 컸는가?**\n  A. 금리 인상은 미래 수익을 현재 가치로 환산할 때 할인율을 높여 성장주인 기술주의 기업 가치를 깎아내리기 때문이다. 특히 막대한 설비 투자가 필요한 반도체 기업들은 조달 비용 상승 압박을 직접적으로 받게 된다.\n\n**👀 앞으로 볼 포인트**\n- 12월 FOMC 금리 결정 결과\n- 미국 국채 금리 및 주택담보대출 금리 추이\n- 추가 발표될 고용 및 소비 지표\n\n<sub>참고: [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WS2xWaGQ4b2RSUkhZUm5oblNJNFNaRXJFTmI2TTNQLW5YSlpvNnNPQnVjekNWZzl6RFB1Yy1oY3V5LUowR3M2VnE3VjBwM3NVTkZyUTZfUUtJVmc?oc=5) / [매일경제](https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wNjRPVkVlZGljWjg3QTVSbU9IRkcxeVJVaDZSN2dMWENfMjJyaXVTVGhtWlBCa25kcElXYlRuY3NuYmRLNTNHR1RXclZ3eC12M1Zydw?oc=5) / [서울신문](https://news.google.com/rss/articles/CBMifkFVX3lxTE5EeGtabjBQLVpnNFcwQ29KNlYtaWQyNENKSFpVTzJfTWdjNDV0TXBRdWNIMDV3X3U3ZTdZd21sSTFEeXNLOVhrZVVjMXBoOVJOdlU4S3E5NllHS1FNM2VzUlJvZmNLUUtYT3RoVkl3Y2xiM1VLTTliVWJCbl9DQQ?oc=5)</sub>\n\n---\n\n### 3. 나스닥 2.5% 급락하며 조정 국면 진입\n> 키워드: 나스닥 AI주 매도세 확산\n\n**📌 무슨 일이 있었나**\n- 나스닥 지수가 AI 관련주에 대한 투매 여파로 2.49% 급락하며 고점 대비 10% 하락한 조정장에 진입했다.\n- 엔비디아 주가는 하루 만에 4.1% 하락하며 AI주 매도세를 주도하는 모습을 보였다.\n- 젠슨 황 사임 여파와 실적 우려가 겹치면서 뉴욕 증시 3대 지수가 일제히 하락 마감했다.\n- 시장에서는 AI 산업의 고점 통과론이 확산되며 투자자들이 차익 실현에 적극적으로 나서고 있다.\n- AI주 매도세가 지속되면서 나스닥은 장중 한때 2.5%를 넘어서는 급락세를 연출했다.\n\n**💬 핵심 Q&A**\n- **Q. 나스닥이 '고점 대비 10% 하락'하여 조정 국면에 진입했다는 것은 무엇을 의미하는가?**\n  A. 단순한 일시적 하락을 넘어 시장의 추세가 하락세로 굳어질 수 있는 심리적 마지노선을 넘었다는 뜻이다. 이는 기관 투자자들이 포트폴리오를 재조정하고 보수적인 포지션으로 전환하는 신호탄이 된다.\n- **Q. 엔비디아 4.1% 하락이 다른 AI 관련주들로 빠르게 전이된 경로는 무엇인가?**\n  A. 엔비디아는 AI 밸류체인의 최상단에 위치하여 전체 섹터의 수익성을 가늠하는 척도 역할을 하기 때문이다. 대장주의 급락은 AI 서버, 소프트웨어, 전력 인프라 등 연관 산업 전반의 성장성에 대한 의구심으로 확산되었다.\n- **Q. AI주 투매 현상이 멈추기 위해 필요한 시장의 구체적인 분기점은 무엇인가?**\n  A. AI 도입 기업들이 실제 매출과 영업이익에서 유의미한 성과를 증명하거나, 엔비디아의 차세대 칩 수요가 여전히 강력하다는 데이터가 확인되어야 한다. 막연한 기대감이 아닌 실질적인 '숫자'가 확인될 때까지 변동성은 지속될 것으로 보인다.\n\n**👀 앞으로 볼 포인트**\n- 나스닥 지수의 추가 조정 및 지지선 확인\n- 엔비디아의 향후 실적 가이드라인 발표\n- AI 인프라 투자 규모 유지 여부\n\n<sub>참고: [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZOXJrdTAzXzJLeC1XbF8wZzBuaF9QU2dpZEdzc0h6ajczaTFOMC1WRW5JY1dZbVppenR5MjJ0TW85V0Q3VWc5cS1RMXQ4eDJCcGVFejAtdThjNkJ1ZlBtMlIwcEp0RFk?oc=5) / [조선일보](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbDlLMHE2MVhSU1lRZGZVZGNQckhES0lRS0RLRmtiMXIwcldwLVVDSEVUQUFlaWUwWkdYQmVuUUJHcmV4V1hwN1RETUZyNm5mRHhFZGVldWc0R2dvT1FSVnp1Z292eUJGV1ZubnRta3ZvNFEyR21DT0g5YjBHcDcxaGdwcTRiUEhR?oc=5) / [오피니언뉴스](https://news.google.com/rss/articles/CBMicEFVX3lxTE9GaWRHNnFzMWR6dThyMUlfQzlMY2FaeE8tcGtQek1CUGtMR0NmN0tLMjdITlk2ZHhCd2xHb3JOVnhMcmh6SDFmQ216S1lmLTJUVFVGWVVJNFpkQVpGMEZ2R1cyc0dSZ2JCU0tYbHJSek8?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 보도를 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
     "generation_mode": "gemini"
   },
-  "updated_at": "2026-11-18 05:01:56 KST"
+  "updated_at": "2026-11-18 08:49:44 KST"
 }
