@@ -5,356 +5,348 @@
     "end_date": "2026-11-18",
     "domestic": {
       "keywords": [
-        "금융사 해킹 우려",
-        "데이터센터 냉각 솔루션",
-        "앤트로픽 상장 촉각"
+        "가계빚 사상 최대",
+        "상장사 순이익 감소",
+        "젠슨 황 리스크"
       ],
       "results": {
-        "금융사 해킹 우려": {
-          "headline": "금융사 보안 점검 연 2회로 강화",
+        "가계빚 사상 최대": {
+          "headline": "가계빚 2030조 돌파, 주담대 역대 최대 기록",
           "facts": [
-            "대형 금융사의 보안 취약점 분석 및 평가 주기가 기존 연 1회에서 연 2회로 확대되며 보안 관리가 강화되었다.",
-            "가상자산 거래소 코인원의 고객센터가 해킹당하며 자산 탈취와 사생활 침해에 대한 우려가 확산되고 있다.",
-            "미국 기술 인프라에서 닷새간 연이은 시스템 장애가 발생하며 글로벌 금융 시스템 전반의 불안감이 커졌다.",
-            "첨단 AI 해킹을 막기 위한 전담 조직인 '차르' 신설이 논의 중이나 부처 간 장벽이 걸림돌로 지적되었다.",
-            "미국이 동남아를 경유하는 AI 칩 우회 경로를 차단하면서 한국 파운드리와 후공정 업계에 악영향이 예상된다."
+            "2026년 3분기 기준 대한민국 가계신용 잔액이 2030조 5000억 원을 기록하며 사상 최대치를 경신했다.",
+            "주택담보대출을 중심으로 한 가계대출이 급증하며 전체 빚 규모를 끌어올렸으며 카드 빚을 의미하는 판매신용도 함께 증가했다.",
+            "최근 증시 조정의 영향으로 이른바 빚투 수요가 줄어들면서 가계빚 증가 폭 자체는 6분기 만에 최소 수준으로 둔화했다.",
+            "주택 관련 대출은 여전히 사상 최대 기록을 이어가고 있어 가계 재무 건전성에 대한 우려가 지속되고 있다."
           ],
           "watch": [
-            "금융당국 보안 가이드라인 개정안 시행 시점",
-            "AI 해킹 방지 전담 기구의 부처 간 협의 결과",
-            "미국 인프라 시스템 장애 복구 및 원인 발표"
+            "금융당국의 가계대출 추가 규제 시행 여부",
+            "부동산 시장 거래량 변화와 주담대 추이",
+            "증시 반등 시 신용공여 잔액 재증가 가능성"
           ],
           "qna": [
             {
-              "q": "금융사 취약점 평가 주기를 연 2회로 늘리는 조치가 실질적인 해킹 방어력을 높이는가?",
-              "a": "기존 연 1회 점검은 급변하는 해킹 기술에 대응하기에 시간적 간극이 컸으나, 주기를 단축함으로써 최신 보안 위협을 조기에 발견할 가능성이 커졌다. 다만 평가 횟수 증대보다 AI를 활용한 고도화된 공격을 실시간으로 탐지할 수 있는 기술적 인프라 구축이 병행되어야 실효성을 거둘 수 있다."
+              "q": "가계빚 총액은 역대 최대인데 증가 폭이 6분기 만에 최소를 기록한 배경은 무엇인가?",
+              "a": "주택담보대출은 주택 거래 흐름에 따라 여전히 높은 수준을 유지하고 있으나, 최근 국내외 증시 조정으로 인해 주식 투자를 위한 신용대출 수요가 급격히 꺾였기 때문이다. 자산 시장의 불확실성이 커지면서 공격적인 레버리지 투자가 줄어든 것이 전체 가계신용 증가 속도를 늦추는 브레이크 역할을 했다."
             },
             {
-              "q": "코인원 고객센터 해킹 사고가 단순 정보 유출을 넘어 자산 탈취로 이어질 가능성은 어느 정도인가?",
-              "a": "고객센터를 통해 유출된 개인정보가 2차 공격인 피싱이나 계정 탈취에 악용될 경우 실제 자산 손실로 직결될 위험이 매우 높다. 특히 사생활 침해 정보가 결합된 정교한 사회공학적 해킹은 보안 인증 체계를 우회할 수 있어 거래소의 추가적인 인증 강화가 시급한 상황이다."
+              "q": "카드 빚을 포함한 판매신용까지 급증한 현상은 가계 소비 구조에 어떤 신호를 주는가?",
+              "a": "고물가와 고금리 상황이 지속되면서 가계의 실질 구매력이 저하되자 부족한 생활비를 신용카드 결제나 할부 등 외상 거래로 충당하고 있음을 시사한다. 이는 가계의 가처분 소득이 한계에 다다랐음을 보여주는 지표로, 향후 소비 위축과 연체율 상승으로 이어질 위험이 크다."
             },
             {
-              "q": "미국의 AI 칩 우회 경로 차단이 한국 반도체 후공정 업계에 어떤 경로로 타격을 주는가?",
-              "a": "동남아시아는 한국 반도체 기업들의 주요 후공정 기지이자 우회 수출 통로 역할을 해왔으나, 패스트트랙이 닫히면서 물류 경로가 제한되고 통관 절차가 까다로워졌다. 이는 공급망 비용 상승과 직결되며, 결과적으로 한국 파운드리 업체의 글로벌 수주 경쟁력을 약화시키는 요인이 된다."
+              "q": "증시 조정이 가계부채 관리 측면에서 긍정적인 변수로 작용할 수 있는가?",
+              "a": "단기적으로는 과도한 빚투 열기를 식혀 가계부채의 급격한 팽창을 억제하는 효과가 있으나, 담보 가치 하락에 따른 반대매매 리스크를 키울 수 있다. 부채의 질적 측면에서 볼 때 생산적인 투자 대출이 아닌 자산 가격 하락에 따른 손실 보전용 대출이 늘어날 경우 가계 경제의 타격은 더 심화될 수 있다."
             }
           ]
         },
-        "데이터센터 냉각 솔루션": {
-          "headline": "AI 데이터센터 냉각 시장 선점 경쟁",
+        "상장사 순이익 감소": {
+          "headline": "코스피 3분기 순이익 30% 급감, 반도체 편중 심화",
           "facts": [
-            "LG전자가 가전 분야를 넘어 AI 인프라 시장을 겨냥해 데이터센터 냉각 솔루션을 새로운 승부수로 던졌다.",
-            "삼성전자는 215조 원의 현금 실탄을 바탕으로 데이터센터 냉각, 로봇, 전력 분야의 전방위 M&A를 검토 중이다.",
-            "아마존 CEO는 데이터센터 건설을 멈출 경우 중국에 AI 주도권을 완전히 넘겨줄 수 있다고 경고하며 공격적 투자를 시사했다.",
-            "삼성SDI는 미국에서 수조 원 규모의 ESS용 배터리 수주에 성공하며 데이터센터 전력 관리 시장에서의 입지를 굳혔다.",
-            "국내 기업들은 AI 데이터센터의 핵심인 전력과 냉각 시장 밸류체인을 선점하기 위해 기술 개발 경쟁에 돌입했다."
+            "코스피 상장사의 2026년 3분기 순이익이 전 분기 대비 30% 감소하며 수익성이 크게 악화된 것으로 나타났다.",
+            "삼성전자와 SK하이닉스 등 반도체 기업이 전체 코스피 순이익의 약 3분의 2를 차지하며 특정 업종 쏠림 현상이 극심해졌다.",
+            "코스닥 상장사들은 환율 하락과 내수 부진의 영향으로 분기 순손실을 기록하며 적자 전환하거나 수익성이 급락했다.",
+            "올해 9개월 누적 순이익은 전년 대비 3.7배 수준으로 성장세를 유지 중이나 3분기 들어 흑자 기업 수가 줄어드는 등 경고등이 켜졌다."
           ],
           "watch": [
-            "LG전자 냉각 솔루션의 글로벌 빅테크 공급 계약",
-            "삼성전자의 데이터센터 관련 대형 M&A 공식 발표",
-            "미국 내 AI 데이터센터 건설 규제 및 지원 법안"
+            "반도체 외 업종의 4분기 실적 회복 여부",
+            "환율 변동에 따른 수출 기업 채산성 변화",
+            "내수 부진 타개를 위한 정부의 경기 부양책"
           ],
           "qna": [
             {
-              "q": "LG전자가 가전 기술을 데이터센터 냉각 솔루션에 어떻게 접목하여 승부수를 띄우는가?",
-              "a": "에어컨과 냉장고 등에서 축적한 고효율 칠러 및 열교환 기술을 대규모 서버실의 열을 식히는 액침 냉각이나 공조 시스템으로 전환하여 적용하고 있다. 가전 사업에서 검증된 에너지 효율성과 내구성을 바탕으로 운영 비용 절감이 절실한 빅테크 데이터센터 시장을 공략하는 전략이다."
+              "q": "누적 순이익은 전년 대비 크게 늘었는데 왜 3분기 단일 실적은 30%나 급락했는가?",
+              "a": "상반기까지 실적을 견인했던 반도체 업황의 성장 속도가 둔화된 가운데 환율 하락으로 인한 환차손이 반영되면서 장부상 이익이 크게 줄었기 때문이다. 또한 고물가로 인한 비용 상승과 내수 소비 침체가 제조업 전반의 마진율을 갉아먹으며 실적 하향 조정을 유도했다."
             },
             {
-              "q": "아마존 CEO가 데이터센터 건설 중단을 중국에 대한 주도권 상실로 연결 짓는 논거는 무엇인가?",
-              "a": "AI 모델의 성능은 컴퓨팅 파워와 데이터 처리량에 비례하며, 이를 뒷받침하는 물리적 기반이 데이터센터이기 때문이다. 건설 속도가 늦어지면 연산 자원 확보에서 뒤처지게 되고, 이는 곧 국가적 차원의 AI 알고리즘 및 서비스 경쟁력 격차로 이어진다는 위기감이 반영된 것이다."
+              "q": "삼성전자와 SK하이닉스가 순이익의 3분의 2를 차지하는 구조는 증시에 어떤 리스크를 주는가?",
+              "a": "한국 증시 전체의 실적이 반도체 사이클 하나에 종속되는 결과를 초래하여 지수의 변동성을 극대화한다. 반도체 업황이 꺾일 경우 이를 대체할 만한 주력 산업이 부재하다는 점이 확인되면서 외국인 투자자들의 이탈을 가속화하는 원인이 된다."
             },
             {
-              "q": "삼성SDI의 ESS 배터리 수주가 데이터센터 냉각 시장과 어떤 상관관계를 갖는가?",
-              "a": "데이터센터는 막대한 전력을 소모하며 발생하는 열을 제어하기 위해 안정적인 전력 공급이 필수적인데, ESS는 전력 부하를 조절해 냉각 시스템의 효율을 극대화한다. 고성능 ESS 배터리는 냉각 장치의 갑작스러운 중단을 막는 비상 전원 역할과 동시에 전체 에너지 관리 비용을 낮추는 핵심 요소다."
+              "q": "코스닥 상장사들이 순손실을 기록하며 적자로 돌아선 결정적인 원인은 무엇인가?",
+              "a": "중소형주가 포진한 코스닥 특성상 내수 경기 부진에 더 민감하게 반응했으며, 수출 비중이 높은 기업들은 원화 강세 구간에서 가격 경쟁력과 수익성이 동시에 약화되었기 때문이다. 특히 자금 조달 비용 상승으로 인한 금융 비용 부담이 중소기업들의 순이익을 잠식한 결과로 풀이된다."
             }
           ]
         },
-        "앤트로픽 상장 촉각": {
-          "headline": "앤트로픽 19일 나스닥 상장 확정",
+        "젠슨 황 리스크": {
+          "headline": "엔비디아 젠슨 황 사법 리스크와 경영권 흔들",
           "facts": [
-            "AI 스타트업 앤트로픽이 공모가 희망 범위를 상회할 것으로 예상되는 가운데 11월 19일 나스닥 상장을 앞두고 있다.",
-            "월가는 앤트로픽이 폭발적인 성장을 거듭하여 2030년에는 매출 676조 원을 달성할 것으로 전망했다.",
-            "앤트로픽의 IPO 흥행 여부는 딥시크, 업스테이지 등 아시아 AI 기업들의 상장 가능성을 가늠할 이정표가 될 전망이다.",
-            "코스닥 상장사 3곳 중 1곳이 한계기업으로 나타나면서 부실 기업 증가가 우량 기업의 저평가를 심화시키고 있다.",
-            "뉴욕증시는 엔비디아 실적 발표와 앤트로픽 상장이라는 대형 이벤트를 앞두고 관망세 속에 하락 마감했다."
+            "미국 증권거래위원회(SEC)가 엔비디아의 허위 공시 의혹을 정조준하며 젠슨 황 CEO를 향한 사법 리스크가 확산되고 있다.",
+            "젠슨 황의 딸이 '메가스피드 사태'에 개입해 막강한 영향력을 행사했다는 의혹이 제기되며 가족 경영에 대한 비판이 거세졌다.",
+            "미국 정부가 AI 칩의 중국 유출 규제를 강화하는 과정에서 젠슨 황을 통한 우회 수출 구멍이 발견되어 당국의 조사가 진행 중이다.",
+            "내부 암투를 시사하는 '루비오 메모'가 공개되고 차기 CEO 후보가 부상하면서 젠슨 황의 복귀설과 퇴진설이 동시에 교차하고 있다."
           ],
           "watch": [
-            "19일 나스닥 상장 직후 앤트로픽의 시초가 형성",
-            "앤트로픽 상장이 국내 AI 관련주에 미치는 영향",
-            "엔비디아 실적 발표와 AI 섹터 전반의 수급 변화"
+            "SEC의 허위 공시 조사 결과 및 과징금 규모",
+            "미국 정부의 대중국 AI 칩 수출 추가 제재안",
+            "엔비디아 이사회의 경영권 승계 관련 공식 입장"
           ],
           "qna": [
             {
-              "q": "앤트로픽의 2030년 매출 676조 원 전망은 어떤 근거로 도출된 수치인가?",
-              "a": "기업용 AI 모델 수요의 기하급수적 증가와 구독형 서비스 모델의 확장을 전제로 월가에서 산출한 낙관적 시나리오다. 현재의 성장 속도가 유지되고 AI 인프라 투자가 매출로 본격 전환되는 시점을 고려할 때, 단순 소프트웨어 판매를 넘어 플랫폼 생태계를 장악할 것이라는 기대가 반영되었다."
+              "q": "SEC가 제기한 '허위 공시' 의혹의 핵심 쟁점은 무엇인가?",
+              "a": "엔비디아가 AI 칩 수요를 전망하는 과정에서 실제 주문 데이터보다 부풀려진 수치를 시장에 공개하여 주가를 인위적으로 부양했는지 여부가 핵심이다. 만약 고의적인 왜곡이 입증될 경우 대규모 징벌적 과징금은 물론 경영진의 법적 책임 회피가 어려워질 전망이다."
             },
             {
-              "q": "앤트로픽의 IPO가 아시아 AI 스타트업들에게 구체적으로 어떤 도화선 역할을 하는가?",
-              "a": "앤트로픽이 높은 기업가치를 인정받으며 성공적으로 안착할 경우, 수익성 논란에 직면했던 AI 기업들에 대한 투자 심리가 급격히 회복될 수 있다. 이는 딥시크나 업스테이지 같은 아시아권 후발 주자들이 상장 시 밸류에이션을 높게 책정받을 수 있는 비교군(Peer Group) 기준을 마련해준다."
+              "q": "젠슨 황의 가족이 개입된 '메가스피드 사태'가 기업 지배구조에 어떤 타격을 주는가?",
+              "a": "공식적인 직함 이상의 영향력을 행사한 가족 구성원의 개입은 엔비디아의 의사결정 시스템이 투명하지 않다는 증거로 해석되어 기관 투자자들의 신뢰를 떨어뜨린다. 이는 전문 경영인 체제의 붕괴로 비춰질 수 있으며 주주 가치 훼손을 우려한 집단 소송의 빌미가 될 수 있다."
             },
             {
-              "q": "코스닥 내 한계기업 비중 증가가 앤트로픽 같은 우량 AI 기업의 상장 환경에 어떤 악영향을 주는가?",
-              "a": "부실 기업이 시장에 잔류하며 자본을 잠식하면 시장 전체의 신뢰도가 하락하고 우량 기업으로 유입되어야 할 유동성이 분산된다. 특히 AI 같은 고성장 섹터 내에서도 옥석 가리기가 엄격해지면서, 상장 초기 오버행 이슈나 저평가 리스크를 가중시키는 원인이 된다."
+              "q": "미 정부의 규제 강화와 젠슨 황의 개인 리스크가 결합될 경우 시장에 미칠 파장은?",
+              "a": "엔비디아의 가장 큰 시장 중 하나인 중국 매출이 완전히 차단될 위험이 있으며, CEO의 도덕적 해이 이슈가 겹치면서 기술적 우위와 별개로 주가 프리미엄이 빠르게 제거될 수 있다. 이는 엔비디아를 넘어 글로벌 AI 밸류체인 전체의 투자 심리를 냉각시키는 트리거가 될 것이다."
             }
           ]
         }
       },
       "news": {
-        "금융사 해킹 우려": [
+        "가계빚 사상 최대": [
           {
-            "title": "연이은 해킹에 대형 금융사 취약점 분석·평가 주기 연 1회에서 2회로 확대 - MBC 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vXy1uRjZ5b1pLZ1ZXR3pKRF9STkl4enQzMGVQaUxDOWUxZW12cVpSTGVfS3JZSVFiV0tLaTlCZ2x5VXpYWmNtUkQwZHVJaTZoMm5Zb3N5MGFpanVzNnE4MWNiLVU0QVNQbmMxMWRPbFBLMU5E0gF0QVVfeXFMTlRiQmpLbFc0RGRLazRuT0ZSSVk5OERSaEhsMkdwZExiS2c0anlCektwalBmVUxQTTVXSDNZRkFPUUtsTDFaZ0ZvOHRJdWhMV0ZPVGxHNUZrRW55YzVXbWJ4MVlKc3JiWHpGZmZrYWU2R0FNMHY?oc=5",
+            "title": "3분기 가계빚 2천30조‥주택 관련 대출 '사상 최대' - MBC 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iRVlEODh5eHBZVHlWOGxuYXVzME8tZ2VkVmNqZ3VRSUw1WlBNU0l4ajRoWm85MjN3LW1DMEtTWXoyT25USGdiTkJxbjhhMHo1bnhMSEQtRjA0T1daZ09sNVVBZHg2ZGJtaG04LUdMVzRkbzZj0gF0QVVfeXFMUGV5TXhHanlLNnhJQWhWenpibEN4Z1BkOHdZUXN6WnJNeEc4TkJqY28zWEduU2hSdmxaUVpJb245NnpnNHQzbVpoWThGR2lYRXVWRDNGWnlfWUN3dF8zb19fUFowRmpzeWpxRlJzOWlLbG1oNk8?oc=5",
             "source": "MBC 뉴스",
-            "published": "11-17 17:12",
-            "snippet": "연이은 해킹에 대형 금융사 취약점 분석·평가 주기 연 1회에서 2회로 확대 MBC 뉴스 [단독]해킹당하고도 15일간 깜깜… 금융 피해 키울 우려 동아일보 금융권 해킹 잇따르자…금감원, 자산운용사 소집해 보안 점검 주문 마켓인 금감원 “침해사고 책임 물을 것”…전금·온투업자 보안점검 당부 KBS 뉴스 \"자산운용사가 해킹 약한 고리 될 수도\"…100여개 운용사 보안 점검 By EBN Investing.com 한국어"
+            "published": "11-18 13:53",
+            "snippet": "3분기 가계빚 2천30조‥주택 관련 대출 '사상 최대' MBC 뉴스 3분기 가계빚 2030조 역대 최대...증시 조정에 증가폭은 둔화 매일경제 가계부채 증가 둔화와 물가전망 긴축 권고까지 이시각 주요뉴스 연합인포맥스 주가 하락에 ‘빚투’ 줄어...3분기 가계 대출, 전분기보다 덜 늘었다 조선일보 3분기 가계부채 증가폭 1년반 만에 최소…카드 외상은 급증 연합뉴스"
           },
           {
-            "title": "코인원 고객센터 해킹 후폭풍…자산 탈취·사생활 침해까지 우려 - 지디넷코리아",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlVnNmWjdTQ19mVFMwZlMtRkM3RFhrNnhiY2lhTS12NDk0bHZWcUk2eklLZjZPRjlnSDFaTFBxcHBfejVPcEQ2Unp6MUlvTEJDUklJQ2NB?oc=5",
-            "source": "지디넷코리아",
-            "published": "11-17 11:22",
-            "snippet": "코인원 고객센터 해킹 후폭풍…자산 탈취·사생활 침해까지 우려 지디넷코리아 메가MGC커피 “고객센터 위탁업체 해킹…고객 30명 전화번호 유출” KBS 뉴스 코인 거래소 줄줄이 해킹… “외부 수탁사·업무망 관리 강화해야” Chosunbiz ‘AI 콜센터’ 메타엠 해킹... 병원 등 150개 고객사 공급망 위협 잠재 보안뉴스 [심층] 해킹 보고 31시간 뒤 ’믿고 쓰는 코인원’…코인원, 유출 공지는 시한 80분 전 By 알파경제 alphabiz In"
+            "title": "엔비디아, 젠슨 황 없이 사상 최대 실적 발표...'저평가론' 퍼진 월가 - 증권일보",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YQnFvaXJJem9VZ2pHS0tPcEttRXQxQkxDT2t4bWw3dUp5UWJGX3dVZGs2aWI4ZFpIYjRwd2VLLUppZHhVYUZqY1BEOHcyU1R6clBtYy13bnFoVlUxVGQ3aQ?oc=5",
+            "source": "증권일보",
+            "published": "11-18 09:05",
+            "snippet": "엔비디아, 젠슨 황 없이 사상 최대 실적 발표...'저평가론' 퍼진 월가 증권일보"
           },
           {
-            "title": "미국 기술 인프라에 무슨 일이? 닷새간 잇따른 시스템 장애에 우려 확산 - Investing.com 한국어",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjeDFvbmhjSmlDYnZvc3pkX193UEk5eUpRTGtjdDAyQXJWT0NXODJlSUktZkZleUNZX2FnZ01JQ3FKUDNqMmc5ZU9RdlY4eTFkMmxvWmNmY2NPVmdmWEVqTHMzVUVQM0dvUmRnX0gzUEI?oc=5",
-            "source": "Investing.com 한국어",
-            "published": "11-18 00:37",
-            "snippet": "미국 기술 인프라에 무슨 일이? 닷새간 잇따른 시스템 장애에 우려 확산 Investing.com 한국어 트럼프, 미국 내 시스템 장애 속출에 \"괜찮다…그게 인생\" 연합뉴스 AI 해킹 증거 없다지만…美 인프라 연쇄 먹통에 ’사이버 재앙설’ 확산 연합뉴스TV 미 국가안보국 내부 통신망 마비…항공·금융 이어 또 멈춰 경향신문 KPMG \"美 전산장애 사태, 결국 연준이 막아야 할 인플레이션\" 연합인포맥스"
+            "title": "증시 조정에 빚투 줄었지만…가계빚 2030.5조원 ‘역대 최대’ 행진 - 산경일보",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tSm02Z29mNzdqMXFqTHBOQWVvUjlCLURubVNFbkZEZUhpUVRWYjNWM3VIdWlmZ00tU01IN3JpdTA0TkhWbVhvUXFvYnVDX1dmeVFEVkU5UkFQRy1wbklrSXZhY3BGWVAxcFJOZkEwN3Y?oc=5",
+            "source": "산경일보",
+            "published": "11-18 14:30",
+            "snippet": "증시 조정에 빚투 줄었지만…가계빚 2030.5조원 ‘역대 최대’ 행진 산경일보"
           },
           {
-            "title": "‘첨단 AI 해킹’ 막을 ‘차르’, 부처간 벽부터 넘어야 한다 - 한겨레",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KdXh4NktLTEJJSWhETklBcDdWVlhKcHNPNUhoUXZpZ2VCYkVaeVhYREZoZ2dObFhjOTIyVzdfYUJiRkhmN0p4TF94ZU9iOHhEWG42TW5kOHRYS1psZVhDNQ?oc=5",
-            "source": "한겨레",
-            "published": "11-18 08:14",
-            "snippet": "‘첨단 AI 해킹’ 막을 ‘차르’, 부처간 벽부터 넘어야 한다 한겨레 F5, 2027년 사이버보안 3대 전망 발표…\"제로데이 위협 가속화\" 지디넷코리아 FBI “사이버 범죄자와 국가 연계 해커들, ARTEX 소프트웨어 악용해 기업 보안망 침투” VOA 한국어 홈페이지 \"중국 해킹조직, '아르텍스'로 한국 외교 조직 공격\" MBC 뉴스 사람 없이 AI가 해킹한 사례 첫 확인…AI끼리 연결해 전 과정 자동화 동아일보"
+            "title": "3분기 가계빚 2030.5조원 '역대 최대'…증시 조정에 증가폭은 6분기 만에 최소 - 서울뉴스통신",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94aXpMcDhUb3ZZQUdXemtIbG1wcHpnSmVua1pBbG1fNlFNTE1zM3ZKUFJ5SURYcWk0V3lqbDZYbFo0WDN1TnJaaE50NzBodWlrQ21PcjNWRnBTMGdWdFJZR3IwQkhaZUpfMUsw?oc=5",
+            "source": "서울뉴스통신",
+            "published": "11-18 14:50",
+            "snippet": "3분기 가계빚 2030.5조원 '역대 최대'…증시 조정에 증가폭은 6분기 만에 최소 서울뉴스통신"
           },
           {
-            "title": "美, 동남아 우회 AI칩 '패스트트랙' 닫았다…韓 파운드리·후공정 악영향 우려 - 전자신문",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qSlFPUFZnbVFnNktXWFJGQWlEX2JzSm9pc21YRlV5WHFGU3BUQUlFV2VjY3lGS05fbW5hbEMtUFVkNDR2alRjOE5EeG50Zw?oc=5",
-            "source": "전자신문",
-            "published": "11-17 15:00",
-            "snippet": "美, 동남아 우회 AI칩 '패스트트랙' 닫았다…韓 파운드리·후공정 악영향 우려 전자신문 데이터센터 핵심 부품 중국산 막히자 '이 종목' 날았다 한국경제 美, AI칩 中유출 규제 강화… 젠슨 황 통해 드러난 구멍 뒤늦게 땜질 동아일보 \"중 클라우드 접속도 막는다\"...엔비디아, 고객사에 '법적 조치' 경고 YTN 美, 빅테크 반대에도 중국산 데이터센터 부품 수입제한 추진 전자신문"
-          },
-          {
-            "title": "오세훈 \"재초환, 전면 재검토해야…집값 상승 우려\" - 뉴스1",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VSW9Mc1YxbVhObFhrellKdFdiNmhHeHpQb3AxaWVyWXN0c3FFRVJZTkNlRTRQalcwSHFJdFJUZHhNWFAwQWQwRnlkLUc4WE10MV9CemliV1hQcUU?oc=5",
-            "source": "뉴스1",
-            "published": "11-17 13:07",
-            "snippet": "오세훈 \"재초환, 전면 재검토해야…집값 상승 우려\" 뉴스1 재건축에 1인당 최대 9억… 재초환 청구서 ‘집단 반기’ 대한경제 재초환 폐지·완화론에 선그은 국토부… \"공급 영향 크지 않아\" - 머니투데이 머니투데이 오세훈 \"공급 부족하면 서울시 탓, 늘면 정부 성과? 동의 못해\" 연합뉴스 오세훈 “재초환은 ‘이중과세’···제2의 종부세 논란 야기할 수 있어, 전면 재검토해야” 경향신문"
-          }
-        ],
-        "데이터센터 냉각 솔루션": [
-          {
-            "title": "가전 넘어 AI 인프라 겨눈 LG전자, 데이터센터 '냉각 솔루션' 승부수 - 지디넷코리아",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FYWw4MmlPMURQcWZReVkzOGhXTDVaNEJES3F2RkZOTFlKNThHX1Bsd3lhVW5IZUtibDgxaFdROFpzV3ZZU25hRllpWTd4VlNlN1U2elln?oc=5",
-            "source": "지디넷코리아",
-            "published": "11-17 16:45",
-            "snippet": "가전 넘어 AI 인프라 겨눈 LG전자, 데이터센터 '냉각 솔루션' 승부수 지디넷코리아 AI 반도체 ‘열과의 전쟁’…칩부터 데이터센터까지 IT조선 LG전자, R&D 투자 27% 늘렸다…공조 시설투자도 2.7배↑ 마켓인 슈나이더일렉트릭, AIDC용 하이브리드 냉각수 분배 장치 ‘모티브에어 WCDU’ 출시 전기신문 [단독] AI 서버 통째로 액체에…GST, 액침냉각 앞세워 글로벌 빅테크 공략 한국경제"
-          },
-          {
-            "title": "이재용 삼성전자 실탄 '215조' 장전, 데이터센터 냉각 넘어 로봇·전력으로 전방위 M&A 나서나 - 비즈니스포스트",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aUkU1YWlxX3lDUHBLUm5SWTJnV3R0LVd0N1RtVEZseFIySzhhRlNFUkVrc2YzMVktN3l6ejdtWDFpMWFhSnVLRDZKRUZvd3JhSkF0RkFRWTFnX1V0ZXJCY08wTm5NN0VweXJUV3NEUmhkMTg?oc=5",
-            "source": "비즈니스포스트",
-            "published": "11-17 14:59",
-            "snippet": "이재용 삼성전자 실탄 '215조' 장전, 데이터센터 냉각 넘어 로봇·전력으로 전방위 M&A 나서나 비즈니스포스트 코스피, 삼전닉스 독주속 누적 매출 3천조…3분기 실적둔화 연합뉴스 코스피 영업익 증가분 83% '반도체 투톱' 몫…코스닥 전기전자 62% 적자 연합인포맥스 삼성전자 3분기 법인세 22.8조…작년의 690배 동아일보 삼성·SK하이닉스, 역대 최대 시설투자…3분기 누적 88조원 지디넷코리아"
-          },
-          {
-            "title": "아내는 엔비디아 칩 확보·남편은 데이터센터 건설… 앨리스 황 부부 ‘투트랙 공작’ - Chosunbiz",
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcHlmZWlsNFV1azV4TTY4dzNrTnNIREhMaWpwR1pFNVJBVmtwaHFwRHExNE13dXlhdzZNaUZwalBnMUZjekt3YzJDcTBNWXVxUUg3OGtxWG1DQUdWR05HVnJpRUxqUHVOcXVZS1dxdW9FS2FrSHNScXNTVXBFczcxVDM5UmdqVmdxMUVENkZMYVFydzVULVpWVm1GNXFWd9IBsgFBVV95cUxQNzd3cmhkU0E5WEtvdy04MkRCSkoyS01XbjdnWEs2MGlPT09ueFh6cFpVcUNQaVdPMS1VbTlkRDVLNzJxX3FKdG94U0dJUHU4bVdIZVNrS0xoME1WUXMxQnc5MVVVcHhLZEtxOENJOXpYbDd6Qk1RTk10dVhiTkV2YmVnbkRwcWhwM0FNSmlQWGNVVWs3RkcxUXVGbm8zcEN1YTNKV3JxaDQtbVVBeEs1a1NB?oc=5",
-            "source": "Chosunbiz",
-            "published": "11-17 16:04",
-            "snippet": "아내는 엔비디아 칩 확보·남편은 데이터센터 건설… 앨리스 황 부부 ‘투트랙 공작’ Chosunbiz “젠슨 황 딸이 스캔들 대응에 깊이 관여…누구도 ‘NO’ 못했다” 동아일보 WSJ \"앨리스 황 남편, 중국 정부 지원받아 13조 데이터센터 사업 추진\" AI타임스 Super Micro Compu 주가, 오늘 하락하는 이유는? By Investing.com Investing.com 한국어 아내가 젠슨 황에 접근할 때…앨리스 황 남편이 중국서 벌인 "
-          },
-          {
-            "title": "아마존 CEO “데이터센터 건설 멈추면 중국에 AI 주도권 넘겨” - 매일경제",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qZ0p0b3N1TnBiVEEzemdlU3l6RzlhX2tJQVd6dUdYY1RWbFh2VTdlem5OMTRPMlZGYmhvZW9kUThvajNoeWsyd09rNVZVQQ?oc=5",
+            "title": "3분기 가계빚 2030조 역대 최대...증시 조정에 증가폭은 둔화 - 매일경제",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByMFFKNElkTmczR2g0UFF2UkdpLWZQMnRVeXdPa2JkZDFFck56UWRxQ19zTzRYbTRocWRpaUhDZ0p1dEFkY2t0WTNJSGZiTGdxeEdvOQ?oc=5",
             "source": "매일경제",
-            "published": "11-18 03:01",
-            "snippet": "아마존 CEO “데이터센터 건설 멈추면 중국에 AI 주도권 넘겨” 매일경제 아마존, 오하이오 22조 데이터센터 제동 \"빅테크 중 최대 피해\" - 머니투데이 머니투데이 [홍기빈의 두 번째 의견]‘테크브로’들의 패착 경향신문 [세상읽기] 미국발 데이터센터 갈등, 규제 걱정보다 '주민 수용성'부터 높여야 경기일보 \"오픈AI 계획용량 14GW 전부 데이터센터 중단 지지 주에\" 연합뉴스"
+            "published": "11-18 12:00",
+            "snippet": "3분기 가계빚 2030조 역대 최대...증시 조정에 증가폭은 둔화 매일경제"
           },
           {
-            "title": "삼성SDI, 美서 수조원 규모 ESS용 배터리 수주 - 조선일보",
-            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVTdQamprbjVFR1ZpNUVsMDh6eUJGdWpYOFZZVHF4WGFYVWtVSG5ibkFhdTB2MzF2bFY4LXR6N1VTbC1OYUI2NVpIcC1CNDlTa1FPR0V1QlVESzVheENibDR2UDhlNlM5LUc5SXFob1QwX2dEcjdra1drQi1KeVljYmc4d3BxV2VIZlNQNHloaw?oc=5",
-            "source": "조선일보",
-            "published": "11-17 00:33",
-            "snippet": "삼성SDI, 美서 수조원 규모 ESS용 배터리 수주 조선일보 삼성SDI, 美서 통합 ESS 솔루션 공개…25년 장기 보증 전자신문 삼성SDI, AI데이터센터 겨냥 차세대 배터리 설루션 공개 연합뉴스 LG엔솔, 북미 최대 신재생 에너지 전시회 'RE+ 2026' 참가 - 머니투데이 머니투데이 HD현대 ‘발전에서 전력망까지’ 북미시장 공략 경향신문"
-          },
-          {
-            "title": "AI 데이터센터 전력·냉각 시장 열린다…K기업, 밸류체인 선점 경쟁 - 더트래커",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wV0FGNGpySkdxTlNCQVF2aFktdmdsazFhNVVJUW1rbFI3QU5VeFpyem03ekF4em9IbzhyVG9MODFHMDN5Wk4wRHhDeUg0S3ZNUXgtSm9JNGc?oc=5",
-            "source": "더트래커",
-            "published": "11-18 09:10",
-            "snippet": "AI 데이터센터 전력·냉각 시장 열린다…K기업, 밸류체인 선점 경쟁 더트래커"
+            "title": "“대한민국 가계빚 2030조 원 돌파”…또 역대 최대, 카드빚도 급증 - 코리아이글뉴스",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCQVpBeGJXNy1GLWttNk5lQUh5T3Qtdk1abTFvRkVLZnYtUFFwRFhwQ0FFbnlaQVI0VXBYR1lYaTB2VnJjYTV5RGZtV0pTTzV4cUt0aTg5bG9zMTQ4Ny1BUFJoZV81UGhQZ0V2NFFGd0JKNGM?oc=5",
+            "source": "코리아이글뉴스",
+            "published": "11-18 13:46",
+            "snippet": "“대한민국 가계빚 2030조 원 돌파”…또 역대 최대, 카드빚도 급증 코리아이글뉴스"
           }
         ],
-        "앤트로픽 상장 촉각": [
+        "상장사 순이익 감소": [
           {
-            "title": "앤트로픽 IPO에 아시아 AI도 촉각…딥시크·업스테이지 상장 '가늠자' - 연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4NmpfWDhPWUJndlcyaWJsUUdZVUE2N1ctVHAxOThsVWdRbGVVQ0NvSXhsRGJNbGpHazJSZFAzY1Mydkg2a2l6WDFrV2gyZ1o4eEdGbFY4ZVlEdHdiMElyN0p4djlLRWFuQjNVa1lEMUs?oc=5",
-            "source": "연합인포맥스",
-            "published": "11-18 10:58",
-            "snippet": "앤트로픽 IPO에 아시아 AI도 촉각…딥시크·업스테이지 상장 '가늠자' 연합인포맥스 \"스페이스X보다 뜨겁다\"...앤트로픽 공모가, 희망범위 돌파 전망 - 머니투데이 머니투데이 증시 덮친 ‘앤트로픽 수급 공포’···삼전닉스 2차 매물폭탄 쏟아지나 시사저널e \"앤트로픽 매출 2026년 71조원→2030년 676조원 예상\" 연합뉴스 아마존·구글, 앤트로픽 IPO 이후 지분율 약 28% 연합뉴스TV"
+            "title": "3분기 코스피 상장사 순이익 30% 감소, 코스닥은 순손실···환율 하락 영향 - 경향신문",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GWHRhWHlCNWp0MmlSOUJLNldJTEJ5NzRZQVFBYzNOWlFiY2NjQ25WejFkWmVTRlV3SUd2cXJIdUgyLXhiZDlQUlpZS0QzSkY0c2NGM1pvN1IyQdIBX0FVX3lxTE5OWktlTVN6T0VNdjlVcVQxSDBqWXJVajM5a2E5eU9vNk5CVXNYN0d0VWN1QVltWTFreHEtMHFta2VpdUM4ejlLUXRBc3lYWlBwZzRPUzRpSTBBZlhfUEdZ?oc=5",
+            "source": "경향신문",
+            "published": "11-18 14:43",
+            "snippet": "3분기 코스피 상장사 순이익 30% 감소, 코스닥은 순손실···환율 하락 영향 경향신문 '삼전·닉스' 독주‥코스피 상장사 순이익 3분의 2 차지 MBC 뉴스 [그래픽] 코스닥 상장사 실적 호조…흑자 기업 56.7% 뉴시스 삼성·SK하이닉스, 역대 최대 시설투자…3분기 누적 88조원 지디넷코리아 반도체가 다 했다…코스피 순익 3.7배, 3분기만 보면 '숨고르기' - 머니투데이 머니투데이"
           },
           {
-            "title": "앤트로픽, IPO 공모가 희망범위 웃돌 듯…19일 나스닥 상장 - 디지털데일리",
-            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE92NHEzb1VDZTU4R0NRZWFESHFjd29UUUdCa1BZMUlDWEZ2N2ZoUG56S1BYQjZ5NlZHalRNX2ZIcl9TS0MwMnZlNGRuOEtGWjFpQkVNX2IwdFhzSmFwWmtIaC1B?oc=5",
-            "source": "디지털데일리",
-            "published": "11-18 06:05",
-            "snippet": "앤트로픽, IPO 공모가 희망범위 웃돌 듯…19일 나스닥 상장 디지털데일리"
+            "title": "'삼전·닉스' 독주‥코스피 상장사 순이익 3분의 2 차지 - MBC 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yS2xic2xQUjFmZVdZbTcyWm14blVUX19OSjRZZ0FDQUEwRTN0Rnp5SjFRc3ZFc1BGaHdEV3k4WFVxaGg4Rzd1RjF4SlEtakl3OFoxdFZVdUhYX1k3RzViaVZMQnp2bEV5ZXhrVmNsQlcwcmNi0gF0QVVfeXFMUGpESk9rSUxuVjNUZGV4TVh1RXctaDVhR1NmdkJ4Z29JdVc3NnplNFB3MExGbGo2Mkd2Yk04RGNEVHFyWWRrQVp1d0xva0tpSXlQS1Zlb1N6ZG8zSUN3QWVXd3BYeXI0TEVybzhWMk5TTS1McWw?oc=5",
+            "source": "MBC 뉴스",
+            "published": "11-18 15:47",
+            "snippet": "'삼전·닉스' 독주‥코스피 상장사 순이익 3분의 2 차지 MBC 뉴스"
           },
           {
-            "title": "코스닥 상장 3곳 중 1곳은 한계기업…부실 늘수록 우량기업도 ’저평가’ By EBN - Investing.com 한국어",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BeVJnczg1bTZ1VnVyLXNwUkpkVzlSNERpMnVYZ01lWUhuaERmQ3dTMGh5TEl3UDYzUkxQUnJfSU8tR3hVWlg5SXFiMVBGNEJtZTVsUG9BQ0d4amxfTk1KUXduRVhnNmJpSW9RWFdnNXE?oc=5",
-            "source": "Investing.com 한국어",
-            "published": "11-18 06:32",
-            "snippet": "코스닥 상장 3곳 중 1곳은 한계기업…부실 늘수록 우량기업도 ’저평가’ By EBN Investing.com 한국어 경제6단체 \"워크아웃 근거법 일몰 연장 법안 조속 처리해야\" 연합뉴스 상장사 4곳 중 1곳은 한계기업…\"선제적 구조조정 필요성\" - 머니투데이 머니투데이 경제 6단체 “기촉법 일몰 막아야…유효기간 연장·상시화 촉구” 전자신문 경제6단체 ‘기촉법 유효기간 연장’ 성명... “공백 안 생기게 해달라” 조선일보"
+            "title": "수출 날고 내수는 부진...제주, 3분기 상품.서비스 소비 동반 감소 - 헤드라인제주",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KUm9GdEs2cmRfRmhxdTIxQTRpTjBzYlFBM3Z6d3VqT0RvdnFxMVVSTHN1Y3A2Q2VqZVdsdzg2ZzQ5MnNBZEY5Y2pqRnExTmVDWTF3bmRoN3EtSjAwWkFmWDQ3eXdLOWlnUWxrY1VaQ1Y5eDg?oc=5",
+            "source": "헤드라인제주",
+            "published": "11-18 14:57",
+            "snippet": "수출 날고 내수는 부진...제주, 3분기 상품.서비스 소비 동반 감소 헤드라인제주 수출 호황이라는데···관광객 오는 서울 인천 제외하곤 전국 소비 뚝 경향신문 제주 서비스업 생산 감소 ‘전국 최고 수준’ 제민일보 반도체 호황에 충북 광공업생산 30%↑…전국 소매판매는 뒷걸음 매일경제 마켓 3분기 전국 16개 시도 중 13곳 소비 감소…세종 소매판매 10% 급감 전자신문"
           },
           {
-            "title": "[글로벌증시] 뉴욕증시 또 하락…엔비디아 실적에 촉각 - 연합뉴스TV",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvSHR5MnY3cWJTek0xOWxDY2ZKdHlTZVlPUXVsaUFlUlc2WklKT3AwZ2xQOThJYjEwZTlrUmRnSlRzSmV1RG55QW1sbTRjekZCQ29MSUhacmpBWEFyVmNORHZ5OVQ4QWM?oc=5",
-            "source": "연합뉴스TV",
-            "published": "11-18 06:50",
-            "snippet": "[글로벌증시] 뉴욕증시 또 하락…엔비디아 실적에 촉각 연합뉴스TV"
+            "title": "코스피 상장사 9개월 순이익 3.7배…3분기엔 30% 감소 - 부산일보",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0WTR4TW92LUNMNmh1Q1prZ09UcndoTmRDcm1mLTFYWXMxZk85TXVZZmF0OVRlN3d3Zk4wZXM3Zmp0SjVuNTdEWnoxMXIzT1BERjhPQmQtSE5iMkNWdVYxV0MtM3VnYzliQ3dqNGZ4Nk0yT3Bl?oc=5",
+            "source": "부산일보",
+            "published": "11-18 15:15",
+            "snippet": "코스피 상장사 9개월 순이익 3.7배…3분기엔 30% 감소 부산일보"
           },
           {
-            "title": "\"2030년 매출 676조 원\"...월가, 앤트로픽 폭발적 성장 전망 - YTN",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MOTNPX1dqQzdnVWJYN2VMLU9kMWQ2WlFpdERIMkJCRVB1OW5jRWNxcTlzRVdxa2lfQXhPOXNrVTJPR3RpQ0p0azZ2cnh1d0hONWM3RkZoMzF2Qi1TVFE?oc=5",
+            "title": "코스피 상장사 3분기 순이익 30% 감소…반도체 중심 누적 성장세는 지속 - 파이낸셜포스트",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9uWDBZQ2NidU9Ddkxic05MbTFGZ2RpT3ROTk5fMk9tMTYxYmZiWlBLWDRNUC10MGZmcVdSVjhIc0FuR2M1bWNNX05nSXBBMG1JZl9yMHl6NjBjY1BENW5FLXVMYWczYUhrODEwSGlMRm5id3Aw?oc=5",
+            "source": "파이낸셜포스트",
+            "published": "11-18 16:55",
+            "snippet": "코스피 상장사 3분기 순이익 30% 감소…반도체 중심 누적 성장세는 지속 파이낸셜포스트"
+          },
+          {
+            "title": "코스피 상장사 순이익 전분기比 30%↓...“흑자기업 줄었다” - 투데이신문",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mbjdRVjJPSDR4eFg0LVJ6M2t1UjZybVBqS0Q3Q2ZxaVItT3l1am01QVdDZ3RTQzJMVS1QM3FiUnItY2dZTnRaZGRabVZVY2FmXzBiUWJTVWpmaXNLelAya0Q0VG5mSW1hUjVmbGVRVdIBb0FVX3lxTE5mbjdRVjJPSDR4eFg0LVJ6M2t1UjZybVBqS0Q3Q2ZxaVItT3l1am01QVdDZ3RTQzJMVS1QM3FiUnItY2dZTnRaZGRabVZVY2FmXzBiUWJTVWpmaXNLelAya0Q0VG5mSW1hUjVmbGVRVQ?oc=5",
+            "source": "투데이신문",
+            "published": "11-18 12:41",
+            "snippet": "코스피 상장사 순이익 전분기比 30%↓...“흑자기업 줄었다” 투데이신문"
+          }
+        ],
+        "젠슨 황 리스크": [
+          {
+            "title": "미 SEC, 엔비디아 '허위 공시' 정조준...사법 리스크 확산 - YTN",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WQlQ5UWoyZGhsSEVWczhnSHFaMlVfVndfeEFqT0YyRlo1U3FWUVl0YjFYRWktWDhYeWpNZzZJMEVEX2tMMVJsM1c3V2ZVcmk4OGZyNzBZb1I2NEV1NWc?oc=5",
             "source": "YTN",
-            "published": "11-18 09:21",
-            "snippet": "\"2030년 매출 676조 원\"...월가, 앤트로픽 폭발적 성장 전망 YTN"
+            "published": "11-18 10:25",
+            "snippet": "미 SEC, 엔비디아 '허위 공시' 정조준...사법 리스크 확산 YTN \"미 증권거래위, 엔비디아 '젠슨황 의혹' 관련 공시위반 조사\" MBC 뉴스 Nvidia, SEC 조사 직면…황 CEO 사임 후 위기 심화 By Investing.com Investing.com 한국어 캘리포니아도 엔비디아 사태 들여다본다…\"위험신호 감지돼\" 연합뉴스 엔비디아, '젠슨황 내연녀' 싱가포르 매출 왜 숨겼나 마켓인"
           },
           {
-            "title": "앤스로픽(Anthropic) 나스닥 상장 초읽기… 아시아 AI 스타트업 'IPO 도화선' 되나 - 글로벌이코노믹",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTGswOVBsalZ4Q2Q3U0hieDlFWlZzZ21QZEJudHU1LU9DWUtlM291MkU2cUlPMldaZ0dmRXZtdHk2NGh1VXJPbW5mTUl1cGd1eVVPX1hEc0tyV3Vvc3F2MHNVM3JPbHJPcTZURlc5RGxuNktBYVRvT1JyWDRJVXBjSV9QZktRZ3lw?oc=5",
-            "source": "글로벌이코노믹",
-            "published": "11-18 07:50",
-            "snippet": "앤스로픽(Anthropic) 나스닥 상장 초읽기… 아시아 AI 스타트업 'IPO 도화선' 되나 글로벌이코노믹"
+            "title": "엔비디아 실적 발표에 '젠슨 황 오른팔' 등장…차기 CEO 유력 후보 부상 - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWTzdlU05POF9QdzQyV0t5dVMyMUFpVHR5dzlVdkN4anZLaGFnTmpUcHpYYmpfRGZTcUsyc19WcHJRTlBOUGttVzRpM1N5bUdldEVRRGR6bGl0MVR2UUF1SEk3dXg0dlhhcWZzd0QxRWY?oc=5",
+            "source": "연합인포맥스",
+            "published": "11-18 10:43",
+            "snippet": "엔비디아 실적 발표에 '젠슨 황 오른팔' 등장…차기 CEO 유력 후보 부상 연합인포맥스 젠슨 황 없이 ‘깜짝실적’ 이어간 엔비디아…삼성·하이닉스 주가 반등 한겨레 잇따른 전산장애에 투심 위축…반도체주는 반등 네이버페이 머니스토리 젠슨황 떠난 엔비디아, AI 중앙은행 포기하나…순환금융 수술대 연합뉴스 엔비디아, 기대 이상의 호실적...젠슨 황 복귀 의사 공식화에 미국 정치권 논란 확산 YTN 사이언스"
+          },
+          {
+            "title": "젠슨 황의 몰락 불 댕긴 ‘루비오 메모’…그 뒤엔 거대한 암투 있었다 - 한겨레",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObUh4TjN3aHF2ZTJsVkR2YmRUaG1ERk5sZllFaUVYSWdGMEt3RkhJMUtGMWxCRG1COUpGS0JHWnB2UGs2dTE5OTZTaldVZ2V1VHh6NWIwRkxtVzdUcFZ4UzVhTVFVSThpZXA3WnNsZUgxeERRY3o2MElBYWVxM0lkaTdn?oc=5",
+            "source": "한겨레",
+            "published": "11-18 10:53",
+            "snippet": "젠슨 황의 몰락 불 댕긴 ‘루비오 메모’…그 뒤엔 거대한 암투 있었다 한겨레 젠슨 황 사임 후 첫 입장 “요청 시 복귀”…“청문회 출석” KBS 뉴스 아마존 창업자 베이조스 “엔비디아 차기 CEO, 내부에서 찾아야… 외부 영입은 최후 수단” Chosunbiz [율곡로] 실리콘밸리 걱정할 처지 아니다 연합뉴스 젠슨 황 ‘복귀 의사’에 이사회는 일축 “후임 물색중…로드맵 순조롭게 진행” 동아일보"
+          },
+          {
+            "title": "美, AI칩 中유출 규제 강화… 젠슨 황 통해 드러난 구멍 뒤늦게 땜질 - 동아일보",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BUXlXOEJadkFYUFIwLWVnXzBoX3JMUm9GWW92bkhDMi1yck9tYzdwcGxLT1B0YWx5ekR3ZFcxRmVVeUxYaEFDaDhMRGk3UDl2ZFJkVWhfeWtqSFY4V1YtMHZSNXYwcHlBV2JkOXl5WmFIekXSAWZBVV95cUxPRjhITUFEVkphMVVvMVJCZWFqMWpUdTNzdXJucEZZcjVIYXVHdXRqd0R6VUFFN3FfYURkMWhqSzRwQUpwalpYdDQtOE45bnBpbUY0cVZKclhzSXM4ZzFBMjBUd2JUeEE?oc=5",
+            "source": "동아일보",
+            "published": "11-18 04:30",
+            "snippet": "美, AI칩 中유출 규제 강화… 젠슨 황 통해 드러난 구멍 뒤늦게 땜질 동아일보 엔비디아, 중국에 AI 칩 임대한 고객사에 '법적 위험' 경고 - 머니투데이 머니투데이 미국, 중국의 AI 원격 접속 차단…중국, 강력 반발 KBS 뉴스 젠슨 황 스캔들에 中 데이터센터 허브 동남아 '비상' 마켓인 美, 빅테크 반대에도 중국 데이터센터 장비 수입제한 추진 연합뉴스"
+          },
+          {
+            "title": "젠슨 황 딸, 메가스피드 사태 개입…“막강한 영향력에 누구도 ‘No’ 못했다” - 한겨레",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0eWtxZzJOQnhCUGJXa2ZCVjloOVNtSkZER2FISTlHSEdxdXAwZlFpbUZwMTVGTy1kcm1wY0RzWlhPX0VraXc2QzVJamNwak9WbEkxUTJUc3NWWnVJbzRPUVRnSExyU2hhc2tBRFB5OA?oc=5",
+            "source": "한겨레",
+            "published": "11-18 13:58",
+            "snippet": "젠슨 황 딸, 메가스피드 사태 개입…“막강한 영향력에 누구도 ‘No’ 못했다” 한겨레 \"엔비디아, 2022년 알리바바와 앨리스 황 연결해 줘\" MBC 뉴스 “젠슨 황 딸이 스캔들 대응에 깊이 관여…누구도 ‘NO’ 못했다” 동아일보 아내가 젠슨 황에 접근할 때…앨리스 황 남편이 중국서 벌인 짓 중앙일보 “앨리스 황 남편, 중국 정부 지원 속 12조 원 데이터센터 사업” KBS 뉴스"
+          },
+          {
+            "title": "젠슨 황 복귀설에 흔들린 뉴욕증시…유가도 급락 - 네이버페이 머니스토리",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MYmJLZENVVTB1aFBadWlwLUpQT3BfNHF2YXVlN0FXal9sbjZtUDJMS0NsMVpUdW5FUlVZMjFXR0tGbHhiTWdYbDZXOW9LemlaSUE?oc=5",
+            "source": "네이버페이 머니스토리",
+            "published": "11-18 12:47",
+            "snippet": "젠슨 황 복귀설에 흔들린 뉴욕증시…유가도 급락 네이버페이 머니스토리"
           }
         ]
       },
       "queries": {
-        "금융사 해킹 우려": [
-          "금융사 해킹",
-          "금융사 해킹 사고"
+        "가계빚 사상 최대": [],
+        "상장사 순이익 감소": [
+          "코스피 상장사 순이익"
         ],
-        "데이터센터 냉각 솔루션": [
-          "lg전자 데이터센터 냉각 솔루션",
-          "ai 데이터센터 냉각 솔루션",
-          "데이터센터 냉각 관련주 미국",
-          "데이터센터 냉각 관련주 한국",
-          "데이터센터 냉각 관련주",
-          "데이터센터 냉각",
-          "데이터센터 냉각수",
-          "데이터센터 냉각 방식"
-        ],
-        "앤트로픽 상장 촉각": [
-          "앤트로픽 상장",
-          "앤트로픽 상장일",
-          "앤트로픽 상장 예정일",
-          "앤트로픽 상장 수혜주",
-          "앤트로픽 상장 일정",
-          "앤트로픽 상장 언제",
-          "앤트로픽 상장 관련주",
-          "앤트로픽 상장 연기"
+        "젠슨 황 리스크": [
+          "젠슨 황",
+          "젠슨 황 부인",
+          "젠슨 황 가족 사진",
+          "젠슨 황 한국어",
+          "젠슨 황 재산",
+          "젠슨 황 자녀",
+          "젠슨 황 국적",
+          "젠슨 황 나이"
         ]
       }
     },
     "global": {
       "keywords": [
-        "뉴욕증시 전산장애 하락",
-        "연준의장 AI 경고",
-        "기술주 비중 급감"
+        "전산장애 증시 하락",
+        "연준 금리 인상",
+        "AI 투자 경고"
       ],
       "results": {
-        "뉴욕증시 전산장애 하락": {
-          "headline": "전산장애 여파에 S&P500 7월 이후 최저",
+        "전산장애 증시 하락": {
+          "headline": "전산장애 공포에 뉴욕증시 4일 연속 하락",
           "facts": [
-            "미국 증시에서 잇따른 전산 장애가 발생하며 S&P 500과 나스닥 지수가 4거래일 연속 하락세를 기록했다.",
-            "S&P 500 지수는 전일 대비 1% 하락하며 지난 7월 이후 가장 낮은 수준까지 밀려났다.",
-            "시스템 불안정으로 인한 거래 차질이 투자 심리를 위축시켰으며 엔비디아 실적 발표를 앞둔 경계감도 하락을 부추겼다.",
-            "뉴욕증시 3대 지수는 반도체와 기술주 중심의 투매 현상이 나타나며 장중 변동성이 극심해졌다.",
-            "글로벌 증시는 뉴욕발 전산 장애와 기술주 하락의 영향으로 동반 약세를 면치 못했다."
+            "미국 금융 시장 내 잇따른 전산장애 발생으로 시스템 불안감이 확산되며 S&P 500과 나스닥 지수가 4일째 하락했다.",
+            "나스닥 지수는 전산 사고 여파로 기술주 중심의 매도세가 몰리며 지난 7월 이후 최저 수준까지 떨어졌다.",
+            "투자자들이 시스템 오류로 인한 거래 체결 불확실성을 피하기 위해 현금화에 나서면서 3대 지수가 일제히 하락 마감했다.",
+            "엔비디아 실적 발표를 앞둔 시점에서 터진 전산 악재는 시장의 변동성을 더욱 키우며 글로벌 증시 전반에 하방 압력을 가했다."
           ],
           "watch": [
-            "뉴욕증권거래소의 전산 시스템 복구 및 재발 방지책",
-            "S&P 500 지수의 7월 저점 지지 여부",
-            "엔비디아 실적 발표에 따른 나스닥 지수 반등 가능성"
+            "미국 주요 거래소의 시스템 복구 및 재발 방지책",
+            "전산장애로 인한 미체결 주문 처리 결과",
+            "엔비디아 실적 발표 당일의 거래량 변화"
           ],
           "qna": [
             {
-              "q": "뉴욕증시의 잇따른 전산 장애가 단순 기술적 결함을 넘어 시장 구조적 리스크로 번지는 이유는 무엇인가?",
-              "a": "초단타 매매와 알고리즘 거래가 지배하는 현대 증시에서 전산 장애는 즉각적인 유동성 공급 중단과 가격 왜곡을 초래하기 때문이다. 투자자들이 시스템의 안정성을 신뢰하지 못할 경우 리스크 프리미엄이 상승하며 자산 매각을 가속화하는 심리적 트리거로 작용한다."
+              "q": "단순한 전산 오류가 왜 4일 연속 지수 하락이라는 이례적인 폭락으로 이어졌는가?",
+              "a": "알고리즘 매매와 초단기 트레이딩이 주를 이루는 현대 증시에서 전산장애는 데이터 신뢰성을 파괴하여 자동 매도 주문을 촉발하기 때문이다. 거래소 시스템에 대한 불신이 커지면 투자자들은 리스크 관리 차원에서 포지션을 강제로 청산하게 되며, 이것이 연쇄적인 투매를 유도했다."
             },
             {
-              "q": "S&P 500 지수가 7월 이후 최저치를 기록한 것이 기술적 분석 측면에서 어떤 의미를 갖는가?",
-              "a": "지난 수개월간 형성된 지지선이 무너졌음을 의미하며, 이는 추가 하락 공간이 열리는 하락 추세로의 전환 신호로 해석될 수 있다. 특히 전산 장애라는 비정상적 요인으로 저점이 뚫린 만큼, 빠른 시일 내에 회복하지 못하면 매도세가 강화되는 '데드크로스' 구간에 진입할 위험이 크다."
+              "q": "S&P 500 지수가 7월 이후 최저치를 기록한 것은 기술적 반등의 신호인가 추가 하락의 전조인가?",
+              "a": "전산장애라는 비정상적인 요인으로 지지선이 무너졌기 때문에 시스템 정상화만으로는 반등이 어렵고, 펀더멘털에 대한 재평가가 동반되어야 한다. 특히 주요 기술주들의 실적 발표와 맞물린 시점이라 전산 불안이 실적 실망감과 결합될 경우 추가적인 하락 채널이 형성될 가능성이 높다."
             },
             {
-              "q": "엔비디아 실적 발표에 대한 촉각이 전산 장애 상황에서 시장에 어떤 변수로 작용하는가?",
-              "a": "시스템 불안으로 시장이 예민한 상태에서 엔비디아의 실적이 기대치에 미치지 못할 경우 기술주 전반에 대한 투매를 촉발하는 기폭제가 될 수 있다. 반대로 압도적인 실적을 발표한다면 전산 장애로 인한 심리적 불안을 상쇄하며 시장을 반등시킬 수 있는 유일한 모멘텀이 된다."
+              "q": "전산장애 불안 속에서도 엔비디아 실적에 시장이 촉각을 곤두세우는 이유는 무엇인가?",
+              "a": "엔비디아는 현재 증시의 유동성과 방향성을 결정하는 핵심 지표 역할을 하고 있어, 시스템 불안을 상쇄할 만큼의 압도적인 실적을 보여줄지가 관건이기 때문이다. 만약 실적이 기대치에 못 미칠 경우 전산 악재와 실적 부진이 겹치며 시장 전체가 장기 조정 국면에 진입할 위험이 있다."
             }
           ]
         },
-        "연준의장 AI 경고": {
-          "headline": "연준의장 AI 투자 거품 및 실업 경고",
+        "연준 금리 인상": {
+          "headline": "연준 추가 금리 인상 시사, 달러 강세 가속",
           "facts": [
-            "미 연준 의장은 AI 투자 성과가 시장의 기대에 미치지 못할 수 있다고 직접 경고하며 'AI 폭망 시나리오' 가능성을 언급했다.",
-            "AI 열풍으로 인한 증시 호황이 실제 경기 상황과 괴리가 있으며, 향후 경기 둔화와 실업 증가로 이어질 수 있다는 우려가 제기되었다.",
-            "월가와 유럽중앙은행(ECB)에서도 'AI를 사면 무조건 돈을 번다'는 공식이 끝났다는 충격적인 경고가 잇따랐다.",
-            "AI발 증시 호황이 자연 실업률과 깊은 연관이 있으며 고용 시장에 부정적 영향을 줄 수 있다.",
-            "미국이 동남아 우회 AI 칩 경로를 차단하는 등 규제를 강화하면서 AI 산업 전반의 성장세 둔화 우려가 커지고 있다."
+            "연준 주요 인사들이 인플레이션 대응을 위해 추가 금리 인상이 필요하다는 입장을 밝히며 긴축 기조를 강화했다.",
+            "존 윌리엄스 뉴욕 연준 총재는 인플레이션 목표치 달성을 위해 금리를 더 올려야 한다고 직접 언급하며 시장의 금리 인하 기대를 꺾었다.",
+            "금리 인상 전망에 달러 인덱스가 치솟으며 아시아 주요국 통화 가치가 약세를 면치 못하고 있다.",
+            "국제 금값은 연준의 매파적 행보에 따른 실질 금리 상승 부담으로 온스당 3800달러 아래로 급락했다."
           ],
           "watch": [
-            "연준의 향후 금리 결정 시 AI 산업 지표 반영 여부",
-            "미국 고용 보고서 내 AI 관련 직군 실업률 변화",
-            "글로벌 빅테크 기업들의 AI 투자 가이던스 하향 조정"
+            "연준의 다음 통화정책 회의 내 빅스텝 단행 여부",
+            "미국 소비자물가지수(CPI) 발표 수치",
+            "달러 강세에 따른 신흥국 자금 이탈 규모"
           ],
           "qna": [
             {
-              "q": "연준 의장이 AI 투자가 실업 증가로 이어질 수 있다고 경고한 메커니즘은 무엇인가?",
-              "a": "기업들이 AI 도입을 통한 비용 절감을 위해 기존 인력을 대거 감축하고 있으나, AI가 창출하는 신규 고용 속도가 이를 따라잡지 못하고 있기 때문이다. 생산성 향상이 가계 소득 증대로 연결되지 않고 자본가에게만 집중될 경우 소비 위축과 경기 둔화라는 악순환에 빠질 수 있다는 논리다."
+              "q": "인플레이션 둔화 조짐에도 불구하고 윌리엄스 총재가 추가 인상을 주장하는 논거는 무엇인가?",
+              "a": "노동 시장의 견조함이 유지되면서 서비스 물가 상승 압력이 여전히 높고, 기대 인플레이션이 완전히 꺾이지 않았다고 판단하기 때문이다. 성급한 금리 인하가 인플레이션 재발을 초래할 수 있다는 '스톱 앤 고' 정책 실패를 경계하며 확실한 억제력을 확보하려는 의도다."
             },
             {
-              "q": "월가와 ECB가 'AI 필승 공식'의 종말을 선언한 구체적인 근거는 무엇인가?",
-              "a": "막대한 자본이 투입된 AI 인프라가 실제 기업의 영업이익으로 전환되는 속도가 예상보다 현저히 느리다는 점을 꼽고 있다. 고금리 환경에서 자본 비용은 상승하는데 AI 수익화 모델이 불투명해지자, 밸류에이션 거품이 붕괴될 시점이 도래했다는 판단이다."
+              "q": "연준의 금리 인상 기조가 아시아 통화 가치 하락에 미치는 구체적인 경로는 무엇인가?",
+              "a": "미국 금리가 높아지면 더 높은 수익률을 쫓아 자본이 미국으로 유입되면서 달러 수요가 급증하고 상대적으로 아시아 자산 가치는 떨어진다. 이는 수입 물가 상승을 유발해 아시아 국가들의 인플레이션을 자극하고, 결국 해당국 중앙은행들도 원치 않는 금리 인상을 압박받는 악순환을 만든다."
             },
             {
-              "q": "샌프란시스코 연은이 분석한 AI 증시 호황과 자연 실업률 사이의 상관관계는 어떻게 작동하는가?",
-              "a": "AI 기술 혁신이 노동 시장의 구조적 변화를 일으켜 구직자와 구인처 간의 미스매치를 심화시키고, 이로 인해 자연 실업률 자체가 상승할 수 있다는 분석이다. 증시는 기술 혁신에 환호하며 상승하지만, 실물 경제에서는 고용 유연성이 떨어지며 잠재 성장률이 저하되는 역설적 상황을 지적한 것이다."
+              "q": "금값이 3800달러 아래로 떨어진 현상은 안전자산으로서의 매력이 상실된 것인가?",
+              "a": "금은 이자가 붙지 않는 자산이기에 금리가 오르면 보유 기회비용이 커져 매력도가 낮아지는 역의 상관관계를 보인다. 현재의 하락은 안전자산 지위 상실이라기보다 달러화의 초강세와 실질 금리 상승에 따른 포트폴리오 조정 과정에서 나타나는 일시적 가격 후퇴로 봐야 한다."
             }
           ]
         },
-        "기술주 비중 급감": {
-          "headline": "기술주 비중 2006년 이후 최대폭 축소",
+        "AI 투자 경고": {
+          "headline": "연준 의장의 AI 거품 경고, 투자 공식 깨졌다",
           "facts": [
-            "월가 펀드매니저들의 기술주 투자 비중이 한 달 만에 25%p 급감하며 2006년 이후 최대폭의 축소를 기록했다.",
-            "뱅크오브아메리카(BofA)는 펀드매니저들의 설문 결과를 바탕으로 'AI 열풍이 끝났다'고 진단하며 기술주 투매 현상을 보고했다.",
-            "나스닥 지수는 반도체와 기술주를 중심으로 한 집중 매도로 인해 장중 2.1% 폭락하는 등 극심한 부진을 보였다.",
-            "엔비디아 실적 발표와 앤스로픽 IPO를 앞두고 일부 선물 시장에서는 반등 시도가 있었으나 전반적인 비중 축소 흐름을 꺾지 못했다."
+            "제롬 파월 연준 의장이 AI 투자 성과가 시장의 기대에 못 미칠 수 있다고 경고하며 경기 둔화 가능성을 언급했다.",
+            "월가에서는 'AI 주식을 사두면 무조건 돈을 번다'는 공식이 끝났다는 분석과 함께 투자 전략 전환이 빠르게 이뤄지고 있다.",
+            "미국 정부가 AI 칩의 중국 유출 규제를 강화하면서 엔비디아 등 주요 기업들의 공급망 리스크가 부각되었다.",
+            "AI 투자 불안감이 확산되면서 S&P 500 지수가 나흘째 하락하는 등 기술주 중심의 투매 현상이 나타났다."
           ],
           "watch": [
-            "BofA 펀드매니저 설문조사 내 자산 배분 변화 추이",
-            "나스닥 지수의 주요 이동평균선 회복 여부",
-            "기술주에서 이탈한 자금의 타 섹터 유입 경로"
+            "빅테크 기업들의 AI 관련 자본 지출(CAPEX) 조정 여부",
+            "AI 서비스의 실제 수익화 지표 및 매출 기여도",
+            "미 상무부의 반도체 수출 제한 조치 추가 명단"
           ],
           "qna": [
             {
-              "q": "펀드매니저들이 기술주 비중을 2006년 이후 최대폭으로 줄인 결정적 이유는 무엇인가?",
-              "a": "AI 산업의 수익성 가시화 지연과 고평가된 밸류에이션에 대한 공포가 임계점에 도달했기 때문이다. 2006년 당시와 유사하게 금리 인하 기대감은 후퇴하고 경기 침체 우려가 커지자, 가장 비중이 높고 변동성이 큰 기술주를 우선적으로 정리하여 현금을 확보하려는 움직임이다."
+              "q": "연준 의장이 직접 'AI 폭망 시나리오'를 언급하며 경고에 나선 이유는 무엇인가?",
+              "a": "AI 분야에 과도하게 쏠린 자본이 실질적인 생산성 향상으로 이어지지 못할 경우, 거품 붕괴 시 금융 시스템 전체에 충격을 줄 수 있기 때문이다. 기술적 낙관론이 자산 가격을 왜곡하여 통화 정책의 효과를 반감시키고 고용 시장에 부정적 변수를 만드는 것을 사전에 차단하려는 의도다."
             },
             {
-              "q": "BofA가 'AI 열풍이 끝났다'고 단언한 통계적 근거는 무엇인가?",
-              "a": "글로벌 펀드매니저들의 포트폴리오 내 기술주 비중이 장기 평균치 이하로 급락하고, AI 관련 기업들에 대한 향후 12개월 이익 전망치가 하향 조정되기 시작했기 때문이다. 단순한 조정이 아니라 기관 투자자들의 자금 집행 원칙 자체가 '성장성'에서 '안정성'으로 이동했음을 의미한다."
+              "q": "월가에서 'AI 필승 공식'이 끝났다고 선언한 결정적인 근거는 무엇인가?",
+              "a": "천문학적인 인프라 투자 비용 대비 기업들의 AI 서비스 매출 성장세가 정체되기 시작하면서 투자 대비 수익률(ROI)에 대한 의구심이 커졌기 때문이다. 이제는 단순한 기대감이 아닌 실제 재무제표상의 숫자로 증명해야 하는 '검증의 시간'에 진입했다는 판단이 지배적이다."
             },
             {
-              "q": "기술주 투매 속에서도 앤스로픽 IPO와 엔비디아 실적에 대한 기대가 공존하는 역설을 어떻게 해석해야 하는가?",
-              "a": "시장이 기술주 전반에 대해서는 비관적이지만, 압도적인 경쟁력을 가진 '대장주'와 '신규 대어'를 통해 반전의 실마리를 찾으려는 심리가 남아있기 때문이다. 이는 기술주 내에서도 무차별적 상승이 끝나고, 실적과 상징성을 갖춘 소수 종목으로만 수급이 쏠리는 극심한 차별화 장세가 시작되었음을 시사한다."
+              "q": "미국의 AI 칩 중국 유출 규제 강화가 AI 투자 심리에 어떤 역설적인 영향을 주는가?",
+              "a": "단기적으로는 주요 칩 제조사들의 매출 타격으로 이어지지만, 장기적으로는 AI 기술의 희소성을 높여 국가 간 기술 패권 경쟁을 심화시킨다. 이는 투자자들에게 AI 산업이 단순한 기술 트렌드를 넘어 정치·안보적 리스크가 결합된 복합적인 불확실성 영역임을 각인시켜 밸류에이션 할인을 유도한다."
             }
           ]
         }
       },
       "news": {
-        "뉴욕증시 전산장애 하락": [
+        "전산장애 증시 하락": [
+          {
+            "title": "[3분증시] 뉴욕 증시, 전산장애 불안에 동반 하락 - 연합뉴스 한민족센터",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uMVpCN2VMc0N0cVlnX19xamx3ZGUtOE54QkFqLWt6REtvZ3d4VndPUk9JWEVLMFI0VHhnNUNwRDBJdTVRN1E5d3Y1QmNXa2FlTk1KOXc2c09qeUpLR2tYX3F4cHU0dW5ZQkxnSEo4MElqc01i?oc=5",
+            "source": "연합뉴스 한민족센터",
+            "published": "11-18 07:48",
+            "snippet": "[3분증시] 뉴욕 증시, 전산장애 불안에 동반 하락 연합뉴스 한민족센터"
+          },
           {
             "title": "[뉴욕증시] 美 잇따른 전산장애에 S&P 500·나스닥 4일째↓ - 연합인포맥스",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hSHR1LTh6RjJNQ19LMGhqVWlwT3Z2Y3dzeGFxdGlBWkJWdl9YcTctZG50ZW5pdE1CR3VHRzFSUlBJTF9SR2NKTWpCQ2M2eDZTanVra0tmSjNRWS1ZUTA3ekhqQ3YtbFJ5TGJ6emlmNC0?oc=5",
@@ -370,13 +362,6 @@
             "snippet": "[글로벌증시] 뉴욕증시 또 하락…엔비디아 실적에 촉각 연합뉴스TV"
           },
           {
-            "title": "뉴욕증시 하락세 계속…S&P500 1%↓, 7월 이후 최저 - KBS 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GM05XNXEyTFQ4UVI3bU8teVZkZnFlMmpROW9yamoxaTJ3djB1b1NUVllFak1OYjgybE5Ebl9NaGtpeW5HUzk1VGN4Y3R5OGNGQlZtY010RkxielE?oc=5",
-            "source": "KBS 뉴스",
-            "published": "11-18 07:38",
-            "snippet": "뉴욕증시 하락세 계속…S&P500 1%↓, 7월 이후 최저 KBS 뉴스"
-          },
-          {
             "title": "뉴욕증시, 하락세 계속…S&P500 1%↓, 7월 이후 최저 - 연합뉴스",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iN0ZjT3ZkZXIzdlBkdWs0b2Y2S2JRSmVoMzVpYk9VUkpzdUpRbGM2T1JQaWlaMDFZTl9VdS1GOU42ZWNJNmxoTEp2Z3cydFdBT0NfZ29VbXZJQXZpQVFtS9IBYEFVX3lxTE5iN0ZjT3ZkZXIzdlBkdWs0b2Y2S2JRSmVoMzVpYk9VUkpzdUpRbGM2T1JQaWlaMDFZTl9VdS1GOU42ZWNJNmxoTEp2Z3cydFdBT0NfZ29VbXZJQXZpQVFtSw?oc=5",
             "source": "연합뉴스",
@@ -384,34 +369,78 @@
             "snippet": "뉴욕증시, 하락세 계속…S&P500 1%↓, 7월 이후 최저 연합뉴스"
           },
           {
-            "title": "뉴욕증시, 하락세 계속…S&P500 1%↓, 7월 이후 최저(종합) - 연합뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzQ1pPM2lXSm9LQU8xUWw5d2dIOGlpWnV5ZV96VENTZlUzY3NkTEJfRVU0VnV5MmNTQXZJYWFDcXRnYXpMQ3JsSGZiSENoUkVkazQ0VWgzRWtLV0llOUIyTNIBYEFVX3lxTFAzQ1pPM2lXSm9LQU8xUWw5d2dIOGlpWnV5ZV96VENTZlUzY3NkTEJfRVU0VnV5MmNTQXZJYWFDcXRnYXpMQ3JsSGZiSENoUkVkazQ0VWgzRWtLV0llOUIyTA?oc=5",
-            "source": "연합뉴스",
-            "published": "11-18 07:28",
-            "snippet": "뉴욕증시, 하락세 계속…S&P500 1%↓, 7월 이후 최저(종합) 연합뉴스"
+            "title": "뉴욕증시 하락세 계속…S&P500 1%↓, 7월 이후 최저 - KBS 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GM05XNXEyTFQ4UVI3bU8teVZkZnFlMmpROW9yamoxaTJ3djB1b1NUVllFak1OYjgybE5Ebl9NaGtpeW5HUzk1VGN4Y3R5OGNGQlZtY010RkxielE?oc=5",
+            "source": "KBS 뉴스",
+            "published": "11-18 07:38",
+            "snippet": "뉴욕증시 하락세 계속…S&P500 1%↓, 7월 이후 최저 KBS 뉴스"
           },
           {
-            "title": "뉴욕증시 하락세 이어져…S&P500, 7월 이후 최저 - 연합뉴스TV",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9saHM0REVoeExGejhsNUFhRURYa1lQTGtCYk1GZUVIcTgwVk5raUxzMmJnamQ4dHBUUldNVXpWWG9GeDRza2pWdFZzeWplSVVrbFF2RU1fdUdBMUFzcGpFVDZKVzhldWs?oc=5",
-            "source": "연합뉴스TV",
-            "published": "11-18 06:25",
-            "snippet": "뉴욕증시 하락세 이어져…S&P500, 7월 이후 최저 연합뉴스TV"
+            "title": "[뉴욕 증시] 3대 지수 일제히 하락 마감…나스닥 4일째 ↓ - 한양경제",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oQUpkOXUyTVctS2ZjMEpiU2ZrNUxCREk3YzJ3dlVRUlZNUFB4RVB6MlpkdUNTSDJnV1dMbHU1SURYdWY1Z2pQVUhFTzFlSkN5TUs0S1pPQWVuNTdpWDNQUTJEVVR3S3VYdVJtRWtfTjM4dw?oc=5",
+            "source": "한양경제",
+            "published": "11-18 09:47",
+            "snippet": "[뉴욕 증시] 3대 지수 일제히 하락 마감…나스닥 4일째 ↓ 한양경제"
           }
         ],
-        "연준의장 AI 경고": [
+        "연준 금리 인상": [
           {
-            "title": "연준의장 직접 경고한 ‘AI 폭망 시나리오’…4000조 공든 탑 흔들린다 - 매일경제 마켓",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84VXc3MDRmbWJvellJMU04SndQeVh0MFNrSHRaNFI0TlpUMHRLaUVrVVNaZGNSTnZ1TG44bGkyOWhOUUFJZGplY25fUC00MVVKVkE?oc=5",
-            "source": "매일경제 마켓",
-            "published": "11-18 06:00",
-            "snippet": "연준의장 직접 경고한 ‘AI 폭망 시나리오’…4000조 공든 탑 흔들린다 매일경제 마켓"
+            "title": "연준 금리 인상 기대에 달러 강세…아시아 통화 약세 지속 - Investing.com 한국어",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nWW9Wa1pwYUcyOWxPZ0VHVmRBRUVocXJFTjhjRFFPcGVQRUJKWkVYSEFoV05YVFB0aVZKVVItdjRta1dFSXMybE9zQU1QRnAzai1odG45N1hKWlRqRHlWZVFMZHlrRlE?oc=5",
+            "source": "Investing.com 한국어",
+            "published": "11-18 13:57",
+            "snippet": "연준 금리 인상 기대에 달러 강세…아시아 통화 약세 지속 Investing.com 한국어"
           },
+          {
+            "title": "연준 추가 금리 인상 전망에 금값 3,800달러 아래로 - Investing.com 한국어",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ISE9UcXpnSFQzck5MTlVEdk5Rcm1ZWU81NHNmeW84elJfVTdmOE00dG5ueHN0UnRxRFNNOE5sSTQ0OGhWU2p3R1FOdUVGN1lwSWZpaDF4RTFXZFBJcEJTa2lNc3RwNy1xNzllVTM3Yw?oc=5",
+            "source": "Investing.com 한국어",
+            "published": "11-18 10:11",
+            "snippet": "연준 추가 금리 인상 전망에 금값 3,800달러 아래로 Investing.com 한국어"
+          },
+          {
+            "title": "연준 금리 인상엔 한목소리⋯속도 놓고 ‘빅스텝 vs 점진론’ - 이투데이",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Tc2RTUWNPNHZBdnJfSC1FNXlpdTBscjl1MnVfWURIRUJFOTdyRDZnaF9PTjNZRjJRWkpfLVJIb21rTWdNT0RYRmE2MWZLXzNoTi12VQ?oc=5",
+            "source": "이투데이",
+            "published": "11-18 15:41",
+            "snippet": "연준 금리 인상엔 한목소리⋯속도 놓고 ‘빅스텝 vs 점진론’ 이투데이"
+          },
+          {
+            "title": "연준은 여전히 금리를 인상해야 합니다. 윌리엄스의 답변입니다. - IDNFinancials",
+            "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQV0FMaUViX1hockF2bHh3MjlEUXRmenZubFFvdFd1bTl1T1NiU3Q0T2NnVElGXzRzNnUyeElzR3dPWUNsdmN3dzRlMzNLQVpjeWVZTEEwZEZIX3BiQkgtNlNWRTJMeEtVdWtkNUFyUFB0RHU4akwwTmswR1ZEdFUxVEpLenpES1lldUtURm0yd0pJM0JpZVVjaXJ5cWZiZmUxbVJPN3RSWTJBTnk1UFFKVXQ5MTA1RFJaenBaMlAteE1saGQtWHlxVlFjWW83cVlDNnoxM2JZM0lWbUtMVE4xakpmQ3lsLUU4UGtHc3FENkFrVER5bk9QWFdodC1QdUQ0S3ZoZ2owN1ltNC1HWGtyZ1FMYnp1cGN2OFlKRi1zVGlpb3dIaDRCYTJlc3dEVDVXQkdtaFY5Z1RNb2M2ZHNnbi03X1AxTGRwSUE2Zjg5T3ptRkFCSFJkdngwMTdQNkdkWVhRZ0JaZTZONnZTZnhWV0FLSlItd2F0SG1DV1lqRWJGcWl6MnUxSzhZbG4zb2tKbExINnBIUQ?oc=5",
+            "source": "IDNFinancials",
+            "published": "11-18 16:20",
+            "snippet": "연준은 여전히 금리를 인상해야 합니다. 윌리엄스의 답변입니다. IDNFinancials"
+          },
+          {
+            "title": "연준 윌리엄스 총재, 인플레이션 대응 위해 추가 금리 인상 필요 By Investing.com - Investing.com 한국어",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44SjFvb25GcEg0X2NQSGNTUDllU1gwOF8xY2FGWld4U2pWUW5kZ3NqcG9kM0JYYTk4VzJXaHpaODhsWmpGWkN4YkZPbTh1LWdWRlhYNFltTjR3YTJydjFiVE5STWdlVnhHS2c?oc=5",
+            "source": "Investing.com 한국어",
+            "published": "11-18 04:53",
+            "snippet": "연준 윌리엄스 총재, 인플레이션 대응 위해 추가 금리 인상 필요 By Investing.com Investing.com 한국어"
+          },
+          {
+            "title": "국고채 금리 하락 반전…코스피 상승세 줄며 장중 5천선 하회 - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40UHFKU2F1eEpWR213SkVFdWJGNmpBWERaUm1HMklObG9SYU5GVDEzTFFzWDhkTGU1YndFTUh2akxmTDU5dHJpT2dtOVRoTThMeTZxYkpPV3JPMU1hSjRlVTRlcWRKXzVHYUx2ektQdHE?oc=5",
+            "source": "연합인포맥스",
+            "published": "11-18 13:05",
+            "snippet": "국고채 금리 하락 반전…코스피 상승세 줄며 장중 5천선 하회 연합인포맥스"
+          }
+        ],
+        "AI 투자 경고": [
           {
             "title": "미 연준 의장, “AI 투자 성과 기대에 못 미칠 수도”…경기 둔화·실업 증가 경고 - 헬로티",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pLUZRVHpMMklwRkJ3dmFOSmZPLXFhR29NYzhXT0FtZU9oZmlxUW9zN0FXTjRzdUNXNTN0LTljMkw4S1BFWG1lbFk2T0RNZldQaDFWNE12dm9wdnhwbDA4?oc=5",
             "source": "헬로티",
             "published": "11-18 10:55",
             "snippet": "미 연준 의장, “AI 투자 성과 기대에 못 미칠 수도”…경기 둔화·실업 증가 경고 헬로티"
+          },
+          {
+            "title": "AI주 사두면 돈 벌던 시대 끝나…월가 투자전략 전환 - 한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14ejV6Vm5OM0QwWkJXenB2WFI5V1RVTzZOaXhUUk9tVkpnTkZtNDZqVDBoWFBVY19CSGFleHk1Qk0yWkl5dll2bHh0X0VSc3hDQ2tGMFdOY0RwQQ?oc=5",
+            "source": "한국경제",
+            "published": "11-18 10:01",
+            "snippet": "AI주 사두면 돈 벌던 시대 끝나…월가 투자전략 전환 한국경제"
           },
           {
             "title": "[밤 사이 해외뉴스]\"AI 사면 무조건 번다\" 공식 끝났다…월가·ECB의 충격 경고 - 한국경제",
@@ -421,386 +450,371 @@
             "snippet": "[밤 사이 해외뉴스]\"AI 사면 무조건 번다\" 공식 끝났다…월가·ECB의 충격 경고 한국경제"
           },
           {
-            "title": "샌프란 연은 \"AI發 증시 호황, 자연 실업률과 깊은 연관\" - 연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zcU1KSWcyUWhoa2tVejJmbGJTYVlTUlM1UElROHhBLXN3TC11aWVhVmJhSHlJY2RqajI1Mk5tNUd5cjVoRTlyQTdQUjRyd1ZZeDI5Y2dDa210UHlOelFIMUpzQUNtTGpnZkJnUlg4aTU?oc=5",
-            "source": "연합인포맥스",
-            "published": "11-18 10:53",
-            "snippet": "샌프란 연은 \"AI發 증시 호황, 자연 실업률과 깊은 연관\" 연합인포맥스 AI의 두 미래...미 연준 의장 \"혁신 가속화\" vs \"경제 충격\" YTN 사이언스 \"AI 붐, 이미 버블...2028년 美 대선 전 터져 침체\" 전문가 섬뜩 경고 - 머니투데이 머니투데이 미국 AI 데이터센터 규제 반도체에 '전화위복' 되나, JP모간 \"빅테크 재무 안정화\" 전망 비즈니스포스트 미 연준 \"대형은행 AI 위험노출액 1조달러\"…손실확산 경고 연합뉴스"
+            "title": "AI 투자 불안에 뉴욕증시 나흘째 하락 … S&P500 7월 이후 최저 - 뉴데일리",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FRXR4Nk9yWmJ0SW9KSTVoY2RWNWg1bE1KZzZuNnBOc3IxUlFNSUlHOHM0bEJJSVktY3pJeVVIaUEwdEl1MEpzVTRVYUZ4cGpoQWJiNEZ6VVdtbVhNbFVpeWZZTnFuOEpoZk1iQ3IxbFcyOHlSa1RNOTlpRdIBgAFBVV95cUxQY3VpRWRBa1pkTTdXWVRVU2hzbWhGaE02NzY3aVJnUHBxZGlpYTIwQVVueHc4cExDVjk1SUF4akpNSDRVaGpaX0diR2JkeVVuMDZ1SWlOaVlMWVlhMjRDT28tNkZEVk9uUkVIUnpWWE9rRFNHTFl6MExabUtnRVZHaQ?oc=5",
+            "source": "뉴데일리",
+            "published": "11-18 07:31",
+            "snippet": "AI 투자 불안에 뉴욕증시 나흘째 하락 … S&P500 7월 이후 최저 뉴데일리"
           },
           {
-            "title": "美, 동남아 우회 AI칩 '패스트트랙' 닫았다…韓 파운드리·후공정 악영향 우려 - 전자신문",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qSlFPUFZnbVFnNktXWFJGQWlEX2JzSm9pc21YRlV5WHFGU3BUQUlFV2VjY3lGS05fbW5hbEMtUFVkNDR2alRjOE5EeG50Zw?oc=5",
-            "source": "전자신문",
-            "published": "11-17 15:00",
-            "snippet": "美, 동남아 우회 AI칩 '패스트트랙' 닫았다…韓 파운드리·후공정 악영향 우려 전자신문 데이터센터 핵심 부품 중국산 막히자 '이 종목' 날았다 한국경제 美, AI칩 中유출 규제 강화… 젠슨 황 통해 드러난 구멍 뒤늦게 땜질 동아일보 \"중 클라우드 접속도 막는다\"...엔비디아, 고객사에 '법적 조치' 경고 YTN 美, 빅테크 반대에도 중국산 데이터센터 부품 수입제한 추진 전자신문"
+            "title": "연준의장 직접 경고한 ‘AI 폭망 시나리오’…4000조 공든 탑 흔들린다 - 매일경제",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hYzZ2RUcxMTBjN2tkcXZyZDdpYllWYUxoXzZLUlRuTkY5WUdzRTJ5emQ0T2VTUVVpUUpXcnU0a1NfUGN0RUpORlZjRW5SUkMyeUhTZg?oc=5",
+            "source": "매일경제",
+            "published": "11-18 06:00",
+            "snippet": "연준의장 직접 경고한 ‘AI 폭망 시나리오’…4000조 공든 탑 흔들린다 매일경제"
           },
           {
-            "title": "‘첨단 AI 해킹’ 막을 ‘차르’, 부처간 벽부터 넘어야 한다 - 한겨레",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KdXh4NktLTEJJSWhETklBcDdWVlhKcHNPNUhoUXZpZ2VCYkVaeVhYREZoZ2dObFhjOTIyVzdfYUJiRkhmN0p4TF94ZU9iOHhEWG42TW5kOHRYS1psZVhDNQ?oc=5",
-            "source": "한겨레",
-            "published": "11-18 08:14",
-            "snippet": "‘첨단 AI 해킹’ 막을 ‘차르’, 부처간 벽부터 넘어야 한다 한겨레 F5, 2027년 사이버보안 3대 전망 발표…\"제로데이 위협 가속화\" 지디넷코리아 FBI “사이버 범죄자와 국가 연계 해커들, ARTEX 소프트웨어 악용해 기업 보안망 침투” VOA 한국어 홈페이지 \"중국 해킹조직, '아르텍스'로 한국 외교 조직 공격\" MBC 뉴스 사람 없이 AI가 해킹한 사례 첫 확인…AI끼리 연결해 전 과정 자동화 동아일보"
-          }
-        ],
-        "기술주 비중 급감": [
-          {
-            "title": "월가 펀드매니저, 기술주 비중 25%p 급감…2006년 이후 최대폭 축소 - 연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10SlItQ1ExWTk1MDFPaHdHcUF0VjY3WktyX202eFY1d09XcE91YUxjSEJqUXFveG1VZEUxMmVIUGJlSUdCMFhka1lvM0dfMWJBb2xhYVZsamVkYmZGQktzTHJYSWNuNlhzZ0xveFBPRUM?oc=5",
-            "source": "연합인포맥스",
-            "published": "11-18 10:26",
-            "snippet": "월가 펀드매니저, 기술주 비중 25%p 급감…2006년 이후 최대폭 축소 연합인포맥스"
-          },
-          {
-            "title": "[뉴욕증시] 반도체·기술주 투매로 3대 지수 급락…나스닥 장중 2.1% 폭락 - 글로벌이코노믹",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUWJBaXhtTkRnd1dfRkQ5OXNMWnl6eVZ2OS00NGVFdHBrMXRnekZ4TGRULVJmeGxhYkEwRWtFWGhOV2JfRmZYUW5YSTE2QXl5cndpamVvRW51SVI1WmxXRGxBTVNfQ1A1VWJkZFd5c2J5SXFVbElJOXJ6d2VWX0xyRU5LamNkRl9p?oc=5",
-            "source": "글로벌이코노믹",
-            "published": "11-18 06:26",
-            "snippet": "[뉴욕증시] 반도체·기술주 투매로 3대 지수 급락…나스닥 장중 2.1% 폭락 글로벌이코노믹"
-          },
-          {
-            "title": "뉴욕증시 프리뷰, 미 주가지수 선물 혼조…엔비디아 실적·앤스로픽 IPO 앞두고 기술주 반등 - 뉴스핌",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pbWdjTUFnRFlndVdNaklFLTRmVWt0ZDU5dG45SnNzRlZXZlV5blBrV01yaW5pV3VrX0JtNWpUVmp2a014VjhUc0ZMYUR5Y2JLU1pDSUxCUG9Ia2JO?oc=5",
-            "source": "뉴스핌",
-            "published": "11-17 22:29",
-            "snippet": "뉴욕증시 프리뷰, 미 주가지수 선물 혼조…엔비디아 실적·앤스로픽 IPO 앞두고 기술주 반등 뉴스핌"
-          },
-          {
-            "title": "BofA \"美 펀드매니저, 기술주 비중 20년 만에 최대폭 축소…AI 열풍 끝났다\" - 블루밍비트",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BZ0pqdE1GSE1lbWhtOWlUdHZxSE93T2FDZ2lmclpYak1MWlJUYktmYVNKZGdjM3QzVlRITHZGWjJHVVBEOEljTWlZTEpPeDg1?oc=5",
-            "source": "블루밍비트",
-            "published": "11-17 20:38",
-            "snippet": "BofA \"美 펀드매니저, 기술주 비중 20년 만에 최대폭 축소…AI 열풍 끝났다\" 블루밍비트"
+            "title": "美, AI칩 中유출 규제 강화… 젠슨 황 통해 드러난 구멍 뒤늦게 땜질 - 동아일보",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BUXlXOEJadkFYUFIwLWVnXzBoX3JMUm9GWW92bkhDMi1yck9tYzdwcGxLT1B0YWx5ekR3ZFcxRmVVeUxYaEFDaDhMRGk3UDl2ZFJkVWhfeWtqSFY4V1YtMHZSNXYwcHlBV2JkOXl5WmFIekXSAWZBVV95cUxPRjhITUFEVkphMVVvMVJCZWFqMWpUdTNzdXJucEZZcjVIYXVHdXRqd0R6VUFFN3FfYURkMWhqSzRwQUpwalpYdDQtOE45bnBpbUY0cVZKclhzSXM4ZzFBMjBUd2JUeEE?oc=5",
+            "source": "동아일보",
+            "published": "11-18 04:30",
+            "snippet": "美, AI칩 中유출 규제 강화… 젠슨 황 통해 드러난 구멍 뒤늦게 땜질 동아일보 엔비디아, 중국에 AI 칩 임대한 고객사에 '법적 위험' 경고 - 머니투데이 머니투데이 미국, 중국의 AI 원격 접속 차단…중국, 강력 반발 KBS 뉴스 젠슨 황 스캔들에 中 데이터센터 허브 동남아 '비상' 마켓인 美, 빅테크 반대에도 중국 데이터센터 장비 수입제한 추진 연합뉴스"
           }
         ]
       },
       "queries": {
-        "뉴욕증시 전산장애 하락": [],
-        "연준의장 AI 경고": [],
-        "기술주 비중 급감": [
-          "s&p500 기술주 비중",
-          "나스닥 기술주 비중",
-          "나스닥 100 기술주 비중",
-          "qqq 기술주 비중"
+        "전산장애 증시 하락": [],
+        "연준 금리 인상": [
+          "연준 금리 인상 가능성",
+          "연준 금리 인상 확률",
+          "연준 금리 인상 주식",
+          "연준 금리 인상 발표",
+          "연준 금리 인상 영향",
+          "연준 금리 인상 전망",
+          "연준 금리 인상 시기",
+          "연준 금리 인상 이유"
+        ],
+        "AI 투자 경고": [
+          "ai 투자",
+          "ai 투자 후기 디시",
+          "ai 투자 프롬프트",
+          "ai 투자 디시",
+          "ai 투자 프로그램",
+          "ai 투자 수익률",
+          "ai 투자 축소",
+          "ai 투자 순위"
         ]
       }
     },
     "keywords": [
-      "금융사 해킹 우려",
-      "데이터센터 냉각 솔루션",
-      "앤트로픽 상장 촉각",
-      "뉴욕증시 전산장애 하락",
-      "연준의장 AI 경고",
-      "기술주 비중 급감"
+      "가계빚 사상 최대",
+      "상장사 순이익 감소",
+      "젠슨 황 리스크",
+      "전산장애 증시 하락",
+      "연준 금리 인상",
+      "AI 투자 경고"
     ],
     "results": {
-      "금융사 해킹 우려": {
-        "headline": "금융사 보안 점검 연 2회로 강화",
+      "가계빚 사상 최대": {
+        "headline": "가계빚 2030조 돌파, 주담대 역대 최대 기록",
         "facts": [
-          "대형 금융사의 보안 취약점 분석 및 평가 주기가 기존 연 1회에서 연 2회로 확대되며 보안 관리가 강화되었다.",
-          "가상자산 거래소 코인원의 고객센터가 해킹당하며 자산 탈취와 사생활 침해에 대한 우려가 확산되고 있다.",
-          "미국 기술 인프라에서 닷새간 연이은 시스템 장애가 발생하며 글로벌 금융 시스템 전반의 불안감이 커졌다.",
-          "첨단 AI 해킹을 막기 위한 전담 조직인 '차르' 신설이 논의 중이나 부처 간 장벽이 걸림돌로 지적되었다.",
-          "미국이 동남아를 경유하는 AI 칩 우회 경로를 차단하면서 한국 파운드리와 후공정 업계에 악영향이 예상된다."
+          "2026년 3분기 기준 대한민국 가계신용 잔액이 2030조 5000억 원을 기록하며 사상 최대치를 경신했다.",
+          "주택담보대출을 중심으로 한 가계대출이 급증하며 전체 빚 규모를 끌어올렸으며 카드 빚을 의미하는 판매신용도 함께 증가했다.",
+          "최근 증시 조정의 영향으로 이른바 빚투 수요가 줄어들면서 가계빚 증가 폭 자체는 6분기 만에 최소 수준으로 둔화했다.",
+          "주택 관련 대출은 여전히 사상 최대 기록을 이어가고 있어 가계 재무 건전성에 대한 우려가 지속되고 있다."
         ],
         "watch": [
-          "금융당국 보안 가이드라인 개정안 시행 시점",
-          "AI 해킹 방지 전담 기구의 부처 간 협의 결과",
-          "미국 인프라 시스템 장애 복구 및 원인 발표"
+          "금융당국의 가계대출 추가 규제 시행 여부",
+          "부동산 시장 거래량 변화와 주담대 추이",
+          "증시 반등 시 신용공여 잔액 재증가 가능성"
         ],
         "qna": [
           {
-            "q": "금융사 취약점 평가 주기를 연 2회로 늘리는 조치가 실질적인 해킹 방어력을 높이는가?",
-            "a": "기존 연 1회 점검은 급변하는 해킹 기술에 대응하기에 시간적 간극이 컸으나, 주기를 단축함으로써 최신 보안 위협을 조기에 발견할 가능성이 커졌다. 다만 평가 횟수 증대보다 AI를 활용한 고도화된 공격을 실시간으로 탐지할 수 있는 기술적 인프라 구축이 병행되어야 실효성을 거둘 수 있다."
+            "q": "가계빚 총액은 역대 최대인데 증가 폭이 6분기 만에 최소를 기록한 배경은 무엇인가?",
+            "a": "주택담보대출은 주택 거래 흐름에 따라 여전히 높은 수준을 유지하고 있으나, 최근 국내외 증시 조정으로 인해 주식 투자를 위한 신용대출 수요가 급격히 꺾였기 때문이다. 자산 시장의 불확실성이 커지면서 공격적인 레버리지 투자가 줄어든 것이 전체 가계신용 증가 속도를 늦추는 브레이크 역할을 했다."
           },
           {
-            "q": "코인원 고객센터 해킹 사고가 단순 정보 유출을 넘어 자산 탈취로 이어질 가능성은 어느 정도인가?",
-            "a": "고객센터를 통해 유출된 개인정보가 2차 공격인 피싱이나 계정 탈취에 악용될 경우 실제 자산 손실로 직결될 위험이 매우 높다. 특히 사생활 침해 정보가 결합된 정교한 사회공학적 해킹은 보안 인증 체계를 우회할 수 있어 거래소의 추가적인 인증 강화가 시급한 상황이다."
+            "q": "카드 빚을 포함한 판매신용까지 급증한 현상은 가계 소비 구조에 어떤 신호를 주는가?",
+            "a": "고물가와 고금리 상황이 지속되면서 가계의 실질 구매력이 저하되자 부족한 생활비를 신용카드 결제나 할부 등 외상 거래로 충당하고 있음을 시사한다. 이는 가계의 가처분 소득이 한계에 다다랐음을 보여주는 지표로, 향후 소비 위축과 연체율 상승으로 이어질 위험이 크다."
           },
           {
-            "q": "미국의 AI 칩 우회 경로 차단이 한국 반도체 후공정 업계에 어떤 경로로 타격을 주는가?",
-            "a": "동남아시아는 한국 반도체 기업들의 주요 후공정 기지이자 우회 수출 통로 역할을 해왔으나, 패스트트랙이 닫히면서 물류 경로가 제한되고 통관 절차가 까다로워졌다. 이는 공급망 비용 상승과 직결되며, 결과적으로 한국 파운드리 업체의 글로벌 수주 경쟁력을 약화시키는 요인이 된다."
+            "q": "증시 조정이 가계부채 관리 측면에서 긍정적인 변수로 작용할 수 있는가?",
+            "a": "단기적으로는 과도한 빚투 열기를 식혀 가계부채의 급격한 팽창을 억제하는 효과가 있으나, 담보 가치 하락에 따른 반대매매 리스크를 키울 수 있다. 부채의 질적 측면에서 볼 때 생산적인 투자 대출이 아닌 자산 가격 하락에 따른 손실 보전용 대출이 늘어날 경우 가계 경제의 타격은 더 심화될 수 있다."
           }
         ]
       },
-      "데이터센터 냉각 솔루션": {
-        "headline": "AI 데이터센터 냉각 시장 선점 경쟁",
+      "상장사 순이익 감소": {
+        "headline": "코스피 3분기 순이익 30% 급감, 반도체 편중 심화",
         "facts": [
-          "LG전자가 가전 분야를 넘어 AI 인프라 시장을 겨냥해 데이터센터 냉각 솔루션을 새로운 승부수로 던졌다.",
-          "삼성전자는 215조 원의 현금 실탄을 바탕으로 데이터센터 냉각, 로봇, 전력 분야의 전방위 M&A를 검토 중이다.",
-          "아마존 CEO는 데이터센터 건설을 멈출 경우 중국에 AI 주도권을 완전히 넘겨줄 수 있다고 경고하며 공격적 투자를 시사했다.",
-          "삼성SDI는 미국에서 수조 원 규모의 ESS용 배터리 수주에 성공하며 데이터센터 전력 관리 시장에서의 입지를 굳혔다.",
-          "국내 기업들은 AI 데이터센터의 핵심인 전력과 냉각 시장 밸류체인을 선점하기 위해 기술 개발 경쟁에 돌입했다."
+          "코스피 상장사의 2026년 3분기 순이익이 전 분기 대비 30% 감소하며 수익성이 크게 악화된 것으로 나타났다.",
+          "삼성전자와 SK하이닉스 등 반도체 기업이 전체 코스피 순이익의 약 3분의 2를 차지하며 특정 업종 쏠림 현상이 극심해졌다.",
+          "코스닥 상장사들은 환율 하락과 내수 부진의 영향으로 분기 순손실을 기록하며 적자 전환하거나 수익성이 급락했다.",
+          "올해 9개월 누적 순이익은 전년 대비 3.7배 수준으로 성장세를 유지 중이나 3분기 들어 흑자 기업 수가 줄어드는 등 경고등이 켜졌다."
         ],
         "watch": [
-          "LG전자 냉각 솔루션의 글로벌 빅테크 공급 계약",
-          "삼성전자의 데이터센터 관련 대형 M&A 공식 발표",
-          "미국 내 AI 데이터센터 건설 규제 및 지원 법안"
+          "반도체 외 업종의 4분기 실적 회복 여부",
+          "환율 변동에 따른 수출 기업 채산성 변화",
+          "내수 부진 타개를 위한 정부의 경기 부양책"
         ],
         "qna": [
           {
-            "q": "LG전자가 가전 기술을 데이터센터 냉각 솔루션에 어떻게 접목하여 승부수를 띄우는가?",
-            "a": "에어컨과 냉장고 등에서 축적한 고효율 칠러 및 열교환 기술을 대규모 서버실의 열을 식히는 액침 냉각이나 공조 시스템으로 전환하여 적용하고 있다. 가전 사업에서 검증된 에너지 효율성과 내구성을 바탕으로 운영 비용 절감이 절실한 빅테크 데이터센터 시장을 공략하는 전략이다."
+            "q": "누적 순이익은 전년 대비 크게 늘었는데 왜 3분기 단일 실적은 30%나 급락했는가?",
+            "a": "상반기까지 실적을 견인했던 반도체 업황의 성장 속도가 둔화된 가운데 환율 하락으로 인한 환차손이 반영되면서 장부상 이익이 크게 줄었기 때문이다. 또한 고물가로 인한 비용 상승과 내수 소비 침체가 제조업 전반의 마진율을 갉아먹으며 실적 하향 조정을 유도했다."
           },
           {
-            "q": "아마존 CEO가 데이터센터 건설 중단을 중국에 대한 주도권 상실로 연결 짓는 논거는 무엇인가?",
-            "a": "AI 모델의 성능은 컴퓨팅 파워와 데이터 처리량에 비례하며, 이를 뒷받침하는 물리적 기반이 데이터센터이기 때문이다. 건설 속도가 늦어지면 연산 자원 확보에서 뒤처지게 되고, 이는 곧 국가적 차원의 AI 알고리즘 및 서비스 경쟁력 격차로 이어진다는 위기감이 반영된 것이다."
+            "q": "삼성전자와 SK하이닉스가 순이익의 3분의 2를 차지하는 구조는 증시에 어떤 리스크를 주는가?",
+            "a": "한국 증시 전체의 실적이 반도체 사이클 하나에 종속되는 결과를 초래하여 지수의 변동성을 극대화한다. 반도체 업황이 꺾일 경우 이를 대체할 만한 주력 산업이 부재하다는 점이 확인되면서 외국인 투자자들의 이탈을 가속화하는 원인이 된다."
           },
           {
-            "q": "삼성SDI의 ESS 배터리 수주가 데이터센터 냉각 시장과 어떤 상관관계를 갖는가?",
-            "a": "데이터센터는 막대한 전력을 소모하며 발생하는 열을 제어하기 위해 안정적인 전력 공급이 필수적인데, ESS는 전력 부하를 조절해 냉각 시스템의 효율을 극대화한다. 고성능 ESS 배터리는 냉각 장치의 갑작스러운 중단을 막는 비상 전원 역할과 동시에 전체 에너지 관리 비용을 낮추는 핵심 요소다."
+            "q": "코스닥 상장사들이 순손실을 기록하며 적자로 돌아선 결정적인 원인은 무엇인가?",
+            "a": "중소형주가 포진한 코스닥 특성상 내수 경기 부진에 더 민감하게 반응했으며, 수출 비중이 높은 기업들은 원화 강세 구간에서 가격 경쟁력과 수익성이 동시에 약화되었기 때문이다. 특히 자금 조달 비용 상승으로 인한 금융 비용 부담이 중소기업들의 순이익을 잠식한 결과로 풀이된다."
           }
         ]
       },
-      "앤트로픽 상장 촉각": {
-        "headline": "앤트로픽 19일 나스닥 상장 확정",
+      "젠슨 황 리스크": {
+        "headline": "엔비디아 젠슨 황 사법 리스크와 경영권 흔들",
         "facts": [
-          "AI 스타트업 앤트로픽이 공모가 희망 범위를 상회할 것으로 예상되는 가운데 11월 19일 나스닥 상장을 앞두고 있다.",
-          "월가는 앤트로픽이 폭발적인 성장을 거듭하여 2030년에는 매출 676조 원을 달성할 것으로 전망했다.",
-          "앤트로픽의 IPO 흥행 여부는 딥시크, 업스테이지 등 아시아 AI 기업들의 상장 가능성을 가늠할 이정표가 될 전망이다.",
-          "코스닥 상장사 3곳 중 1곳이 한계기업으로 나타나면서 부실 기업 증가가 우량 기업의 저평가를 심화시키고 있다.",
-          "뉴욕증시는 엔비디아 실적 발표와 앤트로픽 상장이라는 대형 이벤트를 앞두고 관망세 속에 하락 마감했다."
+          "미국 증권거래위원회(SEC)가 엔비디아의 허위 공시 의혹을 정조준하며 젠슨 황 CEO를 향한 사법 리스크가 확산되고 있다.",
+          "젠슨 황의 딸이 '메가스피드 사태'에 개입해 막강한 영향력을 행사했다는 의혹이 제기되며 가족 경영에 대한 비판이 거세졌다.",
+          "미국 정부가 AI 칩의 중국 유출 규제를 강화하는 과정에서 젠슨 황을 통한 우회 수출 구멍이 발견되어 당국의 조사가 진행 중이다.",
+          "내부 암투를 시사하는 '루비오 메모'가 공개되고 차기 CEO 후보가 부상하면서 젠슨 황의 복귀설과 퇴진설이 동시에 교차하고 있다."
         ],
         "watch": [
-          "19일 나스닥 상장 직후 앤트로픽의 시초가 형성",
-          "앤트로픽 상장이 국내 AI 관련주에 미치는 영향",
-          "엔비디아 실적 발표와 AI 섹터 전반의 수급 변화"
+          "SEC의 허위 공시 조사 결과 및 과징금 규모",
+          "미국 정부의 대중국 AI 칩 수출 추가 제재안",
+          "엔비디아 이사회의 경영권 승계 관련 공식 입장"
         ],
         "qna": [
           {
-            "q": "앤트로픽의 2030년 매출 676조 원 전망은 어떤 근거로 도출된 수치인가?",
-            "a": "기업용 AI 모델 수요의 기하급수적 증가와 구독형 서비스 모델의 확장을 전제로 월가에서 산출한 낙관적 시나리오다. 현재의 성장 속도가 유지되고 AI 인프라 투자가 매출로 본격 전환되는 시점을 고려할 때, 단순 소프트웨어 판매를 넘어 플랫폼 생태계를 장악할 것이라는 기대가 반영되었다."
+            "q": "SEC가 제기한 '허위 공시' 의혹의 핵심 쟁점은 무엇인가?",
+            "a": "엔비디아가 AI 칩 수요를 전망하는 과정에서 실제 주문 데이터보다 부풀려진 수치를 시장에 공개하여 주가를 인위적으로 부양했는지 여부가 핵심이다. 만약 고의적인 왜곡이 입증될 경우 대규모 징벌적 과징금은 물론 경영진의 법적 책임 회피가 어려워질 전망이다."
           },
           {
-            "q": "앤트로픽의 IPO가 아시아 AI 스타트업들에게 구체적으로 어떤 도화선 역할을 하는가?",
-            "a": "앤트로픽이 높은 기업가치를 인정받으며 성공적으로 안착할 경우, 수익성 논란에 직면했던 AI 기업들에 대한 투자 심리가 급격히 회복될 수 있다. 이는 딥시크나 업스테이지 같은 아시아권 후발 주자들이 상장 시 밸류에이션을 높게 책정받을 수 있는 비교군(Peer Group) 기준을 마련해준다."
+            "q": "젠슨 황의 가족이 개입된 '메가스피드 사태'가 기업 지배구조에 어떤 타격을 주는가?",
+            "a": "공식적인 직함 이상의 영향력을 행사한 가족 구성원의 개입은 엔비디아의 의사결정 시스템이 투명하지 않다는 증거로 해석되어 기관 투자자들의 신뢰를 떨어뜨린다. 이는 전문 경영인 체제의 붕괴로 비춰질 수 있으며 주주 가치 훼손을 우려한 집단 소송의 빌미가 될 수 있다."
           },
           {
-            "q": "코스닥 내 한계기업 비중 증가가 앤트로픽 같은 우량 AI 기업의 상장 환경에 어떤 악영향을 주는가?",
-            "a": "부실 기업이 시장에 잔류하며 자본을 잠식하면 시장 전체의 신뢰도가 하락하고 우량 기업으로 유입되어야 할 유동성이 분산된다. 특히 AI 같은 고성장 섹터 내에서도 옥석 가리기가 엄격해지면서, 상장 초기 오버행 이슈나 저평가 리스크를 가중시키는 원인이 된다."
+            "q": "미 정부의 규제 강화와 젠슨 황의 개인 리스크가 결합될 경우 시장에 미칠 파장은?",
+            "a": "엔비디아의 가장 큰 시장 중 하나인 중국 매출이 완전히 차단될 위험이 있으며, CEO의 도덕적 해이 이슈가 겹치면서 기술적 우위와 별개로 주가 프리미엄이 빠르게 제거될 수 있다. 이는 엔비디아를 넘어 글로벌 AI 밸류체인 전체의 투자 심리를 냉각시키는 트리거가 될 것이다."
           }
         ]
       },
-      "뉴욕증시 전산장애 하락": {
-        "headline": "전산장애 여파에 S&P500 7월 이후 최저",
+      "전산장애 증시 하락": {
+        "headline": "전산장애 공포에 뉴욕증시 4일 연속 하락",
         "facts": [
-          "미국 증시에서 잇따른 전산 장애가 발생하며 S&P 500과 나스닥 지수가 4거래일 연속 하락세를 기록했다.",
-          "S&P 500 지수는 전일 대비 1% 하락하며 지난 7월 이후 가장 낮은 수준까지 밀려났다.",
-          "시스템 불안정으로 인한 거래 차질이 투자 심리를 위축시켰으며 엔비디아 실적 발표를 앞둔 경계감도 하락을 부추겼다.",
-          "뉴욕증시 3대 지수는 반도체와 기술주 중심의 투매 현상이 나타나며 장중 변동성이 극심해졌다.",
-          "글로벌 증시는 뉴욕발 전산 장애와 기술주 하락의 영향으로 동반 약세를 면치 못했다."
+          "미국 금융 시장 내 잇따른 전산장애 발생으로 시스템 불안감이 확산되며 S&P 500과 나스닥 지수가 4일째 하락했다.",
+          "나스닥 지수는 전산 사고 여파로 기술주 중심의 매도세가 몰리며 지난 7월 이후 최저 수준까지 떨어졌다.",
+          "투자자들이 시스템 오류로 인한 거래 체결 불확실성을 피하기 위해 현금화에 나서면서 3대 지수가 일제히 하락 마감했다.",
+          "엔비디아 실적 발표를 앞둔 시점에서 터진 전산 악재는 시장의 변동성을 더욱 키우며 글로벌 증시 전반에 하방 압력을 가했다."
         ],
         "watch": [
-          "뉴욕증권거래소의 전산 시스템 복구 및 재발 방지책",
-          "S&P 500 지수의 7월 저점 지지 여부",
-          "엔비디아 실적 발표에 따른 나스닥 지수 반등 가능성"
+          "미국 주요 거래소의 시스템 복구 및 재발 방지책",
+          "전산장애로 인한 미체결 주문 처리 결과",
+          "엔비디아 실적 발표 당일의 거래량 변화"
         ],
         "qna": [
           {
-            "q": "뉴욕증시의 잇따른 전산 장애가 단순 기술적 결함을 넘어 시장 구조적 리스크로 번지는 이유는 무엇인가?",
-            "a": "초단타 매매와 알고리즘 거래가 지배하는 현대 증시에서 전산 장애는 즉각적인 유동성 공급 중단과 가격 왜곡을 초래하기 때문이다. 투자자들이 시스템의 안정성을 신뢰하지 못할 경우 리스크 프리미엄이 상승하며 자산 매각을 가속화하는 심리적 트리거로 작용한다."
+            "q": "단순한 전산 오류가 왜 4일 연속 지수 하락이라는 이례적인 폭락으로 이어졌는가?",
+            "a": "알고리즘 매매와 초단기 트레이딩이 주를 이루는 현대 증시에서 전산장애는 데이터 신뢰성을 파괴하여 자동 매도 주문을 촉발하기 때문이다. 거래소 시스템에 대한 불신이 커지면 투자자들은 리스크 관리 차원에서 포지션을 강제로 청산하게 되며, 이것이 연쇄적인 투매를 유도했다."
           },
           {
-            "q": "S&P 500 지수가 7월 이후 최저치를 기록한 것이 기술적 분석 측면에서 어떤 의미를 갖는가?",
-            "a": "지난 수개월간 형성된 지지선이 무너졌음을 의미하며, 이는 추가 하락 공간이 열리는 하락 추세로의 전환 신호로 해석될 수 있다. 특히 전산 장애라는 비정상적 요인으로 저점이 뚫린 만큼, 빠른 시일 내에 회복하지 못하면 매도세가 강화되는 '데드크로스' 구간에 진입할 위험이 크다."
+            "q": "S&P 500 지수가 7월 이후 최저치를 기록한 것은 기술적 반등의 신호인가 추가 하락의 전조인가?",
+            "a": "전산장애라는 비정상적인 요인으로 지지선이 무너졌기 때문에 시스템 정상화만으로는 반등이 어렵고, 펀더멘털에 대한 재평가가 동반되어야 한다. 특히 주요 기술주들의 실적 발표와 맞물린 시점이라 전산 불안이 실적 실망감과 결합될 경우 추가적인 하락 채널이 형성될 가능성이 높다."
           },
           {
-            "q": "엔비디아 실적 발표에 대한 촉각이 전산 장애 상황에서 시장에 어떤 변수로 작용하는가?",
-            "a": "시스템 불안으로 시장이 예민한 상태에서 엔비디아의 실적이 기대치에 미치지 못할 경우 기술주 전반에 대한 투매를 촉발하는 기폭제가 될 수 있다. 반대로 압도적인 실적을 발표한다면 전산 장애로 인한 심리적 불안을 상쇄하며 시장을 반등시킬 수 있는 유일한 모멘텀이 된다."
+            "q": "전산장애 불안 속에서도 엔비디아 실적에 시장이 촉각을 곤두세우는 이유는 무엇인가?",
+            "a": "엔비디아는 현재 증시의 유동성과 방향성을 결정하는 핵심 지표 역할을 하고 있어, 시스템 불안을 상쇄할 만큼의 압도적인 실적을 보여줄지가 관건이기 때문이다. 만약 실적이 기대치에 못 미칠 경우 전산 악재와 실적 부진이 겹치며 시장 전체가 장기 조정 국면에 진입할 위험이 있다."
           }
         ]
       },
-      "연준의장 AI 경고": {
-        "headline": "연준의장 AI 투자 거품 및 실업 경고",
+      "연준 금리 인상": {
+        "headline": "연준 추가 금리 인상 시사, 달러 강세 가속",
         "facts": [
-          "미 연준 의장은 AI 투자 성과가 시장의 기대에 미치지 못할 수 있다고 직접 경고하며 'AI 폭망 시나리오' 가능성을 언급했다.",
-          "AI 열풍으로 인한 증시 호황이 실제 경기 상황과 괴리가 있으며, 향후 경기 둔화와 실업 증가로 이어질 수 있다는 우려가 제기되었다.",
-          "월가와 유럽중앙은행(ECB)에서도 'AI를 사면 무조건 돈을 번다'는 공식이 끝났다는 충격적인 경고가 잇따랐다.",
-          "AI발 증시 호황이 자연 실업률과 깊은 연관이 있으며 고용 시장에 부정적 영향을 줄 수 있다.",
-          "미국이 동남아 우회 AI 칩 경로를 차단하는 등 규제를 강화하면서 AI 산업 전반의 성장세 둔화 우려가 커지고 있다."
+          "연준 주요 인사들이 인플레이션 대응을 위해 추가 금리 인상이 필요하다는 입장을 밝히며 긴축 기조를 강화했다.",
+          "존 윌리엄스 뉴욕 연준 총재는 인플레이션 목표치 달성을 위해 금리를 더 올려야 한다고 직접 언급하며 시장의 금리 인하 기대를 꺾었다.",
+          "금리 인상 전망에 달러 인덱스가 치솟으며 아시아 주요국 통화 가치가 약세를 면치 못하고 있다.",
+          "국제 금값은 연준의 매파적 행보에 따른 실질 금리 상승 부담으로 온스당 3800달러 아래로 급락했다."
         ],
         "watch": [
-          "연준의 향후 금리 결정 시 AI 산업 지표 반영 여부",
-          "미국 고용 보고서 내 AI 관련 직군 실업률 변화",
-          "글로벌 빅테크 기업들의 AI 투자 가이던스 하향 조정"
+          "연준의 다음 통화정책 회의 내 빅스텝 단행 여부",
+          "미국 소비자물가지수(CPI) 발표 수치",
+          "달러 강세에 따른 신흥국 자금 이탈 규모"
         ],
         "qna": [
           {
-            "q": "연준 의장이 AI 투자가 실업 증가로 이어질 수 있다고 경고한 메커니즘은 무엇인가?",
-            "a": "기업들이 AI 도입을 통한 비용 절감을 위해 기존 인력을 대거 감축하고 있으나, AI가 창출하는 신규 고용 속도가 이를 따라잡지 못하고 있기 때문이다. 생산성 향상이 가계 소득 증대로 연결되지 않고 자본가에게만 집중될 경우 소비 위축과 경기 둔화라는 악순환에 빠질 수 있다는 논리다."
+            "q": "인플레이션 둔화 조짐에도 불구하고 윌리엄스 총재가 추가 인상을 주장하는 논거는 무엇인가?",
+            "a": "노동 시장의 견조함이 유지되면서 서비스 물가 상승 압력이 여전히 높고, 기대 인플레이션이 완전히 꺾이지 않았다고 판단하기 때문이다. 성급한 금리 인하가 인플레이션 재발을 초래할 수 있다는 '스톱 앤 고' 정책 실패를 경계하며 확실한 억제력을 확보하려는 의도다."
           },
           {
-            "q": "월가와 ECB가 'AI 필승 공식'의 종말을 선언한 구체적인 근거는 무엇인가?",
-            "a": "막대한 자본이 투입된 AI 인프라가 실제 기업의 영업이익으로 전환되는 속도가 예상보다 현저히 느리다는 점을 꼽고 있다. 고금리 환경에서 자본 비용은 상승하는데 AI 수익화 모델이 불투명해지자, 밸류에이션 거품이 붕괴될 시점이 도래했다는 판단이다."
+            "q": "연준의 금리 인상 기조가 아시아 통화 가치 하락에 미치는 구체적인 경로는 무엇인가?",
+            "a": "미국 금리가 높아지면 더 높은 수익률을 쫓아 자본이 미국으로 유입되면서 달러 수요가 급증하고 상대적으로 아시아 자산 가치는 떨어진다. 이는 수입 물가 상승을 유발해 아시아 국가들의 인플레이션을 자극하고, 결국 해당국 중앙은행들도 원치 않는 금리 인상을 압박받는 악순환을 만든다."
           },
           {
-            "q": "샌프란시스코 연은이 분석한 AI 증시 호황과 자연 실업률 사이의 상관관계는 어떻게 작동하는가?",
-            "a": "AI 기술 혁신이 노동 시장의 구조적 변화를 일으켜 구직자와 구인처 간의 미스매치를 심화시키고, 이로 인해 자연 실업률 자체가 상승할 수 있다는 분석이다. 증시는 기술 혁신에 환호하며 상승하지만, 실물 경제에서는 고용 유연성이 떨어지며 잠재 성장률이 저하되는 역설적 상황을 지적한 것이다."
+            "q": "금값이 3800달러 아래로 떨어진 현상은 안전자산으로서의 매력이 상실된 것인가?",
+            "a": "금은 이자가 붙지 않는 자산이기에 금리가 오르면 보유 기회비용이 커져 매력도가 낮아지는 역의 상관관계를 보인다. 현재의 하락은 안전자산 지위 상실이라기보다 달러화의 초강세와 실질 금리 상승에 따른 포트폴리오 조정 과정에서 나타나는 일시적 가격 후퇴로 봐야 한다."
           }
         ]
       },
-      "기술주 비중 급감": {
-        "headline": "기술주 비중 2006년 이후 최대폭 축소",
+      "AI 투자 경고": {
+        "headline": "연준 의장의 AI 거품 경고, 투자 공식 깨졌다",
         "facts": [
-          "월가 펀드매니저들의 기술주 투자 비중이 한 달 만에 25%p 급감하며 2006년 이후 최대폭의 축소를 기록했다.",
-          "뱅크오브아메리카(BofA)는 펀드매니저들의 설문 결과를 바탕으로 'AI 열풍이 끝났다'고 진단하며 기술주 투매 현상을 보고했다.",
-          "나스닥 지수는 반도체와 기술주를 중심으로 한 집중 매도로 인해 장중 2.1% 폭락하는 등 극심한 부진을 보였다.",
-          "엔비디아 실적 발표와 앤스로픽 IPO를 앞두고 일부 선물 시장에서는 반등 시도가 있었으나 전반적인 비중 축소 흐름을 꺾지 못했다."
+          "제롬 파월 연준 의장이 AI 투자 성과가 시장의 기대에 못 미칠 수 있다고 경고하며 경기 둔화 가능성을 언급했다.",
+          "월가에서는 'AI 주식을 사두면 무조건 돈을 번다'는 공식이 끝났다는 분석과 함께 투자 전략 전환이 빠르게 이뤄지고 있다.",
+          "미국 정부가 AI 칩의 중국 유출 규제를 강화하면서 엔비디아 등 주요 기업들의 공급망 리스크가 부각되었다.",
+          "AI 투자 불안감이 확산되면서 S&P 500 지수가 나흘째 하락하는 등 기술주 중심의 투매 현상이 나타났다."
         ],
         "watch": [
-          "BofA 펀드매니저 설문조사 내 자산 배분 변화 추이",
-          "나스닥 지수의 주요 이동평균선 회복 여부",
-          "기술주에서 이탈한 자금의 타 섹터 유입 경로"
+          "빅테크 기업들의 AI 관련 자본 지출(CAPEX) 조정 여부",
+          "AI 서비스의 실제 수익화 지표 및 매출 기여도",
+          "미 상무부의 반도체 수출 제한 조치 추가 명단"
         ],
         "qna": [
           {
-            "q": "펀드매니저들이 기술주 비중을 2006년 이후 최대폭으로 줄인 결정적 이유는 무엇인가?",
-            "a": "AI 산업의 수익성 가시화 지연과 고평가된 밸류에이션에 대한 공포가 임계점에 도달했기 때문이다. 2006년 당시와 유사하게 금리 인하 기대감은 후퇴하고 경기 침체 우려가 커지자, 가장 비중이 높고 변동성이 큰 기술주를 우선적으로 정리하여 현금을 확보하려는 움직임이다."
+            "q": "연준 의장이 직접 'AI 폭망 시나리오'를 언급하며 경고에 나선 이유는 무엇인가?",
+            "a": "AI 분야에 과도하게 쏠린 자본이 실질적인 생산성 향상으로 이어지지 못할 경우, 거품 붕괴 시 금융 시스템 전체에 충격을 줄 수 있기 때문이다. 기술적 낙관론이 자산 가격을 왜곡하여 통화 정책의 효과를 반감시키고 고용 시장에 부정적 변수를 만드는 것을 사전에 차단하려는 의도다."
           },
           {
-            "q": "BofA가 'AI 열풍이 끝났다'고 단언한 통계적 근거는 무엇인가?",
-            "a": "글로벌 펀드매니저들의 포트폴리오 내 기술주 비중이 장기 평균치 이하로 급락하고, AI 관련 기업들에 대한 향후 12개월 이익 전망치가 하향 조정되기 시작했기 때문이다. 단순한 조정이 아니라 기관 투자자들의 자금 집행 원칙 자체가 '성장성'에서 '안정성'으로 이동했음을 의미한다."
+            "q": "월가에서 'AI 필승 공식'이 끝났다고 선언한 결정적인 근거는 무엇인가?",
+            "a": "천문학적인 인프라 투자 비용 대비 기업들의 AI 서비스 매출 성장세가 정체되기 시작하면서 투자 대비 수익률(ROI)에 대한 의구심이 커졌기 때문이다. 이제는 단순한 기대감이 아닌 실제 재무제표상의 숫자로 증명해야 하는 '검증의 시간'에 진입했다는 판단이 지배적이다."
           },
           {
-            "q": "기술주 투매 속에서도 앤스로픽 IPO와 엔비디아 실적에 대한 기대가 공존하는 역설을 어떻게 해석해야 하는가?",
-            "a": "시장이 기술주 전반에 대해서는 비관적이지만, 압도적인 경쟁력을 가진 '대장주'와 '신규 대어'를 통해 반전의 실마리를 찾으려는 심리가 남아있기 때문이다. 이는 기술주 내에서도 무차별적 상승이 끝나고, 실적과 상징성을 갖춘 소수 종목으로만 수급이 쏠리는 극심한 차별화 장세가 시작되었음을 시사한다."
+            "q": "미국의 AI 칩 중국 유출 규제 강화가 AI 투자 심리에 어떤 역설적인 영향을 주는가?",
+            "a": "단기적으로는 주요 칩 제조사들의 매출 타격으로 이어지지만, 장기적으로는 AI 기술의 희소성을 높여 국가 간 기술 패권 경쟁을 심화시킨다. 이는 투자자들에게 AI 산업이 단순한 기술 트렌드를 넘어 정치·안보적 리스크가 결합된 복합적인 불확실성 영역임을 각인시켜 밸류에이션 할인을 유도한다."
           }
         ]
       }
     },
     "news": {
-      "금융사 해킹 우려": [
+      "가계빚 사상 최대": [
         {
-          "title": "연이은 해킹에 대형 금융사 취약점 분석·평가 주기 연 1회에서 2회로 확대 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vXy1uRjZ5b1pLZ1ZXR3pKRF9STkl4enQzMGVQaUxDOWUxZW12cVpSTGVfS3JZSVFiV0tLaTlCZ2x5VXpYWmNtUkQwZHVJaTZoMm5Zb3N5MGFpanVzNnE4MWNiLVU0QVNQbmMxMWRPbFBLMU5E0gF0QVVfeXFMTlRiQmpLbFc0RGRLazRuT0ZSSVk5OERSaEhsMkdwZExiS2c0anlCektwalBmVUxQTTVXSDNZRkFPUUtsTDFaZ0ZvOHRJdWhMV0ZPVGxHNUZrRW55YzVXbWJ4MVlKc3JiWHpGZmZrYWU2R0FNMHY?oc=5",
+          "title": "3분기 가계빚 2천30조‥주택 관련 대출 '사상 최대' - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iRVlEODh5eHBZVHlWOGxuYXVzME8tZ2VkVmNqZ3VRSUw1WlBNU0l4ajRoWm85MjN3LW1DMEtTWXoyT25USGdiTkJxbjhhMHo1bnhMSEQtRjA0T1daZ09sNVVBZHg2ZGJtaG04LUdMVzRkbzZj0gF0QVVfeXFMUGV5TXhHanlLNnhJQWhWenpibEN4Z1BkOHdZUXN6WnJNeEc4TkJqY28zWEduU2hSdmxaUVpJb245NnpnNHQzbVpoWThGR2lYRXVWRDNGWnlfWUN3dF8zb19fUFowRmpzeWpxRlJzOWlLbG1oNk8?oc=5",
           "source": "MBC 뉴스",
-          "published": "11-17 17:12",
-          "snippet": "연이은 해킹에 대형 금융사 취약점 분석·평가 주기 연 1회에서 2회로 확대 MBC 뉴스 [단독]해킹당하고도 15일간 깜깜… 금융 피해 키울 우려 동아일보 금융권 해킹 잇따르자…금감원, 자산운용사 소집해 보안 점검 주문 마켓인 금감원 “침해사고 책임 물을 것”…전금·온투업자 보안점검 당부 KBS 뉴스 \"자산운용사가 해킹 약한 고리 될 수도\"…100여개 운용사 보안 점검 By EBN Investing.com 한국어"
+          "published": "11-18 13:53",
+          "snippet": "3분기 가계빚 2천30조‥주택 관련 대출 '사상 최대' MBC 뉴스 3분기 가계빚 2030조 역대 최대...증시 조정에 증가폭은 둔화 매일경제 가계부채 증가 둔화와 물가전망 긴축 권고까지 이시각 주요뉴스 연합인포맥스 주가 하락에 ‘빚투’ 줄어...3분기 가계 대출, 전분기보다 덜 늘었다 조선일보 3분기 가계부채 증가폭 1년반 만에 최소…카드 외상은 급증 연합뉴스"
         },
         {
-          "title": "코인원 고객센터 해킹 후폭풍…자산 탈취·사생활 침해까지 우려 - 지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlVnNmWjdTQ19mVFMwZlMtRkM3RFhrNnhiY2lhTS12NDk0bHZWcUk2eklLZjZPRjlnSDFaTFBxcHBfejVPcEQ2Unp6MUlvTEJDUklJQ2NB?oc=5",
-          "source": "지디넷코리아",
-          "published": "11-17 11:22",
-          "snippet": "코인원 고객센터 해킹 후폭풍…자산 탈취·사생활 침해까지 우려 지디넷코리아 메가MGC커피 “고객센터 위탁업체 해킹…고객 30명 전화번호 유출” KBS 뉴스 코인 거래소 줄줄이 해킹… “외부 수탁사·업무망 관리 강화해야” Chosunbiz ‘AI 콜센터’ 메타엠 해킹... 병원 등 150개 고객사 공급망 위협 잠재 보안뉴스 [심층] 해킹 보고 31시간 뒤 ’믿고 쓰는 코인원’…코인원, 유출 공지는 시한 80분 전 By 알파경제 alphabiz In"
+          "title": "엔비디아, 젠슨 황 없이 사상 최대 실적 발표...'저평가론' 퍼진 월가 - 증권일보",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YQnFvaXJJem9VZ2pHS0tPcEttRXQxQkxDT2t4bWw3dUp5UWJGX3dVZGs2aWI4ZFpIYjRwd2VLLUppZHhVYUZqY1BEOHcyU1R6clBtYy13bnFoVlUxVGQ3aQ?oc=5",
+          "source": "증권일보",
+          "published": "11-18 09:05",
+          "snippet": "엔비디아, 젠슨 황 없이 사상 최대 실적 발표...'저평가론' 퍼진 월가 증권일보"
         },
         {
-          "title": "미국 기술 인프라에 무슨 일이? 닷새간 잇따른 시스템 장애에 우려 확산 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjeDFvbmhjSmlDYnZvc3pkX193UEk5eUpRTGtjdDAyQXJWT0NXODJlSUktZkZleUNZX2FnZ01JQ3FKUDNqMmc5ZU9RdlY4eTFkMmxvWmNmY2NPVmdmWEVqTHMzVUVQM0dvUmRnX0gzUEI?oc=5",
-          "source": "Investing.com 한국어",
-          "published": "11-18 00:37",
-          "snippet": "미국 기술 인프라에 무슨 일이? 닷새간 잇따른 시스템 장애에 우려 확산 Investing.com 한국어 트럼프, 미국 내 시스템 장애 속출에 \"괜찮다…그게 인생\" 연합뉴스 AI 해킹 증거 없다지만…美 인프라 연쇄 먹통에 ’사이버 재앙설’ 확산 연합뉴스TV 미 국가안보국 내부 통신망 마비…항공·금융 이어 또 멈춰 경향신문 KPMG \"美 전산장애 사태, 결국 연준이 막아야 할 인플레이션\" 연합인포맥스"
+          "title": "증시 조정에 빚투 줄었지만…가계빚 2030.5조원 ‘역대 최대’ 행진 - 산경일보",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tSm02Z29mNzdqMXFqTHBOQWVvUjlCLURubVNFbkZEZUhpUVRWYjNWM3VIdWlmZ00tU01IN3JpdTA0TkhWbVhvUXFvYnVDX1dmeVFEVkU5UkFQRy1wbklrSXZhY3BGWVAxcFJOZkEwN3Y?oc=5",
+          "source": "산경일보",
+          "published": "11-18 14:30",
+          "snippet": "증시 조정에 빚투 줄었지만…가계빚 2030.5조원 ‘역대 최대’ 행진 산경일보"
         },
         {
-          "title": "‘첨단 AI 해킹’ 막을 ‘차르’, 부처간 벽부터 넘어야 한다 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KdXh4NktLTEJJSWhETklBcDdWVlhKcHNPNUhoUXZpZ2VCYkVaeVhYREZoZ2dObFhjOTIyVzdfYUJiRkhmN0p4TF94ZU9iOHhEWG42TW5kOHRYS1psZVhDNQ?oc=5",
-          "source": "한겨레",
-          "published": "11-18 08:14",
-          "snippet": "‘첨단 AI 해킹’ 막을 ‘차르’, 부처간 벽부터 넘어야 한다 한겨레 F5, 2027년 사이버보안 3대 전망 발표…\"제로데이 위협 가속화\" 지디넷코리아 FBI “사이버 범죄자와 국가 연계 해커들, ARTEX 소프트웨어 악용해 기업 보안망 침투” VOA 한국어 홈페이지 \"중국 해킹조직, '아르텍스'로 한국 외교 조직 공격\" MBC 뉴스 사람 없이 AI가 해킹한 사례 첫 확인…AI끼리 연결해 전 과정 자동화 동아일보"
+          "title": "3분기 가계빚 2030.5조원 '역대 최대'…증시 조정에 증가폭은 6분기 만에 최소 - 서울뉴스통신",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94aXpMcDhUb3ZZQUdXemtIbG1wcHpnSmVua1pBbG1fNlFNTE1zM3ZKUFJ5SURYcWk0V3lqbDZYbFo0WDN1TnJaaE50NzBodWlrQ21PcjNWRnBTMGdWdFJZR3IwQkhaZUpfMUsw?oc=5",
+          "source": "서울뉴스통신",
+          "published": "11-18 14:50",
+          "snippet": "3분기 가계빚 2030.5조원 '역대 최대'…증시 조정에 증가폭은 6분기 만에 최소 서울뉴스통신"
         },
         {
-          "title": "美, 동남아 우회 AI칩 '패스트트랙' 닫았다…韓 파운드리·후공정 악영향 우려 - 전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qSlFPUFZnbVFnNktXWFJGQWlEX2JzSm9pc21YRlV5WHFGU3BUQUlFV2VjY3lGS05fbW5hbEMtUFVkNDR2alRjOE5EeG50Zw?oc=5",
-          "source": "전자신문",
-          "published": "11-17 15:00",
-          "snippet": "美, 동남아 우회 AI칩 '패스트트랙' 닫았다…韓 파운드리·후공정 악영향 우려 전자신문 데이터센터 핵심 부품 중국산 막히자 '이 종목' 날았다 한국경제 美, AI칩 中유출 규제 강화… 젠슨 황 통해 드러난 구멍 뒤늦게 땜질 동아일보 \"중 클라우드 접속도 막는다\"...엔비디아, 고객사에 '법적 조치' 경고 YTN 美, 빅테크 반대에도 중국산 데이터센터 부품 수입제한 추진 전자신문"
-        },
-        {
-          "title": "오세훈 \"재초환, 전면 재검토해야…집값 상승 우려\" - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VSW9Mc1YxbVhObFhrellKdFdiNmhHeHpQb3AxaWVyWXN0c3FFRVJZTkNlRTRQalcwSHFJdFJUZHhNWFAwQWQwRnlkLUc4WE10MV9CemliV1hQcUU?oc=5",
-          "source": "뉴스1",
-          "published": "11-17 13:07",
-          "snippet": "오세훈 \"재초환, 전면 재검토해야…집값 상승 우려\" 뉴스1 재건축에 1인당 최대 9억… 재초환 청구서 ‘집단 반기’ 대한경제 재초환 폐지·완화론에 선그은 국토부… \"공급 영향 크지 않아\" - 머니투데이 머니투데이 오세훈 \"공급 부족하면 서울시 탓, 늘면 정부 성과? 동의 못해\" 연합뉴스 오세훈 “재초환은 ‘이중과세’···제2의 종부세 논란 야기할 수 있어, 전면 재검토해야” 경향신문"
-        }
-      ],
-      "데이터센터 냉각 솔루션": [
-        {
-          "title": "가전 넘어 AI 인프라 겨눈 LG전자, 데이터센터 '냉각 솔루션' 승부수 - 지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FYWw4MmlPMURQcWZReVkzOGhXTDVaNEJES3F2RkZOTFlKNThHX1Bsd3lhVW5IZUtibDgxaFdROFpzV3ZZU25hRllpWTd4VlNlN1U2elln?oc=5",
-          "source": "지디넷코리아",
-          "published": "11-17 16:45",
-          "snippet": "가전 넘어 AI 인프라 겨눈 LG전자, 데이터센터 '냉각 솔루션' 승부수 지디넷코리아 AI 반도체 ‘열과의 전쟁’…칩부터 데이터센터까지 IT조선 LG전자, R&D 투자 27% 늘렸다…공조 시설투자도 2.7배↑ 마켓인 슈나이더일렉트릭, AIDC용 하이브리드 냉각수 분배 장치 ‘모티브에어 WCDU’ 출시 전기신문 [단독] AI 서버 통째로 액체에…GST, 액침냉각 앞세워 글로벌 빅테크 공략 한국경제"
-        },
-        {
-          "title": "이재용 삼성전자 실탄 '215조' 장전, 데이터센터 냉각 넘어 로봇·전력으로 전방위 M&A 나서나 - 비즈니스포스트",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aUkU1YWlxX3lDUHBLUm5SWTJnV3R0LVd0N1RtVEZseFIySzhhRlNFUkVrc2YzMVktN3l6ejdtWDFpMWFhSnVLRDZKRUZvd3JhSkF0RkFRWTFnX1V0ZXJCY08wTm5NN0VweXJUV3NEUmhkMTg?oc=5",
-          "source": "비즈니스포스트",
-          "published": "11-17 14:59",
-          "snippet": "이재용 삼성전자 실탄 '215조' 장전, 데이터센터 냉각 넘어 로봇·전력으로 전방위 M&A 나서나 비즈니스포스트 코스피, 삼전닉스 독주속 누적 매출 3천조…3분기 실적둔화 연합뉴스 코스피 영업익 증가분 83% '반도체 투톱' 몫…코스닥 전기전자 62% 적자 연합인포맥스 삼성전자 3분기 법인세 22.8조…작년의 690배 동아일보 삼성·SK하이닉스, 역대 최대 시설투자…3분기 누적 88조원 지디넷코리아"
-        },
-        {
-          "title": "아내는 엔비디아 칩 확보·남편은 데이터센터 건설… 앨리스 황 부부 ‘투트랙 공작’ - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcHlmZWlsNFV1azV4TTY4dzNrTnNIREhMaWpwR1pFNVJBVmtwaHFwRHExNE13dXlhdzZNaUZwalBnMUZjekt3YzJDcTBNWXVxUUg3OGtxWG1DQUdWR05HVnJpRUxqUHVOcXVZS1dxdW9FS2FrSHNScXNTVXBFczcxVDM5UmdqVmdxMUVENkZMYVFydzVULVpWVm1GNXFWd9IBsgFBVV95cUxQNzd3cmhkU0E5WEtvdy04MkRCSkoyS01XbjdnWEs2MGlPT09ueFh6cFpVcUNQaVdPMS1VbTlkRDVLNzJxX3FKdG94U0dJUHU4bVdIZVNrS0xoME1WUXMxQnc5MVVVcHhLZEtxOENJOXpYbDd6Qk1RTk10dVhiTkV2YmVnbkRwcWhwM0FNSmlQWGNVVWs3RkcxUXVGbm8zcEN1YTNKV3JxaDQtbVVBeEs1a1NB?oc=5",
-          "source": "Chosunbiz",
-          "published": "11-17 16:04",
-          "snippet": "아내는 엔비디아 칩 확보·남편은 데이터센터 건설… 앨리스 황 부부 ‘투트랙 공작’ Chosunbiz “젠슨 황 딸이 스캔들 대응에 깊이 관여…누구도 ‘NO’ 못했다” 동아일보 WSJ \"앨리스 황 남편, 중국 정부 지원받아 13조 데이터센터 사업 추진\" AI타임스 Super Micro Compu 주가, 오늘 하락하는 이유는? By Investing.com Investing.com 한국어 아내가 젠슨 황에 접근할 때…앨리스 황 남편이 중국서 벌인 "
-        },
-        {
-          "title": "아마존 CEO “데이터센터 건설 멈추면 중국에 AI 주도권 넘겨” - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qZ0p0b3N1TnBiVEEzemdlU3l6RzlhX2tJQVd6dUdYY1RWbFh2VTdlem5OMTRPMlZGYmhvZW9kUThvajNoeWsyd09rNVZVQQ?oc=5",
+          "title": "3분기 가계빚 2030조 역대 최대...증시 조정에 증가폭은 둔화 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByMFFKNElkTmczR2g0UFF2UkdpLWZQMnRVeXdPa2JkZDFFck56UWRxQ19zTzRYbTRocWRpaUhDZ0p1dEFkY2t0WTNJSGZiTGdxeEdvOQ?oc=5",
           "source": "매일경제",
-          "published": "11-18 03:01",
-          "snippet": "아마존 CEO “데이터센터 건설 멈추면 중국에 AI 주도권 넘겨” 매일경제 아마존, 오하이오 22조 데이터센터 제동 \"빅테크 중 최대 피해\" - 머니투데이 머니투데이 [홍기빈의 두 번째 의견]‘테크브로’들의 패착 경향신문 [세상읽기] 미국발 데이터센터 갈등, 규제 걱정보다 '주민 수용성'부터 높여야 경기일보 \"오픈AI 계획용량 14GW 전부 데이터센터 중단 지지 주에\" 연합뉴스"
+          "published": "11-18 12:00",
+          "snippet": "3분기 가계빚 2030조 역대 최대...증시 조정에 증가폭은 둔화 매일경제"
         },
         {
-          "title": "삼성SDI, 美서 수조원 규모 ESS용 배터리 수주 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVTdQamprbjVFR1ZpNUVsMDh6eUJGdWpYOFZZVHF4WGFYVWtVSG5ibkFhdTB2MzF2bFY4LXR6N1VTbC1OYUI2NVpIcC1CNDlTa1FPR0V1QlVESzVheENibDR2UDhlNlM5LUc5SXFob1QwX2dEcjdra1drQi1KeVljYmc4d3BxV2VIZlNQNHloaw?oc=5",
-          "source": "조선일보",
-          "published": "11-17 00:33",
-          "snippet": "삼성SDI, 美서 수조원 규모 ESS용 배터리 수주 조선일보 삼성SDI, 美서 통합 ESS 솔루션 공개…25년 장기 보증 전자신문 삼성SDI, AI데이터센터 겨냥 차세대 배터리 설루션 공개 연합뉴스 LG엔솔, 북미 최대 신재생 에너지 전시회 'RE+ 2026' 참가 - 머니투데이 머니투데이 HD현대 ‘발전에서 전력망까지’ 북미시장 공략 경향신문"
-        },
-        {
-          "title": "AI 데이터센터 전력·냉각 시장 열린다…K기업, 밸류체인 선점 경쟁 - 더트래커",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wV0FGNGpySkdxTlNCQVF2aFktdmdsazFhNVVJUW1rbFI3QU5VeFpyem03ekF4em9IbzhyVG9MODFHMDN5Wk4wRHhDeUg0S3ZNUXgtSm9JNGc?oc=5",
-          "source": "더트래커",
-          "published": "11-18 09:10",
-          "snippet": "AI 데이터센터 전력·냉각 시장 열린다…K기업, 밸류체인 선점 경쟁 더트래커"
+          "title": "“대한민국 가계빚 2030조 원 돌파”…또 역대 최대, 카드빚도 급증 - 코리아이글뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCQVpBeGJXNy1GLWttNk5lQUh5T3Qtdk1abTFvRkVLZnYtUFFwRFhwQ0FFbnlaQVI0VXBYR1lYaTB2VnJjYTV5RGZtV0pTTzV4cUt0aTg5bG9zMTQ4Ny1BUFJoZV81UGhQZ0V2NFFGd0JKNGM?oc=5",
+          "source": "코리아이글뉴스",
+          "published": "11-18 13:46",
+          "snippet": "“대한민국 가계빚 2030조 원 돌파”…또 역대 최대, 카드빚도 급증 코리아이글뉴스"
         }
       ],
-      "앤트로픽 상장 촉각": [
+      "상장사 순이익 감소": [
         {
-          "title": "앤트로픽 IPO에 아시아 AI도 촉각…딥시크·업스테이지 상장 '가늠자' - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4NmpfWDhPWUJndlcyaWJsUUdZVUE2N1ctVHAxOThsVWdRbGVVQ0NvSXhsRGJNbGpHazJSZFAzY1Mydkg2a2l6WDFrV2gyZ1o4eEdGbFY4ZVlEdHdiMElyN0p4djlLRWFuQjNVa1lEMUs?oc=5",
-          "source": "연합인포맥스",
-          "published": "11-18 10:58",
-          "snippet": "앤트로픽 IPO에 아시아 AI도 촉각…딥시크·업스테이지 상장 '가늠자' 연합인포맥스 \"스페이스X보다 뜨겁다\"...앤트로픽 공모가, 희망범위 돌파 전망 - 머니투데이 머니투데이 증시 덮친 ‘앤트로픽 수급 공포’···삼전닉스 2차 매물폭탄 쏟아지나 시사저널e \"앤트로픽 매출 2026년 71조원→2030년 676조원 예상\" 연합뉴스 아마존·구글, 앤트로픽 IPO 이후 지분율 약 28% 연합뉴스TV"
+          "title": "3분기 코스피 상장사 순이익 30% 감소, 코스닥은 순손실···환율 하락 영향 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GWHRhWHlCNWp0MmlSOUJLNldJTEJ5NzRZQVFBYzNOWlFiY2NjQ25WejFkWmVTRlV3SUd2cXJIdUgyLXhiZDlQUlpZS0QzSkY0c2NGM1pvN1IyQdIBX0FVX3lxTE5OWktlTVN6T0VNdjlVcVQxSDBqWXJVajM5a2E5eU9vNk5CVXNYN0d0VWN1QVltWTFreHEtMHFta2VpdUM4ejlLUXRBc3lYWlBwZzRPUzRpSTBBZlhfUEdZ?oc=5",
+          "source": "경향신문",
+          "published": "11-18 14:43",
+          "snippet": "3분기 코스피 상장사 순이익 30% 감소, 코스닥은 순손실···환율 하락 영향 경향신문 '삼전·닉스' 독주‥코스피 상장사 순이익 3분의 2 차지 MBC 뉴스 [그래픽] 코스닥 상장사 실적 호조…흑자 기업 56.7% 뉴시스 삼성·SK하이닉스, 역대 최대 시설투자…3분기 누적 88조원 지디넷코리아 반도체가 다 했다…코스피 순익 3.7배, 3분기만 보면 '숨고르기' - 머니투데이 머니투데이"
         },
         {
-          "title": "앤트로픽, IPO 공모가 희망범위 웃돌 듯…19일 나스닥 상장 - 디지털데일리",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE92NHEzb1VDZTU4R0NRZWFESHFjd29UUUdCa1BZMUlDWEZ2N2ZoUG56S1BYQjZ5NlZHalRNX2ZIcl9TS0MwMnZlNGRuOEtGWjFpQkVNX2IwdFhzSmFwWmtIaC1B?oc=5",
-          "source": "디지털데일리",
-          "published": "11-18 06:05",
-          "snippet": "앤트로픽, IPO 공모가 희망범위 웃돌 듯…19일 나스닥 상장 디지털데일리"
+          "title": "'삼전·닉스' 독주‥코스피 상장사 순이익 3분의 2 차지 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yS2xic2xQUjFmZVdZbTcyWm14blVUX19OSjRZZ0FDQUEwRTN0Rnp5SjFRc3ZFc1BGaHdEV3k4WFVxaGg4Rzd1RjF4SlEtakl3OFoxdFZVdUhYX1k3RzViaVZMQnp2bEV5ZXhrVmNsQlcwcmNi0gF0QVVfeXFMUGpESk9rSUxuVjNUZGV4TVh1RXctaDVhR1NmdkJ4Z29JdVc3NnplNFB3MExGbGo2Mkd2Yk04RGNEVHFyWWRrQVp1d0xva0tpSXlQS1Zlb1N6ZG8zSUN3QWVXd3BYeXI0TEVybzhWMk5TTS1McWw?oc=5",
+          "source": "MBC 뉴스",
+          "published": "11-18 15:47",
+          "snippet": "'삼전·닉스' 독주‥코스피 상장사 순이익 3분의 2 차지 MBC 뉴스"
         },
         {
-          "title": "코스닥 상장 3곳 중 1곳은 한계기업…부실 늘수록 우량기업도 ’저평가’ By EBN - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BeVJnczg1bTZ1VnVyLXNwUkpkVzlSNERpMnVYZ01lWUhuaERmQ3dTMGh5TEl3UDYzUkxQUnJfSU8tR3hVWlg5SXFiMVBGNEJtZTVsUG9BQ0d4amxfTk1KUXduRVhnNmJpSW9RWFdnNXE?oc=5",
-          "source": "Investing.com 한국어",
-          "published": "11-18 06:32",
-          "snippet": "코스닥 상장 3곳 중 1곳은 한계기업…부실 늘수록 우량기업도 ’저평가’ By EBN Investing.com 한국어 경제6단체 \"워크아웃 근거법 일몰 연장 법안 조속 처리해야\" 연합뉴스 상장사 4곳 중 1곳은 한계기업…\"선제적 구조조정 필요성\" - 머니투데이 머니투데이 경제 6단체 “기촉법 일몰 막아야…유효기간 연장·상시화 촉구” 전자신문 경제6단체 ‘기촉법 유효기간 연장’ 성명... “공백 안 생기게 해달라” 조선일보"
+          "title": "수출 날고 내수는 부진...제주, 3분기 상품.서비스 소비 동반 감소 - 헤드라인제주",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KUm9GdEs2cmRfRmhxdTIxQTRpTjBzYlFBM3Z6d3VqT0RvdnFxMVVSTHN1Y3A2Q2VqZVdsdzg2ZzQ5MnNBZEY5Y2pqRnExTmVDWTF3bmRoN3EtSjAwWkFmWDQ3eXdLOWlnUWxrY1VaQ1Y5eDg?oc=5",
+          "source": "헤드라인제주",
+          "published": "11-18 14:57",
+          "snippet": "수출 날고 내수는 부진...제주, 3분기 상품.서비스 소비 동반 감소 헤드라인제주 수출 호황이라는데···관광객 오는 서울 인천 제외하곤 전국 소비 뚝 경향신문 제주 서비스업 생산 감소 ‘전국 최고 수준’ 제민일보 반도체 호황에 충북 광공업생산 30%↑…전국 소매판매는 뒷걸음 매일경제 마켓 3분기 전국 16개 시도 중 13곳 소비 감소…세종 소매판매 10% 급감 전자신문"
         },
         {
-          "title": "[글로벌증시] 뉴욕증시 또 하락…엔비디아 실적에 촉각 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvSHR5MnY3cWJTek0xOWxDY2ZKdHlTZVlPUXVsaUFlUlc2WklKT3AwZ2xQOThJYjEwZTlrUmRnSlRzSmV1RG55QW1sbTRjekZCQ29MSUhacmpBWEFyVmNORHZ5OVQ4QWM?oc=5",
-          "source": "연합뉴스TV",
-          "published": "11-18 06:50",
-          "snippet": "[글로벌증시] 뉴욕증시 또 하락…엔비디아 실적에 촉각 연합뉴스TV"
+          "title": "코스피 상장사 9개월 순이익 3.7배…3분기엔 30% 감소 - 부산일보",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0WTR4TW92LUNMNmh1Q1prZ09UcndoTmRDcm1mLTFYWXMxZk85TXVZZmF0OVRlN3d3Zk4wZXM3Zmp0SjVuNTdEWnoxMXIzT1BERjhPQmQtSE5iMkNWdVYxV0MtM3VnYzliQ3dqNGZ4Nk0yT3Bl?oc=5",
+          "source": "부산일보",
+          "published": "11-18 15:15",
+          "snippet": "코스피 상장사 9개월 순이익 3.7배…3분기엔 30% 감소 부산일보"
         },
         {
-          "title": "\"2030년 매출 676조 원\"...월가, 앤트로픽 폭발적 성장 전망 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MOTNPX1dqQzdnVWJYN2VMLU9kMWQ2WlFpdERIMkJCRVB1OW5jRWNxcTlzRVdxa2lfQXhPOXNrVTJPR3RpQ0p0azZ2cnh1d0hONWM3RkZoMzF2Qi1TVFE?oc=5",
+          "title": "코스피 상장사 3분기 순이익 30% 감소…반도체 중심 누적 성장세는 지속 - 파이낸셜포스트",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9uWDBZQ2NidU9Ddkxic05MbTFGZ2RpT3ROTk5fMk9tMTYxYmZiWlBLWDRNUC10MGZmcVdSVjhIc0FuR2M1bWNNX05nSXBBMG1JZl9yMHl6NjBjY1BENW5FLXVMYWczYUhrODEwSGlMRm5id3Aw?oc=5",
+          "source": "파이낸셜포스트",
+          "published": "11-18 16:55",
+          "snippet": "코스피 상장사 3분기 순이익 30% 감소…반도체 중심 누적 성장세는 지속 파이낸셜포스트"
+        },
+        {
+          "title": "코스피 상장사 순이익 전분기比 30%↓...“흑자기업 줄었다” - 투데이신문",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mbjdRVjJPSDR4eFg0LVJ6M2t1UjZybVBqS0Q3Q2ZxaVItT3l1am01QVdDZ3RTQzJMVS1QM3FiUnItY2dZTnRaZGRabVZVY2FmXzBiUWJTVWpmaXNLelAya0Q0VG5mSW1hUjVmbGVRVdIBb0FVX3lxTE5mbjdRVjJPSDR4eFg0LVJ6M2t1UjZybVBqS0Q3Q2ZxaVItT3l1am01QVdDZ3RTQzJMVS1QM3FiUnItY2dZTnRaZGRabVZVY2FmXzBiUWJTVWpmaXNLelAya0Q0VG5mSW1hUjVmbGVRVQ?oc=5",
+          "source": "투데이신문",
+          "published": "11-18 12:41",
+          "snippet": "코스피 상장사 순이익 전분기比 30%↓...“흑자기업 줄었다” 투데이신문"
+        }
+      ],
+      "젠슨 황 리스크": [
+        {
+          "title": "미 SEC, 엔비디아 '허위 공시' 정조준...사법 리스크 확산 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WQlQ5UWoyZGhsSEVWczhnSHFaMlVfVndfeEFqT0YyRlo1U3FWUVl0YjFYRWktWDhYeWpNZzZJMEVEX2tMMVJsM1c3V2ZVcmk4OGZyNzBZb1I2NEV1NWc?oc=5",
           "source": "YTN",
-          "published": "11-18 09:21",
-          "snippet": "\"2030년 매출 676조 원\"...월가, 앤트로픽 폭발적 성장 전망 YTN"
+          "published": "11-18 10:25",
+          "snippet": "미 SEC, 엔비디아 '허위 공시' 정조준...사법 리스크 확산 YTN \"미 증권거래위, 엔비디아 '젠슨황 의혹' 관련 공시위반 조사\" MBC 뉴스 Nvidia, SEC 조사 직면…황 CEO 사임 후 위기 심화 By Investing.com Investing.com 한국어 캘리포니아도 엔비디아 사태 들여다본다…\"위험신호 감지돼\" 연합뉴스 엔비디아, '젠슨황 내연녀' 싱가포르 매출 왜 숨겼나 마켓인"
         },
         {
-          "title": "앤스로픽(Anthropic) 나스닥 상장 초읽기… 아시아 AI 스타트업 'IPO 도화선' 되나 - 글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTGswOVBsalZ4Q2Q3U0hieDlFWlZzZ21QZEJudHU1LU9DWUtlM291MkU2cUlPMldaZ0dmRXZtdHk2NGh1VXJPbW5mTUl1cGd1eVVPX1hEc0tyV3Vvc3F2MHNVM3JPbHJPcTZURlc5RGxuNktBYVRvT1JyWDRJVXBjSV9QZktRZ3lw?oc=5",
-          "source": "글로벌이코노믹",
-          "published": "11-18 07:50",
-          "snippet": "앤스로픽(Anthropic) 나스닥 상장 초읽기… 아시아 AI 스타트업 'IPO 도화선' 되나 글로벌이코노믹"
+          "title": "엔비디아 실적 발표에 '젠슨 황 오른팔' 등장…차기 CEO 유력 후보 부상 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWTzdlU05POF9QdzQyV0t5dVMyMUFpVHR5dzlVdkN4anZLaGFnTmpUcHpYYmpfRGZTcUsyc19WcHJRTlBOUGttVzRpM1N5bUdldEVRRGR6bGl0MVR2UUF1SEk3dXg0dlhhcWZzd0QxRWY?oc=5",
+          "source": "연합인포맥스",
+          "published": "11-18 10:43",
+          "snippet": "엔비디아 실적 발표에 '젠슨 황 오른팔' 등장…차기 CEO 유력 후보 부상 연합인포맥스 젠슨 황 없이 ‘깜짝실적’ 이어간 엔비디아…삼성·하이닉스 주가 반등 한겨레 잇따른 전산장애에 투심 위축…반도체주는 반등 네이버페이 머니스토리 젠슨황 떠난 엔비디아, AI 중앙은행 포기하나…순환금융 수술대 연합뉴스 엔비디아, 기대 이상의 호실적...젠슨 황 복귀 의사 공식화에 미국 정치권 논란 확산 YTN 사이언스"
+        },
+        {
+          "title": "젠슨 황의 몰락 불 댕긴 ‘루비오 메모’…그 뒤엔 거대한 암투 있었다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObUh4TjN3aHF2ZTJsVkR2YmRUaG1ERk5sZllFaUVYSWdGMEt3RkhJMUtGMWxCRG1COUpGS0JHWnB2UGs2dTE5OTZTaldVZ2V1VHh6NWIwRkxtVzdUcFZ4UzVhTVFVSThpZXA3WnNsZUgxeERRY3o2MElBYWVxM0lkaTdn?oc=5",
+          "source": "한겨레",
+          "published": "11-18 10:53",
+          "snippet": "젠슨 황의 몰락 불 댕긴 ‘루비오 메모’…그 뒤엔 거대한 암투 있었다 한겨레 젠슨 황 사임 후 첫 입장 “요청 시 복귀”…“청문회 출석” KBS 뉴스 아마존 창업자 베이조스 “엔비디아 차기 CEO, 내부에서 찾아야… 외부 영입은 최후 수단” Chosunbiz [율곡로] 실리콘밸리 걱정할 처지 아니다 연합뉴스 젠슨 황 ‘복귀 의사’에 이사회는 일축 “후임 물색중…로드맵 순조롭게 진행” 동아일보"
+        },
+        {
+          "title": "美, AI칩 中유출 규제 강화… 젠슨 황 통해 드러난 구멍 뒤늦게 땜질 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BUXlXOEJadkFYUFIwLWVnXzBoX3JMUm9GWW92bkhDMi1yck9tYzdwcGxLT1B0YWx5ekR3ZFcxRmVVeUxYaEFDaDhMRGk3UDl2ZFJkVWhfeWtqSFY4V1YtMHZSNXYwcHlBV2JkOXl5WmFIekXSAWZBVV95cUxPRjhITUFEVkphMVVvMVJCZWFqMWpUdTNzdXJucEZZcjVIYXVHdXRqd0R6VUFFN3FfYURkMWhqSzRwQUpwalpYdDQtOE45bnBpbUY0cVZKclhzSXM4ZzFBMjBUd2JUeEE?oc=5",
+          "source": "동아일보",
+          "published": "11-18 04:30",
+          "snippet": "美, AI칩 中유출 규제 강화… 젠슨 황 통해 드러난 구멍 뒤늦게 땜질 동아일보 엔비디아, 중국에 AI 칩 임대한 고객사에 '법적 위험' 경고 - 머니투데이 머니투데이 미국, 중국의 AI 원격 접속 차단…중국, 강력 반발 KBS 뉴스 젠슨 황 스캔들에 中 데이터센터 허브 동남아 '비상' 마켓인 美, 빅테크 반대에도 중국 데이터센터 장비 수입제한 추진 연합뉴스"
+        },
+        {
+          "title": "젠슨 황 딸, 메가스피드 사태 개입…“막강한 영향력에 누구도 ‘No’ 못했다” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0eWtxZzJOQnhCUGJXa2ZCVjloOVNtSkZER2FISTlHSEdxdXAwZlFpbUZwMTVGTy1kcm1wY0RzWlhPX0VraXc2QzVJamNwak9WbEkxUTJUc3NWWnVJbzRPUVRnSExyU2hhc2tBRFB5OA?oc=5",
+          "source": "한겨레",
+          "published": "11-18 13:58",
+          "snippet": "젠슨 황 딸, 메가스피드 사태 개입…“막강한 영향력에 누구도 ‘No’ 못했다” 한겨레 \"엔비디아, 2022년 알리바바와 앨리스 황 연결해 줘\" MBC 뉴스 “젠슨 황 딸이 스캔들 대응에 깊이 관여…누구도 ‘NO’ 못했다” 동아일보 아내가 젠슨 황에 접근할 때…앨리스 황 남편이 중국서 벌인 짓 중앙일보 “앨리스 황 남편, 중국 정부 지원 속 12조 원 데이터센터 사업” KBS 뉴스"
+        },
+        {
+          "title": "젠슨 황 복귀설에 흔들린 뉴욕증시…유가도 급락 - 네이버페이 머니스토리",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MYmJLZENVVTB1aFBadWlwLUpQT3BfNHF2YXVlN0FXal9sbjZtUDJMS0NsMVpUdW5FUlVZMjFXR0tGbHhiTWdYbDZXOW9LemlaSUE?oc=5",
+          "source": "네이버페이 머니스토리",
+          "published": "11-18 12:47",
+          "snippet": "젠슨 황 복귀설에 흔들린 뉴욕증시…유가도 급락 네이버페이 머니스토리"
         }
       ],
-      "뉴욕증시 전산장애 하락": [
+      "전산장애 증시 하락": [
+        {
+          "title": "[3분증시] 뉴욕 증시, 전산장애 불안에 동반 하락 - 연합뉴스 한민족센터",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uMVpCN2VMc0N0cVlnX19xamx3ZGUtOE54QkFqLWt6REtvZ3d4VndPUk9JWEVLMFI0VHhnNUNwRDBJdTVRN1E5d3Y1QmNXa2FlTk1KOXc2c09qeUpLR2tYX3F4cHU0dW5ZQkxnSEo4MElqc01i?oc=5",
+          "source": "연합뉴스 한민족센터",
+          "published": "11-18 07:48",
+          "snippet": "[3분증시] 뉴욕 증시, 전산장애 불안에 동반 하락 연합뉴스 한민족센터"
+        },
         {
           "title": "[뉴욕증시] 美 잇따른 전산장애에 S&P 500·나스닥 4일째↓ - 연합인포맥스",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hSHR1LTh6RjJNQ19LMGhqVWlwT3Z2Y3dzeGFxdGlBWkJWdl9YcTctZG50ZW5pdE1CR3VHRzFSUlBJTF9SR2NKTWpCQ2M2eDZTanVra0tmSjNRWS1ZUTA3ekhqQ3YtbFJ5TGJ6emlmNC0?oc=5",
@@ -816,13 +830,6 @@
           "snippet": "[글로벌증시] 뉴욕증시 또 하락…엔비디아 실적에 촉각 연합뉴스TV"
         },
         {
-          "title": "뉴욕증시 하락세 계속…S&P500 1%↓, 7월 이후 최저 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GM05XNXEyTFQ4UVI3bU8teVZkZnFlMmpROW9yamoxaTJ3djB1b1NUVllFak1OYjgybE5Ebl9NaGtpeW5HUzk1VGN4Y3R5OGNGQlZtY010RkxielE?oc=5",
-          "source": "KBS 뉴스",
-          "published": "11-18 07:38",
-          "snippet": "뉴욕증시 하락세 계속…S&P500 1%↓, 7월 이후 최저 KBS 뉴스"
-        },
-        {
           "title": "뉴욕증시, 하락세 계속…S&P500 1%↓, 7월 이후 최저 - 연합뉴스",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iN0ZjT3ZkZXIzdlBkdWs0b2Y2S2JRSmVoMzVpYk9VUkpzdUpRbGM2T1JQaWlaMDFZTl9VdS1GOU42ZWNJNmxoTEp2Z3cydFdBT0NfZ29VbXZJQXZpQVFtS9IBYEFVX3lxTE5iN0ZjT3ZkZXIzdlBkdWs0b2Y2S2JRSmVoMzVpYk9VUkpzdUpRbGM2T1JQaWlaMDFZTl9VdS1GOU42ZWNJNmxoTEp2Z3cydFdBT0NfZ29VbXZJQXZpQVFtSw?oc=5",
           "source": "연합뉴스",
@@ -830,34 +837,78 @@
           "snippet": "뉴욕증시, 하락세 계속…S&P500 1%↓, 7월 이후 최저 연합뉴스"
         },
         {
-          "title": "뉴욕증시, 하락세 계속…S&P500 1%↓, 7월 이후 최저(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzQ1pPM2lXSm9LQU8xUWw5d2dIOGlpWnV5ZV96VENTZlUzY3NkTEJfRVU0VnV5MmNTQXZJYWFDcXRnYXpMQ3JsSGZiSENoUkVkazQ0VWgzRWtLV0llOUIyTNIBYEFVX3lxTFAzQ1pPM2lXSm9LQU8xUWw5d2dIOGlpWnV5ZV96VENTZlUzY3NkTEJfRVU0VnV5MmNTQXZJYWFDcXRnYXpMQ3JsSGZiSENoUkVkazQ0VWgzRWtLV0llOUIyTA?oc=5",
-          "source": "연합뉴스",
-          "published": "11-18 07:28",
-          "snippet": "뉴욕증시, 하락세 계속…S&P500 1%↓, 7월 이후 최저(종합) 연합뉴스"
+          "title": "뉴욕증시 하락세 계속…S&P500 1%↓, 7월 이후 최저 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GM05XNXEyTFQ4UVI3bU8teVZkZnFlMmpROW9yamoxaTJ3djB1b1NUVllFak1OYjgybE5Ebl9NaGtpeW5HUzk1VGN4Y3R5OGNGQlZtY010RkxielE?oc=5",
+          "source": "KBS 뉴스",
+          "published": "11-18 07:38",
+          "snippet": "뉴욕증시 하락세 계속…S&P500 1%↓, 7월 이후 최저 KBS 뉴스"
         },
         {
-          "title": "뉴욕증시 하락세 이어져…S&P500, 7월 이후 최저 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9saHM0REVoeExGejhsNUFhRURYa1lQTGtCYk1GZUVIcTgwVk5raUxzMmJnamQ4dHBUUldNVXpWWG9GeDRza2pWdFZzeWplSVVrbFF2RU1fdUdBMUFzcGpFVDZKVzhldWs?oc=5",
-          "source": "연합뉴스TV",
-          "published": "11-18 06:25",
-          "snippet": "뉴욕증시 하락세 이어져…S&P500, 7월 이후 최저 연합뉴스TV"
+          "title": "[뉴욕 증시] 3대 지수 일제히 하락 마감…나스닥 4일째 ↓ - 한양경제",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oQUpkOXUyTVctS2ZjMEpiU2ZrNUxCREk3YzJ3dlVRUlZNUFB4RVB6MlpkdUNTSDJnV1dMbHU1SURYdWY1Z2pQVUhFTzFlSkN5TUs0S1pPQWVuNTdpWDNQUTJEVVR3S3VYdVJtRWtfTjM4dw?oc=5",
+          "source": "한양경제",
+          "published": "11-18 09:47",
+          "snippet": "[뉴욕 증시] 3대 지수 일제히 하락 마감…나스닥 4일째 ↓ 한양경제"
         }
       ],
-      "연준의장 AI 경고": [
+      "연준 금리 인상": [
         {
-          "title": "연준의장 직접 경고한 ‘AI 폭망 시나리오’…4000조 공든 탑 흔들린다 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84VXc3MDRmbWJvellJMU04SndQeVh0MFNrSHRaNFI0TlpUMHRLaUVrVVNaZGNSTnZ1TG44bGkyOWhOUUFJZGplY25fUC00MVVKVkE?oc=5",
-          "source": "매일경제 마켓",
-          "published": "11-18 06:00",
-          "snippet": "연준의장 직접 경고한 ‘AI 폭망 시나리오’…4000조 공든 탑 흔들린다 매일경제 마켓"
+          "title": "연준 금리 인상 기대에 달러 강세…아시아 통화 약세 지속 - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nWW9Wa1pwYUcyOWxPZ0VHVmRBRUVocXJFTjhjRFFPcGVQRUJKWkVYSEFoV05YVFB0aVZKVVItdjRta1dFSXMybE9zQU1QRnAzai1odG45N1hKWlRqRHlWZVFMZHlrRlE?oc=5",
+          "source": "Investing.com 한국어",
+          "published": "11-18 13:57",
+          "snippet": "연준 금리 인상 기대에 달러 강세…아시아 통화 약세 지속 Investing.com 한국어"
         },
+        {
+          "title": "연준 추가 금리 인상 전망에 금값 3,800달러 아래로 - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ISE9UcXpnSFQzck5MTlVEdk5Rcm1ZWU81NHNmeW84elJfVTdmOE00dG5ueHN0UnRxRFNNOE5sSTQ0OGhWU2p3R1FOdUVGN1lwSWZpaDF4RTFXZFBJcEJTa2lNc3RwNy1xNzllVTM3Yw?oc=5",
+          "source": "Investing.com 한국어",
+          "published": "11-18 10:11",
+          "snippet": "연준 추가 금리 인상 전망에 금값 3,800달러 아래로 Investing.com 한국어"
+        },
+        {
+          "title": "연준 금리 인상엔 한목소리⋯속도 놓고 ‘빅스텝 vs 점진론’ - 이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Tc2RTUWNPNHZBdnJfSC1FNXlpdTBscjl1MnVfWURIRUJFOTdyRDZnaF9PTjNZRjJRWkpfLVJIb21rTWdNT0RYRmE2MWZLXzNoTi12VQ?oc=5",
+          "source": "이투데이",
+          "published": "11-18 15:41",
+          "snippet": "연준 금리 인상엔 한목소리⋯속도 놓고 ‘빅스텝 vs 점진론’ 이투데이"
+        },
+        {
+          "title": "연준은 여전히 금리를 인상해야 합니다. 윌리엄스의 답변입니다. - IDNFinancials",
+          "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQV0FMaUViX1hockF2bHh3MjlEUXRmenZubFFvdFd1bTl1T1NiU3Q0T2NnVElGXzRzNnUyeElzR3dPWUNsdmN3dzRlMzNLQVpjeWVZTEEwZEZIX3BiQkgtNlNWRTJMeEtVdWtkNUFyUFB0RHU4akwwTmswR1ZEdFUxVEpLenpES1lldUtURm0yd0pJM0JpZVVjaXJ5cWZiZmUxbVJPN3RSWTJBTnk1UFFKVXQ5MTA1RFJaenBaMlAteE1saGQtWHlxVlFjWW83cVlDNnoxM2JZM0lWbUtMVE4xakpmQ3lsLUU4UGtHc3FENkFrVER5bk9QWFdodC1QdUQ0S3ZoZ2owN1ltNC1HWGtyZ1FMYnp1cGN2OFlKRi1zVGlpb3dIaDRCYTJlc3dEVDVXQkdtaFY5Z1RNb2M2ZHNnbi03X1AxTGRwSUE2Zjg5T3ptRkFCSFJkdngwMTdQNkdkWVhRZ0JaZTZONnZTZnhWV0FLSlItd2F0SG1DV1lqRWJGcWl6MnUxSzhZbG4zb2tKbExINnBIUQ?oc=5",
+          "source": "IDNFinancials",
+          "published": "11-18 16:20",
+          "snippet": "연준은 여전히 금리를 인상해야 합니다. 윌리엄스의 답변입니다. IDNFinancials"
+        },
+        {
+          "title": "연준 윌리엄스 총재, 인플레이션 대응 위해 추가 금리 인상 필요 By Investing.com - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44SjFvb25GcEg0X2NQSGNTUDllU1gwOF8xY2FGWld4U2pWUW5kZ3NqcG9kM0JYYTk4VzJXaHpaODhsWmpGWkN4YkZPbTh1LWdWRlhYNFltTjR3YTJydjFiVE5STWdlVnhHS2c?oc=5",
+          "source": "Investing.com 한국어",
+          "published": "11-18 04:53",
+          "snippet": "연준 윌리엄스 총재, 인플레이션 대응 위해 추가 금리 인상 필요 By Investing.com Investing.com 한국어"
+        },
+        {
+          "title": "국고채 금리 하락 반전…코스피 상승세 줄며 장중 5천선 하회 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40UHFKU2F1eEpWR213SkVFdWJGNmpBWERaUm1HMklObG9SYU5GVDEzTFFzWDhkTGU1YndFTUh2akxmTDU5dHJpT2dtOVRoTThMeTZxYkpPV3JPMU1hSjRlVTRlcWRKXzVHYUx2ektQdHE?oc=5",
+          "source": "연합인포맥스",
+          "published": "11-18 13:05",
+          "snippet": "국고채 금리 하락 반전…코스피 상승세 줄며 장중 5천선 하회 연합인포맥스"
+        }
+      ],
+      "AI 투자 경고": [
         {
           "title": "미 연준 의장, “AI 투자 성과 기대에 못 미칠 수도”…경기 둔화·실업 증가 경고 - 헬로티",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pLUZRVHpMMklwRkJ3dmFOSmZPLXFhR29NYzhXT0FtZU9oZmlxUW9zN0FXTjRzdUNXNTN0LTljMkw4S1BFWG1lbFk2T0RNZldQaDFWNE12dm9wdnhwbDA4?oc=5",
           "source": "헬로티",
           "published": "11-18 10:55",
           "snippet": "미 연준 의장, “AI 투자 성과 기대에 못 미칠 수도”…경기 둔화·실업 증가 경고 헬로티"
+        },
+        {
+          "title": "AI주 사두면 돈 벌던 시대 끝나…월가 투자전략 전환 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14ejV6Vm5OM0QwWkJXenB2WFI5V1RVTzZOaXhUUk9tVkpnTkZtNDZqVDBoWFBVY19CSGFleHk1Qk0yWkl5dll2bHh0X0VSc3hDQ2tGMFdOY0RwQQ?oc=5",
+          "source": "한국경제",
+          "published": "11-18 10:01",
+          "snippet": "AI주 사두면 돈 벌던 시대 끝나…월가 투자전략 전환 한국경제"
         },
         {
           "title": "[밤 사이 해외뉴스]\"AI 사면 무조건 번다\" 공식 끝났다…월가·ECB의 충격 경고 - 한국경제",
@@ -867,93 +918,66 @@
           "snippet": "[밤 사이 해외뉴스]\"AI 사면 무조건 번다\" 공식 끝났다…월가·ECB의 충격 경고 한국경제"
         },
         {
-          "title": "샌프란 연은 \"AI發 증시 호황, 자연 실업률과 깊은 연관\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zcU1KSWcyUWhoa2tVejJmbGJTYVlTUlM1UElROHhBLXN3TC11aWVhVmJhSHlJY2RqajI1Mk5tNUd5cjVoRTlyQTdQUjRyd1ZZeDI5Y2dDa210UHlOelFIMUpzQUNtTGpnZkJnUlg4aTU?oc=5",
-          "source": "연합인포맥스",
-          "published": "11-18 10:53",
-          "snippet": "샌프란 연은 \"AI發 증시 호황, 자연 실업률과 깊은 연관\" 연합인포맥스 AI의 두 미래...미 연준 의장 \"혁신 가속화\" vs \"경제 충격\" YTN 사이언스 \"AI 붐, 이미 버블...2028년 美 대선 전 터져 침체\" 전문가 섬뜩 경고 - 머니투데이 머니투데이 미국 AI 데이터센터 규제 반도체에 '전화위복' 되나, JP모간 \"빅테크 재무 안정화\" 전망 비즈니스포스트 미 연준 \"대형은행 AI 위험노출액 1조달러\"…손실확산 경고 연합뉴스"
+          "title": "AI 투자 불안에 뉴욕증시 나흘째 하락 … S&P500 7월 이후 최저 - 뉴데일리",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FRXR4Nk9yWmJ0SW9KSTVoY2RWNWg1bE1KZzZuNnBOc3IxUlFNSUlHOHM0bEJJSVktY3pJeVVIaUEwdEl1MEpzVTRVYUZ4cGpoQWJiNEZ6VVdtbVhNbFVpeWZZTnFuOEpoZk1iQ3IxbFcyOHlSa1RNOTlpRdIBgAFBVV95cUxQY3VpRWRBa1pkTTdXWVRVU2hzbWhGaE02NzY3aVJnUHBxZGlpYTIwQVVueHc4cExDVjk1SUF4akpNSDRVaGpaX0diR2JkeVVuMDZ1SWlOaVlMWVlhMjRDT28tNkZEVk9uUkVIUnpWWE9rRFNHTFl6MExabUtnRVZHaQ?oc=5",
+          "source": "뉴데일리",
+          "published": "11-18 07:31",
+          "snippet": "AI 투자 불안에 뉴욕증시 나흘째 하락 … S&P500 7월 이후 최저 뉴데일리"
         },
         {
-          "title": "美, 동남아 우회 AI칩 '패스트트랙' 닫았다…韓 파운드리·후공정 악영향 우려 - 전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qSlFPUFZnbVFnNktXWFJGQWlEX2JzSm9pc21YRlV5WHFGU3BUQUlFV2VjY3lGS05fbW5hbEMtUFVkNDR2alRjOE5EeG50Zw?oc=5",
-          "source": "전자신문",
-          "published": "11-17 15:00",
-          "snippet": "美, 동남아 우회 AI칩 '패스트트랙' 닫았다…韓 파운드리·후공정 악영향 우려 전자신문 데이터센터 핵심 부품 중국산 막히자 '이 종목' 날았다 한국경제 美, AI칩 中유출 규제 강화… 젠슨 황 통해 드러난 구멍 뒤늦게 땜질 동아일보 \"중 클라우드 접속도 막는다\"...엔비디아, 고객사에 '법적 조치' 경고 YTN 美, 빅테크 반대에도 중국산 데이터센터 부품 수입제한 추진 전자신문"
+          "title": "연준의장 직접 경고한 ‘AI 폭망 시나리오’…4000조 공든 탑 흔들린다 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hYzZ2RUcxMTBjN2tkcXZyZDdpYllWYUxoXzZLUlRuTkY5WUdzRTJ5emQ0T2VTUVVpUUpXcnU0a1NfUGN0RUpORlZjRW5SUkMyeUhTZg?oc=5",
+          "source": "매일경제",
+          "published": "11-18 06:00",
+          "snippet": "연준의장 직접 경고한 ‘AI 폭망 시나리오’…4000조 공든 탑 흔들린다 매일경제"
         },
         {
-          "title": "‘첨단 AI 해킹’ 막을 ‘차르’, 부처간 벽부터 넘어야 한다 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KdXh4NktLTEJJSWhETklBcDdWVlhKcHNPNUhoUXZpZ2VCYkVaeVhYREZoZ2dObFhjOTIyVzdfYUJiRkhmN0p4TF94ZU9iOHhEWG42TW5kOHRYS1psZVhDNQ?oc=5",
-          "source": "한겨레",
-          "published": "11-18 08:14",
-          "snippet": "‘첨단 AI 해킹’ 막을 ‘차르’, 부처간 벽부터 넘어야 한다 한겨레 F5, 2027년 사이버보안 3대 전망 발표…\"제로데이 위협 가속화\" 지디넷코리아 FBI “사이버 범죄자와 국가 연계 해커들, ARTEX 소프트웨어 악용해 기업 보안망 침투” VOA 한국어 홈페이지 \"중국 해킹조직, '아르텍스'로 한국 외교 조직 공격\" MBC 뉴스 사람 없이 AI가 해킹한 사례 첫 확인…AI끼리 연결해 전 과정 자동화 동아일보"
-        }
-      ],
-      "기술주 비중 급감": [
-        {
-          "title": "월가 펀드매니저, 기술주 비중 25%p 급감…2006년 이후 최대폭 축소 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10SlItQ1ExWTk1MDFPaHdHcUF0VjY3WktyX202eFY1d09XcE91YUxjSEJqUXFveG1VZEUxMmVIUGJlSUdCMFhka1lvM0dfMWJBb2xhYVZsamVkYmZGQktzTHJYSWNuNlhzZ0xveFBPRUM?oc=5",
-          "source": "연합인포맥스",
-          "published": "11-18 10:26",
-          "snippet": "월가 펀드매니저, 기술주 비중 25%p 급감…2006년 이후 최대폭 축소 연합인포맥스"
-        },
-        {
-          "title": "[뉴욕증시] 반도체·기술주 투매로 3대 지수 급락…나스닥 장중 2.1% 폭락 - 글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUWJBaXhtTkRnd1dfRkQ5OXNMWnl6eVZ2OS00NGVFdHBrMXRnekZ4TGRULVJmeGxhYkEwRWtFWGhOV2JfRmZYUW5YSTE2QXl5cndpamVvRW51SVI1WmxXRGxBTVNfQ1A1VWJkZFd5c2J5SXFVbElJOXJ6d2VWX0xyRU5LamNkRl9p?oc=5",
-          "source": "글로벌이코노믹",
-          "published": "11-18 06:26",
-          "snippet": "[뉴욕증시] 반도체·기술주 투매로 3대 지수 급락…나스닥 장중 2.1% 폭락 글로벌이코노믹"
-        },
-        {
-          "title": "뉴욕증시 프리뷰, 미 주가지수 선물 혼조…엔비디아 실적·앤스로픽 IPO 앞두고 기술주 반등 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pbWdjTUFnRFlndVdNaklFLTRmVWt0ZDU5dG45SnNzRlZXZlV5blBrV01yaW5pV3VrX0JtNWpUVmp2a014VjhUc0ZMYUR5Y2JLU1pDSUxCUG9Ia2JO?oc=5",
-          "source": "뉴스핌",
-          "published": "11-17 22:29",
-          "snippet": "뉴욕증시 프리뷰, 미 주가지수 선물 혼조…엔비디아 실적·앤스로픽 IPO 앞두고 기술주 반등 뉴스핌"
-        },
-        {
-          "title": "BofA \"美 펀드매니저, 기술주 비중 20년 만에 최대폭 축소…AI 열풍 끝났다\" - 블루밍비트",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BZ0pqdE1GSE1lbWhtOWlUdHZxSE93T2FDZ2lmclpYak1MWlJUYktmYVNKZGdjM3QzVlRITHZGWjJHVVBEOEljTWlZTEpPeDg1?oc=5",
-          "source": "블루밍비트",
-          "published": "11-17 20:38",
-          "snippet": "BofA \"美 펀드매니저, 기술주 비중 20년 만에 최대폭 축소…AI 열풍 끝났다\" 블루밍비트"
+          "title": "美, AI칩 中유출 규제 강화… 젠슨 황 통해 드러난 구멍 뒤늦게 땜질 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BUXlXOEJadkFYUFIwLWVnXzBoX3JMUm9GWW92bkhDMi1yck9tYzdwcGxLT1B0YWx5ekR3ZFcxRmVVeUxYaEFDaDhMRGk3UDl2ZFJkVWhfeWtqSFY4V1YtMHZSNXYwcHlBV2JkOXl5WmFIekXSAWZBVV95cUxPRjhITUFEVkphMVVvMVJCZWFqMWpUdTNzdXJucEZZcjVIYXVHdXRqd0R6VUFFN3FfYURkMWhqSzRwQUpwalpYdDQtOE45bnBpbUY0cVZKclhzSXM4ZzFBMjBUd2JUeEE?oc=5",
+          "source": "동아일보",
+          "published": "11-18 04:30",
+          "snippet": "美, AI칩 中유출 규제 강화… 젠슨 황 통해 드러난 구멍 뒤늦게 땜질 동아일보 엔비디아, 중국에 AI 칩 임대한 고객사에 '법적 위험' 경고 - 머니투데이 머니투데이 미국, 중국의 AI 원격 접속 차단…중국, 강력 반발 KBS 뉴스 젠슨 황 스캔들에 中 데이터센터 허브 동남아 '비상' 마켓인 美, 빅테크 반대에도 중국 데이터센터 장비 수입제한 추진 연합뉴스"
         }
       ]
     },
     "queries": {
-      "금융사 해킹 우려": [
-        "금융사 해킹",
-        "금융사 해킹 사고"
+      "가계빚 사상 최대": [],
+      "상장사 순이익 감소": [
+        "코스피 상장사 순이익"
       ],
-      "데이터센터 냉각 솔루션": [
-        "lg전자 데이터센터 냉각 솔루션",
-        "ai 데이터센터 냉각 솔루션",
-        "데이터센터 냉각 관련주 미국",
-        "데이터센터 냉각 관련주 한국",
-        "데이터센터 냉각 관련주",
-        "데이터센터 냉각",
-        "데이터센터 냉각수",
-        "데이터센터 냉각 방식"
+      "젠슨 황 리스크": [
+        "젠슨 황",
+        "젠슨 황 부인",
+        "젠슨 황 가족 사진",
+        "젠슨 황 한국어",
+        "젠슨 황 재산",
+        "젠슨 황 자녀",
+        "젠슨 황 국적",
+        "젠슨 황 나이"
       ],
-      "앤트로픽 상장 촉각": [
-        "앤트로픽 상장",
-        "앤트로픽 상장일",
-        "앤트로픽 상장 예정일",
-        "앤트로픽 상장 수혜주",
-        "앤트로픽 상장 일정",
-        "앤트로픽 상장 언제",
-        "앤트로픽 상장 관련주",
-        "앤트로픽 상장 연기"
+      "전산장애 증시 하락": [],
+      "연준 금리 인상": [
+        "연준 금리 인상 가능성",
+        "연준 금리 인상 확률",
+        "연준 금리 인상 주식",
+        "연준 금리 인상 발표",
+        "연준 금리 인상 영향",
+        "연준 금리 인상 전망",
+        "연준 금리 인상 시기",
+        "연준 금리 인상 이유"
       ],
-      "뉴욕증시 전산장애 하락": [],
-      "연준의장 AI 경고": [],
-      "기술주 비중 급감": [
-        "s&p500 기술주 비중",
-        "나스닥 기술주 비중",
-        "나스닥 100 기술주 비중",
-        "qqq 기술주 비중"
+      "AI 투자 경고": [
+        "ai 투자",
+        "ai 투자 후기 디시",
+        "ai 투자 프롬프트",
+        "ai 투자 디시",
+        "ai 투자 프로그램",
+        "ai 투자 수익률",
+        "ai 투자 축소",
+        "ai 투자 순위"
       ]
     },
-    "newsletter_md": "# ⚡ ZIPPY | AI 경제 데일리 브리핑\n_2026-11-18 이슈 · 발행 2026-11-18_\n\n🇰🇷 **국내 경제:** `금융사 해킹 우려` · `데이터센터 냉각 솔루션` · `앤트로픽 상장 촉각`\n🌐 **해외 경제:** `뉴욕증시 전산장애 하락` · `연준의장 AI 경고` · `기술주 비중 급감`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 금융사 보안 점검 연 2회로 강화\n> 키워드: 금융사 해킹 우려\n\n**📌 무슨 일이 있었나**\n- 대형 금융사의 보안 취약점 분석 및 평가 주기가 기존 연 1회에서 연 2회로 확대되며 보안 관리가 강화되었다.\n- 가상자산 거래소 코인원의 고객센터가 해킹당하며 자산 탈취와 사생활 침해에 대한 우려가 확산되고 있다.\n- 미국 기술 인프라에서 닷새간 연이은 시스템 장애가 발생하며 글로벌 금융 시스템 전반의 불안감이 커졌다.\n- 첨단 AI 해킹을 막기 위한 전담 조직인 '차르' 신설이 논의 중이나 부처 간 장벽이 걸림돌로 지적되었다.\n- 미국이 동남아를 경유하는 AI 칩 우회 경로를 차단하면서 한국 파운드리와 후공정 업계에 악영향이 예상된다.\n\n**💬 핵심 Q&A**\n- **Q. 금융사 취약점 평가 주기를 연 2회로 늘리는 조치가 실질적인 해킹 방어력을 높이는가?**\n  A. 기존 연 1회 점검은 급변하는 해킹 기술에 대응하기에 시간적 간극이 컸으나, 주기를 단축함으로써 최신 보안 위협을 조기에 발견할 가능성이 커졌다. 다만 평가 횟수 증대보다 AI를 활용한 고도화된 공격을 실시간으로 탐지할 수 있는 기술적 인프라 구축이 병행되어야 실효성을 거둘 수 있다.\n- **Q. 코인원 고객센터 해킹 사고가 단순 정보 유출을 넘어 자산 탈취로 이어질 가능성은 어느 정도인가?**\n  A. 고객센터를 통해 유출된 개인정보가 2차 공격인 피싱이나 계정 탈취에 악용될 경우 실제 자산 손실로 직결될 위험이 매우 높다. 특히 사생활 침해 정보가 결합된 정교한 사회공학적 해킹은 보안 인증 체계를 우회할 수 있어 거래소의 추가적인 인증 강화가 시급한 상황이다.\n- **Q. 미국의 AI 칩 우회 경로 차단이 한국 반도체 후공정 업계에 어떤 경로로 타격을 주는가?**\n  A. 동남아시아는 한국 반도체 기업들의 주요 후공정 기지이자 우회 수출 통로 역할을 해왔으나, 패스트트랙이 닫히면서 물류 경로가 제한되고 통관 절차가 까다로워졌다. 이는 공급망 비용 상승과 직결되며, 결과적으로 한국 파운드리 업체의 글로벌 수주 경쟁력을 약화시키는 요인이 된다.\n\n**👀 앞으로 볼 포인트**\n- 금융당국 보안 가이드라인 개정안 시행 시점\n- AI 해킹 방지 전담 기구의 부처 간 협의 결과\n- 미국 인프라 시스템 장애 복구 및 원인 발표\n\n<sub>참고: [MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTE9vXy1uRjZ5b1pLZ1ZXR3pKRF9STkl4enQzMGVQaUxDOWUxZW12cVpSTGVfS3JZSVFiV0tLaTlCZ2x5VXpYWmNtUkQwZHVJaTZoMm5Zb3N5MGFpanVzNnE4MWNiLVU0QVNQbmMxMWRPbFBLMU5E0gF0QVVfeXFMTlRiQmpLbFc0RGRLazRuT0ZSSVk5OERSaEhsMkdwZExiS2c0anlCektwalBmVUxQTTVXSDNZRkFPUUtsTDFaZ0ZvOHRJdWhMV0ZPVGxHNUZrRW55YzVXbWJ4MVlKc3JiWHpGZmZrYWU2R0FNMHY?oc=5) / [지디넷코리아](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlVnNmWjdTQ19mVFMwZlMtRkM3RFhrNnhiY2lhTS12NDk0bHZWcUk2eklLZjZPRjlnSDFaTFBxcHBfejVPcEQ2Unp6MUlvTEJDUklJQ2NB?oc=5) / [Investing.com 한국어](https://news.google.com/rss/articles/CBMicEFVX3lxTFBjeDFvbmhjSmlDYnZvc3pkX193UEk5eUpRTGtjdDAyQXJWT0NXODJlSUktZkZleUNZX2FnZ01JQ3FKUDNqMmc5ZU9RdlY4eTFkMmxvWmNmY2NPVmdmWEVqTHMzVUVQM0dvUmRnX0gzUEI?oc=5)</sub>\n\n---\n\n### 2. AI 데이터센터 냉각 시장 선점 경쟁\n> 키워드: 데이터센터 냉각 솔루션\n\n**📌 무슨 일이 있었나**\n- LG전자가 가전 분야를 넘어 AI 인프라 시장을 겨냥해 데이터센터 냉각 솔루션을 새로운 승부수로 던졌다.\n- 삼성전자는 215조 원의 현금 실탄을 바탕으로 데이터센터 냉각, 로봇, 전력 분야의 전방위 M&A를 검토 중이다.\n- 아마존 CEO는 데이터센터 건설을 멈출 경우 중국에 AI 주도권을 완전히 넘겨줄 수 있다고 경고하며 공격적 투자를 시사했다.\n- 삼성SDI는 미국에서 수조 원 규모의 ESS용 배터리 수주에 성공하며 데이터센터 전력 관리 시장에서의 입지를 굳혔다.\n- 국내 기업들은 AI 데이터센터의 핵심인 전력과 냉각 시장 밸류체인을 선점하기 위해 기술 개발 경쟁에 돌입했다.\n\n**💬 핵심 Q&A**\n- **Q. LG전자가 가전 기술을 데이터센터 냉각 솔루션에 어떻게 접목하여 승부수를 띄우는가?**\n  A. 에어컨과 냉장고 등에서 축적한 고효율 칠러 및 열교환 기술을 대규모 서버실의 열을 식히는 액침 냉각이나 공조 시스템으로 전환하여 적용하고 있다. 가전 사업에서 검증된 에너지 효율성과 내구성을 바탕으로 운영 비용 절감이 절실한 빅테크 데이터센터 시장을 공략하는 전략이다.\n- **Q. 아마존 CEO가 데이터센터 건설 중단을 중국에 대한 주도권 상실로 연결 짓는 논거는 무엇인가?**\n  A. AI 모델의 성능은 컴퓨팅 파워와 데이터 처리량에 비례하며, 이를 뒷받침하는 물리적 기반이 데이터센터이기 때문이다. 건설 속도가 늦어지면 연산 자원 확보에서 뒤처지게 되고, 이는 곧 국가적 차원의 AI 알고리즘 및 서비스 경쟁력 격차로 이어진다는 위기감이 반영된 것이다.\n- **Q. 삼성SDI의 ESS 배터리 수주가 데이터센터 냉각 시장과 어떤 상관관계를 갖는가?**\n  A. 데이터센터는 막대한 전력을 소모하며 발생하는 열을 제어하기 위해 안정적인 전력 공급이 필수적인데, ESS는 전력 부하를 조절해 냉각 시스템의 효율을 극대화한다. 고성능 ESS 배터리는 냉각 장치의 갑작스러운 중단을 막는 비상 전원 역할과 동시에 전체 에너지 관리 비용을 낮추는 핵심 요소다.\n\n**👀 앞으로 볼 포인트**\n- LG전자 냉각 솔루션의 글로벌 빅테크 공급 계약\n- 삼성전자의 데이터센터 관련 대형 M&A 공식 발표\n- 미국 내 AI 데이터센터 건설 규제 및 지원 법안\n\n<sub>참고: [지디넷코리아](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FYWw4MmlPMURQcWZReVkzOGhXTDVaNEJES3F2RkZOTFlKNThHX1Bsd3lhVW5IZUtibDgxaFdROFpzV3ZZU25hRllpWTd4VlNlN1U2elln?oc=5) / [비즈니스포스트](https://news.google.com/rss/articles/CBMic0FVX3lxTE9aUkU1YWlxX3lDUHBLUm5SWTJnV3R0LVd0N1RtVEZseFIySzhhRlNFUkVrc2YzMVktN3l6ejdtWDFpMWFhSnVLRDZKRUZvd3JhSkF0RkFRWTFnX1V0ZXJCY08wTm5NN0VweXJUV3NEUmhkMTg?oc=5) / [Chosunbiz](https://news.google.com/rss/articles/CBMingFBVV95cUxOcHlmZWlsNFV1azV4TTY4dzNrTnNIREhMaWpwR1pFNVJBVmtwaHFwRHExNE13dXlhdzZNaUZwalBnMUZjekt3YzJDcTBNWXVxUUg3OGtxWG1DQUdWR05HVnJpRUxqUHVOcXVZS1dxdW9FS2FrSHNScXNTVXBFczcxVDM5UmdqVmdxMUVENkZMYVFydzVULVpWVm1GNXFWd9IBsgFBVV95cUxQNzd3cmhkU0E5WEtvdy04MkRCSkoyS01XbjdnWEs2MGlPT09ueFh6cFpVcUNQaVdPMS1VbTlkRDVLNzJxX3FKdG94U0dJUHU4bVdIZVNrS0xoME1WUXMxQnc5MVVVcHhLZEtxOENJOXpYbDd6Qk1RTk10dVhiTkV2YmVnbkRwcWhwM0FNSmlQWGNVVWs3RkcxUXVGbm8zcEN1YTNKV3JxaDQtbVVBeEs1a1NB?oc=5)</sub>\n\n---\n\n### 3. 앤트로픽 19일 나스닥 상장 확정\n> 키워드: 앤트로픽 상장 촉각\n\n**📌 무슨 일이 있었나**\n- AI 스타트업 앤트로픽이 공모가 희망 범위를 상회할 것으로 예상되는 가운데 11월 19일 나스닥 상장을 앞두고 있다.\n- 월가는 앤트로픽이 폭발적인 성장을 거듭하여 2030년에는 매출 676조 원을 달성할 것으로 전망했다.\n- 앤트로픽의 IPO 흥행 여부는 딥시크, 업스테이지 등 아시아 AI 기업들의 상장 가능성을 가늠할 이정표가 될 전망이다.\n- 코스닥 상장사 3곳 중 1곳이 한계기업으로 나타나면서 부실 기업 증가가 우량 기업의 저평가를 심화시키고 있다.\n- 뉴욕증시는 엔비디아 실적 발표와 앤트로픽 상장이라는 대형 이벤트를 앞두고 관망세 속에 하락 마감했다.\n\n**💬 핵심 Q&A**\n- **Q. 앤트로픽의 2030년 매출 676조 원 전망은 어떤 근거로 도출된 수치인가?**\n  A. 기업용 AI 모델 수요의 기하급수적 증가와 구독형 서비스 모델의 확장을 전제로 월가에서 산출한 낙관적 시나리오다. 현재의 성장 속도가 유지되고 AI 인프라 투자가 매출로 본격 전환되는 시점을 고려할 때, 단순 소프트웨어 판매를 넘어 플랫폼 생태계를 장악할 것이라는 기대가 반영되었다.\n- **Q. 앤트로픽의 IPO가 아시아 AI 스타트업들에게 구체적으로 어떤 도화선 역할을 하는가?**\n  A. 앤트로픽이 높은 기업가치를 인정받으며 성공적으로 안착할 경우, 수익성 논란에 직면했던 AI 기업들에 대한 투자 심리가 급격히 회복될 수 있다. 이는 딥시크나 업스테이지 같은 아시아권 후발 주자들이 상장 시 밸류에이션을 높게 책정받을 수 있는 비교군(Peer Group) 기준을 마련해준다.\n- **Q. 코스닥 내 한계기업 비중 증가가 앤트로픽 같은 우량 AI 기업의 상장 환경에 어떤 악영향을 주는가?**\n  A. 부실 기업이 시장에 잔류하며 자본을 잠식하면 시장 전체의 신뢰도가 하락하고 우량 기업으로 유입되어야 할 유동성이 분산된다. 특히 AI 같은 고성장 섹터 내에서도 옥석 가리기가 엄격해지면서, 상장 초기 오버행 이슈나 저평가 리스크를 가중시키는 원인이 된다.\n\n**👀 앞으로 볼 포인트**\n- 19일 나스닥 상장 직후 앤트로픽의 시초가 형성\n- 앤트로픽 상장이 국내 AI 관련주에 미치는 영향\n- 엔비디아 실적 발표와 AI 섹터 전반의 수급 변화\n\n<sub>참고: [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTFB4NmpfWDhPWUJndlcyaWJsUUdZVUE2N1ctVHAxOThsVWdRbGVVQ0NvSXhsRGJNbGpHazJSZFAzY1Mydkg2a2l6WDFrV2gyZ1o4eEdGbFY4ZVlEdHdiMElyN0p4djlLRWFuQjNVa1lEMUs?oc=5) / [디지털데일리](https://news.google.com/rss/articles/CBMiYkFVX3lxTE92NHEzb1VDZTU4R0NRZWFESHFjd29UUUdCa1BZMUlDWEZ2N2ZoUG56S1BYQjZ5NlZHalRNX2ZIcl9TS0MwMnZlNGRuOEtGWjFpQkVNX2IwdFhzSmFwWmtIaC1B?oc=5) / [Investing.com 한국어](https://news.google.com/rss/articles/CBMicEFVX3lxTE9BeVJnczg1bTZ1VnVyLXNwUkpkVzlSNERpMnVYZ01lWUhuaERmQ3dTMGh5TEl3UDYzUkxQUnJfSU8tR3hVWlg5SXFiMVBGNEJtZTVsUG9BQ0d4amxfTk1KUXduRVhnNmJpSW9RWFdnNXE?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 전산장애 여파에 S&P500 7월 이후 최저\n> 키워드: 뉴욕증시 전산장애 하락\n\n**📌 무슨 일이 있었나**\n- 미국 증시에서 잇따른 전산 장애가 발생하며 S&P 500과 나스닥 지수가 4거래일 연속 하락세를 기록했다.\n- S&P 500 지수는 전일 대비 1% 하락하며 지난 7월 이후 가장 낮은 수준까지 밀려났다.\n- 시스템 불안정으로 인한 거래 차질이 투자 심리를 위축시켰으며 엔비디아 실적 발표를 앞둔 경계감도 하락을 부추겼다.\n- 뉴욕증시 3대 지수는 반도체와 기술주 중심의 투매 현상이 나타나며 장중 변동성이 극심해졌다.\n- 글로벌 증시는 뉴욕발 전산 장애와 기술주 하락의 영향으로 동반 약세를 면치 못했다.\n\n**💬 핵심 Q&A**\n- **Q. 뉴욕증시의 잇따른 전산 장애가 단순 기술적 결함을 넘어 시장 구조적 리스크로 번지는 이유는 무엇인가?**\n  A. 초단타 매매와 알고리즘 거래가 지배하는 현대 증시에서 전산 장애는 즉각적인 유동성 공급 중단과 가격 왜곡을 초래하기 때문이다. 투자자들이 시스템의 안정성을 신뢰하지 못할 경우 리스크 프리미엄이 상승하며 자산 매각을 가속화하는 심리적 트리거로 작용한다.\n- **Q. S&P 500 지수가 7월 이후 최저치를 기록한 것이 기술적 분석 측면에서 어떤 의미를 갖는가?**\n  A. 지난 수개월간 형성된 지지선이 무너졌음을 의미하며, 이는 추가 하락 공간이 열리는 하락 추세로의 전환 신호로 해석될 수 있다. 특히 전산 장애라는 비정상적 요인으로 저점이 뚫린 만큼, 빠른 시일 내에 회복하지 못하면 매도세가 강화되는 '데드크로스' 구간에 진입할 위험이 크다.\n- **Q. 엔비디아 실적 발표에 대한 촉각이 전산 장애 상황에서 시장에 어떤 변수로 작용하는가?**\n  A. 시스템 불안으로 시장이 예민한 상태에서 엔비디아의 실적이 기대치에 미치지 못할 경우 기술주 전반에 대한 투매를 촉발하는 기폭제가 될 수 있다. 반대로 압도적인 실적을 발표한다면 전산 장애로 인한 심리적 불안을 상쇄하며 시장을 반등시킬 수 있는 유일한 모멘텀이 된다.\n\n**👀 앞으로 볼 포인트**\n- 뉴욕증권거래소의 전산 시스템 복구 및 재발 방지책\n- S&P 500 지수의 7월 저점 지지 여부\n- 엔비디아 실적 발표에 따른 나스닥 지수 반등 가능성\n\n<sub>참고: [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE5hSHR1LTh6RjJNQ19LMGhqVWlwT3Z2Y3dzeGFxdGlBWkJWdl9YcTctZG50ZW5pdE1CR3VHRzFSUlBJTF9SR2NKTWpCQ2M2eDZTanVra0tmSjNRWS1ZUTA3ekhqQ3YtbFJ5TGJ6emlmNC0?oc=5) / [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvSHR5MnY3cWJTek0xOWxDY2ZKdHlTZVlPUXVsaUFlUlc2WklKT3AwZ2xQOThJYjEwZTlrUmRnSlRzSmV1RG55QW1sbTRjekZCQ29MSUhacmpBWEFyVmNORHZ5OVQ4QWM?oc=5) / [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GM05XNXEyTFQ4UVI3bU8teVZkZnFlMmpROW9yamoxaTJ3djB1b1NUVllFak1OYjgybE5Ebl9NaGtpeW5HUzk1VGN4Y3R5OGNGQlZtY010RkxielE?oc=5)</sub>\n\n---\n\n### 2. 연준의장 AI 투자 거품 및 실업 경고\n> 키워드: 연준의장 AI 경고\n\n**📌 무슨 일이 있었나**\n- 미 연준 의장은 AI 투자 성과가 시장의 기대에 미치지 못할 수 있다고 직접 경고하며 'AI 폭망 시나리오' 가능성을 언급했다.\n- AI 열풍으로 인한 증시 호황이 실제 경기 상황과 괴리가 있으며, 향후 경기 둔화와 실업 증가로 이어질 수 있다는 우려가 제기되었다.\n- 월가와 유럽중앙은행(ECB)에서도 'AI를 사면 무조건 돈을 번다'는 공식이 끝났다는 충격적인 경고가 잇따랐다.\n- AI발 증시 호황이 자연 실업률과 깊은 연관이 있으며 고용 시장에 부정적 영향을 줄 수 있다.\n- 미국이 동남아 우회 AI 칩 경로를 차단하는 등 규제를 강화하면서 AI 산업 전반의 성장세 둔화 우려가 커지고 있다.\n\n**💬 핵심 Q&A**\n- **Q. 연준 의장이 AI 투자가 실업 증가로 이어질 수 있다고 경고한 메커니즘은 무엇인가?**\n  A. 기업들이 AI 도입을 통한 비용 절감을 위해 기존 인력을 대거 감축하고 있으나, AI가 창출하는 신규 고용 속도가 이를 따라잡지 못하고 있기 때문이다. 생산성 향상이 가계 소득 증대로 연결되지 않고 자본가에게만 집중될 경우 소비 위축과 경기 둔화라는 악순환에 빠질 수 있다는 논리다.\n- **Q. 월가와 ECB가 'AI 필승 공식'의 종말을 선언한 구체적인 근거는 무엇인가?**\n  A. 막대한 자본이 투입된 AI 인프라가 실제 기업의 영업이익으로 전환되는 속도가 예상보다 현저히 느리다는 점을 꼽고 있다. 고금리 환경에서 자본 비용은 상승하는데 AI 수익화 모델이 불투명해지자, 밸류에이션 거품이 붕괴될 시점이 도래했다는 판단이다.\n- **Q. 샌프란시스코 연은이 분석한 AI 증시 호황과 자연 실업률 사이의 상관관계는 어떻게 작동하는가?**\n  A. AI 기술 혁신이 노동 시장의 구조적 변화를 일으켜 구직자와 구인처 간의 미스매치를 심화시키고, 이로 인해 자연 실업률 자체가 상승할 수 있다는 분석이다. 증시는 기술 혁신에 환호하며 상승하지만, 실물 경제에서는 고용 유연성이 떨어지며 잠재 성장률이 저하되는 역설적 상황을 지적한 것이다.\n\n**👀 앞으로 볼 포인트**\n- 연준의 향후 금리 결정 시 AI 산업 지표 반영 여부\n- 미국 고용 보고서 내 AI 관련 직군 실업률 변화\n- 글로벌 빅테크 기업들의 AI 투자 가이던스 하향 조정\n\n<sub>참고: [매일경제 마켓](https://news.google.com/rss/articles/CBMiUkFVX3lxTE84VXc3MDRmbWJvellJMU04SndQeVh0MFNrSHRaNFI0TlpUMHRLaUVrVVNaZGNSTnZ1TG44bGkyOWhOUUFJZGplY25fUC00MVVKVkE?oc=5) / [헬로티](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pLUZRVHpMMklwRkJ3dmFOSmZPLXFhR29NYzhXT0FtZU9oZmlxUW9zN0FXTjRzdUNXNTN0LTljMkw4S1BFWG1lbFk2T0RNZldQaDFWNE12dm9wdnhwbDA4?oc=5) / [한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PZ3lmRmYzcEZLVHRhWms4RlIySXVpbVVBQ0VsbWI1RzlHOHpHUDlQczczY3p0bFQ5TFlqSkE2bHEzaDk0ckdGSExKMThINEJPVFZpNHhYaXMxQQ?oc=5)</sub>\n\n---\n\n### 3. 기술주 비중 2006년 이후 최대폭 축소\n> 키워드: 기술주 비중 급감\n\n**📌 무슨 일이 있었나**\n- 월가 펀드매니저들의 기술주 투자 비중이 한 달 만에 25%p 급감하며 2006년 이후 최대폭의 축소를 기록했다.\n- 뱅크오브아메리카(BofA)는 펀드매니저들의 설문 결과를 바탕으로 'AI 열풍이 끝났다'고 진단하며 기술주 투매 현상을 보고했다.\n- 나스닥 지수는 반도체와 기술주를 중심으로 한 집중 매도로 인해 장중 2.1% 폭락하는 등 극심한 부진을 보였다.\n- 엔비디아 실적 발표와 앤스로픽 IPO를 앞두고 일부 선물 시장에서는 반등 시도가 있었으나 전반적인 비중 축소 흐름을 꺾지 못했다.\n\n**💬 핵심 Q&A**\n- **Q. 펀드매니저들이 기술주 비중을 2006년 이후 최대폭으로 줄인 결정적 이유는 무엇인가?**\n  A. AI 산업의 수익성 가시화 지연과 고평가된 밸류에이션에 대한 공포가 임계점에 도달했기 때문이다. 2006년 당시와 유사하게 금리 인하 기대감은 후퇴하고 경기 침체 우려가 커지자, 가장 비중이 높고 변동성이 큰 기술주를 우선적으로 정리하여 현금을 확보하려는 움직임이다.\n- **Q. BofA가 'AI 열풍이 끝났다'고 단언한 통계적 근거는 무엇인가?**\n  A. 글로벌 펀드매니저들의 포트폴리오 내 기술주 비중이 장기 평균치 이하로 급락하고, AI 관련 기업들에 대한 향후 12개월 이익 전망치가 하향 조정되기 시작했기 때문이다. 단순한 조정이 아니라 기관 투자자들의 자금 집행 원칙 자체가 '성장성'에서 '안정성'으로 이동했음을 의미한다.\n- **Q. 기술주 투매 속에서도 앤스로픽 IPO와 엔비디아 실적에 대한 기대가 공존하는 역설을 어떻게 해석해야 하는가?**\n  A. 시장이 기술주 전반에 대해서는 비관적이지만, 압도적인 경쟁력을 가진 '대장주'와 '신규 대어'를 통해 반전의 실마리를 찾으려는 심리가 남아있기 때문이다. 이는 기술주 내에서도 무차별적 상승이 끝나고, 실적과 상징성을 갖춘 소수 종목으로만 수급이 쏠리는 극심한 차별화 장세가 시작되었음을 시사한다.\n\n**👀 앞으로 볼 포인트**\n- BofA 펀드매니저 설문조사 내 자산 배분 변화 추이\n- 나스닥 지수의 주요 이동평균선 회복 여부\n- 기술주에서 이탈한 자금의 타 섹터 유입 경로\n\n<sub>참고: [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE10SlItQ1ExWTk1MDFPaHdHcUF0VjY3WktyX202eFY1d09XcE91YUxjSEJqUXFveG1VZEUxMmVIUGJlSUdCMFhka1lvM0dfMWJBb2xhYVZsamVkYmZGQktzTHJYSWNuNlhzZ0xveFBPRUM?oc=5) / [글로벌이코노믹](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUWJBaXhtTkRnd1dfRkQ5OXNMWnl6eVZ2OS00NGVFdHBrMXRnekZ4TGRULVJmeGxhYkEwRWtFWGhOV2JfRmZYUW5YSTE2QXl5cndpamVvRW51SVI1WmxXRGxBTVNfQ1A1VWJkZFd5c2J5SXFVbElJOXJ6d2VWX0xyRU5LamNkRl9p?oc=5) / [뉴스핌](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pbWdjTUFnRFlndVdNaklFLTRmVWt0ZDU5dG45SnNzRlZXZlV5blBrV01yaW5pV3VrX0JtNWpUVmp2a014VjhUc0ZMYUR5Y2JLU1pDSUxCUG9Ia2JO?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 보도를 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
+    "newsletter_md": "# ⚡ ZIPPY | AI 경제 데일리 브리핑\n_2026-11-18 이슈 · 발행 2026-11-18_\n\n🇰🇷 **국내 경제:** `가계빚 사상 최대` · `상장사 순이익 감소` · `젠슨 황 리스크`\n🌐 **해외 경제:** `전산장애 증시 하락` · `연준 금리 인상` · `AI 투자 경고`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 가계빚 2030조 돌파, 주담대 역대 최대 기록\n> 키워드: 가계빚 사상 최대\n\n**📌 무슨 일이 있었나**\n- 2026년 3분기 기준 대한민국 가계신용 잔액이 2030조 5000억 원을 기록하며 사상 최대치를 경신했다.\n- 주택담보대출을 중심으로 한 가계대출이 급증하며 전체 빚 규모를 끌어올렸으며 카드 빚을 의미하는 판매신용도 함께 증가했다.\n- 최근 증시 조정의 영향으로 이른바 빚투 수요가 줄어들면서 가계빚 증가 폭 자체는 6분기 만에 최소 수준으로 둔화했다.\n- 주택 관련 대출은 여전히 사상 최대 기록을 이어가고 있어 가계 재무 건전성에 대한 우려가 지속되고 있다.\n\n**💬 핵심 Q&A**\n- **Q. 가계빚 총액은 역대 최대인데 증가 폭이 6분기 만에 최소를 기록한 배경은 무엇인가?**\n  A. 주택담보대출은 주택 거래 흐름에 따라 여전히 높은 수준을 유지하고 있으나, 최근 국내외 증시 조정으로 인해 주식 투자를 위한 신용대출 수요가 급격히 꺾였기 때문이다. 자산 시장의 불확실성이 커지면서 공격적인 레버리지 투자가 줄어든 것이 전체 가계신용 증가 속도를 늦추는 브레이크 역할을 했다.\n- **Q. 카드 빚을 포함한 판매신용까지 급증한 현상은 가계 소비 구조에 어떤 신호를 주는가?**\n  A. 고물가와 고금리 상황이 지속되면서 가계의 실질 구매력이 저하되자 부족한 생활비를 신용카드 결제나 할부 등 외상 거래로 충당하고 있음을 시사한다. 이는 가계의 가처분 소득이 한계에 다다랐음을 보여주는 지표로, 향후 소비 위축과 연체율 상승으로 이어질 위험이 크다.\n- **Q. 증시 조정이 가계부채 관리 측면에서 긍정적인 변수로 작용할 수 있는가?**\n  A. 단기적으로는 과도한 빚투 열기를 식혀 가계부채의 급격한 팽창을 억제하는 효과가 있으나, 담보 가치 하락에 따른 반대매매 리스크를 키울 수 있다. 부채의 질적 측면에서 볼 때 생산적인 투자 대출이 아닌 자산 가격 하락에 따른 손실 보전용 대출이 늘어날 경우 가계 경제의 타격은 더 심화될 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 금융당국의 가계대출 추가 규제 시행 여부\n- 부동산 시장 거래량 변화와 주담대 추이\n- 증시 반등 시 신용공여 잔액 재증가 가능성\n\n<sub>참고: [MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTE5iRVlEODh5eHBZVHlWOGxuYXVzME8tZ2VkVmNqZ3VRSUw1WlBNU0l4ajRoWm85MjN3LW1DMEtTWXoyT25USGdiTkJxbjhhMHo1bnhMSEQtRjA0T1daZ09sNVVBZHg2ZGJtaG04LUdMVzRkbzZj0gF0QVVfeXFMUGV5TXhHanlLNnhJQWhWenpibEN4Z1BkOHdZUXN6WnJNeEc4TkJqY28zWEduU2hSdmxaUVpJb245NnpnNHQzbVpoWThGR2lYRXVWRDNGWnlfWUN3dF8zb19fUFowRmpzeWpxRlJzOWlLbG1oNk8?oc=5) / [증권일보](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YQnFvaXJJem9VZ2pHS0tPcEttRXQxQkxDT2t4bWw3dUp5UWJGX3dVZGs2aWI4ZFpIYjRwd2VLLUppZHhVYUZqY1BEOHcyU1R6clBtYy13bnFoVlUxVGQ3aQ?oc=5) / [산경일보](https://news.google.com/rss/articles/CBMicEFVX3lxTE5tSm02Z29mNzdqMXFqTHBOQWVvUjlCLURubVNFbkZEZUhpUVRWYjNWM3VIdWlmZ00tU01IN3JpdTA0TkhWbVhvUXFvYnVDX1dmeVFEVkU5UkFQRy1wbklrSXZhY3BGWVAxcFJOZkEwN3Y?oc=5)</sub>\n\n---\n\n### 2. 코스피 3분기 순이익 30% 급감, 반도체 편중 심화\n> 키워드: 상장사 순이익 감소\n\n**📌 무슨 일이 있었나**\n- 코스피 상장사의 2026년 3분기 순이익이 전 분기 대비 30% 감소하며 수익성이 크게 악화된 것으로 나타났다.\n- 삼성전자와 SK하이닉스 등 반도체 기업이 전체 코스피 순이익의 약 3분의 2를 차지하며 특정 업종 쏠림 현상이 극심해졌다.\n- 코스닥 상장사들은 환율 하락과 내수 부진의 영향으로 분기 순손실을 기록하며 적자 전환하거나 수익성이 급락했다.\n- 올해 9개월 누적 순이익은 전년 대비 3.7배 수준으로 성장세를 유지 중이나 3분기 들어 흑자 기업 수가 줄어드는 등 경고등이 켜졌다.\n\n**💬 핵심 Q&A**\n- **Q. 누적 순이익은 전년 대비 크게 늘었는데 왜 3분기 단일 실적은 30%나 급락했는가?**\n  A. 상반기까지 실적을 견인했던 반도체 업황의 성장 속도가 둔화된 가운데 환율 하락으로 인한 환차손이 반영되면서 장부상 이익이 크게 줄었기 때문이다. 또한 고물가로 인한 비용 상승과 내수 소비 침체가 제조업 전반의 마진율을 갉아먹으며 실적 하향 조정을 유도했다.\n- **Q. 삼성전자와 SK하이닉스가 순이익의 3분의 2를 차지하는 구조는 증시에 어떤 리스크를 주는가?**\n  A. 한국 증시 전체의 실적이 반도체 사이클 하나에 종속되는 결과를 초래하여 지수의 변동성을 극대화한다. 반도체 업황이 꺾일 경우 이를 대체할 만한 주력 산업이 부재하다는 점이 확인되면서 외국인 투자자들의 이탈을 가속화하는 원인이 된다.\n- **Q. 코스닥 상장사들이 순손실을 기록하며 적자로 돌아선 결정적인 원인은 무엇인가?**\n  A. 중소형주가 포진한 코스닥 특성상 내수 경기 부진에 더 민감하게 반응했으며, 수출 비중이 높은 기업들은 원화 강세 구간에서 가격 경쟁력과 수익성이 동시에 약화되었기 때문이다. 특히 자금 조달 비용 상승으로 인한 금융 비용 부담이 중소기업들의 순이익을 잠식한 결과로 풀이된다.\n\n**👀 앞으로 볼 포인트**\n- 반도체 외 업종의 4분기 실적 회복 여부\n- 환율 변동에 따른 수출 기업 채산성 변화\n- 내수 부진 타개를 위한 정부의 경기 부양책\n\n<sub>참고: [경향신문](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GWHRhWHlCNWp0MmlSOUJLNldJTEJ5NzRZQVFBYzNOWlFiY2NjQ25WejFkWmVTRlV3SUd2cXJIdUgyLXhiZDlQUlpZS0QzSkY0c2NGM1pvN1IyQdIBX0FVX3lxTE5OWktlTVN6T0VNdjlVcVQxSDBqWXJVajM5a2E5eU9vNk5CVXNYN0d0VWN1QVltWTFreHEtMHFta2VpdUM4ejlLUXRBc3lYWlBwZzRPUzRpSTBBZlhfUEdZ?oc=5) / [MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTE9yS2xic2xQUjFmZVdZbTcyWm14blVUX19OSjRZZ0FDQUEwRTN0Rnp5SjFRc3ZFc1BGaHdEV3k4WFVxaGg4Rzd1RjF4SlEtakl3OFoxdFZVdUhYX1k3RzViaVZMQnp2bEV5ZXhrVmNsQlcwcmNi0gF0QVVfeXFMUGpESk9rSUxuVjNUZGV4TVh1RXctaDVhR1NmdkJ4Z29JdVc3NnplNFB3MExGbGo2Mkd2Yk04RGNEVHFyWWRrQVp1d0xva0tpSXlQS1Zlb1N6ZG8zSUN3QWVXd3BYeXI0TEVybzhWMk5TTS1McWw?oc=5) / [헤드라인제주](https://news.google.com/rss/articles/CBMic0FVX3lxTE1KUm9GdEs2cmRfRmhxdTIxQTRpTjBzYlFBM3Z6d3VqT0RvdnFxMVVSTHN1Y3A2Q2VqZVdsdzg2ZzQ5MnNBZEY5Y2pqRnExTmVDWTF3bmRoN3EtSjAwWkFmWDQ3eXdLOWlnUWxrY1VaQ1Y5eDg?oc=5)</sub>\n\n---\n\n### 3. 엔비디아 젠슨 황 사법 리스크와 경영권 흔들\n> 키워드: 젠슨 황 리스크\n\n**📌 무슨 일이 있었나**\n- 미국 증권거래위원회(SEC)가 엔비디아의 허위 공시 의혹을 정조준하며 젠슨 황 CEO를 향한 사법 리스크가 확산되고 있다.\n- 젠슨 황의 딸이 '메가스피드 사태'에 개입해 막강한 영향력을 행사했다는 의혹이 제기되며 가족 경영에 대한 비판이 거세졌다.\n- 미국 정부가 AI 칩의 중국 유출 규제를 강화하는 과정에서 젠슨 황을 통한 우회 수출 구멍이 발견되어 당국의 조사가 진행 중이다.\n- 내부 암투를 시사하는 '루비오 메모'가 공개되고 차기 CEO 후보가 부상하면서 젠슨 황의 복귀설과 퇴진설이 동시에 교차하고 있다.\n\n**💬 핵심 Q&A**\n- **Q. SEC가 제기한 '허위 공시' 의혹의 핵심 쟁점은 무엇인가?**\n  A. 엔비디아가 AI 칩 수요를 전망하는 과정에서 실제 주문 데이터보다 부풀려진 수치를 시장에 공개하여 주가를 인위적으로 부양했는지 여부가 핵심이다. 만약 고의적인 왜곡이 입증될 경우 대규모 징벌적 과징금은 물론 경영진의 법적 책임 회피가 어려워질 전망이다.\n- **Q. 젠슨 황의 가족이 개입된 '메가스피드 사태'가 기업 지배구조에 어떤 타격을 주는가?**\n  A. 공식적인 직함 이상의 영향력을 행사한 가족 구성원의 개입은 엔비디아의 의사결정 시스템이 투명하지 않다는 증거로 해석되어 기관 투자자들의 신뢰를 떨어뜨린다. 이는 전문 경영인 체제의 붕괴로 비춰질 수 있으며 주주 가치 훼손을 우려한 집단 소송의 빌미가 될 수 있다.\n- **Q. 미 정부의 규제 강화와 젠슨 황의 개인 리스크가 결합될 경우 시장에 미칠 파장은?**\n  A. 엔비디아의 가장 큰 시장 중 하나인 중국 매출이 완전히 차단될 위험이 있으며, CEO의 도덕적 해이 이슈가 겹치면서 기술적 우위와 별개로 주가 프리미엄이 빠르게 제거될 수 있다. 이는 엔비디아를 넘어 글로벌 AI 밸류체인 전체의 투자 심리를 냉각시키는 트리거가 될 것이다.\n\n**👀 앞으로 볼 포인트**\n- SEC의 허위 공시 조사 결과 및 과징금 규모\n- 미국 정부의 대중국 AI 칩 수출 추가 제재안\n- 엔비디아 이사회의 경영권 승계 관련 공식 입장\n\n<sub>참고: [YTN](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WQlQ5UWoyZGhsSEVWczhnSHFaMlVfVndfeEFqT0YyRlo1U3FWUVl0YjFYRWktWDhYeWpNZzZJMEVEX2tMMVJsM1c3V2ZVcmk4OGZyNzBZb1I2NEV1NWc?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTFBWTzdlU05POF9QdzQyV0t5dVMyMUFpVHR5dzlVdkN4anZLaGFnTmpUcHpYYmpfRGZTcUsyc19WcHJRTlBOUGttVzRpM1N5bUdldEVRRGR6bGl0MVR2UUF1SEk3dXg0dlhhcWZzd0QxRWY?oc=5) / [한겨레](https://news.google.com/rss/articles/CBMiggFBVV95cUxObUh4TjN3aHF2ZTJsVkR2YmRUaG1ERk5sZllFaUVYSWdGMEt3RkhJMUtGMWxCRG1COUpGS0JHWnB2UGs2dTE5OTZTaldVZ2V1VHh6NWIwRkxtVzdUcFZ4UzVhTVFVSThpZXA3WnNsZUgxeERRY3o2MElBYWVxM0lkaTdn?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 전산장애 공포에 뉴욕증시 4일 연속 하락\n> 키워드: 전산장애 증시 하락\n\n**📌 무슨 일이 있었나**\n- 미국 금융 시장 내 잇따른 전산장애 발생으로 시스템 불안감이 확산되며 S&P 500과 나스닥 지수가 4일째 하락했다.\n- 나스닥 지수는 전산 사고 여파로 기술주 중심의 매도세가 몰리며 지난 7월 이후 최저 수준까지 떨어졌다.\n- 투자자들이 시스템 오류로 인한 거래 체결 불확실성을 피하기 위해 현금화에 나서면서 3대 지수가 일제히 하락 마감했다.\n- 엔비디아 실적 발표를 앞둔 시점에서 터진 전산 악재는 시장의 변동성을 더욱 키우며 글로벌 증시 전반에 하방 압력을 가했다.\n\n**💬 핵심 Q&A**\n- **Q. 단순한 전산 오류가 왜 4일 연속 지수 하락이라는 이례적인 폭락으로 이어졌는가?**\n  A. 알고리즘 매매와 초단기 트레이딩이 주를 이루는 현대 증시에서 전산장애는 데이터 신뢰성을 파괴하여 자동 매도 주문을 촉발하기 때문이다. 거래소 시스템에 대한 불신이 커지면 투자자들은 리스크 관리 차원에서 포지션을 강제로 청산하게 되며, 이것이 연쇄적인 투매를 유도했다.\n- **Q. S&P 500 지수가 7월 이후 최저치를 기록한 것은 기술적 반등의 신호인가 추가 하락의 전조인가?**\n  A. 전산장애라는 비정상적인 요인으로 지지선이 무너졌기 때문에 시스템 정상화만으로는 반등이 어렵고, 펀더멘털에 대한 재평가가 동반되어야 한다. 특히 주요 기술주들의 실적 발표와 맞물린 시점이라 전산 불안이 실적 실망감과 결합될 경우 추가적인 하락 채널이 형성될 가능성이 높다.\n- **Q. 전산장애 불안 속에서도 엔비디아 실적에 시장이 촉각을 곤두세우는 이유는 무엇인가?**\n  A. 엔비디아는 현재 증시의 유동성과 방향성을 결정하는 핵심 지표 역할을 하고 있어, 시스템 불안을 상쇄할 만큼의 압도적인 실적을 보여줄지가 관건이기 때문이다. 만약 실적이 기대치에 못 미칠 경우 전산 악재와 실적 부진이 겹치며 시장 전체가 장기 조정 국면에 진입할 위험이 있다.\n\n**👀 앞으로 볼 포인트**\n- 미국 주요 거래소의 시스템 복구 및 재발 방지책\n- 전산장애로 인한 미체결 주문 처리 결과\n- 엔비디아 실적 발표 당일의 거래량 변화\n\n<sub>참고: [연합뉴스 한민족센터](https://news.google.com/rss/articles/CBMidEFVX3lxTE5uMVpCN2VMc0N0cVlnX19xamx3ZGUtOE54QkFqLWt6REtvZ3d4VndPUk9JWEVLMFI0VHhnNUNwRDBJdTVRN1E5d3Y1QmNXa2FlTk1KOXc2c09qeUpLR2tYX3F4cHU0dW5ZQkxnSEo4MElqc01i?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE5hSHR1LTh6RjJNQ19LMGhqVWlwT3Z2Y3dzeGFxdGlBWkJWdl9YcTctZG50ZW5pdE1CR3VHRzFSUlBJTF9SR2NKTWpCQ2M2eDZTanVra0tmSjNRWS1ZUTA3ekhqQ3YtbFJ5TGJ6emlmNC0?oc=5) / [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvSHR5MnY3cWJTek0xOWxDY2ZKdHlTZVlPUXVsaUFlUlc2WklKT3AwZ2xQOThJYjEwZTlrUmRnSlRzSmV1RG55QW1sbTRjekZCQ29MSUhacmpBWEFyVmNORHZ5OVQ4QWM?oc=5)</sub>\n\n---\n\n### 2. 연준 추가 금리 인상 시사, 달러 강세 가속\n> 키워드: 연준 금리 인상\n\n**📌 무슨 일이 있었나**\n- 연준 주요 인사들이 인플레이션 대응을 위해 추가 금리 인상이 필요하다는 입장을 밝히며 긴축 기조를 강화했다.\n- 존 윌리엄스 뉴욕 연준 총재는 인플레이션 목표치 달성을 위해 금리를 더 올려야 한다고 직접 언급하며 시장의 금리 인하 기대를 꺾었다.\n- 금리 인상 전망에 달러 인덱스가 치솟으며 아시아 주요국 통화 가치가 약세를 면치 못하고 있다.\n- 국제 금값은 연준의 매파적 행보에 따른 실질 금리 상승 부담으로 온스당 3800달러 아래로 급락했다.\n\n**💬 핵심 Q&A**\n- **Q. 인플레이션 둔화 조짐에도 불구하고 윌리엄스 총재가 추가 인상을 주장하는 논거는 무엇인가?**\n  A. 노동 시장의 견조함이 유지되면서 서비스 물가 상승 압력이 여전히 높고, 기대 인플레이션이 완전히 꺾이지 않았다고 판단하기 때문이다. 성급한 금리 인하가 인플레이션 재발을 초래할 수 있다는 '스톱 앤 고' 정책 실패를 경계하며 확실한 억제력을 확보하려는 의도다.\n- **Q. 연준의 금리 인상 기조가 아시아 통화 가치 하락에 미치는 구체적인 경로는 무엇인가?**\n  A. 미국 금리가 높아지면 더 높은 수익률을 쫓아 자본이 미국으로 유입되면서 달러 수요가 급증하고 상대적으로 아시아 자산 가치는 떨어진다. 이는 수입 물가 상승을 유발해 아시아 국가들의 인플레이션을 자극하고, 결국 해당국 중앙은행들도 원치 않는 금리 인상을 압박받는 악순환을 만든다.\n- **Q. 금값이 3800달러 아래로 떨어진 현상은 안전자산으로서의 매력이 상실된 것인가?**\n  A. 금은 이자가 붙지 않는 자산이기에 금리가 오르면 보유 기회비용이 커져 매력도가 낮아지는 역의 상관관계를 보인다. 현재의 하락은 안전자산 지위 상실이라기보다 달러화의 초강세와 실질 금리 상승에 따른 포트폴리오 조정 과정에서 나타나는 일시적 가격 후퇴로 봐야 한다.\n\n**👀 앞으로 볼 포인트**\n- 연준의 다음 통화정책 회의 내 빅스텝 단행 여부\n- 미국 소비자물가지수(CPI) 발표 수치\n- 달러 강세에 따른 신흥국 자금 이탈 규모\n\n<sub>참고: [Investing.com 한국어](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nWW9Wa1pwYUcyOWxPZ0VHVmRBRUVocXJFTjhjRFFPcGVQRUJKWkVYSEFoV05YVFB0aVZKVVItdjRta1dFSXMybE9zQU1QRnAzai1odG45N1hKWlRqRHlWZVFMZHlrRlE?oc=5) / [Investing.com 한국어](https://news.google.com/rss/articles/CBMib0FVX3lxTE5ISE9UcXpnSFQzck5MTlVEdk5Rcm1ZWU81NHNmeW84elJfVTdmOE00dG5ueHN0UnRxRFNNOE5sSTQ0OGhWU2p3R1FOdUVGN1lwSWZpaDF4RTFXZFBJcEJTa2lNc3RwNy1xNzllVTM3Yw?oc=5) / [이투데이](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Tc2RTUWNPNHZBdnJfSC1FNXlpdTBscjl1MnVfWURIRUJFOTdyRDZnaF9PTjNZRjJRWkpfLVJIb21rTWdNT0RYRmE2MWZLXzNoTi12VQ?oc=5)</sub>\n\n---\n\n### 3. 연준 의장의 AI 거품 경고, 투자 공식 깨졌다\n> 키워드: AI 투자 경고\n\n**📌 무슨 일이 있었나**\n- 제롬 파월 연준 의장이 AI 투자 성과가 시장의 기대에 못 미칠 수 있다고 경고하며 경기 둔화 가능성을 언급했다.\n- 월가에서는 'AI 주식을 사두면 무조건 돈을 번다'는 공식이 끝났다는 분석과 함께 투자 전략 전환이 빠르게 이뤄지고 있다.\n- 미국 정부가 AI 칩의 중국 유출 규제를 강화하면서 엔비디아 등 주요 기업들의 공급망 리스크가 부각되었다.\n- AI 투자 불안감이 확산되면서 S&P 500 지수가 나흘째 하락하는 등 기술주 중심의 투매 현상이 나타났다.\n\n**💬 핵심 Q&A**\n- **Q. 연준 의장이 직접 'AI 폭망 시나리오'를 언급하며 경고에 나선 이유는 무엇인가?**\n  A. AI 분야에 과도하게 쏠린 자본이 실질적인 생산성 향상으로 이어지지 못할 경우, 거품 붕괴 시 금융 시스템 전체에 충격을 줄 수 있기 때문이다. 기술적 낙관론이 자산 가격을 왜곡하여 통화 정책의 효과를 반감시키고 고용 시장에 부정적 변수를 만드는 것을 사전에 차단하려는 의도다.\n- **Q. 월가에서 'AI 필승 공식'이 끝났다고 선언한 결정적인 근거는 무엇인가?**\n  A. 천문학적인 인프라 투자 비용 대비 기업들의 AI 서비스 매출 성장세가 정체되기 시작하면서 투자 대비 수익률(ROI)에 대한 의구심이 커졌기 때문이다. 이제는 단순한 기대감이 아닌 실제 재무제표상의 숫자로 증명해야 하는 '검증의 시간'에 진입했다는 판단이 지배적이다.\n- **Q. 미국의 AI 칩 중국 유출 규제 강화가 AI 투자 심리에 어떤 역설적인 영향을 주는가?**\n  A. 단기적으로는 주요 칩 제조사들의 매출 타격으로 이어지지만, 장기적으로는 AI 기술의 희소성을 높여 국가 간 기술 패권 경쟁을 심화시킨다. 이는 투자자들에게 AI 산업이 단순한 기술 트렌드를 넘어 정치·안보적 리스크가 결합된 복합적인 불확실성 영역임을 각인시켜 밸류에이션 할인을 유도한다.\n\n**👀 앞으로 볼 포인트**\n- 빅테크 기업들의 AI 관련 자본 지출(CAPEX) 조정 여부\n- AI 서비스의 실제 수익화 지표 및 매출 기여도\n- 미 상무부의 반도체 수출 제한 조치 추가 명단\n\n<sub>참고: [헬로티](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pLUZRVHpMMklwRkJ3dmFOSmZPLXFhR29NYzhXT0FtZU9oZmlxUW9zN0FXTjRzdUNXNTN0LTljMkw4S1BFWG1lbFk2T0RNZldQaDFWNE12dm9wdnhwbDA4?oc=5) / [한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE14ejV6Vm5OM0QwWkJXenB2WFI5V1RVTzZOaXhUUk9tVkpnTkZtNDZqVDBoWFBVY19CSGFleHk1Qk0yWkl5dll2bHh0X0VSc3hDQ2tGMFdOY0RwQQ?oc=5) / [한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PZ3lmRmYzcEZLVHRhWms4RlIySXVpbVVBQ0VsbWI1RzlHOHpHUDlQczczY3p0bFQ5TFlqSkE2bHEzaDk0ckdGSExKMThINEJPVFZpNHhYaXMxQQ?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 보도를 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
     "generation_mode": "gemini"
   },
   "yesterday": {
@@ -2914,5 +2938,5 @@
     "newsletter_md": "# ⚡ ZIPPY | AI 경제 데일리 브리핑\n_2026-11-11 ~ 2026-11-17 이슈 · 발행 2026-11-18_\n\n🇰🇷 **국내 경제:** `코스피 5000선 붕괴` · `제약사 신약 임상 결과 발표` · `AI 도입에 따른 직무 재편`\n🌐 **해외 경제:** `젠슨 황 퇴진 및 복귀 논란` · `미국 물가 상승과 금리 인상` · `나스닥 AI주 매도세 확산`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 코스피 5000선 붕괴와 AI 악재 전환\n> 키워드: 코스피 5000선 붕괴\n\n**📌 무슨 일이 있었나**\n- 코스피 지수가 전 거래일 대비 2.59% 하락하며 9개월 만에 5,000선 아래로 추락했다.\n- 그동안 증시 상승을 견인했던 AI 산업이 오히려 악재로 작용하며 지수 하락의 주요 원인이 되었다.\n- 외국인 투자자들은 정치권 간담회 직후 매도세로 돌아서며 지수 하락을 주도하는 모습을 보였다.\n- 증권가가 제시했던 8,300선 전망과 달리 지수가 급락하자 개인 투자자들의 불만이 고조되고 있다.\n- 주요 종목들이 고점 대비 80% 이상 상승해야 본전인 상황에 놓이면서 매물 부담이 증시 반등을 가로막고 있다.\n\n**💬 핵심 Q&A**\n- **Q. 성장 동력이었던 AI가 왜 갑자기 증시의 악재로 변했는가?**\n  A. AI 산업의 수익성 실현 속도가 시장의 기대치에 미치지 못하면서 고평가 논란이 불거졌기 때문이다. 특히 반도체 규제와 같은 외부 변수가 겹치며 AI 관련주에 쏠렸던 자금이 급격히 이탈하는 양상을 보이고 있다.\n- **Q. 외국인 투자자들이 특정 간담회 직후 매도세로 전환한 배경은 무엇인가?**\n  A. 국내 정치 및 정책적 불확실성이 해소되지 않으면서 투자 심리가 급격히 위축된 결과이다. 글로벌 증시 대비 국내 증시의 매력도가 낮아진 상황에서 외국인들이 리스크 관리 차원의 비중 축소에 나선 것으로 분석된다.\n- **Q. 개인 투자자들의 '본전 매도' 심리가 증시에 어떤 영향을 미치는가?**\n  A. 주가가 조금만 반등해도 손실을 만회하려는 매도 물량이 쏟아지는 상단 저항을 형성하게 된다. 이는 거래량 감소와 함께 지수의 하방 압력을 높여 추세적인 반등을 어렵게 만드는 요인이 된다.\n\n**👀 앞으로 볼 포인트**\n- 외국인 투자자의 순매도 지속 여부\n- AI 관련주에 대한 시장 평가 변화\n- 4,800선 지지 여부 및 기술적 반등 가능성\n\n<sub>참고: [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12MmZMUVpndEMwQjV1R2g0cEVjbDlWbUFmZ0lPSkR1U1ZDTGJBbTM5Uk1qRFVYRy1WcVN5Um80OXpRM2lnZ3I3cWN3NW44RUFiM2FQdUUwMkNiNks3Vy1UVi11Y2pUSGc?oc=5) / [한겨레](https://news.google.com/rss/articles/CBMickFVX3lxTFBZNXV5ZktDamN1SUdST2F2VXo0Uk1ONUJ1ZS1YZmFWMkxVX3dNd0pFRDdIb3ppTXRzRXZhSjVJQ25VUnVKZ1IxUGx5dXFTUjRRNmJkU3o2SVRSQ2hQNEhFR0xNa0J3Zk5MWVVjb19IaFJYQQ?oc=5) / [한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCVW5VazlkSUVSUEppYXdGbks3Nnl2NG5wVnZScElRX0tTc0wxdmlMT2NYSXkzWnNTUHZRcXFhZTYtdVdZNjFWZnNFQWF4aXg3YWc2bmVmRWdDQQ?oc=5)</sub>\n\n---\n\n### 2. K-제약바이오 신약 임상 성과 잇따라\n> 키워드: 제약사 신약 임상 결과 발표\n\n**📌 무슨 일이 있었나**\n- 아리바이오의 치매 치료제 AR1001이 글로벌 임상 3상에서 1차 유효성 평가 목표를 달성했다.\n- 한미약품은 항암 신약 2종의 임상 1상 데이터를 유럽종양학회(ESMO)에서 발표하며 기술력을 입증했다.\n- 휴온스는 경구용 비만 치료제 HUC1-622의 비임상 결과를 공개하며 차세대 약물 가능성을 제시했다.\n- 동아ST는 메타비아와 함께 비만 치료제 DA-1726의 전임상 비교 결과를 발표하며 경쟁력을 확인했다.\n- HK이노엔의 위식도역류질환 신약 케이캡이 브라질에서 품목 허가를 획득하며 남미 시장 진출을 본격화했다.\n\n**💬 핵심 Q&A**\n- **Q. 아리바이오가 달성한 임상 3상 1차 유효성 목표의 의미는 무엇인가?**\n  A. 글로벌 시장에서 상업화 가능성을 입증하는 가장 중요한 관문을 통과했다는 뜻이다. 이는 국내 기업이 개발한 치매 치료제가 세계 시장에서 경쟁할 수 있는 과학적 근거를 확보했음을 시사한다.\n- **Q. 경구용 비만 치료제 비임상 결과가 시장에서 주목받는 이유는 무엇인가?**\n  A. 기존 주사제 방식보다 복용 편의성이 뛰어나 시장 점유율을 빠르게 확대할 수 있기 때문이다. 휴온스와 동아ST의 연구 결과는 글로벌 비만 치료제 시장의 판도 변화를 예고하는 지표로 해석된다.\n- **Q. 국내 의료진의 임상 결과가 네이처 메디슨에 게재된 것이 왜 중요한가?**\n  A. 분당서울대병원 연구팀의 위암 임상 결과 게재는 한국의 임상 시험 수준이 세계 최고 권위지에 인정받았음을 의미한다. 이는 향후 글로벌 제약사들과의 공동 연구 및 신약 개발 협력에서 유리한 고지를 점하는 계기가 된다.\n\n**👀 앞으로 볼 포인트**\n- 아리바이오 AR1001의 최종 임상 데이터\n- 케이캡의 브라질 현지 출시 및 매출 추이\n- 한미약품 항암 신약의 글로벌 라이선스 아웃\n\n<sub>참고: [MEDI:GATE NEWS](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KcGJxMWtkaU1RRV9xOHY4U29faTI0V09yMlRLckJwY2g1OEEzajBEZzV1ZG5yaDJiVWZOMFgxNHRPaTNHM0JkTnNra3gya0RUTUxiWDhYaw?oc=5) / [MEDI:GATE NEWS](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtakUwcDRBWUFrRk8yMnpkZ0JRMjlkR04xcUtKaXJ0eW1VZFNrZW93RHlPYVc4SlB6STB2VW5reXFxMFhZMzBkRlJnUFd1SFRRVE1xLU4xQQ?oc=5) / [MEDI:GATE NEWS](https://news.google.com/rss/articles/CBMiV0FVX3lxTE13TEZuNGlEMktIWlUxalFHX2ZlRFc4VVJFZGx0UjgyVmdEUk04MHFLaE1XZDJrV0JvNUJUX1hQRHk5Ykh3QXdZaUVEeU9OVnMwMWlaOUpFZw?oc=5)</sub>\n\n---\n\n### 3. 2030년까지 4억 명 직무 재편 가속화\n> 키워드: AI 도입에 따른 직무 재편\n\n**📌 무슨 일이 있었나**\n- AI 기술 도입으로 인해 2030년까지 전 세계 직장인 4억 3,550만 명의 직무가 재편될 것으로 전망된다.\n- 한국은행 고용연구팀은 AI 활용을 통해 근로자들의 업무 시간이 평균 3.7시간 단축될 것으로 분석했다.\n- 미 연준은 AI가 경제 성장을 가속화하는 동시에 일자리 구조를 근본적으로 바꿀 세 가지 미래 시나리오를 검토 중이다.\n- 삼성서울병원은 수술 장면의 맥락을 인식하는 'AI 눈'을 개발하여 의료 현장의 직무 효율성을 높이고 있다.\n- AI는 단순 반복 업무를 넘어 전문직 영역까지 침투하며 고용 시장의 새로운 패러다임을 요구하고 있다.\n\n**💬 핵심 Q&A**\n- **Q. 업무 시간 3.7시간 단축이 고용 시장에 미치는 역설적인 영향은 무엇인가?**\n  A. 생산성 향상으로 이어질 수 있으나, 동일한 업무량에 필요한 인력이 줄어들어 신규 채용 감소나 인력 감축 압박으로 작용할 수 있다. 단축된 시간을 창의적 업무에 재배치하느냐가 기업 경쟁력의 핵심이 될 것이다.\n- **Q. 미 연준이 따져본 AI의 세 가지 미래 시나리오의 핵심은 무엇인가?**\n  A. AI가 노동력을 대체하는 속도와 새로운 일자리를 창출하는 속도 사이의 균형을 분석하는 것이다. 특히 AI가 인플레이션을 억제하는 생산성 도구가 될지, 아니면 소득 불평등을 심화시킬지에 초점을 맞추고 있다.\n- **Q. 의료 현장의 'AI 눈' 개발이 전문직 직무 재편에 시사하는 바는 무엇인가?**\n  A. 고도의 숙련도가 필요한 수술 영역에서도 AI가 보조 역할을 수행하며 인간의 실수를 줄이고 효율을 극대화할 수 있음을 보여준다. 이는 전문직의 역할이 '직접 수행'에서 'AI 시스템 관리 및 최종 판단'으로 이동함을 의미한다.\n\n**👀 앞으로 볼 포인트**\n- AI 도입에 따른 산업별 고용 지표 변화\n- 미 연준의 AI 경제 파급 효과 보고서\n- 정부의 직무 재교육 및 고용 안전망 정책\n\n<sub>참고: [매일경제](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9VS1dCM3g1d3U3SkRaN290dHRKUW1RZmZzU0pLY3dKSWFUMjJBSE1oemNBZHM1ZFJUVkdlY1l1Vl9yYUczTjBXeWdRQS1jZw?oc=5) / [MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTE14cFFoZ201M2RNdWNlOHNEbDl1dUxpZUJtLTRialQzSXhJYjF5aE1rdUh5LWpqczdRYzVocUViandBUVdIb1V0alJqU2h3Tk00anBjMnpqSldadHcxRllRYzEzeEJ1T3EzVE1leVFfaHZMOWNv0gF0QVVfeXFMTkV3aUlJZ1NSU3V0bUN4U0UxVVRQSE1qWXY3cHRucmpOUks4cHRmeXljcGdLQmhtMk1YMzJrbGtvX1J3dWVMalFGMEh1UlhqcVcyT2RySG9SeGR4bTA5OERXUnJCRTZKVC1iSnI2MjNGbDlJbU8?oc=5) / [한겨레](https://news.google.com/rss/articles/CBMickFVX3lxTFBZNXV5ZktDamN1SUdST2F2VXo0Uk1ONUJ1ZS1YZmFWMkxVX3dNd0pFRDdIb3ppTXRzRXZhSjVJQ25VUnVKZ1IxUGx5dXFTUjRRNmJkU3o2SVRSQ2hQNEhFR0xNa0J3Zk5MWVVjb19IaFJYQQ?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 젠슨 황 퇴진과 복귀 무산에 나스닥 폭락\n> 키워드: 젠슨 황 퇴진 및 복귀 논란\n\n**📌 무슨 일이 있었나**\n- 젠슨 황의 퇴진 소식과 유가 급등이 맞물리며 뉴욕증시 나스닥 지수가 0.4% 하락 마감했다.\n- 엔비디아 복귀 가능성을 두고 월가의 전망이 엇갈렸으나 최종적으로 복귀가 무산되었다는 소식이 전해졌다.\n- 복귀 무산 여파로 반도체주가 일제히 급락하며 나스닥 지수는 하루 만에 626포인트 폭락했다.\n- 젠슨 황의 거취를 둘러싼 불확실성이 커지면서 AI 산업 전반에 대한 투자 심리가 급격히 냉각되었다.\n- 시장에서는 젠슨 황의 부재가 엔비디아의 리더십 공백과 차세대 칩 개발 지연으로 이어질 것을 우려하고 있다.\n\n**💬 핵심 Q&A**\n- **Q. 왜 젠슨 황 한 명의 거취가 나스닥 626포인트 폭락이라는 극단적 결과를 초래했는가?**\n  A. 젠슨 황은 단순한 경영자를 넘어 AI 혁신의 상징적 인물로 평가받기 때문이다. 그의 부재는 엔비디아뿐만 아니라 AI 생태계 전체의 성장 속도가 둔화될 수 있다는 공포를 시장에 심어주었다.\n- **Q. 젠슨 황 복귀설이 시장에서 반복적으로 제기된 배경은 무엇인가?**\n  A. 엔비디아의 주가 급락을 막기 위한 시장의 희망 섞인 관측과 내부 경영권 승계 과정의 혼선이 겹쳤기 때문이다. 명확한 복귀 의사가 확인되지 않은 상태에서 흘러나온 루머가 시장 변동성을 키우는 독이 되었다.\n- **Q. 반도체주 '와르르' 현상이 향후 기술주 전반으로 확산될 가능성은 어떠한가?**\n  A. 엔비디아가 기술주 전체의 밸류에이션을 지탱하던 기둥이었기에 확산 가능성이 매우 높다. 반도체 공급망에 연결된 빅테크 기업들의 실적 전망치가 하향 조정될 경우 기술주 전반의 조정 국면이 길어질 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 엔비디아 차기 CEO 선임 절차\n- 나스닥 지수의 18,000선 지지 여부\n- 반도체 섹터 내 자금 유출입 동향\n\n<sub>참고: [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pUU9rX0VMZWZhX3pFRmdJNGtOTDg2YUtGYWpId3hXdlZIVHNXM3BiTTBia29mRnZ0bXNoTE5Jbk9LTDFKa0ZsUEZ6Rl9DWVJrTmZCbkVsTjhVODjSAWBBVV95cUxNc3lGX3hrdzNLWkE0RmR3VWN2VnhjMmJidGtzLWhMTEJKenRWWUR4OHhkSlRvUzhjajl1aElWN3VQbWpTOGhLYlpod3ZrWG5aT3pvd3pGbFlXMEFJVU50ZDE?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE5FY1JpVHpxOUQ4VXFBYjlMX1RRSGU4dmRYR2pqYm5abkk0NzBIWFFTMTBZclhBcUlnbFA0VlBMN1F5ZmpCZ21uQzNmOVFBX3NHdkgzaUZCazBTenZiY05aZUVJY0dUSlBTNG9tdlV1eHXSAXRBVV95cUxNamxEaDU2Rlc2OW9tSnhUdHJjR0had1g0SEhfTk12VHBlYUUtUnQ1aElDbjlLOVJQVDdWM0RPU3N4YlZjejNqWnFJQ2txcV94Y1NGQnUtQzlTa0FoMUl0S0NWcWVqTUxnMDFRb3N0Sm10eE5iZw?oc=5) / [MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTE9YWVBTS005ZDdMM3NMUDBQeWpKNlJra2lCZ0tnMXV4bkVnaHJjVzY3N2tGRHo4Mjh4bW1uNG9EZGlzNmZOUWdzYjRXUC1NVks4akZHaVg3OXViUFlRNHJVcUJxdVg5cUZOSVhwckJfZTBvVnpN0gF0QVVfeXFMUHpxRXRfYTExYzdqd0NVZGFBWFVOdUNqV0lUeUVyUTZIc3ByOU5mMG5MVXdqU1YtSDhJb2xqWEszRGFyWFFPcW9QcHdFRjV6cVp4dkF3SzVKeTQ5VU1hWEFKdElaaks2dTRQNElWZ0RhLV9QcWk?oc=5)</sub>\n\n---\n\n### 2. 미 물가 쇼크에 12월 빅스텝 가능성 부상\n> 키워드: 미국 물가 상승과 금리 인상\n\n**📌 무슨 일이 있었나**\n- 미국 소비자물가지수(CPI)가 시장 예상치를 웃돌면서 인플레이션 우려가 다시 확산되고 있다.\n- 물가 지표를 근거로 12월에 0.5%p 금리 인상을 고려할 수 있다.\n- 예상을 상회한 물가 발표 직후 나스닥 지수는 0.7% 하락하며 긴축 공포를 반영했다.\n- 국내 시장에서는 변동형 주택담보대출 금리가 고정형보다 높아지는 금리 역전 현상이 나타났다.\n- 기술주와 반도체주를 중심으로 매도세가 집중되면서 나스닥은 장중 2%대까지 밀려나며 하락 마감했다.\n\n**💬 핵심 Q&A**\n- **Q. 연준이 12월에 다시 0.5%p 인상인 '빅스텝'을 거론하게 된 결정적 이유는 무엇인가?**\n  A. 물가 상승세가 둔화될 것이라는 기대와 달리 CPI가 견고하게 유지되면서 인플레이션 고착화 위험이 커졌기 때문이다. 월러 이사의 발언은 시장의 조기 금리 인하 기대를 꺾고 강력한 긴축 의지를 재확인한 것으로 풀이된다.\n- **Q. 주택담보대출 금리 역전 현상이 가계 경제에 미치는 구체적인 위험은 무엇인가?**\n  A. 변동금리 차주들의 이자 부담이 고정금리보다 커지면서 가처분 소득이 급감하고 소비 위축으로 이어진다. 이는 부동산 시장의 거래 절벽을 심화시키고 가계 부채의 부실 위험을 높이는 트리거가 될 수 있다.\n- **Q. 물가 지표 발표 후 왜 유독 기술주와 반도체주의 하락폭이 컸는가?**\n  A. 금리 인상은 미래 수익을 현재 가치로 환산할 때 할인율을 높여 성장주인 기술주의 기업 가치를 깎아내리기 때문이다. 특히 막대한 설비 투자가 필요한 반도체 기업들은 조달 비용 상승 압박을 직접적으로 받게 된다.\n\n**👀 앞으로 볼 포인트**\n- 12월 FOMC 금리 결정 결과\n- 미국 국채 금리 및 주택담보대출 금리 추이\n- 추가 발표될 고용 및 소비 지표\n\n<sub>참고: [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WS2xWaGQ4b2RSUkhZUm5oblNJNFNaRXJFTmI2TTNQLW5YSlpvNnNPQnVjekNWZzl6RFB1Yy1oY3V5LUowR3M2VnE3VjBwM3NVTkZyUTZfUUtJVmc?oc=5) / [매일경제](https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wNjRPVkVlZGljWjg3QTVSbU9IRkcxeVJVaDZSN2dMWENfMjJyaXVTVGhtWlBCa25kcElXYlRuY3NuYmRLNTNHR1RXclZ3eC12M1Zydw?oc=5) / [서울신문](https://news.google.com/rss/articles/CBMifkFVX3lxTE5EeGtabjBQLVpnNFcwQ29KNlYtaWQyNENKSFpVTzJfTWdjNDV0TXBRdWNIMDV3X3U3ZTdZd21sSTFEeXNLOVhrZVVjMXBoOVJOdlU4S3E5NllHS1FNM2VzUlJvZmNLUUtYT3RoVkl3Y2xiM1VLTTliVWJCbl9DQQ?oc=5)</sub>\n\n---\n\n### 3. 나스닥 2.5% 급락하며 조정 국면 진입\n> 키워드: 나스닥 AI주 매도세 확산\n\n**📌 무슨 일이 있었나**\n- 나스닥 지수가 AI 관련주에 대한 투매 여파로 2.49% 급락하며 고점 대비 10% 하락한 조정장에 진입했다.\n- 엔비디아 주가는 하루 만에 4.1% 하락하며 AI주 매도세를 주도하는 모습을 보였다.\n- 젠슨 황 사임 여파와 실적 우려가 겹치면서 뉴욕 증시 3대 지수가 일제히 하락 마감했다.\n- 시장에서는 AI 산업의 고점 통과론이 확산되며 투자자들이 차익 실현에 적극적으로 나서고 있다.\n- AI주 매도세가 지속되면서 나스닥은 장중 한때 2.5%를 넘어서는 급락세를 연출했다.\n\n**💬 핵심 Q&A**\n- **Q. 나스닥이 '고점 대비 10% 하락'하여 조정 국면에 진입했다는 것은 무엇을 의미하는가?**\n  A. 단순한 일시적 하락을 넘어 시장의 추세가 하락세로 굳어질 수 있는 심리적 마지노선을 넘었다는 뜻이다. 이는 기관 투자자들이 포트폴리오를 재조정하고 보수적인 포지션으로 전환하는 신호탄이 된다.\n- **Q. 엔비디아 4.1% 하락이 다른 AI 관련주들로 빠르게 전이된 경로는 무엇인가?**\n  A. 엔비디아는 AI 밸류체인의 최상단에 위치하여 전체 섹터의 수익성을 가늠하는 척도 역할을 하기 때문이다. 대장주의 급락은 AI 서버, 소프트웨어, 전력 인프라 등 연관 산업 전반의 성장성에 대한 의구심으로 확산되었다.\n- **Q. AI주 투매 현상이 멈추기 위해 필요한 시장의 구체적인 분기점은 무엇인가?**\n  A. AI 도입 기업들이 실제 매출과 영업이익에서 유의미한 성과를 증명하거나, 엔비디아의 차세대 칩 수요가 여전히 강력하다는 데이터가 확인되어야 한다. 막연한 기대감이 아닌 실질적인 '숫자'가 확인될 때까지 변동성은 지속될 것으로 보인다.\n\n**👀 앞으로 볼 포인트**\n- 나스닥 지수의 추가 조정 및 지지선 확인\n- 엔비디아의 향후 실적 가이드라인 발표\n- AI 인프라 투자 규모 유지 여부\n\n<sub>참고: [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZOXJrdTAzXzJLeC1XbF8wZzBuaF9QU2dpZEdzc0h6ajczaTFOMC1WRW5JY1dZbVppenR5MjJ0TW85V0Q3VWc5cS1RMXQ4eDJCcGVFejAtdThjNkJ1ZlBtMlIwcEp0RFk?oc=5) / [조선일보](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbDlLMHE2MVhSU1lRZGZVZGNQckhES0lRS0RLRmtiMXIwcldwLVVDSEVUQUFlaWUwWkdYQmVuUUJHcmV4V1hwN1RETUZyNm5mRHhFZGVldWc0R2dvT1FSVnp1Z292eUJGV1ZubnRta3ZvNFEyR21DT0g5YjBHcDcxaGdwcTRiUEhR?oc=5) / [오피니언뉴스](https://news.google.com/rss/articles/CBMicEFVX3lxTE9GaWRHNnFzMWR6dThyMUlfQzlMY2FaeE8tcGtQek1CUGtMR0NmN0tLMjdITlk2ZHhCd2xHb3JOVnhMcmh6SDFmQ216S1lmLTJUVFVGWVVJNFpkQVpGMEZ2R1cyc0dSZ2JCU0tYbHJSek8?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 보도를 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
     "generation_mode": "gemini"
   },
-  "updated_at": "2026-11-18 12:54:18 KST"
+  "updated_at": "2026-11-18 17:19:25 KST"
 }
