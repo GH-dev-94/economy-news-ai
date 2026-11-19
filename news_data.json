@@ -6,91 +6,88 @@
     "domestic": {
       "keywords": [
         "수출 1조 달러 돌파",
-        "서울 아파트값 하락 전환",
-        "원달러 환율 하락세"
+        "수능날 바뀐 증시 시간표",
+        "서울 아파트값 하락 전환"
       ],
       "results": {
         "수출 1조 달러 돌파": {
-          "headline": "대한민국 수출 1조 달러 시대 개막",
+          "headline": "K-반도체·푸드 호조 속 연간 수출 1조 달러 돌파",
           "facts": [
-            "대한민국 연간 수출액이 반도체 수출 호조에 힘입어 사상 처음으로 1조 달러를 돌파하며 세계 수출 강국으로서의 입지를 굳혔다.",
-            "K-반도체가 수출 성장을 견인한 가운데 K-푸드 플러스 분야도 120억 달러를 넘어서며 역대 최고 실적을 기록해 수출 품목 다변화를 입증했다.",
-            "수출 1조 달러 달성 소식에 반도체 관련주가 강세를 보이며 코스피 지수는 5130선을 회복했고 원달러 환율은 하락세를 나타냈다.",
-            "미국 수출 규제 여파로 삼성전자와 TSMC가 일부 중국 고객사에 대한 반도체 출하를 중단하는 등 대외 통상 환경의 불확실성은 여전하다."
+            "대한민국 연간 수출액이 K-반도체의 강한 견인에 힘입어 사상 처음으로 1조 달러를 돌파했다.",
+            "농식품 및 연관산업을 아우르는 K-푸드+ 수출액 역시 120억 달러를 넘어서며 역대 최고 실적을 경신했다.",
+            "미국의 대중 수출통제 강화로 삼성전자와 TSMC가 중국 고객사에 대한 일부 첨단 반도체 출하를 중단하는 등 통상 악재가 병존하고 있다.",
+            "글로벌 강달러 기조 속에서도 원/달러 환율은 4일 연속 하락하며 1,330원 선에서 안정을 찾는 모습을 보였다."
           ],
           "watch": [
-            "반도체 추가 수출 규제 범위 및 대상",
-            "연말 K-푸드 최종 수출액 집계 결과",
-            "코스피 5200선 안착 여부와 외국인 수급"
+            "미 대중 수출통제 확대에 따른 반도체 출하 영향",
+            "K-푸드+ 주요 수출국의 물류비 및 통관 변수"
           ],
           "qna": [
             {
-              "q": "수출 1조 달러 달성이 국내 증시와 환율에 미친 즉각적인 영향은 무엇인가?",
-              "a": "수출 호조가 펀더멘털 개선 신호로 해석되면서 반도체주 중심의 매수세가 유입되어 코스피가 5130선을 회복했다. 동시에 외환 시장에서는 원화 가치가 상승하며 원달러 환율이 하락하는 안정세를 보였다."
+              "q": "반도체 호조 속 미 대중 수출통제 강화가 1조 달러 수출에 미칠 영향은 무엇인가?",
+              "a": "첨단 반도체 출하 중단 조치로 중국 향 매출 차질이 우려되나, K-푸드+ 등 수출 품목 다변화와 고부가가치 칩 수요가 이를 일부 상쇄하고 있다."
             },
             {
-              "q": "반도체 외에 K-푸드 실적이 역대 최고치를 경신한 원인은 어디에 있는가?",
-              "a": "K-푸드 플러스 분야가 120억 달러를 돌파한 것은 반도체에 편중된 수출 구조를 다변화하려는 노력이 결실을 본 결과이다. 이는 글로벌 시장 내 한국 식문화 확산과 가공식품의 경쟁력 강화가 맞물린 결과로 분석된다."
+              "q": "강달러 기조에도 원/달러 환율이 1,330원선으로 하락한 메커니즘은 무엇인가?",
+              "a": "수출 실적 호조로 인한 달러 공급 확대와 국내 증시 유입 자금이 달러 강세 압력을 누르며 환율 하락을 이끌었다."
             },
             {
-              "q": "미 수출 규제로 인한 삼성전자의 중국향 출하 중단이 향후 실적의 변수가 되는가?",
-              "a": "미국의 규제 여파로 TSMC와 삼성전자가 일부 중국 고객사 출하를 중단함에 따라 대중국 수출 비중이 높은 품목의 타격이 불가피하다. 1조 달러 달성 이후에도 이러한 지정학적 리스크가 수출 지속 가능성을 결정짓는 분기점이 될 전망이다."
+              "q": "1조 달러 달성 이후 수출 성장세를 유지하기 위한 핵심 분기점은 무엇인가?",
+              "a": "미국의 대중 제재 추가 수위와 글로벌 AI 반도체 투자 수요의 지속 여부가 향후 수출 향방을 갈라놓을 주요 변수이다."
+            }
+          ]
+        },
+        "수능날 바뀐 증시 시간표": {
+          "headline": "개장 지연에도 AI·한한령 해제 기대에 수능일 증시 안도",
+          "facts": [
+            "대학수학능력시험일 영향으로 정규 증시 개장 시간이 오전 10시로 1시간 늦춰지고 프리마켓이 휴장했다.",
+            "거래 시간 변경에도 불구하고 AI 투자심리 회복과 한한령 해제 기대감이 반영되며 증시 한파 없이 장을 마쳤다.",
+            "최근 코스피 5,000선이 붕괴되는 여파로 주식형 헤지펀드에서 3,400억 원의 자금이 순유출되는 변동성을 겪었다.",
+            "월가에서는 한국 증시 재평가를 통한 1만피 돌파 가능성과 추가 조정 가능성을 두고 시각이 극명하게 엇갈리고 있다."
+          ],
+          "watch": [
+            "수능일 이후 증시 거래량 회복 및 외국인 수급",
+            "코스피 5,000선 탈환 여부 및 주식형 펀드 자금 추이"
+          ],
+          "qna": [
+            {
+              "q": "개장 지연 변수 속에서 수능일 증시 한파를 피할 수 있었던 동인은 무엇인가?",
+              "a": "개장 시간 변경에 따른 변동성 우려에도 불구하고, 글로벌 AI 모멘텀과 한한령 해제에 대한 기대감이 매수세를 견인했다."
+            },
+            {
+              "q": "주식형 헤지펀드에서 3,400억 원이 유출된 배경과 시장 파급 효과는 무엇인가?",
+              "a": "코스피 5,000선 붕괴에 따른 리스크 관리 물량이 출회되었으며, 이는 증시 하방 압력을 높이는 요인으로 작용하고 있다."
+            },
+            {
+              "q": "1만피 돌파 전망과 추가 조정론이 대립하는 상황에서 추세 전환의 기준은 무엇인가?",
+              "a": "퇴직연금 제도 개혁을 통한 증시 유입 자금 규모와 상장사 실적 개선 여부가 평가를 가르는 분기점이 될 것이다."
             }
           ]
         },
         "서울 아파트값 하락 전환": {
-          "headline": "93주 만에 꺾인 서울 아파트값 하락 전환",
+          "headline": "93주 상승 이어가던 서울 아파트값, 한강벨트서 하락 전환",
           "facts": [
-            "93주 연속 상승세를 이어오던 서울 아파트값이 상승 동력을 잃고 하락세로 돌아서며 부동산 시장의 분위기 반전이 감지되었다.",
-            "그동안 견고한 상승세를 유지하던 용산구와 동작구 등 주요 지역마저 하락 전환하며 서울 전역으로 가격 조정이 확산되는 양상이다.",
-            "고금리 기조 유지와 대출 규제 강화로 인해 매수세가 위축된 가운데 강북권 중저가 단지를 중심으로 매물이 쌓이며 하락폭을 키웠다.",
-            "뉴욕증시에서도 유가와 금리 상승 여파로 다우와 S&P500 지수가 하락 전환하는 등 글로벌 자산 시장 전반에 하방 압력이 가해졌다."
+            "서울 아파트값이 93주 연속 상승세를 기록했으나, 한강벨트 주요 지역을 중심으로 하락 전환 단지가 속출하고 있다.",
+            "글로벌 시장에서는 유가와 금리가 상승세를 보이면서 뉴욕증시 주요 지수가 일제히 하락세로 돌아섰다.",
+            "10월 생산자물가지수는 농림수산품 가격 안정과 수요 감소의 영향으로 전월 대비 0.1% 하락했다.",
+            "환율이 10% 하락할 경우 가구당 연간 16만 5천 원의 생활비 절감 효과가 발생하는 것으로 분석되었다."
           ],
           "watch": [
-            "용산·동작구 추가 하락폭 및 매물 적체량",
-            "서울 아파트 매수우위지수 하락 지속 여부",
-            "연준 금리 인상 전망에 따른 대출 금리 변화"
+            "서울 한강벨트 아파트 실거래가 하락 폭 확대 여부",
+            "생산자물가 하락이 소비자물가에 미치는 시차 효과"
           ],
           "qna": [
             {
-              "q": "93주간 지속된 상승세가 용산과 동작구에서 먼저 꺾인 배경은 무엇인가?",
-              "a": "상승 랠리를 주도했던 핵심 지역에서 매수자들이 높은 가격대에 대한 피로감을 느끼며 관망세로 돌아섰기 때문이다. 대출 규제 강화로 자금 조달이 어려워진 점이 고가 지역의 거래 절벽과 가격 하락을 촉발했다."
+              "q": "93주간 오른 서울 아파트값이 한강벨트부터 하락 전환한 요인은 무엇인가?",
+              "a": "단기 급등에 따른 피로감과 함께 고금리 장기화 및 대출 규제 강화가 선도 지역의 매수 심리를 위축시킨 결과이다."
             },
             {
-              "q": "뉴욕증시의 하락 전환이 국내 부동산 시장 심리에 어떤 경로로 영향을 미치는가?",
-              "a": "미국 국채 금리와 유가 상승으로 인한 뉴욕증시 하락은 국내 시중 금리 상승 압박으로 이어진다. 이는 주택 담보 대출 금리 상단을 높여 가계의 이자 부담을 가중시키고 부동산 매수 심리를 추가로 위축시키는 경로를 밟는다."
+              "q": "생산자물가지수 하락과 환율 안정이 가계 경제에 미치는 파급 경로는 무엇인가?",
+              "a": "생산자물가 0.1% 하락과 환율 안정은 수입 물가를 낮춰 가구당 연 16만 5천 원 수준의 생활비 절감 효과로 이어진다."
             },
             {
-              "q": "향후 서울 아파트값의 추가 하락을 결정지을 핵심 경제 지표는 무엇인가?",
-              "a": "연준의 추가 금리 인상 여부와 그에 따른 국내 기준금리 향방이 가장 중요한 분기점이다. 특히 강북권 중저가 아파트의 매물 소화 속도와 경매 낙찰률이 시장의 바닥을 가늠하는 지표가 될 것이다."
-            }
-          ]
-        },
-        "원달러 환율 하락세": {
-          "headline": "달러 강세 속 원달러 환율 1,330원대 진입",
-          "facts": [
-            "글로벌 달러화가 최고치를 경신하는 강세장 속에서도 원달러 환율은 4일 연속 하락하며 1,330원선까지 내려앉는 이례적 흐름을 보였다.",
-            "환율이 10% 하락할 경우 수입 물가 안정 효과로 인해 가구당 연간 생활비가 약 16만 5천 원 절감되는 것으로 나타났다.",
-            "수출 1조 달러 돌파라는 대형 호재가 유입되면서 외환 시장에서 원화 가치가 방어력을 확보하며 환율 하락을 견인한 것으로 풀이된다.",
-            "코스피와 코스닥 지수가 동반 상승하고 외국인 투자 자금이 유입된 점도 환율 하락 압력을 가중시키는 주요 요인으로 작용했다."
-          ],
-          "watch": [
-            "원달러 환율 1,300원선 지지 여부",
-            "한국은행의 추가 물가 안정 분석 보고서",
-            "외국인 투자자의 국내 증시 순매수 규모"
-          ],
-          "qna": [
-            {
-              "q": "달러 인덱스가 최고치인데 원달러 환율만 4일 연속 하락한 역설적 이유는 무엇인가?",
-              "a": "수출 1조 달러 돌파라는 강력한 경제 펀더멘털 확인이 원화에 대한 신뢰를 높였기 때문이다. 또한 국내 증시 상승에 따른 외국인 자금 유입이 달러 공급을 늘리며 글로벌 달러 강세 압력을 상쇄했다."
-            },
-            {
-              "q": "환율 10% 하락 시 가구당 생활비가 16만 5천 원 절감되는 구체적인 메커니즘은 무엇인가?",
-              "a": "환율이 떨어지면 에너지와 식료품 등 수입 원자재 가격이 낮아져 국내 소비자 물가가 하락한다. 이는 가계의 실질 구매력을 높여 필수 소비재 지출 부담을 줄여주는 직접적인 효과를 낸다."
-            },
-            {
-              "q": "수출 1조 달러 달성이 외환 시장의 수급 구조를 어떻게 변화시켰는가?",
-              "a": "수출 대금으로 유입되는 달러 물량이 역대 최대 수준으로 늘어나면서 시장 내 달러 공급 우위 환경이 조성되었다. 이는 대외 변동성에도 불구하고 원화 가치가 급격히 추락하는 것을 막는 강력한 완충 장치 역할을 한다."
+              "q": "한강벨트 하락세가 서울 전체 아파트 시장으로 확산될 분기점은 어디인가?",
+              "a": "기준금리 향방과 주택담보대출 금리 변동, 그리고 주요 재건축 물량의 매물 소화 속도가 핵심 변수이다."
             }
           ]
         }
@@ -102,7 +99,7 @@
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52T21HOURqWGNIQUpyUm9vYXFsZ01jbS02T01ObTJhOGNMVnR0VEJ1akxyTk9mdHpSemlDWGtvYnhNQk1lOW5FVk1nUnh3MVI5dENqNEhR?oc=5",
             "source": "지디넷코리아",
             "published": "11-19 14:29",
-            "snippet": "대한민국 수출 1조 달러 돌파…K-반도체가 해냈다 지디넷코리아 반도체 호황에 수출 1조 달러 달성‥세계 4번째 MBC 뉴스 수출 1조달러 기념…내달 3일 한강 밤하늘에 드론 1천대 뜬다 연합뉴스 AI가 이끈 수출 1조 달러…반도체 의존 속 새 성장동력 찾기 전기신문 ‘반도체 축복’ 이후가 걱정⋯ 높아지는 보호무역 장벽 넘어야 국민일보"
+            "snippet": "대한민국 수출 1조 달러 돌파…K-반도체가 해냈다 지디넷코리아 수출 1조달러 돌파, 獨·美·中 이어 4번째 조선일보 “美·中·EU 무역장벽, 中 저가공세…새 수출품목 키워 대응해야” 마켓인 이 대통령, ‘수출 1조 달러’ 달성에 “국민 모두의 노력이 만든 결실” KBS 뉴스 \"내년 수출 1.3조달러\" 훈풍 기대 속…\"나만 팍팍해?\" 내수는 '한파' - 머니투데이 머니투데이"
           },
           {
             "title": "수출 1조 달러 시대…'K-푸드+' 120억 달러 돌파, 역대 최고 - 대한민국 정책브리핑",
@@ -112,85 +109,106 @@
             "snippet": "수출 1조 달러 시대…'K-푸드+' 120억 달러 돌파, 역대 최고 대한민국 정책브리핑 Google 뉴스에서 헤드라인 및 의견 더보기"
           },
           {
-            "title": "수출 1조달러 훈풍에 반도체주 강세…코스피 5130선 회복 - 뉴스토마토",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LbFFULUhzMTBKR2NtTFlrQnJxeldTZzhtVUNEWFNTcU5oc1lUbjNRdVhRZE1jb0FYMjRuWVg4SDcyeDJIdFdkNGxZX1RWYzZvM0xQUTBpSDVOMmpTcUJxSw?oc=5",
-            "source": "뉴스토마토",
-            "published": "11-19 17:09",
-            "snippet": "수출 1조달러 훈풍에 반도체주 강세…코스피 5130선 회복 뉴스토마토"
+            "title": "\"삼성전자·TSMC, 中에 일부 칩 출하 중단…美 수출통제\" - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fSkxqZjRRWXJlSldwR1NTUWhaRzRkM3JMWGowbUVSTmhKUjh6azVia0dRTGJqVk9WNGZ3cF83V05WUWV1bXFmZDAzTFpCT3N5aUp0MDg5SDdsRndtUHVSaFJQVWRMWllSSHRac2RSVEQ?oc=5",
+            "source": "연합인포맥스",
+            "published": "11-20 08:08",
+            "snippet": "\"삼성전자·TSMC, 中에 일부 칩 출하 중단…美 수출통제\" 연합인포맥스 미국, 중국의 AI 원격 접속 차단…중국, 강력 반발 KBS 뉴스 美, 작년말부터 6개월간 中기업에 첨단칩 90만개 수출 승인 매일경제 마켓 美 반도체 수출 통제 요지경… “텐센트 등 ‘중국軍 지원 기업’에 87만개 승인” 조선일보 FT \"삼성전자·TSMC, 중국에 일부 칩 출하 중단\" 연합뉴스"
           },
           {
-            "title": "코스피-코스닥 '상승', 원달러환율 '하락' - 뉴스1",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nSXU4Uk1LQndMWXVJbXpzTkowV0VnNk1vSE8zVnpUYktCSVlpR1NhUHd3cWVxejIzOURlSVhhb0pMa2xFa3VRX05lTQ?oc=5",
+            "title": "달러 또 최고치 경신인데…환율 4일 연속 하락해 1,330원선 - 한국무역협회-KITA.NET",
+            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNDc3ZFZieG1sSHdaQ0xVSjc2djFsZUdPTzZLWXk1clZndWVQeEUzUzEzcGxmVHNTX0s1U0RwM1VYX3FvdFc2M1FzSWVlUWlnaXlZQW5oQ0VvNUtLVFY5NmMta3B0bE9WOGdoeTZES2V1SGdONldsMHJ3Tm92SGlOQnp6by1nTGpJSmtacXo1b3JCbmVuZW5kZ1FEbXVlTkdpdnFIZHoxc2FPeW9Ka1d0UDM0cXVlRFZ5N2R3SmU1NUJHUDRFcU1BbUUzd21WdWlicC00X2tn?oc=5",
+            "source": "한국무역협회-KITA.NET",
+            "published": "11-19 16:15",
+            "snippet": "달러 또 최고치 경신인데…환율 4일 연속 하락해 1,330원선 한국무역협회-KITA.NET Google 뉴스에서 헤드라인 및 의견 더보기"
+          },
+          {
+            "title": "앤트로픽, 나스닥 데뷔 첫날 17% 상승 마감…종가 97.17달러 - 지디넷코리아",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wd3U4Sk9pNnE3YkY0SkJvYnJ4OTZ2U2xOWWt6eVZNTUt0YU8weHh5SDlEUTVRWVJXUTV4dUxWaS1jQkZEQnp2MTNkM0pTWUNXb0Q5WHFn?oc=5",
+            "source": "지디넷코리아",
+            "published": "11-20 08:02",
+            "snippet": "앤트로픽, 나스닥 데뷔 첫날 17% 상승 마감…종가 97.17달러 지디넷코리아"
+          },
+          {
+            "title": "[뉴욕 금가격] 연준 긴축 우려·강달러에 1.4%↓…14개월來 최저 - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81RHhUM05NZlF6NHFIU0tCb3VrcHhtOVZ0TUx0dUtpcjJQZ2hkQnctSXJfWW4yZ1VQUTN3dEtoV2Q3VTFEZk1WWUUycmx3TUVnTE5FN3NZRllnMy1aSzh5TVFxVnE1dG9XTDFQZ2RWNDQ?oc=5",
+            "source": "연합인포맥스",
+            "published": "11-20 04:43",
+            "snippet": "[뉴욕 금가격] 연준 긴축 우려·강달러에 1.4%↓…14개월來 최저 연합인포맥스"
+          }
+        ],
+        "수능날 바뀐 증시 시간표": [
+          {
+            "title": "\"개장은 10시, 프리마켓 휴무\"…수능 날 바뀐 증시 시간표 - 뉴스1",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55dnpFRnFFWXJWaDFud3RUUEFJdkxNUFZRYlYzeVNzMElZS2dyeF9zNmRSd3l0MEVCd1AtNk5Sb2hGV1ZhUklYMzh5UkdZXy1UWGFEdWpEUnpRWUZoOFpZ?oc=5",
             "source": "뉴스1",
-            "published": "11-19 16:51",
-            "snippet": "코스피-코스닥 '상승', 원달러환율 '하락' 뉴스1 코스피, 앤트로픽 상장 앞두고 등락 끝에 1.4% 상승 마감(종합) 연합뉴스 \"AI 투자심리·한한령 풀리나\" 기대감… 수능일 '증시 한파' 없었다 - 머니투데이 머니투데이 엔비디아 호실적·앤트로픽 IPO 겹호재에도…외국인 ‘셀코리아’ 여전 세계일보 코스피 장중 외국인·기관 매도에 5000선 아래로, 코스닥도 1%대 하락 전환 비즈니스포스트"
+            "published": "11-19 06:00",
+            "snippet": "\"개장은 10시, 프리마켓 휴무\"…수능 날 바뀐 증시 시간표 뉴스1 수능에 오전 10시 개장한 증시...코스피 상승 출발 YTN 오늘 수능시험으로 증시 1시간 늦게 개장 KBS 뉴스 “10시까지 출근 아니었어요?”…대기업 직장인이 수능날 지각한 까닭 매일경제 수능날엔 주가 떨어진다?…10년치 코스피 성적표 살펴보니 한국경제"
           },
           {
-            "title": "FT \"TSMC·삼성전자, 일부 중국 고객사에 반도체 출하 중단…美 수출 규제 여파\" - 뉴스핌",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LbUFWYW9VMEF1Vlgwd1R1NGpEUXAwWlhnZlByaGgyUmhLclhxbGxwaEFfNGd1LXU2ZE9MbGlZcFlHUTAzTEpqMHJPUEZEZFNSWndXenlGS01jLXRw?oc=5",
-            "source": "뉴스핌",
-            "published": "11-19 20:03",
-            "snippet": "FT \"TSMC·삼성전자, 일부 중국 고객사에 반도체 출하 중단…美 수출 규제 여파\" 뉴스핌 미국, 중국의 AI 원격 접속 차단…중국, 강력 반발 KBS 뉴스 [신문은 선생님] [한입 테크 사전] 美 반도체 수출 통제하자… 中 기업, GPU 아껴 핵심 정보만 고르는 AI 만들었어요 조선일보 FT\"삼성전자·TSMC, 중국 고객사에 반도체 출하 중단 통보\" - 머니투데이 머니투데이 칩·부품 통제론 모자라… 美, 중국산 AI 사용 내역 공개 방안 논"
+            "title": "\"AI 투자심리·한한령 풀리나\" 기대감… 수능일 '증시 한파' 없었다 - 머니투데이 - 머니투데이",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oT3ZCSEV6OWNCdU5EN1F3R2ZLTjd5VFNBdkZoTkVkVXhfdXpvWDFCa0M5MlNxVHNxUERjUU1qVnYzT3pqbnlSb0JjdDQ1QVc4UXNrV2JGZWdpemdjMUVoRnlkUUFINTZH0gFuQVVfeXFMUFZTWERzbllYcUt3UlRhck9ycEVfMVZqdXhxUVd6ZlFTUlV5NGZWTXZ2NTlTSzRMYkUzOXBvM3lWT0QtMmp2cE1QWTF3WUxBd05OZ0lGMDZqV29DdXJPQ2Rtcm45bVI2eU1MMkJMZGc?oc=5",
+            "source": "머니투데이",
+            "published": "11-20 04:17",
+            "snippet": "\"AI 투자심리·한한령 풀리나\" 기대감… 수능일 '증시 한파' 없었다 - 머니투데이 머니투데이 양대증시 상승 마감…앤트로픽 IPO에 반도체 투자심리 회복되나 머니투데이 장중 5천 선 오르내린 코스피, 1.4% 상승하며 5,100선 회복 MBC 뉴스 \"11월 말~12월 10일, 4500선 안 깨지길\"…수급 꼬인 변동성 장세 전망 뉴시스 코스피 장중 외국인·기관 매도에 5000선 아래로, 코스닥도 1%대 하락 전환 비즈니스포스트"
           },
           {
-            "title": "안 찾아간 실손보험금 최대 1조 원‥내년부터 앱이 찾아준다 - MBC 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oYlkyY2ZLejN4czRweUI0ckg4LWxqU3JrSC1HVTJyWURFUDZqdXZHVDRyamhVcWszc2g0Y3E3WEk4aXRVZlVMcE1JelFFQ3U5bWJCbHB3QUJnQllEUjZJWWZmeV9tOXRVNlJvbXh6a2lnNVhi0gF0QVVfeXFMTWpmSkZtWlh1djUxaTJSNG5vQVBIdEhwalR5TkhIS3RDcEYxLUhFS0ppQk95UmlqQl9LWE90andqY3NYUGs5eHpmdmFDSlhBdG45WTVCRUNLOXBNTllMUDRxMEVEVm9GejR0T0NBajZzMThfaEM?oc=5",
-            "source": "MBC 뉴스",
+            "title": "증시 고래, 퇴직연금 ‘메기’ 될까 [연금 구조개혁]⑪ - KBS 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lOFNLLThwS2NhR2lRRVdDdjFuNDZxUlRCeWJpQzdUS1pSWEdTZG1USjdzTzZuRmRTX0JuOU1VLWRJU1hYSzctTTd1bXBEMTVQWmdmR3U4SG5TWnBqelpYekJXNkRnQQ?oc=5",
+            "source": "KBS 뉴스",
+            "published": "11-19 14:05",
+            "snippet": "증시 고래, 퇴직연금 ‘메기’ 될까 [연금 구조개혁]⑪ KBS 뉴스 “변동성 큰 시장… 퇴직연금, 국채 밑바탕 ETF 비중 30% 이하로” 동아일보 금감원 \"퇴직연금 단기실적 경쟁안돼…변칙 고금리 등 엄정대응\" 연합뉴스 금감원, 퇴직연금 업계 '과당경쟁' 질타…\"책무 망각 말라\" 연합인포맥스 “퇴직연금 501조 시대, 수령 계좌 10개 중 8개는 ‘일시금’” 이투데이"
+          },
+          {
+            "title": "5천피 무너진 증시…'주식형 헤지펀드'도 3천400억원 자금 순유출 - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05WDVncGVtU1NhNHRRcHZPVnRwajZ6cHRzVnFra0IwenRURXZDbUJEYm42V2hfRi1fUkx0WUF1dk1GaFR2aEVLS201THVFMjFHQjVodGM5TVVVMHFaSmRKSldUN0VrNTVqbXEzeHNZTHk?oc=5",
+            "source": "연합인포맥스",
             "published": "11-19 14:15",
-            "snippet": "안 찾아간 실손보험금 최대 1조 원‥내년부터 앱이 찾아준다 MBC 뉴스 최근 3년 놓친 실손보험금, 내년부터 '실손24'서 확인·청구 대한민국 정책브리핑 1·2세대 실손보험가입자, 5세대로 전환하면 3년간 보험료 반값 동아일보 3년간 1조 쌓인 미청구 보험금 찾아준다…23일부터 5세대 할인 연합뉴스 잊고 있던 실손보험금 3년치…‘실손24’ 앱에서 한 번에 경향신문"
+            "snippet": "5천피 무너진 증시…'주식형 헤지펀드'도 3천400억원 자금 순유출 연합인포맥스 증시 대기자금, 85조원 밑으로…다시 연중최저 수준으로 감소 연합뉴스 투자자 예탁금 연저점 수준 급감…주식투자 매력↓ 매일경제 마켓 증시 유동성 유출 지속…투자자예탁금 85조 아래로 후퇴 글로벌이코노믹 말라가는 증시 실탄…예탁금, 84조 원대로 연중 최저치 경신 [마켓시그널] 서울경제"
+          },
+          {
+            "title": "“증시 재평가, 1만피 돌파한다”…조마조마 코스피에 월가 전망 엇갈려 - 매일경제 마켓",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95a0NaXzMzaG1uaF9ZVDRFZURZRkcweVNJbmRfalMtVThLdWRUVlIxN2p2YTh5d0otTTk1UFU1X3VDWjVrYlZyV2dlZC0wT2tDd3c?oc=5",
+            "source": "매일경제 마켓",
+            "published": "11-20 08:19",
+            "snippet": "“증시 재평가, 1만피 돌파한다”…조마조마 코스피에 월가 전망 엇갈려 매일경제 마켓"
+          },
+          {
+            "title": "[마켓뷰] 앤트로픽 상장에도 美증시 하락…코스피 향배는 - 매일경제 마켓",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRejlXYldwNDEzLWsxalJGMDNNWkxQVHZ6ZHRtRGRxRFdBRXRPaEU2TGxlUnMzekpXaGFSOEktYmhjUHNndWVfb1FlcGFBalRYMnc?oc=5",
+            "source": "매일경제 마켓",
+            "published": "11-20 08:01",
+            "snippet": "[마켓뷰] 앤트로픽 상장에도 美증시 하락…코스피 향배는 매일경제 마켓"
           }
         ],
         "서울 아파트값 하락 전환": [
           {
-            "title": "93주 연속 올랐지만 힘 빠진 서울 아파트값… 용산·동작구도 하락 전환 - Chosunbiz",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbmZ0cFhGQ1Q3NjdzN052c0stYXB0bUpPdGtOR09vdF9wY2pCRWJ2RFU4NkxwUDNFYldDVzRDVHpjaDktR1IwbFpOYk1DUW5RYUlUUHJvN0FnT3JkNFV0NHZJMkdtcFc0M080bFctVUZiNE1kS1ItT0dJOUNvSklabmVDWDBOUzlJeVp6NUlMWUVBb2F1MjJ1NtIBrAFBVV95cUxOckpCNGtmbTU1Q1JBdUhJMHdqYUlkMnFob0dIZHp2NTBqWk9FQVdDemxKU09hZU5KNGwxT3BzbWl2eFl0ZE1Vc3JTd2ZHYTZHbTZWdERmMWw5RUoxTEJYWWY4aWU2QkxQc3d1SWQ3MEdLSWp5M3ZnNjgzN3phYjFYX1ZVdDAyNWpVUGJkYndDenctUXBpNjFteTUxdnJSOWpaX0Y4WVBaMS1PcW1x?oc=5",
-            "source": "Chosunbiz",
-            "published": "11-19 15:24",
-            "snippet": "93주 연속 올랐지만 힘 빠진 서울 아파트값… 용산·동작구도 하락 전환 Chosunbiz ‘한강벨트’ 용산·동작도 집값 하락 경향신문 [사설]집값 상승 둔화, 더 시급한 건 전월세 안정 - 머니투데이 머니투데이 [그래픽] 서울 아파트 매매가격지수 변동률 추이 뉴스1 KB부동산 \"강남 3구 이어 용산구도 하락 전환…동탄구 0.87%↑\" 연합인포맥스"
+            "title": "서울 아파트값 93주째 올랐지만 한강벨트 속속 하락 전환 - JTBC",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05WFFYTGNxV25zeGhwN0RZc0JwRTlVQnNoZW1yVVJHVjY3QTNqUDY3dlhaeWhLOWNpaDNYS1JOVnJkU3B6QXVfdzVEVzlzMFhnSGxFcw?oc=5",
+            "source": "JTBC",
+            "published": "11-19 18:06",
+            "snippet": "서울 아파트값 93주째 올랐지만 한강벨트 속속 하락 전환 JTBC 봄 이사철 '전세 가뭄' 심해질 텐데…치솟는 전셋값, 꺾이는 집값 흔든다 - 머니투데이 머니투데이 ‘한강벨트’ 용산·동작도 집값 하락 경향신문 KB부동산 \"강남 3구 이어 용산구도 하락 전환…동탄구 0.87%↑\" 연합인포맥스 같은 동네 집값 오르락내리락…뭘 믿어야 하나 [심형석의 부동산 정석] 한국경제"
           },
           {
             "title": "앤스로픽 기대에 뛰던 뉴욕증시… 유가·금리 오르자 다우·S&P500 하락 전환 - 조선일보",
             "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZkozS3U3U05LNGRJZTcza3JMSmtaWVdGT00zUGdlMzVHcUdZc2tzRlJPcVIzbFhtSDhRZWNLZGtjZTVUemlNSnJQRUYtU0l0T2Q4ZGFLbUdEb1N3RFVkc0FLR0wxblBRSWVHZzQ5eDd5cU9BQTdVMzhwVVMzMUNaMWFab1AzRXUw?oc=5",
             "source": "조선일보",
-            "published": "11-20 01:07",
+            "published": "11-20 01:00",
             "snippet": "앤스로픽 기대에 뛰던 뉴욕증시… 유가·금리 오르자 다우·S&P500 하락 전환 조선일보"
           },
           {
-            "title": "[뉴욕증시]다우 하락세로 전환…나스닥, 1.7% ↑ - 아시아경제",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBN0ZPd3FOb3lTSlZrSklreDVMcXZ3cUFwSWpON3RZSldDOFQxY0NxTUIxa0N2Y1hGQTYwMkNhRnE2UHVJMzB6ZUZ1NlQyX1hBdXJhdTVYaHh1Tm4xSkptRg?oc=5",
-            "source": "아시아경제",
-            "published": "11-20 00:04",
-            "snippet": "[뉴욕증시]다우 하락세로 전환…나스닥, 1.7% ↑ 아시아경제"
+            "title": "[서울데이터랩]미 뉴욕증시 급락 마감…다우 2.19%·나스닥 2.25% 하락 - 서울신문",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8ya2NTTVh3c0REdElqdmp4MGt4SjcwdHVTazlDSXllLXVuS3R5NG05REJUWnN0MFFtaHpGanZydHdHdm85aUdHekZWYldXeHpwUTFZb2FjXzNZeDJJdDRndy02MDZ6S0Ewb2o4M0lHMXpUTHRPZXAw?oc=5",
+            "source": "서울신문",
+            "published": "11-20 06:27",
+            "snippet": "[서울데이터랩]미 뉴욕증시 급락 마감…다우 2.19%·나스닥 2.25% 하락 서울신문"
           },
           {
-            "title": "뉴욕증시, 하락세로 전환…나스닥 1.50%↓ - 블루밍비트",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kSDFveG9Kem5qcUdacHVHSGVPU00tdXRSVkRCRl9xYnEwUXo2cHVtZl9zcGktd0JPTmxhTnVNdDUyMnloaW5JZGJWVVA0RFRp?oc=5",
-            "source": "블루밍비트",
-            "published": "11-20 02:08",
-            "snippet": "뉴욕증시, 하락세로 전환…나스닥 1.50%↓ 블루밍비트"
-          },
-          {
-            "title": "코스피-코스닥 '상승', 원달러환율 '하락' - 뉴스1",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nSXU4Uk1LQndMWXVJbXpzTkowV0VnNk1vSE8zVnpUYktCSVlpR1NhUHd3cWVxejIzOURlSVhhb0pMa2xFa3VRX05lTQ?oc=5",
-            "source": "뉴스1",
-            "published": "11-19 16:51",
-            "snippet": "코스피-코스닥 '상승', 원달러환율 '하락' 뉴스1 코스피, 앤트로픽 상장 앞두고 등락 끝에 1.4% 상승 마감(종합) 연합뉴스 \"AI 투자심리·한한령 풀리나\" 기대감… 수능일 '증시 한파' 없었다 - 머니투데이 머니투데이 엔비디아 호실적·앤트로픽 IPO 겹호재에도…외국인 ‘셀코리아’ 여전 세계일보 코스피 장중 외국인·기관 매도에 5000선 아래로, 코스닥도 1%대 하락 전환 비즈니스포스트"
-          },
-          {
-            "title": "美 국채가, 전반적 하락…주가지수 강세에 안전 선호↓ - 연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YTkNodzdwd2lsa0Y0ZTdkT01USFdqRk9Zd0JtbnBhSHZhS2RDMGo4M0pzQWlNRUFXSnNTamhBNExuV2pzVGVYWDNRNURWMXoxa0taWTdKTG9fZ0tVRDRTYURyZmVQZ3VOYk10c011Y1U?oc=5",
-            "source": "연합인포맥스",
-            "published": "11-20 01:40",
-            "snippet": "美 국채가, 전반적 하락…주가지수 강세에 안전 선호↓ 연합인포맥스 \"서학개미들 어쩌나\"…미국발 심상찮은 신호에 '초긴장' [분석+] 한국경제 연준 의사록 보니… “금리 더 올려야” 거의 한목소리, 12월 ‘빅스텝’도 거론 조선일보 연준 부의장 \"기대 인플레 목표에 고정 못하면 더욱 강력한 대응 정당화\" 연합인포맥스 JP모건 \"연준, 향후 3회 연속 25bp 금리인상 전망\" 연합인포맥스"
-          }
-        ],
-        "원달러 환율 하락세": [
-          {
-            "title": "코스피-코스닥 '상승', 원달러환율 '하락' - 뉴스1",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nSXU4Uk1LQndMWXVJbXpzTkowV0VnNk1vSE8zVnpUYktCSVlpR1NhUHd3cWVxejIzOURlSVhhb0pMa2xFa3VRX05lTQ?oc=5",
-            "source": "뉴스1",
-            "published": "11-19 16:51",
-            "snippet": "코스피-코스닥 '상승', 원달러환율 '하락' 뉴스1 코스피, 앤트로픽 상장 앞두고 등락 끝에 1.4% 상승 마감(종합) 연합뉴스 \"AI 투자심리·한한령 풀리나\" 기대감… 수능일 '증시 한파' 없었다 - 머니투데이 머니투데이 엔비디아 호실적·앤트로픽 IPO 겹호재에도…외국인 ‘셀코리아’ 여전 세계일보 코스피 장중 외국인·기관 매도에 5000선 아래로, 코스닥도 1%대 하락 전환 비즈니스포스트"
+            "title": "기상호조·수요감소로 농림수산품 내려‥10월 생산자물가지수 0.1% 하락 - MBC 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zcjE1cHUxaU1FeVZfaGJ0QjJ3TFZPaU1ub3U3UEpOVThlN2ZZNEVBV0M2QzQ5aVVET0tyY1NNQndHMHRvZUV2aGFTbjhPMTZaNzdzRks0bFFrMzBabzhxYTJ4MDhCZi1WUEY5OHMtNzh5TExi0gF0QVVfeXFMT3JILUdMMUZCZWFreE9lNHU5NHNKY1hyS1ZyMG9RVnBJeWtuLV9rTTJuVWxhTGRnU2Rad19sSV82aTNoZ2RUbEZOb1pHLVdtcGV1a29XRWVCZ3FoOEpxOTkxQ3E0YTY2U0xVZ0FvOHBEMDFNa0o?oc=5",
+            "source": "MBC 뉴스",
+            "published": "11-20 06:01",
+            "snippet": "기상호조·수요감소로 농림수산품 내려‥10월 생산자물가지수 0.1% 하락 MBC 뉴스 10월 생산자물가 0.1% 하락…사과 29.2%·돼지고기 12.8%↓ 연합뉴스 10월 생산자물가 0.1% 내려…석달 만에 하락세로 돌아서 한겨레 사과·돼지고기 내림세에 10월 생산자물가, 석 달 만에 하락 전환 조선일보 사과 29%·돼지고기 13%↓…생산자물가 석 달 만에 하락 매일경제 마켓"
           },
           {
             "title": "달러 또 최고치 경신인데…환율 4일 연속 하락해 1,330원선 - 한국무역협회-KITA.NET",
@@ -205,27 +223,6 @@
             "source": "한국무역협회-KITA.NET",
             "published": "11-19 13:11",
             "snippet": "한은 \"환율 10% 하락하면 가구당 생활비 연 16만5천원 절감\" 한국무역협회-KITA.NET Google 뉴스에서 헤드라인 및 의견 더보기"
-          },
-          {
-            "title": "[뉴욕증시]다우 하락세로 전환…나스닥, 1.7% ↑ - 아시아경제",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBN0ZPd3FOb3lTSlZrSklreDVMcXZ3cUFwSWpON3RZSldDOFQxY0NxTUIxa0N2Y1hGQTYwMkNhRnE2UHVJMzB6ZUZ1NlQyX1hBdXJhdTVYaHh1Tm4xSkptRg?oc=5",
-            "source": "아시아경제",
-            "published": "11-20 00:04",
-            "snippet": "[뉴욕증시]다우 하락세로 전환…나스닥, 1.7% ↑ 아시아경제"
-          },
-          {
-            "title": "뉴욕증시, 하락세로 전환…나스닥 1.50%↓ - 블루밍비트",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kSDFveG9Kem5qcUdacHVHSGVPU00tdXRSVkRCRl9xYnEwUXo2cHVtZl9zcGktd0JPTmxhTnVNdDUyMnloaW5JZGJWVVA0RFRp?oc=5",
-            "source": "블루밍비트",
-            "published": "11-20 02:08",
-            "snippet": "뉴욕증시, 하락세로 전환…나스닥 1.50%↓ 블루밍비트"
-          },
-          {
-            "title": "달러 또 최고치 경신인데…환율 4일 연속 하락해 1,330원선 - 연합뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mOVdCUEVvYkt4dXdiVU9hZzQxbFNiZkRkNEo3dDRtMHJPM1RMQ1AwZTVZVlNuS0NRb0VSaFRTV3Q1RWQ2OEhmQUdOaGk5OWRJTm9LNm9OQUdrY2PSAWBBVV95cUxNaWRQSHJ6TDhBRTBpemtTUWJBYVMyM0ZqQnN4cHgzTDEydElzLWZ5OTdKZS1fU1I0RTUtQmdTcDdka2hIWTROX2RBSzZNS3JXWnVJMExhazlPZ21xN1ZyNU4?oc=5",
-            "source": "연합뉴스",
-            "published": "11-19 15:57",
-            "snippet": "달러 또 최고치 경신인데…환율 4일 연속 하락해 1,330원선 연합뉴스"
           }
         ]
       },
@@ -240,6 +237,7 @@
           "연간 수출 1조 달러",
           "김 수출 1조"
         ],
+        "수능날 바뀐 증시 시간표": [],
         "서울 아파트값 하락 전환": [
           "서울 아파트값 87주 연속 상승 원인과 강북권 중저가 아파트 매수세 현황",
           "서울 아파트값",
@@ -249,107 +247,94 @@
           "서울 아파트값 전망",
           "서울 아파트값 순위",
           "서울 아파트값 86주"
-        ],
-        "원달러 환율 하락세": [
-          "원달러 환율 전망",
-          "원달러 환율",
-          "원달러 환율 오늘",
-          "원달러 환율 전망 디시",
-          "원달러 환율 계산",
-          "원달러 환율 원",
-          "원달러 환율 그래프",
-          "원달러 환율 그래프 30 년"
         ]
       }
     },
     "global": {
       "keywords": [
         "앤트로픽 나스닥 상장",
-        "연준 추가 금리 인상 전망",
-        "뉴욕증시 혼조세 마감"
+        "다우 5만선 붕괴",
+        "연준 긴축 우려"
       ],
       "results": {
         "앤트로픽 나스닥 상장": {
-          "headline": "앤트로픽 나스닥 상장 첫날 시총 2조 달러",
+          "headline": "앤트로픽 나스닥 상장 데뷔 속 AI주 투매로 기술주 급등락",
           "facts": [
-            "인공지능 스타트업 앤트로픽이 기업가치 108조 원의 최대어로 나스닥에 상장하며 글로벌 AI 투자 열풍을 다시 한번 증명했다.",
-            "상장 첫날 거래에서 주가가 34% 폭등하며 시가총액 2조 달러를 돌파해 엔비디아와 마이크로소프트에 버금가는 AI 대장주로 등극했다.",
-            "앤트로픽 CEO는 상장 당일 AI 개발 속도 조절과 안전을 강조하며 회사의 핵심 DNA가 안전한 인공지능 구축에 있음을 명확히 했다.",
-            "이번 상장 기대감으로 뉴욕증시 나스닥 지수는 장 초반 1.9% 이상 급등하며 기술주 중심의 강한 매수세를 유도했다."
+            "AI 기업 앤트로픽이 나스닥에 상장해 첫날 17% 상승한 97.17달러에 마감하며 성공적으로 데뷔했다.",
+            "앤트로픽 CEO는 상장일 인터뷰에서 AI 속도 조절과 안전성을 강조하며 회사의 핵심 가치로 제시했다.",
+            "앤트로픽의 흥행에도 불구하고 상장 직후 AI 기술주 전반에 투매가 쏟아지며 나스닥 지수가 2.25% 급락했다.",
+            "대형 기술주 간 향방이 갈리면서 뉴욕증시는 AI 수익성에 대한 회의론과 함께 큰 폭의 롤러코스터 장세를 연출했다."
           ],
           "watch": [
-            "앤트로픽 시가총액 2조 달러 유지 여부",
-            "AI 관련주 전반의 밸류에이션 재평가 추이",
-            "AI 안전 규제 관련 미 정부의 후속 메시지"
+            "앤트로픽 상장 이후 추가 매수세 진입 및 주가 안착 여부",
+            "AI 안전성 규제 논의가 빅테크 기업에 미칠 영향"
           ],
           "qna": [
             {
-              "q": "앤트로픽이 상장 첫날 34% 폭등하며 시총 2조 달러를 기록한 시장의 기대 근거는 무엇인가?",
-              "a": "앤트로픽의 고도화된 AI 모델 경쟁력과 향후 수익화 가능성에 대해 투자자들이 압도적인 점수를 주었기 때문이다. 특히 AI 산업의 성장세가 꺾이지 않았다는 확신이 대규모 자금 쏠림 현상을 만들었다."
+              "q": "앤트로픽 상장 성공에도 불구하고 AI 관련 기술주가 투매된 역설의 원인은 무엇인가?",
+              "a": "앤트로픽의 성공적 데뷔가 오히려 AI 밸류에이션 고평가 논란을 자극하며 차익 실현 매물을 유발했기 때문이다."
             },
             {
-              "q": "CEO가 상장 당일 AI 속도 조절과 안전을 강조한 것이 투자 심리에 어떤 영향을 미치는가?",
-              "a": "무분별한 확장보다는 지속 가능한 성장을 추구한다는 신뢰를 주어 장기 투자자들을 유인하는 요소가 되었다. 이는 규제 리스크를 선제적으로 관리하겠다는 의지로 해석되어 기업 가치 안정성을 높였다."
+              "q": "앤트로픽 CEO의 AI 안전 및 속도 조절 발언이 시장에 미친 파급력은 무엇인가?",
+              "a": "안전 중심 경영 전략이 투자자 안도감을 줬으나, 일각에서는 기술 개발 지연에 따른 수익성 악화 우려로 이어졌다."
             },
             {
-              "q": "앤트로픽의 성공적인 데뷔가 나스닥 내 다른 AI 기술주들의 밸류에이션에 어떤 변화를 주는가?",
-              "a": "앤트로픽이 높은 멀티플을 인정받으면서 기존 AI 관련주들의 가치도 동반 상승하는 효과를 냈다. 나스닥 선물 지수가 2%대 급등한 것은 앤트로픽이 AI 섹터 전체의 가격 상단을 열어주었음을 의미한다."
+              "q": "AI 종목 투매 장세가 진정되고 재반등하기 위한 조건은 무엇인가?",
+              "a": "빅테크 기업들의 구체적인 AI 서비스 수익화 실적과 연준의 금리 긴축 행보 완화가 확인되어야 한다."
             }
           ]
         },
-        "연준 추가 금리 인상 전망": {
-          "headline": "연준 추가 금리 인상 시사 및 빅스텝 거론",
+        "다우 5만선 붕괴": {
+          "headline": "AI 투자 회의론 확산에 뉴욕증시 급락하며 다우 5만선 붕괴",
           "facts": [
-            "마이클 바 연준 이사가 인플레이션이 여전히 지나치게 높다고 지적하며 기준금리의 추가 인상이 적절하다는 매파적 입장을 공식화했다.",
-            "연준 내부에서는 인플레이션 억제를 위해 한 번에 0.5%p를 올리는 '빅스텝' 가능성까지 거론되며 긴축 강도가 높아질 조짐을 보이고 있다.",
-            "JP모건은 연준이 향후 세 차례 연속으로 25bp씩 금리를 인상할 것이라는 전망을 내놓으며 고금리 장기화 가능성에 무게를 실었다.",
-            "AI 투자 확대가 물가 상승의 새로운 변수로 떠오르면서 금리 인하 기대감은 후퇴하고 시장의 긴장감은 다시 고조되는 분위기다."
+            "뉴욕증시에서 AI 대어 앤트로픽 상장에도 불구하고 3대 지수가 일제히 2%대 급락세를 나타냈다.",
+            "지수 하락 여파로 다우존스30산업평균지수가 50,000선 밑으로 떨어지며 지지선을 내주었다.",
+            "AI 분야에 대한 천문학적 투자 대비 수익성에 대한 회의론이 유입된 것이 증시 폭락의 주요 배경으로 작용했다.",
+            "대형 기술주를 비롯한 주요 종목 전반으로 매도세가 확산되며 증시 변동성이 극대화되었다."
           ],
           "watch": [
-            "다음 FOMC 점도표 내 금리 상단 변화",
-            "미국 소비자물가지수(CPI) 발표 수치",
-            "AI 산업 투자 규모와 물가 상관관계 분석"
+            "다우지수 5만선 재탈환 여부 및 기술적 지지선 형성",
+            "AI 기업들의 분기 실적 발표 및 수익성 검증"
           ],
           "qna": [
             {
-              "q": "연준 내부에서 동결 기조를 깨고 다시 '빅스텝'까지 거론하게 된 결정적 배경은 무엇인가?",
-              "a": "인플레이션 둔화 속도가 예상보다 더디고 고용 시장이 여전히 과열 양상을 보이고 있기 때문이다. 물가 목표치 달성을 위해 더 강력한 통화 긴축이 필요하다는 공감대가 위원들 사이에서 확산되었다."
+              "q": "앤트로픽 상장 호재에도 다우 5만선이 붕괴된 시장의 핵심 역설은 무엇인가?",
+              "a": "대형 IPO 성사가 재료 소멸로 인식된 데다, 빅테크의 AI 투자 대비 수익성 부족 지적이 전반적인 투심을 냉각시켰다."
             },
             {
-              "q": "AI 산업에 대한 대규모 투자가 물가 상승을 유발하는 변수로 지목되는 이유는 무엇인가?",
-              "a": "AI 인프라 구축을 위한 막대한 자금 유입이 원자재 수요를 자극하고 관련 임금을 상승시켜 비용 인상 인플레이션을 초래할 수 있기 때문이다. 이는 연준이 금리 인하를 주저하게 만드는 새로운 경제적 압력으로 작용한다."
+              "q": "다우 5만선 하향 이탈이 글로벌 증시와 투자자 포지션에 미치는 연쇄 영향은 무엇인가?",
+              "a": "심리적 마지노선 이탈로 위험자산 회피 성향이 강해지며 글로벌 자금이 안전자산으로 이동하는 현상이 가속화된다."
             },
             {
-              "q": "JP모건의 3회 연속 인상 전망이 현실화될 경우 글로벌 자산 배분 전략의 분기점은 어디인가?",
-              "a": "연속 인상이 단행되면 기술주 등 성장주에 대한 할인율이 높아져 자금 이탈이 가속화될 수 있다. 투자자들은 위험 자산 비중을 줄이고 고금리 혜택을 누릴 수 있는 채권이나 현금성 자산으로 포트폴리오를 재편할 가능성이 크다."
+              "q": "다우지수가 5만선을 재탈환하기 위해 필요한 거시경제적 조건은 무엇인가?",
+              "a": "연준의 긴축 기조 완화 시그널과 함께 주요 기술주들의 과감한 실적 반등이 입증되어야 한다."
             }
           ]
         },
-        "뉴욕증시 혼조세 마감": {
-          "headline": "앤트로픽 상장 호재에도 유가·금리에 혼조세",
+        "연준 긴축 우려": {
+          "headline": "연준 매파 발언과 연속 금리 인상 전망에 금값 14개월래 최저",
           "facts": [
-            "뉴욕증시는 앤트로픽의 나스닥 상장 소식에 기술주 중심으로 급등하며 출발했으나 유가와 금리 상승 압박에 밀려 혼조세로 마감했다.",
-            "앤트로픽이 상장 첫날 폭등하며 나스닥 지수를 한때 1.9%까지 끌어올렸으나 다우와 S&P500 지수는 하락 전환하며 온도차를 보였다.",
-            "국제 유가 상승과 국채 금리 급등이 시장의 안전 자산 선호 심리를 위축시키며 장 초반의 상승분을 대부분 반납하는 결과를 초래했다.",
-            "나스닥 선물 시장은 앤트로픽 IPO 효과로 2%대 급등세를 보이기도 했으나 장 후반 차익 실현 매물이 쏟아지며 변동성이 극대화되었다."
+            "JP모건이 연준의 향후 3회 연속 25bp 금리 인상을 전망하면서 통화 긴축 공포가 다시 확산되었다.",
+            "시카고 연은 총재는 경제 과열을 막는 것이 연준의 현 당면 과제라고 밝혀 매파적 기조에 힘을 실었다.",
+            "긴축 우려와 강달러 영향으로 뉴욕 금 가격이 1.4% 하락하며 14개월 만에 최저치를 기록했다.",
+            "국내 금융권의 해외 부동산 투자 부실 우려 규모가 반년 만에 27% 급증하는 등 고금리 여파가 확산하고 있다."
           ],
           "watch": [
-            "미국 국채 10년물 금리의 5% 돌파 여부",
-            "국제 유가 변동 폭과 에너지주 향방",
-            "앤트로픽 상장 이후 기술주 수급 이동 경로"
+            "연준의 다음 FOMC 금리 결정 및 점도표 변화",
+            "금융권 해외 부동산 대출 부실화 비율 추이"
           ],
           "qna": [
             {
-              "q": "앤트로픽 상장이라는 대형 호재에도 불구하고 다우와 S&P500 지수가 하락 전환한 원인은 무엇인가?",
-              "a": "유가와 금리 상승이 실물 경제에 부담을 줄 것이라는 우려가 기술주 호재보다 더 크게 작용했기 때문이다. 전통 산업 비중이 높은 다우 지수는 비용 상승 압박에 더 민감하게 반응하며 하락세를 보였다."
+              "q": "시카고 연은 총재의 발언과 JP모건의 3회 연속 금리 인상 전망이 시장에 준 충격은 무엇인가?",
+              "a": "경제 과열 억제를 위한 금리 인상 기조가 장기화될 것이라는 우려가 자산 시장 전반의 긴축 공포를 재점화했다."
             },
             {
-              "q": "나스닥 지수가 장중 1.9% 급등 후 다시 하락세로 돌아선 변동성의 핵심 메커니즘은 무엇인가?",
-              "a": "앤트로픽 상장 직후 유입된 투기적 매수세가 국채 금리 상승이라는 거시적 악재를 만나며 빠르게 차익 실현 매물로 변했기 때문이다. 금리 상승은 기술주의 미래 가치를 깎아내려 주가 하락을 유도한다."
+              "q": "연준 긴축 강화와 강달러가 금 가격 및 해외 부동산 투자 부실에 미친 경로는 무엇인가?",
+              "a": "무이자 자산인 금의 유인성을 떨어뜨려 금값을 14개월래 최저로 낮췄고, 고금리로 해외 부동산 리파이낸싱이 막혀 부실이 27% 늘었다."
             },
             {
-              "q": "유가와 금리 상승이 AI 기술주 중심의 상승 랠리를 저지하는 임계점은 어느 수준인가?",
-              "a": "국채 금리가 특정 저항선을 돌파하거나 유가가 기업의 이익 마진을 훼손하는 수준까지 오를 때 랠리는 멈춘다. 현재 시장은 앤트로픽의 개별 호재와 거시 경제의 하방 압력이 팽팽하게 맞서는 구간에 진입했다."
+              "q": "연준의 긴축 행보가 완화로 돌아설 수 있는 결정적 조건은 무엇인가?",
+              "a": "미국 경제 지표의 과열 양상 진정과 함께 원유 및 주요 원자재 가격 하락에 따른 물가 안정세가 지속 확인되어야 한다."
             }
           ]
         }
@@ -357,62 +342,120 @@
       "news": {
         "앤트로픽 나스닥 상장": [
           {
-            "title": "뉴욕증시, 앤트로픽 나스닥 상장 앞두고 상승 출발 - 연합뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yN0ZhTVU5TWYxYWIweFdKVFlqNkE5SHJIZEpOdmxjT3BjbklQbjg0a01yenRtTXpJSDJ0Y3Fkbl9kN2h2MDJ0ejlia200d0EzS0xXWGJJckVBeDTSAWBBVV95cUxNSEZLNGNGeWxsRS04V0tJV050Z1FMaGJkLUhMd28zNmlyb0Nha2Niczg3SXJ0X0lkV2ZGcU02bkZGRGRZQ0J3Q20xZm55WUpfcFNfdWk0VThVSWJBZWZjVTk?oc=5",
-            "source": "연합뉴스",
-            "published": "11-19 23:54",
-            "snippet": "뉴욕증시, 앤트로픽 나스닥 상장 앞두고 상승 출발 연합뉴스"
+            "title": "'앤트로픽' 나스닥 상장‥주가는 롤러코스터 - MBC 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RMUJFSWFLc3doMEUwZUxnaW9LbXg0QkVUbld6X3J4dDVSbzdQV3JtZ3dWNVc4eGpoQ292ZGNWejlHTDZ0X1VUeUxkaTRzc19wdl9NNnhxTVBZXzRuMHJHNTRpSnZiUUNaOW1Rek41S0VMcjMxX2czSzVn?oc=5",
+            "source": "MBC 뉴스",
+            "published": "11-20 07:14",
+            "snippet": "'앤트로픽' 나스닥 상장‥주가는 롤러코스터 MBC 뉴스"
           },
           {
-            "title": "뉴욕 증시, 앤트로픽 나스닥 상장 앞두고 상승 출발 - YTN",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwNUVNaExfckNCMlpxVHZEZzktVm5PeC1zRjJQV3hvOFNUTnJBMmFxOWlFajF1cExmWWJwNWJpWUE5Z0p6TkM5QlhOdzhRX2d5QUhBMERPVmxpWnJFaFJKUF81Q0NWRl9MM1lfMlg3RTZXNU9qTmc?oc=5",
-            "source": "YTN",
-            "published": "11-20 01:18",
-            "snippet": "뉴욕 증시, 앤트로픽 나스닥 상장 앞두고 상승 출발 YTN"
+            "title": "앤트로픽 나스닥 상장‥기술주 엇갈려 - MBC 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uVXFIeUgtbWw3SUFVM1JBdVQ2b2lCUzdjZ1R1X1FkakRIVHJwVE1DX0JoYWIzZVp1MGhNNkdOdk9SdnR3YlBGZUtzNjBZc3N0Q3d5cmhnUmVSMV95dE5JZkdvZjQ3SmtrTnNsYVFaSDU2YjNIZU04eFZn0gF6QVVfeXFMTjNuTGUtT2kzLTNzT1ZUalZibjd2TWI4OFdxaEpaVTZ4XzBLSHNqdjlQc2laUUhKdThtOXRsNEpDbFlldjM3Ti1wZDFnemNOUmpDWVloQ3piTldMSllITnNxMUFxazRpNEhNOHdkaUFkMGN2MGNiTlRiU2c?oc=5",
+            "source": "MBC 뉴스",
+            "published": "11-20 07:47",
+            "snippet": "앤트로픽 나스닥 상장‥기술주 엇갈려 MBC 뉴스"
           },
           {
-            "title": "앤트로픽 ‘108조원’ IPO 최대어로 나스닥 상장 - 경향신문",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSVkpaclBvS2ZXMGt3VlZLaUIzblU3WkFiQmhTdWJhc3pNR2FDZnhKdVU1OUF5TUdnTGlNaWZZSDhzQ2M0dlBBMEZQZnFzMUhSWElVRV9IaXVod9IBX0FVX3lxTE1jUXVFWVo0Q0U0c3RaTU1UaFp2Q3l1dEdoVmk0U3QtVVVLYmdtU0NJR2RydklxVDBzdlVnV1B0a2RQZlJGdXdVczdNV01zMnZ3YzNVdndMWGx1QUFXc0hv?oc=5",
-            "source": "경향신문",
-            "published": "11-19 20:45",
-            "snippet": "앤트로픽 ‘108조원’ IPO 최대어로 나스닥 상장 경향신문"
+            "title": "[글로벌증시] 美증시, 앤트로픽 상장에도 하락…나스닥 2%대↓ - 연합뉴스TV",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16UnU0Zm9ldHZxVElJWTY5QXByLURPR1hVQUhWeFptSy1GbTdfaWNnT0hZLXc5NWpZWWg4Z2stQjFGSUdLVk1oWjE2TlJaN3FUOXRpeVNUVnItRnc0TmhtTmE4QXRubGs?oc=5",
+            "source": "연합뉴스TV",
+            "published": "11-20 06:54",
+            "snippet": "[글로벌증시] 美증시, 앤트로픽 상장에도 하락…나스닥 2%대↓ 연합뉴스TV"
           },
           {
-            "title": "앤트로픽 CEO, 나스닥 상장날 \"AI속도조절…안전은 회사 DNA\"(종합) - 매일경제 마켓",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4S2xMaWRtYVk3ODZ2QlhHV003d09taTI0enNzYkMxRDhRckVLRTdVVktiakIybV9xQlNoVUVoSTduZ1VSYk85R2RRZllPYUxxV0E?oc=5",
-            "source": "매일경제 마켓",
-            "published": "11-20 04:42",
-            "snippet": "앤트로픽 CEO, 나스닥 상장날 \"AI속도조절…안전은 회사 DNA\"(종합) 매일경제 마켓"
+            "title": "최대어 '앤트로픽' 나스닥 상장‥\"AI 안전\" 강조 - MBC 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBkaE0zNUt1X2FVQ1FENHdWSkxwaVU4RmF0MlotTjFScy1JTHI5cmpaWTNpNEc4Rk9uZHpKeWQ1RGZoVEh2Uk9LZWFrSUgzRmo5YzFpZmRUYnp4elhIbzhqY0RtNUlnZUlGdXg2dkc0X3ItMU1pMXA2Rmp30gF6QVVfeXFMTnVIbHc4Si1OTEJpM2M5TWh6S21LMkliWFpzMnlDcFA1ZTIxQ0pFSjk3Q3RKRVpNNXR3ZE1EeGR6Z3RVT2c5cXhudzBwWXVfYVVVaTlWNjg2N1FQOG5leTBFaGpBUlNMbndWdlIydWl6RzBBQnlXUzRwdFE?oc=5",
+            "source": "MBC 뉴스",
+            "published": "11-20 06:09",
+            "snippet": "최대어 '앤트로픽' 나스닥 상장‥\"AI 안전\" 강조 MBC 뉴스"
           },
           {
-            "title": "[속보]뉴욕증시, 앤트로픽 상장 기대에 상승 출발…나스닥 1.90%↑ - 문화일보",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wT2FQNWR1QzJXN1E2QTNha1JrOXFZRkRuRVg4Ri16bnJvbEM1b1g2bXVrQm9nVjkzeWdSZ0gyeEZoTXBvWklxOUtFeXkyb0RT?oc=5",
-            "source": "문화일보",
-            "published": "11-20 00:20",
-            "snippet": "[속보]뉴욕증시, 앤트로픽 상장 기대에 상승 출발…나스닥 1.90%↑ 문화일보"
+            "title": "앤트로픽 CEO, 나스닥 상장날 \"AI 속도조절‥안전은 회사 DNA\" - MBC 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9fVmdzSmVmUW1nZ0pnLW9KeFZnS2dIMzRQb09RUzVfTnVSR1dWOTRQMjRhSTJIbmZPUVJFZ2lEOGdqLUhEamJlSnlHV0VuQ0I5cEZaQnVSWXloZXFpeHMtYXhnd3BfenNWaGFhX2lmT0RrS1Ey0gF0QVVfeXFMT3ZrSDdadllQLTRaYlBCdi1fTFdVdmc1TXptR0pYQUtyN0ppaHV6T1lFVy1icEc5ZkwtdmtDQkdEblR3WWJXQlBoUnFFZDdjUkpqNmZVRU8waEtCanhySnFSWTk2WEYzSmNpS1hWcXRMVzRIOGg?oc=5",
+            "source": "MBC 뉴스",
+            "published": "11-20 06:35",
+            "snippet": "앤트로픽 CEO, 나스닥 상장날 \"AI 속도조절‥안전은 회사 DNA\" MBC 뉴스"
           },
           {
-            "title": "앤트로픽 '나스닥 상장' 첫 거래서 34% 상승…시총 2조달러 - 머니투데이 - 머니투데이",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YVC0wMUd1dTMzSl9ESjFkNDN4VFltUWdhc2pGNVZEbHoyT1pMSm9fNV9CUFNodjUtQTE1WlFfRXByQ1RQNUVhMVBFTnNGZ0pTUFVvNDFSaW1oUUJ4MTcyOFZEdXFvbll0TTE4STJ30gFuQVVfeXFMT1hULTAxR3V1MzNKX0RKMWQ0M3hUWW1RZ2FzakY1VkRsejJPWkxKb181X0JQU2h2NS1BMTVaUV9FcHJDVFA1RWExUEVOc0ZnSlNQVW80MVJpbWhRQngxNzI4VkR1cW9uWXRNMThJMnc?oc=5",
-            "source": "머니투데이",
-            "published": "11-20 02:23",
-            "snippet": "앤트로픽 '나스닥 상장' 첫 거래서 34% 상승…시총 2조달러 - 머니투데이 머니투데이"
+            "title": "앤트로픽 상장 직후 AI株 투매…나스닥 2.25%↓ [뉴욕증시 브리핑] - 한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zTVR6YjluNnQ4Y0loTmdLNDJCSHIxRkxlUlVpbUd3UkxHZ2VIUHZGRjFFVzRHQ2hBM1ZiYXVZVUtzcmFPTThTOWprb1lRVFVfUTBEVHNOME1pQQ?oc=5",
+            "source": "한국경제",
+            "published": "11-20 07:06",
+            "snippet": "앤트로픽 상장 직후 AI株 투매…나스닥 2.25%↓ [뉴욕증시 브리핑] 한국경제"
           }
         ],
-        "연준 추가 금리 인상 전망": [
+        "다우 5만선 붕괴": [
           {
-            "title": "바 연준 이사 \"인플레 지나치게 높아…추가 금리 인상 적절\" - 연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wVk8xLWxVTWRhTzduUWJRSzdGbmphMXVpbVdxYWV0X1g5NGVNNGZlQlQ3dGgwLXV0ek9OcldRTnE0dWc5bXRxaVBWc20zZ1JVc1E1T29KUEhPd2FOQjMtdnljUVlkV1ptNFJqR0dDS3Q?oc=5",
-            "source": "연합인포맥스",
-            "published": "11-19 06:00",
-            "snippet": "바 연준 이사 \"인플레 지나치게 높아…추가 금리 인상 적절\" 연합인포맥스"
+            "title": "앤스로픽 상장에도 뉴욕증시 3대 지수 2%대 급락… 다우 5만선 붕괴 - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWV9PanAybzhlYWk2aktENUpNRE45bDFhLU5RdkczS2tSc1hZNmR3ZFc4S3R3Q3VDQUpwZUNVNkF4RTh4WE1YVXcxWXZlQzYzTlhxdllrMWRaSVJDVzBNN19ZOTRubTlSbHVpajU3R0FKSHNDaHIxVDR0eU1kVDdmcWNHNGdSWGI4?oc=5",
+            "source": "조선일보",
+            "published": "11-20 06:31",
+            "snippet": "앤스로픽 상장에도 뉴욕증시 3대 지수 2%대 급락… 다우 5만선 붕괴 조선일보"
           },
           {
-            "title": "미 연준, 추가 금리 인상 공감대...일부 위원 '빅스텝' 거론 - YTN",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ORnhHczc2ZzZDbWZJbG5tNmMwLVVqVDhMTXU0MzFTb05zNkRlbFFqZkRfR2YtVWNtT1AtSkt0MkdTaWRYc3ZJVHN1dmFocDFEVVJIazB0TXVudDJMRlE?oc=5",
-            "source": "YTN",
-            "published": "11-19 08:26",
-            "snippet": "미 연준, 추가 금리 인상 공감대...일부 위원 '빅스텝' 거론 YTN"
+            "title": "[뉴욕증시] 앤스로픽 상장이 부른 역설...다우 5만선 붕괴 - 글로벌이코노믹",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNejFxSG1RNUdLaWYxdHFKVmJWQi1oTUh2QXhUZEJXNzZGVzNkMXlEYklHQmhQZkJnbW9JaHRsaWhnNUVueXNwV2NfZmFRTnFrYWgwcnRCcXZ5b0tsQUdxb0JDcmdNRDJfeE5GZ1VkTDY0VHJkMURwS2dqZWNzQmhYbC1fWTFwT0RQ?oc=5",
+            "source": "글로벌이코노믹",
+            "published": "11-20 06:24",
+            "snippet": "[뉴욕증시] 앤스로픽 상장이 부른 역설...다우 5만선 붕괴 글로벌이코노믹"
+          },
+          {
+            "title": "[해외시황] 뉴욕증시, 앤스로픽 IPO 흥행에도 '급락'…다우 5만선 붕괴 - 프라임경제",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EajBvVzAwVzRHS2w3TlFURzh6MGU5cnVEQTJTcXpEXzR4RGVIQmZycW02a0pEM2lCbXdWQVlwbE43N3FKVHhSSmFMQkpmZ1FmLUVFZC0tcm9uNGtaX3E4TA?oc=5",
+            "source": "프라임경제",
+            "published": "11-20 08:24",
+            "snippet": "[해외시황] 뉴욕증시, 앤스로픽 IPO 흥행에도 '급락'…다우 5만선 붕괴 프라임경제"
+          },
+          {
+            "title": "뉴욕증시, AI 투자 회의론에 2%대 급락…다우 5만선 붕괴 - 뉴시안",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VZnNpQUUwdkpLSXNDSVlRQjU1dGhsajllRm9nblI3Ymh4ajFKM0JWUXBLLUt5SHRCTHNEcFBqckt5dzc0ZVVtTGgwMFE3VFlKOEQ5SFIxZk1tSWU3ekdNSG5VS2NZTFhmQWczSA?oc=5",
+            "source": "뉴시안",
+            "published": "11-20 06:33",
+            "snippet": "뉴욕증시, AI 투자 회의론에 2%대 급락…다우 5만선 붕괴 뉴시안"
+          },
+          {
+            "title": "앤트로픽 상장에도 뉴욕증시 2%대 급락…다우 50,000선 붕괴(종합) - 연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TaEZZb0pROGhObG5YQ0F2eVIxS1AtUDBTVWhJZjdSM1k5NnlkaUQ2aXNFZXJ3bGV4dmY2amZPNEtkVFRHeDZEYU5BMEw1dTUtTmZFM3lCWVc4Y2PSAWBBVV95cUxPRUhRUjdjczBGVWZ0SnJiMncwQXBDODB5R0Y0ZW9LMl9GZzVRVmJSUUJray1ZMEdONXRDaW8yVXpuZ2NVTVcwZ0l6Zk1SX1lSVThhTTFpekUwalJoUnBDaHE?oc=5",
+            "source": "연합뉴스",
+            "published": "11-20 07:18",
+            "snippet": "앤트로픽 상장에도 뉴욕증시 2%대 급락…다우 50,000선 붕괴(종합) 연합뉴스"
+          },
+          {
+            "title": "앤트로픽 IPO 흥행에도 뉴욕증시 2% 급락... 다우 5만선 밑돌아 [뉴욕증시] - 매일일보",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VVzE5aDBRUkc3cWJYMHA2OEZPLTVWeW1mZWhXZmV5TWhCc1hOb3FpaVNIVWJkWXVNamJNMjhQdlEzdmhZbUU0UXhtLVA0NWRfM2IyRUJzY3VNQktJUnV3YmxvamY?oc=5",
+            "source": "매일일보",
+            "published": "11-20 08:28",
+            "snippet": "앤트로픽 IPO 흥행에도 뉴욕증시 2% 급락... 다우 5만선 밑돌아 [뉴욕증시] 매일일보"
+          }
+        ],
+        "연준 긴축 우려": [
+          {
+            "title": "[뉴욕 금가격] 연준 긴축 우려·강달러에 1.4%↓…14개월來 최저 - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81RHhUM05NZlF6NHFIU0tCb3VrcHhtOVZ0TUx0dUtpcjJQZ2hkQnctSXJfWW4yZ1VQUTN3dEtoV2Q3VTFEZk1WWUUycmx3TUVnTE5FN3NZRllnMy1aSzh5TVFxVnE1dG9XTDFQZ2RWNDQ?oc=5",
+            "source": "연합인포맥스",
+            "published": "11-20 04:43",
+            "snippet": "[뉴욕 금가격] 연준 긴축 우려·강달러에 1.4%↓…14개월來 최저 연합인포맥스"
+          },
+          {
+            "title": "시카고 연은 총재 \"연준, 경제 과열 막는 게 지금 할 일\" - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5SWTdvc3FmOWNEN1hDWF9DZUg2c1V5MDlyaktmNFEzekpHdUIyMjkwb3JzNTRLR0laclVKUEZ0SGxOSTBoRWN4eFRiV3FqOW5oZTRUeWUyNnpzZUJ4NFlTMkJLQlo1Vjc4UUNsTk5RNS0?oc=5",
+            "source": "연합인포맥스",
+            "published": "11-20 07:16",
+            "snippet": "시카고 연은 총재 \"연준, 경제 과열 막는 게 지금 할 일\" 연합인포맥스 미 국채 금리, 안전자산 수요에 하락…10년물 4거래일 연속 내려 Investing.com 한국어 '금리 동결' 10월 FOMC서 추가 금리 인상에 공감대‥'빅스텝' 거론도 MBC 뉴스 \"서학개미들 어쩌나\"…미국발 심상찮은 신호에 '초긴장' [분석+] 한국경제 월러 연준 이사 “물가 잡으려면 시장에 충격 필요”…빅스텝 시사 동아일보"
+          },
+          {
+            "title": "금융권 투자한 해외 부동산 ‘부실 우려’ 반년 새 27% 늘어 - 경향신문",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ISXF1UDNJX2c2U1VVaDBZMlZFUWlIQnJla3l1b0otT28zUlJvQlBQSjhYQVBPekczVXJENjFXN0lCNzhXYjdoNmlKaGtBZTJaaTJNaGE0dmdZZw?oc=5",
+            "source": "경향신문",
+            "published": "11-19 10:26",
+            "snippet": "금융권 투자한 해외 부동산 ‘부실 우려’ 반년 새 27% 늘어 경향신문 상반기 금융사 해외부동산 부실우려 2.6조…\"리스크 관리 지속\" 연합뉴스 한투그룹, 해외부동산 악몽…3000억 규모 뉴욕·밀라노펀드 전액 손실 수순 [시그널] 서울경제 금융권 해외 부동산 투자 소폭 감소…부실 우려 규모는 반년 만에 27% 급증 조선일보 금융권 해외부동산 투자 줄었지만…‘부실 위험’은 2.6조로 증가 매일경제 마켓"
+          },
+          {
+            "title": "국제유가 3%대 급락…美 원유·휘발유 재고 급증에 공급과잉 우려 - 뉴스1",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qSm81RUtobjhTV3FWUGpiV0pFdzlLbS1RTlNnTjdBTjlBNE9KdWd2RUx2ZmItRDBtN1BjVnFaZS1kS1o3ZHl5THZ5UFRLRGI3UkN0WUV1Qm45bjVoNFU4TjhrXzdCaXM?oc=5",
+            "source": "뉴스1",
+            "published": "11-19 05:15",
+            "snippet": "국제유가 3%대 급락…美 원유·휘발유 재고 급증에 공급과잉 우려 뉴스1 [특징주] 정유주, 국제유가 하락에 장 초반 약세 연합뉴스 [뉴욕유가] 美 원유 재고 예상 상회에 WTI 3.2% 급락…3개월來 최저 연합인포맥스 유가 소폭 상승…호르무즈 해협 유조선 피격에 공급 차질 우려 뉴스1 국제유가 3% 하락에 정유株도 '뚝'…GS·SK이노베이션 동반 약세 뉴시스"
           },
           {
             "title": "JP모건 \"연준, 향후 3회 연속 25bp 금리인상 전망\" - 연합인포맥스",
@@ -422,69 +465,11 @@
             "snippet": "JP모건 \"연준, 향후 3회 연속 25bp 금리인상 전망\" 연합인포맥스"
           },
           {
-            "title": "[도쿄환시] 달러-엔 상승…美 연준 인사들 금리인상 지지 - 연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40V21GalJXZm1FeGNodFhQUHIxWHdLSEcyVEMwX285UG5OdVc1NGxHSTlMT05XTVQtUmpSRGI2OW1lMFJuMWx4SUdlMHZ3STJxXzJMUDNqNE4zVkdaNUdkQzlxRERkYjJJX1ZrSWtHOXE?oc=5",
+            "title": "[뉴욕 금가격] 연준 긴축 우려·강달러에 1.4%↓…14개월來 최저 | - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aZXhVTUlieFdsVVRoMEZyRGFkZlQyUXE1cW1BcWdjT1ZrWlVTWUFlU3dHMTg2S01hVV91ZndIaDFNRWpGVGdqY3dfQWxwRmVTTkhfWUVHMUdtNncyVzU5RHZOMFVpemYtWDBtdDl6ZXlyNzV0?oc=5",
             "source": "연합인포맥스",
-            "published": "11-19 16:02",
-            "snippet": "[도쿄환시] 달러-엔 상승…美 연준 인사들 금리인상 지지 연합인포맥스"
-          },
-          {
-            "title": "'금리 동결' 10월 FOMC서 추가 금리 인상에 공감대‥'빅스텝' 거론도 - MBC 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vbzdrRWMtdWxNMzFNd1UzVnF3bDEwWDI1S3EtQU00ZDJrdFd3dHlpRlN6RHdhRmlqZk0wRDJYVG5lR042N1VYSVF4RTFyckJTWDBJSVhtWUt3MWQwZ3pHWjBHX3o1VVNNOEJiTU13alh1N3pa0gF0QVVfeXFMTWVTSTkxVmxYWG8wc2RqYzI4YjEtMGR3VWR6QTB4UnRuMFhhbDdJQUs4T3VpQXFwLUYxbnlWMVdoUHFQMDhxdmZjYW5oTGs2QTk5Vlk1MjZNMlBVWlF2LWhGWHZxMEpHTlNLbGoxRWh0LWVRa0Q?oc=5",
-            "source": "MBC 뉴스",
-            "published": "11-19 10:53",
-            "snippet": "'금리 동결' 10월 FOMC서 추가 금리 인상에 공감대‥'빅스텝' 거론도 MBC 뉴스"
-          },
-          {
-            "title": "미국 금리 인하 기대 후퇴…연준 내부 ‘0.5%p 인상’까지 거론, AI 투자도 물가 변수 - 테크데일리",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZWWZjSXk4bjd2blJWRjM2bTk5RlJUUVF5dXdFYkh3NU1uMEZnSzdqQWdyUjBhZFZjTTJqSEl3M256MHVhV2FLSHkwYy1CNVIzbzJWQlh4cTJXbk95bjRSaHZqN3lyc1IwUHNIQ2wwWjdGQdIBckFVX3lxTFBZWWZjSXk4bjd2blJWRjM2bTk5RlJUUVF5dXdFYkh3NU1uMEZnSzdqQWdyUjBhZFZjTTJqSEl3M256MHVhV2FLSHkwYy1CNVIzbzJWQlh4cTJXbk95bjRSaHZqN3lyc1IwUHNIQ2wwWjdGQQ?oc=5",
-            "source": "테크데일리",
-            "published": "11-19 15:24",
-            "snippet": "미국 금리 인하 기대 후퇴…연준 내부 ‘0.5%p 인상’까지 거론, AI 투자도 물가 변수 테크데일리"
-          }
-        ],
-        "뉴욕증시 혼조세 마감": [
-          {
-            "title": "뉴욕증시, 앤트로픽 나스닥 상장 앞두고 상승 출발 - 연합뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yN0ZhTVU5TWYxYWIweFdKVFlqNkE5SHJIZEpOdmxjT3BjbklQbjg0a01yenRtTXpJSDJ0Y3Fkbl9kN2h2MDJ0ejlia200d0EzS0xXWGJJckVBeDTSAWBBVV95cUxNSEZLNGNGeWxsRS04V0tJV050Z1FMaGJkLUhMd28zNmlyb0Nha2Niczg3SXJ0X0lkV2ZGcU02bkZGRGRZQ0J3Q20xZm55WUpfcFNfdWk0VThVSWJBZWZjVTk?oc=5",
-            "source": "연합뉴스",
-            "published": "11-19 23:54",
-            "snippet": "뉴욕증시, 앤트로픽 나스닥 상장 앞두고 상승 출발 연합뉴스"
-          },
-          {
-            "title": "앤스로픽 기대에 뛰던 뉴욕증시… 유가·금리 오르자 다우·S&P500 하락 전환 - 조선일보",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZkozS3U3U05LNGRJZTcza3JMSmtaWVdGT00zUGdlMzVHcUdZc2tzRlJPcVIzbFhtSDhRZWNLZGtjZTVUemlNSnJQRUYtU0l0T2Q4ZGFLbUdEb1N3RFVkc0FLR0wxblBRSWVHZzQ5eDd5cU9BQTdVMzhwVVMzMUNaMWFab1AzRXUw?oc=5",
-            "source": "조선일보",
-            "published": "11-20 01:07",
-            "snippet": "앤스로픽 기대에 뛰던 뉴욕증시… 유가·금리 오르자 다우·S&P500 하락 전환 조선일보"
-          },
-          {
-            "title": "[속보]뉴욕증시, 앤트로픽 상장 기대에 상승 출발…나스닥 1.90%↑ - 문화일보",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wT2FQNWR1QzJXN1E2QTNha1JrOXFZRkRuRVg4Ri16bnJvbEM1b1g2bXVrQm9nVjkzeWdSZ0gyeEZoTXBvWklxOUtFeXkyb0RT?oc=5",
-            "source": "문화일보",
-            "published": "11-20 00:20",
-            "snippet": "[속보]뉴욕증시, 앤트로픽 상장 기대에 상승 출발…나스닥 1.90%↑ 문화일보"
-          },
-          {
-            "title": "뉴욕증시 프리뷰, 나스닥 선물 2%대 급등…앤스로픽 역대 최대 IPO에 AI주 동반 반등 - 뉴스핌",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE05R2xXNlo5UXMtdmx1cHEyZVNBempqeW9tTkRaVVhnUkZkeUQwRENyYUVzN0I1TGtVMTgwQmZSWUVCNWMza0JtSkZtWEFoX1lpd2NsVDhqbldRcjNu?oc=5",
-            "source": "뉴스핌",
-            "published": "11-19 21:36",
-            "snippet": "뉴욕증시 프리뷰, 나스닥 선물 2%대 급등…앤스로픽 역대 최대 IPO에 AI주 동반 반등 뉴스핌"
-          },
-          {
-            "title": "[뉴욕증시]다우 하락세로 전환…나스닥, 1.7% ↑ - 아시아경제",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBN0ZPd3FOb3lTSlZrSklreDVMcXZ3cUFwSWpON3RZSldDOFQxY0NxTUIxa0N2Y1hGQTYwMkNhRnE2UHVJMzB6ZUZ1NlQyX1hBdXJhdTVYaHh1Tm4xSkptRg?oc=5",
-            "source": "아시아경제",
-            "published": "11-20 00:04",
-            "snippet": "[뉴욕증시]다우 하락세로 전환…나스닥, 1.7% ↑ 아시아경제"
-          },
-          {
-            "title": "뉴욕증시, 하락세로 전환…나스닥 1.50%↓ - 블루밍비트",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kSDFveG9Kem5qcUdacHVHSGVPU00tdXRSVkRCRl9xYnEwUXo2cHVtZl9zcGktd0JPTmxhTnVNdDUyMnloaW5JZGJWVVA0RFRp?oc=5",
-            "source": "블루밍비트",
-            "published": "11-20 02:08",
-            "snippet": "뉴욕증시, 하락세로 전환…나스닥 1.50%↓ 블루밍비트"
+            "published": "11-20 04:47",
+            "snippet": "[뉴욕 금가격] 연준 긴축 우려·강달러에 1.4%↓…14개월來 최저 | 연합인포맥스"
           }
         ]
       },
@@ -493,190 +478,186 @@
           "앤트로픽 나스닥",
           "앤트로픽 관련주 나스닥"
         ],
-        "연준 추가 금리 인상 전망": [
-          "연준 추가 금리인상",
-          "연준 추가 금리 인하",
+        "다우 5만선 붕괴": [],
+        "연준 긴축 우려": [
+          "연준 긴축",
+          "연준 긴축종료",
+          "연준 긴축 정책",
+          "연준 양적 긴축 중단",
+          "연준 양적 긴축",
+          "연준 양적 긴축 종료",
           "연준 추가 긴축"
-        ],
-        "뉴욕증시 혼조세 마감": [
-          "뉴욕증시 혼조세"
         ]
       }
     },
     "keywords": [
       "수출 1조 달러 돌파",
+      "수능날 바뀐 증시 시간표",
       "서울 아파트값 하락 전환",
-      "원달러 환율 하락세",
       "앤트로픽 나스닥 상장",
-      "연준 추가 금리 인상 전망",
-      "뉴욕증시 혼조세 마감"
+      "다우 5만선 붕괴",
+      "연준 긴축 우려"
     ],
     "results": {
       "수출 1조 달러 돌파": {
-        "headline": "대한민국 수출 1조 달러 시대 개막",
+        "headline": "K-반도체·푸드 호조 속 연간 수출 1조 달러 돌파",
         "facts": [
-          "대한민국 연간 수출액이 반도체 수출 호조에 힘입어 사상 처음으로 1조 달러를 돌파하며 세계 수출 강국으로서의 입지를 굳혔다.",
-          "K-반도체가 수출 성장을 견인한 가운데 K-푸드 플러스 분야도 120억 달러를 넘어서며 역대 최고 실적을 기록해 수출 품목 다변화를 입증했다.",
-          "수출 1조 달러 달성 소식에 반도체 관련주가 강세를 보이며 코스피 지수는 5130선을 회복했고 원달러 환율은 하락세를 나타냈다.",
-          "미국 수출 규제 여파로 삼성전자와 TSMC가 일부 중국 고객사에 대한 반도체 출하를 중단하는 등 대외 통상 환경의 불확실성은 여전하다."
+          "대한민국 연간 수출액이 K-반도체의 강한 견인에 힘입어 사상 처음으로 1조 달러를 돌파했다.",
+          "농식품 및 연관산업을 아우르는 K-푸드+ 수출액 역시 120억 달러를 넘어서며 역대 최고 실적을 경신했다.",
+          "미국의 대중 수출통제 강화로 삼성전자와 TSMC가 중국 고객사에 대한 일부 첨단 반도체 출하를 중단하는 등 통상 악재가 병존하고 있다.",
+          "글로벌 강달러 기조 속에서도 원/달러 환율은 4일 연속 하락하며 1,330원 선에서 안정을 찾는 모습을 보였다."
         ],
         "watch": [
-          "반도체 추가 수출 규제 범위 및 대상",
-          "연말 K-푸드 최종 수출액 집계 결과",
-          "코스피 5200선 안착 여부와 외국인 수급"
+          "미 대중 수출통제 확대에 따른 반도체 출하 영향",
+          "K-푸드+ 주요 수출국의 물류비 및 통관 변수"
         ],
         "qna": [
           {
-            "q": "수출 1조 달러 달성이 국내 증시와 환율에 미친 즉각적인 영향은 무엇인가?",
-            "a": "수출 호조가 펀더멘털 개선 신호로 해석되면서 반도체주 중심의 매수세가 유입되어 코스피가 5130선을 회복했다. 동시에 외환 시장에서는 원화 가치가 상승하며 원달러 환율이 하락하는 안정세를 보였다."
+            "q": "반도체 호조 속 미 대중 수출통제 강화가 1조 달러 수출에 미칠 영향은 무엇인가?",
+            "a": "첨단 반도체 출하 중단 조치로 중국 향 매출 차질이 우려되나, K-푸드+ 등 수출 품목 다변화와 고부가가치 칩 수요가 이를 일부 상쇄하고 있다."
           },
           {
-            "q": "반도체 외에 K-푸드 실적이 역대 최고치를 경신한 원인은 어디에 있는가?",
-            "a": "K-푸드 플러스 분야가 120억 달러를 돌파한 것은 반도체에 편중된 수출 구조를 다변화하려는 노력이 결실을 본 결과이다. 이는 글로벌 시장 내 한국 식문화 확산과 가공식품의 경쟁력 강화가 맞물린 결과로 분석된다."
+            "q": "강달러 기조에도 원/달러 환율이 1,330원선으로 하락한 메커니즘은 무엇인가?",
+            "a": "수출 실적 호조로 인한 달러 공급 확대와 국내 증시 유입 자금이 달러 강세 압력을 누르며 환율 하락을 이끌었다."
           },
           {
-            "q": "미 수출 규제로 인한 삼성전자의 중국향 출하 중단이 향후 실적의 변수가 되는가?",
-            "a": "미국의 규제 여파로 TSMC와 삼성전자가 일부 중국 고객사 출하를 중단함에 따라 대중국 수출 비중이 높은 품목의 타격이 불가피하다. 1조 달러 달성 이후에도 이러한 지정학적 리스크가 수출 지속 가능성을 결정짓는 분기점이 될 전망이다."
+            "q": "1조 달러 달성 이후 수출 성장세를 유지하기 위한 핵심 분기점은 무엇인가?",
+            "a": "미국의 대중 제재 추가 수위와 글로벌 AI 반도체 투자 수요의 지속 여부가 향후 수출 향방을 갈라놓을 주요 변수이다."
+          }
+        ]
+      },
+      "수능날 바뀐 증시 시간표": {
+        "headline": "개장 지연에도 AI·한한령 해제 기대에 수능일 증시 안도",
+        "facts": [
+          "대학수학능력시험일 영향으로 정규 증시 개장 시간이 오전 10시로 1시간 늦춰지고 프리마켓이 휴장했다.",
+          "거래 시간 변경에도 불구하고 AI 투자심리 회복과 한한령 해제 기대감이 반영되며 증시 한파 없이 장을 마쳤다.",
+          "최근 코스피 5,000선이 붕괴되는 여파로 주식형 헤지펀드에서 3,400억 원의 자금이 순유출되는 변동성을 겪었다.",
+          "월가에서는 한국 증시 재평가를 통한 1만피 돌파 가능성과 추가 조정 가능성을 두고 시각이 극명하게 엇갈리고 있다."
+        ],
+        "watch": [
+          "수능일 이후 증시 거래량 회복 및 외국인 수급",
+          "코스피 5,000선 탈환 여부 및 주식형 펀드 자금 추이"
+        ],
+        "qna": [
+          {
+            "q": "개장 지연 변수 속에서 수능일 증시 한파를 피할 수 있었던 동인은 무엇인가?",
+            "a": "개장 시간 변경에 따른 변동성 우려에도 불구하고, 글로벌 AI 모멘텀과 한한령 해제에 대한 기대감이 매수세를 견인했다."
+          },
+          {
+            "q": "주식형 헤지펀드에서 3,400억 원이 유출된 배경과 시장 파급 효과는 무엇인가?",
+            "a": "코스피 5,000선 붕괴에 따른 리스크 관리 물량이 출회되었으며, 이는 증시 하방 압력을 높이는 요인으로 작용하고 있다."
+          },
+          {
+            "q": "1만피 돌파 전망과 추가 조정론이 대립하는 상황에서 추세 전환의 기준은 무엇인가?",
+            "a": "퇴직연금 제도 개혁을 통한 증시 유입 자금 규모와 상장사 실적 개선 여부가 평가를 가르는 분기점이 될 것이다."
           }
         ]
       },
       "서울 아파트값 하락 전환": {
-        "headline": "93주 만에 꺾인 서울 아파트값 하락 전환",
+        "headline": "93주 상승 이어가던 서울 아파트값, 한강벨트서 하락 전환",
         "facts": [
-          "93주 연속 상승세를 이어오던 서울 아파트값이 상승 동력을 잃고 하락세로 돌아서며 부동산 시장의 분위기 반전이 감지되었다.",
-          "그동안 견고한 상승세를 유지하던 용산구와 동작구 등 주요 지역마저 하락 전환하며 서울 전역으로 가격 조정이 확산되는 양상이다.",
-          "고금리 기조 유지와 대출 규제 강화로 인해 매수세가 위축된 가운데 강북권 중저가 단지를 중심으로 매물이 쌓이며 하락폭을 키웠다.",
-          "뉴욕증시에서도 유가와 금리 상승 여파로 다우와 S&P500 지수가 하락 전환하는 등 글로벌 자산 시장 전반에 하방 압력이 가해졌다."
+          "서울 아파트값이 93주 연속 상승세를 기록했으나, 한강벨트 주요 지역을 중심으로 하락 전환 단지가 속출하고 있다.",
+          "글로벌 시장에서는 유가와 금리가 상승세를 보이면서 뉴욕증시 주요 지수가 일제히 하락세로 돌아섰다.",
+          "10월 생산자물가지수는 농림수산품 가격 안정과 수요 감소의 영향으로 전월 대비 0.1% 하락했다.",
+          "환율이 10% 하락할 경우 가구당 연간 16만 5천 원의 생활비 절감 효과가 발생하는 것으로 분석되었다."
         ],
         "watch": [
-          "용산·동작구 추가 하락폭 및 매물 적체량",
-          "서울 아파트 매수우위지수 하락 지속 여부",
-          "연준 금리 인상 전망에 따른 대출 금리 변화"
+          "서울 한강벨트 아파트 실거래가 하락 폭 확대 여부",
+          "생산자물가 하락이 소비자물가에 미치는 시차 효과"
         ],
         "qna": [
           {
-            "q": "93주간 지속된 상승세가 용산과 동작구에서 먼저 꺾인 배경은 무엇인가?",
-            "a": "상승 랠리를 주도했던 핵심 지역에서 매수자들이 높은 가격대에 대한 피로감을 느끼며 관망세로 돌아섰기 때문이다. 대출 규제 강화로 자금 조달이 어려워진 점이 고가 지역의 거래 절벽과 가격 하락을 촉발했다."
+            "q": "93주간 오른 서울 아파트값이 한강벨트부터 하락 전환한 요인은 무엇인가?",
+            "a": "단기 급등에 따른 피로감과 함께 고금리 장기화 및 대출 규제 강화가 선도 지역의 매수 심리를 위축시킨 결과이다."
           },
           {
-            "q": "뉴욕증시의 하락 전환이 국내 부동산 시장 심리에 어떤 경로로 영향을 미치는가?",
-            "a": "미국 국채 금리와 유가 상승으로 인한 뉴욕증시 하락은 국내 시중 금리 상승 압박으로 이어진다. 이는 주택 담보 대출 금리 상단을 높여 가계의 이자 부담을 가중시키고 부동산 매수 심리를 추가로 위축시키는 경로를 밟는다."
+            "q": "생산자물가지수 하락과 환율 안정이 가계 경제에 미치는 파급 경로는 무엇인가?",
+            "a": "생산자물가 0.1% 하락과 환율 안정은 수입 물가를 낮춰 가구당 연 16만 5천 원 수준의 생활비 절감 효과로 이어진다."
           },
           {
-            "q": "향후 서울 아파트값의 추가 하락을 결정지을 핵심 경제 지표는 무엇인가?",
-            "a": "연준의 추가 금리 인상 여부와 그에 따른 국내 기준금리 향방이 가장 중요한 분기점이다. 특히 강북권 중저가 아파트의 매물 소화 속도와 경매 낙찰률이 시장의 바닥을 가늠하는 지표가 될 것이다."
-          }
-        ]
-      },
-      "원달러 환율 하락세": {
-        "headline": "달러 강세 속 원달러 환율 1,330원대 진입",
-        "facts": [
-          "글로벌 달러화가 최고치를 경신하는 강세장 속에서도 원달러 환율은 4일 연속 하락하며 1,330원선까지 내려앉는 이례적 흐름을 보였다.",
-          "환율이 10% 하락할 경우 수입 물가 안정 효과로 인해 가구당 연간 생활비가 약 16만 5천 원 절감되는 것으로 나타났다.",
-          "수출 1조 달러 돌파라는 대형 호재가 유입되면서 외환 시장에서 원화 가치가 방어력을 확보하며 환율 하락을 견인한 것으로 풀이된다.",
-          "코스피와 코스닥 지수가 동반 상승하고 외국인 투자 자금이 유입된 점도 환율 하락 압력을 가중시키는 주요 요인으로 작용했다."
-        ],
-        "watch": [
-          "원달러 환율 1,300원선 지지 여부",
-          "한국은행의 추가 물가 안정 분석 보고서",
-          "외국인 투자자의 국내 증시 순매수 규모"
-        ],
-        "qna": [
-          {
-            "q": "달러 인덱스가 최고치인데 원달러 환율만 4일 연속 하락한 역설적 이유는 무엇인가?",
-            "a": "수출 1조 달러 돌파라는 강력한 경제 펀더멘털 확인이 원화에 대한 신뢰를 높였기 때문이다. 또한 국내 증시 상승에 따른 외국인 자금 유입이 달러 공급을 늘리며 글로벌 달러 강세 압력을 상쇄했다."
-          },
-          {
-            "q": "환율 10% 하락 시 가구당 생활비가 16만 5천 원 절감되는 구체적인 메커니즘은 무엇인가?",
-            "a": "환율이 떨어지면 에너지와 식료품 등 수입 원자재 가격이 낮아져 국내 소비자 물가가 하락한다. 이는 가계의 실질 구매력을 높여 필수 소비재 지출 부담을 줄여주는 직접적인 효과를 낸다."
-          },
-          {
-            "q": "수출 1조 달러 달성이 외환 시장의 수급 구조를 어떻게 변화시켰는가?",
-            "a": "수출 대금으로 유입되는 달러 물량이 역대 최대 수준으로 늘어나면서 시장 내 달러 공급 우위 환경이 조성되었다. 이는 대외 변동성에도 불구하고 원화 가치가 급격히 추락하는 것을 막는 강력한 완충 장치 역할을 한다."
+            "q": "한강벨트 하락세가 서울 전체 아파트 시장으로 확산될 분기점은 어디인가?",
+            "a": "기준금리 향방과 주택담보대출 금리 변동, 그리고 주요 재건축 물량의 매물 소화 속도가 핵심 변수이다."
           }
         ]
       },
       "앤트로픽 나스닥 상장": {
-        "headline": "앤트로픽 나스닥 상장 첫날 시총 2조 달러",
+        "headline": "앤트로픽 나스닥 상장 데뷔 속 AI주 투매로 기술주 급등락",
         "facts": [
-          "인공지능 스타트업 앤트로픽이 기업가치 108조 원의 최대어로 나스닥에 상장하며 글로벌 AI 투자 열풍을 다시 한번 증명했다.",
-          "상장 첫날 거래에서 주가가 34% 폭등하며 시가총액 2조 달러를 돌파해 엔비디아와 마이크로소프트에 버금가는 AI 대장주로 등극했다.",
-          "앤트로픽 CEO는 상장 당일 AI 개발 속도 조절과 안전을 강조하며 회사의 핵심 DNA가 안전한 인공지능 구축에 있음을 명확히 했다.",
-          "이번 상장 기대감으로 뉴욕증시 나스닥 지수는 장 초반 1.9% 이상 급등하며 기술주 중심의 강한 매수세를 유도했다."
+          "AI 기업 앤트로픽이 나스닥에 상장해 첫날 17% 상승한 97.17달러에 마감하며 성공적으로 데뷔했다.",
+          "앤트로픽 CEO는 상장일 인터뷰에서 AI 속도 조절과 안전성을 강조하며 회사의 핵심 가치로 제시했다.",
+          "앤트로픽의 흥행에도 불구하고 상장 직후 AI 기술주 전반에 투매가 쏟아지며 나스닥 지수가 2.25% 급락했다.",
+          "대형 기술주 간 향방이 갈리면서 뉴욕증시는 AI 수익성에 대한 회의론과 함께 큰 폭의 롤러코스터 장세를 연출했다."
         ],
         "watch": [
-          "앤트로픽 시가총액 2조 달러 유지 여부",
-          "AI 관련주 전반의 밸류에이션 재평가 추이",
-          "AI 안전 규제 관련 미 정부의 후속 메시지"
+          "앤트로픽 상장 이후 추가 매수세 진입 및 주가 안착 여부",
+          "AI 안전성 규제 논의가 빅테크 기업에 미칠 영향"
         ],
         "qna": [
           {
-            "q": "앤트로픽이 상장 첫날 34% 폭등하며 시총 2조 달러를 기록한 시장의 기대 근거는 무엇인가?",
-            "a": "앤트로픽의 고도화된 AI 모델 경쟁력과 향후 수익화 가능성에 대해 투자자들이 압도적인 점수를 주었기 때문이다. 특히 AI 산업의 성장세가 꺾이지 않았다는 확신이 대규모 자금 쏠림 현상을 만들었다."
+            "q": "앤트로픽 상장 성공에도 불구하고 AI 관련 기술주가 투매된 역설의 원인은 무엇인가?",
+            "a": "앤트로픽의 성공적 데뷔가 오히려 AI 밸류에이션 고평가 논란을 자극하며 차익 실현 매물을 유발했기 때문이다."
           },
           {
-            "q": "CEO가 상장 당일 AI 속도 조절과 안전을 강조한 것이 투자 심리에 어떤 영향을 미치는가?",
-            "a": "무분별한 확장보다는 지속 가능한 성장을 추구한다는 신뢰를 주어 장기 투자자들을 유인하는 요소가 되었다. 이는 규제 리스크를 선제적으로 관리하겠다는 의지로 해석되어 기업 가치 안정성을 높였다."
+            "q": "앤트로픽 CEO의 AI 안전 및 속도 조절 발언이 시장에 미친 파급력은 무엇인가?",
+            "a": "안전 중심 경영 전략이 투자자 안도감을 줬으나, 일각에서는 기술 개발 지연에 따른 수익성 악화 우려로 이어졌다."
           },
           {
-            "q": "앤트로픽의 성공적인 데뷔가 나스닥 내 다른 AI 기술주들의 밸류에이션에 어떤 변화를 주는가?",
-            "a": "앤트로픽이 높은 멀티플을 인정받으면서 기존 AI 관련주들의 가치도 동반 상승하는 효과를 냈다. 나스닥 선물 지수가 2%대 급등한 것은 앤트로픽이 AI 섹터 전체의 가격 상단을 열어주었음을 의미한다."
+            "q": "AI 종목 투매 장세가 진정되고 재반등하기 위한 조건은 무엇인가?",
+            "a": "빅테크 기업들의 구체적인 AI 서비스 수익화 실적과 연준의 금리 긴축 행보 완화가 확인되어야 한다."
           }
         ]
       },
-      "연준 추가 금리 인상 전망": {
-        "headline": "연준 추가 금리 인상 시사 및 빅스텝 거론",
+      "다우 5만선 붕괴": {
+        "headline": "AI 투자 회의론 확산에 뉴욕증시 급락하며 다우 5만선 붕괴",
         "facts": [
-          "마이클 바 연준 이사가 인플레이션이 여전히 지나치게 높다고 지적하며 기준금리의 추가 인상이 적절하다는 매파적 입장을 공식화했다.",
-          "연준 내부에서는 인플레이션 억제를 위해 한 번에 0.5%p를 올리는 '빅스텝' 가능성까지 거론되며 긴축 강도가 높아질 조짐을 보이고 있다.",
-          "JP모건은 연준이 향후 세 차례 연속으로 25bp씩 금리를 인상할 것이라는 전망을 내놓으며 고금리 장기화 가능성에 무게를 실었다.",
-          "AI 투자 확대가 물가 상승의 새로운 변수로 떠오르면서 금리 인하 기대감은 후퇴하고 시장의 긴장감은 다시 고조되는 분위기다."
+          "뉴욕증시에서 AI 대어 앤트로픽 상장에도 불구하고 3대 지수가 일제히 2%대 급락세를 나타냈다.",
+          "지수 하락 여파로 다우존스30산업평균지수가 50,000선 밑으로 떨어지며 지지선을 내주었다.",
+          "AI 분야에 대한 천문학적 투자 대비 수익성에 대한 회의론이 유입된 것이 증시 폭락의 주요 배경으로 작용했다.",
+          "대형 기술주를 비롯한 주요 종목 전반으로 매도세가 확산되며 증시 변동성이 극대화되었다."
         ],
         "watch": [
-          "다음 FOMC 점도표 내 금리 상단 변화",
-          "미국 소비자물가지수(CPI) 발표 수치",
-          "AI 산업 투자 규모와 물가 상관관계 분석"
+          "다우지수 5만선 재탈환 여부 및 기술적 지지선 형성",
+          "AI 기업들의 분기 실적 발표 및 수익성 검증"
         ],
         "qna": [
           {
-            "q": "연준 내부에서 동결 기조를 깨고 다시 '빅스텝'까지 거론하게 된 결정적 배경은 무엇인가?",
-            "a": "인플레이션 둔화 속도가 예상보다 더디고 고용 시장이 여전히 과열 양상을 보이고 있기 때문이다. 물가 목표치 달성을 위해 더 강력한 통화 긴축이 필요하다는 공감대가 위원들 사이에서 확산되었다."
+            "q": "앤트로픽 상장 호재에도 다우 5만선이 붕괴된 시장의 핵심 역설은 무엇인가?",
+            "a": "대형 IPO 성사가 재료 소멸로 인식된 데다, 빅테크의 AI 투자 대비 수익성 부족 지적이 전반적인 투심을 냉각시켰다."
           },
           {
-            "q": "AI 산업에 대한 대규모 투자가 물가 상승을 유발하는 변수로 지목되는 이유는 무엇인가?",
-            "a": "AI 인프라 구축을 위한 막대한 자금 유입이 원자재 수요를 자극하고 관련 임금을 상승시켜 비용 인상 인플레이션을 초래할 수 있기 때문이다. 이는 연준이 금리 인하를 주저하게 만드는 새로운 경제적 압력으로 작용한다."
+            "q": "다우 5만선 하향 이탈이 글로벌 증시와 투자자 포지션에 미치는 연쇄 영향은 무엇인가?",
+            "a": "심리적 마지노선 이탈로 위험자산 회피 성향이 강해지며 글로벌 자금이 안전자산으로 이동하는 현상이 가속화된다."
           },
           {
-            "q": "JP모건의 3회 연속 인상 전망이 현실화될 경우 글로벌 자산 배분 전략의 분기점은 어디인가?",
-            "a": "연속 인상이 단행되면 기술주 등 성장주에 대한 할인율이 높아져 자금 이탈이 가속화될 수 있다. 투자자들은 위험 자산 비중을 줄이고 고금리 혜택을 누릴 수 있는 채권이나 현금성 자산으로 포트폴리오를 재편할 가능성이 크다."
+            "q": "다우지수가 5만선을 재탈환하기 위해 필요한 거시경제적 조건은 무엇인가?",
+            "a": "연준의 긴축 기조 완화 시그널과 함께 주요 기술주들의 과감한 실적 반등이 입증되어야 한다."
           }
         ]
       },
-      "뉴욕증시 혼조세 마감": {
-        "headline": "앤트로픽 상장 호재에도 유가·금리에 혼조세",
+      "연준 긴축 우려": {
+        "headline": "연준 매파 발언과 연속 금리 인상 전망에 금값 14개월래 최저",
         "facts": [
-          "뉴욕증시는 앤트로픽의 나스닥 상장 소식에 기술주 중심으로 급등하며 출발했으나 유가와 금리 상승 압박에 밀려 혼조세로 마감했다.",
-          "앤트로픽이 상장 첫날 폭등하며 나스닥 지수를 한때 1.9%까지 끌어올렸으나 다우와 S&P500 지수는 하락 전환하며 온도차를 보였다.",
-          "국제 유가 상승과 국채 금리 급등이 시장의 안전 자산 선호 심리를 위축시키며 장 초반의 상승분을 대부분 반납하는 결과를 초래했다.",
-          "나스닥 선물 시장은 앤트로픽 IPO 효과로 2%대 급등세를 보이기도 했으나 장 후반 차익 실현 매물이 쏟아지며 변동성이 극대화되었다."
+          "JP모건이 연준의 향후 3회 연속 25bp 금리 인상을 전망하면서 통화 긴축 공포가 다시 확산되었다.",
+          "시카고 연은 총재는 경제 과열을 막는 것이 연준의 현 당면 과제라고 밝혀 매파적 기조에 힘을 실었다.",
+          "긴축 우려와 강달러 영향으로 뉴욕 금 가격이 1.4% 하락하며 14개월 만에 최저치를 기록했다.",
+          "국내 금융권의 해외 부동산 투자 부실 우려 규모가 반년 만에 27% 급증하는 등 고금리 여파가 확산하고 있다."
         ],
         "watch": [
-          "미국 국채 10년물 금리의 5% 돌파 여부",
-          "국제 유가 변동 폭과 에너지주 향방",
-          "앤트로픽 상장 이후 기술주 수급 이동 경로"
+          "연준의 다음 FOMC 금리 결정 및 점도표 변화",
+          "금융권 해외 부동산 대출 부실화 비율 추이"
         ],
         "qna": [
           {
-            "q": "앤트로픽 상장이라는 대형 호재에도 불구하고 다우와 S&P500 지수가 하락 전환한 원인은 무엇인가?",
-            "a": "유가와 금리 상승이 실물 경제에 부담을 줄 것이라는 우려가 기술주 호재보다 더 크게 작용했기 때문이다. 전통 산업 비중이 높은 다우 지수는 비용 상승 압박에 더 민감하게 반응하며 하락세를 보였다."
+            "q": "시카고 연은 총재의 발언과 JP모건의 3회 연속 금리 인상 전망이 시장에 준 충격은 무엇인가?",
+            "a": "경제 과열 억제를 위한 금리 인상 기조가 장기화될 것이라는 우려가 자산 시장 전반의 긴축 공포를 재점화했다."
           },
           {
-            "q": "나스닥 지수가 장중 1.9% 급등 후 다시 하락세로 돌아선 변동성의 핵심 메커니즘은 무엇인가?",
-            "a": "앤트로픽 상장 직후 유입된 투기적 매수세가 국채 금리 상승이라는 거시적 악재를 만나며 빠르게 차익 실현 매물로 변했기 때문이다. 금리 상승은 기술주의 미래 가치를 깎아내려 주가 하락을 유도한다."
+            "q": "연준 긴축 강화와 강달러가 금 가격 및 해외 부동산 투자 부실에 미친 경로는 무엇인가?",
+            "a": "무이자 자산인 금의 유인성을 떨어뜨려 금값을 14개월래 최저로 낮췄고, 고금리로 해외 부동산 리파이낸싱이 막혀 부실이 27% 늘었다."
           },
           {
-            "q": "유가와 금리 상승이 AI 기술주 중심의 상승 랠리를 저지하는 임계점은 어느 수준인가?",
-            "a": "국채 금리가 특정 저항선을 돌파하거나 유가가 기업의 이익 마진을 훼손하는 수준까지 오를 때 랠리는 멈춘다. 현재 시장은 앤트로픽의 개별 호재와 거시 경제의 하방 압력이 팽팽하게 맞서는 구간에 진입했다."
+            "q": "연준의 긴축 행보가 완화로 돌아설 수 있는 결정적 조건은 무엇인가?",
+            "a": "미국 경제 지표의 과열 양상 진정과 함께 원유 및 주요 원자재 가격 하락에 따른 물가 안정세가 지속 확인되어야 한다."
           }
         ]
       }
@@ -688,7 +669,7 @@
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52T21HOURqWGNIQUpyUm9vYXFsZ01jbS02T01ObTJhOGNMVnR0VEJ1akxyTk9mdHpSemlDWGtvYnhNQk1lOW5FVk1nUnh3MVI5dENqNEhR?oc=5",
           "source": "지디넷코리아",
           "published": "11-19 14:29",
-          "snippet": "대한민국 수출 1조 달러 돌파…K-반도체가 해냈다 지디넷코리아 반도체 호황에 수출 1조 달러 달성‥세계 4번째 MBC 뉴스 수출 1조달러 기념…내달 3일 한강 밤하늘에 드론 1천대 뜬다 연합뉴스 AI가 이끈 수출 1조 달러…반도체 의존 속 새 성장동력 찾기 전기신문 ‘반도체 축복’ 이후가 걱정⋯ 높아지는 보호무역 장벽 넘어야 국민일보"
+          "snippet": "대한민국 수출 1조 달러 돌파…K-반도체가 해냈다 지디넷코리아 수출 1조달러 돌파, 獨·美·中 이어 4번째 조선일보 “美·中·EU 무역장벽, 中 저가공세…새 수출품목 키워 대응해야” 마켓인 이 대통령, ‘수출 1조 달러’ 달성에 “국민 모두의 노력이 만든 결실” KBS 뉴스 \"내년 수출 1.3조달러\" 훈풍 기대 속…\"나만 팍팍해?\" 내수는 '한파' - 머니투데이 머니투데이"
         },
         {
           "title": "수출 1조 달러 시대…'K-푸드+' 120억 달러 돌파, 역대 최고 - 대한민국 정책브리핑",
@@ -698,85 +679,106 @@
           "snippet": "수출 1조 달러 시대…'K-푸드+' 120억 달러 돌파, 역대 최고 대한민국 정책브리핑 Google 뉴스에서 헤드라인 및 의견 더보기"
         },
         {
-          "title": "수출 1조달러 훈풍에 반도체주 강세…코스피 5130선 회복 - 뉴스토마토",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LbFFULUhzMTBKR2NtTFlrQnJxeldTZzhtVUNEWFNTcU5oc1lUbjNRdVhRZE1jb0FYMjRuWVg4SDcyeDJIdFdkNGxZX1RWYzZvM0xQUTBpSDVOMmpTcUJxSw?oc=5",
-          "source": "뉴스토마토",
-          "published": "11-19 17:09",
-          "snippet": "수출 1조달러 훈풍에 반도체주 강세…코스피 5130선 회복 뉴스토마토"
+          "title": "\"삼성전자·TSMC, 中에 일부 칩 출하 중단…美 수출통제\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fSkxqZjRRWXJlSldwR1NTUWhaRzRkM3JMWGowbUVSTmhKUjh6azVia0dRTGJqVk9WNGZ3cF83V05WUWV1bXFmZDAzTFpCT3N5aUp0MDg5SDdsRndtUHVSaFJQVWRMWllSSHRac2RSVEQ?oc=5",
+          "source": "연합인포맥스",
+          "published": "11-20 08:08",
+          "snippet": "\"삼성전자·TSMC, 中에 일부 칩 출하 중단…美 수출통제\" 연합인포맥스 미국, 중국의 AI 원격 접속 차단…중국, 강력 반발 KBS 뉴스 美, 작년말부터 6개월간 中기업에 첨단칩 90만개 수출 승인 매일경제 마켓 美 반도체 수출 통제 요지경… “텐센트 등 ‘중국軍 지원 기업’에 87만개 승인” 조선일보 FT \"삼성전자·TSMC, 중국에 일부 칩 출하 중단\" 연합뉴스"
         },
         {
-          "title": "코스피-코스닥 '상승', 원달러환율 '하락' - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nSXU4Uk1LQndMWXVJbXpzTkowV0VnNk1vSE8zVnpUYktCSVlpR1NhUHd3cWVxejIzOURlSVhhb0pMa2xFa3VRX05lTQ?oc=5",
+          "title": "달러 또 최고치 경신인데…환율 4일 연속 하락해 1,330원선 - 한국무역협회-KITA.NET",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNDc3ZFZieG1sSHdaQ0xVSjc2djFsZUdPTzZLWXk1clZndWVQeEUzUzEzcGxmVHNTX0s1U0RwM1VYX3FvdFc2M1FzSWVlUWlnaXlZQW5oQ0VvNUtLVFY5NmMta3B0bE9WOGdoeTZES2V1SGdONldsMHJ3Tm92SGlOQnp6by1nTGpJSmtacXo1b3JCbmVuZW5kZ1FEbXVlTkdpdnFIZHoxc2FPeW9Ka1d0UDM0cXVlRFZ5N2R3SmU1NUJHUDRFcU1BbUUzd21WdWlicC00X2tn?oc=5",
+          "source": "한국무역협회-KITA.NET",
+          "published": "11-19 16:15",
+          "snippet": "달러 또 최고치 경신인데…환율 4일 연속 하락해 1,330원선 한국무역협회-KITA.NET Google 뉴스에서 헤드라인 및 의견 더보기"
+        },
+        {
+          "title": "앤트로픽, 나스닥 데뷔 첫날 17% 상승 마감…종가 97.17달러 - 지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wd3U4Sk9pNnE3YkY0SkJvYnJ4OTZ2U2xOWWt6eVZNTUt0YU8weHh5SDlEUTVRWVJXUTV4dUxWaS1jQkZEQnp2MTNkM0pTWUNXb0Q5WHFn?oc=5",
+          "source": "지디넷코리아",
+          "published": "11-20 08:02",
+          "snippet": "앤트로픽, 나스닥 데뷔 첫날 17% 상승 마감…종가 97.17달러 지디넷코리아"
+        },
+        {
+          "title": "[뉴욕 금가격] 연준 긴축 우려·강달러에 1.4%↓…14개월來 최저 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81RHhUM05NZlF6NHFIU0tCb3VrcHhtOVZ0TUx0dUtpcjJQZ2hkQnctSXJfWW4yZ1VQUTN3dEtoV2Q3VTFEZk1WWUUycmx3TUVnTE5FN3NZRllnMy1aSzh5TVFxVnE1dG9XTDFQZ2RWNDQ?oc=5",
+          "source": "연합인포맥스",
+          "published": "11-20 04:43",
+          "snippet": "[뉴욕 금가격] 연준 긴축 우려·강달러에 1.4%↓…14개월來 최저 연합인포맥스"
+        }
+      ],
+      "수능날 바뀐 증시 시간표": [
+        {
+          "title": "\"개장은 10시, 프리마켓 휴무\"…수능 날 바뀐 증시 시간표 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55dnpFRnFFWXJWaDFud3RUUEFJdkxNUFZRYlYzeVNzMElZS2dyeF9zNmRSd3l0MEVCd1AtNk5Sb2hGV1ZhUklYMzh5UkdZXy1UWGFEdWpEUnpRWUZoOFpZ?oc=5",
           "source": "뉴스1",
-          "published": "11-19 16:51",
-          "snippet": "코스피-코스닥 '상승', 원달러환율 '하락' 뉴스1 코스피, 앤트로픽 상장 앞두고 등락 끝에 1.4% 상승 마감(종합) 연합뉴스 \"AI 투자심리·한한령 풀리나\" 기대감… 수능일 '증시 한파' 없었다 - 머니투데이 머니투데이 엔비디아 호실적·앤트로픽 IPO 겹호재에도…외국인 ‘셀코리아’ 여전 세계일보 코스피 장중 외국인·기관 매도에 5000선 아래로, 코스닥도 1%대 하락 전환 비즈니스포스트"
+          "published": "11-19 06:00",
+          "snippet": "\"개장은 10시, 프리마켓 휴무\"…수능 날 바뀐 증시 시간표 뉴스1 수능에 오전 10시 개장한 증시...코스피 상승 출발 YTN 오늘 수능시험으로 증시 1시간 늦게 개장 KBS 뉴스 “10시까지 출근 아니었어요?”…대기업 직장인이 수능날 지각한 까닭 매일경제 수능날엔 주가 떨어진다?…10년치 코스피 성적표 살펴보니 한국경제"
         },
         {
-          "title": "FT \"TSMC·삼성전자, 일부 중국 고객사에 반도체 출하 중단…美 수출 규제 여파\" - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LbUFWYW9VMEF1Vlgwd1R1NGpEUXAwWlhnZlByaGgyUmhLclhxbGxwaEFfNGd1LXU2ZE9MbGlZcFlHUTAzTEpqMHJPUEZEZFNSWndXenlGS01jLXRw?oc=5",
-          "source": "뉴스핌",
-          "published": "11-19 20:03",
-          "snippet": "FT \"TSMC·삼성전자, 일부 중국 고객사에 반도체 출하 중단…美 수출 규제 여파\" 뉴스핌 미국, 중국의 AI 원격 접속 차단…중국, 강력 반발 KBS 뉴스 [신문은 선생님] [한입 테크 사전] 美 반도체 수출 통제하자… 中 기업, GPU 아껴 핵심 정보만 고르는 AI 만들었어요 조선일보 FT\"삼성전자·TSMC, 중국 고객사에 반도체 출하 중단 통보\" - 머니투데이 머니투데이 칩·부품 통제론 모자라… 美, 중국산 AI 사용 내역 공개 방안 논"
+          "title": "\"AI 투자심리·한한령 풀리나\" 기대감… 수능일 '증시 한파' 없었다 - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oT3ZCSEV6OWNCdU5EN1F3R2ZLTjd5VFNBdkZoTkVkVXhfdXpvWDFCa0M5MlNxVHNxUERjUU1qVnYzT3pqbnlSb0JjdDQ1QVc4UXNrV2JGZWdpemdjMUVoRnlkUUFINTZH0gFuQVVfeXFMUFZTWERzbllYcUt3UlRhck9ycEVfMVZqdXhxUVd6ZlFTUlV5NGZWTXZ2NTlTSzRMYkUzOXBvM3lWT0QtMmp2cE1QWTF3WUxBd05OZ0lGMDZqV29DdXJPQ2Rtcm45bVI2eU1MMkJMZGc?oc=5",
+          "source": "머니투데이",
+          "published": "11-20 04:17",
+          "snippet": "\"AI 투자심리·한한령 풀리나\" 기대감… 수능일 '증시 한파' 없었다 - 머니투데이 머니투데이 양대증시 상승 마감…앤트로픽 IPO에 반도체 투자심리 회복되나 머니투데이 장중 5천 선 오르내린 코스피, 1.4% 상승하며 5,100선 회복 MBC 뉴스 \"11월 말~12월 10일, 4500선 안 깨지길\"…수급 꼬인 변동성 장세 전망 뉴시스 코스피 장중 외국인·기관 매도에 5000선 아래로, 코스닥도 1%대 하락 전환 비즈니스포스트"
         },
         {
-          "title": "안 찾아간 실손보험금 최대 1조 원‥내년부터 앱이 찾아준다 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oYlkyY2ZLejN4czRweUI0ckg4LWxqU3JrSC1HVTJyWURFUDZqdXZHVDRyamhVcWszc2g0Y3E3WEk4aXRVZlVMcE1JelFFQ3U5bWJCbHB3QUJnQllEUjZJWWZmeV9tOXRVNlJvbXh6a2lnNVhi0gF0QVVfeXFMTWpmSkZtWlh1djUxaTJSNG5vQVBIdEhwalR5TkhIS3RDcEYxLUhFS0ppQk95UmlqQl9LWE90andqY3NYUGs5eHpmdmFDSlhBdG45WTVCRUNLOXBNTllMUDRxMEVEVm9GejR0T0NBajZzMThfaEM?oc=5",
-          "source": "MBC 뉴스",
+          "title": "증시 고래, 퇴직연금 ‘메기’ 될까 [연금 구조개혁]⑪ - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lOFNLLThwS2NhR2lRRVdDdjFuNDZxUlRCeWJpQzdUS1pSWEdTZG1USjdzTzZuRmRTX0JuOU1VLWRJU1hYSzctTTd1bXBEMTVQWmdmR3U4SG5TWnBqelpYekJXNkRnQQ?oc=5",
+          "source": "KBS 뉴스",
+          "published": "11-19 14:05",
+          "snippet": "증시 고래, 퇴직연금 ‘메기’ 될까 [연금 구조개혁]⑪ KBS 뉴스 “변동성 큰 시장… 퇴직연금, 국채 밑바탕 ETF 비중 30% 이하로” 동아일보 금감원 \"퇴직연금 단기실적 경쟁안돼…변칙 고금리 등 엄정대응\" 연합뉴스 금감원, 퇴직연금 업계 '과당경쟁' 질타…\"책무 망각 말라\" 연합인포맥스 “퇴직연금 501조 시대, 수령 계좌 10개 중 8개는 ‘일시금’” 이투데이"
+        },
+        {
+          "title": "5천피 무너진 증시…'주식형 헤지펀드'도 3천400억원 자금 순유출 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05WDVncGVtU1NhNHRRcHZPVnRwajZ6cHRzVnFra0IwenRURXZDbUJEYm42V2hfRi1fUkx0WUF1dk1GaFR2aEVLS201THVFMjFHQjVodGM5TVVVMHFaSmRKSldUN0VrNTVqbXEzeHNZTHk?oc=5",
+          "source": "연합인포맥스",
           "published": "11-19 14:15",
-          "snippet": "안 찾아간 실손보험금 최대 1조 원‥내년부터 앱이 찾아준다 MBC 뉴스 최근 3년 놓친 실손보험금, 내년부터 '실손24'서 확인·청구 대한민국 정책브리핑 1·2세대 실손보험가입자, 5세대로 전환하면 3년간 보험료 반값 동아일보 3년간 1조 쌓인 미청구 보험금 찾아준다…23일부터 5세대 할인 연합뉴스 잊고 있던 실손보험금 3년치…‘실손24’ 앱에서 한 번에 경향신문"
+          "snippet": "5천피 무너진 증시…'주식형 헤지펀드'도 3천400억원 자금 순유출 연합인포맥스 증시 대기자금, 85조원 밑으로…다시 연중최저 수준으로 감소 연합뉴스 투자자 예탁금 연저점 수준 급감…주식투자 매력↓ 매일경제 마켓 증시 유동성 유출 지속…투자자예탁금 85조 아래로 후퇴 글로벌이코노믹 말라가는 증시 실탄…예탁금, 84조 원대로 연중 최저치 경신 [마켓시그널] 서울경제"
+        },
+        {
+          "title": "“증시 재평가, 1만피 돌파한다”…조마조마 코스피에 월가 전망 엇갈려 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95a0NaXzMzaG1uaF9ZVDRFZURZRkcweVNJbmRfalMtVThLdWRUVlIxN2p2YTh5d0otTTk1UFU1X3VDWjVrYlZyV2dlZC0wT2tDd3c?oc=5",
+          "source": "매일경제 마켓",
+          "published": "11-20 08:19",
+          "snippet": "“증시 재평가, 1만피 돌파한다”…조마조마 코스피에 월가 전망 엇갈려 매일경제 마켓"
+        },
+        {
+          "title": "[마켓뷰] 앤트로픽 상장에도 美증시 하락…코스피 향배는 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRejlXYldwNDEzLWsxalJGMDNNWkxQVHZ6ZHRtRGRxRFdBRXRPaEU2TGxlUnMzekpXaGFSOEktYmhjUHNndWVfb1FlcGFBalRYMnc?oc=5",
+          "source": "매일경제 마켓",
+          "published": "11-20 08:01",
+          "snippet": "[마켓뷰] 앤트로픽 상장에도 美증시 하락…코스피 향배는 매일경제 마켓"
         }
       ],
       "서울 아파트값 하락 전환": [
         {
-          "title": "93주 연속 올랐지만 힘 빠진 서울 아파트값… 용산·동작구도 하락 전환 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbmZ0cFhGQ1Q3NjdzN052c0stYXB0bUpPdGtOR09vdF9wY2pCRWJ2RFU4NkxwUDNFYldDVzRDVHpjaDktR1IwbFpOYk1DUW5RYUlUUHJvN0FnT3JkNFV0NHZJMkdtcFc0M080bFctVUZiNE1kS1ItT0dJOUNvSklabmVDWDBOUzlJeVp6NUlMWUVBb2F1MjJ1NtIBrAFBVV95cUxOckpCNGtmbTU1Q1JBdUhJMHdqYUlkMnFob0dIZHp2NTBqWk9FQVdDemxKU09hZU5KNGwxT3BzbWl2eFl0ZE1Vc3JTd2ZHYTZHbTZWdERmMWw5RUoxTEJYWWY4aWU2QkxQc3d1SWQ3MEdLSWp5M3ZnNjgzN3phYjFYX1ZVdDAyNWpVUGJkYndDenctUXBpNjFteTUxdnJSOWpaX0Y4WVBaMS1PcW1x?oc=5",
-          "source": "Chosunbiz",
-          "published": "11-19 15:24",
-          "snippet": "93주 연속 올랐지만 힘 빠진 서울 아파트값… 용산·동작구도 하락 전환 Chosunbiz ‘한강벨트’ 용산·동작도 집값 하락 경향신문 [사설]집값 상승 둔화, 더 시급한 건 전월세 안정 - 머니투데이 머니투데이 [그래픽] 서울 아파트 매매가격지수 변동률 추이 뉴스1 KB부동산 \"강남 3구 이어 용산구도 하락 전환…동탄구 0.87%↑\" 연합인포맥스"
+          "title": "서울 아파트값 93주째 올랐지만 한강벨트 속속 하락 전환 - JTBC",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05WFFYTGNxV25zeGhwN0RZc0JwRTlVQnNoZW1yVVJHVjY3QTNqUDY3dlhaeWhLOWNpaDNYS1JOVnJkU3B6QXVfdzVEVzlzMFhnSGxFcw?oc=5",
+          "source": "JTBC",
+          "published": "11-19 18:06",
+          "snippet": "서울 아파트값 93주째 올랐지만 한강벨트 속속 하락 전환 JTBC 봄 이사철 '전세 가뭄' 심해질 텐데…치솟는 전셋값, 꺾이는 집값 흔든다 - 머니투데이 머니투데이 ‘한강벨트’ 용산·동작도 집값 하락 경향신문 KB부동산 \"강남 3구 이어 용산구도 하락 전환…동탄구 0.87%↑\" 연합인포맥스 같은 동네 집값 오르락내리락…뭘 믿어야 하나 [심형석의 부동산 정석] 한국경제"
         },
         {
           "title": "앤스로픽 기대에 뛰던 뉴욕증시… 유가·금리 오르자 다우·S&P500 하락 전환 - 조선일보",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZkozS3U3U05LNGRJZTcza3JMSmtaWVdGT00zUGdlMzVHcUdZc2tzRlJPcVIzbFhtSDhRZWNLZGtjZTVUemlNSnJQRUYtU0l0T2Q4ZGFLbUdEb1N3RFVkc0FLR0wxblBRSWVHZzQ5eDd5cU9BQTdVMzhwVVMzMUNaMWFab1AzRXUw?oc=5",
           "source": "조선일보",
-          "published": "11-20 01:07",
+          "published": "11-20 01:00",
           "snippet": "앤스로픽 기대에 뛰던 뉴욕증시… 유가·금리 오르자 다우·S&P500 하락 전환 조선일보"
         },
         {
-          "title": "[뉴욕증시]다우 하락세로 전환…나스닥, 1.7% ↑ - 아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBN0ZPd3FOb3lTSlZrSklreDVMcXZ3cUFwSWpON3RZSldDOFQxY0NxTUIxa0N2Y1hGQTYwMkNhRnE2UHVJMzB6ZUZ1NlQyX1hBdXJhdTVYaHh1Tm4xSkptRg?oc=5",
-          "source": "아시아경제",
-          "published": "11-20 00:04",
-          "snippet": "[뉴욕증시]다우 하락세로 전환…나스닥, 1.7% ↑ 아시아경제"
+          "title": "[서울데이터랩]미 뉴욕증시 급락 마감…다우 2.19%·나스닥 2.25% 하락 - 서울신문",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8ya2NTTVh3c0REdElqdmp4MGt4SjcwdHVTazlDSXllLXVuS3R5NG05REJUWnN0MFFtaHpGanZydHdHdm85aUdHekZWYldXeHpwUTFZb2FjXzNZeDJJdDRndy02MDZ6S0Ewb2o4M0lHMXpUTHRPZXAw?oc=5",
+          "source": "서울신문",
+          "published": "11-20 06:27",
+          "snippet": "[서울데이터랩]미 뉴욕증시 급락 마감…다우 2.19%·나스닥 2.25% 하락 서울신문"
         },
         {
-          "title": "뉴욕증시, 하락세로 전환…나스닥 1.50%↓ - 블루밍비트",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kSDFveG9Kem5qcUdacHVHSGVPU00tdXRSVkRCRl9xYnEwUXo2cHVtZl9zcGktd0JPTmxhTnVNdDUyMnloaW5JZGJWVVA0RFRp?oc=5",
-          "source": "블루밍비트",
-          "published": "11-20 02:08",
-          "snippet": "뉴욕증시, 하락세로 전환…나스닥 1.50%↓ 블루밍비트"
-        },
-        {
-          "title": "코스피-코스닥 '상승', 원달러환율 '하락' - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nSXU4Uk1LQndMWXVJbXpzTkowV0VnNk1vSE8zVnpUYktCSVlpR1NhUHd3cWVxejIzOURlSVhhb0pMa2xFa3VRX05lTQ?oc=5",
-          "source": "뉴스1",
-          "published": "11-19 16:51",
-          "snippet": "코스피-코스닥 '상승', 원달러환율 '하락' 뉴스1 코스피, 앤트로픽 상장 앞두고 등락 끝에 1.4% 상승 마감(종합) 연합뉴스 \"AI 투자심리·한한령 풀리나\" 기대감… 수능일 '증시 한파' 없었다 - 머니투데이 머니투데이 엔비디아 호실적·앤트로픽 IPO 겹호재에도…외국인 ‘셀코리아’ 여전 세계일보 코스피 장중 외국인·기관 매도에 5000선 아래로, 코스닥도 1%대 하락 전환 비즈니스포스트"
-        },
-        {
-          "title": "美 국채가, 전반적 하락…주가지수 강세에 안전 선호↓ - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YTkNodzdwd2lsa0Y0ZTdkT01USFdqRk9Zd0JtbnBhSHZhS2RDMGo4M0pzQWlNRUFXSnNTamhBNExuV2pzVGVYWDNRNURWMXoxa0taWTdKTG9fZ0tVRDRTYURyZmVQZ3VOYk10c011Y1U?oc=5",
-          "source": "연합인포맥스",
-          "published": "11-20 01:40",
-          "snippet": "美 국채가, 전반적 하락…주가지수 강세에 안전 선호↓ 연합인포맥스 \"서학개미들 어쩌나\"…미국발 심상찮은 신호에 '초긴장' [분석+] 한국경제 연준 의사록 보니… “금리 더 올려야” 거의 한목소리, 12월 ‘빅스텝’도 거론 조선일보 연준 부의장 \"기대 인플레 목표에 고정 못하면 더욱 강력한 대응 정당화\" 연합인포맥스 JP모건 \"연준, 향후 3회 연속 25bp 금리인상 전망\" 연합인포맥스"
-        }
-      ],
-      "원달러 환율 하락세": [
-        {
-          "title": "코스피-코스닥 '상승', 원달러환율 '하락' - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nSXU4Uk1LQndMWXVJbXpzTkowV0VnNk1vSE8zVnpUYktCSVlpR1NhUHd3cWVxejIzOURlSVhhb0pMa2xFa3VRX05lTQ?oc=5",
-          "source": "뉴스1",
-          "published": "11-19 16:51",
-          "snippet": "코스피-코스닥 '상승', 원달러환율 '하락' 뉴스1 코스피, 앤트로픽 상장 앞두고 등락 끝에 1.4% 상승 마감(종합) 연합뉴스 \"AI 투자심리·한한령 풀리나\" 기대감… 수능일 '증시 한파' 없었다 - 머니투데이 머니투데이 엔비디아 호실적·앤트로픽 IPO 겹호재에도…외국인 ‘셀코리아’ 여전 세계일보 코스피 장중 외국인·기관 매도에 5000선 아래로, 코스닥도 1%대 하락 전환 비즈니스포스트"
+          "title": "기상호조·수요감소로 농림수산품 내려‥10월 생산자물가지수 0.1% 하락 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zcjE1cHUxaU1FeVZfaGJ0QjJ3TFZPaU1ub3U3UEpOVThlN2ZZNEVBV0M2QzQ5aVVET0tyY1NNQndHMHRvZUV2aGFTbjhPMTZaNzdzRks0bFFrMzBabzhxYTJ4MDhCZi1WUEY5OHMtNzh5TExi0gF0QVVfeXFMT3JILUdMMUZCZWFreE9lNHU5NHNKY1hyS1ZyMG9RVnBJeWtuLV9rTTJuVWxhTGRnU2Rad19sSV82aTNoZ2RUbEZOb1pHLVdtcGV1a29XRWVCZ3FoOEpxOTkxQ3E0YTY2U0xVZ0FvOHBEMDFNa0o?oc=5",
+          "source": "MBC 뉴스",
+          "published": "11-20 06:01",
+          "snippet": "기상호조·수요감소로 농림수산품 내려‥10월 생산자물가지수 0.1% 하락 MBC 뉴스 10월 생산자물가 0.1% 하락…사과 29.2%·돼지고기 12.8%↓ 연합뉴스 10월 생산자물가 0.1% 내려…석달 만에 하락세로 돌아서 한겨레 사과·돼지고기 내림세에 10월 생산자물가, 석 달 만에 하락 전환 조선일보 사과 29%·돼지고기 13%↓…생산자물가 석 달 만에 하락 매일경제 마켓"
         },
         {
           "title": "달러 또 최고치 경신인데…환율 4일 연속 하락해 1,330원선 - 한국무역협회-KITA.NET",
@@ -791,87 +793,124 @@
           "source": "한국무역협회-KITA.NET",
           "published": "11-19 13:11",
           "snippet": "한은 \"환율 10% 하락하면 가구당 생활비 연 16만5천원 절감\" 한국무역협회-KITA.NET Google 뉴스에서 헤드라인 및 의견 더보기"
-        },
-        {
-          "title": "[뉴욕증시]다우 하락세로 전환…나스닥, 1.7% ↑ - 아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBN0ZPd3FOb3lTSlZrSklreDVMcXZ3cUFwSWpON3RZSldDOFQxY0NxTUIxa0N2Y1hGQTYwMkNhRnE2UHVJMzB6ZUZ1NlQyX1hBdXJhdTVYaHh1Tm4xSkptRg?oc=5",
-          "source": "아시아경제",
-          "published": "11-20 00:04",
-          "snippet": "[뉴욕증시]다우 하락세로 전환…나스닥, 1.7% ↑ 아시아경제"
-        },
-        {
-          "title": "뉴욕증시, 하락세로 전환…나스닥 1.50%↓ - 블루밍비트",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kSDFveG9Kem5qcUdacHVHSGVPU00tdXRSVkRCRl9xYnEwUXo2cHVtZl9zcGktd0JPTmxhTnVNdDUyMnloaW5JZGJWVVA0RFRp?oc=5",
-          "source": "블루밍비트",
-          "published": "11-20 02:08",
-          "snippet": "뉴욕증시, 하락세로 전환…나스닥 1.50%↓ 블루밍비트"
-        },
-        {
-          "title": "달러 또 최고치 경신인데…환율 4일 연속 하락해 1,330원선 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mOVdCUEVvYkt4dXdiVU9hZzQxbFNiZkRkNEo3dDRtMHJPM1RMQ1AwZTVZVlNuS0NRb0VSaFRTV3Q1RWQ2OEhmQUdOaGk5OWRJTm9LNm9OQUdrY2PSAWBBVV95cUxNaWRQSHJ6TDhBRTBpemtTUWJBYVMyM0ZqQnN4cHgzTDEydElzLWZ5OTdKZS1fU1I0RTUtQmdTcDdka2hIWTROX2RBSzZNS3JXWnVJMExhazlPZ21xN1ZyNU4?oc=5",
-          "source": "연합뉴스",
-          "published": "11-19 15:57",
-          "snippet": "달러 또 최고치 경신인데…환율 4일 연속 하락해 1,330원선 연합뉴스"
         }
       ],
       "앤트로픽 나스닥 상장": [
         {
-          "title": "뉴욕증시, 앤트로픽 나스닥 상장 앞두고 상승 출발 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yN0ZhTVU5TWYxYWIweFdKVFlqNkE5SHJIZEpOdmxjT3BjbklQbjg0a01yenRtTXpJSDJ0Y3Fkbl9kN2h2MDJ0ejlia200d0EzS0xXWGJJckVBeDTSAWBBVV95cUxNSEZLNGNGeWxsRS04V0tJV050Z1FMaGJkLUhMd28zNmlyb0Nha2Niczg3SXJ0X0lkV2ZGcU02bkZGRGRZQ0J3Q20xZm55WUpfcFNfdWk0VThVSWJBZWZjVTk?oc=5",
-          "source": "연합뉴스",
-          "published": "11-19 23:54",
-          "snippet": "뉴욕증시, 앤트로픽 나스닥 상장 앞두고 상승 출발 연합뉴스"
+          "title": "'앤트로픽' 나스닥 상장‥주가는 롤러코스터 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RMUJFSWFLc3doMEUwZUxnaW9LbXg0QkVUbld6X3J4dDVSbzdQV3JtZ3dWNVc4eGpoQ292ZGNWejlHTDZ0X1VUeUxkaTRzc19wdl9NNnhxTVBZXzRuMHJHNTRpSnZiUUNaOW1Rek41S0VMcjMxX2czSzVn?oc=5",
+          "source": "MBC 뉴스",
+          "published": "11-20 07:14",
+          "snippet": "'앤트로픽' 나스닥 상장‥주가는 롤러코스터 MBC 뉴스"
         },
         {
-          "title": "뉴욕 증시, 앤트로픽 나스닥 상장 앞두고 상승 출발 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwNUVNaExfckNCMlpxVHZEZzktVm5PeC1zRjJQV3hvOFNUTnJBMmFxOWlFajF1cExmWWJwNWJpWUE5Z0p6TkM5QlhOdzhRX2d5QUhBMERPVmxpWnJFaFJKUF81Q0NWRl9MM1lfMlg3RTZXNU9qTmc?oc=5",
-          "source": "YTN",
-          "published": "11-20 01:18",
-          "snippet": "뉴욕 증시, 앤트로픽 나스닥 상장 앞두고 상승 출발 YTN"
+          "title": "앤트로픽 나스닥 상장‥기술주 엇갈려 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uVXFIeUgtbWw3SUFVM1JBdVQ2b2lCUzdjZ1R1X1FkakRIVHJwVE1DX0JoYWIzZVp1MGhNNkdOdk9SdnR3YlBGZUtzNjBZc3N0Q3d5cmhnUmVSMV95dE5JZkdvZjQ3SmtrTnNsYVFaSDU2YjNIZU04eFZn0gF6QVVfeXFMTjNuTGUtT2kzLTNzT1ZUalZibjd2TWI4OFdxaEpaVTZ4XzBLSHNqdjlQc2laUUhKdThtOXRsNEpDbFlldjM3Ti1wZDFnemNOUmpDWVloQ3piTldMSllITnNxMUFxazRpNEhNOHdkaUFkMGN2MGNiTlRiU2c?oc=5",
+          "source": "MBC 뉴스",
+          "published": "11-20 07:47",
+          "snippet": "앤트로픽 나스닥 상장‥기술주 엇갈려 MBC 뉴스"
         },
         {
-          "title": "앤트로픽 ‘108조원’ IPO 최대어로 나스닥 상장 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSVkpaclBvS2ZXMGt3VlZLaUIzblU3WkFiQmhTdWJhc3pNR2FDZnhKdVU1OUF5TUdnTGlNaWZZSDhzQ2M0dlBBMEZQZnFzMUhSWElVRV9IaXVod9IBX0FVX3lxTE1jUXVFWVo0Q0U0c3RaTU1UaFp2Q3l1dEdoVmk0U3QtVVVLYmdtU0NJR2RydklxVDBzdlVnV1B0a2RQZlJGdXdVczdNV01zMnZ3YzNVdndMWGx1QUFXc0hv?oc=5",
-          "source": "경향신문",
-          "published": "11-19 20:45",
-          "snippet": "앤트로픽 ‘108조원’ IPO 최대어로 나스닥 상장 경향신문"
+          "title": "[글로벌증시] 美증시, 앤트로픽 상장에도 하락…나스닥 2%대↓ - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16UnU0Zm9ldHZxVElJWTY5QXByLURPR1hVQUhWeFptSy1GbTdfaWNnT0hZLXc5NWpZWWg4Z2stQjFGSUdLVk1oWjE2TlJaN3FUOXRpeVNUVnItRnc0TmhtTmE4QXRubGs?oc=5",
+          "source": "연합뉴스TV",
+          "published": "11-20 06:54",
+          "snippet": "[글로벌증시] 美증시, 앤트로픽 상장에도 하락…나스닥 2%대↓ 연합뉴스TV"
         },
         {
-          "title": "앤트로픽 CEO, 나스닥 상장날 \"AI속도조절…안전은 회사 DNA\"(종합) - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4S2xMaWRtYVk3ODZ2QlhHV003d09taTI0enNzYkMxRDhRckVLRTdVVktiakIybV9xQlNoVUVoSTduZ1VSYk85R2RRZllPYUxxV0E?oc=5",
-          "source": "매일경제 마켓",
-          "published": "11-20 04:42",
-          "snippet": "앤트로픽 CEO, 나스닥 상장날 \"AI속도조절…안전은 회사 DNA\"(종합) 매일경제 마켓"
+          "title": "최대어 '앤트로픽' 나스닥 상장‥\"AI 안전\" 강조 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBkaE0zNUt1X2FVQ1FENHdWSkxwaVU4RmF0MlotTjFScy1JTHI5cmpaWTNpNEc4Rk9uZHpKeWQ1RGZoVEh2Uk9LZWFrSUgzRmo5YzFpZmRUYnp4elhIbzhqY0RtNUlnZUlGdXg2dkc0X3ItMU1pMXA2Rmp30gF6QVVfeXFMTnVIbHc4Si1OTEJpM2M5TWh6S21LMkliWFpzMnlDcFA1ZTIxQ0pFSjk3Q3RKRVpNNXR3ZE1EeGR6Z3RVT2c5cXhudzBwWXVfYVVVaTlWNjg2N1FQOG5leTBFaGpBUlNMbndWdlIydWl6RzBBQnlXUzRwdFE?oc=5",
+          "source": "MBC 뉴스",
+          "published": "11-20 06:09",
+          "snippet": "최대어 '앤트로픽' 나스닥 상장‥\"AI 안전\" 강조 MBC 뉴스"
         },
         {
-          "title": "[속보]뉴욕증시, 앤트로픽 상장 기대에 상승 출발…나스닥 1.90%↑ - 문화일보",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wT2FQNWR1QzJXN1E2QTNha1JrOXFZRkRuRVg4Ri16bnJvbEM1b1g2bXVrQm9nVjkzeWdSZ0gyeEZoTXBvWklxOUtFeXkyb0RT?oc=5",
-          "source": "문화일보",
-          "published": "11-20 00:20",
-          "snippet": "[속보]뉴욕증시, 앤트로픽 상장 기대에 상승 출발…나스닥 1.90%↑ 문화일보"
+          "title": "앤트로픽 CEO, 나스닥 상장날 \"AI 속도조절‥안전은 회사 DNA\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9fVmdzSmVmUW1nZ0pnLW9KeFZnS2dIMzRQb09RUzVfTnVSR1dWOTRQMjRhSTJIbmZPUVJFZ2lEOGdqLUhEamJlSnlHV0VuQ0I5cEZaQnVSWXloZXFpeHMtYXhnd3BfenNWaGFhX2lmT0RrS1Ey0gF0QVVfeXFMT3ZrSDdadllQLTRaYlBCdi1fTFdVdmc1TXptR0pYQUtyN0ppaHV6T1lFVy1icEc5ZkwtdmtDQkdEblR3WWJXQlBoUnFFZDdjUkpqNmZVRU8waEtCanhySnFSWTk2WEYzSmNpS1hWcXRMVzRIOGg?oc=5",
+          "source": "MBC 뉴스",
+          "published": "11-20 06:35",
+          "snippet": "앤트로픽 CEO, 나스닥 상장날 \"AI 속도조절‥안전은 회사 DNA\" MBC 뉴스"
         },
         {
-          "title": "앤트로픽 '나스닥 상장' 첫 거래서 34% 상승…시총 2조달러 - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YVC0wMUd1dTMzSl9ESjFkNDN4VFltUWdhc2pGNVZEbHoyT1pMSm9fNV9CUFNodjUtQTE1WlFfRXByQ1RQNUVhMVBFTnNGZ0pTUFVvNDFSaW1oUUJ4MTcyOFZEdXFvbll0TTE4STJ30gFuQVVfeXFMT1hULTAxR3V1MzNKX0RKMWQ0M3hUWW1RZ2FzakY1VkRsejJPWkxKb181X0JQU2h2NS1BMTVaUV9FcHJDVFA1RWExUEVOc0ZnSlNQVW80MVJpbWhRQngxNzI4VkR1cW9uWXRNMThJMnc?oc=5",
-          "source": "머니투데이",
-          "published": "11-20 02:23",
-          "snippet": "앤트로픽 '나스닥 상장' 첫 거래서 34% 상승…시총 2조달러 - 머니투데이 머니투데이"
+          "title": "앤트로픽 상장 직후 AI株 투매…나스닥 2.25%↓ [뉴욕증시 브리핑] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zTVR6YjluNnQ4Y0loTmdLNDJCSHIxRkxlUlVpbUd3UkxHZ2VIUHZGRjFFVzRHQ2hBM1ZiYXVZVUtzcmFPTThTOWprb1lRVFVfUTBEVHNOME1pQQ?oc=5",
+          "source": "한국경제",
+          "published": "11-20 07:06",
+          "snippet": "앤트로픽 상장 직후 AI株 투매…나스닥 2.25%↓ [뉴욕증시 브리핑] 한국경제"
         }
       ],
-      "연준 추가 금리 인상 전망": [
+      "다우 5만선 붕괴": [
         {
-          "title": "바 연준 이사 \"인플레 지나치게 높아…추가 금리 인상 적절\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wVk8xLWxVTWRhTzduUWJRSzdGbmphMXVpbVdxYWV0X1g5NGVNNGZlQlQ3dGgwLXV0ek9OcldRTnE0dWc5bXRxaVBWc20zZ1JVc1E1T29KUEhPd2FOQjMtdnljUVlkV1ptNFJqR0dDS3Q?oc=5",
-          "source": "연합인포맥스",
-          "published": "11-19 06:00",
-          "snippet": "바 연준 이사 \"인플레 지나치게 높아…추가 금리 인상 적절\" 연합인포맥스"
+          "title": "앤스로픽 상장에도 뉴욕증시 3대 지수 2%대 급락… 다우 5만선 붕괴 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWV9PanAybzhlYWk2aktENUpNRE45bDFhLU5RdkczS2tSc1hZNmR3ZFc4S3R3Q3VDQUpwZUNVNkF4RTh4WE1YVXcxWXZlQzYzTlhxdllrMWRaSVJDVzBNN19ZOTRubTlSbHVpajU3R0FKSHNDaHIxVDR0eU1kVDdmcWNHNGdSWGI4?oc=5",
+          "source": "조선일보",
+          "published": "11-20 06:31",
+          "snippet": "앤스로픽 상장에도 뉴욕증시 3대 지수 2%대 급락… 다우 5만선 붕괴 조선일보"
         },
         {
-          "title": "미 연준, 추가 금리 인상 공감대...일부 위원 '빅스텝' 거론 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ORnhHczc2ZzZDbWZJbG5tNmMwLVVqVDhMTXU0MzFTb05zNkRlbFFqZkRfR2YtVWNtT1AtSkt0MkdTaWRYc3ZJVHN1dmFocDFEVVJIazB0TXVudDJMRlE?oc=5",
-          "source": "YTN",
-          "published": "11-19 08:26",
-          "snippet": "미 연준, 추가 금리 인상 공감대...일부 위원 '빅스텝' 거론 YTN"
+          "title": "[뉴욕증시] 앤스로픽 상장이 부른 역설...다우 5만선 붕괴 - 글로벌이코노믹",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNejFxSG1RNUdLaWYxdHFKVmJWQi1oTUh2QXhUZEJXNzZGVzNkMXlEYklHQmhQZkJnbW9JaHRsaWhnNUVueXNwV2NfZmFRTnFrYWgwcnRCcXZ5b0tsQUdxb0JDcmdNRDJfeE5GZ1VkTDY0VHJkMURwS2dqZWNzQmhYbC1fWTFwT0RQ?oc=5",
+          "source": "글로벌이코노믹",
+          "published": "11-20 06:24",
+          "snippet": "[뉴욕증시] 앤스로픽 상장이 부른 역설...다우 5만선 붕괴 글로벌이코노믹"
+        },
+        {
+          "title": "[해외시황] 뉴욕증시, 앤스로픽 IPO 흥행에도 '급락'…다우 5만선 붕괴 - 프라임경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EajBvVzAwVzRHS2w3TlFURzh6MGU5cnVEQTJTcXpEXzR4RGVIQmZycW02a0pEM2lCbXdWQVlwbE43N3FKVHhSSmFMQkpmZ1FmLUVFZC0tcm9uNGtaX3E4TA?oc=5",
+          "source": "프라임경제",
+          "published": "11-20 08:24",
+          "snippet": "[해외시황] 뉴욕증시, 앤스로픽 IPO 흥행에도 '급락'…다우 5만선 붕괴 프라임경제"
+        },
+        {
+          "title": "뉴욕증시, AI 투자 회의론에 2%대 급락…다우 5만선 붕괴 - 뉴시안",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VZnNpQUUwdkpLSXNDSVlRQjU1dGhsajllRm9nblI3Ymh4ajFKM0JWUXBLLUt5SHRCTHNEcFBqckt5dzc0ZVVtTGgwMFE3VFlKOEQ5SFIxZk1tSWU3ekdNSG5VS2NZTFhmQWczSA?oc=5",
+          "source": "뉴시안",
+          "published": "11-20 06:33",
+          "snippet": "뉴욕증시, AI 투자 회의론에 2%대 급락…다우 5만선 붕괴 뉴시안"
+        },
+        {
+          "title": "앤트로픽 상장에도 뉴욕증시 2%대 급락…다우 50,000선 붕괴(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TaEZZb0pROGhObG5YQ0F2eVIxS1AtUDBTVWhJZjdSM1k5NnlkaUQ2aXNFZXJ3bGV4dmY2amZPNEtkVFRHeDZEYU5BMEw1dTUtTmZFM3lCWVc4Y2PSAWBBVV95cUxPRUhRUjdjczBGVWZ0SnJiMncwQXBDODB5R0Y0ZW9LMl9GZzVRVmJSUUJray1ZMEdONXRDaW8yVXpuZ2NVTVcwZ0l6Zk1SX1lSVThhTTFpekUwalJoUnBDaHE?oc=5",
+          "source": "연합뉴스",
+          "published": "11-20 07:18",
+          "snippet": "앤트로픽 상장에도 뉴욕증시 2%대 급락…다우 50,000선 붕괴(종합) 연합뉴스"
+        },
+        {
+          "title": "앤트로픽 IPO 흥행에도 뉴욕증시 2% 급락... 다우 5만선 밑돌아 [뉴욕증시] - 매일일보",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VVzE5aDBRUkc3cWJYMHA2OEZPLTVWeW1mZWhXZmV5TWhCc1hOb3FpaVNIVWJkWXVNamJNMjhQdlEzdmhZbUU0UXhtLVA0NWRfM2IyRUJzY3VNQktJUnV3YmxvamY?oc=5",
+          "source": "매일일보",
+          "published": "11-20 08:28",
+          "snippet": "앤트로픽 IPO 흥행에도 뉴욕증시 2% 급락... 다우 5만선 밑돌아 [뉴욕증시] 매일일보"
+        }
+      ],
+      "연준 긴축 우려": [
+        {
+          "title": "[뉴욕 금가격] 연준 긴축 우려·강달러에 1.4%↓…14개월來 최저 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81RHhUM05NZlF6NHFIU0tCb3VrcHhtOVZ0TUx0dUtpcjJQZ2hkQnctSXJfWW4yZ1VQUTN3dEtoV2Q3VTFEZk1WWUUycmx3TUVnTE5FN3NZRllnMy1aSzh5TVFxVnE1dG9XTDFQZ2RWNDQ?oc=5",
+          "source": "연합인포맥스",
+          "published": "11-20 04:43",
+          "snippet": "[뉴욕 금가격] 연준 긴축 우려·강달러에 1.4%↓…14개월來 최저 연합인포맥스"
+        },
+        {
+          "title": "시카고 연은 총재 \"연준, 경제 과열 막는 게 지금 할 일\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5SWTdvc3FmOWNEN1hDWF9DZUg2c1V5MDlyaktmNFEzekpHdUIyMjkwb3JzNTRLR0laclVKUEZ0SGxOSTBoRWN4eFRiV3FqOW5oZTRUeWUyNnpzZUJ4NFlTMkJLQlo1Vjc4UUNsTk5RNS0?oc=5",
+          "source": "연합인포맥스",
+          "published": "11-20 07:16",
+          "snippet": "시카고 연은 총재 \"연준, 경제 과열 막는 게 지금 할 일\" 연합인포맥스 미 국채 금리, 안전자산 수요에 하락…10년물 4거래일 연속 내려 Investing.com 한국어 '금리 동결' 10월 FOMC서 추가 금리 인상에 공감대‥'빅스텝' 거론도 MBC 뉴스 \"서학개미들 어쩌나\"…미국발 심상찮은 신호에 '초긴장' [분석+] 한국경제 월러 연준 이사 “물가 잡으려면 시장에 충격 필요”…빅스텝 시사 동아일보"
+        },
+        {
+          "title": "금융권 투자한 해외 부동산 ‘부실 우려’ 반년 새 27% 늘어 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ISXF1UDNJX2c2U1VVaDBZMlZFUWlIQnJla3l1b0otT28zUlJvQlBQSjhYQVBPekczVXJENjFXN0lCNzhXYjdoNmlKaGtBZTJaaTJNaGE0dmdZZw?oc=5",
+          "source": "경향신문",
+          "published": "11-19 10:26",
+          "snippet": "금융권 투자한 해외 부동산 ‘부실 우려’ 반년 새 27% 늘어 경향신문 상반기 금융사 해외부동산 부실우려 2.6조…\"리스크 관리 지속\" 연합뉴스 한투그룹, 해외부동산 악몽…3000억 규모 뉴욕·밀라노펀드 전액 손실 수순 [시그널] 서울경제 금융권 해외 부동산 투자 소폭 감소…부실 우려 규모는 반년 만에 27% 급증 조선일보 금융권 해외부동산 투자 줄었지만…‘부실 위험’은 2.6조로 증가 매일경제 마켓"
+        },
+        {
+          "title": "국제유가 3%대 급락…美 원유·휘발유 재고 급증에 공급과잉 우려 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qSm81RUtobjhTV3FWUGpiV0pFdzlLbS1RTlNnTjdBTjlBNE9KdWd2RUx2ZmItRDBtN1BjVnFaZS1kS1o3ZHl5THZ5UFRLRGI3UkN0WUV1Qm45bjVoNFU4TjhrXzdCaXM?oc=5",
+          "source": "뉴스1",
+          "published": "11-19 05:15",
+          "snippet": "국제유가 3%대 급락…美 원유·휘발유 재고 급증에 공급과잉 우려 뉴스1 [특징주] 정유주, 국제유가 하락에 장 초반 약세 연합뉴스 [뉴욕유가] 美 원유 재고 예상 상회에 WTI 3.2% 급락…3개월來 최저 연합인포맥스 유가 소폭 상승…호르무즈 해협 유조선 피격에 공급 차질 우려 뉴스1 국제유가 3% 하락에 정유株도 '뚝'…GS·SK이노베이션 동반 약세 뉴시스"
         },
         {
           "title": "JP모건 \"연준, 향후 3회 연속 25bp 금리인상 전망\" - 연합인포맥스",
@@ -881,69 +920,11 @@
           "snippet": "JP모건 \"연준, 향후 3회 연속 25bp 금리인상 전망\" 연합인포맥스"
         },
         {
-          "title": "[도쿄환시] 달러-엔 상승…美 연준 인사들 금리인상 지지 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40V21GalJXZm1FeGNodFhQUHIxWHdLSEcyVEMwX285UG5OdVc1NGxHSTlMT05XTVQtUmpSRGI2OW1lMFJuMWx4SUdlMHZ3STJxXzJMUDNqNE4zVkdaNUdkQzlxRERkYjJJX1ZrSWtHOXE?oc=5",
+          "title": "[뉴욕 금가격] 연준 긴축 우려·강달러에 1.4%↓…14개월來 최저 | - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aZXhVTUlieFdsVVRoMEZyRGFkZlQyUXE1cW1BcWdjT1ZrWlVTWUFlU3dHMTg2S01hVV91ZndIaDFNRWpGVGdqY3dfQWxwRmVTTkhfWUVHMUdtNncyVzU5RHZOMFVpemYtWDBtdDl6ZXlyNzV0?oc=5",
           "source": "연합인포맥스",
-          "published": "11-19 16:02",
-          "snippet": "[도쿄환시] 달러-엔 상승…美 연준 인사들 금리인상 지지 연합인포맥스"
-        },
-        {
-          "title": "'금리 동결' 10월 FOMC서 추가 금리 인상에 공감대‥'빅스텝' 거론도 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vbzdrRWMtdWxNMzFNd1UzVnF3bDEwWDI1S3EtQU00ZDJrdFd3dHlpRlN6RHdhRmlqZk0wRDJYVG5lR042N1VYSVF4RTFyckJTWDBJSVhtWUt3MWQwZ3pHWjBHX3o1VVNNOEJiTU13alh1N3pa0gF0QVVfeXFMTWVTSTkxVmxYWG8wc2RqYzI4YjEtMGR3VWR6QTB4UnRuMFhhbDdJQUs4T3VpQXFwLUYxbnlWMVdoUHFQMDhxdmZjYW5oTGs2QTk5Vlk1MjZNMlBVWlF2LWhGWHZxMEpHTlNLbGoxRWh0LWVRa0Q?oc=5",
-          "source": "MBC 뉴스",
-          "published": "11-19 10:53",
-          "snippet": "'금리 동결' 10월 FOMC서 추가 금리 인상에 공감대‥'빅스텝' 거론도 MBC 뉴스"
-        },
-        {
-          "title": "미국 금리 인하 기대 후퇴…연준 내부 ‘0.5%p 인상’까지 거론, AI 투자도 물가 변수 - 테크데일리",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZWWZjSXk4bjd2blJWRjM2bTk5RlJUUVF5dXdFYkh3NU1uMEZnSzdqQWdyUjBhZFZjTTJqSEl3M256MHVhV2FLSHkwYy1CNVIzbzJWQlh4cTJXbk95bjRSaHZqN3lyc1IwUHNIQ2wwWjdGQdIBckFVX3lxTFBZWWZjSXk4bjd2blJWRjM2bTk5RlJUUVF5dXdFYkh3NU1uMEZnSzdqQWdyUjBhZFZjTTJqSEl3M256MHVhV2FLSHkwYy1CNVIzbzJWQlh4cTJXbk95bjRSaHZqN3lyc1IwUHNIQ2wwWjdGQQ?oc=5",
-          "source": "테크데일리",
-          "published": "11-19 15:24",
-          "snippet": "미국 금리 인하 기대 후퇴…연준 내부 ‘0.5%p 인상’까지 거론, AI 투자도 물가 변수 테크데일리"
-        }
-      ],
-      "뉴욕증시 혼조세 마감": [
-        {
-          "title": "뉴욕증시, 앤트로픽 나스닥 상장 앞두고 상승 출발 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yN0ZhTVU5TWYxYWIweFdKVFlqNkE5SHJIZEpOdmxjT3BjbklQbjg0a01yenRtTXpJSDJ0Y3Fkbl9kN2h2MDJ0ejlia200d0EzS0xXWGJJckVBeDTSAWBBVV95cUxNSEZLNGNGeWxsRS04V0tJV050Z1FMaGJkLUhMd28zNmlyb0Nha2Niczg3SXJ0X0lkV2ZGcU02bkZGRGRZQ0J3Q20xZm55WUpfcFNfdWk0VThVSWJBZWZjVTk?oc=5",
-          "source": "연합뉴스",
-          "published": "11-19 23:54",
-          "snippet": "뉴욕증시, 앤트로픽 나스닥 상장 앞두고 상승 출발 연합뉴스"
-        },
-        {
-          "title": "앤스로픽 기대에 뛰던 뉴욕증시… 유가·금리 오르자 다우·S&P500 하락 전환 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZkozS3U3U05LNGRJZTcza3JMSmtaWVdGT00zUGdlMzVHcUdZc2tzRlJPcVIzbFhtSDhRZWNLZGtjZTVUemlNSnJQRUYtU0l0T2Q4ZGFLbUdEb1N3RFVkc0FLR0wxblBRSWVHZzQ5eDd5cU9BQTdVMzhwVVMzMUNaMWFab1AzRXUw?oc=5",
-          "source": "조선일보",
-          "published": "11-20 01:07",
-          "snippet": "앤스로픽 기대에 뛰던 뉴욕증시… 유가·금리 오르자 다우·S&P500 하락 전환 조선일보"
-        },
-        {
-          "title": "[속보]뉴욕증시, 앤트로픽 상장 기대에 상승 출발…나스닥 1.90%↑ - 문화일보",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wT2FQNWR1QzJXN1E2QTNha1JrOXFZRkRuRVg4Ri16bnJvbEM1b1g2bXVrQm9nVjkzeWdSZ0gyeEZoTXBvWklxOUtFeXkyb0RT?oc=5",
-          "source": "문화일보",
-          "published": "11-20 00:20",
-          "snippet": "[속보]뉴욕증시, 앤트로픽 상장 기대에 상승 출발…나스닥 1.90%↑ 문화일보"
-        },
-        {
-          "title": "뉴욕증시 프리뷰, 나스닥 선물 2%대 급등…앤스로픽 역대 최대 IPO에 AI주 동반 반등 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE05R2xXNlo5UXMtdmx1cHEyZVNBempqeW9tTkRaVVhnUkZkeUQwRENyYUVzN0I1TGtVMTgwQmZSWUVCNWMza0JtSkZtWEFoX1lpd2NsVDhqbldRcjNu?oc=5",
-          "source": "뉴스핌",
-          "published": "11-19 21:36",
-          "snippet": "뉴욕증시 프리뷰, 나스닥 선물 2%대 급등…앤스로픽 역대 최대 IPO에 AI주 동반 반등 뉴스핌"
-        },
-        {
-          "title": "[뉴욕증시]다우 하락세로 전환…나스닥, 1.7% ↑ - 아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBN0ZPd3FOb3lTSlZrSklreDVMcXZ3cUFwSWpON3RZSldDOFQxY0NxTUIxa0N2Y1hGQTYwMkNhRnE2UHVJMzB6ZUZ1NlQyX1hBdXJhdTVYaHh1Tm4xSkptRg?oc=5",
-          "source": "아시아경제",
-          "published": "11-20 00:04",
-          "snippet": "[뉴욕증시]다우 하락세로 전환…나스닥, 1.7% ↑ 아시아경제"
-        },
-        {
-          "title": "뉴욕증시, 하락세로 전환…나스닥 1.50%↓ - 블루밍비트",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kSDFveG9Kem5qcUdacHVHSGVPU00tdXRSVkRCRl9xYnEwUXo2cHVtZl9zcGktd0JPTmxhTnVNdDUyMnloaW5JZGJWVVA0RFRp?oc=5",
-          "source": "블루밍비트",
-          "published": "11-20 02:08",
-          "snippet": "뉴욕증시, 하락세로 전환…나스닥 1.50%↓ 블루밍비트"
+          "published": "11-20 04:47",
+          "snippet": "[뉴욕 금가격] 연준 긴축 우려·강달러에 1.4%↓…14개월來 최저 | 연합인포맥스"
         }
       ]
     },
@@ -958,6 +939,7 @@
         "연간 수출 1조 달러",
         "김 수출 1조"
       ],
+      "수능날 바뀐 증시 시간표": [],
       "서울 아파트값 하락 전환": [
         "서울 아파트값 87주 연속 상승 원인과 강북권 중저가 아파트 매수세 현황",
         "서울 아파트값",
@@ -968,30 +950,22 @@
         "서울 아파트값 순위",
         "서울 아파트값 86주"
       ],
-      "원달러 환율 하락세": [
-        "원달러 환율 전망",
-        "원달러 환율",
-        "원달러 환율 오늘",
-        "원달러 환율 전망 디시",
-        "원달러 환율 계산",
-        "원달러 환율 원",
-        "원달러 환율 그래프",
-        "원달러 환율 그래프 30 년"
-      ],
       "앤트로픽 나스닥 상장": [
         "앤트로픽 나스닥",
         "앤트로픽 관련주 나스닥"
       ],
-      "연준 추가 금리 인상 전망": [
-        "연준 추가 금리인상",
-        "연준 추가 금리 인하",
+      "다우 5만선 붕괴": [],
+      "연준 긴축 우려": [
+        "연준 긴축",
+        "연준 긴축종료",
+        "연준 긴축 정책",
+        "연준 양적 긴축 중단",
+        "연준 양적 긴축",
+        "연준 양적 긴축 종료",
         "연준 추가 긴축"
-      ],
-      "뉴욕증시 혼조세 마감": [
-        "뉴욕증시 혼조세"
       ]
     },
-    "newsletter_md": "# ⚡ ZIPPY | AI 경제 데일리 브리핑\n_2026-11-20 이슈 · 발행 2026-11-20_\n\n🇰🇷 **국내 경제:** `수출 1조 달러 돌파` · `서울 아파트값 하락 전환` · `원달러 환율 하락세`\n🌐 **해외 경제:** `앤트로픽 나스닥 상장` · `연준 추가 금리 인상 전망` · `뉴욕증시 혼조세 마감`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 대한민국 수출 1조 달러 시대 개막\n> 키워드: 수출 1조 달러 돌파\n\n**📌 무슨 일이 있었나**\n- 대한민국 연간 수출액이 반도체 수출 호조에 힘입어 사상 처음으로 1조 달러를 돌파하며 세계 수출 강국으로서의 입지를 굳혔다.\n- K-반도체가 수출 성장을 견인한 가운데 K-푸드 플러스 분야도 120억 달러를 넘어서며 역대 최고 실적을 기록해 수출 품목 다변화를 입증했다.\n- 수출 1조 달러 달성 소식에 반도체 관련주가 강세를 보이며 코스피 지수는 5130선을 회복했고 원달러 환율은 하락세를 나타냈다.\n- 미국 수출 규제 여파로 삼성전자와 TSMC가 일부 중국 고객사에 대한 반도체 출하를 중단하는 등 대외 통상 환경의 불확실성은 여전하다.\n\n**💬 핵심 Q&A**\n- **Q. 수출 1조 달러 달성이 국내 증시와 환율에 미친 즉각적인 영향은 무엇인가?**\n  A. 수출 호조가 펀더멘털 개선 신호로 해석되면서 반도체주 중심의 매수세가 유입되어 코스피가 5130선을 회복했다. 동시에 외환 시장에서는 원화 가치가 상승하며 원달러 환율이 하락하는 안정세를 보였다.\n- **Q. 반도체 외에 K-푸드 실적이 역대 최고치를 경신한 원인은 어디에 있는가?**\n  A. K-푸드 플러스 분야가 120억 달러를 돌파한 것은 반도체에 편중된 수출 구조를 다변화하려는 노력이 결실을 본 결과이다. 이는 글로벌 시장 내 한국 식문화 확산과 가공식품의 경쟁력 강화가 맞물린 결과로 분석된다.\n- **Q. 미 수출 규제로 인한 삼성전자의 중국향 출하 중단이 향후 실적의 변수가 되는가?**\n  A. 미국의 규제 여파로 TSMC와 삼성전자가 일부 중국 고객사 출하를 중단함에 따라 대중국 수출 비중이 높은 품목의 타격이 불가피하다. 1조 달러 달성 이후에도 이러한 지정학적 리스크가 수출 지속 가능성을 결정짓는 분기점이 될 전망이다.\n\n**👀 앞으로 볼 포인트**\n- 반도체 추가 수출 규제 범위 및 대상\n- 연말 K-푸드 최종 수출액 집계 결과\n- 코스피 5200선 안착 여부와 외국인 수급\n\n<sub>참고: [지디넷코리아](https://news.google.com/rss/articles/CBMiVkFVX3lxTE52T21HOURqWGNIQUpyUm9vYXFsZ01jbS02T01ObTJhOGNMVnR0VEJ1akxyTk9mdHpSemlDWGtvYnhNQk1lOW5FVk1nUnh3MVI5dENqNEhR?oc=5) / [대한민국 정책브리핑](https://news.google.com/rss/articles/CBMibEFVX3lxTE9aMEpxdlROTTFJVEN2TkRXYXl2c0lmbHRucHNLSFBfRDRZMGVBSEliTjYxclZzbFdEQ0NuSE9qWjZ5bTNhdi04WTJycUliM2FXQ2VCb0FKZXhtNVFhT0Y5V2kweXRUazhYZXBLQQ?oc=5) / [뉴스토마토](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LbFFULUhzMTBKR2NtTFlrQnJxeldTZzhtVUNEWFNTcU5oc1lUbjNRdVhRZE1jb0FYMjRuWVg4SDcyeDJIdFdkNGxZX1RWYzZvM0xQUTBpSDVOMmpTcUJxSw?oc=5)</sub>\n\n---\n\n### 2. 93주 만에 꺾인 서울 아파트값 하락 전환\n> 키워드: 서울 아파트값 하락 전환\n\n**📌 무슨 일이 있었나**\n- 93주 연속 상승세를 이어오던 서울 아파트값이 상승 동력을 잃고 하락세로 돌아서며 부동산 시장의 분위기 반전이 감지되었다.\n- 그동안 견고한 상승세를 유지하던 용산구와 동작구 등 주요 지역마저 하락 전환하며 서울 전역으로 가격 조정이 확산되는 양상이다.\n- 고금리 기조 유지와 대출 규제 강화로 인해 매수세가 위축된 가운데 강북권 중저가 단지를 중심으로 매물이 쌓이며 하락폭을 키웠다.\n- 뉴욕증시에서도 유가와 금리 상승 여파로 다우와 S&P500 지수가 하락 전환하는 등 글로벌 자산 시장 전반에 하방 압력이 가해졌다.\n\n**💬 핵심 Q&A**\n- **Q. 93주간 지속된 상승세가 용산과 동작구에서 먼저 꺾인 배경은 무엇인가?**\n  A. 상승 랠리를 주도했던 핵심 지역에서 매수자들이 높은 가격대에 대한 피로감을 느끼며 관망세로 돌아섰기 때문이다. 대출 규제 강화로 자금 조달이 어려워진 점이 고가 지역의 거래 절벽과 가격 하락을 촉발했다.\n- **Q. 뉴욕증시의 하락 전환이 국내 부동산 시장 심리에 어떤 경로로 영향을 미치는가?**\n  A. 미국 국채 금리와 유가 상승으로 인한 뉴욕증시 하락은 국내 시중 금리 상승 압박으로 이어진다. 이는 주택 담보 대출 금리 상단을 높여 가계의 이자 부담을 가중시키고 부동산 매수 심리를 추가로 위축시키는 경로를 밟는다.\n- **Q. 향후 서울 아파트값의 추가 하락을 결정지을 핵심 경제 지표는 무엇인가?**\n  A. 연준의 추가 금리 인상 여부와 그에 따른 국내 기준금리 향방이 가장 중요한 분기점이다. 특히 강북권 중저가 아파트의 매물 소화 속도와 경매 낙찰률이 시장의 바닥을 가늠하는 지표가 될 것이다.\n\n**👀 앞으로 볼 포인트**\n- 용산·동작구 추가 하락폭 및 매물 적체량\n- 서울 아파트 매수우위지수 하락 지속 여부\n- 연준 금리 인상 전망에 따른 대출 금리 변화\n\n<sub>참고: [Chosunbiz](https://news.google.com/rss/articles/CBMimAFBVV95cUxPbmZ0cFhGQ1Q3NjdzN052c0stYXB0bUpPdGtOR09vdF9wY2pCRWJ2RFU4NkxwUDNFYldDVzRDVHpjaDktR1IwbFpOYk1DUW5RYUlUUHJvN0FnT3JkNFV0NHZJMkdtcFc0M080bFctVUZiNE1kS1ItT0dJOUNvSklabmVDWDBOUzlJeVp6NUlMWUVBb2F1MjJ1NtIBrAFBVV95cUxOckpCNGtmbTU1Q1JBdUhJMHdqYUlkMnFob0dIZHp2NTBqWk9FQVdDemxKU09hZU5KNGwxT3BzbWl2eFl0ZE1Vc3JTd2ZHYTZHbTZWdERmMWw5RUoxTEJYWWY4aWU2QkxQc3d1SWQ3MEdLSWp5M3ZnNjgzN3phYjFYX1ZVdDAyNWpVUGJkYndDenctUXBpNjFteTUxdnJSOWpaX0Y4WVBaMS1PcW1x?oc=5) / [조선일보](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZkozS3U3U05LNGRJZTcza3JMSmtaWVdGT00zUGdlMzVHcUdZc2tzRlJPcVIzbFhtSDhRZWNLZGtjZTVUemlNSnJQRUYtU0l0T2Q4ZGFLbUdEb1N3RFVkc0FLR0wxblBRSWVHZzQ5eDd5cU9BQTdVMzhwVVMzMUNaMWFab1AzRXUw?oc=5) / [아시아경제](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBN0ZPd3FOb3lTSlZrSklreDVMcXZ3cUFwSWpON3RZSldDOFQxY0NxTUIxa0N2Y1hGQTYwMkNhRnE2UHVJMzB6ZUZ1NlQyX1hBdXJhdTVYaHh1Tm4xSkptRg?oc=5)</sub>\n\n---\n\n### 3. 달러 강세 속 원달러 환율 1,330원대 진입\n> 키워드: 원달러 환율 하락세\n\n**📌 무슨 일이 있었나**\n- 글로벌 달러화가 최고치를 경신하는 강세장 속에서도 원달러 환율은 4일 연속 하락하며 1,330원선까지 내려앉는 이례적 흐름을 보였다.\n- 환율이 10% 하락할 경우 수입 물가 안정 효과로 인해 가구당 연간 생활비가 약 16만 5천 원 절감되는 것으로 나타났다.\n- 수출 1조 달러 돌파라는 대형 호재가 유입되면서 외환 시장에서 원화 가치가 방어력을 확보하며 환율 하락을 견인한 것으로 풀이된다.\n- 코스피와 코스닥 지수가 동반 상승하고 외국인 투자 자금이 유입된 점도 환율 하락 압력을 가중시키는 주요 요인으로 작용했다.\n\n**💬 핵심 Q&A**\n- **Q. 달러 인덱스가 최고치인데 원달러 환율만 4일 연속 하락한 역설적 이유는 무엇인가?**\n  A. 수출 1조 달러 돌파라는 강력한 경제 펀더멘털 확인이 원화에 대한 신뢰를 높였기 때문이다. 또한 국내 증시 상승에 따른 외국인 자금 유입이 달러 공급을 늘리며 글로벌 달러 강세 압력을 상쇄했다.\n- **Q. 환율 10% 하락 시 가구당 생활비가 16만 5천 원 절감되는 구체적인 메커니즘은 무엇인가?**\n  A. 환율이 떨어지면 에너지와 식료품 등 수입 원자재 가격이 낮아져 국내 소비자 물가가 하락한다. 이는 가계의 실질 구매력을 높여 필수 소비재 지출 부담을 줄여주는 직접적인 효과를 낸다.\n- **Q. 수출 1조 달러 달성이 외환 시장의 수급 구조를 어떻게 변화시켰는가?**\n  A. 수출 대금으로 유입되는 달러 물량이 역대 최대 수준으로 늘어나면서 시장 내 달러 공급 우위 환경이 조성되었다. 이는 대외 변동성에도 불구하고 원화 가치가 급격히 추락하는 것을 막는 강력한 완충 장치 역할을 한다.\n\n**👀 앞으로 볼 포인트**\n- 원달러 환율 1,300원선 지지 여부\n- 한국은행의 추가 물가 안정 분석 보고서\n- 외국인 투자자의 국내 증시 순매수 규모\n\n<sub>참고: [뉴스1](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nSXU4Uk1LQndMWXVJbXpzTkowV0VnNk1vSE8zVnpUYktCSVlpR1NhUHd3cWVxejIzOURlSVhhb0pMa2xFa3VRX05lTQ?oc=5) / [한국무역협회-KITA.NET](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNDc3ZFZieG1sSHdaQ0xVSjc2djFsZUdPTzZLWXk1clZndWVQeEUzUzEzcGxmVHNTX0s1U0RwM1VYX3FvdFc2M1FzSWVlUWlnaXlZQW5oQ0VvNUtLVFY5NmMta3B0bE9WOGdoeTZES2V1SGdONldsMHJ3Tm92SGlOQnp6by1nTGpJSmtacXo1b3JCbmVuZW5kZ1FEbXVlTkdpdnFIZHoxc2FPeW9Ka1d0UDM0cXVlRFZ5N2R3SmU1NUJHUDRFcU1BbUUzd21WdWlicC00X2tn?oc=5) / [한국무역협회-KITA.NET](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWm42d19USzE1TUNYQUxSNThaMlJ3R2puTHRDRFFsV0F5R1JwNjhVLTVQaUdzQllxdWp5S3otWWszdVBZcGhnX21KRW5Fd3EyVnd6M3R4azFjMmx4azR6bW9uTEpDdXR0Mjd4blJYSVR0UXlaLUxnbDBaVUJkeUxjcjVKeEFjT0VVYnRHVHdLNlNWdnh4bXYzVHpPTnhEcm1Jd2kzS2NDT245M0tRenFDcHd2M1RKb2VlSTgtSGhnZFEzX0hETWM4S215MGFKaHU1NFV4VnBR?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 앤트로픽 나스닥 상장 첫날 시총 2조 달러\n> 키워드: 앤트로픽 나스닥 상장\n\n**📌 무슨 일이 있었나**\n- 인공지능 스타트업 앤트로픽이 기업가치 108조 원의 최대어로 나스닥에 상장하며 글로벌 AI 투자 열풍을 다시 한번 증명했다.\n- 상장 첫날 거래에서 주가가 34% 폭등하며 시가총액 2조 달러를 돌파해 엔비디아와 마이크로소프트에 버금가는 AI 대장주로 등극했다.\n- 앤트로픽 CEO는 상장 당일 AI 개발 속도 조절과 안전을 강조하며 회사의 핵심 DNA가 안전한 인공지능 구축에 있음을 명확히 했다.\n- 이번 상장 기대감으로 뉴욕증시 나스닥 지수는 장 초반 1.9% 이상 급등하며 기술주 중심의 강한 매수세를 유도했다.\n\n**💬 핵심 Q&A**\n- **Q. 앤트로픽이 상장 첫날 34% 폭등하며 시총 2조 달러를 기록한 시장의 기대 근거는 무엇인가?**\n  A. 앤트로픽의 고도화된 AI 모델 경쟁력과 향후 수익화 가능성에 대해 투자자들이 압도적인 점수를 주었기 때문이다. 특히 AI 산업의 성장세가 꺾이지 않았다는 확신이 대규모 자금 쏠림 현상을 만들었다.\n- **Q. CEO가 상장 당일 AI 속도 조절과 안전을 강조한 것이 투자 심리에 어떤 영향을 미치는가?**\n  A. 무분별한 확장보다는 지속 가능한 성장을 추구한다는 신뢰를 주어 장기 투자자들을 유인하는 요소가 되었다. 이는 규제 리스크를 선제적으로 관리하겠다는 의지로 해석되어 기업 가치 안정성을 높였다.\n- **Q. 앤트로픽의 성공적인 데뷔가 나스닥 내 다른 AI 기술주들의 밸류에이션에 어떤 변화를 주는가?**\n  A. 앤트로픽이 높은 멀티플을 인정받으면서 기존 AI 관련주들의 가치도 동반 상승하는 효과를 냈다. 나스닥 선물 지수가 2%대 급등한 것은 앤트로픽이 AI 섹터 전체의 가격 상단을 열어주었음을 의미한다.\n\n**👀 앞으로 볼 포인트**\n- 앤트로픽 시가총액 2조 달러 유지 여부\n- AI 관련주 전반의 밸류에이션 재평가 추이\n- AI 안전 규제 관련 미 정부의 후속 메시지\n\n<sub>참고: [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yN0ZhTVU5TWYxYWIweFdKVFlqNkE5SHJIZEpOdmxjT3BjbklQbjg0a01yenRtTXpJSDJ0Y3Fkbl9kN2h2MDJ0ejlia200d0EzS0xXWGJJckVBeDTSAWBBVV95cUxNSEZLNGNGeWxsRS04V0tJV050Z1FMaGJkLUhMd28zNmlyb0Nha2Niczg3SXJ0X0lkV2ZGcU02bkZGRGRZQ0J3Q20xZm55WUpfcFNfdWk0VThVSWJBZWZjVTk?oc=5) / [YTN](https://news.google.com/rss/articles/CBMidkFVX3lxTFBwNUVNaExfckNCMlpxVHZEZzktVm5PeC1zRjJQV3hvOFNUTnJBMmFxOWlFajF1cExmWWJwNWJpWUE5Z0p6TkM5QlhOdzhRX2d5QUhBMERPVmxpWnJFaFJKUF81Q0NWRl9MM1lfMlg3RTZXNU9qTmc?oc=5) / [경향신문](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSVkpaclBvS2ZXMGt3VlZLaUIzblU3WkFiQmhTdWJhc3pNR2FDZnhKdVU1OUF5TUdnTGlNaWZZSDhzQ2M0dlBBMEZQZnFzMUhSWElVRV9IaXVod9IBX0FVX3lxTE1jUXVFWVo0Q0U0c3RaTU1UaFp2Q3l1dEdoVmk0U3QtVVVLYmdtU0NJR2RydklxVDBzdlVnV1B0a2RQZlJGdXdVczdNV01zMnZ3YzNVdndMWGx1QUFXc0hv?oc=5)</sub>\n\n---\n\n### 2. 연준 추가 금리 인상 시사 및 빅스텝 거론\n> 키워드: 연준 추가 금리 인상 전망\n\n**📌 무슨 일이 있었나**\n- 마이클 바 연준 이사가 인플레이션이 여전히 지나치게 높다고 지적하며 기준금리의 추가 인상이 적절하다는 매파적 입장을 공식화했다.\n- 연준 내부에서는 인플레이션 억제를 위해 한 번에 0.5%p를 올리는 '빅스텝' 가능성까지 거론되며 긴축 강도가 높아질 조짐을 보이고 있다.\n- JP모건은 연준이 향후 세 차례 연속으로 25bp씩 금리를 인상할 것이라는 전망을 내놓으며 고금리 장기화 가능성에 무게를 실었다.\n- AI 투자 확대가 물가 상승의 새로운 변수로 떠오르면서 금리 인하 기대감은 후퇴하고 시장의 긴장감은 다시 고조되는 분위기다.\n\n**💬 핵심 Q&A**\n- **Q. 연준 내부에서 동결 기조를 깨고 다시 '빅스텝'까지 거론하게 된 결정적 배경은 무엇인가?**\n  A. 인플레이션 둔화 속도가 예상보다 더디고 고용 시장이 여전히 과열 양상을 보이고 있기 때문이다. 물가 목표치 달성을 위해 더 강력한 통화 긴축이 필요하다는 공감대가 위원들 사이에서 확산되었다.\n- **Q. AI 산업에 대한 대규모 투자가 물가 상승을 유발하는 변수로 지목되는 이유는 무엇인가?**\n  A. AI 인프라 구축을 위한 막대한 자금 유입이 원자재 수요를 자극하고 관련 임금을 상승시켜 비용 인상 인플레이션을 초래할 수 있기 때문이다. 이는 연준이 금리 인하를 주저하게 만드는 새로운 경제적 압력으로 작용한다.\n- **Q. JP모건의 3회 연속 인상 전망이 현실화될 경우 글로벌 자산 배분 전략의 분기점은 어디인가?**\n  A. 연속 인상이 단행되면 기술주 등 성장주에 대한 할인율이 높아져 자금 이탈이 가속화될 수 있다. 투자자들은 위험 자산 비중을 줄이고 고금리 혜택을 누릴 수 있는 채권이나 현금성 자산으로 포트폴리오를 재편할 가능성이 크다.\n\n**👀 앞으로 볼 포인트**\n- 다음 FOMC 점도표 내 금리 상단 변화\n- 미국 소비자물가지수(CPI) 발표 수치\n- AI 산업 투자 규모와 물가 상관관계 분석\n\n<sub>참고: [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE4wVk8xLWxVTWRhTzduUWJRSzdGbmphMXVpbVdxYWV0X1g5NGVNNGZlQlQ3dGgwLXV0ek9OcldRTnE0dWc5bXRxaVBWc20zZ1JVc1E1T29KUEhPd2FOQjMtdnljUVlkV1ptNFJqR0dDS3Q?oc=5) / [YTN](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ORnhHczc2ZzZDbWZJbG5tNmMwLVVqVDhMTXU0MzFTb05zNkRlbFFqZkRfR2YtVWNtT1AtSkt0MkdTaWRYc3ZJVHN1dmFocDFEVVJIazB0TXVudDJMRlE?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTFBsdkt5LXdWTkNZWTV3ZjFPdHVpNUlIWjd5bHFUeG5vRm5LTjFiQlNpaHVqajJMekoySWxHQ2pxVWpZOGdHdDRQQ3hhSHVadTJWcjFVZGMxSlp3cFp5QWxVY1QxUmlGWEJ0LUg5bDN6WmM?oc=5)</sub>\n\n---\n\n### 3. 앤트로픽 상장 호재에도 유가·금리에 혼조세\n> 키워드: 뉴욕증시 혼조세 마감\n\n**📌 무슨 일이 있었나**\n- 뉴욕증시는 앤트로픽의 나스닥 상장 소식에 기술주 중심으로 급등하며 출발했으나 유가와 금리 상승 압박에 밀려 혼조세로 마감했다.\n- 앤트로픽이 상장 첫날 폭등하며 나스닥 지수를 한때 1.9%까지 끌어올렸으나 다우와 S&P500 지수는 하락 전환하며 온도차를 보였다.\n- 국제 유가 상승과 국채 금리 급등이 시장의 안전 자산 선호 심리를 위축시키며 장 초반의 상승분을 대부분 반납하는 결과를 초래했다.\n- 나스닥 선물 시장은 앤트로픽 IPO 효과로 2%대 급등세를 보이기도 했으나 장 후반 차익 실현 매물이 쏟아지며 변동성이 극대화되었다.\n\n**💬 핵심 Q&A**\n- **Q. 앤트로픽 상장이라는 대형 호재에도 불구하고 다우와 S&P500 지수가 하락 전환한 원인은 무엇인가?**\n  A. 유가와 금리 상승이 실물 경제에 부담을 줄 것이라는 우려가 기술주 호재보다 더 크게 작용했기 때문이다. 전통 산업 비중이 높은 다우 지수는 비용 상승 압박에 더 민감하게 반응하며 하락세를 보였다.\n- **Q. 나스닥 지수가 장중 1.9% 급등 후 다시 하락세로 돌아선 변동성의 핵심 메커니즘은 무엇인가?**\n  A. 앤트로픽 상장 직후 유입된 투기적 매수세가 국채 금리 상승이라는 거시적 악재를 만나며 빠르게 차익 실현 매물로 변했기 때문이다. 금리 상승은 기술주의 미래 가치를 깎아내려 주가 하락을 유도한다.\n- **Q. 유가와 금리 상승이 AI 기술주 중심의 상승 랠리를 저지하는 임계점은 어느 수준인가?**\n  A. 국채 금리가 특정 저항선을 돌파하거나 유가가 기업의 이익 마진을 훼손하는 수준까지 오를 때 랠리는 멈춘다. 현재 시장은 앤트로픽의 개별 호재와 거시 경제의 하방 압력이 팽팽하게 맞서는 구간에 진입했다.\n\n**👀 앞으로 볼 포인트**\n- 미국 국채 10년물 금리의 5% 돌파 여부\n- 국제 유가 변동 폭과 에너지주 향방\n- 앤트로픽 상장 이후 기술주 수급 이동 경로\n\n<sub>참고: [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yN0ZhTVU5TWYxYWIweFdKVFlqNkE5SHJIZEpOdmxjT3BjbklQbjg0a01yenRtTXpJSDJ0Y3Fkbl9kN2h2MDJ0ejlia200d0EzS0xXWGJJckVBeDTSAWBBVV95cUxNSEZLNGNGeWxsRS04V0tJV050Z1FMaGJkLUhMd28zNmlyb0Nha2Niczg3SXJ0X0lkV2ZGcU02bkZGRGRZQ0J3Q20xZm55WUpfcFNfdWk0VThVSWJBZWZjVTk?oc=5) / [조선일보](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZkozS3U3U05LNGRJZTcza3JMSmtaWVdGT00zUGdlMzVHcUdZc2tzRlJPcVIzbFhtSDhRZWNLZGtjZTVUemlNSnJQRUYtU0l0T2Q4ZGFLbUdEb1N3RFVkc0FLR0wxblBRSWVHZzQ5eDd5cU9BQTdVMzhwVVMzMUNaMWFab1AzRXUw?oc=5) / [문화일보](https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wT2FQNWR1QzJXN1E2QTNha1JrOXFZRkRuRVg4Ri16bnJvbEM1b1g2bXVrQm9nVjkzeWdSZ0gyeEZoTXBvWklxOUtFeXkyb0RT?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 보도를 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
+    "newsletter_md": "# ⚡ ZIPPY | AI 경제 데일리 브리핑\n_2026-11-20 이슈 · 발행 2026-11-20_\n\n🇰🇷 **국내 경제:** `수출 1조 달러 돌파` · `수능날 바뀐 증시 시간표` · `서울 아파트값 하락 전환`\n🌐 **해외 경제:** `앤트로픽 나스닥 상장` · `다우 5만선 붕괴` · `연준 긴축 우려`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. K-반도체·푸드 호조 속 연간 수출 1조 달러 돌파\n> 키워드: 수출 1조 달러 돌파\n\n**📌 무슨 일이 있었나**\n- 대한민국 연간 수출액이 K-반도체의 강한 견인에 힘입어 사상 처음으로 1조 달러를 돌파했다.\n- 농식품 및 연관산업을 아우르는 K-푸드+ 수출액 역시 120억 달러를 넘어서며 역대 최고 실적을 경신했다.\n- 미국의 대중 수출통제 강화로 삼성전자와 TSMC가 중국 고객사에 대한 일부 첨단 반도체 출하를 중단하는 등 통상 악재가 병존하고 있다.\n- 글로벌 강달러 기조 속에서도 원/달러 환율은 4일 연속 하락하며 1,330원 선에서 안정을 찾는 모습을 보였다.\n\n**💬 핵심 Q&A**\n- **Q. 반도체 호조 속 미 대중 수출통제 강화가 1조 달러 수출에 미칠 영향은 무엇인가?**\n  A. 첨단 반도체 출하 중단 조치로 중국 향 매출 차질이 우려되나, K-푸드+ 등 수출 품목 다변화와 고부가가치 칩 수요가 이를 일부 상쇄하고 있다.\n- **Q. 강달러 기조에도 원/달러 환율이 1,330원선으로 하락한 메커니즘은 무엇인가?**\n  A. 수출 실적 호조로 인한 달러 공급 확대와 국내 증시 유입 자금이 달러 강세 압력을 누르며 환율 하락을 이끌었다.\n- **Q. 1조 달러 달성 이후 수출 성장세를 유지하기 위한 핵심 분기점은 무엇인가?**\n  A. 미국의 대중 제재 추가 수위와 글로벌 AI 반도체 투자 수요의 지속 여부가 향후 수출 향방을 갈라놓을 주요 변수이다.\n\n**👀 앞으로 볼 포인트**\n- 미 대중 수출통제 확대에 따른 반도체 출하 영향\n- K-푸드+ 주요 수출국의 물류비 및 통관 변수\n\n<sub>참고: [지디넷코리아](https://news.google.com/rss/articles/CBMiVkFVX3lxTE52T21HOURqWGNIQUpyUm9vYXFsZ01jbS02T01ObTJhOGNMVnR0VEJ1akxyTk9mdHpSemlDWGtvYnhNQk1lOW5FVk1nUnh3MVI5dENqNEhR?oc=5) / [대한민국 정책브리핑](https://news.google.com/rss/articles/CBMibEFVX3lxTE9aMEpxdlROTTFJVEN2TkRXYXl2c0lmbHRucHNLSFBfRDRZMGVBSEliTjYxclZzbFdEQ0NuSE9qWjZ5bTNhdi04WTJycUliM2FXQ2VCb0FKZXhtNVFhT0Y5V2kweXRUazhYZXBLQQ?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE1fSkxqZjRRWXJlSldwR1NTUWhaRzRkM3JMWGowbUVSTmhKUjh6azVia0dRTGJqVk9WNGZ3cF83V05WUWV1bXFmZDAzTFpCT3N5aUp0MDg5SDdsRndtUHVSaFJQVWRMWllSSHRac2RSVEQ?oc=5)</sub>\n\n---\n\n### 2. 개장 지연에도 AI·한한령 해제 기대에 수능일 증시 안도\n> 키워드: 수능날 바뀐 증시 시간표\n\n**📌 무슨 일이 있었나**\n- 대학수학능력시험일 영향으로 정규 증시 개장 시간이 오전 10시로 1시간 늦춰지고 프리마켓이 휴장했다.\n- 거래 시간 변경에도 불구하고 AI 투자심리 회복과 한한령 해제 기대감이 반영되며 증시 한파 없이 장을 마쳤다.\n- 최근 코스피 5,000선이 붕괴되는 여파로 주식형 헤지펀드에서 3,400억 원의 자금이 순유출되는 변동성을 겪었다.\n- 월가에서는 한국 증시 재평가를 통한 1만피 돌파 가능성과 추가 조정 가능성을 두고 시각이 극명하게 엇갈리고 있다.\n\n**💬 핵심 Q&A**\n- **Q. 개장 지연 변수 속에서 수능일 증시 한파를 피할 수 있었던 동인은 무엇인가?**\n  A. 개장 시간 변경에 따른 변동성 우려에도 불구하고, 글로벌 AI 모멘텀과 한한령 해제에 대한 기대감이 매수세를 견인했다.\n- **Q. 주식형 헤지펀드에서 3,400억 원이 유출된 배경과 시장 파급 효과는 무엇인가?**\n  A. 코스피 5,000선 붕괴에 따른 리스크 관리 물량이 출회되었으며, 이는 증시 하방 압력을 높이는 요인으로 작용하고 있다.\n- **Q. 1만피 돌파 전망과 추가 조정론이 대립하는 상황에서 추세 전환의 기준은 무엇인가?**\n  A. 퇴직연금 제도 개혁을 통한 증시 유입 자금 규모와 상장사 실적 개선 여부가 평가를 가르는 분기점이 될 것이다.\n\n**👀 앞으로 볼 포인트**\n- 수능일 이후 증시 거래량 회복 및 외국인 수급\n- 코스피 5,000선 탈환 여부 및 주식형 펀드 자금 추이\n\n<sub>참고: [뉴스1](https://news.google.com/rss/articles/CBMiX0FVX3lxTE55dnpFRnFFWXJWaDFud3RUUEFJdkxNUFZRYlYzeVNzMElZS2dyeF9zNmRSd3l0MEVCd1AtNk5Sb2hGV1ZhUklYMzh5UkdZXy1UWGFEdWpEUnpRWUZoOFpZ?oc=5) / [머니투데이](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oT3ZCSEV6OWNCdU5EN1F3R2ZLTjd5VFNBdkZoTkVkVXhfdXpvWDFCa0M5MlNxVHNxUERjUU1qVnYzT3pqbnlSb0JjdDQ1QVc4UXNrV2JGZWdpemdjMUVoRnlkUUFINTZH0gFuQVVfeXFMUFZTWERzbllYcUt3UlRhck9ycEVfMVZqdXhxUVd6ZlFTUlV5NGZWTXZ2NTlTSzRMYkUzOXBvM3lWT0QtMmp2cE1QWTF3WUxBd05OZ0lGMDZqV29DdXJPQ2Rtcm45bVI2eU1MMkJMZGc?oc=5) / [KBS 뉴스](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lOFNLLThwS2NhR2lRRVdDdjFuNDZxUlRCeWJpQzdUS1pSWEdTZG1USjdzTzZuRmRTX0JuOU1VLWRJU1hYSzctTTd1bXBEMTVQWmdmR3U4SG5TWnBqelpYekJXNkRnQQ?oc=5)</sub>\n\n---\n\n### 3. 93주 상승 이어가던 서울 아파트값, 한강벨트서 하락 전환\n> 키워드: 서울 아파트값 하락 전환\n\n**📌 무슨 일이 있었나**\n- 서울 아파트값이 93주 연속 상승세를 기록했으나, 한강벨트 주요 지역을 중심으로 하락 전환 단지가 속출하고 있다.\n- 글로벌 시장에서는 유가와 금리가 상승세를 보이면서 뉴욕증시 주요 지수가 일제히 하락세로 돌아섰다.\n- 10월 생산자물가지수는 농림수산품 가격 안정과 수요 감소의 영향으로 전월 대비 0.1% 하락했다.\n- 환율이 10% 하락할 경우 가구당 연간 16만 5천 원의 생활비 절감 효과가 발생하는 것으로 분석되었다.\n\n**💬 핵심 Q&A**\n- **Q. 93주간 오른 서울 아파트값이 한강벨트부터 하락 전환한 요인은 무엇인가?**\n  A. 단기 급등에 따른 피로감과 함께 고금리 장기화 및 대출 규제 강화가 선도 지역의 매수 심리를 위축시킨 결과이다.\n- **Q. 생산자물가지수 하락과 환율 안정이 가계 경제에 미치는 파급 경로는 무엇인가?**\n  A. 생산자물가 0.1% 하락과 환율 안정은 수입 물가를 낮춰 가구당 연 16만 5천 원 수준의 생활비 절감 효과로 이어진다.\n- **Q. 한강벨트 하락세가 서울 전체 아파트 시장으로 확산될 분기점은 어디인가?**\n  A. 기준금리 향방과 주택담보대출 금리 변동, 그리고 주요 재건축 물량의 매물 소화 속도가 핵심 변수이다.\n\n**👀 앞으로 볼 포인트**\n- 서울 한강벨트 아파트 실거래가 하락 폭 확대 여부\n- 생산자물가 하락이 소비자물가에 미치는 시차 효과\n\n<sub>참고: [JTBC](https://news.google.com/rss/articles/CBMiVEFVX3lxTE05WFFYTGNxV25zeGhwN0RZc0JwRTlVQnNoZW1yVVJHVjY3QTNqUDY3dlhaeWhLOWNpaDNYS1JOVnJkU3B6QXVfdzVEVzlzMFhnSGxFcw?oc=5) / [조선일보](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZkozS3U3U05LNGRJZTcza3JMSmtaWVdGT00zUGdlMzVHcUdZc2tzRlJPcVIzbFhtSDhRZWNLZGtjZTVUemlNSnJQRUYtU0l0T2Q4ZGFLbUdEb1N3RFVkc0FLR0wxblBRSWVHZzQ5eDd5cU9BQTdVMzhwVVMzMUNaMWFab1AzRXUw?oc=5) / [서울신문](https://news.google.com/rss/articles/CBMid0FVX3lxTE8ya2NTTVh3c0REdElqdmp4MGt4SjcwdHVTazlDSXllLXVuS3R5NG05REJUWnN0MFFtaHpGanZydHdHdm85aUdHekZWYldXeHpwUTFZb2FjXzNZeDJJdDRndy02MDZ6S0Ewb2o4M0lHMXpUTHRPZXAw?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 앤트로픽 나스닥 상장 데뷔 속 AI주 투매로 기술주 급등락\n> 키워드: 앤트로픽 나스닥 상장\n\n**📌 무슨 일이 있었나**\n- AI 기업 앤트로픽이 나스닥에 상장해 첫날 17% 상승한 97.17달러에 마감하며 성공적으로 데뷔했다.\n- 앤트로픽 CEO는 상장일 인터뷰에서 AI 속도 조절과 안전성을 강조하며 회사의 핵심 가치로 제시했다.\n- 앤트로픽의 흥행에도 불구하고 상장 직후 AI 기술주 전반에 투매가 쏟아지며 나스닥 지수가 2.25% 급락했다.\n- 대형 기술주 간 향방이 갈리면서 뉴욕증시는 AI 수익성에 대한 회의론과 함께 큰 폭의 롤러코스터 장세를 연출했다.\n\n**💬 핵심 Q&A**\n- **Q. 앤트로픽 상장 성공에도 불구하고 AI 관련 기술주가 투매된 역설의 원인은 무엇인가?**\n  A. 앤트로픽의 성공적 데뷔가 오히려 AI 밸류에이션 고평가 논란을 자극하며 차익 실현 매물을 유발했기 때문이다.\n- **Q. 앤트로픽 CEO의 AI 안전 및 속도 조절 발언이 시장에 미친 파급력은 무엇인가?**\n  A. 안전 중심 경영 전략이 투자자 안도감을 줬으나, 일각에서는 기술 개발 지연에 따른 수익성 악화 우려로 이어졌다.\n- **Q. AI 종목 투매 장세가 진정되고 재반등하기 위한 조건은 무엇인가?**\n  A. 빅테크 기업들의 구체적인 AI 서비스 수익화 실적과 연준의 금리 긴축 행보 완화가 확인되어야 한다.\n\n**👀 앞으로 볼 포인트**\n- 앤트로픽 상장 이후 추가 매수세 진입 및 주가 안착 여부\n- AI 안전성 규제 논의가 빅테크 기업에 미칠 영향\n\n<sub>참고: [MBC 뉴스](https://news.google.com/rss/articles/CBMiekFVX3lxTE9RMUJFSWFLc3doMEUwZUxnaW9LbXg0QkVUbld6X3J4dDVSbzdQV3JtZ3dWNVc4eGpoQ292ZGNWejlHTDZ0X1VUeUxkaTRzc19wdl9NNnhxTVBZXzRuMHJHNTRpSnZiUUNaOW1Rek41S0VMcjMxX2czSzVn?oc=5) / [MBC 뉴스](https://news.google.com/rss/articles/CBMiekFVX3lxTE9uVXFIeUgtbWw3SUFVM1JBdVQ2b2lCUzdjZ1R1X1FkakRIVHJwVE1DX0JoYWIzZVp1MGhNNkdOdk9SdnR3YlBGZUtzNjBZc3N0Q3d5cmhnUmVSMV95dE5JZkdvZjQ3SmtrTnNsYVFaSDU2YjNIZU04eFZn0gF6QVVfeXFMTjNuTGUtT2kzLTNzT1ZUalZibjd2TWI4OFdxaEpaVTZ4XzBLSHNqdjlQc2laUUhKdThtOXRsNEpDbFlldjM3Ti1wZDFnemNOUmpDWVloQ3piTldMSllITnNxMUFxazRpNEhNOHdkaUFkMGN2MGNiTlRiU2c?oc=5) / [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16UnU0Zm9ldHZxVElJWTY5QXByLURPR1hVQUhWeFptSy1GbTdfaWNnT0hZLXc5NWpZWWg4Z2stQjFGSUdLVk1oWjE2TlJaN3FUOXRpeVNUVnItRnc0TmhtTmE4QXRubGs?oc=5)</sub>\n\n---\n\n### 2. AI 투자 회의론 확산에 뉴욕증시 급락하며 다우 5만선 붕괴\n> 키워드: 다우 5만선 붕괴\n\n**📌 무슨 일이 있었나**\n- 뉴욕증시에서 AI 대어 앤트로픽 상장에도 불구하고 3대 지수가 일제히 2%대 급락세를 나타냈다.\n- 지수 하락 여파로 다우존스30산업평균지수가 50,000선 밑으로 떨어지며 지지선을 내주었다.\n- AI 분야에 대한 천문학적 투자 대비 수익성에 대한 회의론이 유입된 것이 증시 폭락의 주요 배경으로 작용했다.\n- 대형 기술주를 비롯한 주요 종목 전반으로 매도세가 확산되며 증시 변동성이 극대화되었다.\n\n**💬 핵심 Q&A**\n- **Q. 앤트로픽 상장 호재에도 다우 5만선이 붕괴된 시장의 핵심 역설은 무엇인가?**\n  A. 대형 IPO 성사가 재료 소멸로 인식된 데다, 빅테크의 AI 투자 대비 수익성 부족 지적이 전반적인 투심을 냉각시켰다.\n- **Q. 다우 5만선 하향 이탈이 글로벌 증시와 투자자 포지션에 미치는 연쇄 영향은 무엇인가?**\n  A. 심리적 마지노선 이탈로 위험자산 회피 성향이 강해지며 글로벌 자금이 안전자산으로 이동하는 현상이 가속화된다.\n- **Q. 다우지수가 5만선을 재탈환하기 위해 필요한 거시경제적 조건은 무엇인가?**\n  A. 연준의 긴축 기조 완화 시그널과 함께 주요 기술주들의 과감한 실적 반등이 입증되어야 한다.\n\n**👀 앞으로 볼 포인트**\n- 다우지수 5만선 재탈환 여부 및 기술적 지지선 형성\n- AI 기업들의 분기 실적 발표 및 수익성 검증\n\n<sub>참고: [조선일보](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWV9PanAybzhlYWk2aktENUpNRE45bDFhLU5RdkczS2tSc1hZNmR3ZFc4S3R3Q3VDQUpwZUNVNkF4RTh4WE1YVXcxWXZlQzYzTlhxdllrMWRaSVJDVzBNN19ZOTRubTlSbHVpajU3R0FKSHNDaHIxVDR0eU1kVDdmcWNHNGdSWGI4?oc=5) / [글로벌이코노믹](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNejFxSG1RNUdLaWYxdHFKVmJWQi1oTUh2QXhUZEJXNzZGVzNkMXlEYklHQmhQZkJnbW9JaHRsaWhnNUVueXNwV2NfZmFRTnFrYWgwcnRCcXZ5b0tsQUdxb0JDcmdNRDJfeE5GZ1VkTDY0VHJkMURwS2dqZWNzQmhYbC1fWTFwT0RQ?oc=5) / [프라임경제](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EajBvVzAwVzRHS2w3TlFURzh6MGU5cnVEQTJTcXpEXzR4RGVIQmZycW02a0pEM2lCbXdWQVlwbE43N3FKVHhSSmFMQkpmZ1FmLUVFZC0tcm9uNGtaX3E4TA?oc=5)</sub>\n\n---\n\n### 3. 연준 매파 발언과 연속 금리 인상 전망에 금값 14개월래 최저\n> 키워드: 연준 긴축 우려\n\n**📌 무슨 일이 있었나**\n- JP모건이 연준의 향후 3회 연속 25bp 금리 인상을 전망하면서 통화 긴축 공포가 다시 확산되었다.\n- 시카고 연은 총재는 경제 과열을 막는 것이 연준의 현 당면 과제라고 밝혀 매파적 기조에 힘을 실었다.\n- 긴축 우려와 강달러 영향으로 뉴욕 금 가격이 1.4% 하락하며 14개월 만에 최저치를 기록했다.\n- 국내 금융권의 해외 부동산 투자 부실 우려 규모가 반년 만에 27% 급증하는 등 고금리 여파가 확산하고 있다.\n\n**💬 핵심 Q&A**\n- **Q. 시카고 연은 총재의 발언과 JP모건의 3회 연속 금리 인상 전망이 시장에 준 충격은 무엇인가?**\n  A. 경제 과열 억제를 위한 금리 인상 기조가 장기화될 것이라는 우려가 자산 시장 전반의 긴축 공포를 재점화했다.\n- **Q. 연준 긴축 강화와 강달러가 금 가격 및 해외 부동산 투자 부실에 미친 경로는 무엇인가?**\n  A. 무이자 자산인 금의 유인성을 떨어뜨려 금값을 14개월래 최저로 낮췄고, 고금리로 해외 부동산 리파이낸싱이 막혀 부실이 27% 늘었다.\n- **Q. 연준의 긴축 행보가 완화로 돌아설 수 있는 결정적 조건은 무엇인가?**\n  A. 미국 경제 지표의 과열 양상 진정과 함께 원유 및 주요 원자재 가격 하락에 따른 물가 안정세가 지속 확인되어야 한다.\n\n**👀 앞으로 볼 포인트**\n- 연준의 다음 FOMC 금리 결정 및 점도표 변화\n- 금융권 해외 부동산 대출 부실화 비율 추이\n\n<sub>참고: [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE81RHhUM05NZlF6NHFIU0tCb3VrcHhtOVZ0TUx0dUtpcjJQZ2hkQnctSXJfWW4yZ1VQUTN3dEtoV2Q3VTFEZk1WWUUycmx3TUVnTE5FN3NZRllnMy1aSzh5TVFxVnE1dG9XTDFQZ2RWNDQ?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE5SWTdvc3FmOWNEN1hDWF9DZUg2c1V5MDlyaktmNFEzekpHdUIyMjkwb3JzNTRLR0laclVKUEZ0SGxOSTBoRWN4eFRiV3FqOW5oZTRUeWUyNnpzZUJ4NFlTMkJLQlo1Vjc4UUNsTk5RNS0?oc=5) / [경향신문](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ISXF1UDNJX2c2U1VVaDBZMlZFUWlIQnJla3l1b0otT28zUlJvQlBQSjhYQVBPekczVXJENjFXN0lCNzhXYjdoNmlKaGtBZTJaaTJNaGE0dmdZZw?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 보도를 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
     "generation_mode": "gemini"
   },
   "yesterday": {
@@ -2962,5 +2936,5 @@
     "newsletter_md": "# ⚡ ZIPPY | AI 경제 데일리 브리핑\n_2026-11-13 ~ 2026-11-19 이슈 · 발행 2026-11-20_\n\n🇰🇷 **국내 경제:** `대한민국 수출 1조 달러 돌파` · `금융권 및 웹 보안 취약점 발견` · `LG그룹 계열사 임원 인사`\n🌐 **해외 경제:** `앤트로픽 역대 최대 규모 상장` · `젠슨 황 해임 및 복귀 논란` · `미 연준 추가 금리 인상 거론`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 대한민국 수출 1조 달러 시대 개막\n> 키워드: 대한민국 수출 1조 달러 돌파\n\n**📌 무슨 일이 있었나**\n- 대한민국 연간 수출액이 반도체 산업의 강력한 회복세에 힘입어 사상 처음으로 1조 달러 고지를 넘어섰으며 K-반도체가 성장을 견인했다.\n- K-푸드+ 수출액 역시 120억 달러를 돌파하며 역대 최고치를 경신해 반도체 외 품목에서도 글로벌 시장 경쟁력을 입증했다.\n- 수출 호조에도 불구하고 제주 지역의 상품 및 서비스 소비가 동반 감소하는 등 내수 부진과 수출 성장의 양극화 현상이 뚜렷하게 나타났다.\n- 원·달러 환율은 달러화 강세 기조 속에서도 4일 연속 하락하며 1,330원선에서 안정세를 찾는 모습을 보이며 시장 불안을 일부 해소했다.\n\n**💬 핵심 Q&A**\n- **Q. 수출 1조 달러 달성에도 내수 부진이 심화되는 배경은 무엇인가?**\n  A. 반도체 등 특정 품목 중심의 수출 성장이 가계 소득이나 국내 소비로 즉각 전이되지 않는 낙수효과 약화가 주요 원인이다. 특히 제주 등 관광 및 서비스업 비중이 높은 지역은 고물가와 소비 심리 위축의 타격을 직접적으로 받고 있다.\n- **Q. 환율 하락세가 수출 기업의 가격 경쟁력에 미칠 영향은 어떠한가?**\n  A. 1,330원선까지 내려온 환율은 수출 기업의 원화 환산 이익을 감소시킬 수 있으나 수입 원자재 가격 부담을 낮추는 효과가 있다. 다만 달러화 강세가 여전한 상황에서 4일 연속 하락은 시장의 과도한 불안 심리가 일부 해소된 결과로 풀이된다.\n- **Q. K-푸드+의 역대 최고 실적이 전체 수출 구조에서 갖는 의미는 무엇인가?**\n  A. 반도체에 편중된 수출 포트폴리오를 다변화하여 대외 리스크에 대한 회복탄력성을 높이는 긍정적인 신호이다. 120억 달러 돌파는 농식품과 전후방 산업을 결합한 고부가가치 수출 모델이 안착했음을 시사한다.\n\n**👀 앞으로 볼 포인트**\n- KDI 2026년 하반기 경제성장률 수정치\n- 주요 품목별 수출 의존도 변화 추이\n- 내수 소비 회복을 위한 정부 정책 발표\n\n<sub>참고: [지디넷코리아](https://news.google.com/rss/articles/CBMiVkFVX3lxTE52T21HOURqWGNIQUpyUm9vYXFsZ01jbS02T01ObTJhOGNMVnR0VEJ1akxyTk9mdHpSemlDWGtvYnhNQk1lOW5FVk1nUnh3MVI5dENqNEhR?oc=5) / [대한민국 정책브리핑](https://news.google.com/rss/articles/CBMibEFVX3lxTE9aMEpxdlROTTFJVEN2TkRXYXl2c0lmbHRucHNLSFBfRDRZMGVBSEliTjYxclZzbFdEQ0NuSE9qWjZ5bTNhdi04WTJycUliM2FXQ2VCb0FKZXhtNVFhT0Y5V2kweXRUazhYZXBLQQ?oc=5) / [MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTE5oYlkyY2ZLejN4czRweUI0ckg4LWxqU3JrSC1HVTJyWURFUDZqdXZHVDRyamhVcWszc2g0Y3E3WEk4aXRVZlVMcE1JelFFQ3U5bWJCbHB3QUJnQllEUjZJWWZmeV9tOXRVNlJvbXh6a2lnNVhi0gF0QVVfeXFMTWpmSkZtWlh1djUxaTJSNG5vQVBIdEhwalR5TkhIS3RDcEYxLUhFS0ppQk95UmlqQl9LWE90andqY3NYUGs5eHpmdmFDSlhBdG45WTVCRUNLOXBNTllMUDRxMEVEVm9GejR0T0NBajZzMThfaEM?oc=5)</sub>\n\n---\n\n### 2. 금융권 보안 점검 강화와 웹 취약점 비상\n> 키워드: 금융권 및 웹 보안 취약점 발견\n\n**📌 무슨 일이 있었나**\n- 대형 금융사의 보안 취약점 점검 주기가 연 2회로 강화되며 연결된 모든 시스템에 대한 전수 점검이 의무화될 예정이다.\n- 인공지능(AI)이 전 세계적으로 널리 쓰이는 웹 서버 엔진엑스(nginx)에서 4종의 치명적인 보안 결함을 발견해 충격을 주었다.\n- 국가안보실은 웹 프로그래밍 언어인 자바(Java)의 취약점을 확인하고 민·관·군 합동 긴급 대책 회의를 소집해 대응책을 논의했다.\n- 미국 내 연쇄 전산 마비 사태로 인해 보안 및 인프라 관련 주가가 급등하며 디지털 회복탄력성이 핵심 화두로 부상했다.\n\n**💬 핵심 Q&A**\n- **Q. AI가 발견한 엔진엑스(nginx) 취약점이 금융 시스템에 미치는 위협은 무엇인가?**\n  A. 엔진엑스는 대다수 금융권 웹 서버의 기반이 되므로 해당 취약점 노출 시 고객 정보 유출이나 시스템 마비로 이어질 수 있다. 특히 AI가 인간이 놓친 결함을 찾아냈다는 점에서 기존 보안 체계의 전면적인 재검토가 불가피하다.\n- **Q. 국가안보실이 자바(Java) 취약점 대응에 민·관·군을 소집한 이유는 무엇인가?**\n  A. 자바는 공공기관과 군사 시스템 등 국가 핵심 인프라에서 광범위하게 사용되는 언어이기 때문이다. 특정 취약점이 악용될 경우 국가 안보와 직결된 정보 자산이 탈취될 위험이 있어 범국가적 차원의 즉각적인 방어가 요구된다.\n- **Q. 디지털 회복탄력성 테마가 증시에서 급부상한 배경은 무엇인가?**\n  A. 미국의 연쇄 전산 마비 사태를 통해 시스템 붕괴 시 발생하는 경제적 손실이 입증되었기 때문이다. 단순 보안을 넘어 재난 발생 시 빠르게 복구할 수 있는 인프라 구축 수요가 기업들의 필수 투자 항목으로 인식되고 있다.\n\n**👀 앞으로 볼 포인트**\n- 금융당국 전수 점검 결과 발표\n- 자바 취약점 패치 배포 일정\n- 보안 및 인프라 관련주 변동성\n\n<sub>참고: [대한민국 정책브리핑](https://news.google.com/rss/articles/CBMibEFVX3lxTE92dnJZLVlBTFdGT0FROXdJZFlmdF9zVE5pOEFtSnFld1NKLUpMSktPbExZckFNUjU5NEhfU3VuRXFodU1jM2tnNjlHZVFYM2pzUExldnV0V1o5Sk81bTZ4VXJOY2hJeGc0QjdmSQ?oc=5) / [지디넷코리아](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVZVJGSjNiVjNtU2RINTRZSXllWUZ4SjBxRkZ5R3Z1aTNtSUVSelU0NEk3cTJQZU1QWG5oSWVzNkpjRDlWSG1hUGJPcFltYkFYVFFRTi1n?oc=5) / [한겨레](https://news.google.com/rss/articles/CBMia0FVX3lxTE1IVG81MDZSRXd0eGcwN0twTEpfT2FNaVZ4NGZTdGt4Y092M1lLcEhRZEJUSkJ2R3M0RVFiS0hsSm4tSEwtRzBfWHVtYUhrMDc0OW1oblVlVE9LUDdkWnNqVDJYTUpLVFc0dzdz?oc=5)</sub>\n\n---\n\n### 3. LG그룹 임원 인사 단행과 AI 전진 배치\n> 키워드: LG그룹 계열사 임원 인사\n\n**📌 무슨 일이 있었나**\n- LG유플러스는 2027년 정기 임원 인사를 통해 AI와 통신 분야 전문가들을 경영 전면에 배치하며 기술 경쟁력 강화를 꾀했다.\n- LG화학은 김무용, 김상민 전무를 부사장으로 승진 발령하며 핵심 사업 부문의 리더십을 공고히 하는 인사를 단행했다.\n- 이번 인사는 급변하는 시장 환경에 대응하기 위해 성과 중심의 인적 쇄신과 미래 성장 동력 확보에 초점을 맞춘 것으로 평가된다.\n- 금융권에서는 성과급 환수제와 연임 제한 룰 도입 논의가 확산되면서 대형 로펌을 통한 법률 상담 수요가 증가하는 추세다.\n\n**💬 핵심 Q&A**\n- **Q. LG유플러스가 AI 전문가를 전진 배치한 전략적 의도는 무엇인가?**\n  A. 전통적인 통신 사업의 수익성 한계를 극복하고 AI 기반의 서비스 기업으로 체질을 개선하기 위함이다. 인적 쇄신을 통해 AI 기술을 실제 비즈니스 모델에 빠르게 접목하여 시장 점유율을 확대하려는 포석으로 풀이된다.\n- **Q. LG화학의 부사장 승진 인사가 시사하는 사업 방향은 무엇인가?**\n  A. 석유화학 업황 부진 속에서도 배터리 소재나 친환경 에너지 등 신성장 동력 부문에서 성과를 낸 인물들을 중용한 결과이다. 이는 기존 주력 사업의 효율화와 동시에 미래 먹거리 사업에 힘을 실어주겠다는 그룹의 의지를 반영한다.\n- **Q. 금융권에서 성과급 환수 및 연임 제한 룰이 쟁점이 되는 이유는 무엇인가?**\n  A. 경영진의 책임 경영을 강화하고 단기 성과주의에 따른 부실 위험을 방지하기 위한 제도적 장치이기 때문이다. 다만 소급 적용 여부나 기준의 모호성으로 인해 법적 분쟁 가능성이 제기되면서 로펌 상담이 늘어나는 현상이 나타나고 있다.\n\n**👀 앞으로 볼 포인트**\n- LG그룹 타 계열사 후속 인사 발표\n- AI 중심 조직 개편 세부안\n- 금융권 성과급 환수제 도입 여부\n\n<sub>참고: [뉴스1](https://news.google.com/rss/articles/CBMiYEFVX3lxTE15clptTnM5LWFBWVJyb3A2b3Z1UHdobFVwT2ZTVGVyaVN3elVJUEZDdVNHMUR1RWdwM2dIQmhiZ2VrWnJLSnA3U0thRVJhdTZRek9QMEg0bUN6b3AySndxRw?oc=5) / [뉴스핌](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sR2RrVktkTUJ6MHVDLTJqT2NmT3Z4WUpfTGUxQkRFWU9GU2g4eTBLMjRJbGMzbm1qeXNzSl9aRF9ybFM1LVp0VmhFR1BMNDY2LVBFZzJzX1hWaG95?oc=5) / [DongA Science](https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxWUdEUEU5a2ZObFdSaHNpU0RlcnBpQ3BIUlMySUZWRElpakN6OFNzeE9LOUpzelNIX2Z5WkI4b2J0N2I5NDUwNmNrbmRFUzdRd2hEYw?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 앤트로픽 역대 최대 규모 나스닥 상장\n> 키워드: 앤트로픽 역대 최대 규모 상장\n\n**📌 무슨 일이 있었나**\n- 인공지능 스타트업 앤트로픽이 공모가를 83달러로 확정하고 역대 최대 규모의 기업공개(IPO)를 통해 나스닥 시장에 입성했다.\n- 이번 상장으로 앤트로픽의 기업 가치는 약 108조 원에 달하게 되었으며 창업자 7명은 수십조 원대의 자산가 반열에 올랐다.\n- 월가에서는 앤트로픽에 대해 반드시 매수해야 한다는 낙관론과 고평가를 경계하며 관망해야 한다는 신중론이 팽팽하게 맞서고 있다.\n- 앤트로픽의 상장 소식에 뉴욕 증시는 기술주 중심의 매수세가 유입되며 상승 출발하는 등 시장의 높은 기대감을 반영했다.\n\n**💬 핵심 Q&A**\n- **Q. 앤트로픽의 기업 가치가 108조 원으로 평가받은 핵심 근거는 무엇인가?**\n  A. 생성형 AI 시장에서 오픈AI의 가장 강력한 대항마로 꼽히는 기술력과 구글, 아마존 등 빅테크로부터 유치한 대규모 투자 이력이 반영된 결과이다. 특히 안전한 AI 구현을 목표로 하는 앤트로픽만의 차별화된 철학이 기업용 AI 시장에서 높은 점수를 받았다.\n- **Q. 월가에서 앤트로픽 상장을 두고 의견이 엇갈리는 지점은 어디인가?**\n  A. 막대한 인프라 비용 대비 수익 창출 모델이 아직 초기 단계라는 점이 논쟁의 핵심이다. 낙관론자들은 AI 시장의 폭발적 성장성에 주목하는 반면, 신중론자들은 공모가 83달러가 미래 가치를 과도하게 선반영했을 가능성을 우려하고 있다.\n- **Q. 앤트로픽 상장이 향후 AI 스타트업 생태계에 미칠 영향은 어떠한가?**\n  A. 역대 최대 IPO 성공 사례로 남으면서 자금 조달에 어려움을 겪던 다른 AI 기업들의 상장 시도가 가속화될 전망이다. 또한 앤트로픽 창업자들이 확보한 막대한 자본이 다시 AI 기술 개발과 인재 영입에 투입되며 시장 경쟁이 더욱 치열해질 것으로 보인다.\n\n**👀 앞으로 볼 포인트**\n- 상장 첫날 종가 및 거래량 추이\n- 주요 빅테크 투자자들의 지분 매각 여부\n- AI 모델 성능 업데이트 발표\n\n<sub>참고: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE96NGljSk1LbDlNQV9wenBqYWlEVnhZZkVXV3ZRUy0wUFlCQ3RsY08zTGlWR0NLSXZHWWctY1IwQXMxdkl3OFRETGRvWkdJWGFmSlRocEZRQzZIN2tPaVHSAWNBVV95cUxNRXBrOGtpOFJTaWxxM2VQaFFHbzFvTDVzNkxQNC1BMEpoSUxBalBCOHRQLVk4T2VMRFBMRW9mZUNKMlM1QTFYaGxUNVFTZHRjUUFOUDVLazlaX3lwWjdjRmpmMFk?oc=5) / [경향신문](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWaXpFX2diM2E5bEpucEVWN0tZeVRhUmVIb0pxS3lxY0ZMdGV4X2Nwam5tV2ZiRXU0OVZIcEJfNlhGZ3kxN2lZc0JxaFQ4RUtUeUlvT0pERmdad9IBX0FVX3lxTE1rRHZienNpZFdIRHMzaTdrUWw5ZDN5alRIcHZDMDJ3R1hfV0ZiNk9nVUZsSWZSbFY0XzFMYndaNGZQZzhuYkMwbW1sTDQ4X0VQdURHcFZUTDU4ZklMbjAw?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTFBONEN5Qno5NTJHWld3MVFRMmYwYUt5czhKZWhhX3g4NmdzbjRqeXB3ZlFyYXBLZ1FhSEdqbHV3cVdzN2VHMk42UHFzZ2NLaEZFeFFKYk1EQ1FHVWNXLXVsaThRcjRnOHViUjFwaElwUHY?oc=5)</sub>\n\n---\n\n### 2. 젠슨 황 해임 사태와 엔비디아의 혼돈\n> 키워드: 젠슨 황 해임 및 복귀 논란\n\n**📌 무슨 일이 있었나**\n- 엔비디아 이사회가 젠슨 황 최고경영자(CEO)를 전격 해임하면서 뉴욕 증시가 불확실성 확대로 하락 마감하는 등 시장에 큰 충격을 주었다.\n- 빌 애크먼 등 월가 거물들은 이사회가 젠슨 황의 복귀를 차단하는 것은 주주에 대한 의무 위반이라며 강하게 비판하고 나섰다.\n- 해임 논란 와중에 젠슨 황의 딸이 직원들에게 폭언을 했다는 의혹이 제기되며 경영진의 도덕성 논란으로까지 사태가 번졌다.\n- 현대자동차 등 주요 협력사들은 수장 공백에도 불구하고 엔비디아와의 기술 협력 관계는 변함없이 유지될 것이라는 입장을 밝혔다.\n\n**💬 핵심 Q&A**\n- **Q. 젠슨 황의 해임이 뉴욕 증시 전체의 하락을 촉발한 이유는 무엇인가?**\n  A. 엔비디아가 글로벌 AI 반도체 공급망의 핵심 축을 담당하고 있어 수장의 부재가 산업 전체의 성장 둔화로 이어질 수 있다는 공포가 확산되었기 때문이다. 특히 대체 불가능한 리더십을 가진 창업자의 퇴진은 기업의 장기 전략 수립에 치명적인 불확실성을 부여한다.\n- **Q. 빌 애크먼이 이사회의 복귀 차단을 의무 위반이라고 주장하는 논거는 무엇인가?**\n  A. 기업 가치를 극대화해야 할 이사회가 주주들의 이익을 대변하는 핵심 인물인 젠슨 황을 배제함으로써 오히려 주가 하락과 기업 경쟁력 약화를 초래했다는 논리이다. 이는 이사회의 결정이 경영적 판단이 아닌 사적인 갈등에서 비롯되었을 가능성을 시사한다.\n- **Q. 젠슨 황의 사퇴 소식에도 불구하고 한국 코스피가 상승한 역설적 배경은 무엇인가?**\n  A. 엔비디아의 독점적 지위가 흔들릴 경우 삼성전자나 SK하이닉스 등 국내 반도체 기업들이 협상력 우위를 점하거나 반사이익을 얻을 수 있다는 기대감이 작용했기 때문이다. 다만 이는 단기적인 심리적 반응일 뿐, 장기적으로는 AI 생태계 위축에 따른 수요 감소 위험이 공존한다.\n\n**👀 앞으로 볼 포인트**\n- 엔비디아 임시 이사회 결과 발표\n- 젠슨 황의 공식 입장 및 향후 행보\n- 엔비디아 주가 변동성 지수(VIX)\n\n<sub>참고: [한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EbVNRc3VELVJCcWtHSnJPc0I5eVRDOUF1WkpUY29LMS1SOXp0Y0pxekIzQmk0YjRVLTJnS1NYOWZMM2xZa3IydDlReV9ZVTNfMy1TSXZCeDFvQQ?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE1qbi1zRzBpYnU4RTdYR2ZwREdWQTEycENXeEJiMFJHMnpSaTMzWk1XekxYM213Y196M0hjYktpYXRaN2dtWkhlellWLTFFbEJZdmVoRU81X2FwekVaeVpXOVZpc0UtYm1WMEhMOThZQlo?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE0ySmZlSEdEVVVJLUlMWnBnSHV4OVdxZWFkNGh6aTMwak9melpuWnV6WlRwQloySUNKZzZFT3lSS0xCcFFUTHYwXzMwNUFPeWxoblEwdTRWaHZxZDdCNENfam0tbFQzQlNZVmZkUTZXaVE?oc=5)</sub>\n\n---\n\n### 3. 미 연준의 추가 금리 인상과 빅스텝 시사\n> 키워드: 미 연준 추가 금리 인상 거론\n\n**📌 무슨 일이 있었나**\n- 마이클 바 연준 이사는 현재 인플레이션 수치가 지나치게 높다고 지적하며 추가적인 금리 인상이 적절하다는 매파적 입장을 밝혔다.\n- 10월 연방공개시장위원회(FOMC) 의사록에 따르면 위원들 사이에서 금리 인상 필요성에 대한 공감대가 형성되었으며 일부는 빅스텝 가능성까지 언급했다.\n- 크리스토퍼 월러 이사는 물가를 잡기 위해 시장에 충격을 줄 필요가 있다며 12월에 0.5%포인트 금리를 올리는 빅스텝을 주장했다.\n- 엔비디아의 호실적 발표에도 불구하고 금리 인상 우려가 시장을 압도하면서 뉴욕 증시는 방향성을 잡지 못하고 혼조세로 마감했다.\n\n**💬 핵심 Q&A**\n- **Q. 10월 FOMC에서 금리를 동결했음에도 의사록에서 추가 인상 공감대가 형성된 이유는 무엇인가?**\n  A. 당시 동결은 지표를 지켜보기 위한 일시적 멈춤이었을 뿐, 근원 물가의 하방 경직성이 여전히 강하다는 판단이 지배적이었기 때문이다. 위원들은 인플레이션 목표치 달성을 위해 긴축 기조를 더 오래 유지하거나 강화해야 한다는 데 뜻을 모았다.\n- **Q. 크리스토퍼 월러 이사가 주장한 12월 빅스텝의 시장 파급 효과는 어떠한가?**\n  A. 시장이 예상하던 금리 인하 시점을 뒤로 늦추는 것은 물론, 고금리 환경이 장기화될 것이라는 신호를 주어 기술주와 성장주의 밸류에이션 하락 압력을 가중시킨다. 특히 부채 비중이 높은 기업들의 이자 비용 부담이 급증하며 실적 악화로 이어질 수 있다.\n- **Q. 엔비디아의 호실적이 금리 인상 우려를 넘어서지 못한 배경은 무엇인가?**\n  A. 개별 기업의 실적 호조보다 거시 경제의 유동성 축소 공포가 투자 심리에 더 큰 영향을 미치고 있기 때문이다. 아무리 수익성이 좋아도 자본 조달 비용이 상승하고 경기 침체 우려가 커지면 주식 시장 전체의 멀티플이 하향 조정되는 현상이 나타난다.\n\n**👀 앞으로 볼 포인트**\n- 11월 소비자물가지수(CPI) 발표\n- 연준 위원들의 추가 발언 내용\n- 12월 FOMC 최종 금리 결정\n\n<sub>참고: [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE4wVk8xLWxVTWRhTzduUWJRSzdGbmphMXVpbVdxYWV0X1g5NGVNNGZlQlQ3dGgwLXV0ek9OcldRTnE0dWc5bXRxaVBWc20zZ1JVc1E1T29KUEhPd2FOQjMtdnljUVlkV1ptNFJqR0dDS3Q?oc=5) / [MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTE5vbzdrRWMtdWxNMzFNd1UzVnF3bDEwWDI1S3EtQU00ZDJrdFd3dHlpRlN6RHdhRmlqZk0wRDJYVG5lR042N1VYSVF4RTFyckJTWDBJSVhtWUt3MWQwZ3pHWjBHX3o1VVNNOEJiTU13alh1N3pa0gF0QVVfeXFMTWVTSTkxVmxYWG8wc2RqYzI4YjEtMGR3VWR6QTB4UnRuMFhhbDdJQUs4T3VpQXFwLUYxbnlWMVdoUHFQMDhxdmZjYW5oTGs2QTk5Vlk1MjZNMlBVWlF2LWhGWHZxMEpHTlNLbGoxRWh0LWVRa0Q?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xUlpMVnBrQkszdFhEZ0xJZTNoNndNTm9YMFg5TDBKdjhjdWtsTGhrdG5OemV0VEdIZTJNLVhZV0hUc2Q3N2xabWJjdk8zanJyT1l6RjdkX0FWdDZaNEtsNNIBYEFVX3lxTE9xUlpMVnBrQkszdFhEZ0xJZTNoNndNTm9YMFg5TDBKdjhjdWtsTGhrdG5OemV0VEdIZTJNLVhZV0hUc2Q3N2xabWJjdk8zanJyT1l6RjdkX0FWdDZaNEtsNA?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 보도를 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
     "generation_mode": "gemini"
   },
-  "updated_at": "2026-11-20 05:00:27 KST"
+  "updated_at": "2026-11-20 08:43:04 KST"
 }
