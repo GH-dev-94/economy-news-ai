@@ -5,118 +5,125 @@
     "end_date": "2026-11-21",
     "domestic": {
       "keywords": [
-        "코스피 급락세",
-        "비트코인 하락세",
-        "공시가 현실화율 동결"
+        "코스피 코스닥 급락세",
+        "손정의 SK하이닉스 인수설",
+        "수도권 부동산 시장 혼조"
       ],
       "results": {
-        "코스피 급락세": {
-          "headline": "4900선 무너진 코스피, 매도 사이드카 발동",
+        "코스피 코스닥 급락세": {
+          "headline": "코스피 4,900선 붕괴되며 5%대 폭락",
           "facts": [
-            "코스피 지수가 4%대 급락세를 나타내며 4900선이 무너졌고, 시장 변동성이 극대화됨에 따라 프로그램 매도를 일시 정지시키는 매도 사이드카가 발동되었다.",
-            "올해 들어 최대 42%까지 상승했던 국내 증시가 폭락세로 돌아서면서 코스피200 동일가중 지수의 연간 수익률도 플러스에서 마이너스로 음전했다.",
-            "하반기 들어 코스피와 달러-원 환율 간의 역상관 관계가 약화되어 원화 약세 속에서도 증시 하락을 방어하는 기제가 작용하지 않는 불안정한 흐름이 이어졌다.",
-            "증시가 바닥을 찾지 못하고 휘청이자 투자자들의 관심은 다가오는 미국의 물가 지표 발표와 한국은행 금융통화위원회의 기준금리 결정 행보로 집중되고 있다."
+            "국내 증시에서 코스피와 코스닥 지수가 반도체 대장주인 삼성전자와 SK하이닉스의 동반 급락 여파로 각각 5%대 폭락을 기록하며 투자심리가 극도로 위축되었다.",
+            "코스피 지수는 4,900선마저 붕괴되었으며 정치권에서는 주식시장 시가총액 약 3,460조 원이 증발했다며 정부 책임론과 대책 마련을 강력히 촉구하고 나섰다.",
+            "하반기 들어 통상적으로 역상관 관계를 보였던 코스피 지수와 달러-원 환율의 디커플링 현상이 약화되는 등 외환 시장과 주식 시장 간의 연동성에 변화가 나타났다.",
+            "한국은행의 기준금리 인상 가능성이 제기되는 가운데 시장의 관심은 다음 주 예정된 미국 물가지표 발표와 한국은행 금융통화위원회의 금리 결정으로 쏠리고 있다."
           ],
           "watch": [
-            "미국 주요 물가 지표 발표와 금리 경로",
-            "한국은행 금융통화위원회 기준금리 결정",
-            "코스피 4900선 재탈환 여부 및 외국인 수급"
+            "미국 물가지표 발표 및 연준 통화정책 방향",
+            "한국은행 금융통화위원회의 기준금리 결정",
+            "코스피 5,000선 회복 여부 및 외국인 수급"
           ],
           "qna": [
             {
-              "q": "코스피 4900선 붕괴 과정에서 매도 사이드카가 발동된 원인은 무엇인가?",
-              "a": "뉴욕증시의 기술주 급락과 글로벌 자산 시장의 투매 심리가 국내 증시로 전이되며 급격한 매도세가 몰린 영향이다. 코스피 선물지수의 급등락으로 프로그램 매도 호가의 효력이 일시 정지되는 사이드카가 발동되었다."
+              "q": "반도체 대장주 급락이 전체 증시 5%대 폭락으로 이어진 메커니즘은 무엇인가?",
+              "a": "시가총액 비중이 절대적인 삼성전자와 SK하이닉스에 매도세가 집중되면서 지수 하락 폭을 직접적으로 키웠다. 이로 인해 투자 심리가 악화되고 개인 투자자의 반대매매 우려와 시장 전반의 투매로 연쇄 파급되었다."
             },
             {
-              "q": "달러-원 환율과의 역상관 관계 약화가 국내 증시에 미친 영향은 무엇인가?",
-              "a": "과거에는 원화 가치가 하락하면 수출 기업의 가격 경쟁력 기대감이나 환차익을 노린 외국인 자금이 유입되어 증시 하락을 완화했으나, 최근에는 환율 변동과 증시 급락이 동반 발생하는 디커플링 약화 현상으로 시장의 불안정이 더욱 심화되었다."
+              "q": "하반기 들어 코스피와 달러-원 환율의 역상관 관계가 약화된 원인은 무엇인가?",
+              "a": "증시 하락 시 환율이 상승하던 기존의 역상관 패턴이 글로벌 자금 흐름과 외환 수급 구조 변화로 인해 흐려졌다. 이에 따라 원화 가치 변동만으로 외국인 투자자의 국내 증시 유출입을 예측하기 어려워진 환경이 조성되었다."
             },
             {
-              "q": "코스피 수익률이 마이너스로 돌아선 상황에서 향후 지수 반등의 분기점은 무엇인가?",
-              "a": "다음 주 예정된 미국의 물가 지표 발표를 통한 통화정책 불확실성 해소와 한국은행 금통위의 금리 대응이 주요 분기점이다. 통화 긴축 완화 시그널과 외국인 매도세 완화 여부에 따라 지수의 바닥 확인 및 반등 여부가 결정될 것으로 보인다."
+              "q": "다음 주 예정된 금통위 결정과 미국 물가지표는 증시반등의 분기점이 되는가?",
+              "a": "한국은행의 금리 정책 향방과 미국 물가지표에 따른 연준의 긴축 완화 여부가 외국인 수급 복귀의 핵심 조건이다. 금리 부담이 해소되고 글로벌 긴축 우려가 완화되어야 코스피의 5,000선 회복 동력을 얻을 수 있다."
             }
           ]
         },
-        "비트코인 하락세": {
-          "headline": "비트코인 6만 달러 붕괴, 7주 연속 하락",
+        "손정의 SK하이닉스 인수설": {
+          "headline": "손정의, 1조 달러 규모 SK하이닉스 인수 구상",
           "facts": [
-            "비트코인 가격이 4개월 만에 6만 달러선 아래로 떨어지면서 지난해 기록했던 전고점 대비 반토막 수준으로 급락했다.",
-            "이번 하락으로 비트코인은 7주 연속 내림세를 이어갔으며, 이는 2022년 이후 가장 오랜 기간 지속된 약세장 기록이다.",
-            "뉴욕증시 기술주 투매와 월가의 매도 공포가 암호화폐 시장으로 확산되면서 비트코인은 물론 대표적 안전자산인 금까지 동반 폭락했다.",
-            "기술적 차트 분석상 현재의 비트코인 가격 하락 추이는 2018년 5월 본격적인 반등이 나타나기 직전의 하락 패턴과 유사하다는 시각이 제기되었다."
+            "소프트뱅크 손정의 회장이 SK하이닉스를 1조 달러(약 1,346조 원) 규모에 인수하는 구상을 하고 미국 월가 주요 금융기관들에 자금 조달 방안을 문의했다.",
+            "손정의 회장의 이러한 매각 검토 및 인수 추진 구상은 글로벌 반도체 및 AI 주도권을 확보하기 위한 거대 프로젝트의 일환으로 미국 월가에서 타진되었다.",
+            "한편 SK하이닉스는 보유 중이던 전환사채를 주식으로 전격 전환하면서 일본 반도체 기업 키오시아 지분 14.1%를 성공적으로 확보해 지배력을 높였다.",
+            "하지만 천문학적인 인수 금액 규모와 글로벌 반도체 공급망 통제 우려 등으로 인해 월가 및 글로벌 금융시장에서는 실제 인수 실현 가능성에 신중한 반응을 보였다."
           ],
           "watch": [
-            "비트코인 6만 달러선 회복 여부",
-            "뉴욕증시 기술주 투매 완화 및 위험자산 선호",
-            "과거 2018년 유사 패턴 이후 지지선 형성"
+            "소프트뱅크의 공식 입장 및 자금 조달 행보",
+            "SK하이닉스의 키오시아 지분 활용 전략",
+            "글로벌 반도체 M&A 관련 독과점 규제 동향"
           ],
           "qna": [
             {
-              "q": "비트코인이 7주 연속 하락하며 6만 달러선이 붕괴된 핵심 요인은 무엇인가?",
-              "a": "월가를 중심으로 확산된 기술주 및 위험자산 투매 공포가 암호화폐 시장으로 크게 전이되었기 때문이다. 뉴욕증시 폭락과 함께 전통적 안전자산인 금마저 동반 하락하는 등 전반적인 자산 시장의 청산 압력이 가중되었다."
+              "q": "손정의 회장이 1조 달러라는 거대 인수 구상을 월가에 타진한 배경은 무엇인가?",
+              "a": "AI 반도체의 핵심인 HBM 시장에서 독보적 점유율을 가진 SK하이닉스를 확보하여 소프트뱅크 중심의 글로벌 AI 생태계를 완성하려는 목적이다. 월가 금융권에 자금 조달 가능성을 문의하며 거대 M&A 타당성을 검토한 것으로 해석된다."
             },
             {
-              "q": "이번 암호화폐 시장의 폭락이 전체 금융시장 밸류체인에 미치는 파급 효과는 무엇인가?",
-              "a": "레버리지를 활용한 암호화폐 투자자들의 강제 청산이 잇따르면서 관련 금융상품 및 투자 기관의 손실이 확대되고 있다. 이는 위험 자산 전반에 대한 투자 심리를 위축시켜 증시와 가상자산 간의 동반 약세를 가속화하는 경로로 작용하고 있다."
+              "q": "SK하이닉스의 키오시아 지분 14.1% 확보가 메모리 시장에 미치는 파급효과는 무엇인가?",
+              "a": "전환사채를 주식으로 바꾸며 주요 주주 지위를 확고히 해 낸드플래시 분야에서의 협력 기반을 다졌다. 이는 향후 메모리 업황 회복기에 시장 지배력을 유지하고 사업 시너지를 극대화하는 계기가 된다."
             },
             {
-              "q": "과거 2018년 하락 패턴과의 유사성이 향후 가격 반등의 시그널이 될 수 있는가?",
-              "a": "2018년 5월 당시에는 지지선 근접 후 기술적 반등이 나타난 바 있어 유사 차트 분석에 기반한 바닥 모색 기대감이 나온다. 다만 거시경제적 금리 환경과 글로벌 증시의 추가 조정 여부가 결합되어야 실질적인 추세 전환이 가능할 것이다."
+              "q": "1조 달러 규모의 인수 구상이 실제 추진될 때 넘어야 할 핵심 걸림돌은 무엇인가?",
+              "a": "1,300조 원이 넘는 막대한 자금을 조달해야 하는 재무적 부담이 가장 큰 장벽이다. 또한 각국 정부의 반도체 안보 및 독점 규제 심사를 통과해야 하므로 실현 가능성에 대해 시장의 의구심이 큰 상황이다."
             }
           ]
         },
-        "공시가 현실화율 동결": {
-          "headline": "내년 부동산 공시가 현실화율 69%로 5년째 동결",
+        "수도권 부동산 시장 혼조": {
+          "headline": "서울 하락·경기 상승…수도권 집값 혼조세",
           "facts": [
-            "국토교통부가 내년 부동산 공시가격 현실화율을 올해와 동일한 69%로 유지하기로 최종 결정했다.",
-            "5년 연속 동결되었으며, 정부는 국민의 세 부담 수용성을 최우선으로 고려했다.",
-            "현실화율이 묶여도 최근 집값이 크게 상승한 지역의 경우 공시가격 자체가 올라 실질적인 보유세 부담이 인상될 것으로 전망된다.",
-            "정부는 겹겹이 쌓인 보유세 인상 압박 속에서 현실화율을 고정하여 불확실성을 낮추고 세제 개편 논의와의 속도를 맞추기로 했다."
+            "11월 3주 차 수도권 부동산 시장에서 서울 집값은 0.06% 하락한 반면 경기도 집값은 0.24% 상승하며 지역별 양극화와 명확한 시장 혼조세를 나타냈다.",
+            "서울 아파트 가격의 소폭 하락에도 불구하고 지속되는 고금리 기조와 높은 매매가 수준으로 인해 무주택 실거주자들의 내 집 마련 부담은 여전히 지속되고 있다.",
+            "정부의 대출 규제를 우회하여 주택담보대출 및 개인사업자 대출 등을 편법 활용하는 일명 '주인 대출' 행태가 시중에서 확산되며 금융 시장 경각심을 키웠다.",
+            "서울 지역의 매수 관망세와 경기 지역으로의 수요 이동이 교차하는 가운데 수도권 전반의 부동산 시장은 향후 정책 및 금리 향방에 따라 불확실성이 지속될 전망이다."
           ],
           "watch": [
-            "집값 상승 지역의 실질 보유세 산출 결과",
-            "공시가격 산정 방식 개편안 법안 논의 경과",
-            "지자체별 공시가격 발표 및 소유자 열람 일정"
+            "서울 및 경기 지역 아파트 매매가격지수 추이",
+            "정부의 편법 우회 대출 단속 및 금융 규제",
+            "수도권 무주택자의 실질 주거비 부담 지표"
           ],
           "qna": [
             {
-              "q": "내년 공시가격 현실화율을 69%로 5년 연속 동결한 주요 배경은 무엇인가?",
-              "a": "급격한 공시가격 인상으로 인한 국민의 세 부담과 건보료 인상 등 인상 압박을 완화하고 국민 수용성을 고려한 조치이다. 부동산 시장의 불확실성이 지속되는 상황에서 현실화율 고정을 통해 시세 반영률 상승에 따른 세금 폭탄 우려를 차단하고자 했다."
+              "q": "서울 집값은 하락하고 경기도는 상승하는 디커플링 현상의 원인은 무엇인가?",
+              "a": "서울의 높은 진입장벽과 대출 규제로 인해 매수 수요가 가격 접근성이 우수한 경기 지역으로 이동했기 때문이다. 서울은 관망세로 소폭 조정받은 반면 경기도는 외곽 이주 수요가 몰리며 상승세를 기록했다."
             },
             {
-              "q": "현실화율이 동결되었음에도 일부 지역의 보유세가 늘어나는 메커니즘은 무엇인가?",
-              "a": "보유세는 공시가격 현실화율뿐만 아니라 주택의 시세 변동에 직접적인 영향을 받기 때문이다. 현실화율이 69%로 고정되어도 시세 자체가 대폭 오른 단지나 지역은 공시가격 산정액이 상승하여 실질 보유세가 늘어나게 된다."
+              "q": "시중에서 확산 중인 '주인 대출' 형태의 우회 대출이 시장에 주는 위험은 무엇인가?",
+              "a": "사업자 대출 등을 주택 구입 자금으로 둔갑시켜 정부의 DSR 및 주택담보대출 규제를 무력화시킨다. 이는 가계부채 관리 체계에 구멍을 뚫고 부동산 시장으로 불법 자금이 유입되게 만드는 원인이 된다."
             },
             {
-              "q": "공시가 현실화율 동결 조치가 부동산 시장 및 정책에 가져올 분기점은 무엇인가?",
-              "a": "공시가격 고무줄 인상에 대한 불확실성이 제거되어 주택 보유자들의 세무 예측 가능성이 높아졌다. 다만 시세 상승 지역과 정체 지역 간의 세 부담 격차가 벌어질 수 있어, 향후 공시가격 산정 체계 전반에 대한 개편 논의가 본격화될지 지켜봐야 한다."
+              "q": "경기 지역의 상승세가 수도권 전체 집값의 상승 전환으로 이어질 수 있는가?",
+              "a": "서울 핵심 지역의 거래량 회복과 금리 인하 여부가 전체 시장 방향을 결정하는 선행 지표다. 서울 매수세가 받쳐주지 않는다면 경기 지역의 상승세 지속도 한계가 있어 혼조세가 이어질 가능성이 높다."
             }
           ]
         }
       },
       "news": {
-        "코스피 급락세": [
+        "코스피 코스닥 급락세": [
           {
-            "title": "[속보] 코스피, 4%대 급락에 매도 사이드카 발동 - MBC 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xVXRKQmJTcFF6SWNjWTYtTWhTNGRuay02R1laSXhib3J1b2xrOEE0Tm83SU0zYzhCdkpudGJZTktNaE9GNmFhVmNYX0RLem1JNG4zVV9YWVlRekMyTUlrdkdXcnJzekNyR2tjanYzZjlSNlU40gF0QVVfeXFMTlA5YTBwNi1aRC1RZDZZTU1GZjRiM2VUSk9IMncwbzZsdm1XTHc5QktCNnVMa25nZFctaWx5R210OGdGbEJGMW9wV2NjSDJCZEx0dEo1UWMtQkN4YjFGSzh2Wm13Q0dHblFfRHBmU0lyZ1NWUU4?oc=5",
-            "source": "MBC 뉴스",
-            "published": "11-20 11:57",
-            "snippet": "[속보] 코스피, 4%대 급락에 매도 사이드카 발동 MBC 뉴스 나스닥 5% 폭락…시험대 오른 국내 증시, 반등 열쇠는 [다음주 주요 변수 미리보기] 한국경제 4,900선 무너진 코스피...다음주 미국 물가·한은 금통위 '주목' YTN 코스피 5천선 이탈, 공세적 연준과 AI 악재 충격 네이버페이 머니스토리 5%대 급락 '검은 금요일'…사흘만에 '5천피' 밑으로 연합뉴스"
+            "title": "삼전닉스 '와르르'…코스피·코스닥 5%대 급락에 개미들 '비명' - 한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rQk4wT0NTZGJ4Q2hXYkFRTFFvMlFzTnZMUWxQUzVKQk9mbExiQlBsbjhrZHFIWkF3Sm1nc05sb1V4RWp5THRhWUduT3dMUFlseGdsWnE1aHlfQQ?oc=5",
+            "source": "한국경제",
+            "published": "11-20 15:46",
+            "snippet": "삼전닉스 '와르르'…코스피·코스닥 5%대 급락에 개미들 '비명' 한국경제 10개월 전으로 돌아간 코스피 조선일보 코스피 5천선 이탈, 공세적 연준과 AI 악재 충격 네이버페이 머니스토리 5%대 급락 '검은 금요일'…사흘만에 '5천피' 밑으로 연합뉴스 [속보] 급락장에 코스피 이어 코스닥서도 매도 사이드카 MBC 뉴스"
           },
           {
-            "title": "\"대체 바닥이 어디야\"…코스피 4900선 붕괴, 반등 열쇠는? - 머니투데이 - 머니투데이",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ock1qR2c4alhTbGR5MGVtbWJKY0tDVTdIcV8xekdsTnhVVUlCNEVQQjdOdEl2Uk9xUGxkd3V6U25pelJpZGoyemdaaUJOb2dXZExRQ2F0TVdZWVFjaGNOeXJzQXdvZENS0gFuQVVfeXFMT3k2UlZ5STRtMHZjZ01LQm4wcGRFc0NybzVHV2d1eThMNndqQkd5bDMyM1NvVFVKd3ZFNGRLSUt0WTBVeHhZWHRkeXlqMlNVZWR2a0xxc0x4bVMxY3pBVGxmOWpQb3FfNEZHNHJja1E?oc=5",
-            "source": "머니투데이",
-            "published": "11-21 12:13",
-            "snippet": "\"대체 바닥이 어디야\"…코스피 4900선 붕괴, 반등 열쇠는? - 머니투데이 머니투데이"
+            "title": "코스피와 따로 가는 달러-원…하반기 들어 역상관 약화 - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qNkpsSThuS29SR3BvcGNRQUI3NHpLU0pXcG1ZQy1jaEI2MVFqeW9XSEJTSjZYVEllRUF4WnVtaWs2RVUzYjlSR2ZzdWhhZVM0RWY0YXA1Tm8xOEVCYUpDRzNubHBfQUhMeE5xZWs1OUQ?oc=5",
+            "source": "연합인포맥스",
+            "published": "11-21 13:01",
+            "snippet": "코스피와 따로 가는 달러-원…하반기 들어 역상관 약화 연합인포맥스"
           },
           {
-            "title": "4,900선 무너진 코스피...다음주 미국 물가·한은 금통위 '주목' - YTN",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KX29tTFRJTENmVFZvMnBTdHhzTFFkZTQycS1DZVR5MWRheVFWWFp6ZG5aeHE0MjVCSFB5eERHMjNrYUJPVW84OS1GbFJOUDJ4MGhfd0lkLUNmOFhtakE?oc=5",
+            "title": "4,900선 무너진 코스피...다음 주 미국 물가·금통위 주목 - YTN",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tVDRZT0xPbnYtbXFGVGdWRlRHUEFucUdQRDBFOG5wN05QUWRYY0VLdGhwdU5fNWs3Y3JNdWIyTUhVVlVqYWFRZDA4WUJOY2lMMlZyMHBzVmVyNG0wT0E?oc=5",
             "source": "YTN",
-            "published": "11-21 11:16",
-            "snippet": "4,900선 무너진 코스피...다음주 미국 물가·한은 금통위 '주목' YTN"
+            "published": "11-21 15:04",
+            "snippet": "4,900선 무너진 코스피...다음 주 미국 물가·금통위 주목 YTN"
+          },
+          {
+            "title": "나경원 \"코스피 5% 폭락, 시총 3천460조 증발…李정권, 국민 돈 물어내라\" - 매일신문",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RSnBhSjdlaldSRk9TcmVOYjdUOU9saVlDRXhFRTlrOC1GMkcwVm1hSndIdjhtNmNudG9xbEc4N2RNSmhpTkxIMzhkOFQwLTkzU2hDSHB0Vm42WDU4c0s4V0xB?oc=5",
+            "source": "매일신문",
+            "published": "11-21 13:12",
+            "snippet": "나경원 \"코스피 5% 폭락, 시총 3천460조 증발…李정권, 국민 돈 물어내라\" 매일신문"
           },
           {
             "title": "코스피 4900선 붕괴에…나경원 “李정권, 국민 돈 물어내라” - 시사저널",
@@ -126,207 +133,193 @@
             "snippet": "코스피 4900선 붕괴에…나경원 “李정권, 국민 돈 물어내라” 시사저널"
           },
           {
-            "title": "42% 올랐던 증시, 결국 수익률 '마이너스'…코스피200 동일가중 음전 - 연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2bDJaTk1uLThESnZPUy1UWHRtLVlxb1N5aVl3MWRrRVJZYUZzTGpLdXBoM3Qzd1hJMkN2NHZPSjB5TlZDN3huclpCeW9oaWlYRzdnRTdoZk9wblA4WkxHYkd1Rk80X2hsbmZjNS1pR00?oc=5",
-            "source": "연합인포맥스",
-            "published": "11-21 08:05",
-            "snippet": "42% 올랐던 증시, 결국 수익률 '마이너스'…코스피200 동일가중 음전 연합인포맥스"
-          },
-          {
-            "title": "코스피와 따로 가는 달러-원…하반기 들어 역상관 약화 - KB Think",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VZW1xTmlDVU05dGc4eHlIUTdSTzVTSGVaa3YtbmlIREpGMDJnX29aSjF6UkRHajZPLWpDY0xfam92WWpXakhXVDlkQ3hyWFhVNDFkckxjM18zclpKYXBKbGxkYlNrSmltblJFMWxPeVZ3UQ?oc=5",
-            "source": "KB Think",
-            "published": "11-21 11:01",
-            "snippet": "코스피와 따로 가는 달러-원…하반기 들어 역상관 약화 KB Think"
+            "title": "한은, 금리 인상으로 기울었나...코스피 5천선 회복 여부 등 내주 경제 핫이슈 - 파이낸셜뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VMDZ6RnhOUnFiNnhvdXdVZk9keWg1VmU2eDY2T0JXaV9KV3FVLUZ4cjJUUnNhLVhyY09wU29BczQtdVgtM25YY0l2ekhBOE16YkVTdDBtM0Y1Zw?oc=5",
+            "source": "파이낸셜뉴스",
+            "published": "11-21 13:15",
+            "snippet": "한은, 금리 인상으로 기울었나...코스피 5천선 회복 여부 등 내주 경제 핫이슈 파이낸셜뉴스"
           }
         ],
-        "비트코인 하락세": [
+        "손정의 SK하이닉스 인수설": [
           {
-            "title": "7주 연속 하락세 탄 비트코인...지난해 고점 대비 '반토막' - YTN",
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBURlRva0hoelZDclZmeE1ZTVN1ZURXUEM1OU9tR28teWtMakRhRy0wUUpMREZhbHFYSmdMVm4zUXlsZ1dYUVFNX0M1SFd5ZmZ4QjJuWmFMY1gwVzVEU2VEQS14VnVLdmU3LVg3aWQwRQ?oc=5",
+            "title": "\"손정의, SK하이닉스 1조달러 인수 구상…월가에 자금 조달 타진\" - 뉴스1",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfNDRQTTNuaW9hYzVxcVdwVU1GUXlkdjdqN2ZJNXJNMWZRbkxYRzVqV2t2ZEpDTV9JcjRMeXFpNWxuMHVkR0dMUXdzUlNqY2xqM2ItTjFaOGU?oc=5",
+            "source": "뉴스1",
+            "published": "11-21 12:07",
+            "snippet": "\"손정의, SK하이닉스 1조달러 인수 구상…월가에 자금 조달 타진\" 뉴스1 “소프트뱅크 손정의, 최근 SK하이닉스 1조달러 인수안 검토” 경향신문 “손정의 회장, SK하이닉스 1조달러에 인수 검토” Chosunbiz “손정의, 1346조원에 SK하이닉스 인수 구상…월가에 자금 조달안 문의” 매일경제 \"소프트뱅크, 한때 SK하닉 '1조달러' 통째 인수 타진\" 마켓인"
+          },
+          {
+            "title": "\"손정의, 한때 SK하이닉스 1조 달러 인수 검토\"...월가 자금 조달 문의 - YTN",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYTEVvMXJQdV9aVFJOSWltQmctUjFPMWNjV3IzV2daUzdBY0czb200ekJUdEZSQmw2ZC1McnpTdWFWbllqejZLQWViQ01WRmFmSUJra2pKallFUVJ6UlE?oc=5",
             "source": "YTN",
-            "published": "11-21 07:25",
-            "snippet": "7주 연속 하락세 탄 비트코인...지난해 고점 대비 '반토막' YTN 비트코인, 4개월 만에 6만달러 붕괴…고점 대비 ‘반토막’ 매일경제 마켓 보름 만에 23% 떨어진 비트코인…바닥은 어디일까[코인현미경] 뉴스1 비트코인, 4개월만에 6만달러선 붕괴…AI주 투매發 위험회피(상보) 연합인포맥스 비트코인 4개월 만에 6만달러 붕괴…테라·루나 사태 이후 최장 약세 - 머니투데이 머니투데이"
+            "published": "11-21 13:04",
+            "snippet": "\"손정의, 한때 SK하이닉스 1조 달러 인수 검토\"...월가 자금 조달 문의 YTN"
           },
           {
-            "title": "나스닥, 기술주 매도에 5.3% 폭락…비트코인·금도 와르르 - JTBC",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14TGMxbDlNS2ZSb1puZWllekZUTi10Y0JoWjhTTW16SFY5RlhWT2toU2d0TFJ6N2tqTUxhSllxVzFITWlCWWVUUmFkeGdMSkR2akpmMg?oc=5",
-            "source": "JTBC",
-            "published": "11-21 12:05",
-            "snippet": "나스닥, 기술주 매도에 5.3% 폭락…비트코인·금도 와르르 JTBC"
+            "title": "“손정의, 1346조원에 SK하이닉스 인수 구상…월가에 자금 조달안 문의” - 매일경제",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KR01obVFPREJDaS1vd2R6dExOZnBoYTFSZk9JR3Vma2ZXSDRYOW5QSDZNLWQ2d1M2YUREeFlsYjdOd1ZRZmgxY0NOSnBPTlpYZmE1Nl9n?oc=5",
+            "source": "매일경제",
+            "published": "11-21 14:23",
+            "snippet": "“손정의, 1346조원에 SK하이닉스 인수 구상…월가에 자금 조달안 문의” 매일경제"
           },
           {
-            "title": "월가 투매 공포에 암호화폐 시장도 '와르르'…비트코인 6만 달러선 붕괴 - 글로벌이코노믹",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRzIya1VyUWlUM2c3Z0NmSlZaV3JMdU1xRWxuT0RuNDRBWHdaQXhZQmRZaVVTWGhCek1HanVLTFU2LWNfZFJkQ2QtQmw2SW83S2NXYW1WZmRMakM2WktVT09XbFZ2cUUyNTF0bHROWXcxMm40VFFvTlNYVWhXN1FPRUN5eHMxS3M?oc=5",
-            "source": "글로벌이코노믹",
-            "published": "11-21 08:06",
-            "snippet": "월가 투매 공포에 암호화폐 시장도 '와르르'…비트코인 6만 달러선 붕괴 글로벌이코노믹"
+            "title": "손정의, SK하이닉스 1조달러 인수 구상…월가에 자금 조달 타진 - 뉴스웍스",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Ka3Rram5qMzByMEg1aE5GOVBJellNcjFReExQVEVwVVBtSjZua0xhSEQ3REVHMjBwZk9SS2pnN0tPeEt5NUNvRzZrOVZzLUJUUll6S0JsUmRpR0hPeW8tMlpiWVZHdDhYbFBqZXVLQdIBc0FVX3lxTFBfUkwzVEZ0RkEwNmd5SXgtZDlJUlR6UzdDQ3VQZi0yTnZka013c0ZWLXdIWWp3blZFaFJiQ2pIODlzdGRHQVoyRTNzY3ZqTGRkaUw0S1lOc0s5d25UaHMxWnJtV3VuMENESExobHVtcV9kM2c?oc=5",
+            "source": "뉴스웍스",
+            "published": "11-21 13:09",
+            "snippet": "손정의, SK하이닉스 1조달러 인수 구상…월가에 자금 조달 타진 뉴스웍스"
           },
           {
-            "title": "비트코인, 4개월 만에 6만달러 붕괴…고점 대비 ‘반토막’ - 매일경제 마켓",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oZDVRcFJPdm50UEFBMld1TjdFV0pLX29wZk9DVnRKeTVmcTBqTVQzQzRydUxKR1U0eXU0alpjV2Q3WDBNYTRON1ZhV2ItUktJV2c?oc=5",
-            "source": "매일경제 마켓",
-            "published": "11-21 09:52",
-            "snippet": "비트코인, 4개월 만에 6만달러 붕괴…고점 대비 ‘반토막’ 매일경제 마켓"
+            "title": "SK하이닉스, 키오시아 지분 14.1% 확보…전환사채 주식 전환 - 한겨레",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pQ21JSHVxSEFFV2pOcTVwUk1EZ3Vwb2gwS3NNWVhhRnBBQTNibkpjLWpyam5Nb0NPU2JlQ0t4emZERTd6WWNGMGFJMGw0cG5hYW9UblotRTl5MVZZbzBhbkdPMExiWUhDREE?oc=5",
+            "source": "한겨레",
+            "published": "11-21 01:23",
+            "snippet": "SK하이닉스, 키오시아 지분 14.1% 확보…전환사채 주식 전환 한겨레 SK하이닉스, 키옥시아 투자법인 전환사채 주식 전환…지분 14.1% 간접 보유 전자신문 SK하이닉스, 키옥시아 간접 최대주주 등극…투자법인 CB 주식 전환(종합) 마켓인 SK하이닉스, 일본 키옥시아 전환사채 주식 전환…지분율 14.1%로 KBS 뉴스 SK하이닉스, 키옥시아 CB 보통주 전환…간접 최대주주 올라 데일리스포츠한국"
           },
           {
-            "title": "비트코인 6만달러도 무너졌다…7주 연속 하락에 2022년 이후 최장 약세 - 강원도민일보",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJd3hETFZsTDR2WW56cWp0ampoZmVGX25kakhfRlJRYVJZLTFHcU13U252V2c1eVVPd1RndFp6LWV5TDBKbkQyQ3R1V3pob3o2cjYxRWZEMDFqX0JFNnVONkNhUlhXb2s?oc=5",
-            "source": "강원도민일보",
-            "published": "11-21 10:44",
-            "snippet": "비트코인 6만달러도 무너졌다…7주 연속 하락에 2022년 이후 최장 약세 강원도민일보"
-          },
-          {
-            "title": "[차트분석] 비트코인 가격 추이, 2018년 5월 반등 전 하락과 유사 - 디지털애셋",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mVEQ3R0V2R3hqdS01VzhnRlIyN05HX3lpbWtWWWZvd2xZNmMyRzAtVG04allLV0JMby05bkp0S2JPQXZYLUlJOWJ4LUdNRDQwTVNsTVNoVmxOcGtmenJUem1lZ2NfSG5OSWxMd19ySkNKdw?oc=5",
-            "source": "디지털애셋",
-            "published": "11-21 11:30",
-            "snippet": "[차트분석] 비트코인 가격 추이, 2018년 5월 반등 전 하락과 유사 디지털애셋"
+            "title": "“손정의 회장, SK하이닉스 1조달러에 인수 검토” - Chosunbiz",
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZFhxQWNnZXpGNEFfVWxnN2prWndYMmpOTmNRUDdWeTI2ZWtfM21iZU9Ra0czQmlpdlRxeVRPaWUtOENwaVFZbjItcjdoSjVscXJXXzBXT2Y3cjdKc25FTGFDcDlSRkI5Q1U3RVpGdFVVQ3NzT0d2ZHVoUHVtUnhkQ01aYUXSAZgBQVVfeXFMT0lwUzhncTQ0aWlxblEyUnpNOTFrbGVLbXhjRDhLdXpPMGZIblk2SlgwTjRrNWZBX2hqV3k0QVNGT3VCbGVreU5RLVhzSWZocDN5bk9FVFRpajVVX05xVmd4b2dTWHlnY1lLY0lSRWRIcTlUN3g0aTNCeUJQYjVQYWd1SDdVZ1NjYTVUUnBDYUhYbjg3Qkp0cW8?oc=5",
+            "source": "Chosunbiz",
+            "published": "11-21 14:01",
+            "snippet": "“손정의 회장, SK하이닉스 1조달러에 인수 검토” Chosunbiz"
           }
         ],
-        "공시가 현실화율 동결": [
+        "수도권 부동산 시장 혼조": [
           {
-            "title": "겹겹이 쌓인 보유세 인상 압박에… 공시가 현실화율 동결 - 조선일보",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ09oczBURFhVVmU5WWVhRXQ3Rmx3eDZvM2ZCNUxEaDhOUEhMQzhMTXBzVTlTV0JzTzY3akNzQWxnWTJCRUtIRGVoN2xhcFU1SzdoMUo2SDNMX2NwMVlzQWJCTVZwaHA1MXoxdEVVYWxpTG9sYkswYXZveFpzaHg0Z3ZRdTlFamRl?oc=5",
+            "title": "서울 0.06%↓, 경기 0.24%↑…내 집 마련 부담은 여전 (11월 3주 부동산) - 네이버페이 머니스토리",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05MThnZ1pWLTQwRzNNWjExc0lvZTRSbXBhTzdCbXZqZHZDS0JnZDRFeGE4ckRqbElZQ2dQaFJhTlp1MGJ6THFjc29DSkdWcVdQWnVsUFNKV1QxSzA?oc=5",
+            "source": "네이버페이 머니스토리",
+            "published": "11-21 09:24",
+            "snippet": "서울 0.06%↓, 경기 0.24%↑…내 집 마련 부담은 여전 (11월 3주 부동산) 네이버페이 머니스토리 [사설]거래 절벽 속 쌓이는 아파트 매물… 공급 적기 놓치지 말아야 동아일보 봄 이사철 '전세 가뭄' 심해질 텐데…치솟는 전셋값, 꺾이는 집값 흔든다 - 머니투데이 머니투데이 강남은 떨어지고 외곽은 올랐다…서울 집값 상승률 6개월 만에 최저 뉴시스 서울 집값 너무 올랐고 매수자는 지쳐…가격 조정 시작될까[손바닥부동산] 이데일리"
+          },
+          {
+            "title": "“대통령도 했잖아?” 부동산 규제 비웃는 ‘주인 대출’ 열풍 - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOFhTMXY1TVZKaEJDeGVnZ3hiclVQalg1RFFqWmZlb3MtUW9ON0xWYWVvYTlmaGV1NXhha2pWb0hILUVHcF85aHk2OG5ZTkxFZXVRX05IR3Yyb2RoS29wTlVvSllSMTNaejBMZ0ZZM1p5NXlXa0w1SlVVRTExZDFlMmlUNDY?oc=5",
             "source": "조선일보",
-            "published": "11-21 00:44",
-            "snippet": "겹겹이 쌓인 보유세 인상 압박에… 공시가 현실화율 동결 조선일보 국토부, 주택공시가 현실화율 ‘동결’…묶여도 집값 오른 곳 보유세는 오를 듯 경향신문 내년 부동산 공시가 현실화율 69%로 동결 동아일보 내년 아파트 공시가격 현실화율 69%로 5년째 동결…보유세 영향은? KBS 뉴스 [그래픽] 공시가격 현실화율 추이 연합뉴스"
+            "published": "11-21 05:54",
+            "snippet": "“대통령도 했잖아?” 부동산 규제 비웃는 ‘주인 대출’ 열풍 조선일보 옥주현·김동현 100억 원대 초고가 아파트 ‘영끌’ 매입… 막대한 대출이자와 컨설팅비, 양도세 공제될까? 글로벌이코노믹 김동현 '압구정 100억 아파트', 집주인이 50억 빌려줬다는데… [시장톡] 한국경제 '대통령도 했는데' 부동산 새 바람 '이것' 50억대 아파트도 속속 동참 이코노미스트 “대통령도 했잖아”…고가 아파트 거래에 집주인 근저당 유행…‘주인 대출’ 확산…25억에"
           },
           {
-            "title": "내년 공시가격 현실화율 69% 유지…5년째 동결 - 한겨레",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EUTJQVFZiTG9NUGFUa25CX2NfLWdaa1FpQUZhSjBFQ0pacUZRSjlOek9PLW9pLTFaOXFZN3hCVzhVZUxnaVBSbmw2cFVadncwYXpmZ0ZkOHJTRHZLNnNQc0Z2TW40aVA2?oc=5",
-            "source": "한겨레",
-            "published": "11-21 01:26",
-            "snippet": "내년 공시가격 현실화율 69% 유지…5년째 동결 한겨레"
-          },
-          {
-            "title": "내년 공시가격 현실화율 동결…\"국민 수용성 고려\" - 연합뉴스TV",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tUzNPQ2laNEtUQmRQR0dKTW5ZMU9aRlBSaXY1X0tueFlWc1E0SmtWV0RmSjduTlJpbzJ4VW1tb0xRNWliM1l0aUtzbFAzcG5HQWVjclJGeC1seXdWTTUyUzRYZVZfb2M?oc=5",
-            "source": "연합뉴스TV",
-            "published": "11-20 21:20",
-            "snippet": "내년 공시가격 현실화율 동결…\"국민 수용성 고려\" 연합뉴스TV"
-          },
-          {
-            "title": "국토부, 주택공시가 현실화율 ‘동결’…묶여도 집값 오른 곳 보유세는 오를 듯 - 경향신문",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LalFMejBSLTM4b3VRdk9BMnRWMlJDb1JZeVVkNzhFaGJMTFFRR21BdUpCaEJRaEZTUmJBZy05dnZaX2hxcXR1VkpFSjZvRWd5RlhtTkZ3UFRLQdIBX0FVX3lxTFBWUVUxM1pVY2F0RDM4OEdoYUg3ZGN4OFo3WDhmdldqUlhLQ0RMOUtnRDEyWnhOUzk4ZjVVZ0FNMzA2SWxjdnY3b2gxNEJnN3pxYzhwVFMwTEhWMW1Ld2tj?oc=5",
-            "source": "경향신문",
-            "published": "11-20 20:07",
-            "snippet": "국토부, 주택공시가 현실화율 ‘동결’…묶여도 집값 오른 곳 보유세는 오를 듯 경향신문"
-          },
-          {
-            "title": "내년 부동산 공시가 현실화율 69%로 동결 - 동아일보",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE03R2xYM1dmcUp6RWpmVVozemxfNEdvODA4VWQyLXJfTFlmWXhWU0d4SGRzR3U0UkN4Z1Y2U21DUGF1NXNtS2RaZlczU1l3cGJybDdpWjhJODNZZzNHRkNkSE1mbTY0Rkt0LWpBWFJ3Z1BUTUFUVkHSAWZBVV95cUxOQldaRzFVTUxKOTBkZ29lM3lqTmhfY0QwOGhVUmdoSmlmZXlMa3BYdFg1ejdpQTNGbkhPTVpQYlhZakt2VGlQclJiZ0dIUDVaaE91RE9aRVFvVXp2bFNUc1laYjI5TVE?oc=5",
-            "source": "동아일보",
-            "published": "11-21 01:40",
-            "snippet": "내년 부동산 공시가 현실화율 69%로 동결 동아일보"
-          },
-          {
-            "title": "내년 공동주택 공시가격 현실화율 69%…5년째 동결 - 스페셜경제",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PSFU3dk5Zb3Rud2NyTENCSGVSWklBT1NMUXc0WjB2OEFYdDdQXzFYNjlnUVZHenBocEFEcTF1ZHhiRkNQNmRMQWFRQnFiVkppVkoxMEZDQkVEN3laTzJEdjVoRVVxbnFocVI1eQ?oc=5",
-            "source": "스페셜경제",
-            "published": "11-21 11:53",
-            "snippet": "내년 공동주택 공시가격 현실화율 69%…5년째 동결 스페셜경제"
+            "title": "뉴욕증시, 기술주 투심 위축 속 혼조 출발 - 연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwY29EZWo1UW1tWFdpNzBrTW9XQjJfX2w5T2dhYXJ3OWplSS1FU0ZQYTFSN2hMcE96N05EazdWTUxTeDEyRG1mMWs0Q1NtNWY0N2htMkNxUks5TmPSAWBBVV95cUxPVjA3bUw3SEc3TElpY05EbGo0dVNUaFRWODVCWGN3VVRTajhBVHBWOE5nd1JHNm9Ec2pQc1hWMDdOU2M3N2I3cmVIUVVEX1EyR216QWtnaVJtWXJmT18zSS0?oc=5",
+            "source": "연합뉴스",
+            "published": "11-20 23:59",
+            "snippet": "뉴욕증시, 기술주 투심 위축 속 혼조 출발 연합뉴스"
           }
         ]
       },
       "queries": {
-        "코스피 급락세": [],
-        "비트코인 하락세": [
-          "비트코인 하락세 이유"
+        "코스피 코스닥 급락세": [
+          "코스피 코스닥 지수",
+          "코스피 코스닥 차이",
+          "코스피 코스닥",
+          "코스피 코스닥 지수 실시간",
+          "코스피 코스닥 주가",
+          "코스피 코스닥 나스닥 차이",
+          "코스피 코스닥 지수 의미",
+          "코스피 코스닥 지수 차트"
         ],
-        "공시가 현실화율 동결": [
-          "공시가 현실화율"
+        "손정의 SK하이닉스 인수설": [],
+        "수도권 부동산 시장 혼조": [
+          "수도권 부동산",
+          "수도권 부동산 계급도",
+          "수도권 부동산 전망",
+          "수도권 부동산 가격",
+          "수도권 부동산 상승률",
+          "수도권 부동산 규제지역",
+          "수도권 부동산 공급",
+          "수도권 부동산 급지"
         ]
       }
     },
     "global": {
       "keywords": [
         "나스닥 기술주 폭락",
-        "엔비디아 주가 급락",
+        "앤트로픽 상장 직후 급락",
         "트럼프 연준 금리 비판"
       ],
       "results": {
         "나스닥 기술주 폭락": {
-          "headline": "나스닥, 기술주 폭락에 5.3% 급락·조정장 진입",
+          "headline": "나스닥 5.3% 폭락…주요 지수 조정장 진입",
           "facts": [
-            "뉴욕증시에서 나스닥 지수가 대형 기술주들에 대한 강력한 매도세가 몰리며 5.3% 폭락 마감했다.",
-            "나스닥의 급락세 여파로 다우존스 지수와 S&P500 지수 역시 하락 폭을 키우며 조정 국면에 본격적으로 진입했다.",
-            "이번 폭락으로 S&P500 지수는 최근 6년 사이 가장 긴 하락세를 기록하며 올해 쌓아 올린 상승분을 대부분 반납했다.",
-            "증시 폭락의 파장이 암호화폐인 비트코인과 전통적 안전자산인 금 가격까지 동반 하락시키는 자산 전반의 투매로 확대되었다."
+            "뉴욕증시에서 대형 기술주를 중심으로 거센 매도세가 몰아치며 나스닥 지수가 하루 만에 5.3% 폭락하는 등 시장 전반에 극심한 투매 장세를 연출했다.",
+            "나스닥의 폭락 영향으로 다우존스 30 산업평균지수와 S&P 500 지수 역시 동반 하락하며 주요 지수 모두 공식적인 기술적 조정 국면에 집단 진입했다.",
+            "특히 S&P 500 지수는 이번 주가 하락으로 인해 최근 6년 사이 가장 긴 기간 동안 연속 하락세를 기록하며 시장 내 우려를 한층 심화시켰다.",
+            "기술주 투매 여파는 가상자산과 원자재 시장으로 급격히 파급되어 비트코인과 금 가격마저 동반 급락하는 위험자산 및 안전자산의 동시 청산 현상이 발생했다."
           ],
           "watch": [
-            "주요 대형 기술주들의 추가 매도세 완화 여부",
-            "S&P500 및 다우 지수의 조정장 탈출 여부",
-            "글로벌 위험자산 전반의 연쇄 투매 차단 여부"
+            "나스닥 지수의 기술적 지지선 방어 여부",
+            "비트코인 및 금 등 원자재 시장 변동성",
+            "미국 대형 기술주에 대한 기관 매도세 추이"
           ],
           "qna": [
             {
-              "q": "나스닥 지수가 5.3% 폭락하며 조정장에 진입하게 된 직접적인 원인은 무엇인가?",
-              "a": "AI 및 주요 대형 기술주에 대한 투자 우려와 고평가 논란 속에서 기관 및 개인 투자자들의 연쇄적인 매도세가 촉발된 영향이다. 그간 주가를 견인했던 핵심 기술주들에 투매가 집중되면서 지수 전체를 크게 끌어내렸다."
+              "q": "나스닥 5.3% 폭락이 증시 전반을 조정 국면으로 몰아넣은 메커니즘은 무엇인가?",
+              "a": "기술주 쏠림 현상이 심했던 시장에서 밸류에이션 부담으로 차익 실현 매물이 쏟아지며 투자 심리가 붕괴되었다. 기술주 비중이 높은 지수부터 투매가 발생해 다우와 S&P 500까지 전이되며 고점 대비 10% 이상 하락하는 조정장에 진입했다."
             },
             {
-              "q": "나스닥 급락이 다우·S&P500 지수 및 가상자산 등 타 자산군으로 퍼진 경로는 무엇인가?",
-              "a": "기술주 투매가 시장 전반의 위험 회피 심리를 극대화하면서 증시 전체 지수인 S&P500과 다우 지수의 조정을 유발했다. 동시에 투자자들의 현금 확보 및 마진콜 대응 수요로 인해 비트코인과 금까지 팔아치우는 연쇄 자산 청산으로 이어졌다."
+              "q": "위험자산인 주식과 함께 대표적 안전자산인 금까지 동반 급락한 이유는 무엇인가?",
+              "a": "증시 폭락으로 마진콜(증거금 부족) 위기에 몰린 투자자들이 현금을 확보하기 위해 금과 비트코인 등 유동성 있는 자산을 일제히 매도했기 때문이다. 시장 전반의 자금 경색이 자산군 구분 없는 청산으로 이어졌다."
             },
             {
-              "q": "기술주 폭락세가 진정되고 시장 추세가 반전되기 위한 조건은 무엇인가?",
-              "a": "기술주들의 실적 성장성에 대한 불확실성 해소와 과도하게 높았던 밸류에이션 부담 완화가 선행되어야 한다. 또한 연준의 통화정책 방향성에 대한 시장의 신뢰 회복과 매수 대기 자금의 유입 여부가 추가 하락을 막는 분기점이 될 것이다."
+              "q": "S&P 500이 6년 만에 최장 하락을 기록한 상황에서 추세 전환의 조건은 무엇인가?",
+              "a": "빅테크 기업들의 고평가 우려를 해소할 실적 발표와 연준의 통화완화 신호가 필요하다. 기술주의 이익 성장세가 입증되고 금리 인하 기대감이 재확인되는 시점이 증시 반등의 분기점이 될 것이다."
             }
           ]
         },
-        "엔비디아 주가 급락": {
-          "headline": "회계 스캔들 우려 속 엔비디아 주가 14% 대폭락",
+        "앤트로픽 상장 직후 급락": {
+          "headline": "앤트로픽 상장 이틀 만에 8.5% 급락",
           "facts": [
-            "AI 대표주인 엔비디아 주가가 하루 만에 약 14% 급락하며 뉴욕증시 전체를 큰 충격에 빠뜨렸다.",
-            "회계 스캔들 의혹이 불거지고 AI 투자 과열에 대한 공포감이 시장 전반으로 확산된 것이 주가 폭락의 주요 원인으로 작용했다.",
-            "앤트로픽과 엔비디아 등 AI 관련 핵심 기업들의 주가가 동반 급락하면서 뉴욕증시 3대 지수가 모두 폭락했다.",
-            "엔비디아의 13.8% 폭락 영향으로 나스닥 지수는 올해 기록했던 상승분을 대부분 반납하게 되었다."
+            "상장 첫날 화려하게 데뷔했던 AI 스타트업 앤트로픽이 상장 이틀 만에 주가가 8.5% 급락하며 초기 상승분을 단숨에 반납하는 극심한 변동성을 보였다.",
+            "앤트로픽의 주가 급락은 엔비디아를 비롯한 주요 AI 관련 종목들의 동반 하락을 불러일으키며 뉴욕증시 전반에 AI 종목 중심의 패닉 매도를 유발했다.",
+            "앤트로픽 상장 직후의 주가 급락 사태를 계기로 시장에서는 AI 기업들의 과도한 밸류에이션에 대한 의구심과 투자 수익성에 대한 회의론이 빠르게 확산되었다.",
+            "이번 앤트로픽 폭락 여파가 기술주 전반으로 불똥이 튀면서 나스닥 지수가 5.3% 폭락하는 등 뉴욕증시를 이끌던 AI 주도 상승 동력이 크게 흔들렸다."
           ],
           "watch": [
-            "엔비디아 회계 관련 공식 해명 및 불확실성 해소",
-            "AI 밸류체인 기업들의 주가 하방 지지선 형성",
-            "개인 투자자 매수세 변화 및 자금 유출입"
+            "앤트로픽 주가 추이 및 추가 매물 출회 여부",
+            "엔비디아 등 AI 밸류체인 핵심 종목 주가",
+            "글로벌 AI 스타트업 IPO 시장 분위기 변화"
           ],
           "qna": [
             {
-              "q": "엔비디아 주가가 하루 만에 14% 가깝게 대폭락한 핵심 도화선은 무엇인가?",
-              "a": "기업 관련 회계 스캔들 의혹 제기와 더불어 과열되었던 AI 투자에 대한 냉각 및 수익성 공포가 복합적으로 작용했기 때문이다. AI 생태계를 이끌던 핵심 종목의 불확실성이 수면 위로 오르며 투자 심리가 급격히 냉각되었다."
+              "q": "화려하게 데뷔한 앤트로픽 주가가 상장 이틀 만에 급락으로 돌아선 배경은 무엇인가?",
+              "a": "상장 직후 고평가 논란과 함께 단기 차익 실현 매물이 대량 출회되었기 때문이다. 막대한 인프라 투자비 대비 수익 창출 속도가 느리다는 점이 부각되며 투자자들의 불안감을 자극했다."
             },
             {
-              "q": "엔비디아 급락이 AI 산업 밸류체인 및 투자자들에게 미친 파급 효과는 무엇인가?",
-              "a": "앤트로픽 등 연관 AI 기업들의 주가도 동반 급락하며 AI 밸류체인 전반의 시가총액이 크게 증발했다. 엔비디아 비중이 높았던 국내 서학개미 및 글로벌 개별 투자자들의 평가 손실이 급격히 확대되는 타격을 입었다."
+              "q": "앤트로픽의 폭락이 엔비디아 등 AI 생태계 전반의 패닉 매도로 확산된 경로는 무엇인가?",
+              "a": "AI 소프트웨어 선도 기업인 앤트로픽의 거품 논란이 하드웨어 공급업체인 엔비디아의 수요 감소 우려로 전이되었다. AI 산업 전반의 밸류에이션 재평가가 진행되며 관련 종목 전반에 동반 투매가 발생했다."
             },
             {
-              "q": "AI 주식의 추가 폭락을 막고 반등으로 돌아서기 위한 핵심 분기점은 무엇인가?",
-              "a": "제기된 회계 스캔들 의혹에 대한 투명한 사실 규명과 해명이 최우선 과제이다. 아울러 AI 관련 기업들의 실질적인 매출 발생 및 수익성 입증이 따라주어야 밸류에이션 우려를 씻고 반등 동력을 확보할 수 있다."
+              "q": "AI 투자 회의론을 극복하고 관련 종목들이 주가 반등을 이루기 위한 핵심 과제는 무엇인가?",
+              "a": "실질적인 매출 성장과 흑자 전환 등 명확한 재무 성과로 수익성을 증명해야 한다. 단순한 기술적 기대감을 넘어 실질적인 이익 창출 능력을 시장에 제시하는 것이 주가 회복의 선행 조건이다."
             }
           ]
         },
         "트럼프 연준 금리 비판": {
-          "headline": "트럼프 \"금리 너무 높아... 정치적 연준 탓\"",
+          "headline": "트럼프 \"금리 너무 높아…정치적 연준 탓\"",
           "facts": [
-            "트럼프 전 대통령이 연방준비제도를 향해 경제 상황이 양호함에도 금리가 지나치게 높다며 거세게 비판했다.",
-            "미 연준 이사가 금리의 추가 인상 필요성을 피력한 가운데, 트럼프는 금리가 높은 이유가 매우 정치적인 연준 때문이라고 주장했다.",
-            "트럼프는 미국 기업이 다른 국가에 데이터센터를 건설할 경우 고액의 세금을 부과하겠다는 통상 방침을 밝혔다.",
-            "또한 젠슨 황의 복귀를 촉구하며 두 번째 기회가 주어져야 한다는 정치적 발언을 이어갔다."
+            "도널드 트럼프 전 미국 대통령이 현재 미국의 기준금리가 너무 높다며 통화정책을 운용하는 연방준비제도를 향해 매우 정치적이라고 강도 높게 비판했다.",
+            "미국 연준 일부 이사가 금리 추가 인상 필요성을 피력한 것에 대해 트럼프는 미국 경제가 양호한 상황에서 왜 금리를 올리려 하는지 강력히 반문했다.",
+            "트럼프는 연준의 통화정책 대응이 늦어지면 경제에 큰 고통이 따를 것이라 경고하며 기준금리 인하와 통화완화 전환의 필요성을 거듭 피력하고 나섰다.",
+            "또한 트럼프는 미국 기업이 해외에 데이터센터를 지을 경우 고액의 세금을 부과하겠다고 경고하며 해외 이전 차단을 위한 강력한 세제 제재안을 제시했다."
           ],
           "watch": [
-            "미 연준 통화정책 회의 및 금리 결정 행보",
-            "트럼프의 연준 압박 발언에 따른 시장 금리 변동",
-            "미국 기업의 해외 데이터센터 건설 세금 정책 논의"
+            "미국 연준 인사들의 통화정책 관련 발언",
+            "트럼프의 연준 독립성 공격에 따른 국채금리",
+            "미국 기업 데이터센터 해외 이전 제재 논의"
           ],
           "qna": [
             {
-              "q": "트럼프가 연준의 금리 수준을 정치적이라며 강하게 비판한 주장의 핵심은 무엇인가?",
-              "a": "현재 미국 경제 지표가 양호한 흐름을 보이고 있음에도 연준이 높은 금리를 유지하는 것은 정치적 의도가 반영되었기 때문이라는 주장이다. 금리 인상이나 고금리 기조가 경제 성장을 저해하고 기업 부담을 늘린다고 지적했다."
+              "q": "연준의 금리 추가 인상 시도와 트럼프의 '고금리 비판'이 충돌하는 핵심 원인은 무엇인가?",
+              "a": "연준은 인플레이션 재발을 막기 위해 매파적 기조를 유지하려 하지만, 트럼프는 고금리가 경제 성장과 기업 투자를 저해한다고 판단해 정치적 프레임으로 통화당국을 압박하는 것이다."
             },
             {
-              "q": "연준 인사들의 추가 금리 인상 시사와 트럼프의 비판이 충돌할 때 발생하는 시장 영향은 무엇인가?",
-              "a": "중앙은행의 독립성 논란과 함께 향후 통화정책의 불확실성이 가중된다. 금리 향방에 대한 예측이 엇갈리면서 채권 시장의 변동성이 커지고 기업들의 투자 계획 수립에 혼선을 줄 수 있다."
+              "q": "트럼프의 지속적인 연준 공격이 국채 시장과 금융 시장의 불확실성을 높이는 기전은 무엇인가?",
+              "a": "중앙은행의 정치적 독립성이 흔들릴 수 있다는 우려가 시장에 신뢰성 위기를 가져온다. 통화정책의 예측 가능성이 떨어지면서 국채 금리의 변동성이 확대되고 금융 시장 전체의 리스크 프리미엄이 상승한다."
             },
             {
-              "q": "트럼프의 연준 압박 및 해외 데이터센터 세금 부과 발언이 시장 추세에 미치는 분기점은 무엇인가?",
-              "a": "향후 정권 교체나 정책 변화 시 연준의 통화정책 수장 교체 압박 및 통화 완화 유도 가능성을 시장이 선반영할 수 있다. 해외 데이터센터 고액 과세 방침은 빅테크 기업들의 글로벌 인프라 투자 전략에 중대한 변수로 작용할 전망이다."
+              "q": "해외 데이터센터 건립 기업에 대한 고액 과세 구상이 빅테크에 미칠 파급효과는 무엇인가?",
+              "a": "글로벌 AI 인프라를 확장하려는 미국 빅테크 기업들의 해외 데이터센터 투자 비용이 크게 늘어난다. 이는 세금 리스크를 높여 기술 기업들의 해외 진출 전략에 차질을 초래하고 AI 구축 속도를 지연시킬 수 있다."
             }
           ]
         }
@@ -334,18 +327,18 @@
       "news": {
         "나스닥 기술주 폭락": [
           {
+            "title": "나스닥, 기술주 매도에 5.3% 폭락…“S&P500도 6년 사이 최장 하락” - KBS 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnVVZsZm5TYkNqNjhpUHlQamVYZTdGMVZSVVEtQ2dkeEJBM3lYNVc3cGNudFFDLXJPTWhuWFBjWnhoZDFFWF9vcy14Ukp5YTZPMGl6V0NvVmJFOTA?oc=5",
+            "source": "KBS 뉴스",
+            "published": "11-21 06:23",
+            "snippet": "나스닥, 기술주 매도에 5.3% 폭락…“S&P500도 6년 사이 최장 하락” KBS 뉴스"
+          },
+          {
             "title": "나스닥, 기술주 매도에 5.3% 폭락…다우·S&P500도 조정 진입 - 연합뉴스",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UbWQ5NUtvODJTMjZLTkl4S3Y3empSWHFVeVhxaElBYXF2ZzFNcWtDN1ZhVjhNamRGbDhidmdpYzBidy1PdGN3V1JaN3RxaXg4SElCTWhFR05FYk3SAWBBVV95cUxOXzMtMFdJR0FTOUxQRzNRS1VwdGxZUThMdUdpZ0M5dTBqazNlWlFUOW1ZNTZINXZlbGszWkR1MGtKRDRiNHdUcktnMUZ6LUFTR1g0aXJyc1d2NTFUY1drNkU?oc=5",
             "source": "연합뉴스",
             "published": "11-21 06:11",
             "snippet": "나스닥, 기술주 매도에 5.3% 폭락…다우·S&P500도 조정 진입 연합뉴스"
-          },
-          {
-            "title": "나스닥, 기술주 매도에 5.3% 폭락…“S&P500도 6년 사이 최장 하락” - KBS 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hMkUxLWVTZ0pOVkFSOFYxaThxbk4yc2ZpaEN0Ni0xNklwUGpRdWdTaW9vbkZiU1FjcUFMb1JyLUk1MnFwcGl4ZEkzV0dxRWVkME1pSVlDMzg3UTAycUY5ZkJlRFFtdw?oc=5",
-            "source": "KBS 뉴스",
-            "published": "11-21 07:15",
-            "snippet": "나스닥, 기술주 매도에 5.3% 폭락…“S&P500도 6년 사이 최장 하락” KBS 뉴스"
           },
           {
             "title": "나스닥, 기술주 매도에 5.3% 폭락…비트코인·금도 와르르 - JTBC",
@@ -376,20 +369,34 @@
             "snippet": "나스닥, 기술주 매도에 5.3% 폭락…다우·S&P500도 조정 진입(종합) 연합뉴스"
           }
         ],
-        "엔비디아 주가 급락": [
+        "앤트로픽 상장 직후 급락": [
           {
-            "title": "뉴욕증시 3대 지수 급락 마감…엔비디아 14%↓ - 연합뉴스TV",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sOXMyVW11bDc2MnJYM2lDRnlJVUx1Wl8tVnFzMWJEUHMydkk5RjBrd1JFQXZZcXFQUEE0dUFBVmRiRF9BLWVuNG0tRUt0bEFWTThYVXRJejRibWZ5NGQ2d0Nzd1A1ckU?oc=5",
-            "source": "연합뉴스TV",
-            "published": "11-21 08:23",
-            "snippet": "뉴욕증시 3대 지수 급락 마감…엔비디아 14%↓ 연합뉴스TV"
+            "title": "앤트로픽 상장 이틀째 급락‥나스닥 5.3%↓ - MBC 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SWjBid3ltdWI4WGdGQlRJTXhxakExRmlfTjFfRWhMNzRoUnhFWW45RkFhSWM3cHZSYUpUeVMwSExjM2djUWZuT3I0N2VGbkkxTWgwbzVEb0hRR2hzZWFjdnhwbXh1N09nc0FfMWdfWkNrQ09KWlhqQzln0gF6QVVfeXFMT3RLd1N0SExGc3pCS0xjTW1UemlFdlpYRHdwT2lUSl9yMEJBWUxNOFQwUTZ4V0E3Vi1UYUxMTm50RFlkMXBobV9GRVRtYmhyQm5KMXhNYjlqa1ljSWpaSFhvcy14LWM5eVk5UXhkUHRQeE5NVWxtanl6ZXc?oc=5",
+            "source": "MBC 뉴스",
+            "published": "11-21 07:28",
+            "snippet": "앤트로픽 상장 이틀째 급락‥나스닥 5.3%↓ MBC 뉴스"
           },
           {
-            "title": "\"엔비디아 너마저\" 14%↓ 서학개미 '철렁'…나스닥, 기술주 매도에 5% '급락' - 이코노미스트",
-            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NUEdkbUF5ZzBidVp0Rlhsak56T2JBUHBxV09XU0ttWVZZZXA0QWhxVlZib3lGVXNpLVphbm1hdHpIdWNobEJDSUpKUTcyOEVobFdmQ1pvbjhrNTZiMXhpTGhR?oc=5",
-            "source": "이코노미스트",
-            "published": "11-21 09:41",
-            "snippet": "\"엔비디아 너마저\" 14%↓ 서학개미 '철렁'…나스닥, 기술주 매도에 5% '급락' 이코노미스트"
+            "title": "뉴욕증시 급락, 앤트로픽 상장 상승 반납 - 뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0VC1HV3pGdUtzT3Q2b1doTG90ZGJyNGxIR3FRdURlMmFBNWlLR09sRFFQaVROeldTX2c3cHhuN2Q3dXkwUHlxMGJiMmtXeG5QMEdqMkx2ZW5IWmpSRU1qRdIBeEFVX3lxTE1FTG13WjNFWmp6ZUpUQ05LUzJ3QzZrMllOMlBHMHNlRjlTU1dTd1UtSmNqQ01ZeXFwNmJtLTVCbWZuUHMyTE5rM2FJckM3QjlQZUlELU4xMFZ2ZWYyMWVLR3lqak5zUGRyMTc0alNReHFUUEl5dVNENw?oc=5",
+            "source": "뉴시스",
+            "published": "11-21 06:14",
+            "snippet": "뉴욕증시 급락, 앤트로픽 상장 상승 반납 뉴시스"
+          },
+          {
+            "title": "‘화려한 데뷔’ 앤트로픽 다음 날 바로 급락…AI투자 회의론 확산 [지금뉴스] - KBS 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uSVFnd0FhOFltLXFNbHgya2tlbHRFXzhSYTVrYVJld3lNUjFHRmxaWlRDdERvaURZcHItWGFoQi0zVkMzOU5BWHNVSGh2bDNTblZuZzZ5X3M4QTg?oc=5",
+            "source": "KBS 뉴스",
+            "published": "11-21 12:16",
+            "snippet": "‘화려한 데뷔’ 앤트로픽 다음 날 바로 급락…AI투자 회의론 확산 [지금뉴스] KBS 뉴스 역대 최대 규모의 앤트로픽 IPO, 그러나 AI 투심은 여전히 제자리 네이버페이 머니스토리 '이날만 기다렸는데' 개미들 멘붕…증시 덮친 '섬뜩한 경고' 한국경제 앤트로픽, 상장 이틀째 8.5% 급락…공모가까지 위협 전자신문 ‘AI 안전’ 강조한 아모데이 “시속 200마일 가능해도 90마일로 달리겠다” 조선일보"
+          },
+          {
+            "title": "상장 이틀 만에 무너진 앤트로픽...뉴욕증시 AI '패닉 매도' - YTN",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1NWc1SzlSWlNnZ3Y2S3ZQT0xZbmp4anEyeXQtTDVreF9kMjZGZTEtMHNoVEJhOWZ4bDRDQk9WZU5fc3NLUWxweEZ5QklKZldFUEZjWDVqS2VQN2FlX3c?oc=5",
+            "source": "YTN",
+            "published": "11-21 09:54",
+            "snippet": "상장 이틀 만에 무너진 앤트로픽...뉴욕증시 AI '패닉 매도' YTN"
           },
           {
             "title": "AI 잔치에 찬물 끼얹은 뉴욕증시…앤트로픽·엔비디아 동반 급락 - SBS Biz",
@@ -399,25 +406,11 @@
             "snippet": "AI 잔치에 찬물 끼얹은 뉴욕증시…앤트로픽·엔비디아 동반 급락 SBS Biz"
           },
           {
-            "title": "뉴욕증시 'AI 투자 공포'에 폭락...나스닥 5.28%↓·엔비디아 14% 급락 - M이코노미뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MUzFhVDF3MnVjLXVwdmpHdHo2c1VrZlk1UV9DT21LaVJQbGJ3RjR3a3VmYmFocmJpZG91Um1Fd2taUElIY2lfZVgxQUw0eTV4NEVuZ2VIZnFqRFZVOXh3bDYyNHFNbjg?oc=5",
-            "source": "M이코노미뉴스",
-            "published": "11-21 09:46",
-            "snippet": "뉴욕증시 'AI 투자 공포'에 폭락...나스닥 5.28%↓·엔비디아 14% 급락 M이코노미뉴스"
-          },
-          {
-            "title": "AI 주식 폭락에 뉴욕증시 휘청…엔비디아 13.8% 급락·나스닥 올해 상승분 반납 - 라디오코리아",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tNUN1bEFZZlI2TnY3Qy15aVltU3VJMzJpSzBfN3JmSmIzZGhjdDBRMFQwV3hMMjVRTkNMUXFSVk5sSUozVDB4Zl9CWkpWZWNoRTFMdUREdHRZR25ZSXZpOWpIRnk?oc=5",
-            "source": "라디오코리아",
-            "published": "11-21 07:16",
-            "snippet": "AI 주식 폭락에 뉴욕증시 휘청…엔비디아 13.8% 급락·나스닥 올해 상승분 반납 라디오코리아"
-          },
-          {
-            "title": "엔비디아 '회계 스캔들' 터지나…주가 14% 대폭락에 월가 '발칵' - 글로벌이코노믹",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZjhHeHM5TnBJV2R0aUFNOU1VcW8zUE1feWF3U2FadjJjTnV0TGVrZlRsOFZveDV4S3VkbE00V09xQXg3dGZfV0R6VGU2N1pSYk1RTzlmR3J6dWRfSjVNX2FJX1BCcTBMQ2RLcEFKLU9IeDFTS0kxVWwtLVhvTkJFLWhsRGkzenJr?oc=5",
-            "source": "글로벌이코노믹",
-            "published": "11-21 06:54",
-            "snippet": "엔비디아 '회계 스캔들' 터지나…주가 14% 대폭락에 월가 '발칵' 글로벌이코노믹"
+            "title": "앤트로픽 8.5% 급락…美 나스닥도 기술주 매도에 5.3% 폭락 - 문화일보",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uMnExMlJsd0s2eUpzLUJTeGctSTR2YTdRSXlLVkhUSDFlX05rOG53UTlITkZvSDhJQWhJdGdSUDRRVmdzSDlsdW84cVFpUUFP?oc=5",
+            "source": "문화일보",
+            "published": "11-21 08:39",
+            "snippet": "앤트로픽 8.5% 급락…美 나스닥도 기술주 매도에 5.3% 폭락 문화일보"
           }
         ],
         "트럼프 연준 금리 비판": [
@@ -450,18 +443,18 @@
             "snippet": "\"대응 늦으면 큰 고통\" 연준에…트럼프 \"경제 좋은데 금리 왜 올리나\" 조세일보"
           },
           {
-            "title": "트럼프, 젠슨 황 복귀 촉구‥\"두 번째 기회 주어져야\" - MBC 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MN0Rtd2xTV2Q1SkRqN0xnbFlydGpaSUQ1V1BIS1pDNmJ0VXF6bWdlMTJvNEo4MXptZ2ZtcS03Rk9KcU83SXhtRERuR3ZiY19iQWNOYW05OWVsSzZyZmhIVGxXYW10dFYwck94WXA1SG82Y2lJ0gF0QVVfeXFMTTFFdmlyRWtKR2V6WXpaOEhfaUpTMGw4TVR6dkhieHFRdkdrbWE0SVZMTXlncGNPckplQzdEZW5CUzhHeUM3TXFrUGZObFh6RVZkMnBlZFFVaE5NSTZFdkV1R2hNQkhUOWJqMmcwSHl0V3dFOGw?oc=5",
-            "source": "MBC 뉴스",
-            "published": "11-21 07:51",
-            "snippet": "트럼프, 젠슨 황 복귀 촉구‥\"두 번째 기회 주어져야\" MBC 뉴스 트럼프, 젠슨 황 복귀 촉구…“두 번째 기회 주어져야” KBS 뉴스 국장서 당해놓고 또?…‘반도체 3배’ 이어 ‘엔비디아’ 쓸어 담는 서학개미 매일경제 [도청도설] 허니 트랩(honey trap) 국제신문 [젠슨 황 네트워크-④] 한국의 깐부들은 어쩌나 연합인포맥스"
-          },
-          {
             "title": "트럼프 \"美 기업, 다른 나라에 데이터센터 지으면 고액 세금 부과\" - KBC광주방송",
             "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fM3NLX2VpbGxLWW9SaERjcnpwRjcyZ1U3cnYxWDJOOWk1VkVFZTlLRDdrREtBREJFd2lsY1RqTW53ZXdFQ2RMbWVQU2xzRllSNVBPMHpPTC1QdUdhZWJYY1B3?oc=5",
             "source": "KBC광주방송",
             "published": "11-21 06:04",
-            "snippet": "트럼프 \"美 기업, 다른 나라에 데이터센터 지으면 고액 세금 부과\" KBC광주방송 트럼프 \"美기업, 다른 나라에 데이터센터 지으면 엄청난 세금 부과\" 연합뉴스 미국인들이 데이터센터 결사반대한 진짜 이유…'전기요금 폭탄'의 실체 스브스프리미엄 트럼프 \"환상적인 미중러 관계가 미국 안전히 지켜...해외 데이터센터 지으면 세금 폭탄\" YTN 트럼프 “젠슨, 두 번째 기회 줘야...데이터센터 해외 건설 시 세금폭탄” 서울경제"
+            "snippet": "트럼프 \"美 기업, 다른 나라에 데이터센터 지으면 고액 세금 부과\" KBC광주방송 미국인들이 데이터센터 결사반대한 진짜 이유…'전기요금 폭탄'의 실체 스브스프리미엄 트럼프 ““다른 나라에 데이터센터 지으면 엄청난 세금 부과” 경향신문 트럼프 \"환상적인 미중러 관계가 미국 안전히 지켜...해외 데이터센터 지으면 세금 폭탄\" YTN 트럼프 \"다른 나라에 데이터센터 건설 시 막대한 세금\"…젠슨 황 복귀 촉구 연합뉴스TV"
+          },
+          {
+            "title": "한은, 금리 인상으로 기울었나...코스피 5천선 회복 여부 등 내주 경제 핫이슈 - 파이낸셜뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VMDZ6RnhOUnFiNnhvdXdVZk9keWg1VmU2eDY2T0JXaV9KV3FVLUZ4cjJUUnNhLVhyY09wU29BczQtdVgtM25YY0l2ekhBOE16YkVTdDBtM0Y1Zw?oc=5",
+            "source": "파이낸셜뉴스",
+            "published": "11-21 13:15",
+            "snippet": "한은, 금리 인상으로 기울었나...코스피 5천선 회복 여부 등 내주 경제 핫이슈 파이낸셜뉴스"
           }
         ]
       },
@@ -476,15 +469,15 @@
           "나스닥 기술주 디시",
           "나스닥 기술주 지수"
         ],
-        "엔비디아 주가 급락": [
-          "엔비디아 주가 급락 이유",
-          "엔비디아 주가",
-          "엔비디아 주가 전망",
-          "엔비디아 주가 폭락",
-          "엔비디아 주가 전망 2027 년 전망",
-          "엔비디아 주가 전망 2026",
-          "엔비디아 주가 가격",
-          "엔비디아 주가 전망 디시"
+        "앤트로픽 상장 직후 급락": [
+          "앤트로픽 상장",
+          "앤트로픽 상장일",
+          "앤트로픽 상장 예정일",
+          "앤트로픽 상장 수혜주",
+          "앤트로픽 상장 일정",
+          "앤트로픽 상장 언제",
+          "앤트로픽 상장 관련주",
+          "앤트로픽 상장 연기"
         ],
         "트럼프 연준 금리 비판": [
           "트럼프 연준",
@@ -499,205 +492,212 @@
       }
     },
     "keywords": [
-      "코스피 급락세",
-      "비트코인 하락세",
-      "공시가 현실화율 동결",
+      "코스피 코스닥 급락세",
+      "손정의 SK하이닉스 인수설",
+      "수도권 부동산 시장 혼조",
       "나스닥 기술주 폭락",
-      "엔비디아 주가 급락",
+      "앤트로픽 상장 직후 급락",
       "트럼프 연준 금리 비판"
     ],
     "results": {
-      "코스피 급락세": {
-        "headline": "4900선 무너진 코스피, 매도 사이드카 발동",
+      "코스피 코스닥 급락세": {
+        "headline": "코스피 4,900선 붕괴되며 5%대 폭락",
         "facts": [
-          "코스피 지수가 4%대 급락세를 나타내며 4900선이 무너졌고, 시장 변동성이 극대화됨에 따라 프로그램 매도를 일시 정지시키는 매도 사이드카가 발동되었다.",
-          "올해 들어 최대 42%까지 상승했던 국내 증시가 폭락세로 돌아서면서 코스피200 동일가중 지수의 연간 수익률도 플러스에서 마이너스로 음전했다.",
-          "하반기 들어 코스피와 달러-원 환율 간의 역상관 관계가 약화되어 원화 약세 속에서도 증시 하락을 방어하는 기제가 작용하지 않는 불안정한 흐름이 이어졌다.",
-          "증시가 바닥을 찾지 못하고 휘청이자 투자자들의 관심은 다가오는 미국의 물가 지표 발표와 한국은행 금융통화위원회의 기준금리 결정 행보로 집중되고 있다."
+          "국내 증시에서 코스피와 코스닥 지수가 반도체 대장주인 삼성전자와 SK하이닉스의 동반 급락 여파로 각각 5%대 폭락을 기록하며 투자심리가 극도로 위축되었다.",
+          "코스피 지수는 4,900선마저 붕괴되었으며 정치권에서는 주식시장 시가총액 약 3,460조 원이 증발했다며 정부 책임론과 대책 마련을 강력히 촉구하고 나섰다.",
+          "하반기 들어 통상적으로 역상관 관계를 보였던 코스피 지수와 달러-원 환율의 디커플링 현상이 약화되는 등 외환 시장과 주식 시장 간의 연동성에 변화가 나타났다.",
+          "한국은행의 기준금리 인상 가능성이 제기되는 가운데 시장의 관심은 다음 주 예정된 미국 물가지표 발표와 한국은행 금융통화위원회의 금리 결정으로 쏠리고 있다."
         ],
         "watch": [
-          "미국 주요 물가 지표 발표와 금리 경로",
-          "한국은행 금융통화위원회 기준금리 결정",
-          "코스피 4900선 재탈환 여부 및 외국인 수급"
+          "미국 물가지표 발표 및 연준 통화정책 방향",
+          "한국은행 금융통화위원회의 기준금리 결정",
+          "코스피 5,000선 회복 여부 및 외국인 수급"
         ],
         "qna": [
           {
-            "q": "코스피 4900선 붕괴 과정에서 매도 사이드카가 발동된 원인은 무엇인가?",
-            "a": "뉴욕증시의 기술주 급락과 글로벌 자산 시장의 투매 심리가 국내 증시로 전이되며 급격한 매도세가 몰린 영향이다. 코스피 선물지수의 급등락으로 프로그램 매도 호가의 효력이 일시 정지되는 사이드카가 발동되었다."
+            "q": "반도체 대장주 급락이 전체 증시 5%대 폭락으로 이어진 메커니즘은 무엇인가?",
+            "a": "시가총액 비중이 절대적인 삼성전자와 SK하이닉스에 매도세가 집중되면서 지수 하락 폭을 직접적으로 키웠다. 이로 인해 투자 심리가 악화되고 개인 투자자의 반대매매 우려와 시장 전반의 투매로 연쇄 파급되었다."
           },
           {
-            "q": "달러-원 환율과의 역상관 관계 약화가 국내 증시에 미친 영향은 무엇인가?",
-            "a": "과거에는 원화 가치가 하락하면 수출 기업의 가격 경쟁력 기대감이나 환차익을 노린 외국인 자금이 유입되어 증시 하락을 완화했으나, 최근에는 환율 변동과 증시 급락이 동반 발생하는 디커플링 약화 현상으로 시장의 불안정이 더욱 심화되었다."
+            "q": "하반기 들어 코스피와 달러-원 환율의 역상관 관계가 약화된 원인은 무엇인가?",
+            "a": "증시 하락 시 환율이 상승하던 기존의 역상관 패턴이 글로벌 자금 흐름과 외환 수급 구조 변화로 인해 흐려졌다. 이에 따라 원화 가치 변동만으로 외국인 투자자의 국내 증시 유출입을 예측하기 어려워진 환경이 조성되었다."
           },
           {
-            "q": "코스피 수익률이 마이너스로 돌아선 상황에서 향후 지수 반등의 분기점은 무엇인가?",
-            "a": "다음 주 예정된 미국의 물가 지표 발표를 통한 통화정책 불확실성 해소와 한국은행 금통위의 금리 대응이 주요 분기점이다. 통화 긴축 완화 시그널과 외국인 매도세 완화 여부에 따라 지수의 바닥 확인 및 반등 여부가 결정될 것으로 보인다."
+            "q": "다음 주 예정된 금통위 결정과 미국 물가지표는 증시반등의 분기점이 되는가?",
+            "a": "한국은행의 금리 정책 향방과 미국 물가지표에 따른 연준의 긴축 완화 여부가 외국인 수급 복귀의 핵심 조건이다. 금리 부담이 해소되고 글로벌 긴축 우려가 완화되어야 코스피의 5,000선 회복 동력을 얻을 수 있다."
           }
         ]
       },
-      "비트코인 하락세": {
-        "headline": "비트코인 6만 달러 붕괴, 7주 연속 하락",
+      "손정의 SK하이닉스 인수설": {
+        "headline": "손정의, 1조 달러 규모 SK하이닉스 인수 구상",
         "facts": [
-          "비트코인 가격이 4개월 만에 6만 달러선 아래로 떨어지면서 지난해 기록했던 전고점 대비 반토막 수준으로 급락했다.",
-          "이번 하락으로 비트코인은 7주 연속 내림세를 이어갔으며, 이는 2022년 이후 가장 오랜 기간 지속된 약세장 기록이다.",
-          "뉴욕증시 기술주 투매와 월가의 매도 공포가 암호화폐 시장으로 확산되면서 비트코인은 물론 대표적 안전자산인 금까지 동반 폭락했다.",
-          "기술적 차트 분석상 현재의 비트코인 가격 하락 추이는 2018년 5월 본격적인 반등이 나타나기 직전의 하락 패턴과 유사하다는 시각이 제기되었다."
+          "소프트뱅크 손정의 회장이 SK하이닉스를 1조 달러(약 1,346조 원) 규모에 인수하는 구상을 하고 미국 월가 주요 금융기관들에 자금 조달 방안을 문의했다.",
+          "손정의 회장의 이러한 매각 검토 및 인수 추진 구상은 글로벌 반도체 및 AI 주도권을 확보하기 위한 거대 프로젝트의 일환으로 미국 월가에서 타진되었다.",
+          "한편 SK하이닉스는 보유 중이던 전환사채를 주식으로 전격 전환하면서 일본 반도체 기업 키오시아 지분 14.1%를 성공적으로 확보해 지배력을 높였다.",
+          "하지만 천문학적인 인수 금액 규모와 글로벌 반도체 공급망 통제 우려 등으로 인해 월가 및 글로벌 금융시장에서는 실제 인수 실현 가능성에 신중한 반응을 보였다."
         ],
         "watch": [
-          "비트코인 6만 달러선 회복 여부",
-          "뉴욕증시 기술주 투매 완화 및 위험자산 선호",
-          "과거 2018년 유사 패턴 이후 지지선 형성"
+          "소프트뱅크의 공식 입장 및 자금 조달 행보",
+          "SK하이닉스의 키오시아 지분 활용 전략",
+          "글로벌 반도체 M&A 관련 독과점 규제 동향"
         ],
         "qna": [
           {
-            "q": "비트코인이 7주 연속 하락하며 6만 달러선이 붕괴된 핵심 요인은 무엇인가?",
-            "a": "월가를 중심으로 확산된 기술주 및 위험자산 투매 공포가 암호화폐 시장으로 크게 전이되었기 때문이다. 뉴욕증시 폭락과 함께 전통적 안전자산인 금마저 동반 하락하는 등 전반적인 자산 시장의 청산 압력이 가중되었다."
+            "q": "손정의 회장이 1조 달러라는 거대 인수 구상을 월가에 타진한 배경은 무엇인가?",
+            "a": "AI 반도체의 핵심인 HBM 시장에서 독보적 점유율을 가진 SK하이닉스를 확보하여 소프트뱅크 중심의 글로벌 AI 생태계를 완성하려는 목적이다. 월가 금융권에 자금 조달 가능성을 문의하며 거대 M&A 타당성을 검토한 것으로 해석된다."
           },
           {
-            "q": "이번 암호화폐 시장의 폭락이 전체 금융시장 밸류체인에 미치는 파급 효과는 무엇인가?",
-            "a": "레버리지를 활용한 암호화폐 투자자들의 강제 청산이 잇따르면서 관련 금융상품 및 투자 기관의 손실이 확대되고 있다. 이는 위험 자산 전반에 대한 투자 심리를 위축시켜 증시와 가상자산 간의 동반 약세를 가속화하는 경로로 작용하고 있다."
+            "q": "SK하이닉스의 키오시아 지분 14.1% 확보가 메모리 시장에 미치는 파급효과는 무엇인가?",
+            "a": "전환사채를 주식으로 바꾸며 주요 주주 지위를 확고히 해 낸드플래시 분야에서의 협력 기반을 다졌다. 이는 향후 메모리 업황 회복기에 시장 지배력을 유지하고 사업 시너지를 극대화하는 계기가 된다."
           },
           {
-            "q": "과거 2018년 하락 패턴과의 유사성이 향후 가격 반등의 시그널이 될 수 있는가?",
-            "a": "2018년 5월 당시에는 지지선 근접 후 기술적 반등이 나타난 바 있어 유사 차트 분석에 기반한 바닥 모색 기대감이 나온다. 다만 거시경제적 금리 환경과 글로벌 증시의 추가 조정 여부가 결합되어야 실질적인 추세 전환이 가능할 것이다."
+            "q": "1조 달러 규모의 인수 구상이 실제 추진될 때 넘어야 할 핵심 걸림돌은 무엇인가?",
+            "a": "1,300조 원이 넘는 막대한 자금을 조달해야 하는 재무적 부담이 가장 큰 장벽이다. 또한 각국 정부의 반도체 안보 및 독점 규제 심사를 통과해야 하므로 실현 가능성에 대해 시장의 의구심이 큰 상황이다."
           }
         ]
       },
-      "공시가 현실화율 동결": {
-        "headline": "내년 부동산 공시가 현실화율 69%로 5년째 동결",
+      "수도권 부동산 시장 혼조": {
+        "headline": "서울 하락·경기 상승…수도권 집값 혼조세",
         "facts": [
-          "국토교통부가 내년 부동산 공시가격 현실화율을 올해와 동일한 69%로 유지하기로 최종 결정했다.",
-          "5년 연속 동결되었으며, 정부는 국민의 세 부담 수용성을 최우선으로 고려했다.",
-          "현실화율이 묶여도 최근 집값이 크게 상승한 지역의 경우 공시가격 자체가 올라 실질적인 보유세 부담이 인상될 것으로 전망된다.",
-          "정부는 겹겹이 쌓인 보유세 인상 압박 속에서 현실화율을 고정하여 불확실성을 낮추고 세제 개편 논의와의 속도를 맞추기로 했다."
+          "11월 3주 차 수도권 부동산 시장에서 서울 집값은 0.06% 하락한 반면 경기도 집값은 0.24% 상승하며 지역별 양극화와 명확한 시장 혼조세를 나타냈다.",
+          "서울 아파트 가격의 소폭 하락에도 불구하고 지속되는 고금리 기조와 높은 매매가 수준으로 인해 무주택 실거주자들의 내 집 마련 부담은 여전히 지속되고 있다.",
+          "정부의 대출 규제를 우회하여 주택담보대출 및 개인사업자 대출 등을 편법 활용하는 일명 '주인 대출' 행태가 시중에서 확산되며 금융 시장 경각심을 키웠다.",
+          "서울 지역의 매수 관망세와 경기 지역으로의 수요 이동이 교차하는 가운데 수도권 전반의 부동산 시장은 향후 정책 및 금리 향방에 따라 불확실성이 지속될 전망이다."
         ],
         "watch": [
-          "집값 상승 지역의 실질 보유세 산출 결과",
-          "공시가격 산정 방식 개편안 법안 논의 경과",
-          "지자체별 공시가격 발표 및 소유자 열람 일정"
+          "서울 및 경기 지역 아파트 매매가격지수 추이",
+          "정부의 편법 우회 대출 단속 및 금융 규제",
+          "수도권 무주택자의 실질 주거비 부담 지표"
         ],
         "qna": [
           {
-            "q": "내년 공시가격 현실화율을 69%로 5년 연속 동결한 주요 배경은 무엇인가?",
-            "a": "급격한 공시가격 인상으로 인한 국민의 세 부담과 건보료 인상 등 인상 압박을 완화하고 국민 수용성을 고려한 조치이다. 부동산 시장의 불확실성이 지속되는 상황에서 현실화율 고정을 통해 시세 반영률 상승에 따른 세금 폭탄 우려를 차단하고자 했다."
+            "q": "서울 집값은 하락하고 경기도는 상승하는 디커플링 현상의 원인은 무엇인가?",
+            "a": "서울의 높은 진입장벽과 대출 규제로 인해 매수 수요가 가격 접근성이 우수한 경기 지역으로 이동했기 때문이다. 서울은 관망세로 소폭 조정받은 반면 경기도는 외곽 이주 수요가 몰리며 상승세를 기록했다."
           },
           {
-            "q": "현실화율이 동결되었음에도 일부 지역의 보유세가 늘어나는 메커니즘은 무엇인가?",
-            "a": "보유세는 공시가격 현실화율뿐만 아니라 주택의 시세 변동에 직접적인 영향을 받기 때문이다. 현실화율이 69%로 고정되어도 시세 자체가 대폭 오른 단지나 지역은 공시가격 산정액이 상승하여 실질 보유세가 늘어나게 된다."
+            "q": "시중에서 확산 중인 '주인 대출' 형태의 우회 대출이 시장에 주는 위험은 무엇인가?",
+            "a": "사업자 대출 등을 주택 구입 자금으로 둔갑시켜 정부의 DSR 및 주택담보대출 규제를 무력화시킨다. 이는 가계부채 관리 체계에 구멍을 뚫고 부동산 시장으로 불법 자금이 유입되게 만드는 원인이 된다."
           },
           {
-            "q": "공시가 현실화율 동결 조치가 부동산 시장 및 정책에 가져올 분기점은 무엇인가?",
-            "a": "공시가격 고무줄 인상에 대한 불확실성이 제거되어 주택 보유자들의 세무 예측 가능성이 높아졌다. 다만 시세 상승 지역과 정체 지역 간의 세 부담 격차가 벌어질 수 있어, 향후 공시가격 산정 체계 전반에 대한 개편 논의가 본격화될지 지켜봐야 한다."
+            "q": "경기 지역의 상승세가 수도권 전체 집값의 상승 전환으로 이어질 수 있는가?",
+            "a": "서울 핵심 지역의 거래량 회복과 금리 인하 여부가 전체 시장 방향을 결정하는 선행 지표다. 서울 매수세가 받쳐주지 않는다면 경기 지역의 상승세 지속도 한계가 있어 혼조세가 이어질 가능성이 높다."
           }
         ]
       },
       "나스닥 기술주 폭락": {
-        "headline": "나스닥, 기술주 폭락에 5.3% 급락·조정장 진입",
+        "headline": "나스닥 5.3% 폭락…주요 지수 조정장 진입",
         "facts": [
-          "뉴욕증시에서 나스닥 지수가 대형 기술주들에 대한 강력한 매도세가 몰리며 5.3% 폭락 마감했다.",
-          "나스닥의 급락세 여파로 다우존스 지수와 S&P500 지수 역시 하락 폭을 키우며 조정 국면에 본격적으로 진입했다.",
-          "이번 폭락으로 S&P500 지수는 최근 6년 사이 가장 긴 하락세를 기록하며 올해 쌓아 올린 상승분을 대부분 반납했다.",
-          "증시 폭락의 파장이 암호화폐인 비트코인과 전통적 안전자산인 금 가격까지 동반 하락시키는 자산 전반의 투매로 확대되었다."
+          "뉴욕증시에서 대형 기술주를 중심으로 거센 매도세가 몰아치며 나스닥 지수가 하루 만에 5.3% 폭락하는 등 시장 전반에 극심한 투매 장세를 연출했다.",
+          "나스닥의 폭락 영향으로 다우존스 30 산업평균지수와 S&P 500 지수 역시 동반 하락하며 주요 지수 모두 공식적인 기술적 조정 국면에 집단 진입했다.",
+          "특히 S&P 500 지수는 이번 주가 하락으로 인해 최근 6년 사이 가장 긴 기간 동안 연속 하락세를 기록하며 시장 내 우려를 한층 심화시켰다.",
+          "기술주 투매 여파는 가상자산과 원자재 시장으로 급격히 파급되어 비트코인과 금 가격마저 동반 급락하는 위험자산 및 안전자산의 동시 청산 현상이 발생했다."
         ],
         "watch": [
-          "주요 대형 기술주들의 추가 매도세 완화 여부",
-          "S&P500 및 다우 지수의 조정장 탈출 여부",
-          "글로벌 위험자산 전반의 연쇄 투매 차단 여부"
+          "나스닥 지수의 기술적 지지선 방어 여부",
+          "비트코인 및 금 등 원자재 시장 변동성",
+          "미국 대형 기술주에 대한 기관 매도세 추이"
         ],
         "qna": [
           {
-            "q": "나스닥 지수가 5.3% 폭락하며 조정장에 진입하게 된 직접적인 원인은 무엇인가?",
-            "a": "AI 및 주요 대형 기술주에 대한 투자 우려와 고평가 논란 속에서 기관 및 개인 투자자들의 연쇄적인 매도세가 촉발된 영향이다. 그간 주가를 견인했던 핵심 기술주들에 투매가 집중되면서 지수 전체를 크게 끌어내렸다."
+            "q": "나스닥 5.3% 폭락이 증시 전반을 조정 국면으로 몰아넣은 메커니즘은 무엇인가?",
+            "a": "기술주 쏠림 현상이 심했던 시장에서 밸류에이션 부담으로 차익 실현 매물이 쏟아지며 투자 심리가 붕괴되었다. 기술주 비중이 높은 지수부터 투매가 발생해 다우와 S&P 500까지 전이되며 고점 대비 10% 이상 하락하는 조정장에 진입했다."
           },
           {
-            "q": "나스닥 급락이 다우·S&P500 지수 및 가상자산 등 타 자산군으로 퍼진 경로는 무엇인가?",
-            "a": "기술주 투매가 시장 전반의 위험 회피 심리를 극대화하면서 증시 전체 지수인 S&P500과 다우 지수의 조정을 유발했다. 동시에 투자자들의 현금 확보 및 마진콜 대응 수요로 인해 비트코인과 금까지 팔아치우는 연쇄 자산 청산으로 이어졌다."
+            "q": "위험자산인 주식과 함께 대표적 안전자산인 금까지 동반 급락한 이유는 무엇인가?",
+            "a": "증시 폭락으로 마진콜(증거금 부족) 위기에 몰린 투자자들이 현금을 확보하기 위해 금과 비트코인 등 유동성 있는 자산을 일제히 매도했기 때문이다. 시장 전반의 자금 경색이 자산군 구분 없는 청산으로 이어졌다."
           },
           {
-            "q": "기술주 폭락세가 진정되고 시장 추세가 반전되기 위한 조건은 무엇인가?",
-            "a": "기술주들의 실적 성장성에 대한 불확실성 해소와 과도하게 높았던 밸류에이션 부담 완화가 선행되어야 한다. 또한 연준의 통화정책 방향성에 대한 시장의 신뢰 회복과 매수 대기 자금의 유입 여부가 추가 하락을 막는 분기점이 될 것이다."
+            "q": "S&P 500이 6년 만에 최장 하락을 기록한 상황에서 추세 전환의 조건은 무엇인가?",
+            "a": "빅테크 기업들의 고평가 우려를 해소할 실적 발표와 연준의 통화완화 신호가 필요하다. 기술주의 이익 성장세가 입증되고 금리 인하 기대감이 재확인되는 시점이 증시 반등의 분기점이 될 것이다."
           }
         ]
       },
-      "엔비디아 주가 급락": {
-        "headline": "회계 스캔들 우려 속 엔비디아 주가 14% 대폭락",
+      "앤트로픽 상장 직후 급락": {
+        "headline": "앤트로픽 상장 이틀 만에 8.5% 급락",
         "facts": [
-          "AI 대표주인 엔비디아 주가가 하루 만에 약 14% 급락하며 뉴욕증시 전체를 큰 충격에 빠뜨렸다.",
-          "회계 스캔들 의혹이 불거지고 AI 투자 과열에 대한 공포감이 시장 전반으로 확산된 것이 주가 폭락의 주요 원인으로 작용했다.",
-          "앤트로픽과 엔비디아 등 AI 관련 핵심 기업들의 주가가 동반 급락하면서 뉴욕증시 3대 지수가 모두 폭락했다.",
-          "엔비디아의 13.8% 폭락 영향으로 나스닥 지수는 올해 기록했던 상승분을 대부분 반납하게 되었다."
+          "상장 첫날 화려하게 데뷔했던 AI 스타트업 앤트로픽이 상장 이틀 만에 주가가 8.5% 급락하며 초기 상승분을 단숨에 반납하는 극심한 변동성을 보였다.",
+          "앤트로픽의 주가 급락은 엔비디아를 비롯한 주요 AI 관련 종목들의 동반 하락을 불러일으키며 뉴욕증시 전반에 AI 종목 중심의 패닉 매도를 유발했다.",
+          "앤트로픽 상장 직후의 주가 급락 사태를 계기로 시장에서는 AI 기업들의 과도한 밸류에이션에 대한 의구심과 투자 수익성에 대한 회의론이 빠르게 확산되었다.",
+          "이번 앤트로픽 폭락 여파가 기술주 전반으로 불똥이 튀면서 나스닥 지수가 5.3% 폭락하는 등 뉴욕증시를 이끌던 AI 주도 상승 동력이 크게 흔들렸다."
         ],
         "watch": [
-          "엔비디아 회계 관련 공식 해명 및 불확실성 해소",
-          "AI 밸류체인 기업들의 주가 하방 지지선 형성",
-          "개인 투자자 매수세 변화 및 자금 유출입"
+          "앤트로픽 주가 추이 및 추가 매물 출회 여부",
+          "엔비디아 등 AI 밸류체인 핵심 종목 주가",
+          "글로벌 AI 스타트업 IPO 시장 분위기 변화"
         ],
         "qna": [
           {
-            "q": "엔비디아 주가가 하루 만에 14% 가깝게 대폭락한 핵심 도화선은 무엇인가?",
-            "a": "기업 관련 회계 스캔들 의혹 제기와 더불어 과열되었던 AI 투자에 대한 냉각 및 수익성 공포가 복합적으로 작용했기 때문이다. AI 생태계를 이끌던 핵심 종목의 불확실성이 수면 위로 오르며 투자 심리가 급격히 냉각되었다."
+            "q": "화려하게 데뷔한 앤트로픽 주가가 상장 이틀 만에 급락으로 돌아선 배경은 무엇인가?",
+            "a": "상장 직후 고평가 논란과 함께 단기 차익 실현 매물이 대량 출회되었기 때문이다. 막대한 인프라 투자비 대비 수익 창출 속도가 느리다는 점이 부각되며 투자자들의 불안감을 자극했다."
           },
           {
-            "q": "엔비디아 급락이 AI 산업 밸류체인 및 투자자들에게 미친 파급 효과는 무엇인가?",
-            "a": "앤트로픽 등 연관 AI 기업들의 주가도 동반 급락하며 AI 밸류체인 전반의 시가총액이 크게 증발했다. 엔비디아 비중이 높았던 국내 서학개미 및 글로벌 개별 투자자들의 평가 손실이 급격히 확대되는 타격을 입었다."
+            "q": "앤트로픽의 폭락이 엔비디아 등 AI 생태계 전반의 패닉 매도로 확산된 경로는 무엇인가?",
+            "a": "AI 소프트웨어 선도 기업인 앤트로픽의 거품 논란이 하드웨어 공급업체인 엔비디아의 수요 감소 우려로 전이되었다. AI 산업 전반의 밸류에이션 재평가가 진행되며 관련 종목 전반에 동반 투매가 발생했다."
           },
           {
-            "q": "AI 주식의 추가 폭락을 막고 반등으로 돌아서기 위한 핵심 분기점은 무엇인가?",
-            "a": "제기된 회계 스캔들 의혹에 대한 투명한 사실 규명과 해명이 최우선 과제이다. 아울러 AI 관련 기업들의 실질적인 매출 발생 및 수익성 입증이 따라주어야 밸류에이션 우려를 씻고 반등 동력을 확보할 수 있다."
+            "q": "AI 투자 회의론을 극복하고 관련 종목들이 주가 반등을 이루기 위한 핵심 과제는 무엇인가?",
+            "a": "실질적인 매출 성장과 흑자 전환 등 명확한 재무 성과로 수익성을 증명해야 한다. 단순한 기술적 기대감을 넘어 실질적인 이익 창출 능력을 시장에 제시하는 것이 주가 회복의 선행 조건이다."
           }
         ]
       },
       "트럼프 연준 금리 비판": {
-        "headline": "트럼프 \"금리 너무 높아... 정치적 연준 탓\"",
+        "headline": "트럼프 \"금리 너무 높아…정치적 연준 탓\"",
         "facts": [
-          "트럼프 전 대통령이 연방준비제도를 향해 경제 상황이 양호함에도 금리가 지나치게 높다며 거세게 비판했다.",
-          "미 연준 이사가 금리의 추가 인상 필요성을 피력한 가운데, 트럼프는 금리가 높은 이유가 매우 정치적인 연준 때문이라고 주장했다.",
-          "트럼프는 미국 기업이 다른 국가에 데이터센터를 건설할 경우 고액의 세금을 부과하겠다는 통상 방침을 밝혔다.",
-          "또한 젠슨 황의 복귀를 촉구하며 두 번째 기회가 주어져야 한다는 정치적 발언을 이어갔다."
+          "도널드 트럼프 전 미국 대통령이 현재 미국의 기준금리가 너무 높다며 통화정책을 운용하는 연방준비제도를 향해 매우 정치적이라고 강도 높게 비판했다.",
+          "미국 연준 일부 이사가 금리 추가 인상 필요성을 피력한 것에 대해 트럼프는 미국 경제가 양호한 상황에서 왜 금리를 올리려 하는지 강력히 반문했다.",
+          "트럼프는 연준의 통화정책 대응이 늦어지면 경제에 큰 고통이 따를 것이라 경고하며 기준금리 인하와 통화완화 전환의 필요성을 거듭 피력하고 나섰다.",
+          "또한 트럼프는 미국 기업이 해외에 데이터센터를 지을 경우 고액의 세금을 부과하겠다고 경고하며 해외 이전 차단을 위한 강력한 세제 제재안을 제시했다."
         ],
         "watch": [
-          "미 연준 통화정책 회의 및 금리 결정 행보",
-          "트럼프의 연준 압박 발언에 따른 시장 금리 변동",
-          "미국 기업의 해외 데이터센터 건설 세금 정책 논의"
+          "미국 연준 인사들의 통화정책 관련 발언",
+          "트럼프의 연준 독립성 공격에 따른 국채금리",
+          "미국 기업 데이터센터 해외 이전 제재 논의"
         ],
         "qna": [
           {
-            "q": "트럼프가 연준의 금리 수준을 정치적이라며 강하게 비판한 주장의 핵심은 무엇인가?",
-            "a": "현재 미국 경제 지표가 양호한 흐름을 보이고 있음에도 연준이 높은 금리를 유지하는 것은 정치적 의도가 반영되었기 때문이라는 주장이다. 금리 인상이나 고금리 기조가 경제 성장을 저해하고 기업 부담을 늘린다고 지적했다."
+            "q": "연준의 금리 추가 인상 시도와 트럼프의 '고금리 비판'이 충돌하는 핵심 원인은 무엇인가?",
+            "a": "연준은 인플레이션 재발을 막기 위해 매파적 기조를 유지하려 하지만, 트럼프는 고금리가 경제 성장과 기업 투자를 저해한다고 판단해 정치적 프레임으로 통화당국을 압박하는 것이다."
           },
           {
-            "q": "연준 인사들의 추가 금리 인상 시사와 트럼프의 비판이 충돌할 때 발생하는 시장 영향은 무엇인가?",
-            "a": "중앙은행의 독립성 논란과 함께 향후 통화정책의 불확실성이 가중된다. 금리 향방에 대한 예측이 엇갈리면서 채권 시장의 변동성이 커지고 기업들의 투자 계획 수립에 혼선을 줄 수 있다."
+            "q": "트럼프의 지속적인 연준 공격이 국채 시장과 금융 시장의 불확실성을 높이는 기전은 무엇인가?",
+            "a": "중앙은행의 정치적 독립성이 흔들릴 수 있다는 우려가 시장에 신뢰성 위기를 가져온다. 통화정책의 예측 가능성이 떨어지면서 국채 금리의 변동성이 확대되고 금융 시장 전체의 리스크 프리미엄이 상승한다."
           },
           {
-            "q": "트럼프의 연준 압박 및 해외 데이터센터 세금 부과 발언이 시장 추세에 미치는 분기점은 무엇인가?",
-            "a": "향후 정권 교체나 정책 변화 시 연준의 통화정책 수장 교체 압박 및 통화 완화 유도 가능성을 시장이 선반영할 수 있다. 해외 데이터센터 고액 과세 방침은 빅테크 기업들의 글로벌 인프라 투자 전략에 중대한 변수로 작용할 전망이다."
+            "q": "해외 데이터센터 건립 기업에 대한 고액 과세 구상이 빅테크에 미칠 파급효과는 무엇인가?",
+            "a": "글로벌 AI 인프라를 확장하려는 미국 빅테크 기업들의 해외 데이터센터 투자 비용이 크게 늘어난다. 이는 세금 리스크를 높여 기술 기업들의 해외 진출 전략에 차질을 초래하고 AI 구축 속도를 지연시킬 수 있다."
           }
         ]
       }
     },
     "news": {
-      "코스피 급락세": [
+      "코스피 코스닥 급락세": [
         {
-          "title": "[속보] 코스피, 4%대 급락에 매도 사이드카 발동 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xVXRKQmJTcFF6SWNjWTYtTWhTNGRuay02R1laSXhib3J1b2xrOEE0Tm83SU0zYzhCdkpudGJZTktNaE9GNmFhVmNYX0RLem1JNG4zVV9YWVlRekMyTUlrdkdXcnJzekNyR2tjanYzZjlSNlU40gF0QVVfeXFMTlA5YTBwNi1aRC1RZDZZTU1GZjRiM2VUSk9IMncwbzZsdm1XTHc5QktCNnVMa25nZFctaWx5R210OGdGbEJGMW9wV2NjSDJCZEx0dEo1UWMtQkN4YjFGSzh2Wm13Q0dHblFfRHBmU0lyZ1NWUU4?oc=5",
-          "source": "MBC 뉴스",
-          "published": "11-20 11:57",
-          "snippet": "[속보] 코스피, 4%대 급락에 매도 사이드카 발동 MBC 뉴스 나스닥 5% 폭락…시험대 오른 국내 증시, 반등 열쇠는 [다음주 주요 변수 미리보기] 한국경제 4,900선 무너진 코스피...다음주 미국 물가·한은 금통위 '주목' YTN 코스피 5천선 이탈, 공세적 연준과 AI 악재 충격 네이버페이 머니스토리 5%대 급락 '검은 금요일'…사흘만에 '5천피' 밑으로 연합뉴스"
+          "title": "삼전닉스 '와르르'…코스피·코스닥 5%대 급락에 개미들 '비명' - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rQk4wT0NTZGJ4Q2hXYkFRTFFvMlFzTnZMUWxQUzVKQk9mbExiQlBsbjhrZHFIWkF3Sm1nc05sb1V4RWp5THRhWUduT3dMUFlseGdsWnE1aHlfQQ?oc=5",
+          "source": "한국경제",
+          "published": "11-20 15:46",
+          "snippet": "삼전닉스 '와르르'…코스피·코스닥 5%대 급락에 개미들 '비명' 한국경제 10개월 전으로 돌아간 코스피 조선일보 코스피 5천선 이탈, 공세적 연준과 AI 악재 충격 네이버페이 머니스토리 5%대 급락 '검은 금요일'…사흘만에 '5천피' 밑으로 연합뉴스 [속보] 급락장에 코스피 이어 코스닥서도 매도 사이드카 MBC 뉴스"
         },
         {
-          "title": "\"대체 바닥이 어디야\"…코스피 4900선 붕괴, 반등 열쇠는? - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ock1qR2c4alhTbGR5MGVtbWJKY0tDVTdIcV8xekdsTnhVVUlCNEVQQjdOdEl2Uk9xUGxkd3V6U25pelJpZGoyemdaaUJOb2dXZExRQ2F0TVdZWVFjaGNOeXJzQXdvZENS0gFuQVVfeXFMT3k2UlZ5STRtMHZjZ01LQm4wcGRFc0NybzVHV2d1eThMNndqQkd5bDMyM1NvVFVKd3ZFNGRLSUt0WTBVeHhZWHRkeXlqMlNVZWR2a0xxc0x4bVMxY3pBVGxmOWpQb3FfNEZHNHJja1E?oc=5",
-          "source": "머니투데이",
-          "published": "11-21 12:13",
-          "snippet": "\"대체 바닥이 어디야\"…코스피 4900선 붕괴, 반등 열쇠는? - 머니투데이 머니투데이"
+          "title": "코스피와 따로 가는 달러-원…하반기 들어 역상관 약화 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qNkpsSThuS29SR3BvcGNRQUI3NHpLU0pXcG1ZQy1jaEI2MVFqeW9XSEJTSjZYVEllRUF4WnVtaWs2RVUzYjlSR2ZzdWhhZVM0RWY0YXA1Tm8xOEVCYUpDRzNubHBfQUhMeE5xZWs1OUQ?oc=5",
+          "source": "연합인포맥스",
+          "published": "11-21 13:01",
+          "snippet": "코스피와 따로 가는 달러-원…하반기 들어 역상관 약화 연합인포맥스"
         },
         {
-          "title": "4,900선 무너진 코스피...다음주 미국 물가·한은 금통위 '주목' - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KX29tTFRJTENmVFZvMnBTdHhzTFFkZTQycS1DZVR5MWRheVFWWFp6ZG5aeHE0MjVCSFB5eERHMjNrYUJPVW84OS1GbFJOUDJ4MGhfd0lkLUNmOFhtakE?oc=5",
+          "title": "4,900선 무너진 코스피...다음 주 미국 물가·금통위 주목 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tVDRZT0xPbnYtbXFGVGdWRlRHUEFucUdQRDBFOG5wN05QUWRYY0VLdGhwdU5fNWs3Y3JNdWIyTUhVVlVqYWFRZDA4WUJOY2lMMlZyMHBzVmVyNG0wT0E?oc=5",
           "source": "YTN",
-          "published": "11-21 11:16",
-          "snippet": "4,900선 무너진 코스피...다음주 미국 물가·한은 금통위 '주목' YTN"
+          "published": "11-21 15:04",
+          "snippet": "4,900선 무너진 코스피...다음 주 미국 물가·금통위 주목 YTN"
+        },
+        {
+          "title": "나경원 \"코스피 5% 폭락, 시총 3천460조 증발…李정권, 국민 돈 물어내라\" - 매일신문",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RSnBhSjdlaldSRk9TcmVOYjdUOU9saVlDRXhFRTlrOC1GMkcwVm1hSndIdjhtNmNudG9xbEc4N2RNSmhpTkxIMzhkOFQwLTkzU2hDSHB0Vm42WDU4c0s4V0xB?oc=5",
+          "source": "매일신문",
+          "published": "11-21 13:12",
+          "snippet": "나경원 \"코스피 5% 폭락, 시총 3천460조 증발…李정권, 국민 돈 물어내라\" 매일신문"
         },
         {
           "title": "코스피 4900선 붕괴에…나경원 “李정권, 국민 돈 물어내라” - 시사저널",
@@ -707,122 +707,94 @@
           "snippet": "코스피 4900선 붕괴에…나경원 “李정권, 국민 돈 물어내라” 시사저널"
         },
         {
-          "title": "42% 올랐던 증시, 결국 수익률 '마이너스'…코스피200 동일가중 음전 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2bDJaTk1uLThESnZPUy1UWHRtLVlxb1N5aVl3MWRrRVJZYUZzTGpLdXBoM3Qzd1hJMkN2NHZPSjB5TlZDN3huclpCeW9oaWlYRzdnRTdoZk9wblA4WkxHYkd1Rk80X2hsbmZjNS1pR00?oc=5",
-          "source": "연합인포맥스",
-          "published": "11-21 08:05",
-          "snippet": "42% 올랐던 증시, 결국 수익률 '마이너스'…코스피200 동일가중 음전 연합인포맥스"
-        },
-        {
-          "title": "코스피와 따로 가는 달러-원…하반기 들어 역상관 약화 - KB Think",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VZW1xTmlDVU05dGc4eHlIUTdSTzVTSGVaa3YtbmlIREpGMDJnX29aSjF6UkRHajZPLWpDY0xfam92WWpXakhXVDlkQ3hyWFhVNDFkckxjM18zclpKYXBKbGxkYlNrSmltblJFMWxPeVZ3UQ?oc=5",
-          "source": "KB Think",
-          "published": "11-21 11:01",
-          "snippet": "코스피와 따로 가는 달러-원…하반기 들어 역상관 약화 KB Think"
+          "title": "한은, 금리 인상으로 기울었나...코스피 5천선 회복 여부 등 내주 경제 핫이슈 - 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VMDZ6RnhOUnFiNnhvdXdVZk9keWg1VmU2eDY2T0JXaV9KV3FVLUZ4cjJUUnNhLVhyY09wU29BczQtdVgtM25YY0l2ekhBOE16YkVTdDBtM0Y1Zw?oc=5",
+          "source": "파이낸셜뉴스",
+          "published": "11-21 13:15",
+          "snippet": "한은, 금리 인상으로 기울었나...코스피 5천선 회복 여부 등 내주 경제 핫이슈 파이낸셜뉴스"
         }
       ],
-      "비트코인 하락세": [
+      "손정의 SK하이닉스 인수설": [
         {
-          "title": "7주 연속 하락세 탄 비트코인...지난해 고점 대비 '반토막' - YTN",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBURlRva0hoelZDclZmeE1ZTVN1ZURXUEM1OU9tR28teWtMakRhRy0wUUpMREZhbHFYSmdMVm4zUXlsZ1dYUVFNX0M1SFd5ZmZ4QjJuWmFMY1gwVzVEU2VEQS14VnVLdmU3LVg3aWQwRQ?oc=5",
+          "title": "\"손정의, SK하이닉스 1조달러 인수 구상…월가에 자금 조달 타진\" - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfNDRQTTNuaW9hYzVxcVdwVU1GUXlkdjdqN2ZJNXJNMWZRbkxYRzVqV2t2ZEpDTV9JcjRMeXFpNWxuMHVkR0dMUXdzUlNqY2xqM2ItTjFaOGU?oc=5",
+          "source": "뉴스1",
+          "published": "11-21 12:07",
+          "snippet": "\"손정의, SK하이닉스 1조달러 인수 구상…월가에 자금 조달 타진\" 뉴스1 “소프트뱅크 손정의, 최근 SK하이닉스 1조달러 인수안 검토” 경향신문 “손정의 회장, SK하이닉스 1조달러에 인수 검토” Chosunbiz “손정의, 1346조원에 SK하이닉스 인수 구상…월가에 자금 조달안 문의” 매일경제 \"소프트뱅크, 한때 SK하닉 '1조달러' 통째 인수 타진\" 마켓인"
+        },
+        {
+          "title": "\"손정의, 한때 SK하이닉스 1조 달러 인수 검토\"...월가 자금 조달 문의 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYTEVvMXJQdV9aVFJOSWltQmctUjFPMWNjV3IzV2daUzdBY0czb200ekJUdEZSQmw2ZC1McnpTdWFWbllqejZLQWViQ01WRmFmSUJra2pKallFUVJ6UlE?oc=5",
           "source": "YTN",
-          "published": "11-21 07:25",
-          "snippet": "7주 연속 하락세 탄 비트코인...지난해 고점 대비 '반토막' YTN 비트코인, 4개월 만에 6만달러 붕괴…고점 대비 ‘반토막’ 매일경제 마켓 보름 만에 23% 떨어진 비트코인…바닥은 어디일까[코인현미경] 뉴스1 비트코인, 4개월만에 6만달러선 붕괴…AI주 투매發 위험회피(상보) 연합인포맥스 비트코인 4개월 만에 6만달러 붕괴…테라·루나 사태 이후 최장 약세 - 머니투데이 머니투데이"
+          "published": "11-21 13:04",
+          "snippet": "\"손정의, 한때 SK하이닉스 1조 달러 인수 검토\"...월가 자금 조달 문의 YTN"
         },
         {
-          "title": "나스닥, 기술주 매도에 5.3% 폭락…비트코인·금도 와르르 - JTBC",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14TGMxbDlNS2ZSb1puZWllekZUTi10Y0JoWjhTTW16SFY5RlhWT2toU2d0TFJ6N2tqTUxhSllxVzFITWlCWWVUUmFkeGdMSkR2akpmMg?oc=5",
-          "source": "JTBC",
-          "published": "11-21 12:05",
-          "snippet": "나스닥, 기술주 매도에 5.3% 폭락…비트코인·금도 와르르 JTBC"
+          "title": "“손정의, 1346조원에 SK하이닉스 인수 구상…월가에 자금 조달안 문의” - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KR01obVFPREJDaS1vd2R6dExOZnBoYTFSZk9JR3Vma2ZXSDRYOW5QSDZNLWQ2d1M2YUREeFlsYjdOd1ZRZmgxY0NOSnBPTlpYZmE1Nl9n?oc=5",
+          "source": "매일경제",
+          "published": "11-21 14:23",
+          "snippet": "“손정의, 1346조원에 SK하이닉스 인수 구상…월가에 자금 조달안 문의” 매일경제"
         },
         {
-          "title": "월가 투매 공포에 암호화폐 시장도 '와르르'…비트코인 6만 달러선 붕괴 - 글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRzIya1VyUWlUM2c3Z0NmSlZaV3JMdU1xRWxuT0RuNDRBWHdaQXhZQmRZaVVTWGhCek1HanVLTFU2LWNfZFJkQ2QtQmw2SW83S2NXYW1WZmRMakM2WktVT09XbFZ2cUUyNTF0bHROWXcxMm40VFFvTlNYVWhXN1FPRUN5eHMxS3M?oc=5",
-          "source": "글로벌이코노믹",
-          "published": "11-21 08:06",
-          "snippet": "월가 투매 공포에 암호화폐 시장도 '와르르'…비트코인 6만 달러선 붕괴 글로벌이코노믹"
+          "title": "손정의, SK하이닉스 1조달러 인수 구상…월가에 자금 조달 타진 - 뉴스웍스",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Ka3Rram5qMzByMEg1aE5GOVBJellNcjFReExQVEVwVVBtSjZua0xhSEQ3REVHMjBwZk9SS2pnN0tPeEt5NUNvRzZrOVZzLUJUUll6S0JsUmRpR0hPeW8tMlpiWVZHdDhYbFBqZXVLQdIBc0FVX3lxTFBfUkwzVEZ0RkEwNmd5SXgtZDlJUlR6UzdDQ3VQZi0yTnZka013c0ZWLXdIWWp3blZFaFJiQ2pIODlzdGRHQVoyRTNzY3ZqTGRkaUw0S1lOc0s5d25UaHMxWnJtV3VuMENESExobHVtcV9kM2c?oc=5",
+          "source": "뉴스웍스",
+          "published": "11-21 13:09",
+          "snippet": "손정의, SK하이닉스 1조달러 인수 구상…월가에 자금 조달 타진 뉴스웍스"
         },
         {
-          "title": "비트코인, 4개월 만에 6만달러 붕괴…고점 대비 ‘반토막’ - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oZDVRcFJPdm50UEFBMld1TjdFV0pLX29wZk9DVnRKeTVmcTBqTVQzQzRydUxKR1U0eXU0alpjV2Q3WDBNYTRON1ZhV2ItUktJV2c?oc=5",
-          "source": "매일경제 마켓",
-          "published": "11-21 09:52",
-          "snippet": "비트코인, 4개월 만에 6만달러 붕괴…고점 대비 ‘반토막’ 매일경제 마켓"
+          "title": "SK하이닉스, 키오시아 지분 14.1% 확보…전환사채 주식 전환 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pQ21JSHVxSEFFV2pOcTVwUk1EZ3Vwb2gwS3NNWVhhRnBBQTNibkpjLWpyam5Nb0NPU2JlQ0t4emZERTd6WWNGMGFJMGw0cG5hYW9UblotRTl5MVZZbzBhbkdPMExiWUhDREE?oc=5",
+          "source": "한겨레",
+          "published": "11-21 01:23",
+          "snippet": "SK하이닉스, 키오시아 지분 14.1% 확보…전환사채 주식 전환 한겨레 SK하이닉스, 키옥시아 투자법인 전환사채 주식 전환…지분 14.1% 간접 보유 전자신문 SK하이닉스, 키옥시아 간접 최대주주 등극…투자법인 CB 주식 전환(종합) 마켓인 SK하이닉스, 일본 키옥시아 전환사채 주식 전환…지분율 14.1%로 KBS 뉴스 SK하이닉스, 키옥시아 CB 보통주 전환…간접 최대주주 올라 데일리스포츠한국"
         },
         {
-          "title": "비트코인 6만달러도 무너졌다…7주 연속 하락에 2022년 이후 최장 약세 - 강원도민일보",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJd3hETFZsTDR2WW56cWp0ampoZmVGX25kakhfRlJRYVJZLTFHcU13U252V2c1eVVPd1RndFp6LWV5TDBKbkQyQ3R1V3pob3o2cjYxRWZEMDFqX0JFNnVONkNhUlhXb2s?oc=5",
-          "source": "강원도민일보",
-          "published": "11-21 10:44",
-          "snippet": "비트코인 6만달러도 무너졌다…7주 연속 하락에 2022년 이후 최장 약세 강원도민일보"
-        },
-        {
-          "title": "[차트분석] 비트코인 가격 추이, 2018년 5월 반등 전 하락과 유사 - 디지털애셋",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mVEQ3R0V2R3hqdS01VzhnRlIyN05HX3lpbWtWWWZvd2xZNmMyRzAtVG04allLV0JMby05bkp0S2JPQXZYLUlJOWJ4LUdNRDQwTVNsTVNoVmxOcGtmenJUem1lZ2NfSG5OSWxMd19ySkNKdw?oc=5",
-          "source": "디지털애셋",
-          "published": "11-21 11:30",
-          "snippet": "[차트분석] 비트코인 가격 추이, 2018년 5월 반등 전 하락과 유사 디지털애셋"
+          "title": "“손정의 회장, SK하이닉스 1조달러에 인수 검토” - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZFhxQWNnZXpGNEFfVWxnN2prWndYMmpOTmNRUDdWeTI2ZWtfM21iZU9Ra0czQmlpdlRxeVRPaWUtOENwaVFZbjItcjdoSjVscXJXXzBXT2Y3cjdKc25FTGFDcDlSRkI5Q1U3RVpGdFVVQ3NzT0d2ZHVoUHVtUnhkQ01aYUXSAZgBQVVfeXFMT0lwUzhncTQ0aWlxblEyUnpNOTFrbGVLbXhjRDhLdXpPMGZIblk2SlgwTjRrNWZBX2hqV3k0QVNGT3VCbGVreU5RLVhzSWZocDN5bk9FVFRpajVVX05xVmd4b2dTWHlnY1lLY0lSRWRIcTlUN3g0aTNCeUJQYjVQYWd1SDdVZ1NjYTVUUnBDYUhYbjg3Qkp0cW8?oc=5",
+          "source": "Chosunbiz",
+          "published": "11-21 14:01",
+          "snippet": "“손정의 회장, SK하이닉스 1조달러에 인수 검토” Chosunbiz"
         }
       ],
-      "공시가 현실화율 동결": [
+      "수도권 부동산 시장 혼조": [
         {
-          "title": "겹겹이 쌓인 보유세 인상 압박에… 공시가 현실화율 동결 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ09oczBURFhVVmU5WWVhRXQ3Rmx3eDZvM2ZCNUxEaDhOUEhMQzhMTXBzVTlTV0JzTzY3akNzQWxnWTJCRUtIRGVoN2xhcFU1SzdoMUo2SDNMX2NwMVlzQWJCTVZwaHA1MXoxdEVVYWxpTG9sYkswYXZveFpzaHg0Z3ZRdTlFamRl?oc=5",
+          "title": "서울 0.06%↓, 경기 0.24%↑…내 집 마련 부담은 여전 (11월 3주 부동산) - 네이버페이 머니스토리",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05MThnZ1pWLTQwRzNNWjExc0lvZTRSbXBhTzdCbXZqZHZDS0JnZDRFeGE4ckRqbElZQ2dQaFJhTlp1MGJ6THFjc29DSkdWcVdQWnVsUFNKV1QxSzA?oc=5",
+          "source": "네이버페이 머니스토리",
+          "published": "11-21 09:24",
+          "snippet": "서울 0.06%↓, 경기 0.24%↑…내 집 마련 부담은 여전 (11월 3주 부동산) 네이버페이 머니스토리 [사설]거래 절벽 속 쌓이는 아파트 매물… 공급 적기 놓치지 말아야 동아일보 봄 이사철 '전세 가뭄' 심해질 텐데…치솟는 전셋값, 꺾이는 집값 흔든다 - 머니투데이 머니투데이 강남은 떨어지고 외곽은 올랐다…서울 집값 상승률 6개월 만에 최저 뉴시스 서울 집값 너무 올랐고 매수자는 지쳐…가격 조정 시작될까[손바닥부동산] 이데일리"
+        },
+        {
+          "title": "“대통령도 했잖아?” 부동산 규제 비웃는 ‘주인 대출’ 열풍 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOFhTMXY1TVZKaEJDeGVnZ3hiclVQalg1RFFqWmZlb3MtUW9ON0xWYWVvYTlmaGV1NXhha2pWb0hILUVHcF85aHk2OG5ZTkxFZXVRX05IR3Yyb2RoS29wTlVvSllSMTNaejBMZ0ZZM1p5NXlXa0w1SlVVRTExZDFlMmlUNDY?oc=5",
           "source": "조선일보",
-          "published": "11-21 00:44",
-          "snippet": "겹겹이 쌓인 보유세 인상 압박에… 공시가 현실화율 동결 조선일보 국토부, 주택공시가 현실화율 ‘동결’…묶여도 집값 오른 곳 보유세는 오를 듯 경향신문 내년 부동산 공시가 현실화율 69%로 동결 동아일보 내년 아파트 공시가격 현실화율 69%로 5년째 동결…보유세 영향은? KBS 뉴스 [그래픽] 공시가격 현실화율 추이 연합뉴스"
+          "published": "11-21 05:54",
+          "snippet": "“대통령도 했잖아?” 부동산 규제 비웃는 ‘주인 대출’ 열풍 조선일보 옥주현·김동현 100억 원대 초고가 아파트 ‘영끌’ 매입… 막대한 대출이자와 컨설팅비, 양도세 공제될까? 글로벌이코노믹 김동현 '압구정 100억 아파트', 집주인이 50억 빌려줬다는데… [시장톡] 한국경제 '대통령도 했는데' 부동산 새 바람 '이것' 50억대 아파트도 속속 동참 이코노미스트 “대통령도 했잖아”…고가 아파트 거래에 집주인 근저당 유행…‘주인 대출’ 확산…25억에"
         },
         {
-          "title": "내년 공시가격 현실화율 69% 유지…5년째 동결 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EUTJQVFZiTG9NUGFUa25CX2NfLWdaa1FpQUZhSjBFQ0pacUZRSjlOek9PLW9pLTFaOXFZN3hCVzhVZUxnaVBSbmw2cFVadncwYXpmZ0ZkOHJTRHZLNnNQc0Z2TW40aVA2?oc=5",
-          "source": "한겨레",
-          "published": "11-21 01:26",
-          "snippet": "내년 공시가격 현실화율 69% 유지…5년째 동결 한겨레"
-        },
-        {
-          "title": "내년 공시가격 현실화율 동결…\"국민 수용성 고려\" - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tUzNPQ2laNEtUQmRQR0dKTW5ZMU9aRlBSaXY1X0tueFlWc1E0SmtWV0RmSjduTlJpbzJ4VW1tb0xRNWliM1l0aUtzbFAzcG5HQWVjclJGeC1seXdWTTUyUzRYZVZfb2M?oc=5",
-          "source": "연합뉴스TV",
-          "published": "11-20 21:20",
-          "snippet": "내년 공시가격 현실화율 동결…\"국민 수용성 고려\" 연합뉴스TV"
-        },
-        {
-          "title": "국토부, 주택공시가 현실화율 ‘동결’…묶여도 집값 오른 곳 보유세는 오를 듯 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LalFMejBSLTM4b3VRdk9BMnRWMlJDb1JZeVVkNzhFaGJMTFFRR21BdUpCaEJRaEZTUmJBZy05dnZaX2hxcXR1VkpFSjZvRWd5RlhtTkZ3UFRLQdIBX0FVX3lxTFBWUVUxM1pVY2F0RDM4OEdoYUg3ZGN4OFo3WDhmdldqUlhLQ0RMOUtnRDEyWnhOUzk4ZjVVZ0FNMzA2SWxjdnY3b2gxNEJnN3pxYzhwVFMwTEhWMW1Ld2tj?oc=5",
-          "source": "경향신문",
-          "published": "11-20 20:07",
-          "snippet": "국토부, 주택공시가 현실화율 ‘동결’…묶여도 집값 오른 곳 보유세는 오를 듯 경향신문"
-        },
-        {
-          "title": "내년 부동산 공시가 현실화율 69%로 동결 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE03R2xYM1dmcUp6RWpmVVozemxfNEdvODA4VWQyLXJfTFlmWXhWU0d4SGRzR3U0UkN4Z1Y2U21DUGF1NXNtS2RaZlczU1l3cGJybDdpWjhJODNZZzNHRkNkSE1mbTY0Rkt0LWpBWFJ3Z1BUTUFUVkHSAWZBVV95cUxOQldaRzFVTUxKOTBkZ29lM3lqTmhfY0QwOGhVUmdoSmlmZXlMa3BYdFg1ejdpQTNGbkhPTVpQYlhZakt2VGlQclJiZ0dIUDVaaE91RE9aRVFvVXp2bFNUc1laYjI5TVE?oc=5",
-          "source": "동아일보",
-          "published": "11-21 01:40",
-          "snippet": "내년 부동산 공시가 현실화율 69%로 동결 동아일보"
-        },
-        {
-          "title": "내년 공동주택 공시가격 현실화율 69%…5년째 동결 - 스페셜경제",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PSFU3dk5Zb3Rud2NyTENCSGVSWklBT1NMUXc0WjB2OEFYdDdQXzFYNjlnUVZHenBocEFEcTF1ZHhiRkNQNmRMQWFRQnFiVkppVkoxMEZDQkVEN3laTzJEdjVoRVVxbnFocVI1eQ?oc=5",
-          "source": "스페셜경제",
-          "published": "11-21 11:53",
-          "snippet": "내년 공동주택 공시가격 현실화율 69%…5년째 동결 스페셜경제"
+          "title": "뉴욕증시, 기술주 투심 위축 속 혼조 출발 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwY29EZWo1UW1tWFdpNzBrTW9XQjJfX2w5T2dhYXJ3OWplSS1FU0ZQYTFSN2hMcE96N05EazdWTUxTeDEyRG1mMWs0Q1NtNWY0N2htMkNxUks5TmPSAWBBVV95cUxPVjA3bUw3SEc3TElpY05EbGo0dVNUaFRWODVCWGN3VVRTajhBVHBWOE5nd1JHNm9Ec2pQc1hWMDdOU2M3N2I3cmVIUVVEX1EyR216QWtnaVJtWXJmT18zSS0?oc=5",
+          "source": "연합뉴스",
+          "published": "11-20 23:59",
+          "snippet": "뉴욕증시, 기술주 투심 위축 속 혼조 출발 연합뉴스"
         }
       ],
       "나스닥 기술주 폭락": [
+        {
+          "title": "나스닥, 기술주 매도에 5.3% 폭락…“S&P500도 6년 사이 최장 하락” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnVVZsZm5TYkNqNjhpUHlQamVYZTdGMVZSVVEtQ2dkeEJBM3lYNVc3cGNudFFDLXJPTWhuWFBjWnhoZDFFWF9vcy14Ukp5YTZPMGl6V0NvVmJFOTA?oc=5",
+          "source": "KBS 뉴스",
+          "published": "11-21 06:23",
+          "snippet": "나스닥, 기술주 매도에 5.3% 폭락…“S&P500도 6년 사이 최장 하락” KBS 뉴스"
+        },
         {
           "title": "나스닥, 기술주 매도에 5.3% 폭락…다우·S&P500도 조정 진입 - 연합뉴스",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UbWQ5NUtvODJTMjZLTkl4S3Y3empSWHFVeVhxaElBYXF2ZzFNcWtDN1ZhVjhNamRGbDhidmdpYzBidy1PdGN3V1JaN3RxaXg4SElCTWhFR05FYk3SAWBBVV95cUxOXzMtMFdJR0FTOUxQRzNRS1VwdGxZUThMdUdpZ0M5dTBqazNlWlFUOW1ZNTZINXZlbGszWkR1MGtKRDRiNHdUcktnMUZ6LUFTR1g0aXJyc1d2NTFUY1drNkU?oc=5",
           "source": "연합뉴스",
           "published": "11-21 06:11",
           "snippet": "나스닥, 기술주 매도에 5.3% 폭락…다우·S&P500도 조정 진입 연합뉴스"
-        },
-        {
-          "title": "나스닥, 기술주 매도에 5.3% 폭락…“S&P500도 6년 사이 최장 하락” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hMkUxLWVTZ0pOVkFSOFYxaThxbk4yc2ZpaEN0Ni0xNklwUGpRdWdTaW9vbkZiU1FjcUFMb1JyLUk1MnFwcGl4ZEkzV0dxRWVkME1pSVlDMzg3UTAycUY5ZkJlRFFtdw?oc=5",
-          "source": "KBS 뉴스",
-          "published": "11-21 07:15",
-          "snippet": "나스닥, 기술주 매도에 5.3% 폭락…“S&P500도 6년 사이 최장 하락” KBS 뉴스"
         },
         {
           "title": "나스닥, 기술주 매도에 5.3% 폭락…비트코인·금도 와르르 - JTBC",
@@ -853,20 +825,34 @@
           "snippet": "나스닥, 기술주 매도에 5.3% 폭락…다우·S&P500도 조정 진입(종합) 연합뉴스"
         }
       ],
-      "엔비디아 주가 급락": [
+      "앤트로픽 상장 직후 급락": [
         {
-          "title": "뉴욕증시 3대 지수 급락 마감…엔비디아 14%↓ - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sOXMyVW11bDc2MnJYM2lDRnlJVUx1Wl8tVnFzMWJEUHMydkk5RjBrd1JFQXZZcXFQUEE0dUFBVmRiRF9BLWVuNG0tRUt0bEFWTThYVXRJejRibWZ5NGQ2d0Nzd1A1ckU?oc=5",
-          "source": "연합뉴스TV",
-          "published": "11-21 08:23",
-          "snippet": "뉴욕증시 3대 지수 급락 마감…엔비디아 14%↓ 연합뉴스TV"
+          "title": "앤트로픽 상장 이틀째 급락‥나스닥 5.3%↓ - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SWjBid3ltdWI4WGdGQlRJTXhxakExRmlfTjFfRWhMNzRoUnhFWW45RkFhSWM3cHZSYUpUeVMwSExjM2djUWZuT3I0N2VGbkkxTWgwbzVEb0hRR2hzZWFjdnhwbXh1N09nc0FfMWdfWkNrQ09KWlhqQzln0gF6QVVfeXFMT3RLd1N0SExGc3pCS0xjTW1UemlFdlpYRHdwT2lUSl9yMEJBWUxNOFQwUTZ4V0E3Vi1UYUxMTm50RFlkMXBobV9GRVRtYmhyQm5KMXhNYjlqa1ljSWpaSFhvcy14LWM5eVk5UXhkUHRQeE5NVWxtanl6ZXc?oc=5",
+          "source": "MBC 뉴스",
+          "published": "11-21 07:28",
+          "snippet": "앤트로픽 상장 이틀째 급락‥나스닥 5.3%↓ MBC 뉴스"
         },
         {
-          "title": "\"엔비디아 너마저\" 14%↓ 서학개미 '철렁'…나스닥, 기술주 매도에 5% '급락' - 이코노미스트",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NUEdkbUF5ZzBidVp0Rlhsak56T2JBUHBxV09XU0ttWVZZZXA0QWhxVlZib3lGVXNpLVphbm1hdHpIdWNobEJDSUpKUTcyOEVobFdmQ1pvbjhrNTZiMXhpTGhR?oc=5",
-          "source": "이코노미스트",
-          "published": "11-21 09:41",
-          "snippet": "\"엔비디아 너마저\" 14%↓ 서학개미 '철렁'…나스닥, 기술주 매도에 5% '급락' 이코노미스트"
+          "title": "뉴욕증시 급락, 앤트로픽 상장 상승 반납 - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0VC1HV3pGdUtzT3Q2b1doTG90ZGJyNGxIR3FRdURlMmFBNWlLR09sRFFQaVROeldTX2c3cHhuN2Q3dXkwUHlxMGJiMmtXeG5QMEdqMkx2ZW5IWmpSRU1qRdIBeEFVX3lxTE1FTG13WjNFWmp6ZUpUQ05LUzJ3QzZrMllOMlBHMHNlRjlTU1dTd1UtSmNqQ01ZeXFwNmJtLTVCbWZuUHMyTE5rM2FJckM3QjlQZUlELU4xMFZ2ZWYyMWVLR3lqak5zUGRyMTc0alNReHFUUEl5dVNENw?oc=5",
+          "source": "뉴시스",
+          "published": "11-21 06:14",
+          "snippet": "뉴욕증시 급락, 앤트로픽 상장 상승 반납 뉴시스"
+        },
+        {
+          "title": "‘화려한 데뷔’ 앤트로픽 다음 날 바로 급락…AI투자 회의론 확산 [지금뉴스] - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uSVFnd0FhOFltLXFNbHgya2tlbHRFXzhSYTVrYVJld3lNUjFHRmxaWlRDdERvaURZcHItWGFoQi0zVkMzOU5BWHNVSGh2bDNTblZuZzZ5X3M4QTg?oc=5",
+          "source": "KBS 뉴스",
+          "published": "11-21 12:16",
+          "snippet": "‘화려한 데뷔’ 앤트로픽 다음 날 바로 급락…AI투자 회의론 확산 [지금뉴스] KBS 뉴스 역대 최대 규모의 앤트로픽 IPO, 그러나 AI 투심은 여전히 제자리 네이버페이 머니스토리 '이날만 기다렸는데' 개미들 멘붕…증시 덮친 '섬뜩한 경고' 한국경제 앤트로픽, 상장 이틀째 8.5% 급락…공모가까지 위협 전자신문 ‘AI 안전’ 강조한 아모데이 “시속 200마일 가능해도 90마일로 달리겠다” 조선일보"
+        },
+        {
+          "title": "상장 이틀 만에 무너진 앤트로픽...뉴욕증시 AI '패닉 매도' - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1NWc1SzlSWlNnZ3Y2S3ZQT0xZbmp4anEyeXQtTDVreF9kMjZGZTEtMHNoVEJhOWZ4bDRDQk9WZU5fc3NLUWxweEZ5QklKZldFUEZjWDVqS2VQN2FlX3c?oc=5",
+          "source": "YTN",
+          "published": "11-21 09:54",
+          "snippet": "상장 이틀 만에 무너진 앤트로픽...뉴욕증시 AI '패닉 매도' YTN"
         },
         {
           "title": "AI 잔치에 찬물 끼얹은 뉴욕증시…앤트로픽·엔비디아 동반 급락 - SBS Biz",
@@ -876,25 +862,11 @@
           "snippet": "AI 잔치에 찬물 끼얹은 뉴욕증시…앤트로픽·엔비디아 동반 급락 SBS Biz"
         },
         {
-          "title": "뉴욕증시 'AI 투자 공포'에 폭락...나스닥 5.28%↓·엔비디아 14% 급락 - M이코노미뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MUzFhVDF3MnVjLXVwdmpHdHo2c1VrZlk1UV9DT21LaVJQbGJ3RjR3a3VmYmFocmJpZG91Um1Fd2taUElIY2lfZVgxQUw0eTV4NEVuZ2VIZnFqRFZVOXh3bDYyNHFNbjg?oc=5",
-          "source": "M이코노미뉴스",
-          "published": "11-21 09:46",
-          "snippet": "뉴욕증시 'AI 투자 공포'에 폭락...나스닥 5.28%↓·엔비디아 14% 급락 M이코노미뉴스"
-        },
-        {
-          "title": "AI 주식 폭락에 뉴욕증시 휘청…엔비디아 13.8% 급락·나스닥 올해 상승분 반납 - 라디오코리아",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tNUN1bEFZZlI2TnY3Qy15aVltU3VJMzJpSzBfN3JmSmIzZGhjdDBRMFQwV3hMMjVRTkNMUXFSVk5sSUozVDB4Zl9CWkpWZWNoRTFMdUREdHRZR25ZSXZpOWpIRnk?oc=5",
-          "source": "라디오코리아",
-          "published": "11-21 07:16",
-          "snippet": "AI 주식 폭락에 뉴욕증시 휘청…엔비디아 13.8% 급락·나스닥 올해 상승분 반납 라디오코리아"
-        },
-        {
-          "title": "엔비디아 '회계 스캔들' 터지나…주가 14% 대폭락에 월가 '발칵' - 글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZjhHeHM5TnBJV2R0aUFNOU1VcW8zUE1feWF3U2FadjJjTnV0TGVrZlRsOFZveDV4S3VkbE00V09xQXg3dGZfV0R6VGU2N1pSYk1RTzlmR3J6dWRfSjVNX2FJX1BCcTBMQ2RLcEFKLU9IeDFTS0kxVWwtLVhvTkJFLWhsRGkzenJr?oc=5",
-          "source": "글로벌이코노믹",
-          "published": "11-21 06:54",
-          "snippet": "엔비디아 '회계 스캔들' 터지나…주가 14% 대폭락에 월가 '발칵' 글로벌이코노믹"
+          "title": "앤트로픽 8.5% 급락…美 나스닥도 기술주 매도에 5.3% 폭락 - 문화일보",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uMnExMlJsd0s2eUpzLUJTeGctSTR2YTdRSXlLVkhUSDFlX05rOG53UTlITkZvSDhJQWhJdGdSUDRRVmdzSDlsdW84cVFpUUFP?oc=5",
+          "source": "문화일보",
+          "published": "11-21 08:39",
+          "snippet": "앤트로픽 8.5% 급락…美 나스닥도 기술주 매도에 5.3% 폭락 문화일보"
         }
       ],
       "트럼프 연준 금리 비판": [
@@ -927,28 +899,42 @@
           "snippet": "\"대응 늦으면 큰 고통\" 연준에…트럼프 \"경제 좋은데 금리 왜 올리나\" 조세일보"
         },
         {
-          "title": "트럼프, 젠슨 황 복귀 촉구‥\"두 번째 기회 주어져야\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MN0Rtd2xTV2Q1SkRqN0xnbFlydGpaSUQ1V1BIS1pDNmJ0VXF6bWdlMTJvNEo4MXptZ2ZtcS03Rk9KcU83SXhtRERuR3ZiY19iQWNOYW05OWVsSzZyZmhIVGxXYW10dFYwck94WXA1SG82Y2lJ0gF0QVVfeXFMTTFFdmlyRWtKR2V6WXpaOEhfaUpTMGw4TVR6dkhieHFRdkdrbWE0SVZMTXlncGNPckplQzdEZW5CUzhHeUM3TXFrUGZObFh6RVZkMnBlZFFVaE5NSTZFdkV1R2hNQkhUOWJqMmcwSHl0V3dFOGw?oc=5",
-          "source": "MBC 뉴스",
-          "published": "11-21 07:51",
-          "snippet": "트럼프, 젠슨 황 복귀 촉구‥\"두 번째 기회 주어져야\" MBC 뉴스 트럼프, 젠슨 황 복귀 촉구…“두 번째 기회 주어져야” KBS 뉴스 국장서 당해놓고 또?…‘반도체 3배’ 이어 ‘엔비디아’ 쓸어 담는 서학개미 매일경제 [도청도설] 허니 트랩(honey trap) 국제신문 [젠슨 황 네트워크-④] 한국의 깐부들은 어쩌나 연합인포맥스"
-        },
-        {
           "title": "트럼프 \"美 기업, 다른 나라에 데이터센터 지으면 고액 세금 부과\" - KBC광주방송",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fM3NLX2VpbGxLWW9SaERjcnpwRjcyZ1U3cnYxWDJOOWk1VkVFZTlLRDdrREtBREJFd2lsY1RqTW53ZXdFQ2RMbWVQU2xzRllSNVBPMHpPTC1QdUdhZWJYY1B3?oc=5",
           "source": "KBC광주방송",
           "published": "11-21 06:04",
-          "snippet": "트럼프 \"美 기업, 다른 나라에 데이터센터 지으면 고액 세금 부과\" KBC광주방송 트럼프 \"美기업, 다른 나라에 데이터센터 지으면 엄청난 세금 부과\" 연합뉴스 미국인들이 데이터센터 결사반대한 진짜 이유…'전기요금 폭탄'의 실체 스브스프리미엄 트럼프 \"환상적인 미중러 관계가 미국 안전히 지켜...해외 데이터센터 지으면 세금 폭탄\" YTN 트럼프 “젠슨, 두 번째 기회 줘야...데이터센터 해외 건설 시 세금폭탄” 서울경제"
+          "snippet": "트럼프 \"美 기업, 다른 나라에 데이터센터 지으면 고액 세금 부과\" KBC광주방송 미국인들이 데이터센터 결사반대한 진짜 이유…'전기요금 폭탄'의 실체 스브스프리미엄 트럼프 ““다른 나라에 데이터센터 지으면 엄청난 세금 부과” 경향신문 트럼프 \"환상적인 미중러 관계가 미국 안전히 지켜...해외 데이터센터 지으면 세금 폭탄\" YTN 트럼프 \"다른 나라에 데이터센터 건설 시 막대한 세금\"…젠슨 황 복귀 촉구 연합뉴스TV"
+        },
+        {
+          "title": "한은, 금리 인상으로 기울었나...코스피 5천선 회복 여부 등 내주 경제 핫이슈 - 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VMDZ6RnhOUnFiNnhvdXdVZk9keWg1VmU2eDY2T0JXaV9KV3FVLUZ4cjJUUnNhLVhyY09wU29BczQtdVgtM25YY0l2ekhBOE16YkVTdDBtM0Y1Zw?oc=5",
+          "source": "파이낸셜뉴스",
+          "published": "11-21 13:15",
+          "snippet": "한은, 금리 인상으로 기울었나...코스피 5천선 회복 여부 등 내주 경제 핫이슈 파이낸셜뉴스"
         }
       ]
     },
     "queries": {
-      "코스피 급락세": [],
-      "비트코인 하락세": [
-        "비트코인 하락세 이유"
+      "코스피 코스닥 급락세": [
+        "코스피 코스닥 지수",
+        "코스피 코스닥 차이",
+        "코스피 코스닥",
+        "코스피 코스닥 지수 실시간",
+        "코스피 코스닥 주가",
+        "코스피 코스닥 나스닥 차이",
+        "코스피 코스닥 지수 의미",
+        "코스피 코스닥 지수 차트"
       ],
-      "공시가 현실화율 동결": [
-        "공시가 현실화율"
+      "손정의 SK하이닉스 인수설": [],
+      "수도권 부동산 시장 혼조": [
+        "수도권 부동산",
+        "수도권 부동산 계급도",
+        "수도권 부동산 전망",
+        "수도권 부동산 가격",
+        "수도권 부동산 상승률",
+        "수도권 부동산 규제지역",
+        "수도권 부동산 공급",
+        "수도권 부동산 급지"
       ],
       "나스닥 기술주 폭락": [
         "나스닥 기술주",
@@ -960,15 +946,15 @@
         "나스닥 기술주 디시",
         "나스닥 기술주 지수"
       ],
-      "엔비디아 주가 급락": [
-        "엔비디아 주가 급락 이유",
-        "엔비디아 주가",
-        "엔비디아 주가 전망",
-        "엔비디아 주가 폭락",
-        "엔비디아 주가 전망 2027 년 전망",
-        "엔비디아 주가 전망 2026",
-        "엔비디아 주가 가격",
-        "엔비디아 주가 전망 디시"
+      "앤트로픽 상장 직후 급락": [
+        "앤트로픽 상장",
+        "앤트로픽 상장일",
+        "앤트로픽 상장 예정일",
+        "앤트로픽 상장 수혜주",
+        "앤트로픽 상장 일정",
+        "앤트로픽 상장 언제",
+        "앤트로픽 상장 관련주",
+        "앤트로픽 상장 연기"
       ],
       "트럼프 연준 금리 비판": [
         "트럼프 연준",
@@ -981,7 +967,7 @@
         "트럼프 연준 의장 후보"
       ]
     },
-    "newsletter_md": "# ⚡ ZIPPY | AI 경제 데일리 브리핑\n_2026-11-21 이슈 · 발행 2026-11-21_\n\n🇰🇷 **국내 경제:** `코스피 급락세` · `비트코인 하락세` · `공시가 현실화율 동결`\n🌐 **해외 경제:** `나스닥 기술주 폭락` · `엔비디아 주가 급락` · `트럼프 연준 금리 비판`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 4900선 무너진 코스피, 매도 사이드카 발동\n> 키워드: 코스피 급락세\n\n**📌 무슨 일이 있었나**\n- 코스피 지수가 4%대 급락세를 나타내며 4900선이 무너졌고, 시장 변동성이 극대화됨에 따라 프로그램 매도를 일시 정지시키는 매도 사이드카가 발동되었다.\n- 올해 들어 최대 42%까지 상승했던 국내 증시가 폭락세로 돌아서면서 코스피200 동일가중 지수의 연간 수익률도 플러스에서 마이너스로 음전했다.\n- 하반기 들어 코스피와 달러-원 환율 간의 역상관 관계가 약화되어 원화 약세 속에서도 증시 하락을 방어하는 기제가 작용하지 않는 불안정한 흐름이 이어졌다.\n- 증시가 바닥을 찾지 못하고 휘청이자 투자자들의 관심은 다가오는 미국의 물가 지표 발표와 한국은행 금융통화위원회의 기준금리 결정 행보로 집중되고 있다.\n\n**💬 핵심 Q&A**\n- **Q. 코스피 4900선 붕괴 과정에서 매도 사이드카가 발동된 원인은 무엇인가?**\n  A. 뉴욕증시의 기술주 급락과 글로벌 자산 시장의 투매 심리가 국내 증시로 전이되며 급격한 매도세가 몰린 영향이다. 코스피 선물지수의 급등락으로 프로그램 매도 호가의 효력이 일시 정지되는 사이드카가 발동되었다.\n- **Q. 달러-원 환율과의 역상관 관계 약화가 국내 증시에 미친 영향은 무엇인가?**\n  A. 과거에는 원화 가치가 하락하면 수출 기업의 가격 경쟁력 기대감이나 환차익을 노린 외국인 자금이 유입되어 증시 하락을 완화했으나, 최근에는 환율 변동과 증시 급락이 동반 발생하는 디커플링 약화 현상으로 시장의 불안정이 더욱 심화되었다.\n- **Q. 코스피 수익률이 마이너스로 돌아선 상황에서 향후 지수 반등의 분기점은 무엇인가?**\n  A. 다음 주 예정된 미국의 물가 지표 발표를 통한 통화정책 불확실성 해소와 한국은행 금통위의 금리 대응이 주요 분기점이다. 통화 긴축 완화 시그널과 외국인 매도세 완화 여부에 따라 지수의 바닥 확인 및 반등 여부가 결정될 것으로 보인다.\n\n**👀 앞으로 볼 포인트**\n- 미국 주요 물가 지표 발표와 금리 경로\n- 한국은행 금융통화위원회 기준금리 결정\n- 코스피 4900선 재탈환 여부 및 외국인 수급\n\n<sub>참고: [MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTE0xVXRKQmJTcFF6SWNjWTYtTWhTNGRuay02R1laSXhib3J1b2xrOEE0Tm83SU0zYzhCdkpudGJZTktNaE9GNmFhVmNYX0RLem1JNG4zVV9YWVlRekMyTUlrdkdXcnJzekNyR2tjanYzZjlSNlU40gF0QVVfeXFMTlA5YTBwNi1aRC1RZDZZTU1GZjRiM2VUSk9IMncwbzZsdm1XTHc5QktCNnVMa25nZFctaWx5R210OGdGbEJGMW9wV2NjSDJCZEx0dEo1UWMtQkN4YjFGSzh2Wm13Q0dHblFfRHBmU0lyZ1NWUU4?oc=5) / [머니투데이](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ock1qR2c4alhTbGR5MGVtbWJKY0tDVTdIcV8xekdsTnhVVUlCNEVQQjdOdEl2Uk9xUGxkd3V6U25pelJpZGoyemdaaUJOb2dXZExRQ2F0TVdZWVFjaGNOeXJzQXdvZENS0gFuQVVfeXFMT3k2UlZ5STRtMHZjZ01LQm4wcGRFc0NybzVHV2d1eThMNndqQkd5bDMyM1NvVFVKd3ZFNGRLSUt0WTBVeHhZWHRkeXlqMlNVZWR2a0xxc0x4bVMxY3pBVGxmOWpQb3FfNEZHNHJja1E?oc=5) / [YTN](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KX29tTFRJTENmVFZvMnBTdHhzTFFkZTQycS1DZVR5MWRheVFWWFp6ZG5aeHE0MjVCSFB5eERHMjNrYUJPVW84OS1GbFJOUDJ4MGhfd0lkLUNmOFhtakE?oc=5)</sub>\n\n---\n\n### 2. 비트코인 6만 달러 붕괴, 7주 연속 하락\n> 키워드: 비트코인 하락세\n\n**📌 무슨 일이 있었나**\n- 비트코인 가격이 4개월 만에 6만 달러선 아래로 떨어지면서 지난해 기록했던 전고점 대비 반토막 수준으로 급락했다.\n- 이번 하락으로 비트코인은 7주 연속 내림세를 이어갔으며, 이는 2022년 이후 가장 오랜 기간 지속된 약세장 기록이다.\n- 뉴욕증시 기술주 투매와 월가의 매도 공포가 암호화폐 시장으로 확산되면서 비트코인은 물론 대표적 안전자산인 금까지 동반 폭락했다.\n- 기술적 차트 분석상 현재의 비트코인 가격 하락 추이는 2018년 5월 본격적인 반등이 나타나기 직전의 하락 패턴과 유사하다는 시각이 제기되었다.\n\n**💬 핵심 Q&A**\n- **Q. 비트코인이 7주 연속 하락하며 6만 달러선이 붕괴된 핵심 요인은 무엇인가?**\n  A. 월가를 중심으로 확산된 기술주 및 위험자산 투매 공포가 암호화폐 시장으로 크게 전이되었기 때문이다. 뉴욕증시 폭락과 함께 전통적 안전자산인 금마저 동반 하락하는 등 전반적인 자산 시장의 청산 압력이 가중되었다.\n- **Q. 이번 암호화폐 시장의 폭락이 전체 금융시장 밸류체인에 미치는 파급 효과는 무엇인가?**\n  A. 레버리지를 활용한 암호화폐 투자자들의 강제 청산이 잇따르면서 관련 금융상품 및 투자 기관의 손실이 확대되고 있다. 이는 위험 자산 전반에 대한 투자 심리를 위축시켜 증시와 가상자산 간의 동반 약세를 가속화하는 경로로 작용하고 있다.\n- **Q. 과거 2018년 하락 패턴과의 유사성이 향후 가격 반등의 시그널이 될 수 있는가?**\n  A. 2018년 5월 당시에는 지지선 근접 후 기술적 반등이 나타난 바 있어 유사 차트 분석에 기반한 바닥 모색 기대감이 나온다. 다만 거시경제적 금리 환경과 글로벌 증시의 추가 조정 여부가 결합되어야 실질적인 추세 전환이 가능할 것이다.\n\n**👀 앞으로 볼 포인트**\n- 비트코인 6만 달러선 회복 여부\n- 뉴욕증시 기술주 투매 완화 및 위험자산 선호\n- 과거 2018년 유사 패턴 이후 지지선 형성\n\n<sub>참고: [YTN](https://news.google.com/rss/articles/CBMib0FVX3lxTFBURlRva0hoelZDclZmeE1ZTVN1ZURXUEM1OU9tR28teWtMakRhRy0wUUpMREZhbHFYSmdMVm4zUXlsZ1dYUVFNX0M1SFd5ZmZ4QjJuWmFMY1gwVzVEU2VEQS14VnVLdmU3LVg3aWQwRQ?oc=5) / [JTBC](https://news.google.com/rss/articles/CBMiVEFVX3lxTE14TGMxbDlNS2ZSb1puZWllekZUTi10Y0JoWjhTTW16SFY5RlhWT2toU2d0TFJ6N2tqTUxhSllxVzFITWlCWWVUUmFkeGdMSkR2akpmMg?oc=5) / [글로벌이코노믹](https://news.google.com/rss/articles/CBMihwFBVV95cUxQRzIya1VyUWlUM2c3Z0NmSlZaV3JMdU1xRWxuT0RuNDRBWHdaQXhZQmRZaVVTWGhCek1HanVLTFU2LWNfZFJkQ2QtQmw2SW83S2NXYW1WZmRMakM2WktVT09XbFZ2cUUyNTF0bHROWXcxMm40VFFvTlNYVWhXN1FPRUN5eHMxS3M?oc=5)</sub>\n\n---\n\n### 3. 내년 부동산 공시가 현실화율 69%로 5년째 동결\n> 키워드: 공시가 현실화율 동결\n\n**📌 무슨 일이 있었나**\n- 국토교통부가 내년 부동산 공시가격 현실화율을 올해와 동일한 69%로 유지하기로 최종 결정했다.\n- 5년 연속 동결되었으며, 정부는 국민의 세 부담 수용성을 최우선으로 고려했다.\n- 현실화율이 묶여도 최근 집값이 크게 상승한 지역의 경우 공시가격 자체가 올라 실질적인 보유세 부담이 인상될 것으로 전망된다.\n- 정부는 겹겹이 쌓인 보유세 인상 압박 속에서 현실화율을 고정하여 불확실성을 낮추고 세제 개편 논의와의 속도를 맞추기로 했다.\n\n**💬 핵심 Q&A**\n- **Q. 내년 공시가격 현실화율을 69%로 5년 연속 동결한 주요 배경은 무엇인가?**\n  A. 급격한 공시가격 인상으로 인한 국민의 세 부담과 건보료 인상 등 인상 압박을 완화하고 국민 수용성을 고려한 조치이다. 부동산 시장의 불확실성이 지속되는 상황에서 현실화율 고정을 통해 시세 반영률 상승에 따른 세금 폭탄 우려를 차단하고자 했다.\n- **Q. 현실화율이 동결되었음에도 일부 지역의 보유세가 늘어나는 메커니즘은 무엇인가?**\n  A. 보유세는 공시가격 현실화율뿐만 아니라 주택의 시세 변동에 직접적인 영향을 받기 때문이다. 현실화율이 69%로 고정되어도 시세 자체가 대폭 오른 단지나 지역은 공시가격 산정액이 상승하여 실질 보유세가 늘어나게 된다.\n- **Q. 공시가 현실화율 동결 조치가 부동산 시장 및 정책에 가져올 분기점은 무엇인가?**\n  A. 공시가격 고무줄 인상에 대한 불확실성이 제거되어 주택 보유자들의 세무 예측 가능성이 높아졌다. 다만 시세 상승 지역과 정체 지역 간의 세 부담 격차가 벌어질 수 있어, 향후 공시가격 산정 체계 전반에 대한 개편 논의가 본격화될지 지켜봐야 한다.\n\n**👀 앞으로 볼 포인트**\n- 집값 상승 지역의 실질 보유세 산출 결과\n- 공시가격 산정 방식 개편안 법안 논의 경과\n- 지자체별 공시가격 발표 및 소유자 열람 일정\n\n<sub>참고: [조선일보](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ09oczBURFhVVmU5WWVhRXQ3Rmx3eDZvM2ZCNUxEaDhOUEhMQzhMTXBzVTlTV0JzTzY3akNzQWxnWTJCRUtIRGVoN2xhcFU1SzdoMUo2SDNMX2NwMVlzQWJCTVZwaHA1MXoxdEVVYWxpTG9sYkswYXZveFpzaHg0Z3ZRdTlFamRl?oc=5) / [한겨레](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EUTJQVFZiTG9NUGFUa25CX2NfLWdaa1FpQUZhSjBFQ0pacUZRSjlOek9PLW9pLTFaOXFZN3hCVzhVZUxnaVBSbmw2cFVadncwYXpmZ0ZkOHJTRHZLNnNQc0Z2TW40aVA2?oc=5) / [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tUzNPQ2laNEtUQmRQR0dKTW5ZMU9aRlBSaXY1X0tueFlWc1E0SmtWV0RmSjduTlJpbzJ4VW1tb0xRNWliM1l0aUtzbFAzcG5HQWVjclJGeC1seXdWTTUyUzRYZVZfb2M?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 나스닥, 기술주 폭락에 5.3% 급락·조정장 진입\n> 키워드: 나스닥 기술주 폭락\n\n**📌 무슨 일이 있었나**\n- 뉴욕증시에서 나스닥 지수가 대형 기술주들에 대한 강력한 매도세가 몰리며 5.3% 폭락 마감했다.\n- 나스닥의 급락세 여파로 다우존스 지수와 S&P500 지수 역시 하락 폭을 키우며 조정 국면에 본격적으로 진입했다.\n- 이번 폭락으로 S&P500 지수는 최근 6년 사이 가장 긴 하락세를 기록하며 올해 쌓아 올린 상승분을 대부분 반납했다.\n- 증시 폭락의 파장이 암호화폐인 비트코인과 전통적 안전자산인 금 가격까지 동반 하락시키는 자산 전반의 투매로 확대되었다.\n\n**💬 핵심 Q&A**\n- **Q. 나스닥 지수가 5.3% 폭락하며 조정장에 진입하게 된 직접적인 원인은 무엇인가?**\n  A. AI 및 주요 대형 기술주에 대한 투자 우려와 고평가 논란 속에서 기관 및 개인 투자자들의 연쇄적인 매도세가 촉발된 영향이다. 그간 주가를 견인했던 핵심 기술주들에 투매가 집중되면서 지수 전체를 크게 끌어내렸다.\n- **Q. 나스닥 급락이 다우·S&P500 지수 및 가상자산 등 타 자산군으로 퍼진 경로는 무엇인가?**\n  A. 기술주 투매가 시장 전반의 위험 회피 심리를 극대화하면서 증시 전체 지수인 S&P500과 다우 지수의 조정을 유발했다. 동시에 투자자들의 현금 확보 및 마진콜 대응 수요로 인해 비트코인과 금까지 팔아치우는 연쇄 자산 청산으로 이어졌다.\n- **Q. 기술주 폭락세가 진정되고 시장 추세가 반전되기 위한 조건은 무엇인가?**\n  A. 기술주들의 실적 성장성에 대한 불확실성 해소와 과도하게 높았던 밸류에이션 부담 완화가 선행되어야 한다. 또한 연준의 통화정책 방향성에 대한 시장의 신뢰 회복과 매수 대기 자금의 유입 여부가 추가 하락을 막는 분기점이 될 것이다.\n\n**👀 앞으로 볼 포인트**\n- 주요 대형 기술주들의 추가 매도세 완화 여부\n- S&P500 및 다우 지수의 조정장 탈출 여부\n- 글로벌 위험자산 전반의 연쇄 투매 차단 여부\n\n<sub>참고: [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UbWQ5NUtvODJTMjZLTkl4S3Y3empSWHFVeVhxaElBYXF2ZzFNcWtDN1ZhVjhNamRGbDhidmdpYzBidy1PdGN3V1JaN3RxaXg4SElCTWhFR05FYk3SAWBBVV95cUxOXzMtMFdJR0FTOUxQRzNRS1VwdGxZUThMdUdpZ0M5dTBqazNlWlFUOW1ZNTZINXZlbGszWkR1MGtKRDRiNHdUcktnMUZ6LUFTR1g0aXJyc1d2NTFUY1drNkU?oc=5) / [KBS 뉴스](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hMkUxLWVTZ0pOVkFSOFYxaThxbk4yc2ZpaEN0Ni0xNklwUGpRdWdTaW9vbkZiU1FjcUFMb1JyLUk1MnFwcGl4ZEkzV0dxRWVkME1pSVlDMzg3UTAycUY5ZkJlRFFtdw?oc=5) / [JTBC](https://news.google.com/rss/articles/CBMiVEFVX3lxTE14TGMxbDlNS2ZSb1puZWllekZUTi10Y0JoWjhTTW16SFY5RlhWT2toU2d0TFJ6N2tqTUxhSllxVzFITWlCWWVUUmFkeGdMSkR2akpmMg?oc=5)</sub>\n\n---\n\n### 2. 회계 스캔들 우려 속 엔비디아 주가 14% 대폭락\n> 키워드: 엔비디아 주가 급락\n\n**📌 무슨 일이 있었나**\n- AI 대표주인 엔비디아 주가가 하루 만에 약 14% 급락하며 뉴욕증시 전체를 큰 충격에 빠뜨렸다.\n- 회계 스캔들 의혹이 불거지고 AI 투자 과열에 대한 공포감이 시장 전반으로 확산된 것이 주가 폭락의 주요 원인으로 작용했다.\n- 앤트로픽과 엔비디아 등 AI 관련 핵심 기업들의 주가가 동반 급락하면서 뉴욕증시 3대 지수가 모두 폭락했다.\n- 엔비디아의 13.8% 폭락 영향으로 나스닥 지수는 올해 기록했던 상승분을 대부분 반납하게 되었다.\n\n**💬 핵심 Q&A**\n- **Q. 엔비디아 주가가 하루 만에 14% 가깝게 대폭락한 핵심 도화선은 무엇인가?**\n  A. 기업 관련 회계 스캔들 의혹 제기와 더불어 과열되었던 AI 투자에 대한 냉각 및 수익성 공포가 복합적으로 작용했기 때문이다. AI 생태계를 이끌던 핵심 종목의 불확실성이 수면 위로 오르며 투자 심리가 급격히 냉각되었다.\n- **Q. 엔비디아 급락이 AI 산업 밸류체인 및 투자자들에게 미친 파급 효과는 무엇인가?**\n  A. 앤트로픽 등 연관 AI 기업들의 주가도 동반 급락하며 AI 밸류체인 전반의 시가총액이 크게 증발했다. 엔비디아 비중이 높았던 국내 서학개미 및 글로벌 개별 투자자들의 평가 손실이 급격히 확대되는 타격을 입었다.\n- **Q. AI 주식의 추가 폭락을 막고 반등으로 돌아서기 위한 핵심 분기점은 무엇인가?**\n  A. 제기된 회계 스캔들 의혹에 대한 투명한 사실 규명과 해명이 최우선 과제이다. 아울러 AI 관련 기업들의 실질적인 매출 발생 및 수익성 입증이 따라주어야 밸류에이션 우려를 씻고 반등 동력을 확보할 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 엔비디아 회계 관련 공식 해명 및 불확실성 해소\n- AI 밸류체인 기업들의 주가 하방 지지선 형성\n- 개인 투자자 매수세 변화 및 자금 유출입\n\n<sub>참고: [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sOXMyVW11bDc2MnJYM2lDRnlJVUx1Wl8tVnFzMWJEUHMydkk5RjBrd1JFQXZZcXFQUEE0dUFBVmRiRF9BLWVuNG0tRUt0bEFWTThYVXRJejRibWZ5NGQ2d0Nzd1A1ckU?oc=5) / [이코노미스트](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NUEdkbUF5ZzBidVp0Rlhsak56T2JBUHBxV09XU0ttWVZZZXA0QWhxVlZib3lGVXNpLVphbm1hdHpIdWNobEJDSUpKUTcyOEVobFdmQ1pvbjhrNTZiMXhpTGhR?oc=5) / [SBS Biz](https://news.google.com/rss/articles/CBMiU0FVX3lxTE53cDJueXBrb1VJWGNiZUtPTGpDTTYzT0NmT052Y242NmRLWm5YTmtrSDNXX20tM2RVelgtTjJqbUQ1S0JQQ2stNklYNWQyWHBwZkNv0gFYQVVfeXFMT3ZyQkdGa3d2cEVCRUlrYk5aY2huTTB1WV9lQ0dUSWxVR0U0VXBhNGlWeVN5R0F6TG9KVFJGaW51QU1heVBsN2p6TklwU01DWkNsWjlGSjNLYw?oc=5)</sub>\n\n---\n\n### 3. 트럼프 \"금리 너무 높아... 정치적 연준 탓\"\n> 키워드: 트럼프 연준 금리 비판\n\n**📌 무슨 일이 있었나**\n- 트럼프 전 대통령이 연방준비제도를 향해 경제 상황이 양호함에도 금리가 지나치게 높다며 거세게 비판했다.\n- 미 연준 이사가 금리의 추가 인상 필요성을 피력한 가운데, 트럼프는 금리가 높은 이유가 매우 정치적인 연준 때문이라고 주장했다.\n- 트럼프는 미국 기업이 다른 국가에 데이터센터를 건설할 경우 고액의 세금을 부과하겠다는 통상 방침을 밝혔다.\n- 또한 젠슨 황의 복귀를 촉구하며 두 번째 기회가 주어져야 한다는 정치적 발언을 이어갔다.\n\n**💬 핵심 Q&A**\n- **Q. 트럼프가 연준의 금리 수준을 정치적이라며 강하게 비판한 주장의 핵심은 무엇인가?**\n  A. 현재 미국 경제 지표가 양호한 흐름을 보이고 있음에도 연준이 높은 금리를 유지하는 것은 정치적 의도가 반영되었기 때문이라는 주장이다. 금리 인상이나 고금리 기조가 경제 성장을 저해하고 기업 부담을 늘린다고 지적했다.\n- **Q. 연준 인사들의 추가 금리 인상 시사와 트럼프의 비판이 충돌할 때 발생하는 시장 영향은 무엇인가?**\n  A. 중앙은행의 독립성 논란과 함께 향후 통화정책의 불확실성이 가중된다. 금리 향방에 대한 예측이 엇갈리면서 채권 시장의 변동성이 커지고 기업들의 투자 계획 수립에 혼선을 줄 수 있다.\n- **Q. 트럼프의 연준 압박 및 해외 데이터센터 세금 부과 발언이 시장 추세에 미치는 분기점은 무엇인가?**\n  A. 향후 정권 교체나 정책 변화 시 연준의 통화정책 수장 교체 압박 및 통화 완화 유도 가능성을 시장이 선반영할 수 있다. 해외 데이터센터 고액 과세 방침은 빅테크 기업들의 글로벌 인프라 투자 전략에 중대한 변수로 작용할 전망이다.\n\n**👀 앞으로 볼 포인트**\n- 미 연준 통화정책 회의 및 금리 결정 행보\n- 트럼프의 연준 압박 발언에 따른 시장 금리 변동\n- 미국 기업의 해외 데이터센터 건설 세금 정책 논의\n\n<sub>참고: [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE9uWklOakVpRnB2WjAxN2RYSDBXbFlLZzVQekdxMGxNNW8yY1hMR2JqdllvTURkM01KdV9hY1pzM2lwMlZmMHdfeDYwTmNTRkJ6QUxrLUVTUWE1ak01X1BxX0RQaHk0enhrTHRQTVRqRkI?oc=5) / [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xNUtpQmJIeG11UkRUWDh1bHA2aDhYRkxFUlNqby1VOXNsS3ZsZEpKRzAxbTJKNEN4TzBpbF9GYWdDTXFuMGlZZ0F5MTlxSXh1NXdjTW9pOU1wcXpTN3dzUFAyOXJlZ3c?oc=5) / [YTN](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qSmttUF9XZmM1Y21lWC1NWTZsVjJ0NVNPbTdUTHRxRVlTd1lyVnBqeV8zalE3TVNBSGRVX0gzNmdlQThtQ2JjNU8zQlFrNzFJSm8wSWtEVml2czBaRlE?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 보도를 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
+    "newsletter_md": "# ⚡ ZIPPY | AI 경제 데일리 브리핑\n_2026-11-21 이슈 · 발행 2026-11-21_\n\n🇰🇷 **국내 경제:** `코스피 코스닥 급락세` · `손정의 SK하이닉스 인수설` · `수도권 부동산 시장 혼조`\n🌐 **해외 경제:** `나스닥 기술주 폭락` · `앤트로픽 상장 직후 급락` · `트럼프 연준 금리 비판`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 코스피 4,900선 붕괴되며 5%대 폭락\n> 키워드: 코스피 코스닥 급락세\n\n**📌 무슨 일이 있었나**\n- 국내 증시에서 코스피와 코스닥 지수가 반도체 대장주인 삼성전자와 SK하이닉스의 동반 급락 여파로 각각 5%대 폭락을 기록하며 투자심리가 극도로 위축되었다.\n- 코스피 지수는 4,900선마저 붕괴되었으며 정치권에서는 주식시장 시가총액 약 3,460조 원이 증발했다며 정부 책임론과 대책 마련을 강력히 촉구하고 나섰다.\n- 하반기 들어 통상적으로 역상관 관계를 보였던 코스피 지수와 달러-원 환율의 디커플링 현상이 약화되는 등 외환 시장과 주식 시장 간의 연동성에 변화가 나타났다.\n- 한국은행의 기준금리 인상 가능성이 제기되는 가운데 시장의 관심은 다음 주 예정된 미국 물가지표 발표와 한국은행 금융통화위원회의 금리 결정으로 쏠리고 있다.\n\n**💬 핵심 Q&A**\n- **Q. 반도체 대장주 급락이 전체 증시 5%대 폭락으로 이어진 메커니즘은 무엇인가?**\n  A. 시가총액 비중이 절대적인 삼성전자와 SK하이닉스에 매도세가 집중되면서 지수 하락 폭을 직접적으로 키웠다. 이로 인해 투자 심리가 악화되고 개인 투자자의 반대매매 우려와 시장 전반의 투매로 연쇄 파급되었다.\n- **Q. 하반기 들어 코스피와 달러-원 환율의 역상관 관계가 약화된 원인은 무엇인가?**\n  A. 증시 하락 시 환율이 상승하던 기존의 역상관 패턴이 글로벌 자금 흐름과 외환 수급 구조 변화로 인해 흐려졌다. 이에 따라 원화 가치 변동만으로 외국인 투자자의 국내 증시 유출입을 예측하기 어려워진 환경이 조성되었다.\n- **Q. 다음 주 예정된 금통위 결정과 미국 물가지표는 증시반등의 분기점이 되는가?**\n  A. 한국은행의 금리 정책 향방과 미국 물가지표에 따른 연준의 긴축 완화 여부가 외국인 수급 복귀의 핵심 조건이다. 금리 부담이 해소되고 글로벌 긴축 우려가 완화되어야 코스피의 5,000선 회복 동력을 얻을 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 미국 물가지표 발표 및 연준 통화정책 방향\n- 한국은행 금융통화위원회의 기준금리 결정\n- 코스피 5,000선 회복 여부 및 외국인 수급\n\n<sub>참고: [한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rQk4wT0NTZGJ4Q2hXYkFRTFFvMlFzTnZMUWxQUzVKQk9mbExiQlBsbjhrZHFIWkF3Sm1nc05sb1V4RWp5THRhWUduT3dMUFlseGdsWnE1aHlfQQ?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE5qNkpsSThuS29SR3BvcGNRQUI3NHpLU0pXcG1ZQy1jaEI2MVFqeW9XSEJTSjZYVEllRUF4WnVtaWs2RVUzYjlSR2ZzdWhhZVM0RWY0YXA1Tm8xOEVCYUpDRzNubHBfQUhMeE5xZWs1OUQ?oc=5) / [YTN](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tVDRZT0xPbnYtbXFGVGdWRlRHUEFucUdQRDBFOG5wN05QUWRYY0VLdGhwdU5fNWs3Y3JNdWIyTUhVVlVqYWFRZDA4WUJOY2lMMlZyMHBzVmVyNG0wT0E?oc=5)</sub>\n\n---\n\n### 2. 손정의, 1조 달러 규모 SK하이닉스 인수 구상\n> 키워드: 손정의 SK하이닉스 인수설\n\n**📌 무슨 일이 있었나**\n- 소프트뱅크 손정의 회장이 SK하이닉스를 1조 달러(약 1,346조 원) 규모에 인수하는 구상을 하고 미국 월가 주요 금융기관들에 자금 조달 방안을 문의했다.\n- 손정의 회장의 이러한 매각 검토 및 인수 추진 구상은 글로벌 반도체 및 AI 주도권을 확보하기 위한 거대 프로젝트의 일환으로 미국 월가에서 타진되었다.\n- 한편 SK하이닉스는 보유 중이던 전환사채를 주식으로 전격 전환하면서 일본 반도체 기업 키오시아 지분 14.1%를 성공적으로 확보해 지배력을 높였다.\n- 하지만 천문학적인 인수 금액 규모와 글로벌 반도체 공급망 통제 우려 등으로 인해 월가 및 글로벌 금융시장에서는 실제 인수 실현 가능성에 신중한 반응을 보였다.\n\n**💬 핵심 Q&A**\n- **Q. 손정의 회장이 1조 달러라는 거대 인수 구상을 월가에 타진한 배경은 무엇인가?**\n  A. AI 반도체의 핵심인 HBM 시장에서 독보적 점유율을 가진 SK하이닉스를 확보하여 소프트뱅크 중심의 글로벌 AI 생태계를 완성하려는 목적이다. 월가 금융권에 자금 조달 가능성을 문의하며 거대 M&A 타당성을 검토한 것으로 해석된다.\n- **Q. SK하이닉스의 키오시아 지분 14.1% 확보가 메모리 시장에 미치는 파급효과는 무엇인가?**\n  A. 전환사채를 주식으로 바꾸며 주요 주주 지위를 확고히 해 낸드플래시 분야에서의 협력 기반을 다졌다. 이는 향후 메모리 업황 회복기에 시장 지배력을 유지하고 사업 시너지를 극대화하는 계기가 된다.\n- **Q. 1조 달러 규모의 인수 구상이 실제 추진될 때 넘어야 할 핵심 걸림돌은 무엇인가?**\n  A. 1,300조 원이 넘는 막대한 자금을 조달해야 하는 재무적 부담이 가장 큰 장벽이다. 또한 각국 정부의 반도체 안보 및 독점 규제 심사를 통과해야 하므로 실현 가능성에 대해 시장의 의구심이 큰 상황이다.\n\n**👀 앞으로 볼 포인트**\n- 소프트뱅크의 공식 입장 및 자금 조달 행보\n- SK하이닉스의 키오시아 지분 활용 전략\n- 글로벌 반도체 M&A 관련 독과점 규제 동향\n\n<sub>참고: [뉴스1](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfNDRQTTNuaW9hYzVxcVdwVU1GUXlkdjdqN2ZJNXJNMWZRbkxYRzVqV2t2ZEpDTV9JcjRMeXFpNWxuMHVkR0dMUXdzUlNqY2xqM2ItTjFaOGU?oc=5) / [YTN](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYTEVvMXJQdV9aVFJOSWltQmctUjFPMWNjV3IzV2daUzdBY0czb200ekJUdEZSQmw2ZC1McnpTdWFWbllqejZLQWViQ01WRmFmSUJra2pKallFUVJ6UlE?oc=5) / [매일경제](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KR01obVFPREJDaS1vd2R6dExOZnBoYTFSZk9JR3Vma2ZXSDRYOW5QSDZNLWQ2d1M2YUREeFlsYjdOd1ZRZmgxY0NOSnBPTlpYZmE1Nl9n?oc=5)</sub>\n\n---\n\n### 3. 서울 하락·경기 상승…수도권 집값 혼조세\n> 키워드: 수도권 부동산 시장 혼조\n\n**📌 무슨 일이 있었나**\n- 11월 3주 차 수도권 부동산 시장에서 서울 집값은 0.06% 하락한 반면 경기도 집값은 0.24% 상승하며 지역별 양극화와 명확한 시장 혼조세를 나타냈다.\n- 서울 아파트 가격의 소폭 하락에도 불구하고 지속되는 고금리 기조와 높은 매매가 수준으로 인해 무주택 실거주자들의 내 집 마련 부담은 여전히 지속되고 있다.\n- 정부의 대출 규제를 우회하여 주택담보대출 및 개인사업자 대출 등을 편법 활용하는 일명 '주인 대출' 행태가 시중에서 확산되며 금융 시장 경각심을 키웠다.\n- 서울 지역의 매수 관망세와 경기 지역으로의 수요 이동이 교차하는 가운데 수도권 전반의 부동산 시장은 향후 정책 및 금리 향방에 따라 불확실성이 지속될 전망이다.\n\n**💬 핵심 Q&A**\n- **Q. 서울 집값은 하락하고 경기도는 상승하는 디커플링 현상의 원인은 무엇인가?**\n  A. 서울의 높은 진입장벽과 대출 규제로 인해 매수 수요가 가격 접근성이 우수한 경기 지역으로 이동했기 때문이다. 서울은 관망세로 소폭 조정받은 반면 경기도는 외곽 이주 수요가 몰리며 상승세를 기록했다.\n- **Q. 시중에서 확산 중인 '주인 대출' 형태의 우회 대출이 시장에 주는 위험은 무엇인가?**\n  A. 사업자 대출 등을 주택 구입 자금으로 둔갑시켜 정부의 DSR 및 주택담보대출 규제를 무력화시킨다. 이는 가계부채 관리 체계에 구멍을 뚫고 부동산 시장으로 불법 자금이 유입되게 만드는 원인이 된다.\n- **Q. 경기 지역의 상승세가 수도권 전체 집값의 상승 전환으로 이어질 수 있는가?**\n  A. 서울 핵심 지역의 거래량 회복과 금리 인하 여부가 전체 시장 방향을 결정하는 선행 지표다. 서울 매수세가 받쳐주지 않는다면 경기 지역의 상승세 지속도 한계가 있어 혼조세가 이어질 가능성이 높다.\n\n**👀 앞으로 볼 포인트**\n- 서울 및 경기 지역 아파트 매매가격지수 추이\n- 정부의 편법 우회 대출 단속 및 금융 규제\n- 수도권 무주택자의 실질 주거비 부담 지표\n\n<sub>참고: [네이버페이 머니스토리](https://news.google.com/rss/articles/CBMiW0FVX3lxTE05MThnZ1pWLTQwRzNNWjExc0lvZTRSbXBhTzdCbXZqZHZDS0JnZDRFeGE4ckRqbElZQ2dQaFJhTlp1MGJ6THFjc29DSkdWcVdQWnVsUFNKV1QxSzA?oc=5) / [조선일보](https://news.google.com/rss/articles/CBMihAFBVV95cUxPOFhTMXY1TVZKaEJDeGVnZ3hiclVQalg1RFFqWmZlb3MtUW9ON0xWYWVvYTlmaGV1NXhha2pWb0hILUVHcF85aHk2OG5ZTkxFZXVRX05IR3Yyb2RoS29wTlVvSllSMTNaejBMZ0ZZM1p5NXlXa0w1SlVVRTExZDFlMmlUNDY?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwY29EZWo1UW1tWFdpNzBrTW9XQjJfX2w5T2dhYXJ3OWplSS1FU0ZQYTFSN2hMcE96N05EazdWTUxTeDEyRG1mMWs0Q1NtNWY0N2htMkNxUks5TmPSAWBBVV95cUxPVjA3bUw3SEc3TElpY05EbGo0dVNUaFRWODVCWGN3VVRTajhBVHBWOE5nd1JHNm9Ec2pQc1hWMDdOU2M3N2I3cmVIUVVEX1EyR216QWtnaVJtWXJmT18zSS0?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 나스닥 5.3% 폭락…주요 지수 조정장 진입\n> 키워드: 나스닥 기술주 폭락\n\n**📌 무슨 일이 있었나**\n- 뉴욕증시에서 대형 기술주를 중심으로 거센 매도세가 몰아치며 나스닥 지수가 하루 만에 5.3% 폭락하는 등 시장 전반에 극심한 투매 장세를 연출했다.\n- 나스닥의 폭락 영향으로 다우존스 30 산업평균지수와 S&P 500 지수 역시 동반 하락하며 주요 지수 모두 공식적인 기술적 조정 국면에 집단 진입했다.\n- 특히 S&P 500 지수는 이번 주가 하락으로 인해 최근 6년 사이 가장 긴 기간 동안 연속 하락세를 기록하며 시장 내 우려를 한층 심화시켰다.\n- 기술주 투매 여파는 가상자산과 원자재 시장으로 급격히 파급되어 비트코인과 금 가격마저 동반 급락하는 위험자산 및 안전자산의 동시 청산 현상이 발생했다.\n\n**💬 핵심 Q&A**\n- **Q. 나스닥 5.3% 폭락이 증시 전반을 조정 국면으로 몰아넣은 메커니즘은 무엇인가?**\n  A. 기술주 쏠림 현상이 심했던 시장에서 밸류에이션 부담으로 차익 실현 매물이 쏟아지며 투자 심리가 붕괴되었다. 기술주 비중이 높은 지수부터 투매가 발생해 다우와 S&P 500까지 전이되며 고점 대비 10% 이상 하락하는 조정장에 진입했다.\n- **Q. 위험자산인 주식과 함께 대표적 안전자산인 금까지 동반 급락한 이유는 무엇인가?**\n  A. 증시 폭락으로 마진콜(증거금 부족) 위기에 몰린 투자자들이 현금을 확보하기 위해 금과 비트코인 등 유동성 있는 자산을 일제히 매도했기 때문이다. 시장 전반의 자금 경색이 자산군 구분 없는 청산으로 이어졌다.\n- **Q. S&P 500이 6년 만에 최장 하락을 기록한 상황에서 추세 전환의 조건은 무엇인가?**\n  A. 빅테크 기업들의 고평가 우려를 해소할 실적 발표와 연준의 통화완화 신호가 필요하다. 기술주의 이익 성장세가 입증되고 금리 인하 기대감이 재확인되는 시점이 증시 반등의 분기점이 될 것이다.\n\n**👀 앞으로 볼 포인트**\n- 나스닥 지수의 기술적 지지선 방어 여부\n- 비트코인 및 금 등 원자재 시장 변동성\n- 미국 대형 기술주에 대한 기관 매도세 추이\n\n<sub>참고: [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnVVZsZm5TYkNqNjhpUHlQamVYZTdGMVZSVVEtQ2dkeEJBM3lYNVc3cGNudFFDLXJPTWhuWFBjWnhoZDFFWF9vcy14Ukp5YTZPMGl6V0NvVmJFOTA?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UbWQ5NUtvODJTMjZLTkl4S3Y3empSWHFVeVhxaElBYXF2ZzFNcWtDN1ZhVjhNamRGbDhidmdpYzBidy1PdGN3V1JaN3RxaXg4SElCTWhFR05FYk3SAWBBVV95cUxOXzMtMFdJR0FTOUxQRzNRS1VwdGxZUThMdUdpZ0M5dTBqazNlWlFUOW1ZNTZINXZlbGszWkR1MGtKRDRiNHdUcktnMUZ6LUFTR1g0aXJyc1d2NTFUY1drNkU?oc=5) / [JTBC](https://news.google.com/rss/articles/CBMiVEFVX3lxTE14TGMxbDlNS2ZSb1puZWllekZUTi10Y0JoWjhTTW16SFY5RlhWT2toU2d0TFJ6N2tqTUxhSllxVzFITWlCWWVUUmFkeGdMSkR2akpmMg?oc=5)</sub>\n\n---\n\n### 2. 앤트로픽 상장 이틀 만에 8.5% 급락\n> 키워드: 앤트로픽 상장 직후 급락\n\n**📌 무슨 일이 있었나**\n- 상장 첫날 화려하게 데뷔했던 AI 스타트업 앤트로픽이 상장 이틀 만에 주가가 8.5% 급락하며 초기 상승분을 단숨에 반납하는 극심한 변동성을 보였다.\n- 앤트로픽의 주가 급락은 엔비디아를 비롯한 주요 AI 관련 종목들의 동반 하락을 불러일으키며 뉴욕증시 전반에 AI 종목 중심의 패닉 매도를 유발했다.\n- 앤트로픽 상장 직후의 주가 급락 사태를 계기로 시장에서는 AI 기업들의 과도한 밸류에이션에 대한 의구심과 투자 수익성에 대한 회의론이 빠르게 확산되었다.\n- 이번 앤트로픽 폭락 여파가 기술주 전반으로 불똥이 튀면서 나스닥 지수가 5.3% 폭락하는 등 뉴욕증시를 이끌던 AI 주도 상승 동력이 크게 흔들렸다.\n\n**💬 핵심 Q&A**\n- **Q. 화려하게 데뷔한 앤트로픽 주가가 상장 이틀 만에 급락으로 돌아선 배경은 무엇인가?**\n  A. 상장 직후 고평가 논란과 함께 단기 차익 실현 매물이 대량 출회되었기 때문이다. 막대한 인프라 투자비 대비 수익 창출 속도가 느리다는 점이 부각되며 투자자들의 불안감을 자극했다.\n- **Q. 앤트로픽의 폭락이 엔비디아 등 AI 생태계 전반의 패닉 매도로 확산된 경로는 무엇인가?**\n  A. AI 소프트웨어 선도 기업인 앤트로픽의 거품 논란이 하드웨어 공급업체인 엔비디아의 수요 감소 우려로 전이되었다. AI 산업 전반의 밸류에이션 재평가가 진행되며 관련 종목 전반에 동반 투매가 발생했다.\n- **Q. AI 투자 회의론을 극복하고 관련 종목들이 주가 반등을 이루기 위한 핵심 과제는 무엇인가?**\n  A. 실질적인 매출 성장과 흑자 전환 등 명확한 재무 성과로 수익성을 증명해야 한다. 단순한 기술적 기대감을 넘어 실질적인 이익 창출 능력을 시장에 제시하는 것이 주가 회복의 선행 조건이다.\n\n**👀 앞으로 볼 포인트**\n- 앤트로픽 주가 추이 및 추가 매물 출회 여부\n- 엔비디아 등 AI 밸류체인 핵심 종목 주가\n- 글로벌 AI 스타트업 IPO 시장 분위기 변화\n\n<sub>참고: [MBC 뉴스](https://news.google.com/rss/articles/CBMiekFVX3lxTE1SWjBid3ltdWI4WGdGQlRJTXhxakExRmlfTjFfRWhMNzRoUnhFWW45RkFhSWM3cHZSYUpUeVMwSExjM2djUWZuT3I0N2VGbkkxTWgwbzVEb0hRR2hzZWFjdnhwbXh1N09nc0FfMWdfWkNrQ09KWlhqQzln0gF6QVVfeXFMT3RLd1N0SExGc3pCS0xjTW1UemlFdlpYRHdwT2lUSl9yMEJBWUxNOFQwUTZ4V0E3Vi1UYUxMTm50RFlkMXBobV9GRVRtYmhyQm5KMXhNYjlqa1ljSWpaSFhvcy14LWM5eVk5UXhkUHRQeE5NVWxtanl6ZXc?oc=5) / [뉴시스](https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0VC1HV3pGdUtzT3Q2b1doTG90ZGJyNGxIR3FRdURlMmFBNWlLR09sRFFQaVROeldTX2c3cHhuN2Q3dXkwUHlxMGJiMmtXeG5QMEdqMkx2ZW5IWmpSRU1qRdIBeEFVX3lxTE1FTG13WjNFWmp6ZUpUQ05LUzJ3QzZrMllOMlBHMHNlRjlTU1dTd1UtSmNqQ01ZeXFwNmJtLTVCbWZuUHMyTE5rM2FJckM3QjlQZUlELU4xMFZ2ZWYyMWVLR3lqak5zUGRyMTc0alNReHFUUEl5dVNENw?oc=5) / [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uSVFnd0FhOFltLXFNbHgya2tlbHRFXzhSYTVrYVJld3lNUjFHRmxaWlRDdERvaURZcHItWGFoQi0zVkMzOU5BWHNVSGh2bDNTblZuZzZ5X3M4QTg?oc=5)</sub>\n\n---\n\n### 3. 트럼프 \"금리 너무 높아…정치적 연준 탓\"\n> 키워드: 트럼프 연준 금리 비판\n\n**📌 무슨 일이 있었나**\n- 도널드 트럼프 전 미국 대통령이 현재 미국의 기준금리가 너무 높다며 통화정책을 운용하는 연방준비제도를 향해 매우 정치적이라고 강도 높게 비판했다.\n- 미국 연준 일부 이사가 금리 추가 인상 필요성을 피력한 것에 대해 트럼프는 미국 경제가 양호한 상황에서 왜 금리를 올리려 하는지 강력히 반문했다.\n- 트럼프는 연준의 통화정책 대응이 늦어지면 경제에 큰 고통이 따를 것이라 경고하며 기준금리 인하와 통화완화 전환의 필요성을 거듭 피력하고 나섰다.\n- 또한 트럼프는 미국 기업이 해외에 데이터센터를 지을 경우 고액의 세금을 부과하겠다고 경고하며 해외 이전 차단을 위한 강력한 세제 제재안을 제시했다.\n\n**💬 핵심 Q&A**\n- **Q. 연준의 금리 추가 인상 시도와 트럼프의 '고금리 비판'이 충돌하는 핵심 원인은 무엇인가?**\n  A. 연준은 인플레이션 재발을 막기 위해 매파적 기조를 유지하려 하지만, 트럼프는 고금리가 경제 성장과 기업 투자를 저해한다고 판단해 정치적 프레임으로 통화당국을 압박하는 것이다.\n- **Q. 트럼프의 지속적인 연준 공격이 국채 시장과 금융 시장의 불확실성을 높이는 기전은 무엇인가?**\n  A. 중앙은행의 정치적 독립성이 흔들릴 수 있다는 우려가 시장에 신뢰성 위기를 가져온다. 통화정책의 예측 가능성이 떨어지면서 국채 금리의 변동성이 확대되고 금융 시장 전체의 리스크 프리미엄이 상승한다.\n- **Q. 해외 데이터센터 건립 기업에 대한 고액 과세 구상이 빅테크에 미칠 파급효과는 무엇인가?**\n  A. 글로벌 AI 인프라를 확장하려는 미국 빅테크 기업들의 해외 데이터센터 투자 비용이 크게 늘어난다. 이는 세금 리스크를 높여 기술 기업들의 해외 진출 전략에 차질을 초래하고 AI 구축 속도를 지연시킬 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 미국 연준 인사들의 통화정책 관련 발언\n- 트럼프의 연준 독립성 공격에 따른 국채금리\n- 미국 기업 데이터센터 해외 이전 제재 논의\n\n<sub>참고: [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE9uWklOakVpRnB2WjAxN2RYSDBXbFlLZzVQekdxMGxNNW8yY1hMR2JqdllvTURkM01KdV9hY1pzM2lwMlZmMHdfeDYwTmNTRkJ6QUxrLUVTUWE1ak01X1BxX0RQaHk0enhrTHRQTVRqRkI?oc=5) / [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xNUtpQmJIeG11UkRUWDh1bHA2aDhYRkxFUlNqby1VOXNsS3ZsZEpKRzAxbTJKNEN4TzBpbF9GYWdDTXFuMGlZZ0F5MTlxSXh1NXdjTW9pOU1wcXpTN3dzUFAyOXJlZ3c?oc=5) / [YTN](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qSmttUF9XZmM1Y21lWC1NWTZsVjJ0NVNPbTdUTHRxRVlTd1lyVnBqeV8zalE3TVNBSGRVX0gzNmdlQThtQ2JjNU8zQlFrNzFJSm8wSWtEVml2czBaRlE?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 보도를 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
     "generation_mode": "gemini"
   },
   "yesterday": {
@@ -2924,5 +2910,5 @@
     "newsletter_md": "# ⚡ ZIPPY | AI 경제 데일리 브리핑\n_2026-11-14 ~ 2026-11-20 이슈 · 발행 2026-11-21_\n\n🇰🇷 **국내 경제:** `코스피 4900선 붕괴` · `수출 1조달러 돌파` · `3분기 주담대 증가세`\n🌐 **해외 경제:** `앤트로픽 나스닥 상장` · `미 연준 빅스텝 가능성` · `다우지수 5만선 붕괴`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 코스피 4900선 붕괴와 반도체 동반 급락\n> 키워드: 코스피 4900선 붕괴\n\n**📌 무슨 일이 있었나**\n- 코스피 지수가 앤트로픽 상장 호재에도 불구하고 AMD 악재와 반도체 대형주 투매세에 밀려 4900선이 무너졌으며 장중 4800선까지 위협받는 급락세를 보였다.\n- 삼성전자와 SK하이닉스 등 시가총액 상위 반도체 종목들이 일제히 하락하며 코스피와 코스닥 지수 모두 5%대 이상의 기록적인 폭락을 기록하며 투자 심리가 위축되었다.\n- 정치권에서는 이번 증시 폭락을 두고 지방선거를 겨냥한 주가조작의 결과라는 비판이 제기되었으며 시장의 바닥을 예측하기 어려운 불확실성이 극대화되는 양상이다.\n- 의무공개매수 제도가 원안대로 통과될 경우 기업 가치 재평가 과정에서 코스피가 PBR 1배 수준인 4200선까지 추가 하락할 수 있다는 비관적인 전망이 나오고 있다.\n\n**💬 핵심 Q&A**\n- **Q. 앤트로픽 상장이라는 AI 호재에도 불구하고 국내 반도체주가 급락한 원인은 무엇인가?**\n  A. 미국 반도체 기업 AMD의 악재가 국내 반도체 공급망에 직접적인 타격을 주었으며 앤트로픽 상장으로 인한 기술주 자금 쏠림이 오히려 국내 증시의 수급 공백을 야기했기 때문이다. 특히 삼성전자와 SK하이닉스에 집중된 매도세가 지수 전체를 끌어내리는 하방 압력으로 작용했다.\n- **Q. 의무공개매수 제도 도입이 왜 코스피 4200선 급락의 근거로 제시되는가?**\n  A. 의무공개매수 원안이 통과될 경우 기업 인수합병 과정에서 소액주주 보호 비용이 급증하여 경영권 프리미엄이 위축되고 자본 시장의 유동성이 경색될 수 있다는 우려 때문이다. 이는 시장 전체의 밸류에이션 하향 조정을 유발해 PBR 1배 수준까지 지수가 후퇴할 수 있다는 분석이다.\n- **Q. 지방선거용 주가조작 의혹이 시장에 미치는 실질적인 영향은 무엇인가?**\n  A. 정치적 불확실성이 증시 변동성을 키우는 요인이 되고 있으며 정책적 일관성에 대한 신뢰도가 하락하여 외국인 투자자들의 이탈을 가속화할 위험이 있다. 이는 펀더멘털 외적인 요인으로 작용해 시장의 자정 작용을 저해하고 반등 시점을 늦추는 결과를 초래한다.\n\n**👀 앞으로 볼 포인트**\n- 반도체 대형주 외국인 매도세 진정 여부\n- 의무공개매수 제도 입법 논의 향방\n- 코스피 PBR 1배 지지선 확보 가능성\n\n<sub>참고: [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EX2ZqTWllVWx4QnJoZzZpTVJLdDdXVHhCcXdVOWV3eC1PWDBlSXktdnVVUWtpbkczeldwelNHZFN3ajBsd3lPZ0swRDEwdlBobEFCZXBXbGYtWEU?oc=5) / [머니투데이](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ock1qR2c4alhTbGR5MGVtbWJKY0tDVTdIcV8xekdsTnhVVUlCNEVQQjdOdEl2Uk9xUGxkd3V6U25pelJpZGoyemdaaUJOb2dXZExRQ2F0TVdZWVFjaGNOeXJzQXdvZENS0gFuQVVfeXFMT3k2UlZ5STRtMHZjZ01LQm4wcGRFc0NybzVHV2d1eThMNndqQkd5bDMyM1NvVFVKd3ZFNGRLSUt0WTBVeHhZWHRkeXlqMlNVZWR2a0xxc0x4bVMxY3pBVGxmOWpQb3FfNEZHNHJja1E?oc=5) / [머니투데이](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BNkVNWl9aTHB2c2ZFWDMwUjZieU52UENhRi1naWNjR1F4VkFERXNxcDdLMWRrQlJVSkNRR3VVWk5hOXp4VGFobmNMRXgtaG1vTWIwTzRJX1NkUnU5V2VmX3NYdTRXM1It0gFuQVVfeXFMTmxQcDZDVDJGeHJnZDNvYjIxZWpGeHhiM2xtVlZfOUdOZmQxWUsxbF9XUldzb3NSSVdxYzJ2TGdmbmtyTGdCMU16MHhGaFRTLTRZZVJURXZPVGI2Umd1UW53aFlUNXo4WjhseHpFdmc?oc=5)</sub>\n\n---\n\n### 2. 한국 수출 1조 달러 돌파 세계 4대 강국 진입\n> 키워드: 수출 1조달러 돌파\n\n**📌 무슨 일이 있었나**\n- 대한민국이 독일, 미국, 중국에 이어 세계에서 4번째로 연간 수출액 1조 달러를 돌파하며 일본을 제치고 세계 4대 수출 강국 반열에 오르는 대기록을 세웠다.\n- 농수산식품과 전방위 산업을 아우르는 K-푸드+ 수출액이 120억 달러를 돌파하며 역대 최고 실적을 경신하는 등 수출 품목의 다변화가 성과를 거두고 있는 것으로 나타났다.\n- 수출 1조 달러 달성을 기념하여 유통업계에서는 홈런볼 등 주요 상품을 활용한 대규모 프로모션을 진행하며 국가적 경제 성과를 축하하는 분위기가 확산되고 있다.\n- 다만 미국 AMD의 중국 수출 통제 규제 위반 소식 등 글로벌 공급망 규제가 강화되는 추세여서 향후 수출 성장세를 유지하기 위한 통상 환경 대응이 과제로 남았다.\n\n**💬 핵심 Q&A**\n- **Q. 일본을 제치고 세계 4대 수출국에 진입한 것이 갖는 경제적 상징성은 무엇인가?**\n  A. 제조업 경쟁력과 첨단 산업 포트폴리오에서 한국이 글로벌 주도권을 확보했음을 의미하며 과거 일본 의존적 구조에서 벗어나 독자적인 공급망 핵심 국가로 도약했음을 증명한다. 이는 국가 신용도 향상과 글로벌 시장 점유율 확대의 강력한 기반이 된다.\n- **Q. K-푸드+ 수출 120억 달러 돌파가 전체 수출 구조에 기여하는 바는 무엇인가?**\n  A. 반도체와 자동차 등 특정 중화학 공업에 편중되었던 수출 구조를 소비재 영역으로 확장하여 대외 리스크 분산 효과를 가져왔다. 특히 고부가가치 가공식품의 성장은 내수 산업의 글로벌화와 농가 소득 증대라는 연쇄 파급 효과를 창출한다.\n- **Q. 미국의 대중국 수출 규제 강화가 1조 달러 수출 가도에 어떤 변수가 되는가?**\n  A. 한국의 최대 수출 시장 중 하나인 중국향 반도체 및 장비 수출이 제한될 경우 전체 수출 규모가 위축될 수 있는 직접적인 리스크로 작용한다. 규제 위반 시 발생하는 제재 위험은 국내 기업들의 글로벌 공급망 전략 수립에 막대한 비용 부담을 지우게 된다.\n\n**👀 앞으로 볼 포인트**\n- K-푸드 수출 120억 달러 유지 및 확대 여부\n- 미중 반도체 수출 규제에 따른 국내 기업 영향\n- 수출 1조 달러 시대의 무역수지 흑자 폭 추이\n\n<sub>참고: [한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aSVFROG9Ial9uODBOSmNSMkR4RTJZems2LTdJQUtDamFwc3FwYUIyNzhFdGxHMzZ2YVZxNFB6WjBSMVo5TnB6YW02M3ptaVBGNy1rTEZvaUJpZw?oc=5) / [대한민국 정책브리핑](https://news.google.com/rss/articles/CBMibEFVX3lxTE9aMEpxdlROTTFJVEN2TkRXYXl2c0lmbHRucHNLSFBfRDRZMGVBSEliTjYxclZzbFdEQ0NuSE9qWjZ5bTNhdi04WTJycUliM2FXQ2VCb0FKZXhtNVFhT0Y5V2kweXRUazhYZXBLQQ?oc=5) / [한양경제](https://news.google.com/rss/articles/CBMickFVX3lxTE14VHZKOXFJbTltS3JrY0hTZ1p0UC1pcFRQU0tsOFlUTjd3ZWxjbWpWUmFQSzN5TDZQazZ6cnhWRFZTV2VpZWdhYk1OSFJpZ19SQmxvTW11ZmZaRnVKVGRoNUQ0NXlHUXVseG9TUVZmWHpHUQ?oc=5)</sub>\n\n---\n\n### 3. 주담대 1200조 돌파와 30대 영끌 가속화\n> 키워드: 3분기 주담대 증가세\n\n**📌 무슨 일이 있었나**\n- 2026년 3분기 주택담보대출 잔액이 사상 처음으로 1200조 원을 돌파했으며 전체 가계부채 규모도 2030조 원을 넘어서며 역대 최대치를 기록했다.\n- 신규 주택담보대출에서 30대가 차지하는 비중이 역대 최대 수준을 기록하며 청년층을 중심으로 한 주택 매수세와 대출 의존도가 심화되고 있는 것으로 나타났다.\n- 3분기 신규 주택담보대출의 평균 금액은 2억 1451만 원으로 전 분기 대비 622만 원 증가하며 개별 차주의 부채 부담이 더욱 무거워진 것으로 분석된다.\n- 가계부채 전체 증가폭은 1년 반 만에 최소 수준으로 둔화되었으나 카드 외상 등 판매신용은 급증하여 서민 경제의 결제 부담은 오히려 가중되는 양상이다.\n\n**💬 핵심 Q&A**\n- **Q. 가계부채 증가폭이 둔화되었음에도 주택담보대출이 1200조 원을 돌파한 역설적 이유는 무엇인가?**\n  A. 기타 대출이나 신용대출은 규제와 금리 부담으로 줄어든 반면 주택 구입을 위한 필수 자금인 주택담보대출은 만기가 길고 자산 담보가 확실해 수요가 지속적으로 몰렸기 때문이다. 이는 가계부채의 질적 구조가 부동산에 더욱 편중되고 있음을 시사한다.\n- **Q. 30대의 주택담보대출 비중이 역대 최대를 기록한 배경과 위험 요인은 무엇인가?**\n  A. 전세 가격 상승과 향후 내 집 마련이 어려워질 것이라는 불안감이 30대의 조기 매수세를 자극했으나 소득 대비 부채 비율이 높아 금리 변동에 매우 취약한 구조를 형성하고 있다. 이는 향후 경기 침체 시 소비 위축과 가계 건전성 악화의 뇌관이 될 수 있다.\n- **Q. 평균 대출 금액이 622만 원 증가한 것이 가계 경제에 미치는 실질적 영향은 무엇인가?**\n  A. 원리금 상환 부담이 직접적으로 증가하여 가계의 가처분 소득을 감소시키고 이는 내수 소비 침체로 이어지는 악순환을 만든다. 특히 대출 규모 확대는 자산 가격 하락 시 담보 가치 하락에 따른 추가 증거금 요구나 부실화 위험을 높이는 요인이 된다.\n\n**👀 앞으로 볼 포인트**\n- 30대 주택담보대출 비중의 추가 상승 여부\n- 가계부채 증가율 둔화세의 지속 가능성\n- 판매신용 급증에 따른 연체율 변동 추이\n\n<sub>참고: [YTN](https://news.google.com/rss/articles/CBMib0FVX3lxTE12clprZGZaMG1IaVdPN2pERUlGVjhqSnU0bDZTa29JOGlMZ3ZQdU95N3ZzM0FXUnhMZTRSTU1aVnV1Rmw5WERtTHVmMTgwLVhyb0l6Q1NUd3ZfSFZZMG9ndzFFWGhWb3V5UkNlSVpnbw?oc=5) / [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ILUxmVGgxdFJjcU5LM0luSFR5bVVEUFM3UWJKeG5MaVV3cjl2OUMwdjZRaHRScFdXbWhWaWJMLThuTV9aakgySFRJTllObzd5SHhZejk4RE16Z1FVczE1c253LXZ2azQ?oc=5) / [MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTFBCdjVXbUhEMUpBNXhERy1JT04yV3ZOYkF3MkMwUWI5Y1J6THcxTEZvMmtvN0hnZDlveEhsRGJxNWxFNU5TZWFrRWZheTFkbG0zdy1QOUo5STgxeEdTQjNDbDR0S3hqRGxZZTJURjdPRFFhTmYt0gF0QVVfeXFMUHlxaFdYbjVLSHJ4Q3lHZWRvd19SNHA5MHppN3RPU3V3d0VrME5nYWxNZFJRVWJvM0Jleml6em90VXZGU2Q2WC0zZHFaOGF2dzlFRlNVUHNYdVY0OFBQa1cyWEx6aUNqX3hBUEdpN3RDa2FXYms?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 앤트로픽 상장과 시총 2조 달러 시대 개막\n> 키워드: 앤트로픽 나스닥 상장\n\n**📌 무슨 일이 있었나**\n- 생성형 AI 기업 앤트로픽이 나스닥 시장에 성공적으로 입성하며 상장 첫날 시가총액 2조 달러(약 2337조 원)를 달성하는 기염을 토했다.\n- AI 모델 개발 기업 중 최초로 증시에 입성한 앤트로픽은 상장 과정에서 'AI 안전'을 핵심 가치로 강조하며 기존 빅테크 기업들과의 차별화를 시도했다.\n- 상장 첫날 주가는 극심한 변동성을 보이며 롤러코스터 장세를 연출했으며 이는 AI 산업의 미래 가치에 대한 기대와 고평가 논란이 공존함을 보여주었다.\n- 앤트로픽의 상장은 뉴욕증시 기술주 전반에 영향을 미쳤으며 투자자들이 실질적인 수익 모델을 갖춘 AI 기업으로 선별 투자를 시작하는 계기가 되었다.\n\n**💬 핵심 Q&A**\n- **Q. 앤트로픽이 상장 첫날 시총 2조 달러를 달성한 것이 AI 산업에 주는 메시지는 무엇인가?**\n  A. 단순한 기술 기대를 넘어 AI 모델 자체가 거대 자본 시장의 핵심 자산으로 인정받았음을 의미하며 하드웨어(엔비디아) 중심에서 소프트웨어 모델 기업으로 투자 중심축이 이동하고 있음을 보여준다. 이는 AI 산업의 밸류에이션 기준을 새롭게 정립하는 사건이다.\n- **Q. 앤트로픽이 강조한 'AI 안전' 가치가 주가와 투자 결정에 어떤 영향을 미치는가?**\n  A. 규제 당국의 압박과 윤리적 리스크를 선제적으로 관리한다는 측면에서 장기 투자자들에게 안정성을 제공하지만 단기적으로는 개발 속도나 수익화 지연 우려를 낳을 수 있다. 결과적으로 보수적인 기관 자금을 유인하는 동시에 성장성 논란을 동시에 일으키는 변수가 된다.\n- **Q. 상장 첫날 주가가 롤러코스터 장세를 보인 근본적인 원인은 무엇인가?**\n  A. 초기 투자자들의 차익 실현 매물과 신규 진입하려는 포모(FOMO) 물량이 충돌했기 때문이며 AI 기업의 적정 가치를 산정할 수 있는 비교 대상이 부족한 점도 변동성을 키웠다. 이는 시장이 AI 모델 기업의 지속 가능한 수익 구조에 대해 여전히 확신과 의구심을 동시에 갖고 있음을 반영한다.\n\n**👀 앞으로 볼 포인트**\n- 앤트로픽의 분기별 실적 및 수익성 증명\n- 오픈AI 등 경쟁 기업의 상장 추진 동향\n- 나스닥 내 AI 기술주 자금 이동 추이\n\n<sub>참고: [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwY0tfdkpmM2dnOG1vNUhPWUl4dC04dDRrSFRaVXJnM1RfNU5sMjljYmdMc2YzT3lHQ1RxS2txZ1d4QlFCbkt0Y3M5SmVlLXZSaGZWTUI2bTdwSzQ?oc=5) / [인공지능신문](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HMll4QjhpUXpmNWV1aTlxY2xlRzhmN0ZPcDVQdXN1Sk9jWW1ONExaVk5rNDM3MVAxY2VjU1VyMndVZUdYak9GeDlrRWtLeU5LUTVpYnZ3SUdTaFdLVVBIaUtONTBqQ3c?oc=5) / [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90Umc1Y1k5amFLVUFSTEdzOU5rbGJXaTRPWm5iWEZlcmxHT3VydFREc3Uxay10NDNyamx3eWx1LV9ZTlJGcGotVWFiZVV4U3dlVTUxVExKY1U0LWV3UW96clV3anVtbnc?oc=5)</sub>\n\n---\n\n### 2. 미 연준 12월 빅스텝 시사와 긴축 공포 재점화\n> 키워드: 미 연준 빅스텝 가능성\n\n**📌 무슨 일이 있었나**\n- 크리스토퍼 월러 연준 이사가 인플레이션 억제를 위해 12월 FOMC에서 50bp 금리 인상을 의미하는 '빅스텝'의 필요성을 시사하며 공격적인 행보를 예고했다.\n- 마이클 바 연준 부의장 역시 현재 인플레이션 수치가 지나치게 높다고 지적하며 추가적인 금리 인상이 적절하다는 견해를 밝혀 연준 내 매파적 분위기를 뒷받침했다.\n- 거의 모든 회의 참가자들이 추가 금리 인상을 주문했던 것으로 나타나 시장에 충격을 주기 위한 전격적인 조치 가능성이 고조되고 있다.\n- 연준의 긴축 우려로 인해 국제 금 가격은 8개월 만에 최대 주간 낙폭을 기록했으며 달러 강세와 맞물려 자산 시장 전반의 하방 압력이 커지고 있다.\n\n**💬 핵심 Q&A**\n- **Q. 월러 이사가 언급한 '시장에 충격을 줘야 할지도 모른다'는 발언의 의도는 무엇인가?**\n  A. 기대 인플레이션이 꺾이지 않는 상황에서 시장의 안일한 낙관론을 경고하고 금리 인상 효과를 극대화하기 위해 심리적 저항선을 무너뜨리려는 의도이다. 이는 단순한 수치 조정을 넘어 시장 참여자들의 행동 변화를 강제하려는 고도의 커뮤니케이션 전략이다.\n- **Q. JP모건의 3회 연속 25bp 인상 전망과 연준 이사들의 빅스텝 시사 중 어느 쪽이 더 우세한가?**\n  A. 현재 시장 지표는 연준 이사들의 매파적 발언에 더 민감하게 반응하고 있으나 실물 경제 데이터에 따라 JP모건의 점진적 인상 시나리오로 선회할 가능성도 상존한다. 다만 의사록에서 확인된 '거의 모든 참가자'의 인상 주문은 빅스텝 확률을 급격히 높이는 근거가 된다.\n- **Q. 금 가격이 8개월 만에 최대 낙폭을 기록한 메커니즘은 어떻게 작동했는가?**\n  A. 금은 이자가 붙지 않는 자산이므로 금리가 상승하면 보유 기회비용이 커져 매도세가 강화되며 달러 가치 상승으로 인해 달러 표시 자산인 금의 가격 경쟁력이 하락했기 때문이다. 긴축 공포가 실물 자산에서 현금 자산으로의 이동을 촉발한 결과이다.\n\n**👀 앞으로 볼 포인트**\n- 12월 FOMC 기준금리 결정 결과\n- 미국 소비자물가지수(CPI) 발표 수치\n- JP모건 등 주요 투자은행의 금리 전망 수정\n\n<sub>참고: [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTFBoOWFyTld1OXIyZHF1TkJLOG0yemZfQ3REdm1NTmRxRm1URnQ3cDNYVjRweUgwZ2lSdk9mbXdGQ3ZqSHl6eTVsQjZzZml0cGQ4X0k2UHVabW9WNVRad2piMV92a3F6WEV3bUZSYWNad1A?oc=5) / [MBC 뉴스](https://news.google.com/rss/articles/CBMiekFVX3lxTE11TTFCR0RHSzNJbmtpNUo1Z25Ed0hwSGZUeGFGUGVUbEZ2ZDM2azdkczRzZ0RIRktaQV9YVERJckV6VV9iY3BvQ1NjaUtXeDI3S1doRWZlOERNNUJuN2JnY09CUWtoTl9OaGpQaTR0S21vemhpZzczOVVn0gF6QVVfeXFMT0hOMzlwOWlkY24xMnk0WjAzQ3FpbWM0V3pER2QwY3BjVjNpSzNyREdqMUg0eTZFSjFFTG9HZjl4bGVkNWlhdzJFLThGOVZMZ09ST1JPc3pTS21yWkxpVjk4dVRWYllFZmlDaHVxVkt1bG5pRmlnUnE2Mmc?oc=5) / [Investing.com 한국어](https://news.google.com/rss/articles/CBMib0FVX3lxTE16V2RMNlZKMG5nY2psOHdBaVNTY01FWTFPSVBVVUFLZUNoYnlDQjFuWmI2Y2RiajV3YU55M2EwVXRDS3BIeUhQN2pOaHZncTV4bDhJZmN1UU9iRnhjaU80c0Z0dGpFMVJjR2VCMnZwRQ?oc=5)</sub>\n\n---\n\n### 3. 다우 5만선 붕괴와 뉴욕증시 동반 급락\n> 키워드: 다우지수 5만선 붕괴\n\n**📌 무슨 일이 있었나**\n- 뉴욕증시에서 다우존스 산업평균지수가 앤트로픽 상장 호재에도 불구하고 연준의 긴축 우려와 달러 강세 여파로 2%대 급락하며 5만 선 아래로 추락했다.\n- 앤스로픽 IPO 흥행이 오히려 기술주 외 종목들로부터 자금을 빨아들이는 '블랙홀' 효과를 일으켰으며 시장 전반의 유동성 경색 우려를 자극하며 지수 하락을 부추겼다.\n- 연준의 금리 인상 전망 강화로 달러 인덱스가 치솟으면서 국제 금 가격도 3% 급락해 3800달러 선이 무너지는 등 안전 자산과 위험 자산이 동반 하락하는 기현상이 나타났다.\n- 국내 증시 전문가들은 다우 5만 선 붕괴가 글로벌 증시의 심리적 지지선을 무너뜨려 코스피 4900선 붕괴와 같은 연쇄적인 폭락장을 유도했다고 분석하고 있다.\n\n**💬 핵심 Q&A**\n- **Q. 앤트로픽 상장이라는 대형 호재가 왜 다우지수 5만 선 붕괴라는 역설적 결과를 초래했는가?**\n  A. 특정 대형주로의 쏠림 현상이 지수 전반의 수급 불균형을 초래했고 상장 직후 차익 실현 매물이 쏟아지며 시장 전체의 투매 심리를 자극했기 때문이다. 또한 고평가된 기술주에 대한 경계감이 다우지수 내 전통 산업주들까지 전염시키며 동반 하락을 유도했다.\n- **Q. 달러 강세와 금 가격 급락이 다우지수 하락과 결합될 때 발생하는 리스크는 무엇인가?**\n  A. 미국 수출 기업들의 실적 악화 우려와 글로벌 자금의 미국 집중 현상이 심화되어 신흥국 증시 이탈과 미국 내 자산 거품 붕괴 위험을 동시에 높인다. 이는 자산 가격 전반의 디플레이션 압력으로 작용해 실물 경기 침체를 앞당길 수 있다.\n- **Q. 다우 5만 선 붕괴가 향후 뉴욕증시의 추세 전환 신호로 볼 수 있는가?**\n  A. 강력한 심리적 마디 지수인 5만 선이 무너진 것은 상승 추세의 동력이 상실되었음을 의미하며 연준의 긴축 기조가 확인될 때까지 하방 압력이 지속될 가능성이 높다. 특히 기술주 중심의 나스닥과 전통주 중심의 다우가 동반 급락한 점은 시장 전반의 조정 국면 진입을 시사한다.\n\n**👀 앞으로 볼 포인트**\n- 다우지수 5만 선 조기 회복 여부\n- 달러 인덱스 추가 상승 및 환율 변동성\n- 국제 금 가격의 3800달러 선 탈환 가능성\n\n<sub>참고: [조선일보](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWV9PanAybzhlYWk2aktENUpNRE45bDFhLU5RdkczS2tSc1hZNmR3ZFc4S3R3Q3VDQUpwZUNVNkF4RTh4WE1YVXcxWXZlQzYzTlhxdllrMWRaSVJDVzBNN19ZOTRubTlSbHVpajU3R0FKSHNDaHIxVDR0eU1kVDdmcWNHNGdSWGI4?oc=5) / [글로벌이코노믹](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNejFxSG1RNUdLaWYxdHFKVmJWQi1oTUh2QXhUZEJXNzZGVzNkMXlEYklHQmhQZkJnbW9JaHRsaWhnNUVueXNwV2NfZmFRTnFrYWgwcnRCcXZ5b0tsQUdxb0JDcmdNRDJfeE5GZ1VkTDY0VHJkMURwS2dqZWNzQmhYbC1fWTFwT0RQ?oc=5) / [프라임경제](https://news.google.com/rss/articles/CBMibEFVX3lxTE1fcllRWW53WVdpU1ZfUURFNFQya2gtYjRaTktSUHV2cVpFbXJud2pfeEs3SHJvN2xxSzFWNG9Ranp4RUxza2dEeWc2RDRQWVp2MEZOWTRfTC1RalpZMWNxbUw4WUR6dVB5RGtFeg?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 보도를 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
     "generation_mode": "gemini"
   },
-  "updated_at": "2026-11-21 12:51:54 KST"
+  "updated_at": "2026-11-21 17:10:45 KST"
 }
