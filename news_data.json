@@ -5,376 +5,373 @@
     "end_date": "2026-11-23",
     "domestic": {
       "keywords": [
-        "증안펀드 가동 준비",
-        "코스피 5000선 붕괴",
-        "수출 1조 달러 역설"
+        "AI 투매 증시 공포",
+        "엔비디아 수출통제 논란",
+        "주택 자산 양극화"
       ],
       "results": {
-        "증안펀드 가동 준비": {
-          "headline": "18년 만의 증안펀드 가동 준비와 자사주 규제 완화",
+        "AI 투매 증시 공포": {
+          "headline": "AI 투매 쇼크에 증시 공포 가중…정부 증안펀드 준비",
           "facts": [
-            "정부가 미국 증시 급락에 따른 '검은 월요일' 공포에 대응하기 위해 증시안정펀드(증안펀드) 가동 준비에 전격 착수했다.",
-            "F4(재무장관, 한은 총재, 금융위원장, 금감원장) 긴급회의를 통해 시장 안정화 방안을 논의했으며 24일부터 자사주 매입 규제를 완화하기로 결정했다.",
-            "증안펀드가 실제 가동될 경우 2008년 금융위기 이후 18년 만이며, 시행 시점 기준으로는 2020년 코로나19 사태 이후 6년 만의 발동 사례가 된다.",
-            "대만이 공매도 제한 등 초강수를 두는 가운데 한국은 증안펀드 카드를 검토하며 시장의 심리적 지지선 확보와 수급 개선을 시도하고 있다."
+            "미국 인공지능(AI) 관련주 폭락 쇼크가 글로벌 증시로 확산하며 '검은 월요일' 공포가 시장 전반을 덮쳤다.",
+            "증시 공포 심리가 금융위기 수준까지 치솟자 정부는 증시안정펀드 가동 준비에 즉각 착수했다.",
+            "증권가에서는 현 국면을 AI 산업 사이클의 본질적 훼손이라기보다 과도한 차입금을 점검하는 신용재평가 과정으로 진단했다.",
+            "글로벌 증시 급락세 속에서 향후 발표될 개인소비지출(PCE) 물가지표가 시장 충격을 완화할 핵심 분수령으로 꼽힌다."
           ],
           "watch": [
-            "증안펀드 실제 자금 투입 시점과 규모",
-            "24일 시행되는 자사주 매입 규제 완화 효과",
-            "대만 등 인접국 증시 추가 규제 강도"
+            "정부 증안펀드 투입 시점 및 조성 규모",
+            "미국 PCE 물가지수 발표 결과",
+            "주요 빅테크 기업 신용차입 현황"
           ],
           "qna": [
             {
-              "q": "증안펀드 가동 준비 소식만으로도 시장 반등을 이끌어낼 수 있는가?",
-              "a": "과거 사례를 보면 실제 자금 투입 전 가동 준비 발표만으로도 투자 심리가 개선되며 지지선이 형성되는 경향이 나타났다. 정부의 시장 방어 의지가 확인되면서 외국인과 기관의 투매 세력을 진정시키는 심리적 방어막 역할을 수행한다."
+              "q": "정부는 왜 증시안정펀드 가동 준비에 즉각 착수했는가?",
+              "a": "AI 투매 여파로 증시 변동성이 급증하면서 신용융자 반대매매와 주가 하락이 맞물리는 악순환 위험이 커졌기 때문이다. 증안펀드를 사전에 준비해 증시 하락 압력을 완화하고 투자 심리의 붕괴를 막으려는 조치이다."
             },
             {
-              "q": "24일부터 시행되는 자사주 매입 규제 완화는 어떤 구체적 효과를 노리는가?",
-              "a": "기업들이 하락장에서 자사주를 더 쉽고 빠르게 매입할 수 있도록 유도하여 유통 물량을 줄이고 주가 하방 압력을 방어하는 효과를 기대한다. 이는 증안펀드라는 공적 자금 투입 전 민간 기업의 자금력을 활용해 시장 수급을 개선하려는 조치이다."
+              "q": "이번 AI 투매 충격은 국내 증시와 관련 산업에 어떤 경로로 파급되는가?",
+              "a": "미국 빅테크의 AI 투자 회의론은 국내 반도체 및 부품 공급망 기업의 실적 전망치 하향으로 직결된다. 이로 인해 외국인 자금이 탈출하고 원·달러 환율이 상승하며 국내 증시 전반의 유동성이 축소된다."
             },
             {
-              "q": "대만의 공매도 제한 조치와 한국의 증안펀드 대응은 어떤 차이가 있는가?",
-              "a": "대만은 매도 세력을 직접 차단하는 규제 중심의 강경책인 반면, 한국은 증안펀드를 통한 매수세 유입과 자사주 매입 장려로 시장 수급을 보완하는 방식이다. 한국 정부는 시장의 자율성을 최대한 유지하면서도 급격한 붕괴를 막기 위한 단계적 대응을 선택했다."
+              "q": "시장 공포가 진정되고 주가가 반등하기 위한 핵심 분수령은 무엇인가?",
+              "a": "PCE 물가지수 통과를 통한 연준의 통화정책 불확실성 해소와 빅테크 기업들의 차입금 리스크 완화 여부이다. 기업들의 신용 위험이 안정화되고 AI 수익성 증명이 이뤄져야 투매가 그칠 수 있다."
             }
           ]
         },
-        "코스피 5000선 붕괴": {
-          "headline": "외인 매도에 코스피 5000선 붕괴 및 바닥론 확산",
+        "엔비디아 수출통제 논란": {
+          "headline": "미 재무 대중 수출통제 조사…엔비디아발 악재 확산",
           "facts": [
-            "외국인 투자자들의 금융위기급 매도세가 이어지며 코스피 5000선이 무너졌고 시장에서는 바닥을 알 수 없다는 공포가 확산 중이다.",
-            "삼성전자와 SK하이닉스의 해외 추정가가 급락하면서 코스피 4500선까지 위협받는 블랙먼데이 재현 가능성이 제기되고 있다.",
-            "호재성 뉴스에도 불구하고 시장 내에서 매수 물량을 받아줄 자금이 부족해 지수 하락폭이 커지는 수급 불균형 현상이 심화되었다.",
-            "방어형 ETF조차 코스피 지수보다 더 큰 하락폭을 기록하며 투자자들의 손실이 전방위적으로 확대되는 양상을 보였다."
+            "미국 재무부가 엔비디아의 대중국 수출통제 규정 준수 여부를 집중 검토하면서 미중 무역갈등 재점화 우려가 제기됐다.",
+            "중국 국가안전부가 2년 전부터 AI 칩 확보를 위해 미국의 수출 규제를 우회하는 비밀작전을 펼쳐온 정황이 확인됐다.",
+            "엔비디아 칩의 캄보디아 및 우회 밀수망 연루 의혹 등 관련 악재가 쏟아지며 시장 불안감을 증폭시켰다.",
+            "엔비디아 사태 여파로 나스닥 지수는 앤트로픽 호재를 뒤로하고 올해 상승분을 모두 반납했다."
           ],
           "watch": [
-            "외국인 순매도세 진정 및 수급 전환 여부",
-            "코스피 4500선 지지 여부와 기술적 반등",
-            "삼성전자·SK하이닉스 ADR 가격 추이"
+            "미 재무부의 엔비디아 조사 최종 결과",
+            "미중 추가 반도체 제재안 발표 여부",
+            "엔비디아 실적 전망치 수정 동향"
           ],
           "qna": [
             {
-              "q": "외국인 매도세가 금융위기급으로 평가받는 구체적인 이유는 무엇인가?",
-              "a": "호재가 발생해도 매수세가 실종된 상태에서 외국인이 대규모 물량을 쏟아내며 지수 5000선을 단숨에 무너뜨렸기 때문이다. 이는 단순한 차익 실현을 넘어 한국 시장에 대한 구조적 불신이나 글로벌 자산 배분 조정의 결과로 해석된다."
+              "q": "미 재무부가 엔비디아의 규정 준수 조사를 별도로 강조하는 이유는 무엇인가?",
+              "a": "중국이 우회 밀수망을 활용해 핵심 AI 반도체를 지속 확보하는 정황이 포착되었기 때문이다. 안보 통제의 실효성을 확보하고 대중국 압박 수위를 유지하기 위해 기업의 법적 준수 여부를 강도 높게 점검하고 있다."
             },
             {
-              "q": "방어형 ETF가 지수보다 더 크게 하락한 원인은 무엇인가?",
-              "a": "하락장에서 유동성이 부족해지자 상대적으로 매도가 쉬운 ETF 종목에 매도세가 집중되면서 기초 지수 하락폭을 상회하는 괴리가 발생했다. 또한 방어주로 분류되던 종목들까지 투매 대상에 포함되면서 ETF의 방어 기제가 작동하지 않았다."
+              "q": "엔비디아 규제 리스크가 글로벌 AI 공급망 전반에 미치는 영향은 무엇인가?",
+              "a": "중국 향 매출 비중 감소는 엔비디아의 매출 성장에 직접적인 타격을 준다. 이는 파운드리, 고대역폭메모리(HBM) 제조사 등 상류 공급망 기업들의 오더 감축으로 이어져 반도체 밸류체인 전체의 실적 둔화를 부른다."
             },
             {
-              "q": "코스피 4500선 위협의 핵심 변수인 반도체 대형주 추정가 급락은 어떻게 발생하는가?",
-              "a": "나스닥 폭락과 AI 수익성 우려가 겹치며 해외 시장에서 거래되는 한국 반도체 기업들의 주식 예탁 증서(DR) 가격이 먼저 하락했기 때문이다. 해외 투자자들의 시각이 반영된 DR 가격은 국내 증시 개장 시 시초가 결정에 결정적인 하방 압력으로 작용한다."
+              "q": "수출통제 논란 속에서 미중 무역갈등이 다시 분기점을 맞을 조건은 무엇인가?",
+              "a": "미국 정부가 칩 밀수 우회국에 대한 2차 제재(블랙리스트 추가)를 실제 실행하는지 여부이다. 조치가 강행될 경우 기술 안보 갈등이 무역 전쟁 전면전으로 확대될 수 있다."
             }
           ]
         },
-        "수출 1조 달러 역설": {
-          "headline": "수출 1조 달러 역설 핵심 보도 종합",
+        "주택 자산 양극화": {
+          "headline": "주택자산 격차 52배 확대…30대 고가집 소유 급증",
           "facts": [
-            "수출 1조 달러의 역설…최대 무역흑자에 美·인도·튀르키예 통상 압박 우려",
-            "반도체만 있는 게 아니다…‘수출 1조 달러’ 숨은 주역들",
-            "손정의, SK하이닉스 1조달러 인수 검토…월가에 자금 조달 타진",
-            "강원 의료기기업체, 97억 원 독일 수출 계약",
-            "[르포] 한돈 수출 올 들어 219% 증가...돼지 日 100여 마리 다듬는 제주도 가공장"
+            "유주택 가구 내부의 주택자산 가액 격차가 최대 52배까지 벌어지며 부동산 자산 양극화가 심화됐다.",
+            "부모 세대의 자산 증여 영향으로 고가 주택을 소유한 30대 집주인이 70% 이상 크게 늘었다.",
+            "1인 가구의 주택 소유 비중은 역대 최대를 기록했으나 소득 대비 자산이 부족한 현상이 함께 나타났다.",
+            "서울시는 당초 주택 공급 확대를 위해 조성했던 주택진흥기금 내년 예산의 절반을 전월세 보증금 지원에 투입하기로 했다."
           ],
           "watch": [
-            "수출 1조 달러 역설 관련 후속 보도 및 시장 수급 추이",
-            "주요 거시경제 지표 및 당국 정책 발표 여부"
+            "서울시 주택진흥기금 집행 및 공급 영향",
+            "연말 증여세 심사 및 고가주택 거래 동향",
+            "1인 가구 주거비 부담 지표 변화"
           ],
           "qna": [
             {
-              "q": "이번 '수출 1조 달러 역설' 이슈가 시장에서 부각된 핵심 배경은 무엇인가?",
-              "a": "최근 주요 언론에서 '수출 1조 달러의 역설…최대 무역흑자에 美·인도·튀르키예 통상 압박 우려' 등 관련 보도가 잇따르며 시장 참여자들의 관심이 집중되고 있다."
+              "q": "30대 고가 주택 소유자가 70% 늘어난 주요 배경은 무엇인가?",
+              "a": "부모 세대로부터의 고가 부동산 증여 증가가 핵심 원인이다. 근로 소득 상승 속도보다 자산 가치 상승 속도가 빨라지면서 세대 간 자산 이전에 의존한 고가주택 취득이 급증했다."
             },
             {
-              "q": "'수출 1조 달러 역설' 흐름이 개인 투자자와 가계 경제에 미치는 영향은 무엇인가?",
-              "a": "관련 산업군 주가와 환율, 시중 금리 및 체감 경기에 직간접적인 변동 요인으로 작용할 수 있어 면밀한 관찰이 필요하다."
+              "q": "1인 가구 소유 비중 최고치 기록과 자산 비대칭 현상은 어떻게 연결되는가?",
+              "a": "고령층 및 소형 주택 중심의 1인 가구 주택 소유는 늘었으나, 이들의 실질 소득과 유동성은 취약한 상태이다. 주택 자산만 가지고 있을 뿐 소비 여력이 없는 자산 고립형 가구가 늘어났음을 의미한다."
             },
             {
-              "q": "향후 시장 대응에 있어 어떤 점을 중점적으로 확인해야 하는가?",
-              "a": "단기적인 뉴스 헤드라인에 일희일비하기보다 실제 발표되는 기업 실적과 공식 경제 지표를 함께 점검하는 신중한 접근이 요구된다."
+              "q": "주택진흥기금의 절반을 보증금 지원에 쓰는 정책 전환의 의미는 무엇인가?",
+              "a": "신규 주택 건설을 통한 장기 공급 정책보다 당장의 전월세 세입자 주거 안정을 우선시한 결과이다. 다만 주택 공급 예산 축소로 향후 중장기 공급 부족을 자극할 수 있다는 시각도 존재한다."
             }
           ]
         }
       },
       "news": {
-        "증안펀드 가동 준비": [
+        "AI 투매 증시 공포": [
           {
             "title": "‘AI 투매’ 검은 월요일 공포…정부, 증안펀드 가동 준비 착수 - 한겨레",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QdWo0ZG5hNkswOUYwcHNTX0xoR2phd08yd0pPZ0prZVVtTUR4LVdSWHFwQkhmREJZMGZ4cHF0SXRDVzFfU01zNk5kM0llSVFHR0F1NENZenlvY0FSY0xTcVE3eEZqb0U?oc=5",
             "source": "한겨레",
             "published": "11-22 22:15",
-            "snippet": "‘AI 투매’ 검은 월요일 공포…정부, 증안펀드 가동 준비 착수 한겨레 증시 급락세에 정부 긴급회의 소집…증안펀드 투입 ‘만지작’ KBS 뉴스 “내일 블랙 먼데이 막자”…정부, 증안펀드 18년만에 투입 준비 동아일보 증시안정펀드 가동 준비... 2008년 금융위기 후 처음 조선일보 자사주로 수급 채우고 공매도·반대매매 조여 매도압력 누른다…'검은 월요일' 막을까 뉴시스"
+            "snippet": "‘AI 투매’ 검은 월요일 공포…정부, 증안펀드 가동 준비 착수 한겨레 증안펀드 나오면 바닥? 조선일보 정부, 증시 급락에 18년 만에 ‘증시안정 펀드’ 준비 JTBC “내일 블랙 먼데이 막자”…정부, 증안펀드 18년만에 투입 준비 동아일보 한투증권 \"증안펀드 준비 착수, 시장의 심리 안정 효과 기대\" 연합뉴스"
           },
           {
-            "title": "'증안펀드' 가동 준비만 해도 코스피 반등?…과거 사례 보니 - 비즈워치",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wYkpKeUUxNU9UUXVYRUVqVS1mRXJWOXlVREdaSFRoaFBLRGtqZUJ2NkNiNExNcWlvVW90SDF0Zm94cm1IVkM2aFktWFNBS3l0V0pYT0NRSHZRVUczWEd3NXN4TGhNcFBTX2c?oc=5",
-            "source": "비즈워치",
-            "published": "11-22 20:47",
-            "snippet": "'증안펀드' 가동 준비만 해도 코스피 반등?…과거 사례 보니 비즈워치"
+            "title": "[마켓뷰] 'AI투매'에 급락 도미노…'검은월요일' 우려 커진 증시 - 연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02R3o5R2Q3bHJ2eGRuWV9HdTMyOXdZNEkwa2MyZWNUR3dPb21VX3JYWHZZbGZ4YXVIQy1GY2hFWVg4OXkyZlZpNG5PdnlDQmZMMFMxVFZuVGJqY3fSAWBBVV95cUxPRU9sUWNFazJ5bDJoSkJlWmlqeE02U0xielVyR3E0Y2hPekVOVlZqbkJubl80ZFdqdFNWSlRvcjlEXzVsMUVZNktoRVFxYXFXT0M1eEVqY2ktZkhzOU5fX1A?oc=5",
+            "source": "연합뉴스",
+            "published": "11-23 08:15",
+            "snippet": "[마켓뷰] 'AI투매'에 급락 도미노…'검은월요일' 우려 커진 증시 연합뉴스"
           },
           {
-            "title": "정부 증안펀드 가동 준비…미국 증시 급락에 F4 긴급회의, 24일부터 자사주 매입 규제 완화,18년 만에 실제 가동될지 주목 - CBC뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjekN1cmVwS21KbnVzMjltQ1lVQ2pudkRvWTlsZ2dva3hoNnpUN3A3dFVfTGk4dW40TDVwMjNkdXRwbklPTVZWSkZFbk5LcU5PaXZhTTJDOFROenR4M00wamtxaWhvY000?oc=5",
-            "source": "CBC뉴스",
-            "published": "11-22 21:05",
-            "snippet": "정부 증안펀드 가동 준비…미국 증시 급락에 F4 긴급회의, 24일부터 자사주 매입 규제 완화,18년 만에 실제 가동될지 주목 CBC뉴스"
+            "title": "美 AI주 투매 쇼크…글로벌 시장 덮친 '블랙먼데이' 공포[뉴스새벽배송] - 이데일리",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWVRMRm10MVRnTzVLQXhsMUU3TGpuWWZicDVUUkNPS2w2VmUxWWRJbkJzWFRtNHdzU3FCYnFRRkhhbzFEX0lrS2pEbGxrZ18yZ2w1VFFUbUQzZTYyMi16d3VJemtETHZVVFJvMTYwMHpkT2FvVlhEeExHOFBBd2VreA?oc=5",
+            "source": "이데일리",
+            "published": "11-23 07:58",
+            "snippet": "美 AI주 투매 쇼크…글로벌 시장 덮친 '블랙먼데이' 공포[뉴스새벽배송] 이데일리"
           },
           {
-            "title": "'검은 월요일' 공포에 긴급 대응…18년 만에 증시안정펀드 가동 준비 - 주간조선",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04UmNoVkMxUEc1cjIxbHJHRlNaM3F6U2c1VEtsSUFrU2VEUVc3Vm40Sm9OV1ROeUJrNWlJemVtTUlrd2ZrVmpEMG83ZkgtNGpPbzd5Y0N3eDRpcEhULVRwcjFqSllJRk9IdnfSAW5BVV95cUxNM0xZNGpzWE9Ra05rYkh3U09LTTM2NGtIRTA2NWZkWXh3Uk05NU1hLWJlRmxUQWFzUEd3M1dvM0NIZkhCbzk4Y2xaQzgxeWVkb0FGQzNSMmR3S0dLTks1VDFnUmRUSElXZ2pjQnNyQQ?oc=5",
-            "source": "주간조선",
-            "published": "11-23 00:55",
-            "snippet": "'검은 월요일' 공포에 긴급 대응…18년 만에 증시안정펀드 가동 준비 주간조선"
-          },
-          {
-            "title": "증시 급락 우려에 ‘증안펀드’ 준비…시행되면 6년만에 발동 - 부산일보",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vRFpxVTI3MENsdGZUSnVJNGoxWHVJQVpLLWZfNVVZOUFVeENTcE9mWFdGSWMtZEx6QVlZWHU4V0NQa1haaHdaS1RITGcwMk1xRjVSZmtTRTZHd2pOUzVMYThldFNLcG1YanNlQXJFQTVFLWJG?oc=5",
-            "source": "부산일보",
-            "published": "11-22 18:54",
-            "snippet": "증시 급락 우려에 ‘증안펀드’ 준비…시행되면 6년만에 발동 부산일보"
-          },
-          {
-            "title": "\"폭락장 대비하라\"…대만은 공매도 빗장, 한국은 증안펀드 거론 - 매일경제",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTZU5JVlc1VDFmNUlQS2tfanF2eDlKdjh1ZWJPS0ZCS0xRdGU0Uzh3LUFEZGNORFN4NVktaHBVamtMYVN3c2ktdTYzcy1iMXJ5Z2c?oc=5",
-            "source": "매일경제",
-            "published": "11-22 17:34",
-            "snippet": "\"폭락장 대비하라\"…대만은 공매도 빗장, 한국은 증안펀드 거론 매일경제 대만, 잇단 급락장에 \"직전 거래일 종가 미만 공매도 금지\" 연합뉴스 대만, 일주일새 17% 증시급락에 \"전일 종가미만 공매도 금지\" - 머니투데이 머니투데이 대만, 한주 새 증시 17.5% 폭락에 전 종목 공매도 가격 제한 시행 한겨레 코스피 급락 속 '코스닥 활성화'?…대만은 규제 강화, '검은 월요일' 또 손 놓나 [증시는 왜] 파이낸셜뉴스"
-          }
-        ],
-        "코스피 5000선 붕괴": [
-          {
-            "title": "외인매도에 5,000선도 깨진 코스피…호재에도 '받아줄 돈이 없다' - 연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81ZDh0elpqUkM4eDZESjljQWZ4RnluVHVVY2xIN1pnVjhrOTh4YWctcndoNTBUSEppNy1UMFhwY3ZCNU5mTHNoa2VpeFNHRUlxZ1Y0T05zY2EyTVIzZjZFUWxiVmN0TUFVWFdoYnNMNVQ?oc=5",
+            "title": "[뉴욕증시-주간전망] AI 투매에 흔들린 월가…PCE 물가 분수령 - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KUk5TUkx3Um82N2M2Rzhrb2pockhmYWsyM2FBNUFHVnBRMHJSWXg5QWtyWlJ4dGhZQnpoVWZaamd1Si01YkhhNi1DUm4xM0VEY0M1b3lYS0RVaTJZanRWdnlQSlJSemoyMUZVd3A2QXY?oc=5",
             "source": "연합인포맥스",
-            "published": "11-22 08:15",
-            "snippet": "외인매도에 5,000선도 깨진 코스피…호재에도 '받아줄 돈이 없다' 연합인포맥스 하루 만에 5% 급락한 코스피, 4,800대로 밀린 이유는? 네이버페이 머니스토리 개미들 계좌 파랗게 질렸는데…증권가 \"낙폭 과도\" 반등 기대해도 될까? - 머니투데이 머니투데이 개미들 563조 잃고 빚더미… 외국인은 224조 팔아 수익 조선일보 코스피 5,000선 회복할까...미국 물가·금통위 주목 YTN"
-          },
-          {
-            "title": "外人 매도 금융위기급…\"코스피, 극단 이미 반영했다\" - 연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hRmlYVUhYeVhjNm14b0RxVkx2VWtaTEJPQWxuSHFzLWFrQkFnNG9vSXBaOEgtVGJSR2VER1NTdldzQW8tUms1M1RETHEwZHRXX2tKYnpUaVp3blJFcmktV05TMDhSNGdHcEVNMEdudXY?oc=5",
-            "source": "연합인포맥스",
-            "published": "11-22 14:02",
-            "snippet": "外人 매도 금융위기급…\"코스피, 극단 이미 반영했다\" 연합인포맥스"
-          },
-          {
-            "title": "'증안펀드' 가동 준비만 해도 코스피 반등?…과거 사례 보니 - 비즈워치",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wYkpKeUUxNU9UUXVYRUVqVS1mRXJWOXlVREdaSFRoaFBLRGtqZUJ2NkNiNExNcWlvVW90SDF0Zm94cm1IVkM2aFktWFNBS3l0V0pYT0NRSHZRVUczWEd3NXN4TGhNcFBTX2c?oc=5",
-            "source": "비즈워치",
-            "published": "11-22 20:47",
-            "snippet": "'증안펀드' 가동 준비만 해도 코스피 반등?…과거 사례 보니 비즈워치"
-          },
-          {
-            "title": "내일 증시 ‘블랙먼데이’ 오나…삼성·하이닉스 해외 추정가 급락, 코스피 4500선 위협 - 주간경향",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RT3V4NzVsRVo5QWNXMXd0UWpqeWpkZ2J3OUVGQUdCVEdTRnlGQ0dLb1dEZXJHWG13S0FvWTB5Yi10UlFVS1RvTnBBc19EZnRPT3VpRWRaaTZ0MXV5NEE?oc=5",
-            "source": "주간경향",
-            "published": "11-22 19:22",
-            "snippet": "내일 증시 ‘블랙먼데이’ 오나…삼성·하이닉스 해외 추정가 급락, 코스피 4500선 위협 주간경향"
-          },
-          {
-            "title": "방어형 ETF라더니 … 코스피보다 더 떨어져 - 매일경제 마켓",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43b01vdEc3a0J6WmMyLXFYN1lMd1laX3F4QjdJN2ttME1MQS1MWEdxUnJUTllWVlhyRGZCOWFkdUQyaDFmclZhYW14RElqODZTc0E?oc=5",
-            "source": "매일경제 마켓",
-            "published": "11-22 17:16",
-            "snippet": "방어형 ETF라더니 … 코스피보다 더 떨어져 매일경제 마켓"
-          },
-          {
-            "title": "바닥 뚫은 코스피… “어디까지 떨어지나” 공포 - 세계일보",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WdVFxQXphX290NGtOeUNpbHNuQjN3Um0wc1kzc3FLOEtiTmJ5OHg2NDRSblFac3ZGOUZEYVlVSXVOTE44Wm50dFltUnpXOFFJck9xQk1aSTfSAVRBVV95cUxPUDg1cXJkblZ2eHpKRWlGSW9oNXAxNkFWUnRud1FrR1FjRTlGTWkwY2p5WE1WMGh6Vzg1R3lpY1JISUtYemJiZ0EwQXpQUThGZUpOMTg?oc=5",
-            "source": "세계일보",
-            "published": "11-22 20:00",
-            "snippet": "바닥 뚫은 코스피… “어디까지 떨어지나” 공포 세계일보"
-          }
-        ],
-        "수출 1조 달러 역설": [
-          {
-            "title": "수출 1조 달러의 역설…최대 무역흑자에 美·인도·튀르키예 통상 압박 우려 - 뉴스1",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Lb3hKZTRDOGRyYmlVRHFTNC1tb2VvRlJ5cVNrQVIwemx4eFFwVXotWmV2Z05ZVEhuUXZNREotVW9ha2hueWE4clpVUnV6VTE1bDVDRlRMM0NMbFV4aHRz?oc=5",
-            "source": "뉴스1",
-            "published": "11-22 06:50",
-            "snippet": "수출 1조 달러의 역설…최대 무역흑자에 美·인도·튀르키예 통상 압박 우려 뉴스1 Google 뉴스에서 헤드라인 및 의견 더보기"
-          },
-          {
-            "title": "반도체만 있는 게 아니다…‘수출 1조 달러’ 숨은 주역들 - JTBC",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ubkNReHZuejV6OWRnbDZnWWMwUG5EZWhEY3NjQWxGUzEySU45TGxuZGZ2WTJ3Q1lfaUptZGhxWlhtUk5iMXczMV9FazRVSmdBamE2Uw?oc=5",
-            "source": "JTBC",
-            "published": "11-22 19:43",
-            "snippet": "반도체만 있는 게 아니다…‘수출 1조 달러’ 숨은 주역들 JTBC K-샴푸, 수출 2억달러 돌파…10월 미국 수출 5배 급증 전자신문 [모닝 리포트] NH투자증권 \"내년 화장품 수출 178억달러…사상 최대 전망\" 뉴스핌 K뷰티 해외 진출, 인증부터 판로까지…'인디뷰티 서울' 웨비나 이데일리 물류업계, K뷰티 호황에 해외 공략 가속…새 성장동력 확보 경쟁 이투데이"
-          },
-          {
-            "title": "손정의, SK하이닉스 1조달러 인수 검토…월가에 자금 조달 타진 - AI타임스",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tX2UwbDVQMzVCS0p1T0RUTUppZFZhQ2w3ZjlxeDVMaWtrSHdUWUNNUnlCVjhXWk1zNml5ZE8xMkUxa3hkNmMtUnp2Vm53QXZETE1fMmM2RG1vY3JvT1lTbFNhdmh4QkVla2c?oc=5",
-            "source": "AI타임스",
-            "published": "11-22 05:59",
-            "snippet": "손정의, SK하이닉스 1조달러 인수 검토…월가에 자금 조달 타진 AI타임스"
-          },
-          {
-            "title": "강원 의료기기업체, 97억 원 독일 수출 계약 - KBS 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfTU5ERUhXd2dBVE9Cbm1CSmVzUVZrOG9Ja2FicWR6UUthSmw3Ymo1LURDZG5tMWpTSjZjdWpVYWNBdEIyVkNEa1hZMGxRMThrUjdzcktpZUFwT1hTREszdGo1a1Rqdw?oc=5",
-            "source": "KBS 뉴스",
-            "published": "11-22 22:10",
-            "snippet": "강원 의료기기업체, 97억 원 독일 수출 계약 KBS 뉴스 강원 의료기기 11개사, 독일서 726만달러 수출계약 성과 연합뉴스 강원도, 메디카 강원공동관 운영…수출계약 726만달러 성사 파이낸셜뉴스 강원 의료기기, 獨 MEDICA서 100억원 수출계약..상담은 300억원 ‘나흘간의 대박’ 헤럴드경제 메디아나·엣지케어 등 ‘K-의료기기’ 독일 집결 데일리메디"
-          },
-          {
-            "title": "[르포] 한돈 수출 올 들어 219% 증가...돼지 日 100여 마리 다듬는 제주도 가공장 - Chosunbiz",
-            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWVVhMkVqd3hhcW9oT04xbC1EMlp4MkNiby1naHlNNHNacHp6WmhlaTc4OTdqUC1SWFR2X2d3Nzk5WUVyMWdjbnlIQjJWWWlrUURRMDN2OXhiaEpRdzVlYm9FaFN6RnNzSTlzZzUzSTZZVUw4NHcwYVRaX0pfbXJCczduM3FSQdIBmgFBVV95cUxNdnNVTXBlRFJsQ21YTkg2S1QxMEh3cVZBQjBqSmNpWFNjUVNVNlJmVlA2QTJyZjBDbFY1WUctTVQwOVJDREdqS01SR3JWV0F6VnhpZ2U1eVpidmtBNkRheFhYVzRWQmhUR05oOGpJS2U0MEx2WmpSNXhzdmFldGJQWEZLWWNiN25TVmhCcnRabzFIaVZaLXFMQUl3?oc=5",
-            "source": "Chosunbiz",
-            "published": "11-22 17:32",
-            "snippet": "[르포] 한돈 수출 올 들어 219% 증가...돼지 日 100여 마리 다듬는 제주도 가공장 Chosunbiz 수출길 열린 제주 축산…시장 안착까지는 더 지켜봐야 KBS 뉴스 토종의 맛에 개량의 힘…국산 흑돼지 ‘난축맛돈’ 시장 확대 마켓인 제주산 한돈·한우 싱가포르 수출 1년…청정 제주 경쟁력 통했다 - 머니투데이 머니투데이 [르포] 로봇이 도축하고 베테랑이 발골…제주 축산물 세계 식탁으로 전자신문"
-          },
-          {
-            "title": "中 희토류·영구자석 수출 제한에 발목 잡힌 로봇업계 - Chosunbiz",
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSmlyNmdFWGdjbEY0M09jWEpzT0x3a3pZUFBaUG5Bc21Pbld6U2tpa0hSTDFYcHJoTkZ1cTBKbmMyVktMRktUeWpnVzQxVmJqeHJtMHB3QzBZUy1nb1FhcHVGM0g1ckw1Tk9rek1ndzEtV2prNE52bWktUndoRVRwZnBfT2XSAZgBQVVfeXFMTkZ3Zy1fU29USEtpYWdHamZjaHJUaGdDeW04ZTJCTDB5bDhabkN6WjJRZC1KZjNWUjUzWGNDd0M5Yll1OHhLZ0ZZZnRDTUlURjhJX2lfQkR6bmljUWlHLVkweEdoUUdVQXlmTl9RUnRXZGtzMHNuQTluZEtPQ19Ud2pUNWFWYlBDLThuNjY0dUphX2dnQ3UwRDA?oc=5",
-            "source": "Chosunbiz",
-            "published": "11-22 06:14",
-            "snippet": "中 희토류·영구자석 수출 제한에 발목 잡힌 로봇업계 Chosunbiz 中 99% 쥔 희토류 자석…포스코·LS, 광산부터 자석까지 '자립' 승부수 이데일리 [fn이사람] \"中에 쏠린 로봇 부품 생태계, 공급망 확대를\" 파이낸셜뉴스 [올댓차이나] 中, 10월 일본에 희토류 자석 214.6t 수출…2개월 만에 200t 회복 뉴시스 中 10월 희토류 자석 수출 7.6% 감소… 美·EU행 줄어든 반면 日은 25% 급증 글로벌이코노믹"
-          }
-        ]
-      },
-      "queries": {
-        "증안펀드 가동 준비": [],
-        "코스피 5000선 붕괴": [
-          "코스피 5000선",
-          "코스피 5000선 돌파"
-        ],
-        "수출 1조 달러 역설": [
-          "수출 1조달러 국가",
-          "수출 1조달러",
-          "수출 1조 달러 달성",
-          "수출 1조",
-          "수출 1조불",
-          "한국 수출 1조 달러",
-          "연간 수출 1조 달러",
-          "김 수출 1조"
-        ]
-      }
-    },
-    "global": {
-      "keywords": [
-        "나스닥 폭락 쇼크",
-        "앤트로픽 주가 급락",
-        "연준 긴축 우려"
-      ],
-      "results": {
-        "나스닥 폭락 쇼크": {
-          "headline": "나스닥 5%대 폭락과 AI 성공 서사에 대한 의구심",
-          "facts": [
-            "뉴욕증시에서 나스닥 지수가 5.28% 폭락하며 AI 기술주 중심의 투매 현상이 발생해 시장에 큰 충격을 주었다.",
-            "대장주인 엔비디아가 14% 급락하고 앤트로픽 등 주요 AI 기업들의 주가가 공모가 수준으로 떨어지며 'AI 성공 서사' 붕괴 우려가 확산되었다.",
-            "미 재무장관이 연준의 과잉 긴축에 따른 실수 가능성을 언급하며 증시 투매의 주요 원인 중 하나로 지목했다.",
-            "주말 사이 미국 증시의 패닉 투매 여파로 인해 한국 증시의 월요일 개장 시 블랙먼데이 재현에 대한 공포가 극에 달했다."
-          ],
-          "watch": [
-            "엔비디아 등 빅테크 기업의 추가 하락 여부",
-            "연준 위원들의 금리 정책 관련 발언",
-            "나스닥 지수의 기술적 지지선 회복 여부"
-          ],
-          "qna": [
-            {
-              "q": "엔비디아 14% 급락이 시장 전체에 주는 신호는 무엇인가?",
-              "a": "그동안 증시 상승을 견인했던 AI 산업의 수익성 실현 가능성에 대해 시장이 강한 의구심을 품기 시작했음을 의미한다. 고평가 논란 속에서 실적 기대치가 정점을 찍었다는 인식이 확산되며 대규모 차익 실현 매물이 쏟아진 결과이다."
-            },
-            {
-              "q": "미 재무장관이 언급한 '연준의 과잉 긴축 실수'는 증시에 어떤 영향을 미치는가?",
-              "a": "고금리 유지가 경기 침체를 유발할 수 있다는 공포를 자극하여 투자자들이 위험 자산인 주식을 빠르게 처분하게 만드는 기폭제가 된다. 정책 당국 간의 견해 차이가 노출되면서 시장의 불확실성이 더욱 증폭되었다."
-            },
-            {
-              "q": "나스닥 5%대 폭락이 한국 증시에 미치는 파급 경로는 어떻게 되는가?",
-              "a": "미국 기술주와 동조화 현상이 강한 국내 반도체 및 IT 대형주들의 동반 하락을 유도하여 지수 전체를 끌어내리는 경로로 작용한다. 특히 외국인 투자자들이 신흥국 시장에서 자금을 회수하는 과정에서 한국 증시의 매도 압력이 가중된다."
-            }
-          ]
-        },
-        "앤트로픽 주가 급락": {
-          "headline": "상장 이틀 만에 공모가 수준 급락한 앤트로픽 책임 공방",
-          "facts": [
-            "상장 이틀 차를 맞은 AI 기업 앤트로픽의 주가가 하루 만에 공모가 수준으로 급락하며 월가에 큰 파장을 일으켰다.",
-            "주가 급락의 원인을 두고 공모주 배분 방식의 문제인지, 아니면 직원들의 매도 허용 때문인지에 대한 월가의 책임 공방이 치열하다.",
-            "앤트로픽의 주가 널뛰기 현상으로 인해 실리콘밸리의 낙관론과 월가의 AI 수익성 우려가 정면으로 충돌하고 있다.",
-            "시장 공포를 나타내는 패닉 지수가 10점 만점에 9점을 기록할 정도로 앤트로픽발 변동성이 기술주 전반의 투자 심리를 위축시켰다."
-          ],
-          "watch": [
-            "앤트로픽의 추가 매도 물량 출회 여부",
-            "월가의 AI 기업 가치 재평가 움직임",
-            "기술주 전반의 패닉 지수 변화 추이"
-          ],
-          "qna": [
-            {
-              "q": "앤트로픽 주가 급락 원인 중 '직원 매도 허용'이 왜 문제로 지적되는가?",
-              "a": "상장 초기 보호예수 기간 없이 직원들의 물량이 시장에 쏟아질 경우 수급 불균형이 발생하여 주가를 급격히 끌어내릴 수 있기 때문이다. 이는 초기 투자자와 개인 투자자들에게 손실을 떠넘기는 구조라는 비판을 불러일으켰다."
-            },
-            {
-              "q": "패닉 지수 9점 기록은 현재 시장 상황을 어떻게 대변하는가?",
-              "a": "투자자들이 극도의 불안감을 느끼며 이성적인 판단보다는 투매에 동참하고 있는 금융위기급 공포 상태임을 나타낸다. 작은 악재에도 시장이 과민 반응하며 변동성이 극대화되는 구간에 진입했음을 의미한다."
-            },
-            {
-              "q": "앤트로픽의 주가 변동이 국내 원전주 등 다른 섹터에 미치는 영향은 무엇인가?",
-              "a": "AI 데이터센터 가동을 위한 에너지 수요 기대로 상승했던 원전주들이 AI 산업 회의론에 휩쓸려 동반 하락할 가능성이 커진다. AI 밸류체인 전반에 걸친 투자 심리 악화가 연관 산업으로 빠르게 전이되는 양상이다."
-            }
-          ]
-        },
-        "연준 긴축 우려": {
-          "headline": "연준의 추가 긴축 우려와 재무부의 정책 실수 경고",
-          "facts": [
-            "미 재무장관이 연준의 과잉 긴축이 경제적 실수를 유발할 수 있다고 경고하며 증시 투매의 배경으로 통화 정책을 지목했다.",
-            "트럼프 전 대통령과 베선트 등 정치권에서도 연준의 추가 긴축 움직임에 대해 잇따라 견제구를 던지며 압박을 가하고 있다.",
-            "금리 인상 우려가 확산되면서 암호화폐 시장의 상승세가 둔화되고 채권 시장에서도 긴축 장기화에 따른 변동성이 커졌다.",
-            "연준의 긴축 기조가 이어지는 가운데 대만은 공매도 제한을, 한국은 증안펀드 가동을 검토하는 등 각국이 증시 방어책 마련에 분주하다."
-          ],
-          "watch": [
-            "연준의 '침묵 기간' 진입 전 위원들의 발언",
-            "차기 금리 결정 회의 결과 및 점도표 변화",
-            "미 재무부와 연준 간의 정책 엇박자 지속 여부"
-          ],
-          "qna": [
-            {
-              "q": "재무장관이 연준의 긴축을 '실수 가능성'으로 언급한 배경은 무엇인가?",
-              "a": "물가 잡기에만 집중한 고금리 정책이 실물 경제를 과도하게 위축시켜 경착륙을 초래할 수 있다는 우려를 표명한 것이다. 이는 연준의 독립성과 별개로 행정부가 경기 침체 리스크를 심각하게 인지하고 있음을 시사한다."
-            },
-            {
-              "q": "연준의 긴축 우려가 암호화폐 시장에 즉각적인 영향을 미치는 메커니즘은 무엇인가?",
-              "a": "금리가 상승하면 유동성이 흡수되고 위험 자산에 대한 투자 매력이 감소하여 비트코인 등 암호화폐로의 자금 유입이 차단되기 때문이다. 특히 레버리지를 활용한 투자가 많은 암호화폐 시장은 금리 변화에 더욱 민감하게 반응한다."
-            },
-            {
-              "q": "연준 긴축을 증시가 대신 해준다는 분석은 어떤 의미인가?",
-              "a": "연준이 금리를 직접 올리지 않아도 주가 폭락으로 인해 자산 가치가 하락하고 소비가 줄어드는 효과가 발생하여 긴축과 유사한 결과가 나타난다는 뜻이다. 시장의 자발적인 위축이 연준의 추가 금리 인상 명분을 약화시킬 수 있다는 시각도 존재한다."
-            }
-          ]
-        }
-      },
-      "news": {
-        "나스닥 폭락 쇼크": [
-          {
-            "title": "\"호재도 안 통한다\" 나스닥 5%대 폭락 쇼크...엔비디아 14%↓[뉴욕마감] - 머니투데이 - 머니투데이",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tSEFWQ0pNTzVzSE1POG1LMUcybWlGR2VRcnJoYWVzajFVRnR3Umg3ZWp3Y25pMGsyMWdhUFotV2d2VDNnRXZJUzR0TXZCN1hiZVVUUUdDdldUUS1XbldJSTcxbGUtR0NV0gFuQVVfeXFMTUZqQmZFcjFIQ3ZuN253SEZoSXNhLThieDRwelpWOW5scXQ2aDhPNEhVZWdraUZadWZYaVVmX1R5RWpYNmtIRWlydW1PSmkzUG5SUllKUDY0OTNPVWExbXlmQ3RXT2Z6RkRGWU83OWc?oc=5",
-            "source": "머니투데이",
-            "published": "11-22 08:21",
-            "snippet": "\"호재도 안 통한다\" 나스닥 5%대 폭락 쇼크...엔비디아 14%↓[뉴욕마감] - 머니투데이 머니투데이"
+            "published": "11-22 07:00",
+            "snippet": "[뉴욕증시-주간전망] AI 투매에 흔들린 월가…PCE 물가 분수령 연합인포맥스"
           },
           {
             "title": "나스닥 폭락에 또 검은 월요일?…\"증시 공포 이미 금융위기 수준\" - 비즈워치",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OTXFkelpaTUs0b0lBeTgxNlZQejRyMl9WNGgtUHdlZ0VpV2c3N0NaT29yTnZQUlUydHF3ZHBtUFpYek5QT3pBY2h6c3NRU0hCVFBhOFlNZERzTmVSU1R6bm92RlREV0tsMVE?oc=5",
             "source": "비즈워치",
             "published": "11-22 12:07",
-            "snippet": "나스닥 폭락에 또 검은 월요일?…\"증시 공포 이미 금융위기 수준\" 비즈워치 주말 美증시도 ‘패닉 투매’... 韓 “월요일 개장이 두렵다” 조선일보 7주 만에 '3800조' 증발…'CEO 불륜' 쇼크에 섬뜩한 경고 [분석+] 한국경제 ‘투매 장세’에 무너진 뉴욕증시…월요일 코스피 덮칠 충격은 JTBC \"월요일이 무섭다\" 나스닥 급락에 국장 개미도 긴장…AI 수익성 우려 - 머니투데이 머니투데이"
+            "snippet": "나스닥 폭락에 또 검은 월요일?…\"증시 공포 이미 금융위기 수준\" 비즈워치 美 반도체 10% 급락…외인 15조 이탈에 국내증시 비상 한국경제 [태평로] 젠슨 황의 몰락이 던지는 질문 조선일보 ‘투매 장세’에 무너진 뉴욕증시…월요일 코스피 덮칠 충격은 JTBC 美 AI주 투매 쇼크…글로벌 시장 덮친 '블랙먼데이' 공포 마켓인"
           },
           {
-            "title": "나스닥 5.28% 폭락…앤트로픽도 하루 만에 공모가 수준 하락 - 한겨레",
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMXducFhxSHY2b1BuWkdjQllVSjI0LVRzQjFMMktxSDE2eE1BNFc2NUJUN3N4eU9qdi13RXhEbUlTVGM1WHNGVVhBWWNfZVYtczFMZGdqd25idm8zaHdNZ2tJMjlud3dtc2x6MGtNMmtzUWp5VG41NjRjNVlsVk1sY2Jn?oc=5",
+            "title": "[증시 AI충격파]DB증권 \"신용재평가 국면…사이클 훼손보다 차입점검 필요\" - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SbEVYX2ZUWnlBRURWTmt1Q01tcDcybDM3azRlMy1MQy1NNjB1blZIMHRyaUladl8xTDl2bjUtRzRRT1M3ME9mU2hxODNrM0hIRnV5RVhrNEwzekxOTXcxS1BhNHREdkNBSDFoaHVaeFk?oc=5",
+            "source": "연합인포맥스",
+            "published": "11-23 08:13",
+            "snippet": "[증시 AI충격파]DB증권 \"신용재평가 국면…사이클 훼손보다 차입점검 필요\" 연합인포맥스 AI 랠리 변곡점 왔나…월가 \"버블 터졌다\" vs \"반등 여지 충분\" 연합인포맥스 메모리 주식 급락, 지금 매수해야 할까? 씨티의 분석 Investing.com 한국어 \"닷컴버블 붕괴 직전과 닮았다\" 매일경제 AI 투자 열풍 꺾이면 S&P 500은 얼마나 타격받나? Investing.com 한국어"
+          }
+        ],
+        "엔비디아 수출통제 논란": [
+          {
+            "title": "미 재무 “엔비디아 수출통제 준수 여부가 핵심”…젠슨 황 복귀 가능성 배제 안 해 - KBS 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TNzlnZW9NdzY3UzVXdUZERURvR2Yxb1QxbWRGVkg5VnNoUkZFT1lEQ09SV0RfTV9DUVhpRGRIeEpvT2dwbVltVkVwdk5xY0F5WDU1dGU2YmRLeTQ?oc=5",
+            "source": "KBS 뉴스",
+            "published": "11-23 06:07",
+            "snippet": "미 재무 “엔비디아 수출통제 준수 여부가 핵심”…젠슨 황 복귀 가능성 배제 안 해 KBS 뉴스 美재무장관 \"엔비디아의 규정준수 여부는 젠슨황 개인사와 별개\" 연합뉴스 미 재무 \"엔비디아 규정 준수 여부, 스캔들과 별개\"...\"국제 밀수망 얽혀\" YTN [뉴스광장 헤드라인] KBS 뉴스 ‘1인 독주’ 젠슨 황 사태, 이사회가 멈췄다 조선일보"
+          },
+          {
+            "title": "中 국가안전부, 2년 전부터 AI 칩 확보 비밀작전…美 수출통제 우회 노려 - 서울경제",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1md3pveUhwaVNvRjN6U0VCdGZ4ZEpSZVR0cDg4T2pmQTJCUHpqbEpfT09tUTVvSWZrTFVqbDlSWXZkY2RoRmRPdkVrcklZeFFxc2fSAVNBVV95cUxPZ1U3Nlg5SF95NWtYdDZ3NjdiNWZJYlFZZmNuQTFrdDJqcjB3blQxTjV6TURaTUVLckZPeFpnV1UxaFRKX3lDeV9oRmF5N2lsaWM2dw?oc=5",
+            "source": "서울경제",
+            "published": "11-22 20:13",
+            "snippet": "中 국가안전부, 2년 전부터 AI 칩 확보 비밀작전…美 수출통제 우회 노려 서울경제 젠슨황發 美반도체 수출 규제에 삼성·TSCM도 부담 세계일보 [연합뉴스 이 시각 헤드라인] - 07:30 연합뉴스 WSJ “러트닉 미 상무, ‘엔비디아 사태 등 경질 위기’에도 건재” KBS 뉴스 \"中에 못 팔면 어쩌나\" 반도체주 폭락에도…깜짝 전망 나왔다 [노정동의 어쩌다 투자자] 한국경제"
+          },
+          {
+            "title": "엔비디아 칩 중국 우회 밀수망…\"젠슨 황 연인·캄보디아 범죄조직 얽혀\" - SBS 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBZ0xCRUYzeXV6R2VPVXkyMWhnRG1tS1VlVFhQR0wwU3JpOFF5NzZES281bFZncHpGdTRGZzdXUG5uNEU1YlhsYmV2Uk9zcFk4YW1YSXNFVVQwYk1DVnpSMW9CM0dmdkpfU1E?oc=5",
+            "source": "SBS 뉴스",
+            "published": "11-22 22:33",
+            "snippet": "엔비디아 칩 중국 우회 밀수망…\"젠슨 황 연인·캄보디아 범죄조직 얽혀\" SBS 뉴스 “엔비디아칩 중국 밀반입망, 앨리스 황과 캄보디아 범죄조직 인사로 이어져” 경향신문 앨리스 황 AI칩 밀반입에 캄보디아 범죄조직 연루 매일경제 엔비디아 사태, 회계 부정 의혹으로 번져…美 SEC, 조사 착수 동아일보 \"앨리스 황은 '얼굴노릇'만…엔비디아칩 中밀수 주도자는 50대 중국인\" 연합뉴스"
+          },
+          {
+            "title": "미 재무 \"엔비디아 규정 준수 여부, 스캔들과 별개\"...미중 무역전쟁 재점화 우려 - YTN",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JOS1KT04zTXRyOVVMSnhtandLRkFMSGJvT1lXUG9ObFNGMGZBc1podEJTVjBxX25HS00wbTVqb0p4dkRaR0RUY2t6eDN5UmNQOEVZRmU1WGZHTzZKSlE?oc=5",
+            "source": "YTN",
+            "published": "11-23 06:00",
+            "snippet": "미 재무 \"엔비디아 규정 준수 여부, 스캔들과 별개\"...미중 무역전쟁 재점화 우려 YTN"
+          },
+          {
+            "title": "엔비디아 사태, 미중 무역전쟁 '버튼' 누르나? [뉴스UP] - YTN",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaT2FZUklJUU5nNGV5Vm1XbzdGRThEbHhrRl92YUdpMy1HUnpNTnZnNm1LQVdBYVhuWW56SXVGZ0NVLTRhQXYzcUdIV3lNOVIyOERMeG5OR2NGeEZUbmc?oc=5",
+            "source": "YTN",
+            "published": "11-23 08:22",
+            "snippet": "엔비디아 사태, 미중 무역전쟁 '버튼' 누르나? [뉴스UP] YTN"
+          },
+          {
+            "title": "“앤트로픽 기대감 누른 엔비디아발 악재”…나스닥 올해 상승분 반납 - IT비즈뉴스",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyTllIam1meHktc19nU1RIalV3S19EX3VhamdwUjFVaFJOMGFxWnRwVDZ0NzFFT2FCRlRtc1pPemZBa0IxTlNQV21MdHl1TVZtbE5qeGhubmVUcjRzM2RWZzlnTWpadXJsbFRscA?oc=5",
+            "source": "IT비즈뉴스",
+            "published": "11-23 07:00",
+            "snippet": "“앤트로픽 기대감 누른 엔비디아발 악재”…나스닥 올해 상승분 반납 IT비즈뉴스"
+          }
+        ],
+        "주택 자산 양극화": [
+          {
+            "title": "유주택자 주택자산 양극화, 52배 차이 - 비즈워치",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ad25hU2praFhoSFIwN1pvMXM0U3V4TVU3dy10OU9lTWVtWmN6a1ZCNTFLdVhpdzhncEJ2cktWUkdadUFHVUI3bkg4ZkxHMWxlTDlzLXd0cFM5X054aW1ER2NEZXNRaXk4Ql9fYWhJakY?oc=5",
+            "source": "비즈워치",
+            "published": "11-22 16:00",
+            "snippet": "유주택자 주택자산 양극화, 52배 차이 비즈워치 집값 급등에…`시세 17억` 주택보유 30대 1년새 70% 급증 국제신문 '집값 17억' 넘는 30대만 1만8000명 … 세금 폭탄에 증여 급증 탓 뉴데일리 경제 부동산의 가치, 세금의 기준 마켓인 “아래층 이사 온 집도 ‘부모찬스’ 쓴 거래”…17억 이상 주택 가진 30대 급증 매일경제 마켓"
+          },
+          {
+            "title": "[단독] 공급 늘리려 만든 서울 주택진흥기금, 내년 절반은 전월세 보증금에 - Chosunbiz",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUFk2aXFBYmFpdjYzTVhLMWkxMXJTRFRoMDNESzhKQmVVWjlxUncxbWt3dG9Fak4wUndNV1FWeGNHV3RpaDNYOU9mclV5TXpDQ05yY1hENUtMcVJ1dHoyNUZ3akZzT3hadzdsRlJ3d2NjR1JNTmhxVVJoRlhMOGlJYk16NDdaSmxDNmU4YlY4bjQ0Y1JrZHU4aNIBrAFBVV95cUxNQi14cjNvV2lpX2Y0X2lhdXRVOVUyc2wwSmVTR1ExM0o5a094VktYYlJ0d19XTlZsRFFhUUxRTGdwSUJ5bGZYSElkeUlMRFZxQ2NiR1luVkdpWk13aUtEVHBGS0NGOHdzdl81b2lwRy1aajUzRmtSNDI5c3N4VU90ZFpfbmpDOHp0alNfdldqeTRSTDdLa1lzTkxzcGFUOEF4UnZza3hYNDNhTEVn?oc=5",
+            "source": "Chosunbiz",
+            "published": "11-23 06:00",
+            "snippet": "[단독] 공급 늘리려 만든 서울 주택진흥기금, 내년 절반은 전월세 보증금에 Chosunbiz"
+          },
+          {
+            "title": "“내 집에 혼자 삽니다, 돈은 없습니다”…1인가구 주택 소유 비중 ‘역대 최대’ - 매일경제",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yX0FWcHpjRU82MHAzWUw2RVQ4NWxzVEdtSlVRMF9RbGwwR2ZpMTlmSlQwVkQwUU5wWjdUa3A4LURYR1FDQmxVY2xYR29jeEZieTRObklqU3o?oc=5",
+            "source": "매일경제",
+            "published": "11-22 10:02",
+            "snippet": "“내 집에 혼자 삽니다, 돈은 없습니다”…1인가구 주택 소유 비중 ‘역대 최대’ 매일경제 “어머니도 누나도 저도 혼자삽니다”…집주인 5명 중 1명은 1인가구 매일경제 마켓 사별하고 자녀 독립하고…주택 소유 가구 20.9%가 ‘나홀로 가구’ 동아일보 1인가구 주택소유율 역대 최고…주택 보유 55%는 1·2인 가구 뉴시스 부산 주택 소유가구 22%는 1인 가구 부산일보"
+          },
+          {
+            "title": "디지털자산 시장 전면 규율…기본법 정부안 이번 주 공개 - 연합뉴스TV",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xOXhmT1pSbUtHMnlmM0JSd2NodTk4RVlXYWNfOFM1X2lBSFFDeVBCVVI3X0FQaFFHMDcxMnlad2dEOVB6cW1MY21wOGRhd0R2M0N5YjIxLXlsZGtOTHAzeVdPRmpCVzA?oc=5",
+            "source": "연합뉴스TV",
+            "published": "11-22 10:16",
+            "snippet": "디지털자산 시장 전면 규율…기본법 정부안 이번 주 공개 연합뉴스TV 외국인 국내 결제·해외자금 조달… 쓰임새 확보가 '최우선'[원화 스테이블코인 '골든타임'] 파이낸셜뉴스 코인기본법 정부안 이번주에…'대주주 지분 제한' 진통은 불가피 - 머니투데이 머니투데이 가상자산 시장 재편 서막 열린다…“디지털자산기본법 정부안 이번주 공개” 헤럴드경제 디지털자산법 정부안 공개…코인시장 격변 예고 한국경제"
+          },
+          {
+            "title": "연준 정책 불확실성과 펀드 인출로 디지털 자산 유동성이 줄면서 지캐시 하락 - Traders Union",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVm1BeC12M0lGUHZIX1pKZVBhSWJsVHFZU0planpHTm9ySVQ2S2tlR2pheU1MdnQ4T3ZBcThjSmZIaEczalJkeUtYSWdYLXZlNVBxSXdobGY1N0VrOTNISmJ2WEFsWkc1N3NpTjZaSzd5a2xFZklxTHZzdC1fTmNKYmdLNnVFYVpZaHFxSXNjSUl1cE1yYmUwSGp4LTA?oc=5",
+            "source": "Traders Union",
+            "published": "11-23 05:34",
+            "snippet": "연준 정책 불확실성과 펀드 인출로 디지털 자산 유동성이 줄면서 지캐시 하락 Traders Union"
+          },
+          {
+            "title": "30대 '고가 집주인' 70% 늘었다…증여도 쑥 - 자본시장뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15VG9mQXhfdzFKa2pSUmx4QXJVakF5MUFhTUVrR2xNWUlEb2VlQ180M2lsazMtUXRCTk1WQ1drbDl0TVF3RU9WdDFHMTFOMzZ3aFp4R1hUcF9jQ00yNDNPQ3Uyek9VdzQ?oc=5",
+            "source": "자본시장뉴스",
+            "published": "11-22 15:52",
+            "snippet": "30대 '고가 집주인' 70% 늘었다…증여도 쑥 자본시장뉴스"
+          }
+        ]
+      },
+      "queries": {
+        "AI 투매 증시 공포": [],
+        "엔비디아 수출통제 논란": [],
+        "주택 자산 양극화": [
+          "주택 자산 가액",
+          "주택 자산 공사",
+          "주택 자산",
+          "국민임대 주택 자산기준",
+          "국민 임대 주택 자산",
+          "행복 주택 자산 기준",
+          "행복 주택 자산 초과",
+          "행복 주택 자산"
+        ]
+      }
+    },
+    "global": {
+      "keywords": [
+        "나스닥 기술주 폭락",
+        "연준 과잉긴축 경고",
+        "S&P500 전망 하향"
+      ],
+      "results": {
+        "나스닥 기술주 폭락": {
+          "headline": "나스닥 일주일 새 5천조 증발…기술주 패닉 투매",
+          "facts": [
+            "기술주 패닉 셀 여파로 나스닥 지수가 5% 급락하며 올해 주가 상승분을 모두 반납했다.",
+            "일주일 사이에 나스닥 시가총액에서 5천조 원(약 2조 3천억 달러) 이상이 증발하는 폭락세가 연출됐다.",
+            "빅테크 기업들의 AI 투자 수익성에 대한 회의론이 확산되자 중국 당국은 시장 충격을 완화하려 유동성 확대에 나섰다.",
+            "기술주 폭락 속에서 한국 등 주요국 시장은 금리 및 환율 변동성 확대 우려로 개장을 앞두고 극심한 공포를 겪었다."
+          ],
+          "watch": [
+            "중국 당국의 유동성 공급 효과 및 증시 반응",
+            "주요 빅테크 기업들의 추가 주가 지지선 형성 여부",
+            "한국 등 아시아 증시 개장 후 외국인 매도 규모"
+          ],
+          "qna": [
+            {
+              "q": "나스닥 시가총액이 단기간에 5천조 원 넘게 증발한 결정적 메커니즘은 무엇인가?",
+              "a": "AI 설비투자에 대한 과도한 비관론과 레버리지 투자 상품의 강제 청산이 동시다발적으로 일어났기 때문이다. 고평가되어 있던 빅테크 주식에 손절매 물량이 집중되며 폭락을 부추겼다."
+            },
+            {
+              "q": "미국 기술주 폭락이 중국 등 신흥국 시장으로 파급된 경로와 당국의 대응은 어떠한가?",
+              "a": "글로벌 위험자산 선호 심리가 냉각되면서 신흥국 증시에서 자금이 이탈했다. 중국 당국은 시중 유동성을 늘려 증시 충격이 자국 금융시장의 경색으로 이어지는 것을 차단하고자 했다."
+            },
+            {
+              "q": "폭락한 나스닥 기술주가 진정세를 찾기 위한 최소한의 조건은 무엇인가?",
+              "a": "빅테크 기업들의 AI 관련 실질 매출 증가 확인과 금리 부담 완화이다. 투자 대비 성과가 숫자로 입증되고 국채 금리가 안정되어야 저가 매수세가 들어올 수 있다."
+            }
+          ]
+        },
+        "연준 과잉긴축 경고": {
+          "headline": "미 재무 연준 과잉긴축 경고…증시 투매 원인 지목",
+          "facts": [
+            "미국 재무장관이 연방준비제도(Fed)의 과도한 통화 긴축 정책이 이미 금융 여건을 조이고 미국 경제를 위협하고 있다고 경고했다.",
+            "재무장관은 최근 발생한 글로벌 증시의 투매 사태를 연준의 경조직적인 과잉 긴축 정책에 따른 결과로 직접 지목했다.",
+            "월가 전문가들은 연준이 여전히 매파적 입장을 취하고 있어 현재 시점에서 주식 저가 매수에 나서는 것은 위험하다고 진단했다.",
+            "시장에서는 통화정책 발언 금지 기간을 앞두고 증시 폭락 자체가 연준의 긴축 역할을 대신하고 있다는 시각이 나왔다."
+          ],
+          "watch": [
+            "연준 위원들의 블랙아웃(발언 금지) 기간 진입",
+            "미국 재무부와 연준 간 정책 갈등 표출 여부",
+            "다음 FOMC 기준금리 결정 향방"
+          ],
+          "qna": [
+            {
+              "q": "미 재무장관이 연준의 긴축 정책을 증시 폭락의 주범으로 꼬집은 근거는 무엇인가?",
+              "a": "고금리 기조가 장기화되면서 기업의 자금 조달 비용이 극도로 상승했기 때문이다. 높아진 금융 비용이 기업 실적 전망을 갉아먹고 증시 내 유동성을 소진시켰다고 판단한 것이다."
+            },
+            {
+              "q": "연준의 매파적 태도가 지속될 때 월가 자산운용사들의 포트폴리오 전략은 어떻게 바뀌는가?",
+              "a": "위험 자산인 기술주와 성장주 비중을 줄이고 안전 자산인 단기 채권이나 현금 비중을 확대한다. 이에 따라 저가 매수세 진입이 지연되고 주가 하방 압력이 장기화된다."
+            },
+            {
+              "q": "'증시 폭락이 연준의 긴축을 대신한다'는 시장 진단의 의미는 무엇인가?",
+              "a": "주가 급락으로 가계 자산 효과가 감소하고 자금 조달이 어려워지면서 연준이 금리를 올리지 않아도 경제 활동이 둔화하는 효과가 나타난다는 뜻이다. 이로 인해 연준이 추가 인상을 멈출 수 있는 명분이 형성될 수 있다."
+            }
+          ]
+        },
+        "S&P500 전망 하향": {
+          "headline": "월가 야데니 S&P500 목표 하향…매도 물량 경고",
+          "facts": [
+            "월가의 대표적 증시 강세론자 에드 야데니가 연말 S&P500 지수 전망치를 기존 7,900에서 7,500선으로 낮췄다.",
+            "야데니는 전망치를 하향 조정을 하면서도 증시가 약세장(bear market)으로 완전히 전환될 가능성은 낮다고 보았다.",
+            "골드만삭스는 투자 심리 악화로 기관과 추세 추종 펀드에서 최대 806억 달러 규모의 매도 물량이 쏟아질 수 있다고 경고했다.",
+            "월가 주요 기관들의 목표가 하향과 매도 경고가 겹치며 연말 증시 랠리에 대한 기대감이 크게 축소됐다."
+          ],
+          "watch": [
+            "골드만삭스 추산 806억 달러 매도 물량 출회 여부",
+            "S&P500 지수의 7,500선 지지 여부",
+            "월가 주요 IB들의 추가 목표주가 하향 동향"
+          ],
+          "qna": [
+            {
+              "q": "강세론자인 야데니마저 S&P500 연말 목표치를 낮춘 핵심 이유가 무엇인가?",
+              "a": "AI 기술주에 집중된 과열 부담과 연준 긴축 장기화에 따른 상방 제약 때문이다. 지수의 추가 상승 동력이 약화됨에 따라 연말 목표치를 현실적인 수준인 7,500선으로 조정한 것이다."
+            },
+            {
+              "q": "골드만삭스가 경고한 806억 달러 규모 매도 물량은 증시에 어떤 충격을 주는가?",
+              "a": "알고리즘 및 체계적 펀드(CTA)의 기계적 매도를 유발하여 지수의 하락 폭을 가파르게 만든다. 이는 호가 갭을 벌려 약세장에서 주가 변동성을 극대화하는 파급 효과를 낳는다."
+            },
+            {
+              "q": "목표치 하향 조정에도 불구하고 약세장 진입 가능성을 낮게 보는 분기점은 무엇인가?",
+              "a": "미국 경제의 실질적인 경기 후퇴(Recession) 여부이다. 기업들의 이익 체력이 유지되고 고용 붕괴가 없다면 현재의 하락은 거품 제거 과정인 건강한 조정에 그칠 수 있다."
+            }
+          ]
+        }
+      },
+      "news": {
+        "나스닥 기술주 폭락": [
+          {
+            "title": "나스닥 폭락에 또 검은 월요일?…\"증시 공포 이미 금융위기 수준\" - 비즈워치",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OTXFkelpaTUs0b0lBeTgxNlZQejRyMl9WNGgtUHdlZ0VpV2c3N0NaT29yTnZQUlUydHF3ZHBtUFpYek5QT3pBY2h6c3NRU0hCVFBhOFlNZERzTmVSU1R6bm92RlREV0tsMVE?oc=5",
+            "source": "비즈워치",
+            "published": "11-22 12:07",
+            "snippet": "나스닥 폭락에 또 검은 월요일?…\"증시 공포 이미 금융위기 수준\" 비즈워치 美 반도체 10% 급락…외인 15조 이탈에 국내증시 비상 한국경제 [태평로] 젠슨 황의 몰락이 던지는 질문 조선일보 ‘투매 장세’에 무너진 뉴욕증시…월요일 코스피 덮칠 충격은 JTBC 美 AI주 투매 쇼크…글로벌 시장 덮친 '블랙먼데이' 공포 마켓인"
+          },
+          {
+            "title": "[개장] 뉴욕증시, 기술주 투매에 나스닥 5%↓..올해 상승분 반납 - 알파경제",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XTjFDQjdnZm5yY3FIYURMU0NIOFZaWmpzb1dtTVVLem1OeFRmNWRBVDVBdno0VUVxeW05bHN5TnUtMkNpREdWNTE1R1p2aDBmd0F3LVJvbXBIVks5VjhCOTJrVU9Ra2dYT05NTGlR?oc=5",
+            "source": "알파경제",
+            "published": "11-23 07:41",
+            "snippet": "[개장] 뉴욕증시, 기술주 투매에 나스닥 5%↓..올해 상승분 반납 알파경제"
+          },
+          {
+            "title": "“금리 올리면 주가도 집값도 폭락?”…‘슈퍼 목요일’ 주목 [잇슈 머니] - KBS 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BQVpBN1Q4WlBOVHRGUzA2ems5VHBDRzA5RjJXcy1BQ1VVaVY1QkE4dzQ5VjdYSW9YdmNvRXVHR2FqRWNZTVlLNmZIOHRQU3B4VG1haXdjNHBYQW1qMGdlRy04YWJhZw?oc=5",
+            "source": "KBS 뉴스",
+            "published": "11-23 06:50",
+            "snippet": "“금리 올리면 주가도 집값도 폭락?”…‘슈퍼 목요일’ 주목 [잇슈 머니] KBS 뉴스 한경 이코노미스트 전원 \"이달 금리 0.25%P 인상\" 한국경제 [채권-주간] 기술주 투매가 밀어붙인 강세…금통위가 브레이크 걸까 연합인포맥스 한은, 올해 성장률 3%대 후반으로 올리나…내년도 상향 여지 마켓인 물가·성장 모두 ↑…시장은 힘겨워도 \"한은 금리는 올라간다\" 조선일보"
+          },
+          {
+            "title": "\"기술주 2천300조 증발\"에 중국 당국 유동성 확대 나서 - MBC 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhclpIaWthTEVWa2JWRkkxOXhTb01pbXFlZ1NaSkd2ekhUYVc0R29kY3lnQ2hjTzhNYnRLS3NHYmFXdm1iQzZyM2FyMWkwNUdZTnRzVlAyUkFoNVhNQ0lSRmRVanJzQUVCc1BlOGs0N2UwVkxu0gF0QVVfeXFMTjdhTExYaUIzQzN0ZHd3YklkWHE4WGk2VnFhbmc4cm84WmViTGtXem00VURsUGpCb29LTU9SV01yQm56Ti1pQ2JBMWFSMkt5RGxKSV93d1drdVdNa2I3Z3FQZ05TbGUyWWVJdi14cU1ZM01nNFI?oc=5",
+            "source": "MBC 뉴스",
+            "published": "11-22 22:41",
+            "snippet": "\"기술주 2천300조 증발\"에 중국 당국 유동성 확대 나서 MBC 뉴스 ‘AI 열풍’ 식자 中 기술주서 2289조원 증발…中당국이 꺼낸 유동성 카드 규모가? 매일경제 AI주 폭락에 亞증시 방어 총력…中 81조원 매수 여력 확대 뉴스1 中 기술주 시총 2300조원 증발…6월 말 이후 창업판 49%↓ 마켓인 中, 10개월 만에 신용거래 증거금 인하…기술주 시총 2289조원 증발 뉴시스"
+          },
+          {
+            "title": "나스닥 시총 일주일 새 5천조 ‘증발’…“AI 투자 회의론 점점 커져” - 한겨레",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWUwyQWlOMlhMWE5YUUZVX0tqMHRnc2lPNnFUajZ6OWdzWXI3Q296c3dVQlRaRmtfbjcxVzlrc3p1MFM4TnMzM19lY2tLaUdLbWhGa1F2SFFSTElyVURlbDZDR1M5Z2M0UkxyVTJNbDhicjJOODAwZjlwT3h0YTBZc0Nn?oc=5",
             "source": "한겨레",
-            "published": "11-22 08:44",
-            "snippet": "나스닥 5.28% 폭락…앤트로픽도 하루 만에 공모가 수준 하락 한겨레"
-          },
-          {
-            "title": "11월 4주차 나스닥 폭락에 따른 투자 전략 - 네이버 프리미엄콘텐츠",
-            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS3Bpamo4c1VWYl9ISFd5VmItYWlIdno3UnM5UzNIcHZzbmtnQ19GeGxhMFNxTVFySDRqeVpCOTdCcC12V3k5RlR2ZHBUSWlDaWNPay1nVGx5M3pNRjNsanM5SWF2UHFQUUdZNGMtN3VNSE5jX3RtSkl0N3ZNMFBHQ0JrUl9XTjBKbkotbU1qZzg0NGVkZHR3?oc=5",
-            "source": "네이버 프리미엄콘텐츠",
-            "published": "11-22 11:12",
-            "snippet": "11월 4주차 나스닥 폭락에 따른 투자 전략 네이버 프리미엄콘텐츠"
-          },
-          {
-            "title": "나스닥 5.3% 폭락…'AI 성공 서사' 붕괴하나 - 세상을 바꾸는 시민언론 민들레",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QZWgzRDNkU01jdGVib2pFRUhzcERERk10SUJoQjhPTXV4NllxR0pKb1pzTnA3a0tLTkdzLW1yWjBiWVluWXJDeDRIbWZOakpiWU95YlBNVWhiV2RMalVSNVJmdWhsc0VOaFc4MA?oc=5",
-            "source": "세상을 바꾸는 시민언론 민들레",
-            "published": "11-22 08:00",
-            "snippet": "나스닥 5.3% 폭락…'AI 성공 서사' 붕괴하나 세상을 바꾸는 시민언론 민들레"
+            "published": "11-22 20:13",
+            "snippet": "나스닥 시총 일주일 새 5천조 ‘증발’…“AI 투자 회의론 점점 커져” 한겨레 \"무엇을 사겠느냐\" 아무도 답 없었다…'블랙 크리스마스' 공포 덮친 월가 한국경제 골드만삭스 패닉지수 최고치 근접…다음주도 매도세 지속 경고 연합뉴스 나스닥 5.3% ↓… '검은 월요일' 공포, 고개 드는 'AI 회의론' - 머니투데이 머니투데이 엇갈린 증시 전망…공포냐 반등이냐 갈림길 파이낸셜뉴스"
           },
           {
             "title": "주말 美증시도 ‘패닉 투매’... 韓 “월요일 개장이 두렵다” - 조선일보",
@@ -384,57 +381,27 @@
             "snippet": "주말 美증시도 ‘패닉 투매’... 韓 “월요일 개장이 두렵다” 조선일보"
           }
         ],
-        "앤트로픽 주가 급락": [
+        "연준 과잉긴축 경고": [
           {
-            "title": "앤트로픽 주가 급락 이유 놓고 월가에서 공방 치열 - YTN",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BbWJ6V3RnY1BKb3NZeHo3MXczSUwweUdfeld1WUozZ2x2Wk5yMTd2MXI4ZjJsSnVGVFpOa3dpU3NucVJlSjZ4UmF3N2FSZnlDWXQ3Q1g2Ul9TcjB6ZXc?oc=5",
-            "source": "YTN",
-            "published": "11-22 09:14",
-            "snippet": "앤트로픽 주가 급락 이유 놓고 월가에서 공방 치열 YTN"
+            "title": "베선트, 연준에 과잉긴축 경고…\"금융여건 상당히 조여져\" - 마켓인",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKRmpRelNvRW9YOEg0dV92VU9yUERFRDB4WWtxM0dwY0h3aUV6Z05fNUxKNm1kMWVjdjJZMGo1U2ljNGJMMWxhTUU3T0VfRDZCWk1rRmtuVFBLYmc2a3pFNHhtbk42dWd4OGJOT0tZbGpMcWs?oc=5",
+            "source": "마켓인",
+            "published": "11-23 07:51",
+            "snippet": "베선트, 연준에 과잉긴축 경고…\"금융여건 상당히 조여져\" 마켓인"
           },
-          {
-            "title": "앤트로픽 급락에 월가 '책임 공방'...패닉지수 10점 만점에 9점 - YTN",
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84bUUtVUFXeHJCem5tRENiQ3VXazNlTlM5Ymk5ZjJXVldxZmUxaTVFeVpyVEdtVTc4XzF6WFY3X1U3NWg2QldHcnhxXzhSakJiamVyTExMa1oydVlGT054ZW8xdF9fQW9YM0UwS0pZdw?oc=5",
-            "source": "YTN",
-            "published": "11-22 10:05",
-            "snippet": "앤트로픽 급락에 월가 '책임 공방'...패닉지수 10점 만점에 9점 YTN"
-          },
-          {
-            "title": "공모 배분 탓? 직원 매도허용 때문?…앤트로픽 급락에 월가 공방 - 연합뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ycFFxNGwwSDhCTWlXM0VCWkttRF9SYkpaMTcyN1RsT2Z4V2hFaEwxcmE2SW5KY0E0STFTc2FXRWotNVdDajItQjVFUXdwazlLNGh5dGRLTW8xQTTSAWBBVV95cUxOd0FBOFZSbHEtQ0VYdm1PNktNTjNRc2hzVVdKTHBCSFQyMlpPeEFQaUZQMjRNeDVIVS1qWU1HRDdJSDUyVzdiUU56SlpWSGRKVkNBNms2Y1NScWZHdGpxN1Y?oc=5",
-            "source": "연합뉴스",
-            "published": "11-22 07:52",
-            "snippet": "공모 배분 탓? 직원 매도허용 때문?…앤트로픽 급락에 월가 공방 연합뉴스"
-          },
-          {
-            "title": "앤트로픽 주가 널뛰기에 월가 AI수익성 우려·실리콘밸리 낙관론 교차 - 자유일보",
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjWGNuWDZYNzN2c05BbWUxX2dBUFBhb2NWNDI1NVgyZlRFM2VkVnpxbkwtN3MyMGZwdnVkci12Ul9QVUlDM3NsTWZvcEFqNXpCcGhNbjhHRHFCbHRzV0xCYkVjMTdEQ2ZJN0gw0gFvQVVfeXFMUEpycWtucjN1aWFFMzN0NXpidWlRcGQwMUE3b2FBZ2VQV1ZvT2ttZ0xCclRLOXUyZXFqVXdWejRYcWFYV0xYSmg4bWcwRWMwc1NhLWxjWlVUWHRmYW5LZmVibzZLT1pLSG9KVk5KODJB?oc=5",
-            "source": "자유일보",
-            "published": "11-22 17:00",
-            "snippet": "앤트로픽 주가 널뛰기에 월가 AI수익성 우려·실리콘밸리 낙관론 교차 자유일보"
-          },
-          {
-            "title": "상장 이틀 차 앤트로픽 급락에…‘공모 배분 탓’, ‘직원 매도허용 때문’ 월가 공방 - Chosunbiz",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT0t4eS1TOGVjaUtqMDdZNXBOb1dVSE5lM3NqOWV4eHNQQU0zSmNaME5Cd25rQnZxM2RqcWpGSlNxWk9iNjc0QXAwT1R3XzVsZFdNWTNXRS0wS2RVazBLRjZuaVpDcG91QVdBNU5yYTZDSGFvZEpKeE9ZTlhqaXIxbnBfT3ZIaC100gGcAUFVX3lxTE5SV0ZVNmhfaWZtR2VIMmNkbmZPMUhiNk1mVUtTc3pQWGdMM21hMnZHRlNsQXlTd00zTnhwTlpPcUcwNGs1ZGpsZGlXMVNCQzdTOWRfY2pzX0ZjTUNNaGZMTm1HeXpsZHZuSU1jMDFoTFpYZjFVbjl3eXY2ZUFDVFNGVmJYTHI4azFONTd5Y1h3aFFBTFFFN1dhVi00dA?oc=5",
-            "source": "Chosunbiz",
-            "published": "11-22 15:40",
-            "snippet": "상장 이틀 차 앤트로픽 급락에…‘공모 배분 탓’, ‘직원 매도허용 때문’ 월가 공방 Chosunbiz"
-          },
-          {
-            "title": "두산에너빌리티 주가 새주 향방은…미국 원전주·나스닥 급락 '변수'되나? - CBC뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4Qjhma1lPVlNxOHc0bmhCNTNaQlJWbWJFN2s4dW9VLUI3dkVtdHBrZG40OWtiOUdHRnB5dHlEYU9PR0dibHpEMVZlN2x3UzFVNm9URDdZNGlZbVZpbjBibllVb0dIOVRS?oc=5",
-            "source": "CBC뉴스",
-            "published": "11-23 00:10",
-            "snippet": "두산에너빌리티 주가 새주 향방은…미국 원전주·나스닥 급락 '변수'되나? CBC뉴스"
-          }
-        ],
-        "연준 긴축 우려": [
           {
             "title": "美재무 \"연준 과잉 긴축 시 실수 가능성\"…증시 투매 이유로 지목 - 연합인포맥스",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YaF9OVUJDeWlwSWRHNWR4YnlIUzdQNkVKQ3daazJsUVNCSFhNZ2VHMDcwclVuRWVNV0VPVzhJRGcwRUZUUEJNNHFfT2VFWGVxMDJ2b2VibXYwcGRUZUl3OXNqeDNUbzd2NWZtSDdWbFU?oc=5",
             "source": "연합인포맥스",
             "published": "11-23 03:41",
-            "snippet": "美재무 \"연준 과잉 긴축 시 실수 가능성\"…증시 투매 이유로 지목 연합인포맥스"
+            "snippet": "美재무 \"연준 과잉 긴축 시 실수 가능성\"…증시 투매 이유로 지목 연합인포맥스 베선트, 연준에 과잉긴축 경고…\"금융여건 상당히 조여져\" 마켓인 증시 폭락 이유가 연준?…美재무 연준 긴축 과도시 실수 우려 SBS Biz 베센트 \"연준 '빅스텝' 안 해야...월러는 오락가락\" YTN 트럼프·베선트, 美 연준 추가 긴축에 잇단 견제 글로벌이코노믹"
+          },
+          {
+            "title": "[GAM] 월가 \"저가매수 이르다...왜? 연준이 아직 매파니까\" - 뉴스핌",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYaTd5eFl6M1BRaGtteU85YUFWRW5Sa21zdDhnRGZkUHRuRW5zNGNBbVFZSC1lZEdSb0U2c05ranktaEdFMy01SUZOVklBcnJVVUpDTUlqQUJEeDIx?oc=5",
+            "source": "뉴스핌",
+            "published": "11-23 08:20",
+            "snippet": "[GAM] 월가 \"저가매수 이르다...왜? 연준이 아직 매파니까\" 뉴스핌"
           },
           {
             "title": "[뉴욕채권-주간] 연준 긴축 증시가 대신 해주나…다가오는 '침묵 기간' - 연합인포맥스",
@@ -444,413 +411,435 @@
             "snippet": "[뉴욕채권-주간] 연준 긴축 증시가 대신 해주나…다가오는 '침묵 기간' 연합인포맥스"
           },
           {
-            "title": "트럼프·베선트, 美 연준 추가 긴축에 잇단 견제 - 글로벌이코노믹",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSjNXY1EtU2tuWWpRN3VydTMzUERnWDZPNUlKQWVwZnpRV1EtZ2FFaDJoVjhQQVMxSnpuMi0zV1ZVWU13czFtbmcxeDdXSDhoNTk5a1FqV2hrX2dhMzBkVTllMlFEaWZqbjkxLURyOVlYQ1hkWXVieF9ES0V1a1pDQTY0Z2FzM3lI?oc=5",
-            "source": "글로벌이코노믹",
-            "published": "11-22 03:00",
-            "snippet": "트럼프·베선트, 美 연준 추가 긴축에 잇단 견제 글로벌이코노믹"
+            "title": "美 재무장관 \"연준 과도한 긴축, 경제 위협할 수 있어\" - 블루밍비트",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0dzN0dEtfOW1nek9KZUJQQ2RKRG1fS1I5NGpyM3lZbGdNSk1GQlcyc0JmNWFsNmtCLVlmZFo3bHAtYkZXRHhmbGJrZ0hVT1dW?oc=5",
+            "source": "블루밍비트",
+            "published": "11-23 06:50",
+            "snippet": "美 재무장관 \"연준 과도한 긴축, 경제 위협할 수 있어\" 블루밍비트"
           },
           {
-            "title": "암호화폐 5%만 상승…연준 금리인상 우려 - BeInCrypto",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ib204VWhjbDV2bmpFZ01CV2JOR0FuUFp5MDNvM3FQQjdFX3lWVmVQamtIWm9pNHU2QS01U3c0VkRvOVlkMkxlWldyTllfbl90NGlMV1htOWtKNHZPLUh1QkFFUHliY0E4THdQc3RQN1pKZmhQOFRSRko1U1UyQ1k?oc=5",
-            "source": "BeInCrypto",
-            "published": "11-22 20:34",
-            "snippet": "암호화폐 5%만 상승…연준 금리인상 우려 BeInCrypto"
+            "title": "미 재무장관, 연준 과잉 긴축 경고 - 데일리바이트(DAILY BYTE)",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU3N5U1U4TlVRTTNWUUZMWkgxaDNOMUdxZ204bUZJMFNqRDRMN3pmem9CaDJXQ1djZWRQTkhVbVJHUGItaTg5QmZfcFhkMnYxM0dPaDh3Ny11N3dQTHJlQ2VsTzRaeVBrWDF5bmdrYmxxTk40b3Y3U09Ga3VnN2wwWlM0WlFubzgxcm1CZlFhbF9jOVhqc1pUNg?oc=5",
+            "source": "데일리바이트(DAILY BYTE)",
+            "published": "11-23 01:08",
+            "snippet": "미 재무장관, 연준 과잉 긴축 경고 데일리바이트(DAILY BYTE)"
+          }
+        ],
+        "S&P500 전망 하향": [
+          {
+            "title": "'월가 거물' 야데니, 연말 S&P500 전망 7,900→7,500 하향 - YTN",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3QXJzTjNyUFhQX1U5cXpGTWZBUG1hQk1Ic18tbFg4M0d3UEtNTWRRUDlweFMwNWVZM0dxRUloaUlOUGlZRm1QSzc1cTNhQUNYckEzdnlzd0Vkb1NBWGc?oc=5",
+            "source": "YTN",
+            "published": "11-23 05:08",
+            "snippet": "'월가 거물' 야데니, 연말 S&P500 전망 7,900→7,500 하향 YTN '월가 베테랑' 야데니, 연말 S&P 500지수 '7,900→7,500' 하향 연합인포맥스 '강세론자' 야데니, 연말 S&P500 전망 7900→7500 하향 - 머니투데이 머니투데이 야데니, 연말 S&P500 전망치 7,500으로 하향 연합뉴스TV \"더 큰 매수 기회\"…반도체 쇼크에 S&P500 눈높이 낮춘 월가 거물 마켓인"
           },
           {
-            "title": "수출 1조 달러의 역설…최대 무역흑자에 美·인도·튀르키예 통상 압박 우려 - 뉴스1",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Lb3hKZTRDOGRyYmlVRHFTNC1tb2VvRlJ5cVNrQVIwemx4eFFwVXotWmV2Z05ZVEhuUXZNREotVW9ha2hueWE4clpVUnV6VTE1bDVDRlRMM0NMbFV4aHRz?oc=5",
+            "title": "월가 강세론자 야데니, S&P500 연말 목표 7900→7500 하향 - 뉴스1",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hMU5SZGVrczFYUUxUMXRBTE5PMzlVZDFtbnl5eHl5SVFhUGpvLVdJeXpfdTIzTHo3MGRwRHkzU1pnRjEyS2diT1ZrSU12T2t2RzBjN3NDbWc?oc=5",
             "source": "뉴스1",
-            "published": "11-22 06:50",
-            "snippet": "수출 1조 달러의 역설…최대 무역흑자에 美·인도·튀르키예 통상 압박 우려 뉴스1 Google 뉴스에서 헤드라인 및 의견 더보기"
+            "published": "11-23 05:41",
+            "snippet": "월가 강세론자 야데니, S&P500 연말 목표 7900→7500 하향 뉴스1"
           },
           {
-            "title": "‘블랙먼데이’ 우려 커진 코스피…대만은 공매도 빗장 초강수, 한국은 - 중앙일보",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vMExVbTBzaHNKLUhiM28xdk5wYTd2a3NoVlZYYXZiX0M4MmRhQWRQT1dLSXhocTZZZEZ1SEJ2blBqQURXZFZfS0ZnMlF6c1RXRzFid0NR?oc=5",
+            "title": "월가 강세론자 야데니, 연말 S&P500 전망치 또 하향…\"약세장 가능성은 낮아\" - 뉴스핌",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lLW5HdjdiY2NCNklHOFFGaFRRT2lQMXdtR1NNM1FUOWpPMHFFYUEwS3JkSzVWY0Rkc3NJVmxTWkVTTk5yZ1RrZkxqNHByZ3dvbXJXdWM4VkdpLVh1?oc=5",
+            "source": "뉴스핌",
+            "published": "11-23 08:07",
+            "snippet": "월가 강세론자 야데니, 연말 S&P500 전망치 또 하향…\"약세장 가능성은 낮아\" 뉴스핌"
+          },
+          {
+            "title": "월가 스타 전략가 야데니, S&P500 목표치 7500으로 하향｜Global Money Club - 중앙일보",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YQThSTExoMVFyejZzb1RDMDNES2NGWVM4OXNRcXlKWlJnNFMxX21kd1JyZVFnV2ZmU1pOZHo0YjZBTy1paXVQZXVUVlhFUTJ4NFZ3WG5MQ0UzTzA?oc=5",
             "source": "중앙일보",
-            "published": "11-22 15:55",
-            "snippet": "‘블랙먼데이’ 우려 커진 코스피…대만은 공매도 빗장 초강수, 한국은 중앙일보"
+            "published": "11-23 07:17",
+            "snippet": "월가 스타 전략가 야데니, S&P500 목표치 7500으로 하향｜Global Money Club 중앙일보"
+          },
+          {
+            "title": "월가 강세론자 S&P500 목표 7500로 하향…골드만삭스 \"최대 806억달러 매도\" - 아시아경제",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqMGNxQWp1UnpNVGtWMG9SUGVZekhJMDAxdkhyVnV3aGRveHdrZEF1aEpqU1I2MmozOVMtQUlLYnd6TGxTV2NyeXVxRWtyR1R5eHV3TGNOVkIyTm45MWhsSg?oc=5",
+            "source": "아시아경제",
+            "published": "11-23 07:15",
+            "snippet": "월가 강세론자 S&P500 목표 7500로 하향…골드만삭스 \"최대 806억달러 매도\" 아시아경제"
+          },
+          {
+            "title": "월가 베테랑 야데니, S&P500 전망 7900에서 7500선으로 하향 - 오피니언뉴스",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5Um8wWUNzNlZ5bFhQeTQ1VEVzVF9oOVRmR3QzVVdfMWF4X1EzYlJXbmQtRHYtaFVSXzlWVnlTYWNRZWlTX1pLRnRoRnNpc2tLbDQwb21WVkUtQVRvSmVDSXJBaC1SbjhxRm8xNXNDdlpoUQ?oc=5",
+            "source": "오피니언뉴스",
+            "published": "11-23 07:19",
+            "snippet": "월가 베테랑 야데니, S&P500 전망 7900에서 7500선으로 하향 오피니언뉴스"
           }
         ]
       },
       "queries": {
-        "나스닥 폭락 쇼크": [
-          "나스닥 폭락",
-          "나스닥 폭락 이유",
-          "나스닥 폭락 역사",
-          "나스닥 폭락 디시",
-          "나스닥 폭락 가능성",
-          "나스닥 폭락 주기",
-          "나스닥 폭락장",
-          "나스닥 폭락 이유 디시"
+        "나스닥 기술주 폭락": [
+          "나스닥 기술주",
+          "나스닥 기술주 etf",
+          "나스닥 기술주 종류",
+          "나스닥 기술주 하락",
+          "나스닥 기술주 비중",
+          "나스닥 기술주 하락 이유",
+          "나스닥 기술주 디시",
+          "나스닥 기술주 지수"
         ],
-        "앤트로픽 주가 급락": [
-          "앤트로픽 주가",
-          "앤트로픽 주가 전망",
-          "앤트로픽 주가 차트",
-          "앤트로픽 주가 그래프",
-          "앤트로픽 주가 상장",
-          "앤트로픽 주가 예상",
-          "앤트로픽 주가 가격",
-          "앤트로픽 주가 디시"
-        ],
-        "연준 긴축 우려": [
-          "연준 긴축",
-          "연준 긴축종료",
-          "연준 긴축 정책",
-          "연준 양적 긴축 중단",
-          "연준 양적 긴축",
-          "연준 양적 긴축 종료",
-          "연준 추가 긴축"
+        "연준 과잉긴축 경고": [],
+        "S&P500 전망 하향": [
+          "s&p500 전망",
+          "s&p500 전망 디시",
+          "2026년 s&p500 전망",
+          "미국 s&p500 전망",
+          "kodex 미국 s&p500 전망",
+          "tiger 미국 s&p500 전망",
+          "골드만삭스 s&p500 전망",
+          "코덱스 s&p500 전망"
         ]
       }
     },
     "keywords": [
-      "증안펀드 가동 준비",
-      "코스피 5000선 붕괴",
-      "수출 1조 달러 역설",
-      "나스닥 폭락 쇼크",
-      "앤트로픽 주가 급락",
-      "연준 긴축 우려"
+      "AI 투매 증시 공포",
+      "엔비디아 수출통제 논란",
+      "주택 자산 양극화",
+      "나스닥 기술주 폭락",
+      "연준 과잉긴축 경고",
+      "S&P500 전망 하향"
     ],
     "results": {
-      "증안펀드 가동 준비": {
-        "headline": "18년 만의 증안펀드 가동 준비와 자사주 규제 완화",
+      "AI 투매 증시 공포": {
+        "headline": "AI 투매 쇼크에 증시 공포 가중…정부 증안펀드 준비",
         "facts": [
-          "정부가 미국 증시 급락에 따른 '검은 월요일' 공포에 대응하기 위해 증시안정펀드(증안펀드) 가동 준비에 전격 착수했다.",
-          "F4(재무장관, 한은 총재, 금융위원장, 금감원장) 긴급회의를 통해 시장 안정화 방안을 논의했으며 24일부터 자사주 매입 규제를 완화하기로 결정했다.",
-          "증안펀드가 실제 가동될 경우 2008년 금융위기 이후 18년 만이며, 시행 시점 기준으로는 2020년 코로나19 사태 이후 6년 만의 발동 사례가 된다.",
-          "대만이 공매도 제한 등 초강수를 두는 가운데 한국은 증안펀드 카드를 검토하며 시장의 심리적 지지선 확보와 수급 개선을 시도하고 있다."
+          "미국 인공지능(AI) 관련주 폭락 쇼크가 글로벌 증시로 확산하며 '검은 월요일' 공포가 시장 전반을 덮쳤다.",
+          "증시 공포 심리가 금융위기 수준까지 치솟자 정부는 증시안정펀드 가동 준비에 즉각 착수했다.",
+          "증권가에서는 현 국면을 AI 산업 사이클의 본질적 훼손이라기보다 과도한 차입금을 점검하는 신용재평가 과정으로 진단했다.",
+          "글로벌 증시 급락세 속에서 향후 발표될 개인소비지출(PCE) 물가지표가 시장 충격을 완화할 핵심 분수령으로 꼽힌다."
         ],
         "watch": [
-          "증안펀드 실제 자금 투입 시점과 규모",
-          "24일 시행되는 자사주 매입 규제 완화 효과",
-          "대만 등 인접국 증시 추가 규제 강도"
+          "정부 증안펀드 투입 시점 및 조성 규모",
+          "미국 PCE 물가지수 발표 결과",
+          "주요 빅테크 기업 신용차입 현황"
         ],
         "qna": [
           {
-            "q": "증안펀드 가동 준비 소식만으로도 시장 반등을 이끌어낼 수 있는가?",
-            "a": "과거 사례를 보면 실제 자금 투입 전 가동 준비 발표만으로도 투자 심리가 개선되며 지지선이 형성되는 경향이 나타났다. 정부의 시장 방어 의지가 확인되면서 외국인과 기관의 투매 세력을 진정시키는 심리적 방어막 역할을 수행한다."
+            "q": "정부는 왜 증시안정펀드 가동 준비에 즉각 착수했는가?",
+            "a": "AI 투매 여파로 증시 변동성이 급증하면서 신용융자 반대매매와 주가 하락이 맞물리는 악순환 위험이 커졌기 때문이다. 증안펀드를 사전에 준비해 증시 하락 압력을 완화하고 투자 심리의 붕괴를 막으려는 조치이다."
           },
           {
-            "q": "24일부터 시행되는 자사주 매입 규제 완화는 어떤 구체적 효과를 노리는가?",
-            "a": "기업들이 하락장에서 자사주를 더 쉽고 빠르게 매입할 수 있도록 유도하여 유통 물량을 줄이고 주가 하방 압력을 방어하는 효과를 기대한다. 이는 증안펀드라는 공적 자금 투입 전 민간 기업의 자금력을 활용해 시장 수급을 개선하려는 조치이다."
+            "q": "이번 AI 투매 충격은 국내 증시와 관련 산업에 어떤 경로로 파급되는가?",
+            "a": "미국 빅테크의 AI 투자 회의론은 국내 반도체 및 부품 공급망 기업의 실적 전망치 하향으로 직결된다. 이로 인해 외국인 자금이 탈출하고 원·달러 환율이 상승하며 국내 증시 전반의 유동성이 축소된다."
           },
           {
-            "q": "대만의 공매도 제한 조치와 한국의 증안펀드 대응은 어떤 차이가 있는가?",
-            "a": "대만은 매도 세력을 직접 차단하는 규제 중심의 강경책인 반면, 한국은 증안펀드를 통한 매수세 유입과 자사주 매입 장려로 시장 수급을 보완하는 방식이다. 한국 정부는 시장의 자율성을 최대한 유지하면서도 급격한 붕괴를 막기 위한 단계적 대응을 선택했다."
+            "q": "시장 공포가 진정되고 주가가 반등하기 위한 핵심 분수령은 무엇인가?",
+            "a": "PCE 물가지수 통과를 통한 연준의 통화정책 불확실성 해소와 빅테크 기업들의 차입금 리스크 완화 여부이다. 기업들의 신용 위험이 안정화되고 AI 수익성 증명이 이뤄져야 투매가 그칠 수 있다."
           }
         ]
       },
-      "코스피 5000선 붕괴": {
-        "headline": "외인 매도에 코스피 5000선 붕괴 및 바닥론 확산",
+      "엔비디아 수출통제 논란": {
+        "headline": "미 재무 대중 수출통제 조사…엔비디아발 악재 확산",
         "facts": [
-          "외국인 투자자들의 금융위기급 매도세가 이어지며 코스피 5000선이 무너졌고 시장에서는 바닥을 알 수 없다는 공포가 확산 중이다.",
-          "삼성전자와 SK하이닉스의 해외 추정가가 급락하면서 코스피 4500선까지 위협받는 블랙먼데이 재현 가능성이 제기되고 있다.",
-          "호재성 뉴스에도 불구하고 시장 내에서 매수 물량을 받아줄 자금이 부족해 지수 하락폭이 커지는 수급 불균형 현상이 심화되었다.",
-          "방어형 ETF조차 코스피 지수보다 더 큰 하락폭을 기록하며 투자자들의 손실이 전방위적으로 확대되는 양상을 보였다."
+          "미국 재무부가 엔비디아의 대중국 수출통제 규정 준수 여부를 집중 검토하면서 미중 무역갈등 재점화 우려가 제기됐다.",
+          "중국 국가안전부가 2년 전부터 AI 칩 확보를 위해 미국의 수출 규제를 우회하는 비밀작전을 펼쳐온 정황이 확인됐다.",
+          "엔비디아 칩의 캄보디아 및 우회 밀수망 연루 의혹 등 관련 악재가 쏟아지며 시장 불안감을 증폭시켰다.",
+          "엔비디아 사태 여파로 나스닥 지수는 앤트로픽 호재를 뒤로하고 올해 상승분을 모두 반납했다."
         ],
         "watch": [
-          "외국인 순매도세 진정 및 수급 전환 여부",
-          "코스피 4500선 지지 여부와 기술적 반등",
-          "삼성전자·SK하이닉스 ADR 가격 추이"
+          "미 재무부의 엔비디아 조사 최종 결과",
+          "미중 추가 반도체 제재안 발표 여부",
+          "엔비디아 실적 전망치 수정 동향"
         ],
         "qna": [
           {
-            "q": "외국인 매도세가 금융위기급으로 평가받는 구체적인 이유는 무엇인가?",
-            "a": "호재가 발생해도 매수세가 실종된 상태에서 외국인이 대규모 물량을 쏟아내며 지수 5000선을 단숨에 무너뜨렸기 때문이다. 이는 단순한 차익 실현을 넘어 한국 시장에 대한 구조적 불신이나 글로벌 자산 배분 조정의 결과로 해석된다."
+            "q": "미 재무부가 엔비디아의 규정 준수 조사를 별도로 강조하는 이유는 무엇인가?",
+            "a": "중국이 우회 밀수망을 활용해 핵심 AI 반도체를 지속 확보하는 정황이 포착되었기 때문이다. 안보 통제의 실효성을 확보하고 대중국 압박 수위를 유지하기 위해 기업의 법적 준수 여부를 강도 높게 점검하고 있다."
           },
           {
-            "q": "방어형 ETF가 지수보다 더 크게 하락한 원인은 무엇인가?",
-            "a": "하락장에서 유동성이 부족해지자 상대적으로 매도가 쉬운 ETF 종목에 매도세가 집중되면서 기초 지수 하락폭을 상회하는 괴리가 발생했다. 또한 방어주로 분류되던 종목들까지 투매 대상에 포함되면서 ETF의 방어 기제가 작동하지 않았다."
+            "q": "엔비디아 규제 리스크가 글로벌 AI 공급망 전반에 미치는 영향은 무엇인가?",
+            "a": "중국 향 매출 비중 감소는 엔비디아의 매출 성장에 직접적인 타격을 준다. 이는 파운드리, 고대역폭메모리(HBM) 제조사 등 상류 공급망 기업들의 오더 감축으로 이어져 반도체 밸류체인 전체의 실적 둔화를 부른다."
           },
           {
-            "q": "코스피 4500선 위협의 핵심 변수인 반도체 대형주 추정가 급락은 어떻게 발생하는가?",
-            "a": "나스닥 폭락과 AI 수익성 우려가 겹치며 해외 시장에서 거래되는 한국 반도체 기업들의 주식 예탁 증서(DR) 가격이 먼저 하락했기 때문이다. 해외 투자자들의 시각이 반영된 DR 가격은 국내 증시 개장 시 시초가 결정에 결정적인 하방 압력으로 작용한다."
+            "q": "수출통제 논란 속에서 미중 무역갈등이 다시 분기점을 맞을 조건은 무엇인가?",
+            "a": "미국 정부가 칩 밀수 우회국에 대한 2차 제재(블랙리스트 추가)를 실제 실행하는지 여부이다. 조치가 강행될 경우 기술 안보 갈등이 무역 전쟁 전면전으로 확대될 수 있다."
           }
         ]
       },
-      "수출 1조 달러 역설": {
-        "headline": "수출 1조 달러 역설 핵심 보도 종합",
+      "주택 자산 양극화": {
+        "headline": "주택자산 격차 52배 확대…30대 고가집 소유 급증",
         "facts": [
-          "수출 1조 달러의 역설…최대 무역흑자에 美·인도·튀르키예 통상 압박 우려",
-          "반도체만 있는 게 아니다…‘수출 1조 달러’ 숨은 주역들",
-          "손정의, SK하이닉스 1조달러 인수 검토…월가에 자금 조달 타진",
-          "강원 의료기기업체, 97억 원 독일 수출 계약",
-          "[르포] 한돈 수출 올 들어 219% 증가...돼지 日 100여 마리 다듬는 제주도 가공장"
+          "유주택 가구 내부의 주택자산 가액 격차가 최대 52배까지 벌어지며 부동산 자산 양극화가 심화됐다.",
+          "부모 세대의 자산 증여 영향으로 고가 주택을 소유한 30대 집주인이 70% 이상 크게 늘었다.",
+          "1인 가구의 주택 소유 비중은 역대 최대를 기록했으나 소득 대비 자산이 부족한 현상이 함께 나타났다.",
+          "서울시는 당초 주택 공급 확대를 위해 조성했던 주택진흥기금 내년 예산의 절반을 전월세 보증금 지원에 투입하기로 했다."
         ],
         "watch": [
-          "수출 1조 달러 역설 관련 후속 보도 및 시장 수급 추이",
-          "주요 거시경제 지표 및 당국 정책 발표 여부"
+          "서울시 주택진흥기금 집행 및 공급 영향",
+          "연말 증여세 심사 및 고가주택 거래 동향",
+          "1인 가구 주거비 부담 지표 변화"
         ],
         "qna": [
           {
-            "q": "이번 '수출 1조 달러 역설' 이슈가 시장에서 부각된 핵심 배경은 무엇인가?",
-            "a": "최근 주요 언론에서 '수출 1조 달러의 역설…최대 무역흑자에 美·인도·튀르키예 통상 압박 우려' 등 관련 보도가 잇따르며 시장 참여자들의 관심이 집중되고 있다."
+            "q": "30대 고가 주택 소유자가 70% 늘어난 주요 배경은 무엇인가?",
+            "a": "부모 세대로부터의 고가 부동산 증여 증가가 핵심 원인이다. 근로 소득 상승 속도보다 자산 가치 상승 속도가 빨라지면서 세대 간 자산 이전에 의존한 고가주택 취득이 급증했다."
           },
           {
-            "q": "'수출 1조 달러 역설' 흐름이 개인 투자자와 가계 경제에 미치는 영향은 무엇인가?",
-            "a": "관련 산업군 주가와 환율, 시중 금리 및 체감 경기에 직간접적인 변동 요인으로 작용할 수 있어 면밀한 관찰이 필요하다."
+            "q": "1인 가구 소유 비중 최고치 기록과 자산 비대칭 현상은 어떻게 연결되는가?",
+            "a": "고령층 및 소형 주택 중심의 1인 가구 주택 소유는 늘었으나, 이들의 실질 소득과 유동성은 취약한 상태이다. 주택 자산만 가지고 있을 뿐 소비 여력이 없는 자산 고립형 가구가 늘어났음을 의미한다."
           },
           {
-            "q": "향후 시장 대응에 있어 어떤 점을 중점적으로 확인해야 하는가?",
-            "a": "단기적인 뉴스 헤드라인에 일희일비하기보다 실제 발표되는 기업 실적과 공식 경제 지표를 함께 점검하는 신중한 접근이 요구된다."
+            "q": "주택진흥기금의 절반을 보증금 지원에 쓰는 정책 전환의 의미는 무엇인가?",
+            "a": "신규 주택 건설을 통한 장기 공급 정책보다 당장의 전월세 세입자 주거 안정을 우선시한 결과이다. 다만 주택 공급 예산 축소로 향후 중장기 공급 부족을 자극할 수 있다는 시각도 존재한다."
           }
         ]
       },
-      "나스닥 폭락 쇼크": {
-        "headline": "나스닥 5%대 폭락과 AI 성공 서사에 대한 의구심",
+      "나스닥 기술주 폭락": {
+        "headline": "나스닥 일주일 새 5천조 증발…기술주 패닉 투매",
         "facts": [
-          "뉴욕증시에서 나스닥 지수가 5.28% 폭락하며 AI 기술주 중심의 투매 현상이 발생해 시장에 큰 충격을 주었다.",
-          "대장주인 엔비디아가 14% 급락하고 앤트로픽 등 주요 AI 기업들의 주가가 공모가 수준으로 떨어지며 'AI 성공 서사' 붕괴 우려가 확산되었다.",
-          "미 재무장관이 연준의 과잉 긴축에 따른 실수 가능성을 언급하며 증시 투매의 주요 원인 중 하나로 지목했다.",
-          "주말 사이 미국 증시의 패닉 투매 여파로 인해 한국 증시의 월요일 개장 시 블랙먼데이 재현에 대한 공포가 극에 달했다."
+          "기술주 패닉 셀 여파로 나스닥 지수가 5% 급락하며 올해 주가 상승분을 모두 반납했다.",
+          "일주일 사이에 나스닥 시가총액에서 5천조 원(약 2조 3천억 달러) 이상이 증발하는 폭락세가 연출됐다.",
+          "빅테크 기업들의 AI 투자 수익성에 대한 회의론이 확산되자 중국 당국은 시장 충격을 완화하려 유동성 확대에 나섰다.",
+          "기술주 폭락 속에서 한국 등 주요국 시장은 금리 및 환율 변동성 확대 우려로 개장을 앞두고 극심한 공포를 겪었다."
         ],
         "watch": [
-          "엔비디아 등 빅테크 기업의 추가 하락 여부",
-          "연준 위원들의 금리 정책 관련 발언",
-          "나스닥 지수의 기술적 지지선 회복 여부"
+          "중국 당국의 유동성 공급 효과 및 증시 반응",
+          "주요 빅테크 기업들의 추가 주가 지지선 형성 여부",
+          "한국 등 아시아 증시 개장 후 외국인 매도 규모"
         ],
         "qna": [
           {
-            "q": "엔비디아 14% 급락이 시장 전체에 주는 신호는 무엇인가?",
-            "a": "그동안 증시 상승을 견인했던 AI 산업의 수익성 실현 가능성에 대해 시장이 강한 의구심을 품기 시작했음을 의미한다. 고평가 논란 속에서 실적 기대치가 정점을 찍었다는 인식이 확산되며 대규모 차익 실현 매물이 쏟아진 결과이다."
+            "q": "나스닥 시가총액이 단기간에 5천조 원 넘게 증발한 결정적 메커니즘은 무엇인가?",
+            "a": "AI 설비투자에 대한 과도한 비관론과 레버리지 투자 상품의 강제 청산이 동시다발적으로 일어났기 때문이다. 고평가되어 있던 빅테크 주식에 손절매 물량이 집중되며 폭락을 부추겼다."
           },
           {
-            "q": "미 재무장관이 언급한 '연준의 과잉 긴축 실수'는 증시에 어떤 영향을 미치는가?",
-            "a": "고금리 유지가 경기 침체를 유발할 수 있다는 공포를 자극하여 투자자들이 위험 자산인 주식을 빠르게 처분하게 만드는 기폭제가 된다. 정책 당국 간의 견해 차이가 노출되면서 시장의 불확실성이 더욱 증폭되었다."
+            "q": "미국 기술주 폭락이 중국 등 신흥국 시장으로 파급된 경로와 당국의 대응은 어떠한가?",
+            "a": "글로벌 위험자산 선호 심리가 냉각되면서 신흥국 증시에서 자금이 이탈했다. 중국 당국은 시중 유동성을 늘려 증시 충격이 자국 금융시장의 경색으로 이어지는 것을 차단하고자 했다."
           },
           {
-            "q": "나스닥 5%대 폭락이 한국 증시에 미치는 파급 경로는 어떻게 되는가?",
-            "a": "미국 기술주와 동조화 현상이 강한 국내 반도체 및 IT 대형주들의 동반 하락을 유도하여 지수 전체를 끌어내리는 경로로 작용한다. 특히 외국인 투자자들이 신흥국 시장에서 자금을 회수하는 과정에서 한국 증시의 매도 압력이 가중된다."
+            "q": "폭락한 나스닥 기술주가 진정세를 찾기 위한 최소한의 조건은 무엇인가?",
+            "a": "빅테크 기업들의 AI 관련 실질 매출 증가 확인과 금리 부담 완화이다. 투자 대비 성과가 숫자로 입증되고 국채 금리가 안정되어야 저가 매수세가 들어올 수 있다."
           }
         ]
       },
-      "앤트로픽 주가 급락": {
-        "headline": "상장 이틀 만에 공모가 수준 급락한 앤트로픽 책임 공방",
+      "연준 과잉긴축 경고": {
+        "headline": "미 재무 연준 과잉긴축 경고…증시 투매 원인 지목",
         "facts": [
-          "상장 이틀 차를 맞은 AI 기업 앤트로픽의 주가가 하루 만에 공모가 수준으로 급락하며 월가에 큰 파장을 일으켰다.",
-          "주가 급락의 원인을 두고 공모주 배분 방식의 문제인지, 아니면 직원들의 매도 허용 때문인지에 대한 월가의 책임 공방이 치열하다.",
-          "앤트로픽의 주가 널뛰기 현상으로 인해 실리콘밸리의 낙관론과 월가의 AI 수익성 우려가 정면으로 충돌하고 있다.",
-          "시장 공포를 나타내는 패닉 지수가 10점 만점에 9점을 기록할 정도로 앤트로픽발 변동성이 기술주 전반의 투자 심리를 위축시켰다."
+          "미국 재무장관이 연방준비제도(Fed)의 과도한 통화 긴축 정책이 이미 금융 여건을 조이고 미국 경제를 위협하고 있다고 경고했다.",
+          "재무장관은 최근 발생한 글로벌 증시의 투매 사태를 연준의 경조직적인 과잉 긴축 정책에 따른 결과로 직접 지목했다.",
+          "월가 전문가들은 연준이 여전히 매파적 입장을 취하고 있어 현재 시점에서 주식 저가 매수에 나서는 것은 위험하다고 진단했다.",
+          "시장에서는 통화정책 발언 금지 기간을 앞두고 증시 폭락 자체가 연준의 긴축 역할을 대신하고 있다는 시각이 나왔다."
         ],
         "watch": [
-          "앤트로픽의 추가 매도 물량 출회 여부",
-          "월가의 AI 기업 가치 재평가 움직임",
-          "기술주 전반의 패닉 지수 변화 추이"
+          "연준 위원들의 블랙아웃(발언 금지) 기간 진입",
+          "미국 재무부와 연준 간 정책 갈등 표출 여부",
+          "다음 FOMC 기준금리 결정 향방"
         ],
         "qna": [
           {
-            "q": "앤트로픽 주가 급락 원인 중 '직원 매도 허용'이 왜 문제로 지적되는가?",
-            "a": "상장 초기 보호예수 기간 없이 직원들의 물량이 시장에 쏟아질 경우 수급 불균형이 발생하여 주가를 급격히 끌어내릴 수 있기 때문이다. 이는 초기 투자자와 개인 투자자들에게 손실을 떠넘기는 구조라는 비판을 불러일으켰다."
+            "q": "미 재무장관이 연준의 긴축 정책을 증시 폭락의 주범으로 꼬집은 근거는 무엇인가?",
+            "a": "고금리 기조가 장기화되면서 기업의 자금 조달 비용이 극도로 상승했기 때문이다. 높아진 금융 비용이 기업 실적 전망을 갉아먹고 증시 내 유동성을 소진시켰다고 판단한 것이다."
           },
           {
-            "q": "패닉 지수 9점 기록은 현재 시장 상황을 어떻게 대변하는가?",
-            "a": "투자자들이 극도의 불안감을 느끼며 이성적인 판단보다는 투매에 동참하고 있는 금융위기급 공포 상태임을 나타낸다. 작은 악재에도 시장이 과민 반응하며 변동성이 극대화되는 구간에 진입했음을 의미한다."
+            "q": "연준의 매파적 태도가 지속될 때 월가 자산운용사들의 포트폴리오 전략은 어떻게 바뀌는가?",
+            "a": "위험 자산인 기술주와 성장주 비중을 줄이고 안전 자산인 단기 채권이나 현금 비중을 확대한다. 이에 따라 저가 매수세 진입이 지연되고 주가 하방 압력이 장기화된다."
           },
           {
-            "q": "앤트로픽의 주가 변동이 국내 원전주 등 다른 섹터에 미치는 영향은 무엇인가?",
-            "a": "AI 데이터센터 가동을 위한 에너지 수요 기대로 상승했던 원전주들이 AI 산업 회의론에 휩쓸려 동반 하락할 가능성이 커진다. AI 밸류체인 전반에 걸친 투자 심리 악화가 연관 산업으로 빠르게 전이되는 양상이다."
+            "q": "'증시 폭락이 연준의 긴축을 대신한다'는 시장 진단의 의미는 무엇인가?",
+            "a": "주가 급락으로 가계 자산 효과가 감소하고 자금 조달이 어려워지면서 연준이 금리를 올리지 않아도 경제 활동이 둔화하는 효과가 나타난다는 뜻이다. 이로 인해 연준이 추가 인상을 멈출 수 있는 명분이 형성될 수 있다."
           }
         ]
       },
-      "연준 긴축 우려": {
-        "headline": "연준의 추가 긴축 우려와 재무부의 정책 실수 경고",
+      "S&P500 전망 하향": {
+        "headline": "월가 야데니 S&P500 목표 하향…매도 물량 경고",
         "facts": [
-          "미 재무장관이 연준의 과잉 긴축이 경제적 실수를 유발할 수 있다고 경고하며 증시 투매의 배경으로 통화 정책을 지목했다.",
-          "트럼프 전 대통령과 베선트 등 정치권에서도 연준의 추가 긴축 움직임에 대해 잇따라 견제구를 던지며 압박을 가하고 있다.",
-          "금리 인상 우려가 확산되면서 암호화폐 시장의 상승세가 둔화되고 채권 시장에서도 긴축 장기화에 따른 변동성이 커졌다.",
-          "연준의 긴축 기조가 이어지는 가운데 대만은 공매도 제한을, 한국은 증안펀드 가동을 검토하는 등 각국이 증시 방어책 마련에 분주하다."
+          "월가의 대표적 증시 강세론자 에드 야데니가 연말 S&P500 지수 전망치를 기존 7,900에서 7,500선으로 낮췄다.",
+          "야데니는 전망치를 하향 조정을 하면서도 증시가 약세장(bear market)으로 완전히 전환될 가능성은 낮다고 보았다.",
+          "골드만삭스는 투자 심리 악화로 기관과 추세 추종 펀드에서 최대 806억 달러 규모의 매도 물량이 쏟아질 수 있다고 경고했다.",
+          "월가 주요 기관들의 목표가 하향과 매도 경고가 겹치며 연말 증시 랠리에 대한 기대감이 크게 축소됐다."
         ],
         "watch": [
-          "연준의 '침묵 기간' 진입 전 위원들의 발언",
-          "차기 금리 결정 회의 결과 및 점도표 변화",
-          "미 재무부와 연준 간의 정책 엇박자 지속 여부"
+          "골드만삭스 추산 806억 달러 매도 물량 출회 여부",
+          "S&P500 지수의 7,500선 지지 여부",
+          "월가 주요 IB들의 추가 목표주가 하향 동향"
         ],
         "qna": [
           {
-            "q": "재무장관이 연준의 긴축을 '실수 가능성'으로 언급한 배경은 무엇인가?",
-            "a": "물가 잡기에만 집중한 고금리 정책이 실물 경제를 과도하게 위축시켜 경착륙을 초래할 수 있다는 우려를 표명한 것이다. 이는 연준의 독립성과 별개로 행정부가 경기 침체 리스크를 심각하게 인지하고 있음을 시사한다."
+            "q": "강세론자인 야데니마저 S&P500 연말 목표치를 낮춘 핵심 이유가 무엇인가?",
+            "a": "AI 기술주에 집중된 과열 부담과 연준 긴축 장기화에 따른 상방 제약 때문이다. 지수의 추가 상승 동력이 약화됨에 따라 연말 목표치를 현실적인 수준인 7,500선으로 조정한 것이다."
           },
           {
-            "q": "연준의 긴축 우려가 암호화폐 시장에 즉각적인 영향을 미치는 메커니즘은 무엇인가?",
-            "a": "금리가 상승하면 유동성이 흡수되고 위험 자산에 대한 투자 매력이 감소하여 비트코인 등 암호화폐로의 자금 유입이 차단되기 때문이다. 특히 레버리지를 활용한 투자가 많은 암호화폐 시장은 금리 변화에 더욱 민감하게 반응한다."
+            "q": "골드만삭스가 경고한 806억 달러 규모 매도 물량은 증시에 어떤 충격을 주는가?",
+            "a": "알고리즘 및 체계적 펀드(CTA)의 기계적 매도를 유발하여 지수의 하락 폭을 가파르게 만든다. 이는 호가 갭을 벌려 약세장에서 주가 변동성을 극대화하는 파급 효과를 낳는다."
           },
           {
-            "q": "연준 긴축을 증시가 대신 해준다는 분석은 어떤 의미인가?",
-            "a": "연준이 금리를 직접 올리지 않아도 주가 폭락으로 인해 자산 가치가 하락하고 소비가 줄어드는 효과가 발생하여 긴축과 유사한 결과가 나타난다는 뜻이다. 시장의 자발적인 위축이 연준의 추가 금리 인상 명분을 약화시킬 수 있다는 시각도 존재한다."
+            "q": "목표치 하향 조정에도 불구하고 약세장 진입 가능성을 낮게 보는 분기점은 무엇인가?",
+            "a": "미국 경제의 실질적인 경기 후퇴(Recession) 여부이다. 기업들의 이익 체력이 유지되고 고용 붕괴가 없다면 현재의 하락은 거품 제거 과정인 건강한 조정에 그칠 수 있다."
           }
         ]
       }
     },
     "news": {
-      "증안펀드 가동 준비": [
+      "AI 투매 증시 공포": [
         {
           "title": "‘AI 투매’ 검은 월요일 공포…정부, 증안펀드 가동 준비 착수 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QdWo0ZG5hNkswOUYwcHNTX0xoR2phd08yd0pPZ0prZVVtTUR4LVdSWHFwQkhmREJZMGZ4cHF0SXRDVzFfU01zNk5kM0llSVFHR0F1NENZenlvY0FSY0xTcVE3eEZqb0U?oc=5",
           "source": "한겨레",
           "published": "11-22 22:15",
-          "snippet": "‘AI 투매’ 검은 월요일 공포…정부, 증안펀드 가동 준비 착수 한겨레 증시 급락세에 정부 긴급회의 소집…증안펀드 투입 ‘만지작’ KBS 뉴스 “내일 블랙 먼데이 막자”…정부, 증안펀드 18년만에 투입 준비 동아일보 증시안정펀드 가동 준비... 2008년 금융위기 후 처음 조선일보 자사주로 수급 채우고 공매도·반대매매 조여 매도압력 누른다…'검은 월요일' 막을까 뉴시스"
+          "snippet": "‘AI 투매’ 검은 월요일 공포…정부, 증안펀드 가동 준비 착수 한겨레 증안펀드 나오면 바닥? 조선일보 정부, 증시 급락에 18년 만에 ‘증시안정 펀드’ 준비 JTBC “내일 블랙 먼데이 막자”…정부, 증안펀드 18년만에 투입 준비 동아일보 한투증권 \"증안펀드 준비 착수, 시장의 심리 안정 효과 기대\" 연합뉴스"
         },
         {
-          "title": "'증안펀드' 가동 준비만 해도 코스피 반등?…과거 사례 보니 - 비즈워치",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wYkpKeUUxNU9UUXVYRUVqVS1mRXJWOXlVREdaSFRoaFBLRGtqZUJ2NkNiNExNcWlvVW90SDF0Zm94cm1IVkM2aFktWFNBS3l0V0pYT0NRSHZRVUczWEd3NXN4TGhNcFBTX2c?oc=5",
-          "source": "비즈워치",
-          "published": "11-22 20:47",
-          "snippet": "'증안펀드' 가동 준비만 해도 코스피 반등?…과거 사례 보니 비즈워치"
+          "title": "[마켓뷰] 'AI투매'에 급락 도미노…'검은월요일' 우려 커진 증시 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02R3o5R2Q3bHJ2eGRuWV9HdTMyOXdZNEkwa2MyZWNUR3dPb21VX3JYWHZZbGZ4YXVIQy1GY2hFWVg4OXkyZlZpNG5PdnlDQmZMMFMxVFZuVGJqY3fSAWBBVV95cUxPRU9sUWNFazJ5bDJoSkJlWmlqeE02U0xielVyR3E0Y2hPekVOVlZqbkJubl80ZFdqdFNWSlRvcjlEXzVsMUVZNktoRVFxYXFXT0M1eEVqY2ktZkhzOU5fX1A?oc=5",
+          "source": "연합뉴스",
+          "published": "11-23 08:15",
+          "snippet": "[마켓뷰] 'AI투매'에 급락 도미노…'검은월요일' 우려 커진 증시 연합뉴스"
         },
         {
-          "title": "정부 증안펀드 가동 준비…미국 증시 급락에 F4 긴급회의, 24일부터 자사주 매입 규제 완화,18년 만에 실제 가동될지 주목 - CBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjekN1cmVwS21KbnVzMjltQ1lVQ2pudkRvWTlsZ2dva3hoNnpUN3A3dFVfTGk4dW40TDVwMjNkdXRwbklPTVZWSkZFbk5LcU5PaXZhTTJDOFROenR4M00wamtxaWhvY000?oc=5",
-          "source": "CBC뉴스",
-          "published": "11-22 21:05",
-          "snippet": "정부 증안펀드 가동 준비…미국 증시 급락에 F4 긴급회의, 24일부터 자사주 매입 규제 완화,18년 만에 실제 가동될지 주목 CBC뉴스"
+          "title": "美 AI주 투매 쇼크…글로벌 시장 덮친 '블랙먼데이' 공포[뉴스새벽배송] - 이데일리",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWVRMRm10MVRnTzVLQXhsMUU3TGpuWWZicDVUUkNPS2w2VmUxWWRJbkJzWFRtNHdzU3FCYnFRRkhhbzFEX0lrS2pEbGxrZ18yZ2w1VFFUbUQzZTYyMi16d3VJemtETHZVVFJvMTYwMHpkT2FvVlhEeExHOFBBd2VreA?oc=5",
+          "source": "이데일리",
+          "published": "11-23 07:58",
+          "snippet": "美 AI주 투매 쇼크…글로벌 시장 덮친 '블랙먼데이' 공포[뉴스새벽배송] 이데일리"
         },
         {
-          "title": "'검은 월요일' 공포에 긴급 대응…18년 만에 증시안정펀드 가동 준비 - 주간조선",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04UmNoVkMxUEc1cjIxbHJHRlNaM3F6U2c1VEtsSUFrU2VEUVc3Vm40Sm9OV1ROeUJrNWlJemVtTUlrd2ZrVmpEMG83ZkgtNGpPbzd5Y0N3eDRpcEhULVRwcjFqSllJRk9IdnfSAW5BVV95cUxNM0xZNGpzWE9Ra05rYkh3U09LTTM2NGtIRTA2NWZkWXh3Uk05NU1hLWJlRmxUQWFzUEd3M1dvM0NIZkhCbzk4Y2xaQzgxeWVkb0FGQzNSMmR3S0dLTks1VDFnUmRUSElXZ2pjQnNyQQ?oc=5",
-          "source": "주간조선",
-          "published": "11-23 00:55",
-          "snippet": "'검은 월요일' 공포에 긴급 대응…18년 만에 증시안정펀드 가동 준비 주간조선"
-        },
-        {
-          "title": "증시 급락 우려에 ‘증안펀드’ 준비…시행되면 6년만에 발동 - 부산일보",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vRFpxVTI3MENsdGZUSnVJNGoxWHVJQVpLLWZfNVVZOUFVeENTcE9mWFdGSWMtZEx6QVlZWHU4V0NQa1haaHdaS1RITGcwMk1xRjVSZmtTRTZHd2pOUzVMYThldFNLcG1YanNlQXJFQTVFLWJG?oc=5",
-          "source": "부산일보",
-          "published": "11-22 18:54",
-          "snippet": "증시 급락 우려에 ‘증안펀드’ 준비…시행되면 6년만에 발동 부산일보"
-        },
-        {
-          "title": "\"폭락장 대비하라\"…대만은 공매도 빗장, 한국은 증안펀드 거론 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTZU5JVlc1VDFmNUlQS2tfanF2eDlKdjh1ZWJPS0ZCS0xRdGU0Uzh3LUFEZGNORFN4NVktaHBVamtMYVN3c2ktdTYzcy1iMXJ5Z2c?oc=5",
-          "source": "매일경제",
-          "published": "11-22 17:34",
-          "snippet": "\"폭락장 대비하라\"…대만은 공매도 빗장, 한국은 증안펀드 거론 매일경제 대만, 잇단 급락장에 \"직전 거래일 종가 미만 공매도 금지\" 연합뉴스 대만, 일주일새 17% 증시급락에 \"전일 종가미만 공매도 금지\" - 머니투데이 머니투데이 대만, 한주 새 증시 17.5% 폭락에 전 종목 공매도 가격 제한 시행 한겨레 코스피 급락 속 '코스닥 활성화'?…대만은 규제 강화, '검은 월요일' 또 손 놓나 [증시는 왜] 파이낸셜뉴스"
-        }
-      ],
-      "코스피 5000선 붕괴": [
-        {
-          "title": "외인매도에 5,000선도 깨진 코스피…호재에도 '받아줄 돈이 없다' - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81ZDh0elpqUkM4eDZESjljQWZ4RnluVHVVY2xIN1pnVjhrOTh4YWctcndoNTBUSEppNy1UMFhwY3ZCNU5mTHNoa2VpeFNHRUlxZ1Y0T05zY2EyTVIzZjZFUWxiVmN0TUFVWFdoYnNMNVQ?oc=5",
+          "title": "[뉴욕증시-주간전망] AI 투매에 흔들린 월가…PCE 물가 분수령 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KUk5TUkx3Um82N2M2Rzhrb2pockhmYWsyM2FBNUFHVnBRMHJSWXg5QWtyWlJ4dGhZQnpoVWZaamd1Si01YkhhNi1DUm4xM0VEY0M1b3lYS0RVaTJZanRWdnlQSlJSemoyMUZVd3A2QXY?oc=5",
           "source": "연합인포맥스",
-          "published": "11-22 08:15",
-          "snippet": "외인매도에 5,000선도 깨진 코스피…호재에도 '받아줄 돈이 없다' 연합인포맥스 하루 만에 5% 급락한 코스피, 4,800대로 밀린 이유는? 네이버페이 머니스토리 개미들 계좌 파랗게 질렸는데…증권가 \"낙폭 과도\" 반등 기대해도 될까? - 머니투데이 머니투데이 개미들 563조 잃고 빚더미… 외국인은 224조 팔아 수익 조선일보 코스피 5,000선 회복할까...미국 물가·금통위 주목 YTN"
-        },
-        {
-          "title": "外人 매도 금융위기급…\"코스피, 극단 이미 반영했다\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hRmlYVUhYeVhjNm14b0RxVkx2VWtaTEJPQWxuSHFzLWFrQkFnNG9vSXBaOEgtVGJSR2VER1NTdldzQW8tUms1M1RETHEwZHRXX2tKYnpUaVp3blJFcmktV05TMDhSNGdHcEVNMEdudXY?oc=5",
-          "source": "연합인포맥스",
-          "published": "11-22 14:02",
-          "snippet": "外人 매도 금융위기급…\"코스피, 극단 이미 반영했다\" 연합인포맥스"
-        },
-        {
-          "title": "'증안펀드' 가동 준비만 해도 코스피 반등?…과거 사례 보니 - 비즈워치",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wYkpKeUUxNU9UUXVYRUVqVS1mRXJWOXlVREdaSFRoaFBLRGtqZUJ2NkNiNExNcWlvVW90SDF0Zm94cm1IVkM2aFktWFNBS3l0V0pYT0NRSHZRVUczWEd3NXN4TGhNcFBTX2c?oc=5",
-          "source": "비즈워치",
-          "published": "11-22 20:47",
-          "snippet": "'증안펀드' 가동 준비만 해도 코스피 반등?…과거 사례 보니 비즈워치"
-        },
-        {
-          "title": "내일 증시 ‘블랙먼데이’ 오나…삼성·하이닉스 해외 추정가 급락, 코스피 4500선 위협 - 주간경향",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RT3V4NzVsRVo5QWNXMXd0UWpqeWpkZ2J3OUVGQUdCVEdTRnlGQ0dLb1dEZXJHWG13S0FvWTB5Yi10UlFVS1RvTnBBc19EZnRPT3VpRWRaaTZ0MXV5NEE?oc=5",
-          "source": "주간경향",
-          "published": "11-22 19:22",
-          "snippet": "내일 증시 ‘블랙먼데이’ 오나…삼성·하이닉스 해외 추정가 급락, 코스피 4500선 위협 주간경향"
-        },
-        {
-          "title": "방어형 ETF라더니 … 코스피보다 더 떨어져 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43b01vdEc3a0J6WmMyLXFYN1lMd1laX3F4QjdJN2ttME1MQS1MWEdxUnJUTllWVlhyRGZCOWFkdUQyaDFmclZhYW14RElqODZTc0E?oc=5",
-          "source": "매일경제 마켓",
-          "published": "11-22 17:16",
-          "snippet": "방어형 ETF라더니 … 코스피보다 더 떨어져 매일경제 마켓"
-        },
-        {
-          "title": "바닥 뚫은 코스피… “어디까지 떨어지나” 공포 - 세계일보",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WdVFxQXphX290NGtOeUNpbHNuQjN3Um0wc1kzc3FLOEtiTmJ5OHg2NDRSblFac3ZGOUZEYVlVSXVOTE44Wm50dFltUnpXOFFJck9xQk1aSTfSAVRBVV95cUxPUDg1cXJkblZ2eHpKRWlGSW9oNXAxNkFWUnRud1FrR1FjRTlGTWkwY2p5WE1WMGh6Vzg1R3lpY1JISUtYemJiZ0EwQXpQUThGZUpOMTg?oc=5",
-          "source": "세계일보",
-          "published": "11-22 20:00",
-          "snippet": "바닥 뚫은 코스피… “어디까지 떨어지나” 공포 세계일보"
-        }
-      ],
-      "수출 1조 달러 역설": [
-        {
-          "title": "수출 1조 달러의 역설…최대 무역흑자에 美·인도·튀르키예 통상 압박 우려 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Lb3hKZTRDOGRyYmlVRHFTNC1tb2VvRlJ5cVNrQVIwemx4eFFwVXotWmV2Z05ZVEhuUXZNREotVW9ha2hueWE4clpVUnV6VTE1bDVDRlRMM0NMbFV4aHRz?oc=5",
-          "source": "뉴스1",
-          "published": "11-22 06:50",
-          "snippet": "수출 1조 달러의 역설…최대 무역흑자에 美·인도·튀르키예 통상 압박 우려 뉴스1 Google 뉴스에서 헤드라인 및 의견 더보기"
-        },
-        {
-          "title": "반도체만 있는 게 아니다…‘수출 1조 달러’ 숨은 주역들 - JTBC",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ubkNReHZuejV6OWRnbDZnWWMwUG5EZWhEY3NjQWxGUzEySU45TGxuZGZ2WTJ3Q1lfaUptZGhxWlhtUk5iMXczMV9FazRVSmdBamE2Uw?oc=5",
-          "source": "JTBC",
-          "published": "11-22 19:43",
-          "snippet": "반도체만 있는 게 아니다…‘수출 1조 달러’ 숨은 주역들 JTBC K-샴푸, 수출 2억달러 돌파…10월 미국 수출 5배 급증 전자신문 [모닝 리포트] NH투자증권 \"내년 화장품 수출 178억달러…사상 최대 전망\" 뉴스핌 K뷰티 해외 진출, 인증부터 판로까지…'인디뷰티 서울' 웨비나 이데일리 물류업계, K뷰티 호황에 해외 공략 가속…새 성장동력 확보 경쟁 이투데이"
-        },
-        {
-          "title": "손정의, SK하이닉스 1조달러 인수 검토…월가에 자금 조달 타진 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tX2UwbDVQMzVCS0p1T0RUTUppZFZhQ2w3ZjlxeDVMaWtrSHdUWUNNUnlCVjhXWk1zNml5ZE8xMkUxa3hkNmMtUnp2Vm53QXZETE1fMmM2RG1vY3JvT1lTbFNhdmh4QkVla2c?oc=5",
-          "source": "AI타임스",
-          "published": "11-22 05:59",
-          "snippet": "손정의, SK하이닉스 1조달러 인수 검토…월가에 자금 조달 타진 AI타임스"
-        },
-        {
-          "title": "강원 의료기기업체, 97억 원 독일 수출 계약 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfTU5ERUhXd2dBVE9Cbm1CSmVzUVZrOG9Ja2FicWR6UUthSmw3Ymo1LURDZG5tMWpTSjZjdWpVYWNBdEIyVkNEa1hZMGxRMThrUjdzcktpZUFwT1hTREszdGo1a1Rqdw?oc=5",
-          "source": "KBS 뉴스",
-          "published": "11-22 22:10",
-          "snippet": "강원 의료기기업체, 97억 원 독일 수출 계약 KBS 뉴스 강원 의료기기 11개사, 독일서 726만달러 수출계약 성과 연합뉴스 강원도, 메디카 강원공동관 운영…수출계약 726만달러 성사 파이낸셜뉴스 강원 의료기기, 獨 MEDICA서 100억원 수출계약..상담은 300억원 ‘나흘간의 대박’ 헤럴드경제 메디아나·엣지케어 등 ‘K-의료기기’ 독일 집결 데일리메디"
-        },
-        {
-          "title": "[르포] 한돈 수출 올 들어 219% 증가...돼지 日 100여 마리 다듬는 제주도 가공장 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWVVhMkVqd3hhcW9oT04xbC1EMlp4MkNiby1naHlNNHNacHp6WmhlaTc4OTdqUC1SWFR2X2d3Nzk5WUVyMWdjbnlIQjJWWWlrUURRMDN2OXhiaEpRdzVlYm9FaFN6RnNzSTlzZzUzSTZZVUw4NHcwYVRaX0pfbXJCczduM3FSQdIBmgFBVV95cUxNdnNVTXBlRFJsQ21YTkg2S1QxMEh3cVZBQjBqSmNpWFNjUVNVNlJmVlA2QTJyZjBDbFY1WUctTVQwOVJDREdqS01SR3JWV0F6VnhpZ2U1eVpidmtBNkRheFhYVzRWQmhUR05oOGpJS2U0MEx2WmpSNXhzdmFldGJQWEZLWWNiN25TVmhCcnRabzFIaVZaLXFMQUl3?oc=5",
-          "source": "Chosunbiz",
-          "published": "11-22 17:32",
-          "snippet": "[르포] 한돈 수출 올 들어 219% 증가...돼지 日 100여 마리 다듬는 제주도 가공장 Chosunbiz 수출길 열린 제주 축산…시장 안착까지는 더 지켜봐야 KBS 뉴스 토종의 맛에 개량의 힘…국산 흑돼지 ‘난축맛돈’ 시장 확대 마켓인 제주산 한돈·한우 싱가포르 수출 1년…청정 제주 경쟁력 통했다 - 머니투데이 머니투데이 [르포] 로봇이 도축하고 베테랑이 발골…제주 축산물 세계 식탁으로 전자신문"
-        },
-        {
-          "title": "中 희토류·영구자석 수출 제한에 발목 잡힌 로봇업계 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSmlyNmdFWGdjbEY0M09jWEpzT0x3a3pZUFBaUG5Bc21Pbld6U2tpa0hSTDFYcHJoTkZ1cTBKbmMyVktMRktUeWpnVzQxVmJqeHJtMHB3QzBZUy1nb1FhcHVGM0g1ckw1Tk9rek1ndzEtV2prNE52bWktUndoRVRwZnBfT2XSAZgBQVVfeXFMTkZ3Zy1fU29USEtpYWdHamZjaHJUaGdDeW04ZTJCTDB5bDhabkN6WjJRZC1KZjNWUjUzWGNDd0M5Yll1OHhLZ0ZZZnRDTUlURjhJX2lfQkR6bmljUWlHLVkweEdoUUdVQXlmTl9RUnRXZGtzMHNuQTluZEtPQ19Ud2pUNWFWYlBDLThuNjY0dUphX2dnQ3UwRDA?oc=5",
-          "source": "Chosunbiz",
-          "published": "11-22 06:14",
-          "snippet": "中 희토류·영구자석 수출 제한에 발목 잡힌 로봇업계 Chosunbiz 中 99% 쥔 희토류 자석…포스코·LS, 광산부터 자석까지 '자립' 승부수 이데일리 [fn이사람] \"中에 쏠린 로봇 부품 생태계, 공급망 확대를\" 파이낸셜뉴스 [올댓차이나] 中, 10월 일본에 희토류 자석 214.6t 수출…2개월 만에 200t 회복 뉴시스 中 10월 희토류 자석 수출 7.6% 감소… 美·EU행 줄어든 반면 日은 25% 급증 글로벌이코노믹"
-        }
-      ],
-      "나스닥 폭락 쇼크": [
-        {
-          "title": "\"호재도 안 통한다\" 나스닥 5%대 폭락 쇼크...엔비디아 14%↓[뉴욕마감] - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tSEFWQ0pNTzVzSE1POG1LMUcybWlGR2VRcnJoYWVzajFVRnR3Umg3ZWp3Y25pMGsyMWdhUFotV2d2VDNnRXZJUzR0TXZCN1hiZVVUUUdDdldUUS1XbldJSTcxbGUtR0NV0gFuQVVfeXFMTUZqQmZFcjFIQ3ZuN253SEZoSXNhLThieDRwelpWOW5scXQ2aDhPNEhVZWdraUZadWZYaVVmX1R5RWpYNmtIRWlydW1PSmkzUG5SUllKUDY0OTNPVWExbXlmQ3RXT2Z6RkRGWU83OWc?oc=5",
-          "source": "머니투데이",
-          "published": "11-22 08:21",
-          "snippet": "\"호재도 안 통한다\" 나스닥 5%대 폭락 쇼크...엔비디아 14%↓[뉴욕마감] - 머니투데이 머니투데이"
+          "published": "11-22 07:00",
+          "snippet": "[뉴욕증시-주간전망] AI 투매에 흔들린 월가…PCE 물가 분수령 연합인포맥스"
         },
         {
           "title": "나스닥 폭락에 또 검은 월요일?…\"증시 공포 이미 금융위기 수준\" - 비즈워치",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OTXFkelpaTUs0b0lBeTgxNlZQejRyMl9WNGgtUHdlZ0VpV2c3N0NaT29yTnZQUlUydHF3ZHBtUFpYek5QT3pBY2h6c3NRU0hCVFBhOFlNZERzTmVSU1R6bm92RlREV0tsMVE?oc=5",
           "source": "비즈워치",
           "published": "11-22 12:07",
-          "snippet": "나스닥 폭락에 또 검은 월요일?…\"증시 공포 이미 금융위기 수준\" 비즈워치 주말 美증시도 ‘패닉 투매’... 韓 “월요일 개장이 두렵다” 조선일보 7주 만에 '3800조' 증발…'CEO 불륜' 쇼크에 섬뜩한 경고 [분석+] 한국경제 ‘투매 장세’에 무너진 뉴욕증시…월요일 코스피 덮칠 충격은 JTBC \"월요일이 무섭다\" 나스닥 급락에 국장 개미도 긴장…AI 수익성 우려 - 머니투데이 머니투데이"
+          "snippet": "나스닥 폭락에 또 검은 월요일?…\"증시 공포 이미 금융위기 수준\" 비즈워치 美 반도체 10% 급락…외인 15조 이탈에 국내증시 비상 한국경제 [태평로] 젠슨 황의 몰락이 던지는 질문 조선일보 ‘투매 장세’에 무너진 뉴욕증시…월요일 코스피 덮칠 충격은 JTBC 美 AI주 투매 쇼크…글로벌 시장 덮친 '블랙먼데이' 공포 마켓인"
         },
         {
-          "title": "나스닥 5.28% 폭락…앤트로픽도 하루 만에 공모가 수준 하락 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMXducFhxSHY2b1BuWkdjQllVSjI0LVRzQjFMMktxSDE2eE1BNFc2NUJUN3N4eU9qdi13RXhEbUlTVGM1WHNGVVhBWWNfZVYtczFMZGdqd25idm8zaHdNZ2tJMjlud3dtc2x6MGtNMmtzUWp5VG41NjRjNVlsVk1sY2Jn?oc=5",
+          "title": "[증시 AI충격파]DB증권 \"신용재평가 국면…사이클 훼손보다 차입점검 필요\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SbEVYX2ZUWnlBRURWTmt1Q01tcDcybDM3azRlMy1MQy1NNjB1blZIMHRyaUladl8xTDl2bjUtRzRRT1M3ME9mU2hxODNrM0hIRnV5RVhrNEwzekxOTXcxS1BhNHREdkNBSDFoaHVaeFk?oc=5",
+          "source": "연합인포맥스",
+          "published": "11-23 08:13",
+          "snippet": "[증시 AI충격파]DB증권 \"신용재평가 국면…사이클 훼손보다 차입점검 필요\" 연합인포맥스 AI 랠리 변곡점 왔나…월가 \"버블 터졌다\" vs \"반등 여지 충분\" 연합인포맥스 메모리 주식 급락, 지금 매수해야 할까? 씨티의 분석 Investing.com 한국어 \"닷컴버블 붕괴 직전과 닮았다\" 매일경제 AI 투자 열풍 꺾이면 S&P 500은 얼마나 타격받나? Investing.com 한국어"
+        }
+      ],
+      "엔비디아 수출통제 논란": [
+        {
+          "title": "미 재무 “엔비디아 수출통제 준수 여부가 핵심”…젠슨 황 복귀 가능성 배제 안 해 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TNzlnZW9NdzY3UzVXdUZERURvR2Yxb1QxbWRGVkg5VnNoUkZFT1lEQ09SV0RfTV9DUVhpRGRIeEpvT2dwbVltVkVwdk5xY0F5WDU1dGU2YmRLeTQ?oc=5",
+          "source": "KBS 뉴스",
+          "published": "11-23 06:07",
+          "snippet": "미 재무 “엔비디아 수출통제 준수 여부가 핵심”…젠슨 황 복귀 가능성 배제 안 해 KBS 뉴스 美재무장관 \"엔비디아의 규정준수 여부는 젠슨황 개인사와 별개\" 연합뉴스 미 재무 \"엔비디아 규정 준수 여부, 스캔들과 별개\"...\"국제 밀수망 얽혀\" YTN [뉴스광장 헤드라인] KBS 뉴스 ‘1인 독주’ 젠슨 황 사태, 이사회가 멈췄다 조선일보"
+        },
+        {
+          "title": "中 국가안전부, 2년 전부터 AI 칩 확보 비밀작전…美 수출통제 우회 노려 - 서울경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1md3pveUhwaVNvRjN6U0VCdGZ4ZEpSZVR0cDg4T2pmQTJCUHpqbEpfT09tUTVvSWZrTFVqbDlSWXZkY2RoRmRPdkVrcklZeFFxc2fSAVNBVV95cUxPZ1U3Nlg5SF95NWtYdDZ3NjdiNWZJYlFZZmNuQTFrdDJqcjB3blQxTjV6TURaTUVLckZPeFpnV1UxaFRKX3lDeV9oRmF5N2lsaWM2dw?oc=5",
+          "source": "서울경제",
+          "published": "11-22 20:13",
+          "snippet": "中 국가안전부, 2년 전부터 AI 칩 확보 비밀작전…美 수출통제 우회 노려 서울경제 젠슨황發 美반도체 수출 규제에 삼성·TSCM도 부담 세계일보 [연합뉴스 이 시각 헤드라인] - 07:30 연합뉴스 WSJ “러트닉 미 상무, ‘엔비디아 사태 등 경질 위기’에도 건재” KBS 뉴스 \"中에 못 팔면 어쩌나\" 반도체주 폭락에도…깜짝 전망 나왔다 [노정동의 어쩌다 투자자] 한국경제"
+        },
+        {
+          "title": "엔비디아 칩 중국 우회 밀수망…\"젠슨 황 연인·캄보디아 범죄조직 얽혀\" - SBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBZ0xCRUYzeXV6R2VPVXkyMWhnRG1tS1VlVFhQR0wwU3JpOFF5NzZES281bFZncHpGdTRGZzdXUG5uNEU1YlhsYmV2Uk9zcFk4YW1YSXNFVVQwYk1DVnpSMW9CM0dmdkpfU1E?oc=5",
+          "source": "SBS 뉴스",
+          "published": "11-22 22:33",
+          "snippet": "엔비디아 칩 중국 우회 밀수망…\"젠슨 황 연인·캄보디아 범죄조직 얽혀\" SBS 뉴스 “엔비디아칩 중국 밀반입망, 앨리스 황과 캄보디아 범죄조직 인사로 이어져” 경향신문 앨리스 황 AI칩 밀반입에 캄보디아 범죄조직 연루 매일경제 엔비디아 사태, 회계 부정 의혹으로 번져…美 SEC, 조사 착수 동아일보 \"앨리스 황은 '얼굴노릇'만…엔비디아칩 中밀수 주도자는 50대 중국인\" 연합뉴스"
+        },
+        {
+          "title": "미 재무 \"엔비디아 규정 준수 여부, 스캔들과 별개\"...미중 무역전쟁 재점화 우려 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JOS1KT04zTXRyOVVMSnhtandLRkFMSGJvT1lXUG9ObFNGMGZBc1podEJTVjBxX25HS00wbTVqb0p4dkRaR0RUY2t6eDN5UmNQOEVZRmU1WGZHTzZKSlE?oc=5",
+          "source": "YTN",
+          "published": "11-23 06:00",
+          "snippet": "미 재무 \"엔비디아 규정 준수 여부, 스캔들과 별개\"...미중 무역전쟁 재점화 우려 YTN"
+        },
+        {
+          "title": "엔비디아 사태, 미중 무역전쟁 '버튼' 누르나? [뉴스UP] - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaT2FZUklJUU5nNGV5Vm1XbzdGRThEbHhrRl92YUdpMy1HUnpNTnZnNm1LQVdBYVhuWW56SXVGZ0NVLTRhQXYzcUdIV3lNOVIyOERMeG5OR2NGeEZUbmc?oc=5",
+          "source": "YTN",
+          "published": "11-23 08:22",
+          "snippet": "엔비디아 사태, 미중 무역전쟁 '버튼' 누르나? [뉴스UP] YTN"
+        },
+        {
+          "title": "“앤트로픽 기대감 누른 엔비디아발 악재”…나스닥 올해 상승분 반납 - IT비즈뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyTllIam1meHktc19nU1RIalV3S19EX3VhamdwUjFVaFJOMGFxWnRwVDZ0NzFFT2FCRlRtc1pPemZBa0IxTlNQV21MdHl1TVZtbE5qeGhubmVUcjRzM2RWZzlnTWpadXJsbFRscA?oc=5",
+          "source": "IT비즈뉴스",
+          "published": "11-23 07:00",
+          "snippet": "“앤트로픽 기대감 누른 엔비디아발 악재”…나스닥 올해 상승분 반납 IT비즈뉴스"
+        }
+      ],
+      "주택 자산 양극화": [
+        {
+          "title": "유주택자 주택자산 양극화, 52배 차이 - 비즈워치",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ad25hU2praFhoSFIwN1pvMXM0U3V4TVU3dy10OU9lTWVtWmN6a1ZCNTFLdVhpdzhncEJ2cktWUkdadUFHVUI3bkg4ZkxHMWxlTDlzLXd0cFM5X054aW1ER2NEZXNRaXk4Ql9fYWhJakY?oc=5",
+          "source": "비즈워치",
+          "published": "11-22 16:00",
+          "snippet": "유주택자 주택자산 양극화, 52배 차이 비즈워치 집값 급등에…`시세 17억` 주택보유 30대 1년새 70% 급증 국제신문 '집값 17억' 넘는 30대만 1만8000명 … 세금 폭탄에 증여 급증 탓 뉴데일리 경제 부동산의 가치, 세금의 기준 마켓인 “아래층 이사 온 집도 ‘부모찬스’ 쓴 거래”…17억 이상 주택 가진 30대 급증 매일경제 마켓"
+        },
+        {
+          "title": "[단독] 공급 늘리려 만든 서울 주택진흥기금, 내년 절반은 전월세 보증금에 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUFk2aXFBYmFpdjYzTVhLMWkxMXJTRFRoMDNESzhKQmVVWjlxUncxbWt3dG9Fak4wUndNV1FWeGNHV3RpaDNYOU9mclV5TXpDQ05yY1hENUtMcVJ1dHoyNUZ3akZzT3hadzdsRlJ3d2NjR1JNTmhxVVJoRlhMOGlJYk16NDdaSmxDNmU4YlY4bjQ0Y1JrZHU4aNIBrAFBVV95cUxNQi14cjNvV2lpX2Y0X2lhdXRVOVUyc2wwSmVTR1ExM0o5a094VktYYlJ0d19XTlZsRFFhUUxRTGdwSUJ5bGZYSElkeUlMRFZxQ2NiR1luVkdpWk13aUtEVHBGS0NGOHdzdl81b2lwRy1aajUzRmtSNDI5c3N4VU90ZFpfbmpDOHp0alNfdldqeTRSTDdLa1lzTkxzcGFUOEF4UnZza3hYNDNhTEVn?oc=5",
+          "source": "Chosunbiz",
+          "published": "11-23 06:00",
+          "snippet": "[단독] 공급 늘리려 만든 서울 주택진흥기금, 내년 절반은 전월세 보증금에 Chosunbiz"
+        },
+        {
+          "title": "“내 집에 혼자 삽니다, 돈은 없습니다”…1인가구 주택 소유 비중 ‘역대 최대’ - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yX0FWcHpjRU82MHAzWUw2RVQ4NWxzVEdtSlVRMF9RbGwwR2ZpMTlmSlQwVkQwUU5wWjdUa3A4LURYR1FDQmxVY2xYR29jeEZieTRObklqU3o?oc=5",
+          "source": "매일경제",
+          "published": "11-22 10:02",
+          "snippet": "“내 집에 혼자 삽니다, 돈은 없습니다”…1인가구 주택 소유 비중 ‘역대 최대’ 매일경제 “어머니도 누나도 저도 혼자삽니다”…집주인 5명 중 1명은 1인가구 매일경제 마켓 사별하고 자녀 독립하고…주택 소유 가구 20.9%가 ‘나홀로 가구’ 동아일보 1인가구 주택소유율 역대 최고…주택 보유 55%는 1·2인 가구 뉴시스 부산 주택 소유가구 22%는 1인 가구 부산일보"
+        },
+        {
+          "title": "디지털자산 시장 전면 규율…기본법 정부안 이번 주 공개 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xOXhmT1pSbUtHMnlmM0JSd2NodTk4RVlXYWNfOFM1X2lBSFFDeVBCVVI3X0FQaFFHMDcxMnlad2dEOVB6cW1MY21wOGRhd0R2M0N5YjIxLXlsZGtOTHAzeVdPRmpCVzA?oc=5",
+          "source": "연합뉴스TV",
+          "published": "11-22 10:16",
+          "snippet": "디지털자산 시장 전면 규율…기본법 정부안 이번 주 공개 연합뉴스TV 외국인 국내 결제·해외자금 조달… 쓰임새 확보가 '최우선'[원화 스테이블코인 '골든타임'] 파이낸셜뉴스 코인기본법 정부안 이번주에…'대주주 지분 제한' 진통은 불가피 - 머니투데이 머니투데이 가상자산 시장 재편 서막 열린다…“디지털자산기본법 정부안 이번주 공개” 헤럴드경제 디지털자산법 정부안 공개…코인시장 격변 예고 한국경제"
+        },
+        {
+          "title": "연준 정책 불확실성과 펀드 인출로 디지털 자산 유동성이 줄면서 지캐시 하락 - Traders Union",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVm1BeC12M0lGUHZIX1pKZVBhSWJsVHFZU0planpHTm9ySVQ2S2tlR2pheU1MdnQ4T3ZBcThjSmZIaEczalJkeUtYSWdYLXZlNVBxSXdobGY1N0VrOTNISmJ2WEFsWkc1N3NpTjZaSzd5a2xFZklxTHZzdC1fTmNKYmdLNnVFYVpZaHFxSXNjSUl1cE1yYmUwSGp4LTA?oc=5",
+          "source": "Traders Union",
+          "published": "11-23 05:34",
+          "snippet": "연준 정책 불확실성과 펀드 인출로 디지털 자산 유동성이 줄면서 지캐시 하락 Traders Union"
+        },
+        {
+          "title": "30대 '고가 집주인' 70% 늘었다…증여도 쑥 - 자본시장뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15VG9mQXhfdzFKa2pSUmx4QXJVakF5MUFhTUVrR2xNWUlEb2VlQ180M2lsazMtUXRCTk1WQ1drbDl0TVF3RU9WdDFHMTFOMzZ3aFp4R1hUcF9jQ00yNDNPQ3Uyek9VdzQ?oc=5",
+          "source": "자본시장뉴스",
+          "published": "11-22 15:52",
+          "snippet": "30대 '고가 집주인' 70% 늘었다…증여도 쑥 자본시장뉴스"
+        }
+      ],
+      "나스닥 기술주 폭락": [
+        {
+          "title": "나스닥 폭락에 또 검은 월요일?…\"증시 공포 이미 금융위기 수준\" - 비즈워치",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OTXFkelpaTUs0b0lBeTgxNlZQejRyMl9WNGgtUHdlZ0VpV2c3N0NaT29yTnZQUlUydHF3ZHBtUFpYek5QT3pBY2h6c3NRU0hCVFBhOFlNZERzTmVSU1R6bm92RlREV0tsMVE?oc=5",
+          "source": "비즈워치",
+          "published": "11-22 12:07",
+          "snippet": "나스닥 폭락에 또 검은 월요일?…\"증시 공포 이미 금융위기 수준\" 비즈워치 美 반도체 10% 급락…외인 15조 이탈에 국내증시 비상 한국경제 [태평로] 젠슨 황의 몰락이 던지는 질문 조선일보 ‘투매 장세’에 무너진 뉴욕증시…월요일 코스피 덮칠 충격은 JTBC 美 AI주 투매 쇼크…글로벌 시장 덮친 '블랙먼데이' 공포 마켓인"
+        },
+        {
+          "title": "[개장] 뉴욕증시, 기술주 투매에 나스닥 5%↓..올해 상승분 반납 - 알파경제",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XTjFDQjdnZm5yY3FIYURMU0NIOFZaWmpzb1dtTVVLem1OeFRmNWRBVDVBdno0VUVxeW05bHN5TnUtMkNpREdWNTE1R1p2aDBmd0F3LVJvbXBIVks5VjhCOTJrVU9Ra2dYT05NTGlR?oc=5",
+          "source": "알파경제",
+          "published": "11-23 07:41",
+          "snippet": "[개장] 뉴욕증시, 기술주 투매에 나스닥 5%↓..올해 상승분 반납 알파경제"
+        },
+        {
+          "title": "“금리 올리면 주가도 집값도 폭락?”…‘슈퍼 목요일’ 주목 [잇슈 머니] - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BQVpBN1Q4WlBOVHRGUzA2ems5VHBDRzA5RjJXcy1BQ1VVaVY1QkE4dzQ5VjdYSW9YdmNvRXVHR2FqRWNZTVlLNmZIOHRQU3B4VG1haXdjNHBYQW1qMGdlRy04YWJhZw?oc=5",
+          "source": "KBS 뉴스",
+          "published": "11-23 06:50",
+          "snippet": "“금리 올리면 주가도 집값도 폭락?”…‘슈퍼 목요일’ 주목 [잇슈 머니] KBS 뉴스 한경 이코노미스트 전원 \"이달 금리 0.25%P 인상\" 한국경제 [채권-주간] 기술주 투매가 밀어붙인 강세…금통위가 브레이크 걸까 연합인포맥스 한은, 올해 성장률 3%대 후반으로 올리나…내년도 상향 여지 마켓인 물가·성장 모두 ↑…시장은 힘겨워도 \"한은 금리는 올라간다\" 조선일보"
+        },
+        {
+          "title": "\"기술주 2천300조 증발\"에 중국 당국 유동성 확대 나서 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhclpIaWthTEVWa2JWRkkxOXhTb01pbXFlZ1NaSkd2ekhUYVc0R29kY3lnQ2hjTzhNYnRLS3NHYmFXdm1iQzZyM2FyMWkwNUdZTnRzVlAyUkFoNVhNQ0lSRmRVanJzQUVCc1BlOGs0N2UwVkxu0gF0QVVfeXFMTjdhTExYaUIzQzN0ZHd3YklkWHE4WGk2VnFhbmc4cm84WmViTGtXem00VURsUGpCb29LTU9SV01yQm56Ti1pQ2JBMWFSMkt5RGxKSV93d1drdVdNa2I3Z3FQZ05TbGUyWWVJdi14cU1ZM01nNFI?oc=5",
+          "source": "MBC 뉴스",
+          "published": "11-22 22:41",
+          "snippet": "\"기술주 2천300조 증발\"에 중국 당국 유동성 확대 나서 MBC 뉴스 ‘AI 열풍’ 식자 中 기술주서 2289조원 증발…中당국이 꺼낸 유동성 카드 규모가? 매일경제 AI주 폭락에 亞증시 방어 총력…中 81조원 매수 여력 확대 뉴스1 中 기술주 시총 2300조원 증발…6월 말 이후 창업판 49%↓ 마켓인 中, 10개월 만에 신용거래 증거금 인하…기술주 시총 2289조원 증발 뉴시스"
+        },
+        {
+          "title": "나스닥 시총 일주일 새 5천조 ‘증발’…“AI 투자 회의론 점점 커져” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWUwyQWlOMlhMWE5YUUZVX0tqMHRnc2lPNnFUajZ6OWdzWXI3Q296c3dVQlRaRmtfbjcxVzlrc3p1MFM4TnMzM19lY2tLaUdLbWhGa1F2SFFSTElyVURlbDZDR1M5Z2M0UkxyVTJNbDhicjJOODAwZjlwT3h0YTBZc0Nn?oc=5",
           "source": "한겨레",
-          "published": "11-22 08:44",
-          "snippet": "나스닥 5.28% 폭락…앤트로픽도 하루 만에 공모가 수준 하락 한겨레"
-        },
-        {
-          "title": "11월 4주차 나스닥 폭락에 따른 투자 전략 - 네이버 프리미엄콘텐츠",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS3Bpamo4c1VWYl9ISFd5VmItYWlIdno3UnM5UzNIcHZzbmtnQ19GeGxhMFNxTVFySDRqeVpCOTdCcC12V3k5RlR2ZHBUSWlDaWNPay1nVGx5M3pNRjNsanM5SWF2UHFQUUdZNGMtN3VNSE5jX3RtSkl0N3ZNMFBHQ0JrUl9XTjBKbkotbU1qZzg0NGVkZHR3?oc=5",
-          "source": "네이버 프리미엄콘텐츠",
-          "published": "11-22 11:12",
-          "snippet": "11월 4주차 나스닥 폭락에 따른 투자 전략 네이버 프리미엄콘텐츠"
-        },
-        {
-          "title": "나스닥 5.3% 폭락…'AI 성공 서사' 붕괴하나 - 세상을 바꾸는 시민언론 민들레",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QZWgzRDNkU01jdGVib2pFRUhzcERERk10SUJoQjhPTXV4NllxR0pKb1pzTnA3a0tLTkdzLW1yWjBiWVluWXJDeDRIbWZOakpiWU95YlBNVWhiV2RMalVSNVJmdWhsc0VOaFc4MA?oc=5",
-          "source": "세상을 바꾸는 시민언론 민들레",
-          "published": "11-22 08:00",
-          "snippet": "나스닥 5.3% 폭락…'AI 성공 서사' 붕괴하나 세상을 바꾸는 시민언론 민들레"
+          "published": "11-22 20:13",
+          "snippet": "나스닥 시총 일주일 새 5천조 ‘증발’…“AI 투자 회의론 점점 커져” 한겨레 \"무엇을 사겠느냐\" 아무도 답 없었다…'블랙 크리스마스' 공포 덮친 월가 한국경제 골드만삭스 패닉지수 최고치 근접…다음주도 매도세 지속 경고 연합뉴스 나스닥 5.3% ↓… '검은 월요일' 공포, 고개 드는 'AI 회의론' - 머니투데이 머니투데이 엇갈린 증시 전망…공포냐 반등이냐 갈림길 파이낸셜뉴스"
         },
         {
           "title": "주말 美증시도 ‘패닉 투매’... 韓 “월요일 개장이 두렵다” - 조선일보",
@@ -860,57 +849,27 @@
           "snippet": "주말 美증시도 ‘패닉 투매’... 韓 “월요일 개장이 두렵다” 조선일보"
         }
       ],
-      "앤트로픽 주가 급락": [
+      "연준 과잉긴축 경고": [
         {
-          "title": "앤트로픽 주가 급락 이유 놓고 월가에서 공방 치열 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BbWJ6V3RnY1BKb3NZeHo3MXczSUwweUdfeld1WUozZ2x2Wk5yMTd2MXI4ZjJsSnVGVFpOa3dpU3NucVJlSjZ4UmF3N2FSZnlDWXQ3Q1g2Ul9TcjB6ZXc?oc=5",
-          "source": "YTN",
-          "published": "11-22 09:14",
-          "snippet": "앤트로픽 주가 급락 이유 놓고 월가에서 공방 치열 YTN"
+          "title": "베선트, 연준에 과잉긴축 경고…\"금융여건 상당히 조여져\" - 마켓인",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKRmpRelNvRW9YOEg0dV92VU9yUERFRDB4WWtxM0dwY0h3aUV6Z05fNUxKNm1kMWVjdjJZMGo1U2ljNGJMMWxhTUU3T0VfRDZCWk1rRmtuVFBLYmc2a3pFNHhtbk42dWd4OGJOT0tZbGpMcWs?oc=5",
+          "source": "마켓인",
+          "published": "11-23 07:51",
+          "snippet": "베선트, 연준에 과잉긴축 경고…\"금융여건 상당히 조여져\" 마켓인"
         },
-        {
-          "title": "앤트로픽 급락에 월가 '책임 공방'...패닉지수 10점 만점에 9점 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84bUUtVUFXeHJCem5tRENiQ3VXazNlTlM5Ymk5ZjJXVldxZmUxaTVFeVpyVEdtVTc4XzF6WFY3X1U3NWg2QldHcnhxXzhSakJiamVyTExMa1oydVlGT054ZW8xdF9fQW9YM0UwS0pZdw?oc=5",
-          "source": "YTN",
-          "published": "11-22 10:05",
-          "snippet": "앤트로픽 급락에 월가 '책임 공방'...패닉지수 10점 만점에 9점 YTN"
-        },
-        {
-          "title": "공모 배분 탓? 직원 매도허용 때문?…앤트로픽 급락에 월가 공방 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ycFFxNGwwSDhCTWlXM0VCWkttRF9SYkpaMTcyN1RsT2Z4V2hFaEwxcmE2SW5KY0E0STFTc2FXRWotNVdDajItQjVFUXdwazlLNGh5dGRLTW8xQTTSAWBBVV95cUxOd0FBOFZSbHEtQ0VYdm1PNktNTjNRc2hzVVdKTHBCSFQyMlpPeEFQaUZQMjRNeDVIVS1qWU1HRDdJSDUyVzdiUU56SlpWSGRKVkNBNms2Y1NScWZHdGpxN1Y?oc=5",
-          "source": "연합뉴스",
-          "published": "11-22 07:52",
-          "snippet": "공모 배분 탓? 직원 매도허용 때문?…앤트로픽 급락에 월가 공방 연합뉴스"
-        },
-        {
-          "title": "앤트로픽 주가 널뛰기에 월가 AI수익성 우려·실리콘밸리 낙관론 교차 - 자유일보",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjWGNuWDZYNzN2c05BbWUxX2dBUFBhb2NWNDI1NVgyZlRFM2VkVnpxbkwtN3MyMGZwdnVkci12Ul9QVUlDM3NsTWZvcEFqNXpCcGhNbjhHRHFCbHRzV0xCYkVjMTdEQ2ZJN0gw0gFvQVVfeXFMUEpycWtucjN1aWFFMzN0NXpidWlRcGQwMUE3b2FBZ2VQV1ZvT2ttZ0xCclRLOXUyZXFqVXdWejRYcWFYV0xYSmg4bWcwRWMwc1NhLWxjWlVUWHRmYW5LZmVibzZLT1pLSG9KVk5KODJB?oc=5",
-          "source": "자유일보",
-          "published": "11-22 17:00",
-          "snippet": "앤트로픽 주가 널뛰기에 월가 AI수익성 우려·실리콘밸리 낙관론 교차 자유일보"
-        },
-        {
-          "title": "상장 이틀 차 앤트로픽 급락에…‘공모 배분 탓’, ‘직원 매도허용 때문’ 월가 공방 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT0t4eS1TOGVjaUtqMDdZNXBOb1dVSE5lM3NqOWV4eHNQQU0zSmNaME5Cd25rQnZxM2RqcWpGSlNxWk9iNjc0QXAwT1R3XzVsZFdNWTNXRS0wS2RVazBLRjZuaVpDcG91QVdBNU5yYTZDSGFvZEpKeE9ZTlhqaXIxbnBfT3ZIaC100gGcAUFVX3lxTE5SV0ZVNmhfaWZtR2VIMmNkbmZPMUhiNk1mVUtTc3pQWGdMM21hMnZHRlNsQXlTd00zTnhwTlpPcUcwNGs1ZGpsZGlXMVNCQzdTOWRfY2pzX0ZjTUNNaGZMTm1HeXpsZHZuSU1jMDFoTFpYZjFVbjl3eXY2ZUFDVFNGVmJYTHI4azFONTd5Y1h3aFFBTFFFN1dhVi00dA?oc=5",
-          "source": "Chosunbiz",
-          "published": "11-22 15:40",
-          "snippet": "상장 이틀 차 앤트로픽 급락에…‘공모 배분 탓’, ‘직원 매도허용 때문’ 월가 공방 Chosunbiz"
-        },
-        {
-          "title": "두산에너빌리티 주가 새주 향방은…미국 원전주·나스닥 급락 '변수'되나? - CBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4Qjhma1lPVlNxOHc0bmhCNTNaQlJWbWJFN2s4dW9VLUI3dkVtdHBrZG40OWtiOUdHRnB5dHlEYU9PR0dibHpEMVZlN2x3UzFVNm9URDdZNGlZbVZpbjBibllVb0dIOVRS?oc=5",
-          "source": "CBC뉴스",
-          "published": "11-23 00:10",
-          "snippet": "두산에너빌리티 주가 새주 향방은…미국 원전주·나스닥 급락 '변수'되나? CBC뉴스"
-        }
-      ],
-      "연준 긴축 우려": [
         {
           "title": "美재무 \"연준 과잉 긴축 시 실수 가능성\"…증시 투매 이유로 지목 - 연합인포맥스",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YaF9OVUJDeWlwSWRHNWR4YnlIUzdQNkVKQ3daazJsUVNCSFhNZ2VHMDcwclVuRWVNV0VPVzhJRGcwRUZUUEJNNHFfT2VFWGVxMDJ2b2VibXYwcGRUZUl3OXNqeDNUbzd2NWZtSDdWbFU?oc=5",
           "source": "연합인포맥스",
           "published": "11-23 03:41",
-          "snippet": "美재무 \"연준 과잉 긴축 시 실수 가능성\"…증시 투매 이유로 지목 연합인포맥스"
+          "snippet": "美재무 \"연준 과잉 긴축 시 실수 가능성\"…증시 투매 이유로 지목 연합인포맥스 베선트, 연준에 과잉긴축 경고…\"금융여건 상당히 조여져\" 마켓인 증시 폭락 이유가 연준?…美재무 연준 긴축 과도시 실수 우려 SBS Biz 베센트 \"연준 '빅스텝' 안 해야...월러는 오락가락\" YTN 트럼프·베선트, 美 연준 추가 긴축에 잇단 견제 글로벌이코노믹"
+        },
+        {
+          "title": "[GAM] 월가 \"저가매수 이르다...왜? 연준이 아직 매파니까\" - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYaTd5eFl6M1BRaGtteU85YUFWRW5Sa21zdDhnRGZkUHRuRW5zNGNBbVFZSC1lZEdSb0U2c05ranktaEdFMy01SUZOVklBcnJVVUpDTUlqQUJEeDIx?oc=5",
+          "source": "뉴스핌",
+          "published": "11-23 08:20",
+          "snippet": "[GAM] 월가 \"저가매수 이르다...왜? 연준이 아직 매파니까\" 뉴스핌"
         },
         {
           "title": "[뉴욕채권-주간] 연준 긴축 증시가 대신 해주나…다가오는 '침묵 기간' - 연합인포맥스",
@@ -920,83 +879,102 @@
           "snippet": "[뉴욕채권-주간] 연준 긴축 증시가 대신 해주나…다가오는 '침묵 기간' 연합인포맥스"
         },
         {
-          "title": "트럼프·베선트, 美 연준 추가 긴축에 잇단 견제 - 글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSjNXY1EtU2tuWWpRN3VydTMzUERnWDZPNUlKQWVwZnpRV1EtZ2FFaDJoVjhQQVMxSnpuMi0zV1ZVWU13czFtbmcxeDdXSDhoNTk5a1FqV2hrX2dhMzBkVTllMlFEaWZqbjkxLURyOVlYQ1hkWXVieF9ES0V1a1pDQTY0Z2FzM3lI?oc=5",
-          "source": "글로벌이코노믹",
-          "published": "11-22 03:00",
-          "snippet": "트럼프·베선트, 美 연준 추가 긴축에 잇단 견제 글로벌이코노믹"
+          "title": "美 재무장관 \"연준 과도한 긴축, 경제 위협할 수 있어\" - 블루밍비트",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0dzN0dEtfOW1nek9KZUJQQ2RKRG1fS1I5NGpyM3lZbGdNSk1GQlcyc0JmNWFsNmtCLVlmZFo3bHAtYkZXRHhmbGJrZ0hVT1dW?oc=5",
+          "source": "블루밍비트",
+          "published": "11-23 06:50",
+          "snippet": "美 재무장관 \"연준 과도한 긴축, 경제 위협할 수 있어\" 블루밍비트"
         },
         {
-          "title": "암호화폐 5%만 상승…연준 금리인상 우려 - BeInCrypto",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ib204VWhjbDV2bmpFZ01CV2JOR0FuUFp5MDNvM3FQQjdFX3lWVmVQamtIWm9pNHU2QS01U3c0VkRvOVlkMkxlWldyTllfbl90NGlMV1htOWtKNHZPLUh1QkFFUHliY0E4THdQc3RQN1pKZmhQOFRSRko1U1UyQ1k?oc=5",
-          "source": "BeInCrypto",
-          "published": "11-22 20:34",
-          "snippet": "암호화폐 5%만 상승…연준 금리인상 우려 BeInCrypto"
+          "title": "미 재무장관, 연준 과잉 긴축 경고 - 데일리바이트(DAILY BYTE)",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU3N5U1U4TlVRTTNWUUZMWkgxaDNOMUdxZ204bUZJMFNqRDRMN3pmem9CaDJXQ1djZWRQTkhVbVJHUGItaTg5QmZfcFhkMnYxM0dPaDh3Ny11N3dQTHJlQ2VsTzRaeVBrWDF5bmdrYmxxTk40b3Y3U09Ga3VnN2wwWlM0WlFubzgxcm1CZlFhbF9jOVhqc1pUNg?oc=5",
+          "source": "데일리바이트(DAILY BYTE)",
+          "published": "11-23 01:08",
+          "snippet": "미 재무장관, 연준 과잉 긴축 경고 데일리바이트(DAILY BYTE)"
+        }
+      ],
+      "S&P500 전망 하향": [
+        {
+          "title": "'월가 거물' 야데니, 연말 S&P500 전망 7,900→7,500 하향 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3QXJzTjNyUFhQX1U5cXpGTWZBUG1hQk1Ic18tbFg4M0d3UEtNTWRRUDlweFMwNWVZM0dxRUloaUlOUGlZRm1QSzc1cTNhQUNYckEzdnlzd0Vkb1NBWGc?oc=5",
+          "source": "YTN",
+          "published": "11-23 05:08",
+          "snippet": "'월가 거물' 야데니, 연말 S&P500 전망 7,900→7,500 하향 YTN '월가 베테랑' 야데니, 연말 S&P 500지수 '7,900→7,500' 하향 연합인포맥스 '강세론자' 야데니, 연말 S&P500 전망 7900→7500 하향 - 머니투데이 머니투데이 야데니, 연말 S&P500 전망치 7,500으로 하향 연합뉴스TV \"더 큰 매수 기회\"…반도체 쇼크에 S&P500 눈높이 낮춘 월가 거물 마켓인"
         },
         {
-          "title": "수출 1조 달러의 역설…최대 무역흑자에 美·인도·튀르키예 통상 압박 우려 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Lb3hKZTRDOGRyYmlVRHFTNC1tb2VvRlJ5cVNrQVIwemx4eFFwVXotWmV2Z05ZVEhuUXZNREotVW9ha2hueWE4clpVUnV6VTE1bDVDRlRMM0NMbFV4aHRz?oc=5",
+          "title": "월가 강세론자 야데니, S&P500 연말 목표 7900→7500 하향 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hMU5SZGVrczFYUUxUMXRBTE5PMzlVZDFtbnl5eHl5SVFhUGpvLVdJeXpfdTIzTHo3MGRwRHkzU1pnRjEyS2diT1ZrSU12T2t2RzBjN3NDbWc?oc=5",
           "source": "뉴스1",
-          "published": "11-22 06:50",
-          "snippet": "수출 1조 달러의 역설…최대 무역흑자에 美·인도·튀르키예 통상 압박 우려 뉴스1 Google 뉴스에서 헤드라인 및 의견 더보기"
+          "published": "11-23 05:41",
+          "snippet": "월가 강세론자 야데니, S&P500 연말 목표 7900→7500 하향 뉴스1"
         },
         {
-          "title": "‘블랙먼데이’ 우려 커진 코스피…대만은 공매도 빗장 초강수, 한국은 - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vMExVbTBzaHNKLUhiM28xdk5wYTd2a3NoVlZYYXZiX0M4MmRhQWRQT1dLSXhocTZZZEZ1SEJ2blBqQURXZFZfS0ZnMlF6c1RXRzFid0NR?oc=5",
+          "title": "월가 강세론자 야데니, 연말 S&P500 전망치 또 하향…\"약세장 가능성은 낮아\" - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lLW5HdjdiY2NCNklHOFFGaFRRT2lQMXdtR1NNM1FUOWpPMHFFYUEwS3JkSzVWY0Rkc3NJVmxTWkVTTk5yZ1RrZkxqNHByZ3dvbXJXdWM4VkdpLVh1?oc=5",
+          "source": "뉴스핌",
+          "published": "11-23 08:07",
+          "snippet": "월가 강세론자 야데니, 연말 S&P500 전망치 또 하향…\"약세장 가능성은 낮아\" 뉴스핌"
+        },
+        {
+          "title": "월가 스타 전략가 야데니, S&P500 목표치 7500으로 하향｜Global Money Club - 중앙일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YQThSTExoMVFyejZzb1RDMDNES2NGWVM4OXNRcXlKWlJnNFMxX21kd1JyZVFnV2ZmU1pOZHo0YjZBTy1paXVQZXVUVlhFUTJ4NFZ3WG5MQ0UzTzA?oc=5",
           "source": "중앙일보",
-          "published": "11-22 15:55",
-          "snippet": "‘블랙먼데이’ 우려 커진 코스피…대만은 공매도 빗장 초강수, 한국은 중앙일보"
+          "published": "11-23 07:17",
+          "snippet": "월가 스타 전략가 야데니, S&P500 목표치 7500으로 하향｜Global Money Club 중앙일보"
+        },
+        {
+          "title": "월가 강세론자 S&P500 목표 7500로 하향…골드만삭스 \"최대 806억달러 매도\" - 아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqMGNxQWp1UnpNVGtWMG9SUGVZekhJMDAxdkhyVnV3aGRveHdrZEF1aEpqU1I2MmozOVMtQUlLYnd6TGxTV2NyeXVxRWtyR1R5eHV3TGNOVkIyTm45MWhsSg?oc=5",
+          "source": "아시아경제",
+          "published": "11-23 07:15",
+          "snippet": "월가 강세론자 S&P500 목표 7500로 하향…골드만삭스 \"최대 806억달러 매도\" 아시아경제"
+        },
+        {
+          "title": "월가 베테랑 야데니, S&P500 전망 7900에서 7500선으로 하향 - 오피니언뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5Um8wWUNzNlZ5bFhQeTQ1VEVzVF9oOVRmR3QzVVdfMWF4X1EzYlJXbmQtRHYtaFVSXzlWVnlTYWNRZWlTX1pLRnRoRnNpc2tLbDQwb21WVkUtQVRvSmVDSXJBaC1SbjhxRm8xNXNDdlpoUQ?oc=5",
+          "source": "오피니언뉴스",
+          "published": "11-23 07:19",
+          "snippet": "월가 베테랑 야데니, S&P500 전망 7900에서 7500선으로 하향 오피니언뉴스"
         }
       ]
     },
     "queries": {
-      "증안펀드 가동 준비": [],
-      "코스피 5000선 붕괴": [
-        "코스피 5000선",
-        "코스피 5000선 돌파"
+      "AI 투매 증시 공포": [],
+      "엔비디아 수출통제 논란": [],
+      "주택 자산 양극화": [
+        "주택 자산 가액",
+        "주택 자산 공사",
+        "주택 자산",
+        "국민임대 주택 자산기준",
+        "국민 임대 주택 자산",
+        "행복 주택 자산 기준",
+        "행복 주택 자산 초과",
+        "행복 주택 자산"
       ],
-      "수출 1조 달러 역설": [
-        "수출 1조달러 국가",
-        "수출 1조달러",
-        "수출 1조 달러 달성",
-        "수출 1조",
-        "수출 1조불",
-        "한국 수출 1조 달러",
-        "연간 수출 1조 달러",
-        "김 수출 1조"
+      "나스닥 기술주 폭락": [
+        "나스닥 기술주",
+        "나스닥 기술주 etf",
+        "나스닥 기술주 종류",
+        "나스닥 기술주 하락",
+        "나스닥 기술주 비중",
+        "나스닥 기술주 하락 이유",
+        "나스닥 기술주 디시",
+        "나스닥 기술주 지수"
       ],
-      "나스닥 폭락 쇼크": [
-        "나스닥 폭락",
-        "나스닥 폭락 이유",
-        "나스닥 폭락 역사",
-        "나스닥 폭락 디시",
-        "나스닥 폭락 가능성",
-        "나스닥 폭락 주기",
-        "나스닥 폭락장",
-        "나스닥 폭락 이유 디시"
-      ],
-      "앤트로픽 주가 급락": [
-        "앤트로픽 주가",
-        "앤트로픽 주가 전망",
-        "앤트로픽 주가 차트",
-        "앤트로픽 주가 그래프",
-        "앤트로픽 주가 상장",
-        "앤트로픽 주가 예상",
-        "앤트로픽 주가 가격",
-        "앤트로픽 주가 디시"
-      ],
-      "연준 긴축 우려": [
-        "연준 긴축",
-        "연준 긴축종료",
-        "연준 긴축 정책",
-        "연준 양적 긴축 중단",
-        "연준 양적 긴축",
-        "연준 양적 긴축 종료",
-        "연준 추가 긴축"
+      "연준 과잉긴축 경고": [],
+      "S&P500 전망 하향": [
+        "s&p500 전망",
+        "s&p500 전망 디시",
+        "2026년 s&p500 전망",
+        "미국 s&p500 전망",
+        "kodex 미국 s&p500 전망",
+        "tiger 미국 s&p500 전망",
+        "골드만삭스 s&p500 전망",
+        "코덱스 s&p500 전망"
       ]
     },
-    "newsletter_md": "# ⚡ ZIPPY | AI 경제 데일리 브리핑\n_2026-11-23 이슈 · 발행 2026-11-23_\n\n🇰🇷 **국내 경제:** `증안펀드 가동 준비` · `코스피 5000선 붕괴` · `수출 1조 달러 역설`\n🌐 **해외 경제:** `나스닥 폭락 쇼크` · `앤트로픽 주가 급락` · `연준 긴축 우려`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 18년 만의 증안펀드 가동 준비와 자사주 규제 완화\n> 키워드: 증안펀드 가동 준비\n\n**📌 무슨 일이 있었나**\n- 정부가 미국 증시 급락에 따른 '검은 월요일' 공포에 대응하기 위해 증시안정펀드(증안펀드) 가동 준비에 전격 착수했다.\n- F4(재무장관, 한은 총재, 금융위원장, 금감원장) 긴급회의를 통해 시장 안정화 방안을 논의했으며 24일부터 자사주 매입 규제를 완화하기로 결정했다.\n- 증안펀드가 실제 가동될 경우 2008년 금융위기 이후 18년 만이며, 시행 시점 기준으로는 2020년 코로나19 사태 이후 6년 만의 발동 사례가 된다.\n- 대만이 공매도 제한 등 초강수를 두는 가운데 한국은 증안펀드 카드를 검토하며 시장의 심리적 지지선 확보와 수급 개선을 시도하고 있다.\n\n**💬 핵심 Q&A**\n- **Q. 증안펀드 가동 준비 소식만으로도 시장 반등을 이끌어낼 수 있는가?**\n  A. 과거 사례를 보면 실제 자금 투입 전 가동 준비 발표만으로도 투자 심리가 개선되며 지지선이 형성되는 경향이 나타났다. 정부의 시장 방어 의지가 확인되면서 외국인과 기관의 투매 세력을 진정시키는 심리적 방어막 역할을 수행한다.\n- **Q. 24일부터 시행되는 자사주 매입 규제 완화는 어떤 구체적 효과를 노리는가?**\n  A. 기업들이 하락장에서 자사주를 더 쉽고 빠르게 매입할 수 있도록 유도하여 유통 물량을 줄이고 주가 하방 압력을 방어하는 효과를 기대한다. 이는 증안펀드라는 공적 자금 투입 전 민간 기업의 자금력을 활용해 시장 수급을 개선하려는 조치이다.\n- **Q. 대만의 공매도 제한 조치와 한국의 증안펀드 대응은 어떤 차이가 있는가?**\n  A. 대만은 매도 세력을 직접 차단하는 규제 중심의 강경책인 반면, 한국은 증안펀드를 통한 매수세 유입과 자사주 매입 장려로 시장 수급을 보완하는 방식이다. 한국 정부는 시장의 자율성을 최대한 유지하면서도 급격한 붕괴를 막기 위한 단계적 대응을 선택했다.\n\n**👀 앞으로 볼 포인트**\n- 증안펀드 실제 자금 투입 시점과 규모\n- 24일 시행되는 자사주 매입 규제 완화 효과\n- 대만 등 인접국 증시 추가 규제 강도\n\n<sub>참고: [한겨레](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QdWo0ZG5hNkswOUYwcHNTX0xoR2phd08yd0pPZ0prZVVtTUR4LVdSWHFwQkhmREJZMGZ4cHF0SXRDVzFfU01zNk5kM0llSVFHR0F1NENZenlvY0FSY0xTcVE3eEZqb0U?oc=5) / [비즈워치](https://news.google.com/rss/articles/CBMiakFVX3lxTE0wYkpKeUUxNU9UUXVYRUVqVS1mRXJWOXlVREdaSFRoaFBLRGtqZUJ2NkNiNExNcWlvVW90SDF0Zm94cm1IVkM2aFktWFNBS3l0V0pYT0NRSHZRVUczWEd3NXN4TGhNcFBTX2c?oc=5) / [CBC뉴스](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjekN1cmVwS21KbnVzMjltQ1lVQ2pudkRvWTlsZ2dva3hoNnpUN3A3dFVfTGk4dW40TDVwMjNkdXRwbklPTVZWSkZFbk5LcU5PaXZhTTJDOFROenR4M00wamtxaWhvY000?oc=5)</sub>\n\n---\n\n### 2. 외인 매도에 코스피 5000선 붕괴 및 바닥론 확산\n> 키워드: 코스피 5000선 붕괴\n\n**📌 무슨 일이 있었나**\n- 외국인 투자자들의 금융위기급 매도세가 이어지며 코스피 5000선이 무너졌고 시장에서는 바닥을 알 수 없다는 공포가 확산 중이다.\n- 삼성전자와 SK하이닉스의 해외 추정가가 급락하면서 코스피 4500선까지 위협받는 블랙먼데이 재현 가능성이 제기되고 있다.\n- 호재성 뉴스에도 불구하고 시장 내에서 매수 물량을 받아줄 자금이 부족해 지수 하락폭이 커지는 수급 불균형 현상이 심화되었다.\n- 방어형 ETF조차 코스피 지수보다 더 큰 하락폭을 기록하며 투자자들의 손실이 전방위적으로 확대되는 양상을 보였다.\n\n**💬 핵심 Q&A**\n- **Q. 외국인 매도세가 금융위기급으로 평가받는 구체적인 이유는 무엇인가?**\n  A. 호재가 발생해도 매수세가 실종된 상태에서 외국인이 대규모 물량을 쏟아내며 지수 5000선을 단숨에 무너뜨렸기 때문이다. 이는 단순한 차익 실현을 넘어 한국 시장에 대한 구조적 불신이나 글로벌 자산 배분 조정의 결과로 해석된다.\n- **Q. 방어형 ETF가 지수보다 더 크게 하락한 원인은 무엇인가?**\n  A. 하락장에서 유동성이 부족해지자 상대적으로 매도가 쉬운 ETF 종목에 매도세가 집중되면서 기초 지수 하락폭을 상회하는 괴리가 발생했다. 또한 방어주로 분류되던 종목들까지 투매 대상에 포함되면서 ETF의 방어 기제가 작동하지 않았다.\n- **Q. 코스피 4500선 위협의 핵심 변수인 반도체 대형주 추정가 급락은 어떻게 발생하는가?**\n  A. 나스닥 폭락과 AI 수익성 우려가 겹치며 해외 시장에서 거래되는 한국 반도체 기업들의 주식 예탁 증서(DR) 가격이 먼저 하락했기 때문이다. 해외 투자자들의 시각이 반영된 DR 가격은 국내 증시 개장 시 시초가 결정에 결정적인 하방 압력으로 작용한다.\n\n**👀 앞으로 볼 포인트**\n- 외국인 순매도세 진정 및 수급 전환 여부\n- 코스피 4500선 지지 여부와 기술적 반등\n- 삼성전자·SK하이닉스 ADR 가격 추이\n\n<sub>참고: [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE81ZDh0elpqUkM4eDZESjljQWZ4RnluVHVVY2xIN1pnVjhrOTh4YWctcndoNTBUSEppNy1UMFhwY3ZCNU5mTHNoa2VpeFNHRUlxZ1Y0T05zY2EyTVIzZjZFUWxiVmN0TUFVWFdoYnNMNVQ?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE5hRmlYVUhYeVhjNm14b0RxVkx2VWtaTEJPQWxuSHFzLWFrQkFnNG9vSXBaOEgtVGJSR2VER1NTdldzQW8tUms1M1RETHEwZHRXX2tKYnpUaVp3blJFcmktV05TMDhSNGdHcEVNMEdudXY?oc=5) / [비즈워치](https://news.google.com/rss/articles/CBMiakFVX3lxTE0wYkpKeUUxNU9UUXVYRUVqVS1mRXJWOXlVREdaSFRoaFBLRGtqZUJ2NkNiNExNcWlvVW90SDF0Zm94cm1IVkM2aFktWFNBS3l0V0pYT0NRSHZRVUczWEd3NXN4TGhNcFBTX2c?oc=5)</sub>\n\n---\n\n### 3. 수출 1조 달러 역설 핵심 보도 종합\n> 키워드: 수출 1조 달러 역설\n\n**📌 무슨 일이 있었나**\n- 수출 1조 달러의 역설…최대 무역흑자에 美·인도·튀르키예 통상 압박 우려\n- 반도체만 있는 게 아니다…‘수출 1조 달러’ 숨은 주역들\n- 손정의, SK하이닉스 1조달러 인수 검토…월가에 자금 조달 타진\n- 강원 의료기기업체, 97억 원 독일 수출 계약\n- [르포] 한돈 수출 올 들어 219% 증가...돼지 日 100여 마리 다듬는 제주도 가공장\n\n**💬 핵심 Q&A**\n- **Q. 이번 '수출 1조 달러 역설' 이슈가 시장에서 부각된 핵심 배경은 무엇인가?**\n  A. 최근 주요 언론에서 '수출 1조 달러의 역설…최대 무역흑자에 美·인도·튀르키예 통상 압박 우려' 등 관련 보도가 잇따르며 시장 참여자들의 관심이 집중되고 있다.\n- **Q. '수출 1조 달러 역설' 흐름이 개인 투자자와 가계 경제에 미치는 영향은 무엇인가?**\n  A. 관련 산업군 주가와 환율, 시중 금리 및 체감 경기에 직간접적인 변동 요인으로 작용할 수 있어 면밀한 관찰이 필요하다.\n- **Q. 향후 시장 대응에 있어 어떤 점을 중점적으로 확인해야 하는가?**\n  A. 단기적인 뉴스 헤드라인에 일희일비하기보다 실제 발표되는 기업 실적과 공식 경제 지표를 함께 점검하는 신중한 접근이 요구된다.\n\n**👀 앞으로 볼 포인트**\n- 수출 1조 달러 역설 관련 후속 보도 및 시장 수급 추이\n- 주요 거시경제 지표 및 당국 정책 발표 여부\n\n<sub>참고: [뉴스1](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Lb3hKZTRDOGRyYmlVRHFTNC1tb2VvRlJ5cVNrQVIwemx4eFFwVXotWmV2Z05ZVEhuUXZNREotVW9ha2hueWE4clpVUnV6VTE1bDVDRlRMM0NMbFV4aHRz?oc=5) / [JTBC](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ubkNReHZuejV6OWRnbDZnWWMwUG5EZWhEY3NjQWxGUzEySU45TGxuZGZ2WTJ3Q1lfaUptZGhxWlhtUk5iMXczMV9FazRVSmdBamE2Uw?oc=5) / [AI타임스](https://news.google.com/rss/articles/CBMiakFVX3lxTE8tX2UwbDVQMzVCS0p1T0RUTUppZFZhQ2w3ZjlxeDVMaWtrSHdUWUNNUnlCVjhXWk1zNml5ZE8xMkUxa3hkNmMtUnp2Vm53QXZETE1fMmM2RG1vY3JvT1lTbFNhdmh4QkVla2c?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 나스닥 5%대 폭락과 AI 성공 서사에 대한 의구심\n> 키워드: 나스닥 폭락 쇼크\n\n**📌 무슨 일이 있었나**\n- 뉴욕증시에서 나스닥 지수가 5.28% 폭락하며 AI 기술주 중심의 투매 현상이 발생해 시장에 큰 충격을 주었다.\n- 대장주인 엔비디아가 14% 급락하고 앤트로픽 등 주요 AI 기업들의 주가가 공모가 수준으로 떨어지며 'AI 성공 서사' 붕괴 우려가 확산되었다.\n- 미 재무장관이 연준의 과잉 긴축에 따른 실수 가능성을 언급하며 증시 투매의 주요 원인 중 하나로 지목했다.\n- 주말 사이 미국 증시의 패닉 투매 여파로 인해 한국 증시의 월요일 개장 시 블랙먼데이 재현에 대한 공포가 극에 달했다.\n\n**💬 핵심 Q&A**\n- **Q. 엔비디아 14% 급락이 시장 전체에 주는 신호는 무엇인가?**\n  A. 그동안 증시 상승을 견인했던 AI 산업의 수익성 실현 가능성에 대해 시장이 강한 의구심을 품기 시작했음을 의미한다. 고평가 논란 속에서 실적 기대치가 정점을 찍었다는 인식이 확산되며 대규모 차익 실현 매물이 쏟아진 결과이다.\n- **Q. 미 재무장관이 언급한 '연준의 과잉 긴축 실수'는 증시에 어떤 영향을 미치는가?**\n  A. 고금리 유지가 경기 침체를 유발할 수 있다는 공포를 자극하여 투자자들이 위험 자산인 주식을 빠르게 처분하게 만드는 기폭제가 된다. 정책 당국 간의 견해 차이가 노출되면서 시장의 불확실성이 더욱 증폭되었다.\n- **Q. 나스닥 5%대 폭락이 한국 증시에 미치는 파급 경로는 어떻게 되는가?**\n  A. 미국 기술주와 동조화 현상이 강한 국내 반도체 및 IT 대형주들의 동반 하락을 유도하여 지수 전체를 끌어내리는 경로로 작용한다. 특히 외국인 투자자들이 신흥국 시장에서 자금을 회수하는 과정에서 한국 증시의 매도 압력이 가중된다.\n\n**👀 앞으로 볼 포인트**\n- 엔비디아 등 빅테크 기업의 추가 하락 여부\n- 연준 위원들의 금리 정책 관련 발언\n- 나스닥 지수의 기술적 지지선 회복 여부\n\n<sub>참고: [머니투데이](https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tSEFWQ0pNTzVzSE1POG1LMUcybWlGR2VRcnJoYWVzajFVRnR3Umg3ZWp3Y25pMGsyMWdhUFotV2d2VDNnRXZJUzR0TXZCN1hiZVVUUUdDdldUUS1XbldJSTcxbGUtR0NV0gFuQVVfeXFMTUZqQmZFcjFIQ3ZuN253SEZoSXNhLThieDRwelpWOW5scXQ2aDhPNEhVZWdraUZadWZYaVVmX1R5RWpYNmtIRWlydW1PSmkzUG5SUllKUDY0OTNPVWExbXlmQ3RXT2Z6RkRGWU83OWc?oc=5) / [비즈워치](https://news.google.com/rss/articles/CBMiakFVX3lxTE5OTXFkelpaTUs0b0lBeTgxNlZQejRyMl9WNGgtUHdlZ0VpV2c3N0NaT29yTnZQUlUydHF3ZHBtUFpYek5QT3pBY2h6c3NRU0hCVFBhOFlNZERzTmVSU1R6bm92RlREV0tsMVE?oc=5) / [한겨레](https://news.google.com/rss/articles/CBMiggFBVV95cUxQMXducFhxSHY2b1BuWkdjQllVSjI0LVRzQjFMMktxSDE2eE1BNFc2NUJUN3N4eU9qdi13RXhEbUlTVGM1WHNGVVhBWWNfZVYtczFMZGdqd25idm8zaHdNZ2tJMjlud3dtc2x6MGtNMmtzUWp5VG41NjRjNVlsVk1sY2Jn?oc=5)</sub>\n\n---\n\n### 2. 상장 이틀 만에 공모가 수준 급락한 앤트로픽 책임 공방\n> 키워드: 앤트로픽 주가 급락\n\n**📌 무슨 일이 있었나**\n- 상장 이틀 차를 맞은 AI 기업 앤트로픽의 주가가 하루 만에 공모가 수준으로 급락하며 월가에 큰 파장을 일으켰다.\n- 주가 급락의 원인을 두고 공모주 배분 방식의 문제인지, 아니면 직원들의 매도 허용 때문인지에 대한 월가의 책임 공방이 치열하다.\n- 앤트로픽의 주가 널뛰기 현상으로 인해 실리콘밸리의 낙관론과 월가의 AI 수익성 우려가 정면으로 충돌하고 있다.\n- 시장 공포를 나타내는 패닉 지수가 10점 만점에 9점을 기록할 정도로 앤트로픽발 변동성이 기술주 전반의 투자 심리를 위축시켰다.\n\n**💬 핵심 Q&A**\n- **Q. 앤트로픽 주가 급락 원인 중 '직원 매도 허용'이 왜 문제로 지적되는가?**\n  A. 상장 초기 보호예수 기간 없이 직원들의 물량이 시장에 쏟아질 경우 수급 불균형이 발생하여 주가를 급격히 끌어내릴 수 있기 때문이다. 이는 초기 투자자와 개인 투자자들에게 손실을 떠넘기는 구조라는 비판을 불러일으켰다.\n- **Q. 패닉 지수 9점 기록은 현재 시장 상황을 어떻게 대변하는가?**\n  A. 투자자들이 극도의 불안감을 느끼며 이성적인 판단보다는 투매에 동참하고 있는 금융위기급 공포 상태임을 나타낸다. 작은 악재에도 시장이 과민 반응하며 변동성이 극대화되는 구간에 진입했음을 의미한다.\n- **Q. 앤트로픽의 주가 변동이 국내 원전주 등 다른 섹터에 미치는 영향은 무엇인가?**\n  A. AI 데이터센터 가동을 위한 에너지 수요 기대로 상승했던 원전주들이 AI 산업 회의론에 휩쓸려 동반 하락할 가능성이 커진다. AI 밸류체인 전반에 걸친 투자 심리 악화가 연관 산업으로 빠르게 전이되는 양상이다.\n\n**👀 앞으로 볼 포인트**\n- 앤트로픽의 추가 매도 물량 출회 여부\n- 월가의 AI 기업 가치 재평가 움직임\n- 기술주 전반의 패닉 지수 변화 추이\n\n<sub>참고: [YTN](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BbWJ6V3RnY1BKb3NZeHo3MXczSUwweUdfeld1WUozZ2x2Wk5yMTd2MXI4ZjJsSnVGVFpOa3dpU3NucVJlSjZ4UmF3N2FSZnlDWXQ3Q1g2Ul9TcjB6ZXc?oc=5) / [YTN](https://news.google.com/rss/articles/CBMib0FVX3lxTE84bUUtVUFXeHJCem5tRENiQ3VXazNlTlM5Ymk5ZjJXVldxZmUxaTVFeVpyVEdtVTc4XzF6WFY3X1U3NWg2QldHcnhxXzhSakJiamVyTExMa1oydVlGT054ZW8xdF9fQW9YM0UwS0pZdw?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ycFFxNGwwSDhCTWlXM0VCWkttRF9SYkpaMTcyN1RsT2Z4V2hFaEwxcmE2SW5KY0E0STFTc2FXRWotNVdDajItQjVFUXdwazlLNGh5dGRLTW8xQTTSAWBBVV95cUxOd0FBOFZSbHEtQ0VYdm1PNktNTjNRc2hzVVdKTHBCSFQyMlpPeEFQaUZQMjRNeDVIVS1qWU1HRDdJSDUyVzdiUU56SlpWSGRKVkNBNms2Y1NScWZHdGpxN1Y?oc=5)</sub>\n\n---\n\n### 3. 연준의 추가 긴축 우려와 재무부의 정책 실수 경고\n> 키워드: 연준 긴축 우려\n\n**📌 무슨 일이 있었나**\n- 미 재무장관이 연준의 과잉 긴축이 경제적 실수를 유발할 수 있다고 경고하며 증시 투매의 배경으로 통화 정책을 지목했다.\n- 트럼프 전 대통령과 베선트 등 정치권에서도 연준의 추가 긴축 움직임에 대해 잇따라 견제구를 던지며 압박을 가하고 있다.\n- 금리 인상 우려가 확산되면서 암호화폐 시장의 상승세가 둔화되고 채권 시장에서도 긴축 장기화에 따른 변동성이 커졌다.\n- 연준의 긴축 기조가 이어지는 가운데 대만은 공매도 제한을, 한국은 증안펀드 가동을 검토하는 등 각국이 증시 방어책 마련에 분주하다.\n\n**💬 핵심 Q&A**\n- **Q. 재무장관이 연준의 긴축을 '실수 가능성'으로 언급한 배경은 무엇인가?**\n  A. 물가 잡기에만 집중한 고금리 정책이 실물 경제를 과도하게 위축시켜 경착륙을 초래할 수 있다는 우려를 표명한 것이다. 이는 연준의 독립성과 별개로 행정부가 경기 침체 리스크를 심각하게 인지하고 있음을 시사한다.\n- **Q. 연준의 긴축 우려가 암호화폐 시장에 즉각적인 영향을 미치는 메커니즘은 무엇인가?**\n  A. 금리가 상승하면 유동성이 흡수되고 위험 자산에 대한 투자 매력이 감소하여 비트코인 등 암호화폐로의 자금 유입이 차단되기 때문이다. 특히 레버리지를 활용한 투자가 많은 암호화폐 시장은 금리 변화에 더욱 민감하게 반응한다.\n- **Q. 연준 긴축을 증시가 대신 해준다는 분석은 어떤 의미인가?**\n  A. 연준이 금리를 직접 올리지 않아도 주가 폭락으로 인해 자산 가치가 하락하고 소비가 줄어드는 효과가 발생하여 긴축과 유사한 결과가 나타난다는 뜻이다. 시장의 자발적인 위축이 연준의 추가 금리 인상 명분을 약화시킬 수 있다는 시각도 존재한다.\n\n**👀 앞으로 볼 포인트**\n- 연준의 '침묵 기간' 진입 전 위원들의 발언\n- 차기 금리 결정 회의 결과 및 점도표 변화\n- 미 재무부와 연준 간의 정책 엇박자 지속 여부\n\n<sub>참고: [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE5YaF9OVUJDeWlwSWRHNWR4YnlIUzdQNkVKQ3daazJsUVNCSFhNZ2VHMDcwclVuRWVNV0VPVzhJRGcwRUZUUEJNNHFfT2VFWGVxMDJ2b2VibXYwcGRUZUl3OXNqeDNUbzd2NWZtSDdWbFU?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE93eDljMVVkZEVnUFZFcmpHSUc1NmhGdm9ZbG9hSElsZHJ5bjB4RjN4d0Y5RmlaTGxRS3pjdnV2RzI0UkdlUjh3c3h5ZUtTYU1SaUdwSk9xUjAwQmFFMENnQ2lJemNxX0lGWFEycUYyRlU?oc=5) / [글로벌이코노믹](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSjNXY1EtU2tuWWpRN3VydTMzUERnWDZPNUlKQWVwZnpRV1EtZ2FFaDJoVjhQQVMxSnpuMi0zV1ZVWU13czFtbmcxeDdXSDhoNTk5a1FqV2hrX2dhMzBkVTllMlFEaWZqbjkxLURyOVlYQ1hkWXVieF9ES0V1a1pDQTY0Z2FzM3lI?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 보도를 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
-    "generation_mode": "fallback"
+    "newsletter_md": "# ⚡ ZIPPY | AI 경제 데일리 브리핑\n_2026-11-23 이슈 · 발행 2026-11-23_\n\n🇰🇷 **국내 경제:** `AI 투매 증시 공포` · `엔비디아 수출통제 논란` · `주택 자산 양극화`\n🌐 **해외 경제:** `나스닥 기술주 폭락` · `연준 과잉긴축 경고` · `S&P500 전망 하향`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. AI 투매 쇼크에 증시 공포 가중…정부 증안펀드 준비\n> 키워드: AI 투매 증시 공포\n\n**📌 무슨 일이 있었나**\n- 미국 인공지능(AI) 관련주 폭락 쇼크가 글로벌 증시로 확산하며 '검은 월요일' 공포가 시장 전반을 덮쳤다.\n- 증시 공포 심리가 금융위기 수준까지 치솟자 정부는 증시안정펀드 가동 준비에 즉각 착수했다.\n- 증권가에서는 현 국면을 AI 산업 사이클의 본질적 훼손이라기보다 과도한 차입금을 점검하는 신용재평가 과정으로 진단했다.\n- 글로벌 증시 급락세 속에서 향후 발표될 개인소비지출(PCE) 물가지표가 시장 충격을 완화할 핵심 분수령으로 꼽힌다.\n\n**💬 핵심 Q&A**\n- **Q. 정부는 왜 증시안정펀드 가동 준비에 즉각 착수했는가?**\n  A. AI 투매 여파로 증시 변동성이 급증하면서 신용융자 반대매매와 주가 하락이 맞물리는 악순환 위험이 커졌기 때문이다. 증안펀드를 사전에 준비해 증시 하락 압력을 완화하고 투자 심리의 붕괴를 막으려는 조치이다.\n- **Q. 이번 AI 투매 충격은 국내 증시와 관련 산업에 어떤 경로로 파급되는가?**\n  A. 미국 빅테크의 AI 투자 회의론은 국내 반도체 및 부품 공급망 기업의 실적 전망치 하향으로 직결된다. 이로 인해 외국인 자금이 탈출하고 원·달러 환율이 상승하며 국내 증시 전반의 유동성이 축소된다.\n- **Q. 시장 공포가 진정되고 주가가 반등하기 위한 핵심 분수령은 무엇인가?**\n  A. PCE 물가지수 통과를 통한 연준의 통화정책 불확실성 해소와 빅테크 기업들의 차입금 리스크 완화 여부이다. 기업들의 신용 위험이 안정화되고 AI 수익성 증명이 이뤄져야 투매가 그칠 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 정부 증안펀드 투입 시점 및 조성 규모\n- 미국 PCE 물가지수 발표 결과\n- 주요 빅테크 기업 신용차입 현황\n\n<sub>참고: [한겨레](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QdWo0ZG5hNkswOUYwcHNTX0xoR2phd08yd0pPZ0prZVVtTUR4LVdSWHFwQkhmREJZMGZ4cHF0SXRDVzFfU01zNk5kM0llSVFHR0F1NENZenlvY0FSY0xTcVE3eEZqb0U?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE02R3o5R2Q3bHJ2eGRuWV9HdTMyOXdZNEkwa2MyZWNUR3dPb21VX3JYWHZZbGZ4YXVIQy1GY2hFWVg4OXkyZlZpNG5PdnlDQmZMMFMxVFZuVGJqY3fSAWBBVV95cUxPRU9sUWNFazJ5bDJoSkJlWmlqeE02U0xielVyR3E0Y2hPekVOVlZqbkJubl80ZFdqdFNWSlRvcjlEXzVsMUVZNktoRVFxYXFXT0M1eEVqY2ktZkhzOU5fX1A?oc=5) / [이데일리](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWVRMRm10MVRnTzVLQXhsMUU3TGpuWWZicDVUUkNPS2w2VmUxWWRJbkJzWFRtNHdzU3FCYnFRRkhhbzFEX0lrS2pEbGxrZ18yZ2w1VFFUbUQzZTYyMi16d3VJemtETHZVVFJvMTYwMHpkT2FvVlhEeExHOFBBd2VreA?oc=5)</sub>\n\n---\n\n### 2. 미 재무 대중 수출통제 조사…엔비디아발 악재 확산\n> 키워드: 엔비디아 수출통제 논란\n\n**📌 무슨 일이 있었나**\n- 미국 재무부가 엔비디아의 대중국 수출통제 규정 준수 여부를 집중 검토하면서 미중 무역갈등 재점화 우려가 제기됐다.\n- 중국 국가안전부가 2년 전부터 AI 칩 확보를 위해 미국의 수출 규제를 우회하는 비밀작전을 펼쳐온 정황이 확인됐다.\n- 엔비디아 칩의 캄보디아 및 우회 밀수망 연루 의혹 등 관련 악재가 쏟아지며 시장 불안감을 증폭시켰다.\n- 엔비디아 사태 여파로 나스닥 지수는 앤트로픽 호재를 뒤로하고 올해 상승분을 모두 반납했다.\n\n**💬 핵심 Q&A**\n- **Q. 미 재무부가 엔비디아의 규정 준수 조사를 별도로 강조하는 이유는 무엇인가?**\n  A. 중국이 우회 밀수망을 활용해 핵심 AI 반도체를 지속 확보하는 정황이 포착되었기 때문이다. 안보 통제의 실효성을 확보하고 대중국 압박 수위를 유지하기 위해 기업의 법적 준수 여부를 강도 높게 점검하고 있다.\n- **Q. 엔비디아 규제 리스크가 글로벌 AI 공급망 전반에 미치는 영향은 무엇인가?**\n  A. 중국 향 매출 비중 감소는 엔비디아의 매출 성장에 직접적인 타격을 준다. 이는 파운드리, 고대역폭메모리(HBM) 제조사 등 상류 공급망 기업들의 오더 감축으로 이어져 반도체 밸류체인 전체의 실적 둔화를 부른다.\n- **Q. 수출통제 논란 속에서 미중 무역갈등이 다시 분기점을 맞을 조건은 무엇인가?**\n  A. 미국 정부가 칩 밀수 우회국에 대한 2차 제재(블랙리스트 추가)를 실제 실행하는지 여부이다. 조치가 강행될 경우 기술 안보 갈등이 무역 전쟁 전면전으로 확대될 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 미 재무부의 엔비디아 조사 최종 결과\n- 미중 추가 반도체 제재안 발표 여부\n- 엔비디아 실적 전망치 수정 동향\n\n<sub>참고: [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TNzlnZW9NdzY3UzVXdUZERURvR2Yxb1QxbWRGVkg5VnNoUkZFT1lEQ09SV0RfTV9DUVhpRGRIeEpvT2dwbVltVkVwdk5xY0F5WDU1dGU2YmRLeTQ?oc=5) / [서울경제](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1md3pveUhwaVNvRjN6U0VCdGZ4ZEpSZVR0cDg4T2pmQTJCUHpqbEpfT09tUTVvSWZrTFVqbDlSWXZkY2RoRmRPdkVrcklZeFFxc2fSAVNBVV95cUxPZ1U3Nlg5SF95NWtYdDZ3NjdiNWZJYlFZZmNuQTFrdDJqcjB3blQxTjV6TURaTUVLckZPeFpnV1UxaFRKX3lDeV9oRmF5N2lsaWM2dw?oc=5) / [SBS 뉴스](https://news.google.com/rss/articles/CBMiakFVX3lxTFBBZ0xCRUYzeXV6R2VPVXkyMWhnRG1tS1VlVFhQR0wwU3JpOFF5NzZES281bFZncHpGdTRGZzdXUG5uNEU1YlhsYmV2Uk9zcFk4YW1YSXNFVVQwYk1DVnpSMW9CM0dmdkpfU1E?oc=5)</sub>\n\n---\n\n### 3. 주택자산 격차 52배 확대…30대 고가집 소유 급증\n> 키워드: 주택 자산 양극화\n\n**📌 무슨 일이 있었나**\n- 유주택 가구 내부의 주택자산 가액 격차가 최대 52배까지 벌어지며 부동산 자산 양극화가 심화됐다.\n- 부모 세대의 자산 증여 영향으로 고가 주택을 소유한 30대 집주인이 70% 이상 크게 늘었다.\n- 1인 가구의 주택 소유 비중은 역대 최대를 기록했으나 소득 대비 자산이 부족한 현상이 함께 나타났다.\n- 서울시는 당초 주택 공급 확대를 위해 조성했던 주택진흥기금 내년 예산의 절반을 전월세 보증금 지원에 투입하기로 했다.\n\n**💬 핵심 Q&A**\n- **Q. 30대 고가 주택 소유자가 70% 늘어난 주요 배경은 무엇인가?**\n  A. 부모 세대로부터의 고가 부동산 증여 증가가 핵심 원인이다. 근로 소득 상승 속도보다 자산 가치 상승 속도가 빨라지면서 세대 간 자산 이전에 의존한 고가주택 취득이 급증했다.\n- **Q. 1인 가구 소유 비중 최고치 기록과 자산 비대칭 현상은 어떻게 연결되는가?**\n  A. 고령층 및 소형 주택 중심의 1인 가구 주택 소유는 늘었으나, 이들의 실질 소득과 유동성은 취약한 상태이다. 주택 자산만 가지고 있을 뿐 소비 여력이 없는 자산 고립형 가구가 늘어났음을 의미한다.\n- **Q. 주택진흥기금의 절반을 보증금 지원에 쓰는 정책 전환의 의미는 무엇인가?**\n  A. 신규 주택 건설을 통한 장기 공급 정책보다 당장의 전월세 세입자 주거 안정을 우선시한 결과이다. 다만 주택 공급 예산 축소로 향후 중장기 공급 부족을 자극할 수 있다는 시각도 존재한다.\n\n**👀 앞으로 볼 포인트**\n- 서울시 주택진흥기금 집행 및 공급 영향\n- 연말 증여세 심사 및 고가주택 거래 동향\n- 1인 가구 주거비 부담 지표 변화\n\n<sub>참고: [비즈워치](https://news.google.com/rss/articles/CBMicEFVX3lxTE5ad25hU2praFhoSFIwN1pvMXM0U3V4TVU3dy10OU9lTWVtWmN6a1ZCNTFLdVhpdzhncEJ2cktWUkdadUFHVUI3bkg4ZkxHMWxlTDlzLXd0cFM5X054aW1ER2NEZXNRaXk4Ql9fYWhJakY?oc=5) / [Chosunbiz](https://news.google.com/rss/articles/CBMimAFBVV95cUxOUFk2aXFBYmFpdjYzTVhLMWkxMXJTRFRoMDNESzhKQmVVWjlxUncxbWt3dG9Fak4wUndNV1FWeGNHV3RpaDNYOU9mclV5TXpDQ05yY1hENUtMcVJ1dHoyNUZ3akZzT3hadzdsRlJ3d2NjR1JNTmhxVVJoRlhMOGlJYk16NDdaSmxDNmU4YlY4bjQ0Y1JrZHU4aNIBrAFBVV95cUxNQi14cjNvV2lpX2Y0X2lhdXRVOVUyc2wwSmVTR1ExM0o5a094VktYYlJ0d19XTlZsRFFhUUxRTGdwSUJ5bGZYSElkeUlMRFZxQ2NiR1luVkdpWk13aUtEVHBGS0NGOHdzdl81b2lwRy1aajUzRmtSNDI5c3N4VU90ZFpfbmpDOHp0alNfdldqeTRSTDdLa1lzTkxzcGFUOEF4UnZza3hYNDNhTEVn?oc=5) / [매일경제](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yX0FWcHpjRU82MHAzWUw2RVQ4NWxzVEdtSlVRMF9RbGwwR2ZpMTlmSlQwVkQwUU5wWjdUa3A4LURYR1FDQmxVY2xYR29jeEZieTRObklqU3o?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 나스닥 일주일 새 5천조 증발…기술주 패닉 투매\n> 키워드: 나스닥 기술주 폭락\n\n**📌 무슨 일이 있었나**\n- 기술주 패닉 셀 여파로 나스닥 지수가 5% 급락하며 올해 주가 상승분을 모두 반납했다.\n- 일주일 사이에 나스닥 시가총액에서 5천조 원(약 2조 3천억 달러) 이상이 증발하는 폭락세가 연출됐다.\n- 빅테크 기업들의 AI 투자 수익성에 대한 회의론이 확산되자 중국 당국은 시장 충격을 완화하려 유동성 확대에 나섰다.\n- 기술주 폭락 속에서 한국 등 주요국 시장은 금리 및 환율 변동성 확대 우려로 개장을 앞두고 극심한 공포를 겪었다.\n\n**💬 핵심 Q&A**\n- **Q. 나스닥 시가총액이 단기간에 5천조 원 넘게 증발한 결정적 메커니즘은 무엇인가?**\n  A. AI 설비투자에 대한 과도한 비관론과 레버리지 투자 상품의 강제 청산이 동시다발적으로 일어났기 때문이다. 고평가되어 있던 빅테크 주식에 손절매 물량이 집중되며 폭락을 부추겼다.\n- **Q. 미국 기술주 폭락이 중국 등 신흥국 시장으로 파급된 경로와 당국의 대응은 어떠한가?**\n  A. 글로벌 위험자산 선호 심리가 냉각되면서 신흥국 증시에서 자금이 이탈했다. 중국 당국은 시중 유동성을 늘려 증시 충격이 자국 금융시장의 경색으로 이어지는 것을 차단하고자 했다.\n- **Q. 폭락한 나스닥 기술주가 진정세를 찾기 위한 최소한의 조건은 무엇인가?**\n  A. 빅테크 기업들의 AI 관련 실질 매출 증가 확인과 금리 부담 완화이다. 투자 대비 성과가 숫자로 입증되고 국채 금리가 안정되어야 저가 매수세가 들어올 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 중국 당국의 유동성 공급 효과 및 증시 반응\n- 주요 빅테크 기업들의 추가 주가 지지선 형성 여부\n- 한국 등 아시아 증시 개장 후 외국인 매도 규모\n\n<sub>참고: [비즈워치](https://news.google.com/rss/articles/CBMiakFVX3lxTE5OTXFkelpaTUs0b0lBeTgxNlZQejRyMl9WNGgtUHdlZ0VpV2c3N0NaT29yTnZQUlUydHF3ZHBtUFpYek5QT3pBY2h6c3NRU0hCVFBhOFlNZERzTmVSU1R6bm92RlREV0tsMVE?oc=5) / [알파경제](https://news.google.com/rss/articles/CBMibkFVX3lxTE5XTjFDQjdnZm5yY3FIYURMU0NIOFZaWmpzb1dtTVVLem1OeFRmNWRBVDVBdno0VUVxeW05bHN5TnUtMkNpREdWNTE1R1p2aDBmd0F3LVJvbXBIVks5VjhCOTJrVU9Ra2dYT05NTGlR?oc=5) / [KBS 뉴스](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BQVpBN1Q4WlBOVHRGUzA2ems5VHBDRzA5RjJXcy1BQ1VVaVY1QkE4dzQ5VjdYSW9YdmNvRXVHR2FqRWNZTVlLNmZIOHRQU3B4VG1haXdjNHBYQW1qMGdlRy04YWJhZw?oc=5)</sub>\n\n---\n\n### 2. 미 재무 연준 과잉긴축 경고…증시 투매 원인 지목\n> 키워드: 연준 과잉긴축 경고\n\n**📌 무슨 일이 있었나**\n- 미국 재무장관이 연방준비제도(Fed)의 과도한 통화 긴축 정책이 이미 금융 여건을 조이고 미국 경제를 위협하고 있다고 경고했다.\n- 재무장관은 최근 발생한 글로벌 증시의 투매 사태를 연준의 경조직적인 과잉 긴축 정책에 따른 결과로 직접 지목했다.\n- 월가 전문가들은 연준이 여전히 매파적 입장을 취하고 있어 현재 시점에서 주식 저가 매수에 나서는 것은 위험하다고 진단했다.\n- 시장에서는 통화정책 발언 금지 기간을 앞두고 증시 폭락 자체가 연준의 긴축 역할을 대신하고 있다는 시각이 나왔다.\n\n**💬 핵심 Q&A**\n- **Q. 미 재무장관이 연준의 긴축 정책을 증시 폭락의 주범으로 꼬집은 근거는 무엇인가?**\n  A. 고금리 기조가 장기화되면서 기업의 자금 조달 비용이 극도로 상승했기 때문이다. 높아진 금융 비용이 기업 실적 전망을 갉아먹고 증시 내 유동성을 소진시켰다고 판단한 것이다.\n- **Q. 연준의 매파적 태도가 지속될 때 월가 자산운용사들의 포트폴리오 전략은 어떻게 바뀌는가?**\n  A. 위험 자산인 기술주와 성장주 비중을 줄이고 안전 자산인 단기 채권이나 현금 비중을 확대한다. 이에 따라 저가 매수세 진입이 지연되고 주가 하방 압력이 장기화된다.\n- **Q. '증시 폭락이 연준의 긴축을 대신한다'는 시장 진단의 의미는 무엇인가?**\n  A. 주가 급락으로 가계 자산 효과가 감소하고 자금 조달이 어려워지면서 연준이 금리를 올리지 않아도 경제 활동이 둔화하는 효과가 나타난다는 뜻이다. 이로 인해 연준이 추가 인상을 멈출 수 있는 명분이 형성될 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 연준 위원들의 블랙아웃(발언 금지) 기간 진입\n- 미국 재무부와 연준 간 정책 갈등 표출 여부\n- 다음 FOMC 기준금리 결정 향방\n\n<sub>참고: [마켓인](https://news.google.com/rss/articles/CBMic0FVX3lxTFBKRmpRelNvRW9YOEg0dV92VU9yUERFRDB4WWtxM0dwY0h3aUV6Z05fNUxKNm1kMWVjdjJZMGo1U2ljNGJMMWxhTUU3T0VfRDZCWk1rRmtuVFBLYmc2a3pFNHhtbk42dWd4OGJOT0tZbGpMcWs?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE5YaF9OVUJDeWlwSWRHNWR4YnlIUzdQNkVKQ3daazJsUVNCSFhNZ2VHMDcwclVuRWVNV0VPVzhJRGcwRUZUUEJNNHFfT2VFWGVxMDJ2b2VibXYwcGRUZUl3OXNqeDNUbzd2NWZtSDdWbFU?oc=5) / [뉴스핌](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYaTd5eFl6M1BRaGtteU85YUFWRW5Sa21zdDhnRGZkUHRuRW5zNGNBbVFZSC1lZEdSb0U2c05ranktaEdFMy01SUZOVklBcnJVVUpDTUlqQUJEeDIx?oc=5)</sub>\n\n---\n\n### 3. 월가 야데니 S&P500 목표 하향…매도 물량 경고\n> 키워드: S&P500 전망 하향\n\n**📌 무슨 일이 있었나**\n- 월가의 대표적 증시 강세론자 에드 야데니가 연말 S&P500 지수 전망치를 기존 7,900에서 7,500선으로 낮췄다.\n- 야데니는 전망치를 하향 조정을 하면서도 증시가 약세장(bear market)으로 완전히 전환될 가능성은 낮다고 보았다.\n- 골드만삭스는 투자 심리 악화로 기관과 추세 추종 펀드에서 최대 806억 달러 규모의 매도 물량이 쏟아질 수 있다고 경고했다.\n- 월가 주요 기관들의 목표가 하향과 매도 경고가 겹치며 연말 증시 랠리에 대한 기대감이 크게 축소됐다.\n\n**💬 핵심 Q&A**\n- **Q. 강세론자인 야데니마저 S&P500 연말 목표치를 낮춘 핵심 이유가 무엇인가?**\n  A. AI 기술주에 집중된 과열 부담과 연준 긴축 장기화에 따른 상방 제약 때문이다. 지수의 추가 상승 동력이 약화됨에 따라 연말 목표치를 현실적인 수준인 7,500선으로 조정한 것이다.\n- **Q. 골드만삭스가 경고한 806억 달러 규모 매도 물량은 증시에 어떤 충격을 주는가?**\n  A. 알고리즘 및 체계적 펀드(CTA)의 기계적 매도를 유발하여 지수의 하락 폭을 가파르게 만든다. 이는 호가 갭을 벌려 약세장에서 주가 변동성을 극대화하는 파급 효과를 낳는다.\n- **Q. 목표치 하향 조정에도 불구하고 약세장 진입 가능성을 낮게 보는 분기점은 무엇인가?**\n  A. 미국 경제의 실질적인 경기 후퇴(Recession) 여부이다. 기업들의 이익 체력이 유지되고 고용 붕괴가 없다면 현재의 하락은 거품 제거 과정인 건강한 조정에 그칠 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 골드만삭스 추산 806억 달러 매도 물량 출회 여부\n- S&P500 지수의 7,500선 지지 여부\n- 월가 주요 IB들의 추가 목표주가 하향 동향\n\n<sub>참고: [YTN](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3QXJzTjNyUFhQX1U5cXpGTWZBUG1hQk1Ic18tbFg4M0d3UEtNTWRRUDlweFMwNWVZM0dxRUloaUlOUGlZRm1QSzc1cTNhQUNYckEzdnlzd0Vkb1NBWGc?oc=5) / [뉴스1](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hMU5SZGVrczFYUUxUMXRBTE5PMzlVZDFtbnl5eHl5SVFhUGpvLVdJeXpfdTIzTHo3MGRwRHkzU1pnRjEyS2diT1ZrSU12T2t2RzBjN3NDbWc?oc=5) / [뉴스핌](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lLW5HdjdiY2NCNklHOFFGaFRRT2lQMXdtR1NNM1FUOWpPMHFFYUEwS3JkSzVWY0Rkc3NJVmxTWkVTTk5yZ1RrZkxqNHByZ3dvbXJXdWM4VkdpLVh1?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 보도를 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
+    "generation_mode": "gemini"
   },
   "yesterday": {
     "period_label": "2026년 11월 22일 (일)",
@@ -3002,5 +2980,5 @@
     "newsletter_md": "# ⚡ ZIPPY | AI 경제 데일리 브리핑\n_2026-11-16 ~ 2026-11-22 이슈 · 발행 2026-11-23_\n\n🇰🇷 **국내 경제:** `코스피 5000선 붕괴` · `서울 집값 하락세` · `기업 AI 사업 재편`\n🌐 **해외 경제:** `앤트로픽 상장 직후 급락` · `나스닥 기술주 폭락 사태` · `연준 추가 금리 인상`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 코스피 5000선 붕괴와 반도체 피크아웃 공포\n> 키워드: 코스피 5000선 붕괴\n\n**📌 무슨 일이 있었나**\n- 코스피 지수가 엔비디아 실적 파장과 반도체 업황의 피크아웃 우려가 겹치며 9개월 만에 5000선 아래로 추락했다.\n- 외국인 투자자들의 대규모 매도세가 이어지는 가운데 삼성전자와 SK하이닉스 등 시가총액 상위 반도체 종목들이 5%대 급락하며 지수 하락을 주도했다.\n- 지난 11월 16일 3.59% 하락하며 5100선으로 후퇴한 지수는 20일 다시 5%대 폭락을 기록하며 개인 투자자들의 손실이 눈덩이처럼 불어났다.\n- 시장에서는 호재성 재료가 발생해도 이를 받아줄 매수 주체가 부재한 수급 공백 상태가 지속되면서 지수 방어력이 급격히 약화된 모습이다.\n\n**💬 핵심 Q&A**\n- **Q. 엔비디아 실적 여파가 국내 반도체 대장주 폭락으로 이어진 메커니즘은 무엇인가?**\n  A. 글로벌 AI 대장주인 엔비디아의 실적 발표 이후 시장의 기대치가 정점에 달했다는 피크아웃 우려가 확산되면서 삼성전자와 SK하이닉스에 대한 외국인의 선제적 매도세가 집중되었기 때문이다.\n- **Q. 호재에도 불구하고 지수가 반등하지 못하는 수급 공백의 원인은 어디에 있는가?**\n  A. 외국인의 지속적인 이탈 속에 국내 증시를 지탱하던 개인 투자자들의 자금력이 급락장 속에서 한계에 다다랐고, 기관 역시 적극적인 매수에 나서지 않으면서 매수세가 실종된 상태이다.\n- **Q. 정치권에서 언급된 국장 투자자 보호 논의가 실제 시장 안정에 기여할 수 있는가?**\n  A. 나경원 의원 등이 제기한 투자자 피해 우려는 정부의 증시 안정 펀드 가동 검토 등 정책적 대응을 압박하는 요인이 되어 단기적인 심리적 지지선 형성에 영향을 줄 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 외국인 순매도세 진정 여부 및 수급 개선\n- 엔비디아 실적 발표 이후 반도체 업황 전망\n- 정부의 증시 안정화 대책 및 증안펀드 가동 시점\n\n<sub>참고: [경향신문](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxT2h1RTBUamNWb1M1MFNsU2xKQ0tqTDlpYzdHeHhadkVKTENxVmxpdkVSa0RVMTFFOTdPME5zbVhrWUh4R3Q3aUUtRmRqbEdranJOSXB1OEQwZ9IBX0FVX3lxTE92SkhETWFTS3RNQmdhUjR5MWVqcVZtR0ljTWFPZEh6SHZENXhaZlBXbmpnNjBJTjJPNk1wUjlIenQ5Y0U5QldNMVpqUEl0blIxbi04dzJERkVRcnRyMk9Z?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE81ZDh0elpqUkM4eDZESjljQWZ4RnluVHVVY2xIN1pnVjhrOTh4YWctcndoNTBUSEppNy1UMFhwY3ZCNU5mTHNoa2VpeFNHRUlxZ1Y0T05zY2EyTVIzZjZFUWxiVmN0TUFVWFdoYnNMNVQ?oc=5) / [중앙일보](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PMl9iVXNZYzVheHRGS19pdkFrdTU0aUZ4QkNBSEgzblhRNVFCamlBNjhpakFab09HVkM0b2M1eFlkaGdTSVdkbmVSWmwyQW5YRE9yc2Rn?oc=5)</sub>\n\n---\n\n### 2. 서울 집값 0.06% 하락 전환과 매수 부담 지속\n> 키워드: 서울 집값 하락세\n\n**📌 무슨 일이 있었나**\n- 11월 3주차 부동산 시장에서 서울 집값은 0.06% 하락하며 약세로 돌아선 반면 경기 지역은 0.24% 상승하며 지역별 양극화 현상이 나타났다.\n- 서울 내 집 마련에 걸리는 기간이 14년에서 12년으로 단축되었다는 통계가 나왔으나 이는 최근의 집값 상승세가 온전히 반영되지 않은 수치로 분석된다.\n- 서울 외곽 지역 중 일부는 집값이 10% 이상 급등했음에도 불구하고 여전히 과거 전고점을 회복하지 못한 단지들이 혼재되어 있다.\n- 재건축 초과이익 환수제가 적용되는 서울 내 52개 단지의 조합원 평균 부담금은 1억 1000만 원 수준으로 집계되어 정비사업의 수익성 변수로 부각되었다.\n\n**💬 핵심 Q&A**\n- **Q. 서울 집값 하락에도 불구하고 내 집 마련 부담이 여전하다고 느끼는 이유는 무엇인가?**\n  A. 통계상 내 집 마련 기간이 단축된 것으로 나타났으나 이는 과거 저점 데이터를 기반으로 한 착시 효과일 뿐, 실제 시장 가격과 대출 규제 강화로 인한 체감 구매력은 여전히 낮기 때문이다.\n- **Q. 경기 지역이 0.24% 상승하는 동안 서울이 하락한 디커플링 현상의 배경은 무엇인가?**\n  A. 서울의 높은 가격대에 부담을 느낀 수요자들이 상대적으로 저평가된 경기 지역으로 이동하는 풍선효과와 서울 내 고가 단지 위주의 거래 절벽이 맞물린 결과이다.\n- **Q. 평균 1억 원이 넘는 재건축 부담금이 향후 서울 주택 공급에 어떤 영향을 미치는가?**\n  A. 조합원들의 추가 분담금 압박이 커지면서 재건축 사업 속도가 지연되거나 중단되는 단지가 늘어날 수 있으며, 이는 중장기적으로 서울 도심 내 신축 공급 부족을 심화시킬 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 서울 지역 하락세의 강남권 확산 여부\n- 재건축 초과이익 환수제 부담금 확정 추이\n- 경기 지역 상승세 지속 및 서울과의 갭 메우기\n\n<sub>참고: [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSWGVWcUhyUmx2UmRBYmhSRmZGYzF5Yy1ET1dKcGVyWVBnN29GXzRqV2RZcUlCSU5MdEhORTl6aHlFZlFWMHhaak5fbVlaVmd1dmRCVnRBUnVEVV83ZkUyUTRMSDA1RzQ?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTFBPUU9sR2lVeUoyaXMtZkVTaV9SWjJSNldJV3JKOUQ1cmZUdV9lcHFiWkJpeU1QSl9rbjVEa1dTZFJRbHM2R1ZQU2twNEpUdEJvN0FkQzV1X0hIMGFuQ0lLOWRzZldhSXJOY1p1WkRnc1I?oc=5) / [네이버페이 머니스토리](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qdEJkQTVkVDMzZ2tyX1IyQjNBeFlmdjBpUW5xZ0hMSFdjRWU3alktNzJybEo4cG4wX1lrOVpsdWlGUHVMTDJGUWtFOEdma2ExdFE?oc=5)</sub>\n\n---\n\n### 3. 기업 AI 조직 개편과 신흥시장 거품론 확산\n> 키워드: 기업 AI 사업 재편\n\n**📌 무슨 일이 있었나**\n- LG유플러스는 AI 사업의 성과를 조기에 가시화하기 위해 대대적인 조직 개편을 단행하고 AI 중심의 사업 구조 재편에 속도를 내고 있다.\n- 글로벌 시장에서는 제프리스 등 주요 투자은행이 신흥시장에서의 AI 붐이 동력을 잃고 있다는 경고를 내놓으며 AI 관련주에 대한 투자 심리가 위축되고 있다.\n- 지스타 2026은 게임을 넘어 AI와 모빌리티로 외연을 확장하며 나흘간 20만 명의 방문객을 기록하는 등 산업 간 융합 트렌드를 입증했다.\n- 제약 업계에서는 머크가 AI 동맹을 맺는 등 신약 개발 효율화를 위한 AI 도입이 가속화되는 반면, 중국산 신약의 진입 장벽은 높아지며 판도가 요동치고 있다.\n\n**💬 핵심 Q&A**\n- **Q. LG유플러스가 AI 사업 조직을 전면 재편하며 속도전에 나선 구체적인 목적은 무엇인가?**\n  A. 단순한 기술 도입을 넘어 실질적인 수익 모델을 창출하기 위해 흩어져 있던 AI 역량을 집중시키고 의사결정 단계를 축소하여 시장 변화에 즉각 대응하기 위함이다.\n- **Q. 제프리스가 신흥시장에서의 AI 붐이 힘을 잃고 있다고 경고한 근거는 무엇인가?**\n  A. 막대한 인프라 투자 대비 수익 회수 시점이 불투명하다는 의구심이 커진 상황에서, 금리 인상 우려와 맞물려 위험 자산인 신흥국 AI 기술주로부터 자금이 이탈하고 있기 때문이다.\n- **Q. AI 안경과 반지를 이용한 부정행위 사례가 기업의 AI 웨어러블 시장에 시사하는 바는 무엇인가?**\n  A. AI 기기의 소형화와 고성능화가 빠르게 진행되고 있음을 보여주는 동시에, 기술 오남용을 막기 위한 보안 및 윤리적 가이드라인 수립이 상용화의 필수 조건임을 시사한다.\n\n**👀 앞으로 볼 포인트**\n- LG유플러스 조직 개편 이후 AI 서비스 출시 일정\n- 신흥국 AI 관련 자금 유출 추이 및 투자 심리\n- 정부의 증시 안정 펀드 실제 가동 여부 및 규모\n\n<sub>참고: [지디넷코리아](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uRzNJSG9sQTkyMnQ1RUtwZW82cWxza1dmU0dIR013cDFvTEtySzlHSkVOemZCZEpMUEdGSFFfVHA1MVVqLTBLQ1RFWWdjaWczQ0ZMUlR3?oc=5) / [한겨레](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QdWo0ZG5hNkswOUYwcHNTX0xoR2phd08yd0pPZ0prZVVtTUR4LVdSWHFwQkhmREJZMGZ4cHF0SXRDVzFfU01zNk5kM0llSVFHR0F1NENZenlvY0FSY0xTcVE3eEZqb0U?oc=5) / [뉴스1](https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxUWMtOEZFQ1QxWWZTVW1iQkZWLWtBMXBFTGlLTEw2YzAyZVltQ24wYUJ5TjloNmRJNnBsdDhyS29TdHR5QVZLWnZZak5oUjFWSWpCUHBqOVlXMHNrZm1LdA?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 앤트로픽 상장 쇼크와 나스닥 AI 패닉 셀링\n> 키워드: 앤트로픽 상장 직후 급락\n\n**📌 무슨 일이 있었나**\n- 기대를 모았던 AI 스타트업 앤트로픽의 상장이 오히려 시장에는 강력한 매도 신호로 작용하며 상장 직후 뉴욕증시의 급락을 촉발했다.\n- 앤트로픽은 상장 이틀 만에 시가총액 약 147조 원이 증발했으며, 이 여파로 나스닥 지수는 하루 만에 5.3% 폭락하는 초유의 사태를 맞았다.\n- 다우 지수 역시 앤트로픽발 AI 투매 영향으로 50,000선 아래로 밀려났으며, 시장에서는 AI 산업에 대한 낙관론보다 고평가 불안감이 우세해진 모습이다.\n- 이번 급락은 앤트로픽 개별 종목의 문제를 넘어 엔비디아 등 주요 AI 관련주 전반에 대한 패닉 셀링으로 번지며 기술주 중심의 조정장을 형성했다.\n\n**💬 핵심 Q&A**\n- **Q. 앤트로픽 상장이 호재가 아닌 '매도 신호'로 받아들여진 결정적인 이유는 무엇인가?**\n  A. 상장 전 형성된 높은 기업 가치가 실제 상장 후 시장의 냉정한 평가를 견디지 못하면서, AI 거품 붕괴의 신호탄으로 해석되어 투자자들이 차익 실현에 일제히 나섰기 때문이다.\n- **Q. 상장 이틀 만에 147조 원의 시총이 증발한 것이 전체 AI 밸류체인에 미치는 영향은 무엇인가?**\n  A. 앤트로픽에 대규모 투자를 진행했던 빅테크 기업들의 자산 가치 하락으로 이어지며, 향후 AI 스타트업에 대한 벤처 캐피털의 자금 공급이 위축되는 연쇄 반응을 일으킬 수 있다.\n- **Q. 나스닥이 5.3% 폭락하며 조정장에 진입한 상황에서 시장 반전의 분기점은 무엇인가?**\n  A. 앤트로픽의 실적 가이던스 확인과 더불어 연준의 금리 정책 기조 변화가 확인되어야 하며, 특히 AI 투자가 실질적인 매출 증대로 이어지는 지표가 제시되어야 추세 전환이 가능하다.\n\n**👀 앞으로 볼 포인트**\n- 앤트로픽 주가의 추가 하락 멈춤 및 지지선 형성\n- 나스닥 지수의 5%대 폭락 이후 기술적 반등 여부\n- 주요 빅테크 기업들의 AI 투자 계획 수정 여부\n\n<sub>참고: [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTFBsM1UySkQ1YmdONUNYZV82VjczODNrVU1GZVVKa3pKSGJ6Ym1COGdFaUJjOUpMb0RQVF81X0o1QjlaZGZnYWM4RlVrNmt4aG5VVFUwdkF5U2tJT3JQamxuR0FoQ0N0aF9FRGwyaTBFemQ?oc=5) / [MBC 뉴스](https://news.google.com/rss/articles/CBMiekFVX3lxTE1SWjBid3ltdWI4WGdGQlRJTXhxakExRmlfTjFfRWhMNzRoUnhFWW45RkFhSWM3cHZSYUpUeVMwSExjM2djUWZuT3I0N2VGbkkxTWgwbzVEb0hRR2hzZWFjdnhwbXh1N09nc0FfMWdfWkNrQ09KWlhqQzln0gF6QVVfeXFMT3RLd1N0SExGc3pCS0xjTW1UemlFdlpYRHdwT2lUSl9yMEJBWUxNOFQwUTZ4V0E3Vi1UYUxMTm50RFlkMXBobV9GRVRtYmhyQm5KMXhNYjlqa1ljSWpaSFhvcy14LWM5eVk5UXhkUHRQeE5NVWxtanl6ZXc?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Ec1NsYnJCZkgzRU1SakhnZkJ1d3BmeGpXbjVGMW96bkZIWmJxN0xiNEZ0eXNLbnJCR2ItbjI1UEFtamx5a0NCajFPelp1ckJXS3VkNDdIbktONkJKMHoxeNIBYEFVX3lxTE1Ec1NsYnJCZkgzRU1SakhnZkJ1d3BmeGpXbjVGMW96bkZIWmJxN0xiNEZ0eXNLbnJCR2ItbjI1UEFtamx5a0NCajFPelp1ckJXS3VkNDdIbktONkJKMHoxeA?oc=5)</sub>\n\n---\n\n### 2. 나스닥 5.3% 폭락과 기술주 중심의 조정장 진입\n> 키워드: 나스닥 기술주 폭락 사태\n\n**📌 무슨 일이 있었나**\n- 뉴욕증시에서 나스닥 지수가 기술주에 대한 집중적인 매도세로 인해 5.3% 폭락하며 시장에 큰 충격을 주었다.\n- 이번 폭락으로 S&P 500 지수는 최근 6년 사이 가장 긴 하락세를 기록하게 되었으며, 다우 지수와 함께 나란히 조정 국면에 진입했다.\n- 특히 반도체 업종과 최근 상장한 앤트로픽이 직격탄을 맞으며 기술주 전반의 투자 심리를 급격히 냉각시켰다.\n- 시장 전문가들은 이번 사태를 단순한 조정을 넘어 AI 기술주에 대한 과도한 기대감이 실망감으로 변하며 나타난 본격적인 매물 소화 과정으로 분석하고 있다.\n\n**💬 핵심 Q&A**\n- **Q. 나스닥 5.3% 폭락이 S&P 500의 6년 내 최장 하락 기록으로 이어진 배경은 무엇인가?**\n  A. 지수 내 비중이 높은 대형 기술주들이 AI 수익성 의구심과 금리 인상 압박이라는 이중고를 겪으며 동반 하락하자 지수 전체의 하방 압력이 극대화되었기 때문이다.\n- **Q. 반도체주와 앤트로픽이 이번 폭락의 직격탄을 맞은 구체적인 경로는 무엇인가?**\n  A. 앤트로픽 상장 실패가 AI 하드웨어 수요 감소 우려로 전이되면서, 그동안 지수를 견인해온 반도체 종목들에 대한 고점 인식과 투매 물량이 쏟어진 결과이다.\n- **Q. 다우와 S&P 500까지 조정장에 진입한 상황에서 향후 시장의 향방을 결정할 핵심 지표는 무엇인가?**\n  A. 기술주들의 실적 발표에서 나타날 이익률 변화와 함께, 국채 금리 추이가 기술주의 밸류에이션 부담을 얼마나 완화해 줄 수 있는지가 관건이다.\n\n**👀 앞으로 볼 포인트**\n- 나스닥 지수의 전고점 대비 하락 폭 및 지지선 확인\n- 필라델피아 반도체 지수의 반등 여부\n- 기술주 매도세의 중소형주 전이 가능성\n\n<sub>참고: [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnVVZsZm5TYkNqNjhpUHlQamVYZTdGMVZSVVEtQ2dkeEJBM3lYNVc3cGNudFFDLXJPTWhuWFBjWnhoZDFFWF9vcy14Ukp5YTZPMGl6V0NvVmJFOTA?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UbWQ5NUtvODJTMjZLTkl4S3Y3empSWHFVeVhxaElBYXF2ZzFNcWtDN1ZhVjhNamRGbDhidmdpYzBidy1PdGN3V1JaN3RxaXg4SElCTWhFR05FYk3SAWBBVV95cUxOXzMtMFdJR0FTOUxQRzNRS1VwdGxZUThMdUdpZ0M5dTBqazNlWlFUOW1ZNTZINXZlbGszWkR1MGtKRDRiNHdUcktnMUZ6LUFTR1g0aXJyc1d2NTFUY1drNkU?oc=5) / [MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTE1VNUNLMkdxZGRDa1ZIN3BSV1FBc0lIUnNLUlZRYXJSYi1qYjZ1b0ZmV3FibTYzZzg4X2E4MmhTbnFKbklLNmFva1hCSVc2d25fb0dtQ0Y3RV96eGwzNHZSR0tLam1Vc09na0VYWktlX3FxOW9O0gF0QVVfeXFMUDhxcmxEOFJyaXNJa0RfN0NnTllNZndfYU5RNlVRTDJMZjZZNU9YdjczSmQwSmt5S1ZMa0dFaVJlMGhtT3hIeXI1RVlJN29QUTBlck83dE9idTlySW1LQVNGSXVEandyZ2NhNFFtQTlNYlp1Njg?oc=5)</sub>\n\n---\n\n### 3. 연준의 추가 금리 인상 시사와 트럼프의 견제\n> 키워드: 연준 추가 금리 인상\n\n**📌 무슨 일이 있었나**\n- 마이클 바 연준 이사는 인플레이션이 여전히 지나치게 높다고 지적하며 기준금리의 추가 인상이 적절하다는 매파적 입장을 공식화했다.\n- JP모건은 연준이 향후 세 차례 연속으로 금리를 각각 25bp씩 인상할 것이라는 전망을 내놓으며 긴축 기조가 장기화될 것임을 예고했다.\n- 거의 모든 참석자가 추가 금리 인상의 필요성에 동의한 것으로 나타나 시장의 금리 인하 기대감에 찬물을 끼얹었다.\n- 도널드 트럼프 전 대통령과 베선트 등은 연준의 추가 긴축 움직임에 대해 금리가 이미 너무 높다며 강력한 견제 메시지를 보내고 있다.\n\n**💬 핵심 Q&A**\n- **Q. 10월 FOMC 의사록에서 '거의 모든 참가자'가 추가 인상을 주문한 것은 시장에 어떤 신호를 주는가?**\n  A. 금리 인상 사이클이 종료되었다는 시장의 낙관론이 완전히 빗나갔음을 의미하며, 연준 내부에 인플레이션 재발에 대한 강력한 경계심이 형성되어 있음을 보여준다.\n- **Q. 트럼프 전 대통령이 연준의 긴축 기조를 공개적으로 견제하는 정치적·경제적 이유는 무엇인가?**\n  A. 고금리가 경기 침체를 유발하여 자신의 경제 성과를 저해할 수 있다는 우려와 함께, 연준의 통화 정책 주도권을 압박하여 저금리 환경을 조성하려는 의도로 풀이된다.\n- **Q. JP모건의 3회 연속 25bp 인상 전망이 현실화될 경우 나스닥 등 기술주에 미칠 파급 효과는 무엇인가?**\n  A. 미래 수익을 당겨오는 기술주 특성상 할인율 상승으로 인한 밸류에이션 하락이 불가피하며, 이미 올해 상승분을 반납한 나스닥 지수에 추가적인 하락 압력으로 작용할 것이다.\n\n**👀 앞으로 볼 포인트**\n- 향후 발표될 소비자물가지수(CPI) 등 인플레이션 지표\n- 연준의 3회 연속 금리 인상 현실화 여부\n- 정치권의 압박이 연준 독립성에 미치는 영향\n\n<sub>참고: [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE4wVk8xLWxVTWRhTzduUWJRSzdGbmphMXVpbVdxYWV0X1g5NGVNNGZlQlQ3dGgwLXV0ek9OcldRTnE0dWc5bXRxaVBWc20zZ1JVc1E1T29KUEhPd2FOQjMtdnljUVlkV1ptNFJqR0dDS3Q?oc=5) / [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xNUtpQmJIeG11UkRUWDh1bHA2aDhYRkxFUlNqby1VOXNsS3ZsZEpKRzAxbTJKNEN4TzBpbF9GYWdDTXFuMGlZZ0F5MTlxSXh1NXdjTW9pOU1wcXpTN3dzUFAyOXJlZ3c?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTFBsdkt5LXdWTkNZWTV3ZjFPdHVpNUlIWjd5bHFUeG5vRm5LTjFiQlNpaHVqajJMekoySWxHQ2pxVWpZOGdHdDRQQ3hhSHVadTJWcjFVZGMxSlp3cFp5QWxVY1QxUmlGWEJ0LUg5bDN6WmM?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 보도를 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
     "generation_mode": "gemini"
   },
-  "updated_at": "2026-11-23 04:49:09 KST"
+  "updated_at": "2026-11-23 08:40:55 KST"
 }
