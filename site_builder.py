@@ -165,7 +165,7 @@ def _render_layout(
 <body>
   <div class="container">
     <header class="top-nav">
-      <a href="{rel_root}/index.html" class="brand-link">⚡ ZIPPY 경제 브리핑</a>
+      <a href="{rel_root}/index.html" class="brand-link">⚡ ZIPPY</a>
       <nav class="nav-links" aria-label="주요 메뉴">
         <a href="{rel_root}/index.html"{nav_cls("home")}>⚡ 오늘의 브리핑</a>
         <a href="{rel_root}/archive/index.html"{nav_cls("archive")}>🗂️ 브리핑 아카이브</a>
