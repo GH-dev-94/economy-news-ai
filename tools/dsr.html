@@ -467,7 +467,7 @@
               <span>신규 대출 신청 금액 (만원)</span>
               <span class="form-hint" id="new-amount-kr-label">3억 5,000만 원</span>
             </label>
-            <input type="number" id="new-loan-amount" class="form-input" value="35000" min="0" step="500" oninput="recalcDSR()" />
+            <input type="number" id="new-loan-amount" class="form-input" value="35000" min="0" step="500" oninput="onUserEditNewAmount()" />
             <div class="quick-btns">
               <button type="button" class="q-btn" onclick="adjustVal('new-loan-amount', 1000)">+1,000만</button>
               <button type="button" class="q-btn" onclick="adjustVal('new-loan-amount', 5000)">+5,000만</button>
@@ -654,8 +654,9 @@
           </div>
 
           <div class="action-bar">
-            <button type="button" class="act-btn" onclick="copyDsrSummary(this)">📋 계산 결과 텍스트 복사</button>
-            <button type="button" class="act-btn" onclick="saveDsrScenario(this)">💾 현재 입력 조건 저장</button>
+            <button type="button" class="act-btn" onclick="copyDsrSummary(this)">📋 결과 텍스트 복사</button>
+            <button type="button" class="act-btn" onclick="saveDsrScenario(this)">💾 현재 조건 저장</button>
+            <button type="button" class="act-btn" onclick="resetDsrScenario(this)">🔄 기본값 초기화</button>
           </div>
         </section>
       </div>
@@ -777,6 +778,12 @@
     window.adjustVal = function(id, delta) {
       const el = document.getElementById(id);
       if (!el) return;
+      if (id === "new-loan-amount" && calcMode === "limit") {
+        calcMode = "ratio";
+        document.getElementById("mode-ratio-btn").classList.add("active");
+        document.getElementById("mode-limit-btn").classList.remove("active");
+        document.getElementById("new-amount-group").style.opacity = "1";
+      }
       const cur = Number(el.value) || 0;
       el.value = Math.max(0, cur + delta);
       recalcDSR();
@@ -785,7 +792,23 @@
     window.setVal = function(id, val) {
       const el = document.getElementById(id);
       if (!el) return;
+      if (id === "new-loan-amount" && calcMode === "limit") {
+        calcMode = "ratio";
+        document.getElementById("mode-ratio-btn").classList.add("active");
+        document.getElementById("mode-limit-btn").classList.remove("active");
+        document.getElementById("new-amount-group").style.opacity = "1";
+      }
       el.value = val;
+      recalcDSR();
+    };
+
+    window.onUserEditNewAmount = function() {
+      if (calcMode === "limit") {
+        calcMode = "ratio";
+        document.getElementById("mode-ratio-btn").classList.add("active");
+        document.getElementById("mode-limit-btn").classList.remove("active");
+        document.getElementById("new-amount-group").style.opacity = "1";
+      }
       recalcDSR();
     };
 
@@ -922,19 +945,25 @@
     };
 
     window.updateExistingLoan = function(id, field, val) {
-      const target = existingLoans.find(x => x.id === id);
-      if (!target) return;
+      const idx = existingLoans.findIndex(x => x.id === id);
+      if (idx < 0) return;
+      const target = existingLoans[idx];
       if (field === "amount" || field === "rate" || field === "years" || field === "rateTypeWeight") {
         target[field] = Number(val) || 0;
-      } else {
-        target[field] = val;
-        if (field === "type") {
-          if (val === "credit") { target.years = 5; target.method = "bullet"; }
-          if (val === "jeonse") { target.method = "interest_only"; target.rateTypeWeight = 0; }
-          if (val === "mortgage") { target.years = 30; target.method = "equal_payment"; }
+        const headEl = document.getElementById(`ex-head-title-${id}`);
+        if (headEl) {
+          headEl.textContent = `기존 대출 #${idx + 1} (${formatKoreanMoney(target.amount)})`;
         }
+        recalcDSR();
+        return;
       }
-      renderExistingLoans();
+      target[field] = val;
+      if (field === "type") {
+        if (val === "credit") { target.years = 5; target.method = "bullet"; }
+        if (val === "jeonse") { target.method = "interest_only"; target.rateTypeWeight = 0; }
+        if (val === "mortgage") { target.years = 30; target.method = "equal_payment"; }
+        renderExistingLoans();
+      }
       recalcDSR();
     };
 
@@ -948,7 +977,7 @@
       container.innerHTML = existingLoans.map((loan, idx) => `
         <div class="existing-item">
           <div class="existing-head">
-            <span>기존 대출 #${idx + 1} (${formatKoreanMoney(loan.amount)})</span>
+            <span id="ex-head-title-${loan.id}">기존 대출 #${idx + 1} (${formatKoreanMoney(loan.amount)})</span>
             <button type="button" class="btn-remove" onclick="removeExistingLoan(${loan.id})">삭제 ✕</button>
           </div>
           <div style="display:grid; grid-template-columns: 1fr 1fr; gap: 0.55rem; margin-bottom:0.55rem;">
@@ -1212,8 +1241,25 @@
       };
       localStorage.setItem("zippy_dsr_scenario", JSON.stringify(payload));
       const orig = btn.textContent;
-      btn.textContent = "✅ 현재 조건이 브라우저에 저장됨!";
+      btn.textContent = "✅ 저장 완료!";
       setTimeout(() => { btn.textContent = orig; }, 2000);
+    };
+
+    window.resetDsrScenario = function(btn) {
+      try { localStorage.removeItem("zippy_dsr_scenario"); } catch (e) {}
+      document.getElementById("annual-income").value = "6000";
+      document.getElementById("new-loan-type").value = "mortgage";
+      document.getElementById("new-loan-amount").value = "35000";
+      document.getElementById("new-loan-rate").value = "4.20";
+      document.getElementById("new-loan-years").value = "30";
+      document.getElementById("new-repay-method").value = "equal_payment";
+      document.getElementById("new-grace-years").value = "0";
+      existingLoans = [];
+      renderExistingLoans();
+      setCalcMode("ratio");
+      const orig = btn.textContent;
+      btn.textContent = "✅ 초기화됨!";
+      setTimeout(() => { btn.textContent = orig; }, 1800);
     };
 
     (function loadSavedScenario() {
