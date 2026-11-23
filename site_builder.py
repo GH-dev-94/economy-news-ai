@@ -167,10 +167,10 @@ def _render_layout(
     <header class="top-nav">
       <a href="{rel_root}/index.html" class="brand-link">⚡ ZIPPY</a>
       <nav class="nav-links" aria-label="주요 메뉴">
-        <a href="{rel_root}/index.html"{nav_cls("home")}>⚡ 오늘의 브리핑</a>
+        <a href="{rel_root}/index.html"{nav_cls("home")}>⚡ 경제 브리핑</a>
         <a href="{rel_root}/archive/index.html"{nav_cls("archive")}>🗂️ 브리핑 아카이브</a>
         <a href="{rel_root}/guide/index.html"{nav_cls("guide")}>📘 경제·투자 가이드</a>
-        <a href="{rel_root}/tools/dsr.html"{nav_cls("tools")}>🏦 DSR·금융 계산기</a>
+        <a href="{rel_root}/tools/dsr.html"{nav_cls("tools")}>🧮 금융 계산기</a>
         <a href="{rel_root}/about.html"{nav_cls("about")}>ℹ️ 서비스 소개</a>
       </nav>
     </header>
@@ -179,10 +179,10 @@ def _render_layout(
 
     <footer class="footer">
       <div class="footer-links">
-        <a href="{rel_root}/index.html">홈(오늘의 브리핑)</a>
+        <a href="{rel_root}/index.html">경제 브리핑</a>
         <a href="{rel_root}/archive/index.html">브리핑 아카이브</a>
-        <a href="{rel_root}/guide/index.html">경제 가이드</a>
-        <a href="{rel_root}/tools/dsr.html">DSR·금융 계산기</a>
+        <a href="{rel_root}/guide/index.html">경제·투자 가이드</a>
+        <a href="{rel_root}/tools/dsr.html">금융 계산기</a>
         <a href="{rel_root}/about.html">서비스 소개</a>
         <a href="{rel_root}/privacy.html">개인정보처리방침</a>
         <a href="{rel_root}/terms.html">이용약관 및 면책고지</a>
@@ -826,8 +826,8 @@ def write_archive_page(date_str: str, period_data: dict, prev_date: str | None =
     body_html = f"""
     <main>
       <div class="card">
-        <span class="badge">DAILY BRIEFING ARCHIVE · {_html.escape(date_str)}</span>
-        <h1>📅 {_html.escape(period_label)} 국내·해외 경제 데일리 브리핑</h1>
+        <span class="badge">BRIEFING ARCHIVE · {_html.escape(date_str)}</span>
+        <h1>📅 {_html.escape(period_label)} 국내·해외 실시간 경제 브리핑</h1>
         <p style="margin:0.5rem 0 0.9rem;">{exec_summary}</p>
         <div style="font-size:0.88rem; margin-bottom:0.35rem;"><strong>🇰🇷 국내 키워드:</strong> {dom_badges}</div>
         <div style="font-size:0.88rem;"><strong>🌐 해외 키워드:</strong> {gl_badges}</div>
@@ -953,8 +953,8 @@ def rebuild_all_archives(extra_periods: list[dict] | None = None) -> list[str]:
     index_body = f"""
     <main>
       <div class="card">
-        <span class="badge">DAILY BRIEFING ARCHIVE ({len(sorted_dates)}일 누적)</span>
-        <h1>🗂️ 일자별 경제 데일리 브리핑 아카이브</h1>
+        <span class="badge">BRIEFING ARCHIVE ({len(sorted_dates)}일 누적)</span>
+        <h1>🗂️ 일자별 경제 브리핑 아카이브</h1>
         <p style="margin:0; color:var(--text-muted);">
           매일 업데이트된 국내 Top 3 및 해외 Top 3 핵심 경제 이슈와 심층 Q&amp;A 해설을 날짜별로 열람하실 수 있습니다.
         </p>
@@ -965,7 +965,7 @@ def rebuild_all_archives(extra_periods: list[dict] | None = None) -> list[str]:
     </main>
 """
     index_out = _render_layout(
-        title="일자별 경제 데일리 브리핑 아카이브 목록 | ⚡ ZIPPY",
+        title="일자별 경제 브리핑 아카이브 목록 | ⚡ ZIPPY",
         description="ZIPPY가 매일 발행한 국내·해외 핵심 경제 이슈 브리핑과 심층 Q&A 아카이브를 날짜별로 확인하세요.",
         canonical_path="archive/index.html",
         active_nav="archive",
