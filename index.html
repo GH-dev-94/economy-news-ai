@@ -785,7 +785,14 @@
     let appData = null;
     let currentPeriod = "today";
     let currentRegion = "domestic";
-    let savedItems = JSON.parse(localStorage.getItem("zippy_scraps") || "[]");
+    let savedItems = [];
+    try {
+      savedItems = JSON.parse(localStorage.getItem("zippy_scraps") || "[]");
+      if (!Array.isArray(savedItems)) savedItems = [];
+    } catch (e) {
+      savedItems = [];
+    }
+    const cardPayloadRegistry = new Map();
 
     function escapeHtml(str) {
       if (!str) return "";
@@ -806,18 +813,69 @@
       return savedItems.some(item => item.id === id);
     }
 
-    function toggleScrap(cardObj, event) {
-      event.stopPropagation();
+    window.toggleScrapByKey = function(regKey, event) {
+      if (event) {
+        event.stopPropagation();
+        event.preventDefault();
+      }
+      const cardObj = cardPayloadRegistry.get(regKey);
+      if (!cardObj) return;
+
       const idx = savedItems.findIndex(item => item.id === cardObj.id);
       if (idx >= 0) {
         savedItems.splice(idx, 1);
       } else {
         savedItems.unshift(cardObj);
       }
-      localStorage.setItem("zippy_scraps", JSON.stringify(savedItems));
+      try {
+        localStorage.setItem("zippy_scraps", JSON.stringify(savedItems));
+      } catch (e) {
+        console.warn("LocalStorage 저장 실패:", e);
+      }
       updateSavedTabCount();
-      renderView();
-    }
+
+      if (currentPeriod === "saved") {
+        renderView();
+      } else if (event && event.currentTarget) {
+        const btn = event.currentTarget;
+        const nowSaved = isScrapped(cardObj.id);
+        btn.classList.toggle("saved", nowSaved);
+        btn.innerHTML = nowSaved ? "⭐ 저장됨" : "☆ 스크랩";
+      } else {
+        renderView();
+      }
+    };
+
+    window.downloadScrapsMd = function() {
+      if (!savedItems.length) return;
+      const lines = ["# ⭐ ZIPPY 내 경제 브리핑 스크랩 보관함\n"];
+      savedItems.forEach((s, idx) => {
+        const item = s.item || {};
+        lines.push(`## ${idx + 1}. [${s.periodLabel || ""}] ${item.headline || s.kw}`);
+        lines.push(`- **키워드:** ${s.kw}`);
+        const facts = Array.isArray(item.facts) ? item.facts : [];
+        if (facts.length) {
+          lines.push("\n### 📌 무슨 일이 있었나");
+          facts.forEach(f => lines.push(`- ${f}`));
+        }
+        const qna = Array.isArray(item.qna) ? item.qna : [];
+        if (qna.length) {
+          lines.push("\n### 💬 핵심 Q&A");
+          qna.forEach((qa, qi) => {
+            lines.push(`- **Q${qi + 1}. ${qa.q || ""}**`);
+            lines.push(`  - A. ${qa.a || ""}`);
+          });
+        }
+        lines.push("\n---\n");
+      });
+      const blob = new Blob([lines.join("\n")], { type: "text/markdown;charset=utf-8" });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = `ZIPPY_스크랩보관함_${new Date().toISOString().slice(0, 10)}.md`;
+      a.click();
+      URL.revokeObjectURL(url);
+    };
 
     async function fetchNewsData() {
       const cacheBuster = `?t=${Math.floor(Date.now() / 60000)}`;
@@ -883,28 +941,34 @@
         </details>
       ` : "";
 
-      const cardPayload = encodeURIComponent(JSON.stringify({
+      const regKey = `card_reg_${idx}`;
+      cardPayloadRegistry.set(regKey, {
         id: cardId,
         kw,
         item,
         arts: artsList,
         periodLabel
-      }));
+      });
+
+      const periodBadgeHtml = (currentPeriod === "saved" && periodLabel)
+        ? `<span class="kw-badge" style="background:rgba(59,130,246,0.16); color:#93c5fd;">${escapeHtml(periodLabel)}</span>`
+        : "";
 
       return `
         <article class="expander-card ${defaultOpen ? 'open' : ''}" id="card-${idx}">
-          <button class="expander-header" onclick="toggleExpander(this)">
+          <div class="expander-header" role="button" tabindex="0" onclick="toggleExpander(this)">
             <div class="expander-title-wrap">
               <span class="chevron">❯</span>
               <span>📌 ${idx}. ${escapeHtml(headline)}</span>
               <span class="kw-badge">${escapeHtml(kw)}</span>
+              ${periodBadgeHtml}
             </div>
-            <span class="scrap-btn ${scrapped ? 'saved' : ''}"
-                  onclick="toggleScrap(JSON.parse(decodeURIComponent('${cardPayload}')), event)"
-                  title="스크랩 보관함에 저장">
+            <button type="button" class="scrap-btn ${scrapped ? 'saved' : ''}"
+                    onclick="toggleScrapByKey('${regKey}', event)"
+                    title="스크랩 보관함에 저장/해제">
               ${scrapped ? "⭐ 저장됨" : "☆ 스크랩"}
-            </span>
-          </button>
+            </button>
+          </div>
           <div class="expander-body">
             <h4 class="section-h4">📌 무슨 일이 있었나</h4>
             <ul class="bullet-list">${factsHtml}</ul>
@@ -937,6 +1001,7 @@
     };
 
     function renderView() {
+      cardPayloadRegistry.clear();
       const summaryEl = document.getElementById("summary-section");
       const regionTabsEl = document.getElementById("region-tabs");
       const cardsEl = document.getElementById("cards-container");
@@ -946,14 +1011,17 @@
         regionTabsEl.style.display = "none";
         actionRowEl.style.display = "none";
         summaryEl.innerHTML = `
-          <div class="period-line"><strong>⭐ 내 스크랩 보관함:</strong> 저장한 핵심 브리핑 (${savedItems.length}건)</div>
+          <div class="period-line" style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:0.5rem;">
+            <span><strong>⭐ 내 스크랩 보관함:</strong> 브라우저에 영구 저장된 핵심 브리핑 (${savedItems.length}건)</span>
+            ${savedItems.length > 0 ? `<button type="button" class="action-btn" style="padding:0.35rem 0.75rem; font-size:0.8rem;" onclick="downloadScrapsMd()">📥 스크랩 전체 다운로드 (.md)</button>` : ""}
+          </div>
         `;
         if (savedItems.length === 0) {
           cardsEl.innerHTML = `<div style="color:var(--text-muted); padding: 1.5rem 0;">아직 스크랩한 브리핑이 없습니다. 각 뉴스 카드 오른쪽의 <strong>[☆ 스크랩]</strong> 버튼을 눌러 저장해 보세요.</div>`;
           return;
         }
         cardsEl.innerHTML = savedItems.map((saved, i) =>
-          buildCardHtml(i + 1, saved.kw, saved.item, saved.arts, saved.periodLabel, i === 0)
+          buildCardHtml(i + 1, saved.kw, saved.item, saved.arts, saved.periodLabel, true)
         ).join("");
         return;
       }
