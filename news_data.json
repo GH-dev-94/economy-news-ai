@@ -5,104 +5,121 @@
     "end_date": "2026-11-23",
     "domestic": {
       "keywords": [
-        "코스피 급락세",
-        "개인정보 유출 피해",
-        "AI 투자 회의론"
+        "코스피 폭락과 증안펀드",
+        "AI 거품론 재점화",
+        "개인정보 유출 피해"
       ],
       "results": {
-        "코스피 급락세": {
-          "headline": "코스피 5%대 급락에 사이드카 발동 4,700선 턱걸이",
+        "코스피 폭락과 증안펀드": {
+          "headline": "코스피 4700선 턱걸이와 증안펀드 긴급 검토",
           "facts": [
-            "코스피 지수가 장중 5% 넘게 폭락하며 4,600선까지 밀려났고 급격한 변동성으로 인해 매도 사이드카가 발동되었다.",
-            "종가 기준으로는 3%대 하락한 4,700선에 간신히 턱걸이했으며 코스닥 지수는 2년 만에 최저치를 기록하며 동반 하락했다.",
-            "AI 산업 성장에 대한 의구심과 순환금융 위험, 금리 상승 압박이 복합적으로 작용하며 투자 심리가 급격히 위축된 결과이다.",
-            "국고채 3년물 금리는 증시가 최악의 상황은 면했다는 시장 판단에 따라 1.9bp 하락하며 일부 되돌림 현상이 나타났다."
+            "코스피 지수가 전 거래일 대비 3.31% 하락하며 4700선에 간신히 턱걸이하며 마감했다.",
+            "장중 한때 지수가 5% 넘게 폭락하며 4500선까지 밀려나자 매도 사이드카가 발동되는 소동이 벌어졌다.",
+            "정부는 증시 변동성이 이례적으로 확대됨에 따라 증시안정펀드(증안펀드) 가동을 위한 규모 검토에 착수했다.",
+            "코스닥 지수 역시 급락세를 면치 못하며 2년 만에 최저치를 기록하는 등 국내 증시 전반이 공포에 휩싸였다.",
+            "AI 산업의 수익성에 대한 의구심과 금리 상승 우려가 겹치며 외국인과 기관의 매도세가 집중된 결과로 풀이된다."
           ],
           "watch": [
-            "코스피 4,600선 지지 여부 및 추가 하락 가능성",
-            "미 연준의 향후 통화정책 가이던스 발표 내용",
-            "AI 관련주 실적 발표에 따른 투자 심리 회복세"
+            "증시안정펀드 최종 조성 규모 및 투입 시점",
+            "코스피 4500선 지지 여부와 외국인 수급 변화",
+            "미 연준의 추가 금리 가이던스 발표 내용"
           ],
           "qna": [
             {
-              "q": "매도 사이드카 발동이 시장에 미친 실질적인 영향은 무엇인가?",
-              "a": "급격한 가격 변동을 완화하기 위해 프로그램 매도 호가 효력을 일시 정지시켰으나 장중 4,600선 붕괴를 막기에는 역부족이었다. 이는 시장의 공포 심리가 시스템적 제어 범위를 넘어섰음을 시사한다."
+              "q": "장중 발동된 매도 사이드카는 시장에 어떤 신호를 주는가?",
+              "a": "사이드카는 선물 가격의 급등락이 현물 시장에 미치는 충격을 완화하기 위해 프로그램 매매를 일시 정지시키는 조치이다. 이번 발동은 시장의 심리적 지지선이 무너졌음을 의미하며, 단기적인 투매 현상이 극에 달했음을 보여주는 지표로 해석된다."
             },
             {
-              "q": "국고채 금리가 하락한 이유는 증시 폭락과 어떤 상관관계가 있는가?",
-              "a": "증시가 최악의 국면은 지났다는 인식이 확산되면서 안전자산 선호 현상이 일부 완화되어 금리가 소폭 하락했다. 다만 여전히 금리 상승 압박이 존재해 시장의 불안정성은 완전히 해소되지 않았다."
+              "q": "정부가 검토 중인 증안펀드는 실질적인 지수 방어 효과가 있는가?",
+              "a": "증안펀드는 유관기관의 자금을 모아 증시가 급락할 때 주식을 매수하여 하락 속도를 늦추는 역할을 한다. 직접적인 지수 반등을 이끌어내기보다는 시장에 유동성을 공급하고 투자자들의 공포 심리를 진정시키는 심리적 안전판 역할을 수행하는 데 목적이 있다."
             },
             {
-              "q": "과거 사례와 비교했을 때 현재의 반토막 난 코스피 반등 시점은 언제인가?",
-              "a": "과거 급락 사례 분석 결과 지수가 반토막 난 이후에는 기술적 반등이 나타났으나 이번에는 AI 회의론이라는 펀더멘털 이슈가 겹쳐 있다. 연준의 명확한 가이던스가 제시되는 시점이 반등의 분기점이 될 전망이다."
+              "q": "신영증권 리서치센터가 언급한 순환금융 위험은 무엇을 의미하는가?",
+              "a": "주가 하락이 담보가치 하락으로 이어지고, 이것이 다시 반대매매와 추가 하락을 부르는 악순환의 고리를 의미한다. 특히 금리 상승기에 부채를 동원한 투자가 많은 상황에서 이러한 순환적 위험은 증시의 하방 압력을 더욱 가중시키는 요인이 된다."
+            }
+          ]
+        },
+        "AI 거품론 재점화": {
+          "headline": "AI 수익성 의구심에 흔들리는 글로벌 증시",
+          "facts": [
+            "미국발 AI 거품론이 확산되면서 나스닥과 국내 증시가 동반 급락하는 도미노 현상이 발생했다.",
+            "일론 머스크는 AI 업계의 내년 자금난이 심각할 것이라고 경고하며 데이터센터 구축 지연 가능성을 언급했다.",
+            "AI 투자에 대한 회의론이 커지면서 채권 시장으로 자금이 유입되어 금리가 하락하는 안전자산 선호 현상이 나타났다.",
+            "금융권에서는 AI 기술 자체보다 기술을 운용하는 '신뢰'가 핵심 자산이라는 목소리가 나오며 기술 만능주의 경계령이 내려졌다.",
+            "AI 서사에 대한 의구심이 커지면서 엔비디아를 비롯한 주요 반도체 및 기술주들의 주가 조정이 지속되고 있다."
+          ],
+          "watch": [
+            "주요 AI 기업들의 차분기 실적 및 가이던스",
+            "글로벌 빅테크 기업들의 데이터센터 투자 규모 조정 여부",
+            "AI 관련 스타트업들의 자금 조달 성공률 추이"
+          ],
+          "qna": [
+            {
+              "q": "일론 머스크가 경고한 AI 업계 자금난의 구체적 원인은 무엇인가?",
+              "a": "막대한 자본이 투입되는 데이터센터 인프라 구축 비용에 비해 실질적인 수익 모델 창출이 늦어지고 있기 때문이다. 고금리 상황이 지속되면서 저렴한 자금 조달이 어려워진 점도 AI 기업들의 현금 흐름을 압박하는 주요 원인으로 꼽힌다."
+            },
+            {
+              "q": "AI 투자 우려가 채권 금리 하락으로 이어지는 메커니즘은 무엇인가?",
+              "a": "주식 시장의 위험 회피 심리가 강해지면서 투자자들이 상대적으로 안전한 국채 매수로 몰리기 때문이다. 기술주 폭락으로 인한 경기 둔화 우려가 반영되면서 시장 금리가 하방 압력을 받는 현상이 동반되고 있다."
+            },
+            {
+              "q": "토스뱅크가 강조한 '기술보다 신뢰'라는 메시지는 금융 AI 시장에 어떤 시사점을 주는가?",
+              "a": "단순히 고도화된 알고리즘을 도입하는 것보다 고객의 데이터를 안전하게 관리하고 투명하게 운용하는 것이 생존의 핵심이라는 뜻이다. AI 거품론이 기술의 성능 한계보다는 기술의 오남용이나 보안 사고에 대한 불안감에서 기인한다는 점을 지적한 것이다."
             }
           ]
         },
         "개인정보 유출 피해": {
-          "headline": "삼성증권·컬리 등 잇단 해킹에 수만 명 개인정보 유출",
+          "headline": "삼성증권·한전 등 잇따른 대규모 정보 유출",
           "facts": [
-            "삼성증권의 '고객의 소리' 서비스가 해킹 공격을 받아 이용자 8,241명의 이름과 전화번호 등 개인정보가 유출되었다.",
-            "신선식품 플랫폼 컬리에서도 임직원을 포함한 1만 902명의 개인정보가 유출되어 피해 규모가 대폭 확대되었다.",
-            "예별손보에서는 고객 66명의 주민등록번호를 포함한 민감 정보가 유출되는 사고가 발생해 보안 취약점이 드러났다.",
-            "개인정보보호위원회는 한국전력에서 발생한 개인정보 유출 사고에 대해 즉각적인 조사에 착수하며 대응에 나섰다."
+            "삼성증권에서 해킹 사고가 발생하여 고객 8,241명의 계좌번호와 운전면허번호 등 민감 정보가 유출되었다.",
+            "한국전력공사(한전)에서도 약 152만 명 규모의 개인정보 유출 정황이 포착되어 개인정보보호위원회가 조사에 착수했다.",
+            "신선식품 플랫폼 컬리는 임직원 199명과 회원 2명의 개인정보가 추가로 유출된 사실을 확인하고 공지했다.",
+            "삼성증권의 경우 '고객의 소리' 서비스의 취약점을 노린 해킹 공격에 노출된 것으로 파악되었다.",
+            "개인정보위는 유출 경위와 보안 시스템의 적절성 여부를 집중적으로 조사하여 과징금 부과 등을 검토할 예정이다."
           ],
           "watch": [
-            "개인정보위의 한전 및 삼성증권 조사 결과 발표",
-            "추가적인 해킹 피해 기업 발생 여부 모니터링",
-            "피해자들에 대한 기업별 보상 대책 및 보안 강화 방안"
+            "개인정보보호위원회의 한전 및 삼성증권 조사 결과 발표",
+            "유출된 정보를 악용한 2차 피해(보이스피싱 등) 발생 여부",
+            "금융권 전반의 보안 시스템 강화 대책 및 가이드라인"
           ],
           "qna": [
             {
-              "q": "삼성증권 해킹 사고에서 '고객의 소리' 서비스가 타깃이 된 이유는 무엇인가?",
-              "a": "고객 문의가 집중되는 채널의 보안 취약점을 노린 공격으로 분석되며 이를 통해 8,000여 명의 개인정보가 탈취되었다. 금융권의 비핵심 서비스 영역에 대한 보안 관리가 미흡했음을 보여주는 사례이다."
+              "q": "삼성증권 해킹 사고에서 운전면허번호 유출이 특히 위험한 이유는 무엇인가?",
+              "a": "운전면허번호는 비대면 금융 거래 시 본인 인증을 위한 핵심 수단으로 활용되기 때문이다. 유출된 번호를 이용해 타인 명의의 대포폰을 개설하거나 신규 계좌를 만드는 등 심각한 금융 범죄로 이어질 가능성이 매우 높다."
             },
             {
-              "q": "컬리의 유출 피해자가 1만 명 이상으로 늘어난 배경은 무엇인가?",
-              "a": "초기 파악된 규모보다 임직원 정보까지 포함되면서 피해 범위가 확산되었으며 외부 해킹에 의한 데이터 접근 권한 탈취가 원인이다. 플랫폼 기업의 내부 정보 관리 체계에 심각한 결함이 발견되었다."
+              "q": "한전의 152만 명 정보 유출 조사에서 개인정보위가 집중하는 부분은 무엇인가?",
+              "a": "대규모 정보가 한꺼번에 유출된 만큼 내부 관리자의 소홀함이 있었는지, 혹은 시스템 설계상의 근본적인 결함이 있었는지를 규명하는 데 집중하고 있다. 특히 유출 인지 후 즉각적인 신고와 피해자 통지가 이루어졌는지 등 법적 대응 절차 준수 여부도 핵심 조사 대상이다."
             },
             {
-              "q": "예별손보 사례처럼 주민등록번호가 유출된 경우의 파급 효과는 어떠한가?",
-              "a": "단순 연락처 유출과 달리 주민등록번호는 금융 사기나 명의 도용 등 2차 피해로 이어질 가능성이 매우 높다. 유출된 66명에 대해 즉각적인 번호 변경 지원과 집중 모니터링이 필수적인 상황이다."
-            }
-          ]
-        },
-        "AI 투자 회의론": {
-          "headline": "나스닥 시총 5조 달러 증발하며 확산되는 AI 거품 붕괴론",
-          "facts": [
-            "AI 산업의 수익성에 대한 의구심이 커지면서 일주일 사이 나스닥 시가총액 약 5,000조 원이 증발하는 사태가 벌어졌다.",
-            "AI 인프라 구축의 핵심 원자재인 구리 가격이 급락세를 보이며 실물 경기와 투자 심리가 동시에 위축되고 있음을 나타냈다.",
-            "앤트로픽의 상장 소식에도 불구하고 미국 AI 관련주들의 하락세가 지속되면서 월가는 새로운 반등 동력을 찾지 못하고 있다.",
-            "기업들의 이익 호조에도 불구하고 AI 투자 위험에 대한 재평가가 이루어지며 나스닥 지수가 5.3% 폭락하는 '검은 월요일'을 맞았다."
-          ],
-          "watch": [
-            "구리 가격의 추가 하락 여부와 원자재 시장 동향",
-            "주요 AI 기업들의 차기 분기 실적 및 가이던스 변화",
-            "앤트로픽 상장 이후 AI 스타트업 투자 자금 흐름"
-          ],
-          "qna": [
-            {
-              "q": "AI 투자 회의론이 구리 가격 급락으로 이어진 메커니즘은 무엇인가?",
-              "a": "AI 데이터센터 건설에 막대한 양의 구리가 소요되는데 AI 투자 축소 우려가 확산되자 수요 감소 전망이 반영되며 가격이 폭락했다. 이는 AI 산업의 위축이 실물 원자재 시장까지 타격하고 있음을 의미한다."
-            },
-            {
-              "q": "기업 이익이 양호함에도 불구하고 주가가 폭락한 역설적인 이유는 무엇인가?",
-              "a": "현재 시장은 단순한 현재 이익보다 AI 투자가 미래에 실제 수익으로 전환될 수 있는지에 대한 확신을 요구하고 있다. 막대한 자본 지출 대비 회수 기간이 길어질 것이라는 공포가 밸류에이션 재평가를 촉발했다."
-            },
-            {
-              "q": "앤트로픽 상장이 AI 주가 하락세를 막지 못한 결정적 이유는 무엇인가?",
-              "a": "앤트로픽의 IPO 방식과 조건에 대해 월가의 불만이 팽배한 데다 전반적인 AI 섹터에 대한 투매 심리가 상장 호재를 압도했기 때문이다. 개별 기업의 상장보다는 산업 전반의 수익 모델 증명이 필요한 시점이다."
+              "q": "컬리의 사례처럼 임직원 정보가 유출되는 것은 기업 운영에 어떤 타격을 주는가?",
+              "a": "임직원 계정 정보가 유출되면 이를 교두보 삼아 기업 내부망에 침투하는 추가 공격이 가능해진다. 이는 단순한 개인정보 유출을 넘어 기업의 영업비밀이나 핵심 기술 탈취로 이어질 수 있는 보안상의 중대한 허점이 된다."
             }
           ]
         }
       },
       "news": {
-        "코스피 급락세": [
+        "코스피 폭락과 증안펀드": [
           {
-            "title": "코스피 5%대 급락에 매도 사이드카 발동‥4,600까지 밀려 - MBC 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGMDY3V0VKOEt3TFhFdkRJTWZzWlowbGFGd0hqQ0xycE54MGZNT2NIdm16cFYyZnhhSnZySVZBY0NQbmdMa2tzOEM0d1djcVlkb2hHaU1zaVZweFE3MW9id3NUcG5palo0Vko0aHlsYTNYaTh40gF0QVVfeXFMUGFldkQxVEhrMmZ5cFNQRDdybzJvQ1RwMjBsUElZNUc0WDlrYXRULTRKX0F6czk2dU5GNkc4ejkzVTRCV0FSQjVVZ3Z3T1ZPcjZYZExVaUoxcVVVWUxTUmRVZzI4ZjhqYnlpZHp5YndyUFVaMzA?oc=5",
+            "title": "코스피 3.3% 하락‥'증안펀드 준비' 등 정부 대책 먹혔나? - MBC 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Uc08zWG5vbmw1MUVDdUljb2h2Z2hXNV83TkFaUzlEX2RtbDc1V1k0d01kaTlfVUxINUZZbHphdHk4d3QtU3ZfZDV0LUpWVFFIZ3RwWjM4OWNmMHlsNkY4enNhQnlDRjBDR1BvWXlqS0o4U3RjRHJVVNIBeEFVX3lxTE9ua1EzTTVOazh3WEM5eGZickRpUHFCcGVZdHlQZ0M4cThsTkVJYXNEV3dMaFpwS3JEODRZcGp6d1RFSkxiYjBDQ2kwZmwzNjUyMTY1ZS11RU9LZ3RLRkhSbUJGRjNWTm9rbGF4RUUxOWRSd0ZXWW1rSw?oc=5",
             "source": "MBC 뉴스",
-            "published": "11-23 11:36",
-            "snippet": "코스피 5%대 급락에 매도 사이드카 발동‥4,600까지 밀려 MBC 뉴스 \"금융위기급 급락…4200피까지 열어둬라\" 최악 시나리오 나왔다 - 머니투데이 머니투데이 코스피 3%넘게 하락 마감…코스닥 2년 만에 최저 KBS 뉴스 ‘검은 월요일’ 코스피 3.31% 하락...4700선 턱걸이 마감 조선일보 증시 계속된 추락…투자 목적·구성 재정비할 때 한겨레"
+            "published": "11-23 20:11",
+            "snippet": "코스피 3.3% 하락‥'증안펀드 준비' 등 정부 대책 먹혔나? MBC 뉴스"
+          },
+          {
+            "title": "이형일 \"증시 변동성 이례적 확대‥증안펀드 규모 검토\" - MBC 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YZjJ6VWo2Z3BrbGQ4Qy1jOXlXYWtpYkZlTXVKZmkwc1hobUx1a2VTMl82MTNCZGJwQUlfb1p6TXpzb3J2eFlRYmlLNjdpcGRrMV81aEdjVE01WTFlcnd5ZFdQejdWTTVXby1XS1Q1NzhtWktf0gF0QVVfeXFMTXNQaDV5QksxZWFlQ2VDRmVBSHVIQ3FVbDJMZEdnU3NkSXdZb1VxNEh6V2oyYkZnU3huZ1Y0ZmlZb1UzbEk3cjU2TnV3aEd6MHVOT1pJSjAwT2I4UEVRTXdXaVdXcUZaelVINzJabnFKVDBZeXc?oc=5",
+            "source": "MBC 뉴스",
+            "published": "11-23 12:00",
+            "snippet": "이형일 \"증시 변동성 이례적 확대‥증안펀드 규모 검토\" MBC 뉴스 \"최악의 경우 코스피 3000대까지 밀린다\"…전문가의 경고 [분석+] 한국경제 증시안정 위해 상장사 자사주 매수 한도 완화 KBS 뉴스 4,700선 턱걸이한 코스피, 18년 만에 증안펀드 나올까? 네이버페이 머니스토리 증시 변동성 확대에 정부, 증시안정펀드 즉시 가동 준비 대한민국 정책브리핑"
+          },
+          {
+            "title": "코스피 5% 폭락에 매도 사이드카…장중 4500선까지 - 한겨레",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91Z1EyaE0xU2ttdmZsYW11ZkkzZU9IdmRVZWp1am0xbjY1Y0FJN2w0UE5nRmJrS2pYSV9EbkNvUFFpRkVKREF2NFNFTEJNcGU4bTlabnhHN0JCVmZ4Qk9BbS1OejZUcjA?oc=5",
+            "source": "한겨레",
+            "published": "11-23 15:13",
+            "snippet": "코스피 5% 폭락에 매도 사이드카…장중 4500선까지 한겨레 기업들, 자사주 사 ‘떠받치기’... 연기금은 팔아 ‘추락 부채질’ 조선일보 \"80% 손실, 주식앱 지웠다\" 개미들 자포자기...증권사도 침묵 - 머니투데이 머니투데이 코스피 5개월 만에 반토막, 3589조원 증발…4천대 초반까지 가나 한겨레 연이틀 매도 사이드카에 한숨 ...\"확인조차 두렵다\" YTN"
           },
           {
             "title": "[성공예감] AI 서사 의구심, 순환금융 위험, 코스피 반토막, 금리 상승…“美 연준의 가이던스가 중요한 시점” - 김학균 전무 (신영증권 리서치센터장) - KBS 뉴스",
@@ -112,18 +129,11 @@
             "snippet": "[성공예감] AI 서사 의구심, 순환금융 위험, 코스피 반토막, 금리 상승…“美 연준의 가이던스가 중요한 시점” - 김학균 전무 (신영증권 리서치센터장) KBS 뉴스 Google 뉴스에서 헤드라인 및 의견 더보기"
           },
           {
-            "title": "코스피 최악은 면했다 판단에 금리 일부 되돌려…국고 3년 1.9bp↓ - 연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GS3dSOFRyOUdEUTF6T3ZVdVlHWEtyNlVBdy1XQTFYQlBENHNHSkhqanVSaHR1a2RyRVh4emlnVGltSGJfeS1QUnZWNTVKeEVtVER2VUd4akt2ckhYRjlnb08wZ0s1WnlFMFZKeE12MkU?oc=5",
-            "source": "연합인포맥스",
-            "published": "11-23 13:05",
-            "snippet": "코스피 최악은 면했다 판단에 금리 일부 되돌려…국고 3년 1.9bp↓ 연합인포맥스 국고채 금리 일제히 하락…3년물 연 3.623% 연합뉴스 국고채 발행 10조 줄여도 장기금리 4% 안팎…정부 조달 부담↑ 뉴스1 코스피 급락에 국고채 가격 상승세…3년물 연 3.621% 한국경제 증시 급락에 국고채 금리 일제히↓…3년물 연 3.623%(종합) 연합뉴스"
-          },
-          {
-            "title": "AI 투자 회의론 확산에…구리 가격 ‘급락세’ - KBS 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13MHFMS0tiUmtXc205eUstQ1ZtRXBRd0RITWotNUhTTU5zMWt3aEdYWnhnY2NvTnhxQ29sNmlyR3ZFRTBjUDVsMEZhTFJHeE1oTUJoYktNcUJkTDA?oc=5",
-            "source": "KBS 뉴스",
-            "published": "11-23 15:11",
-            "snippet": "AI 투자 회의론 확산에…구리 가격 ‘급락세’ KBS 뉴스 AI 투자 불안에…'닥터 쿠퍼' 구리 가격 변동성 지속 마켓인 구리 가격 하락은 매수 기회일까? UBS가 매수 포지션을 선호하는 이유 Investing.com 한국어 \"믿을 건 金뿐이라더니\" 와르르…최악의 상황에 '비명' 한국경제 AI 수요 회의론에 '닥터 코퍼' 구릿값 급락세 연합뉴스"
+            "title": "‘검은 월요일’ 코스피 3.31% 하락...4700선 턱걸이 마감 - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU28xY0xwdmdZYk4tdFY3XzZDLWpKb0dHYVpHS08wRUJVUm1QOHJrSmRYanUtSHRvekRHc3JWMmxUQWhhV3pweXI1dGpYaUtIOEdHcElXbFRrNDl4M0xlSGx4VUxDMm04aTN5aTBXUTdDaDNEVlRIYm5XM2t2STNsag?oc=5",
+            "source": "조선일보",
+            "published": "11-23 16:26",
+            "snippet": "‘검은 월요일’ 코스피 3.31% 하락...4700선 턱걸이 마감 조선일보"
           },
           {
             "title": "코스피, 3%대 급락 4,700선 턱걸이…코스닥 2년만에 최저(종합) - 연합뉴스",
@@ -131,43 +141,73 @@
             "source": "연합뉴스",
             "published": "11-23 16:11",
             "snippet": "코스피, 3%대 급락 4,700선 턱걸이…코스닥 2년만에 최저(종합) 연합뉴스"
+          }
+        ],
+        "AI 거품론 재점화": [
+          {
+            "title": "[세모경] AI 거품론 재점화…미국발 ‘블랙 먼데이’, 한국은 선방? - JTBC",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qSFVHamQ1YkM1ZWpJTC14a3dpR0pyTXN1SHp1amdybm9TS0M2Q0lSd3BteGJ3ZWt4Y001Y1RBMHVZbXJaWURORXhCdElBeDN0LWZwYQ?oc=5",
+            "source": "JTBC",
+            "published": "11-23 18:42",
+            "snippet": "[세모경] AI 거품론 재점화…미국발 ‘블랙 먼데이’, 한국은 선방? JTBC WSJ \"AI주 폭락, 닷컴버블 때와 닮아\"…한국 콕 집어 \"거품 최종 단계\" JTBC 블루웨이브·엔비디아 스캔들에 ‘AI 버블’ 논쟁 격화…AI 산업 최대 분기점 직면 경향신문 엔비디아 반토막, 나스닥 20% 추락… AI 버블은 이미 터졌나 조선일보 기대감의 시대 끝...AI, '수익성'으로 증명하라 YTN 사이언스"
           },
           {
-            "title": "반토막난 코스피, 언제 반등할까…과거 사례 분석해보니 - 한국경제",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NbldSaFphX3BMNUkzclRsZmJvSnpuTmpJWFppdk5GX1dZQnpGN2hlcVVUeEFYaVd3eUxiR3Y5TmNCZXhVUXQ2Q0QwWXIzOTNUNnQ1dlVZWTRuUQ?oc=5",
-            "source": "한국경제",
-            "published": "11-23 13:26",
-            "snippet": "반토막난 코스피, 언제 반등할까…과거 사례 분석해보니 한국경제"
+            "title": "‘AI 거품론’ 확산에 미국·국내 증시 급락 ‘도미노’ - 부산일보",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KUDBTcEhKZlhxaUtPMERzQXJxRkM0WDJSRmhLSEJGZ3NSRlNmc25NeUg3aGNwV0t4SDNUb1pZeVRRbjE0Q0dhc3RzeHVwY1pteUlDbExFVEZXOHo4RDVldUN5aVZYZnZmdXBiTXVMOGZKc2hBWXNMRTNtaw?oc=5",
+            "source": "부산일보",
+            "published": "11-23 18:13",
+            "snippet": "‘AI 거품론’ 확산에 미국·국내 증시 급락 ‘도미노’ 부산일보"
+          },
+          {
+            "title": "토스뱅크 이은미 대표 \"AI시대 금융 핵심자산은 기술 아닌 신뢰\" - 연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ROGlpeUs2bjZ1LTFNYWdMNlktSzNxbUZDeGRnS2ZTQVdoWXNnVkJ3MnRkRmhPb09DQ242cXJiZ2tBQVFaLTM4TFM1TzJhYmxvZWNhU3pIRFU0NDTSAWBBVV95cUxNVGZSUHM1TWJHNW9iMUxKY0szODVsQ25jMGpNajZVSGFkMXNqNVFaMW1GRTZyMldDbEhDSWs3MmRNM1RobXBDeGo3REZjZVJXTFcxa2hlSjFOMTF5aGMyWTA?oc=5",
+            "source": "연합뉴스",
+            "published": "11-23 15:05",
+            "snippet": "토스뱅크 이은미 대표 \"AI시대 금융 핵심자산은 기술 아닌 신뢰\" 연합뉴스 이은미 토스뱅크 대표 “AI 에이전트, 권한과 책임 명확해야” 전자신문 이은미 토스뱅크 대표 \"신원·권한·책임 명확해야 AI 결제 확산\" 연합인포맥스 이은미 토스뱅크 대표, SFF 2026서 \"AI 결제 안착 조건은 기술 아닌 신뢰\" 뉴스핌 토스뱅크 이은미 싱가포르 핀테크행사 2년 연속 참석, \"AI 금융거래 핵심은 신뢰\" 비즈니스포스트"
+          },
+          {
+            "title": "일론 머스크 \"AI업계 내년 자금난 심각\"…데이터센터 지연 경고 By EBN - Investing.com 한국어",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVTTItRjc5el9ROWtCS2ZQNjFMekZWclcyaWJ5amItNmMwZzViRlVkWkZ2SHkxNXlhaHNoSzhIc0NtNGE5Vi1UR3Z4am0zaU0zaGJsNV9qRHItdVVJX2VuZnZja3FReTRTekxocWFhWG4?oc=5",
+            "source": "Investing.com 한국어",
+            "published": "11-23 15:22",
+            "snippet": "일론 머스크 \"AI업계 내년 자금난 심각\"…데이터센터 지연 경고 By EBN Investing.com 한국어 \"내년에 엄청난 일 벌어진다\"…머스크의 섬뜩한 경고 한국경제 AI 데이터센터 가동 지연이 재무 리스크 더 키운다, 후속 투자 위축되면 반도체 수요에 타격 비즈니스포스트 '내년 AI 돈줄 마르나' 증시 급락에 빚 이자 급등... 삼성·SK 영향은 한국일보 머스크, \"내년 AI 업계 심각한 현금난 닥칠 것\" 경고 조선일보"
+          },
+          {
+            "title": "[채권-마감] 금리 하락…AI 투자 우려에 주가 조정 지속 - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11T1ZVNEFYSUF5NWZ3aG5ycENOZHZ4emRMc1BQa0Vta1ZZdkhCZzNtUW9tQzR0eHVjNEFGVjVETTFGcVRFWUdmYlotN1hGZ3lNNXloSXRPS09Ra0V5UFNuQl9ma0lRUlBpRVI4dGVtTjg?oc=5",
+            "source": "연합인포맥스",
+            "published": "11-23 19:00",
+            "snippet": "[채권-마감] 금리 하락…AI 투자 우려에 주가 조정 지속 연합인포맥스 국고채 금리 일제히 하락…3년물 연 3.623% 연합뉴스 코스피 급락에 국고채 가격 상승세…3년물 연 3.621% 한국경제 국고채 발행 10조 줄여도 장기금리 4% 안팎…정부 조달 부담↑ 뉴스1 3년 만기 국고채 금리 일제히 하락…연 3.623%로 마감 SBS 뉴스"
+          },
+          {
+            "title": "[성공예감] AI 서사 의구심, 순환금융 위험, 코스피 반토막, 금리 상승…“美 연준의 가이던스가 중요한 시점” - 김학균 전무 (신영증권 리서치센터장) - KBS 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90LUE3WlQtdm5qYUY1TkVYTUM5bW9TMENXVDlZZDlHaXdHNl9FaDdPWTlCcDVJeGlpcUpqeC1wTlVJVkV6X3BqUFJnc1kydG1heVpzSmZpc1BQdHc?oc=5",
+            "source": "KBS 뉴스",
+            "published": "11-23 13:41",
+            "snippet": "[성공예감] AI 서사 의구심, 순환금융 위험, 코스피 반토막, 금리 상승…“美 연준의 가이던스가 중요한 시점” - 김학균 전무 (신영증권 리서치센터장) KBS 뉴스 Google 뉴스에서 헤드라인 및 의견 더보기"
           }
         ],
         "개인정보 유출 피해": [
           {
-            "title": "삼성증권 '고객의 소리' 해킹 피해…8천여명 개인정보 유출(종합) - 연합뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpNEtwbkV5eFY3WDgyTF9UWHEwaFVQY2pCdkpsbEpIamtrN2cwSC1kS21lT1ZoZ3lYZXV0T3RxODZfREsxX1RJSVlMOWVVMk00MHdqejVIcG00dEnSAWBBVV95cUxPYmNlakRkdG53UU9OSmtNcnlFdDlTM0NxXzhfZkM2Y3EzaEpScERidHRpU1c4WUllUV9wYlIyLWtKbU1qOGlpa3pqZXlnOGlYQzZTUC1XYUhUNTNXejB0RnI?oc=5",
-            "source": "연합뉴스",
-            "published": "11-23 11:25",
-            "snippet": "삼성증권 '고객의 소리' 해킹 피해…8천여명 개인정보 유출(종합) 연합뉴스 삼성증권 고객 개인정보 8241건 유출... ‘고객의소리’ 서비스 노린 해킹 보안뉴스 삼성증권도 해킹 피해…8천여명 개인정보 유출 매일경제 마켓 [속보]삼성증권 ‘고객의 소리’ 해킹…고객 8241명 계좌번호·운전면허번호 유출 경향신문 경찰 \"금융기관 16곳 해킹 피해 조사 마쳐…국제공조 진행\" - 머니투데이 머니투데이"
-          },
-          {
-            "title": "’개인정보 유출’ 컬리, 임직원까지 털렸다…피해자 1만902명으로 늘어 By EBN - Investing.com 한국어",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00V01laWUzWUVTTlVzNUN4QXo0a3lSZjQ4UTBaY3VtdlBnYjJHUzlKS0V3a0lXUGNhT2h0LWcxS0E0WUJOa2Q3SkNuWkxqVV9tRTRJVUUzQzN2cUxhXzlSWEQ4QTNfcjFfUlRxS3Awazc?oc=5",
-            "source": "Investing.com 한국어",
-            "published": "11-23 14:13",
-            "snippet": "’개인정보 유출’ 컬리, 임직원까지 털렸다…피해자 1만902명으로 늘어 By EBN Investing.com 한국어 컬리 개인정보 유출 사고, 큐레이터 1만699명·일반 고객 2명 피해 보안뉴스 컬리 개인정보 유출 피해 추가 확인…임직원 199명·고객 2명 정보 노출 브릿지경제 컬리, 임직원 개인정보 추가 유출…퇴직자 포함 부산일보 컬리, 임직원 개인정보 유출 추가 확인…200여 명 수준 지디넷코리아"
-          },
-          {
-            "title": "예별손보 고객 66명 개인정보 유출‥주민번호까지 유출 - MBC 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HekVpMERfaDNZdXlVOFNzV3FqM2hUSWxqSGN1WkJPR0h5WXowTUtlQ0VnODZnNzJVeS1fd2tJM2E3dkZrQ253VjM2NTJEZ3g0dFRCUVE0UGRlUnRGM0l3YlVGXzNmRkRNS291RWp6WXQyN2ZT0gF0QVVfeXFMTXNIbkgtTTJEQ3VxSXVWTXZWRzVuLU12ZWNKdjI1emtOcWo2dTEzR2NIczc2d0hqVncweS1WVXNrVjdUV2pjX1JwU3czUm1FY3cwdF9aSm5FQmJWTl9YRkJqVGJSa2pTaHNtUHVMdWQzUmI4SFg?oc=5",
-            "source": "MBC 뉴스",
-            "published": "11-23 10:47",
-            "snippet": "예별손보 고객 66명 개인정보 유출‥주민번호까지 유출 MBC 뉴스 예별손보, 수탁업체 해킹으로 고객 66명 개인정보 유출 KBS 뉴스 예별손보, 수탁업체서 단체보험 피보험자 66명 개인정보 유출 전자신문 금융사 아닌 협력업체가 뚫린다 … 예별손보·저축은행 잇단 정보유출 뉴데일리 경제 예별손보 고객 66명 개인정보 유출... 수탁업체 해킹에 피해 확산 보안뉴스"
+            "title": "컬리 “개인정보 추가 유출 확인…임직원 199명·회원 2명 피해” - KBS 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBETkVyb3RCeVgxTUpvd1NCZjBpVVdsTnkwS0R4QUtQRU9nUWZhZnZlSkN0X1lOVDcwRzF6VlNMYU5QVWNTT3hlcWJ5MFcwdjF3bGYxVHBwbUlSWVk?oc=5",
+            "source": "KBS 뉴스",
+            "published": "11-23 11:34",
+            "snippet": "컬리 “개인정보 추가 유출 확인…임직원 199명·회원 2명 피해” KBS 뉴스 Google 뉴스에서 헤드라인 및 의견 더보기"
           },
           {
             "title": "개인정보위, 한전 개인정보 유출 조사 돌입 - MBC 뉴스",
             "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KY1JJN0Y4VzdTZlRyUlVhbW1GUmtYRnpHTlkyalJXR3pHamFJQldBc0dndU1YbmZNTXFBZldhd1pmLWc0X1BJd1ZGTVlwbzQxczZZMGFCNkVBeWRSeFFaS00xOHBQMVBCeUlBUXN6THZmam8w0gF0QVVfeXFMTlNnLW9jaDFMZ01wdVhTUmxKZUVmbXlPbnF6czUzYVBJYmN1R2pQQnBaVVkzZkp5amgycmhnTlBCMGZKX1VfdG4waUhlTmJDOHM3Ym8yYTRhMDdqT1E2Z2I3RnZVRU5KYXVBQ2E1bjUteUtwelA?oc=5",
             "source": "MBC 뉴스",
             "published": "11-23 16:18",
-            "snippet": "개인정보위, 한전 개인정보 유출 조사 돌입 MBC 뉴스 이번엔 카드번호까지...한전, 또 150만 건 정보유출 YTN 사이언스 [포토] 한국전력에서 개인정보 152만건 유출 전자신문 [단독 후속] 데일리시큐 19일 최초 보도한 한국전력 해킹, 152만 명 개인정보 유출로 확인…다크웹 게시물과 DB 유통 가능성 조사해야 데일리시큐 개인정보위, 한전 개인정보 유출사고 조사 착수 서울Pn"
+            "snippet": "개인정보위, 한전 개인정보 유출 조사 돌입 MBC 뉴스 이번엔 카드번호까지...한전, 또 150만 건 정보유출 YTN 사이언스 개인정보위, 한전 152만명 개인정보 유출 조사 착수 전자신문 [단독 후속] 데일리시큐 19일 최초 보도한 한국전력 해킹, 152만 명 개인정보 유출로 확인…다크웹 게시물과 DB 유통 가능성 조사해야 데일리시큐 개인정보위, 한전 개인정보 유출사고 조사 착수 서울Pn"
+          },
+          {
+            "title": "삼성증권도 해킹 피해...계좌번호·운전면허번호까지 털려 - YTN",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCOXc2ZXM0VWRid3JwV19aR00zQmNQNGVaSEJvc3k2enBETGQ3RnlCSVhIQzlWMTE0VWNVX1VsbzRlQkJoNjVNNlV3bU50T1phNUh6ZFZBX2l4b0tWcnc?oc=5",
+            "source": "YTN",
+            "published": "11-23 14:35",
+            "snippet": "삼성증권도 해킹 피해...계좌번호·운전면허번호까지 털려 YTN 삼성증권 고객 개인정보 8241건 유출... ‘고객의소리’ 서비스 노린 해킹 보안뉴스 경찰 \"금융기관 16곳 해킹 피해 조사 마쳐…국제공조 진행\" - 머니투데이 머니투데이 한전 이어 증권·보험사까지… 개인정보 유출 잇따라 천지일보 삼성증권, 운전면허번호 등 유출...2차 피해 우려↑ YTN"
           },
           {
             "title": "삼성증권 고객 개인정보 8241건 유출... ‘고객의소리’ 서비스 노린 해킹 - 보안뉴스",
@@ -177,60 +217,33 @@
             "snippet": "삼성증권 고객 개인정보 8241건 유출... ‘고객의소리’ 서비스 노린 해킹 보안뉴스"
           },
           {
-            "title": "삼성증권도 해킹 피해... 8241명 개인 정보 유출 - 조선일보",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPazlTNXdUSDlGdDM5S3FMdW5XNlFSN09Ydk1RZGJSaVJ6UklJLWYyZkVtUVM4OWN1el9ieFlzRzJqb2NNQ0Nsb09IQzhURGhZV3JxM2VSejBLeFBzUmlsMUFRcnY3OGRVUFdsQ3Q2Y292WUtHRUh2U29VdHJiYkFtbw?oc=5",
-            "source": "조선일보",
-            "published": "11-23 10:33",
-            "snippet": "삼성증권도 해킹 피해... 8241명 개인 정보 유출 조선일보"
-          }
-        ],
-        "AI 투자 회의론": [
+            "title": "개인정보위, 한전 152만명 개인정보 유출 조사 착수 - 전자신문",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oMXRZMUk5Nk1LZHJsVjVQeWhSbWE5bFlSOXVmWHc2Q1pQZGlfTE9wM2VhZk9lQXV6cndYVkxQMzFOWjNjczJJbnp5di1zQQ?oc=5",
+            "source": "전자신문",
+            "published": "11-23 17:07",
+            "snippet": "개인정보위, 한전 152만명 개인정보 유출 조사 착수 전자신문"
+          },
           {
-            "title": "AI 투자 회의론 확산에…구리 가격 ‘급락세’ - KBS 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13MHFMS0tiUmtXc205eUstQ1ZtRXBRd0RITWotNUhTTU5zMWt3aEdYWnhnY2NvTnhxQ29sNmlyR3ZFRTBjUDVsMEZhTFJHeE1oTUJoYktNcUJkTDA?oc=5",
+            "title": "삼성증권 해킹 피해…고객 8천여 명 개인정보 유출 - KBS 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrbUNBYlpIY242Mm42V3lnRmwwMU1sbEtJeGIyeXA4UDlMN1FqVEFSOHRPdmV1RTRUeHp5aXdWWE5DQmNCU2JrMDhNWmZnbEk1XzlnbTFMaVhWV1E?oc=5",
             "source": "KBS 뉴스",
-            "published": "11-23 15:11",
-            "snippet": "AI 투자 회의론 확산에…구리 가격 ‘급락세’ KBS 뉴스 AI 투자 불안에…'닥터 쿠퍼' 구리 가격 변동성 지속 마켓인 구리 가격 하락은 매수 기회일까? UBS가 매수 포지션을 선호하는 이유 Investing.com 한국어 \"믿을 건 金뿐이라더니\" 와르르…최악의 상황에 '비명' 한국경제 AI 수요 회의론에 '닥터 코퍼' 구릿값 급락세 연합뉴스"
-          },
-          {
-            "title": "나스닥 시총 일주일 새 5천조 ‘증발’…“AI 투자 회의론 점점 커져” - 한겨레",
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWUwyQWlOMlhMWE5YUUZVX0tqMHRnc2lPNnFUajZ6OWdzWXI3Q296c3dVQlRaRmtfbjcxVzlrc3p1MFM4TnMzM19lY2tLaUdLbWhGa1F2SFFSTElyVURlbDZDR1M5Z2M0UkxyVTJNbDhicjJOODAwZjlwT3h0YTBZc0Nn?oc=5",
-            "source": "한겨레",
-            "published": "11-23 09:01",
-            "snippet": "나스닥 시총 일주일 새 5천조 ‘증발’…“AI 투자 회의론 점점 커져” 한겨레"
-          },
-          {
-            "title": "앤트로픽 상장에도 美 AI주 급락 지속…월가, AI 투자 회복 동력 찾기 고심 - 더구루",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TU1NBWDQ0SWlLN2hGbTlTRXU5WHFmX2tIeVMxc0paMmh4NUE4Qk02V0Vhd0JCdFdKc0o1b3hnZ3VyUFJKZm5ER1poWG1CTEc4NTdVeW1GYzFLNnFiUlE?oc=5",
-            "source": "더구루",
-            "published": "11-23 11:05",
-            "snippet": "앤트로픽 상장에도 美 AI주 급락 지속…월가, AI 투자 회복 동력 찾기 고심 더구루"
-          },
-          {
-            "title": "나스닥 5.3% ↓… '검은 월요일' 공포, 고개 드는 'AI 회의론' - 머니투데이 - 머니투데이",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NQmxjRHdSYUIyVzVWU3F5cnFVSnFfUzVhR2FyRm1XdDRndjJPVmVTaXhQVXhFNWN6MlFqLVhpTEdpZHduZ0pZQ2M2c0w0QU1LM2ZBc2c3MDBMMkVEOUlUQ1NvaUYxbVIx0gFuQVVfeXFMT003Yjd1elVpNjhWTzdmV2llUUZMd3kzZHVvZ0Q1bHVXYnZXc0dFcmdWcEFWTDBsRE1vQ2MzTUIycXFzQUxnV2cyQ29UWnNVelE3aHY3VTVHTHd2VE44aUgtV2J4Mk9zZHBzSXZYRUE?oc=5",
-            "source": "머니투데이",
-            "published": "11-23 03:00",
-            "snippet": "나스닥 5.3% ↓… '검은 월요일' 공포, 고개 드는 'AI 회의론' - 머니투데이 머니투데이"
-          },
-          {
-            "title": "미국 증시, AI 거품 붕괴 논쟁에 투자 위험 재평가…기업이익 호조에도 주가 급락 - 아시아투데이",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03Nm5NOXVDbXNwZG5rMWVhc3JPVkxSM0F4Z2FoUTZvTUFTcmhEanp2cmpsZkdNX0pVa2xzLUFQakY0c1ZsQ1B3dkFDYzhobzJmMUlKQkFKbElXdWFnM0NfV1FjZmVXZDliUVJ3OVFR?oc=5",
-            "source": "아시아투데이",
-            "published": "11-23 11:02",
-            "snippet": "미국 증시, AI 거품 붕괴 논쟁에 투자 위험 재평가…기업이익 호조에도 주가 급락 아시아투데이"
-          },
-          {
-            "title": "폭락한 나스닥, 지금 사도 될까?…AI가 본 매수 시점 - 비즈워치",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XUGZRZUF0Qk85X096cVRhQm02bWpKUkFzU29kRUIzT1Zpa0FTZllCM2VwRHRRRnJCMDFEQmhPMmVsRUhGNDNNeWdmZ2ZXZWNELVFZWmhuSld1cDh3N2g0aTlTTW5jS3g0Mmc?oc=5",
-            "source": "비즈워치",
-            "published": "11-23 11:05",
-            "snippet": "폭락한 나스닥, 지금 사도 될까?…AI가 본 매수 시점 비즈워치 나스닥 5.3% ↓… '검은 월요일' 공포, 고개 드는 'AI 회의론' - 머니투데이 머니투데이 “저가 매수 시점인데 선뜻”…美증시 바닥론에도 월가 ‘머뭇’ [머니+] 에너지경제신문 “미국 주식 폭락, 매력적인 매수기회 생겼다”…골드만삭스의 분석 매일경제 마켓 “아직 바닥 안 왔다”… 美 증시 급락에도 ‘저가 매수’ 주춤한 결정적 이유 동아일보"
+            "published": "11-23 10:23",
+            "snippet": "삼성증권 해킹 피해…고객 8천여 명 개인정보 유출 KBS 뉴스"
           }
         ]
       },
       "queries": {
-        "코스피 급락세": [],
+        "코스피 폭락과 증안펀드": [],
+        "AI 거품론 재점화": [
+          "ai 거품론",
+          "ai 거품론 나무위키",
+          "ai 거품론 디시",
+          "ai 거품론 반도체",
+          "ai 거품론 이란",
+          "ai 거품론 닷컴 버블",
+          "ai 거품론 이유",
+          "ai 거품론 의 실체"
+        ],
         "개인정보 유출 피해": [
           "개인정보 유출시 대응",
           "개인정보 유출시 처벌",
@@ -238,133 +251,112 @@
           "개인정보 유출이란",
           "개인정보 유출등 대응 안내서",
           "개인정보 유출등 대응 매뉴얼"
-        ],
-        "AI 투자 회의론": [
-          "AI투자 회의론",
-          "ai 투자",
-          "ai 투자 후기 디시",
-          "ai 투자 프롬프트",
-          "ai 투자 디시",
-          "ai 투자 프로그램",
-          "ai 투자 수익률",
-          "ai 투자 축소"
         ]
       }
     },
     "global": {
       "keywords": [
-        "나스닥 5%대 폭락",
-        "앤트로픽 IPO 논란",
+        "나스닥 기술주 폭락",
+        "앤트로픽 상장과 월가 갈등",
         "미 연준 빅스텝 우려"
       ],
       "results": {
-        "나스닥 5%대 폭락": {
-          "headline": "나스닥 5%대 폭락에 반도체주 패닉셀 글로벌 증시 충격",
+        "나스닥 기술주 폭락": {
+          "headline": "나스닥 5% 폭락과 시총 5천조 원 증발",
           "facts": [
-            "뉴욕증시에서 나스닥 지수가 AI 기술주에 대한 투매 여파로 5.3% 폭락하며 시장에 큰 충격을 주었다.",
-            "반도체 종목들을 중심으로 패닉셀 현상이 나타났으며 다우 지수와 S&P 500 지수도 조정장에 진입하며 하락세에 동참했다.",
-            "이번 폭락으로 인해 증시 공포 지수가 금융위기 수준까지 치솟았으며 추가 하락에 대한 경고음이 커지고 있다.",
-            "나스닥의 기록적인 폭락 여파로 국내 코스피 지수도 개장 직후 2.77% 내린 4,734선에서 출발하며 동조화 현상을 보였다."
+            "뉴욕증시에서 나스닥 지수가 기술주 투매 여파로 하루 만에 5% 급락하며 올해 상승분을 대부분 반납했다.",
+            "나스닥 시장의 시가총액은 일주일 사이에 약 5,000조 원이 증발하며 투자자들에게 큰 충격을 안겼다.",
+            "S&P500 지수 역시 8.6% 급락하는 등 AI 투자 회의론이 시장 전반의 투매를 촉발하는 양상이다.",
+            "폭락 이후 저가 매수세가 유입되면서 나스닥 100 선물 지수가 2% 이상 반등하며 변동성이 극심해지고 있다.",
+            "시장 전문가들은 AI 투자가 실제 기업의 이익으로 연결되는 속도가 기대보다 느리다는 점을 폭락의 근거로 지목했다."
           ],
           "watch": [
-            "나스닥 지수의 추가 하락 및 전저점 지지 여부",
-            "필라델피아 반도체 지수의 변동성 및 투매 진정세",
-            "공포지수(VIX)의 금융위기 수준 유지 여부"
+            "나스닥 지수의 전저점 지지 여부 및 기술적 반등 강도",
+            "빅테크 기업들의 자사주 매입 등 주가 부양책 발표 여부",
+            "공포지수(VIX) 추이와 시장 심리 회복 속도"
           ],
           "qna": [
             {
-              "q": "이번 나스닥 폭락이 '검은 월요일'로 불릴 만큼 공포가 컸던 이유는 무엇인가?",
-              "a": "하루 만에 5.3%라는 기록적인 하락폭을 기록하며 주요 지수들이 일제히 조정장에 진입했기 때문이다. 특히 AI 주도주들에 대한 신뢰가 무너지며 반도체 섹터에서 무차별적인 매도가 발생했다."
+              "q": "나스닥 시총 5,000조 원 증발이 글로벌 실물 경제에 미치는 영향은 무엇인가?",
+              "a": "기술주 중심의 자산 가치 하락은 가계의 소비 심리를 위축시키는 '역자산 효과'를 불러온다. 또한 기술 기업들의 자금 조달 비용을 높여 신규 고용과 R&D 투자를 위축시킴으로써 전반적인 경기 둔화 압력을 가중시킨다."
             },
             {
-              "q": "증시 공포가 금융위기 수준에 도달했다는 것은 어떤 지표로 확인되는가?",
-              "a": "변동성 지수와 투자자들의 심리 지표가 과거 2008년 금융위기 당시의 임계치에 근접하며 극도의 불안감을 반영하고 있다. 이는 단순한 조정을 넘어 구조적인 하락장으로의 진입 가능성을 시사한다."
+              "q": "폭락 직후 나스닥 100 선물이 2% 반등한 것을 본격적인 회복 신호로 볼 수 있는가?",
+              "a": "단기 급락에 따른 기계적 매수세나 공매도 세력의 이익 실현(숏커버링)에 의한 일시적 현상일 가능성이 높다. AI 수익성에 대한 근본적인 의구심이 해소되지 않은 상태에서의 반등은 변동성만 키우는 '데드 캣 바운스'일 수 있어 주의가 필요하다."
             },
             {
-              "q": "나스닥 폭락이 코스피 개장가에 즉각 반영된 연결 고리는 무엇인가?",
-              "a": "한국 증시는 반도체 비중이 높아 나스닥 기술주와 동조화가 강하며 외국인 투자자들이 위험 자산 비중을 줄이는 과정에서 코스피를 우선 매도했기 때문이다. 개장 직후 2.77% 하락은 글로벌 패닉셀의 연장선이다."
+              "q": "AI가 분석한 현재 나스닥의 매수 시점은 어떤 지표를 근거로 하는가?",
+              "a": "과거 폭락장 데이터와 비교했을 때 현재의 주가수익비율(PER)이 역사적 평균치에 근접했는지를 분석한다. 또한 기술주들의 상대강도지수(RSI)가 과매도 구간에 진입했는지 여부를 통해 기술적 반등 가능성을 타진하는 방식이 주로 활용된다."
             }
           ]
         },
-        "앤트로픽 IPO 논란": {
-          "headline": "앤트로픽 IPO 강행에 월가 반발과 정크본드 등급 전망",
+        "앤트로픽 상장과 월가 갈등": {
+          "headline": "앤트로픽 IPO와 월가의 이례적 충돌",
           "facts": [
-            "AI 스타트업 앤트로픽이 IPO를 추진하며 주관사 은행들에 6개월간 경쟁사인 오픈AI 업무를 맡지 말라는 조건을 내걸어 논란이 일었다.",
-            "월스트리트저널은 앤트로픽의 채권 등급이 투기 등급인 '정크본드' 수준으로 예상된다고 보도하며 재무 건전성에 의문을 제기했다.",
-            "이번 IPO의 독특한 구조와 조건은 창업자인 아모데이 남매의 경영 철학에서 비롯되었으나 월가의 강한 불만을 사고 있다.",
-            "AI 업계의 부정행위 논란과 자금난 우려 속에서 진행되는 이번 상장이 시장의 신뢰를 얻을 수 있을지 불투명한 상황이다."
+            "AI 스타트업 앤트로픽이 기업공개(IPO)를 추진하는 과정에서 주관사 은행들에 이례적인 제약 조건을 내걸어 갈등을 빚고 있다.",
+            "앤트로픽은 상장 주관 업무를 맡는 은행들에 향후 6개월간 경쟁사인 OpenAI의 업무를 맡지 말 것을 요구했다.",
+            "월가 금융권은 앤트로픽의 이러한 요구가 시장 관행을 벗어난 '기행'이라며 강하게 반발하고 있다.",
+            "아모데이 남매가 이끄는 앤트로픽의 독특한 경영 철학과 새벽까지 이어지는 고강도 업무 문화가 갈등의 배경으로 지목된다.",
+            "앤트로픽의 상장 소식에도 불구하고 AI 산업 전반에 대한 투자 회의론이 겹치며 관련 주가들은 하락세를 지속했다."
           ],
           "watch": [
-            "앤트로픽의 최종 공모가 확정 및 상장 후 주가 흐름",
-            "월가 투자은행들의 오픈AI 업무 제한 수용 여부",
-            "앤트로픽의 실제 채권 등급 판정 결과"
+            "앤트로픽의 최종 상장 주관사 명단 확정 결과",
+            "OpenAI와 앤트로픽 간의 인재 및 자본 유치 경쟁 추이",
+            "상장 후 앤트로픽의 시가총액 형성 범위 및 시장 평가"
           ],
           "qna": [
             {
-              "q": "앤트로픽이 주관사들에 오픈AI 업무 제한 조건을 건 의도는 무엇인가?",
-              "a": "기술 유출을 방지하고 투자은행들의 충성도를 확보하려는 전략이지만 시장의 자유로운 경쟁을 저해한다는 비판을 받고 있다. 이는 AI 기업 간의 주도권 싸움이 금융권 협력 관계까지 영향을 미치고 있음을 보여준다."
+              "q": "앤트로픽이 주관사 은행에 'OpenAI 업무 제한'을 요구한 전략적 이유는 무엇인가?",
+              "a": "상장 과정에서 공유되는 핵심 재무 정보와 기술 로드맵이 경쟁사로 유출되는 것을 원천 차단하려는 의도이다. 또한 월가 대형 은행들이 양사 사이에서 양다리를 걸치는 것을 막아 자사에 대한 충성도와 집중도를 높이려는 포석으로 풀이된다."
             },
             {
-              "q": "앤트로픽의 채권 등급이 정크본드로 예상되는 구체적인 이유는 무엇인가?",
-              "a": "막대한 AI 모델 개발 비용 지출로 인해 수익성이 확보되지 않았고 부채 상환 능력에 대한 불확실성이 크기 때문이다. 기술력은 인정받으나 재무적 자생력은 아직 검증되지 않았다는 평가이다."
+              "q": "월가가 앤트로픽의 요구에 대해 '새벽 2시 업무'까지 언급하며 분노하는 이유는 무엇인가?",
+              "a": "앤트로픽 경영진이 금융권의 기존 업무 프로세스를 무시하고 자신들의 스타트업식 속도와 문화를 강요하고 있기 때문이다. 이는 단순한 업무 강도의 문제를 넘어 발행사와 주관사 간의 대등한 파트너십이 무너졌다는 위기감을 반영한다."
             },
             {
-              "q": "아모데이 남매의 경영 방식이 IPO 과정에서 갈등을 빚는 배경은 무엇인가?",
-              "a": "기존 월가의 상장 관행을 따르지 않고 기업의 통제권을 강화하려는 폐쇄적인 태도가 투자자들과의 마찰을 일으키고 있다. 이는 상장 이후 지배구조 리스크로 이어질 수 있다는 우려를 낳고 있다."
+              "q": "앤트로픽 IPO가 침체된 AI 투자 시장의 반전 카드가 될 수 있는가?",
+              "a": "앤트로픽이 상장 후 높은 기업 가치를 인정받고 수익성을 증명한다면 AI 거품론을 잠재우는 촉매제가 될 수 있다. 그러나 현재처럼 월가와 갈등을 빚고 시장의 의구심이 큰 상황에서는 오히려 AI 섹터의 변동성을 키우는 리스크 요인이 될 가능성도 배제할 수 없다."
             }
           ]
         },
         "미 연준 빅스텝 우려": {
-          "headline": "연준 매파 기조에 시장 붕괴 초래 빅스텝 전망은 후퇴",
+          "headline": "연준 긴축 우려와 증시 투매의 악순환",
           "facts": [
-            "미 연준의 매파적 기조가 지속되면서 시장 붕괴를 초래했다는 전문가들의 지적이 잇따르며 증시 반등 소재가 실종되었다.",
-            "다만 미 증시가 5%대 폭락을 기록하자 12월 금리 인상 기대감이 후퇴하며 연준의 '빅스텝' 전망은 사실상 소멸했다.",
-            "일론 머스크는 데이터센터 차질과 자금난을 언급하며 내년 AI 기업들이 심각한 유동성 위기에 직면할 수 있다고 경고했다.",
-            "시장은 연준의 명확한 가이던스를 기다리고 있으나 긴축적인 돈줄 죄기 속에 정책적 보살핌은 아직 부족한 상황이다."
+            "미 연준의 '빅스텝(0.5%p 금리 인상)' 가능성이 제기되면서 글로벌 증시의 반등 소재가 실종된 상태다.",
+            "미 재무장관은 연준의 과잉 긴축이 경제적 실수를 유발할 수 있다고 경고하며 최근 증시 투매의 원인으로 지목했다.",
+            "증시 폭락 여파로 12월 금리 인상 기대감이 일부 후퇴했으나, 여전히 긴축에 대한 시장의 공포는 가시지 않고 있다.",
+            "채권 시장에서는 주가 조정 지속과 AI 투자 우려가 맞물리며 금리가 하락하는 등 혼조세가 나타났다.",
+            "시장 전문가들은 현재의 불확실성을 해소하기 위해 미 연준의 명확한 가이던스가 절실한 시점이라고 강조했다."
           ],
           "watch": [
-            "12월 FOMC 금리 결정 및 점도표 변화",
-            "연준 의장의 향후 통화정책 가이던스 발언",
-            "AI 기업들의 자금 조달 여건 및 유동성 지표"
+            "12월 FOMC 정례회의 금리 결정 결과",
+            "미국 소비자물가지수(CPI) 등 인플레이션 지표 발표",
+            "연준 위원들의 금리 인상 속도 조절 관련 발언"
           ],
           "qna": [
             {
-              "q": "증시 폭락 이후 연준의 빅스텝 전망이 소멸한 이유는 무엇인가?",
-              "a": "급격한 자산 가격 하락이 경기 침체를 가속화할 수 있다는 우려 때문에 연준이 추가적인 공격적 금리 인상을 단행하기 어려워졌기 때문이다. 시장의 붕괴가 역설적으로 금리 인상 압박을 낮추는 요인이 되었다."
+              "q": "재무장관이 언급한 연준의 '과잉 긴축 실수'란 구체적으로 무엇을 뜻하는가?",
+              "a": "인플레이션을 잡기 위해 금리를 너무 가파르게 올려 실물 경기를 필요 이상으로 위축시키는 '오버슈팅' 위험을 의미한다. 이는 기업의 부도 위험을 높이고 가계 부채 부담을 급격히 늘려 경제를 장기 침체에 빠뜨릴 수 있다는 경고이다."
             },
             {
-              "q": "일론 머스크가 경고한 AI 기업들의 내년 자금난은 어떤 경로로 발생하는가?",
-              "a": "고금리 지속으로 인해 벤처캐피털 자금이 마르고 데이터센터 구축 비용은 기하급수적으로 늘어나면서 현금 흐름이 악화되기 때문이다. 이는 중소 AI 기업들의 연쇄 도산이나 인수합병으로 이어질 수 있다."
+              "q": "증시 폭락에도 불구하고 왜 금리 인상 기대감이 완전히 사라지지 않는가?",
+              "a": "고용 지표가 여전히 견조하거나 물가 상승 압력이 잔존할 경우, 연준은 자산 가격 하락보다 물가 안정을 우선순위에 두기 때문이다. 시장은 증시 부양을 원하지만 연준은 인플레이션 목표치 달성을 위해 긴축 기조를 유지해야 하는 이해관계의 충돌이 발생하고 있다."
             },
             {
-              "q": "현재 시장에서 연준의 가이던스가 그 어느 때보다 중요해진 이유는 무엇인가?",
-              "a": "AI 회의론과 금리 공포가 겹친 상황에서 연준이 유동성 공급이나 금리 동결 신호를 주지 않으면 시장의 패닉셀을 멈출 동력이 없기 때문이다. 연준의 입에 따라 증시의 바닥 확인 여부가 결정될 전망이다."
+              "q": "연준의 가이던스가 시장의 '돈줄' 흐름을 어떻게 바꿀 수 있는가?",
+              "a": "연준이 금리 인상 중단이나 속도 조절 신호를 명확히 줄 경우, 안전자산으로 숨었던 자금이 다시 위험자산인 주식 시장으로 유입될 수 있다. 반대로 매파적(긴축 선호) 입장을 고수한다면 시장의 유동성 고갈 현상은 더욱 심화되어 증시 하락 압력이 지속될 것이다."
             }
           ]
         }
       },
       "news": {
-        "나스닥 5%대 폭락": [
-          {
-            "title": "[뉴욕 인사이트] AI주 투매에 나스닥 5%대 폭락, 반도체주 패닉셀 (영상) - Investing.com 한국어",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zX2RnUUdpQTdUd2J5ZUNDUkNvSEZzMUFWdW5BWXB6OUNTdlJoWm53VEtGZ1hfaWpDZWx4ZWVPRDFCaWRSWlJVQlpZdFdOQnQtWFoyN2U3OUJBekRoWnladw?oc=5",
-            "source": "Investing.com 한국어",
-            "published": "11-23 14:59",
-            "snippet": "[뉴욕 인사이트] AI주 투매에 나스닥 5%대 폭락, 반도체주 패닉셀 (영상) Investing.com 한국어"
-          },
+        "나스닥 기술주 폭락": [
           {
             "title": "폭락한 나스닥, 지금 사도 될까?…AI가 본 매수 시점 - 비즈워치",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XUGZRZUF0Qk85X096cVRhQm02bWpKUkFzU29kRUIzT1Zpa0FTZllCM2VwRHRRRnJCMDFEQmhPMmVsRUhGNDNNeWdmZ2ZXZWNELVFZWmhuSld1cDh3N2g0aTlTTW5jS3g0Mmc?oc=5",
             "source": "비즈워치",
             "published": "11-23 11:05",
-            "snippet": "폭락한 나스닥, 지금 사도 될까?…AI가 본 매수 시점 비즈워치 나스닥 5.3% ↓… '검은 월요일' 공포, 고개 드는 'AI 회의론' - 머니투데이 머니투데이 “저가 매수 시점인데 선뜻”…美증시 바닥론에도 월가 ‘머뭇’ [머니+] 에너지경제신문 “미국 주식 폭락, 매력적인 매수기회 생겼다”…골드만삭스의 분석 매일경제 마켓 “아직 바닥 안 왔다”… 美 증시 급락에도 ‘저가 매수’ 주춤한 결정적 이유 동아일보"
-          },
-          {
-            "title": "나스닥 폭락에 또 검은 월요일?…\"증시 공포 이미 금융위기 수준\" - 비즈워치",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OTXFkelpaTUs0b0lBeTgxNlZQejRyMl9WNGgtUHdlZ0VpV2c3N0NaT29yTnZQUlUydHF3ZHBtUFpYek5QT3pBY2h6c3NRU0hCVFBhOFlNZERzTmVSU1R6bm92RlREV0tsMVE?oc=5",
-            "source": "비즈워치",
-            "published": "11-22 12:07",
-            "snippet": "나스닥 폭락에 또 검은 월요일?…\"증시 공포 이미 금융위기 수준\" 비즈워치 美 반도체 10% 급락…외인 15조 이탈에 국내증시 비상 한국경제 [태평로] 젠슨 황의 몰락이 던지는 질문 조선일보 깐부 잃은 K반도체, 탈 엔비디아 속도 낼까 주간경향 \"월요일이 무섭다\" 나스닥 급락에 국장 개미도 긴장…AI 수익성 우려 - 머니투데이 머니투데이"
+            "snippet": "폭락한 나스닥, 지금 사도 될까?…AI가 본 매수 시점 비즈워치 골드만삭스 \"패닉지수 극단, 美주식 저가매수 기회\" 연합뉴스 나스닥 5.3% ↓… '검은 월요일' 공포, 고개 드는 'AI 회의론' - 머니투데이 머니투데이 골드만이 보는 증시 조정 끝내는 세 가지 조건 연합인포맥스 미국주가 급락에도 저가 매수자들 여전히 주춤주춤 매일경제 마켓"
           },
           {
             "title": "[e마켓오프닝] 나스닥 5% 폭락 여파···코스피 2.77% 내린 4734 출발 - 시사저널e",
@@ -374,34 +366,48 @@
             "snippet": "[e마켓오프닝] 나스닥 5% 폭락 여파···코스피 2.77% 내린 4734 출발 시사저널e"
           },
           {
-            "title": "[뉴스프레소] 다우·S&P500 조정장 진입… 나스닥 5% 폭락, 추가 하락 가능성도? - 머니투데이 - 머니투데이",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DSEhqVUl6NUd0R253RHg5RWtBeWdBa3IxU2ZuX3JPYWJEZ09VQUw3VDNVbWFrYXNuQzl3Zk5xZTJUbU5rdld1aFhiVjdKNldQRVNXS3l0TnZGUUMtSlY2ZU5XNDZYVGNf0gFuQVVfeXFMTjhjTWxFeVNCSXY2QzFfdjJ6ekQ4UHcyZ0ZuNVBVZEhLQjF6Nzk2S0lRemJ5dzBpRUExMlBHdmZHN3lUbENzR1NnVzJQdWdIMk5wTk1vTHRvYUMyeko2UkpYaktXSkxVSHp5c2NHdUE?oc=5",
-            "source": "머니투데이",
-            "published": "11-23 14:10",
-            "snippet": "[뉴스프레소] 다우·S&P500 조정장 진입… 나스닥 5% 폭락, 추가 하락 가능성도? - 머니투데이 머니투데이"
+            "title": "나스닥100 선물, 기술주 급락 후 저가매수에 2% 이상 반등(상보) | - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DRTREX1lLMjZ2ZmZVZ21UOHBZcDdSWHBQSXk4dHlyS3JSeDZ4Skl6ZlFsMGFTYU1wREpvdTdxUjFkTDVneUprMFN1VzhYQ2lITnBoVGozOUtueTdUakhqbm5yQUJVSnllemMtY2tLTnRnNlE4?oc=5",
+            "source": "연합인포맥스",
+            "published": "11-23 11:33",
+            "snippet": "나스닥100 선물, 기술주 급락 후 저가매수에 2% 이상 반등(상보) | 연합인포맥스"
           },
           {
-            "title": "[마켓 프리뷰] '검은 금요일' 글로벌 증시 패닉…韓증시 5%대 폭락 - SBS Biz",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sbHlkWGVfclVtWWdMZmN1UmdiT3N2T1A3UmZremk0ZHp5cUg5S1U2MDB4VFZSWTlPbW8tU0pXUU1wRVh0VDJRTUVvWkU3Ti1wYXdj0gFYQVVfeXFMUEdCTHFCWlg0SlNSSHAxc2dDZC1RZDZrMnF0dEhmN2x4LTI0SGw5Rm5GTUZkS1JyVXVoRGh3S052TFpkWEJCbjQ4b1F3ZHdWZ3NtcXNBRkhOeg?oc=5",
-            "source": "SBS Biz",
-            "published": "11-23 06:58",
-            "snippet": "[마켓 프리뷰] '검은 금요일' 글로벌 증시 패닉…韓증시 5%대 폭락 SBS Biz"
+            "title": "[개장] 뉴욕증시, 기술주 투매에 나스닥 5%↓..올해 상승분 반납 By 알파경제 alphabiz - Investing.com 한국어",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xYmx6bzB3czAyVXpUSVBSTWxtM0c0TUwzYzFLRlNpOVg5ODNUTWFUN3lYNFJiRGtteU1JRnFlZHBDQ0FOVDhmWnhZWXpTalN5Sy1pb1lRejdsZUstbEpGdE84cFZJZ2xrSXdmR2M4SlQ?oc=5",
+            "source": "Investing.com 한국어",
+            "published": "11-23 08:39",
+            "snippet": "[개장] 뉴욕증시, 기술주 투매에 나스닥 5%↓..올해 상승분 반납 By 알파경제 alphabiz Investing.com 한국어"
+          },
+          {
+            "title": "뉴욕 증시 기술주 매도세 확대 … 나스닥 10%·S&P500 8.6% 급락 - 세이프머니",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53WDUzOU9yajlKSVpVM2JSUjFhMjJ2MkFsTndkbFYybUNIc0Z0dkN5NkRJSGl6M1g5cDZoNEp3YVFodVJJQ1NQMzV0WnFOWGdGT3Y5Z290WG14S3ZsQklHQWxSWW4tRnljMnQ5aVJ3?oc=5",
+            "source": "세이프머니",
+            "published": "11-23 16:25",
+            "snippet": "뉴욕 증시 기술주 매도세 확대 … 나스닥 10%·S&P500 8.6% 급락 세이프머니"
+          },
+          {
+            "title": "나스닥 시총 일주일 새 5천조 ‘증발’…“AI 투자 회의론 점점 커져” - 한겨레",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWUwyQWlOMlhMWE5YUUZVX0tqMHRnc2lPNnFUajZ6OWdzWXI3Q296c3dVQlRaRmtfbjcxVzlrc3p1MFM4TnMzM19lY2tLaUdLbWhGa1F2SFFSTElyVURlbDZDR1M5Z2M0UkxyVTJNbDhicjJOODAwZjlwT3h0YTBZc0Nn?oc=5",
+            "source": "한겨레",
+            "published": "11-23 09:01",
+            "snippet": "나스닥 시총 일주일 새 5천조 ‘증발’…“AI 투자 회의론 점점 커져” 한겨레"
           }
         ],
-        "앤트로픽 IPO 논란": [
+        "앤트로픽 상장과 월가 갈등": [
           {
-            "title": "‘IPO 성공’ 앤트로픽, 채권 시장에선?…WSJ “정크본드 등급 예상” - KBS 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XczlFY25vc0lMZmI4QUl5QkUyaVRhZXJRN0Nld2FjMVU1cEpmWlcwbjA2enJVdUMyLU5qUmY1MFV4RUtLTXpnc0tsc05idXpEanpZZGNaQzk2Wmc?oc=5",
-            "source": "KBS 뉴스",
-            "published": "11-23 16:30",
-            "snippet": "‘IPO 성공’ 앤트로픽, 채권 시장에선?…WSJ “정크본드 등급 예상” KBS 뉴스 'AI 거품' 이미 붕괴?...공모가 턱밑까지 급락한 앤트로픽 [Y녹취록] YTN 앤스로픽 \"주관사 인력 4명으로 제한\"… 월가에서 실리콘밸리로 기운 IPO 주도권 조선일보 [특징주] SK텔레콤, '지분보유' 앤트로픽 급락에 6%대 하락 연합뉴스 월가 불만 산 '별난' 앤트로픽 IPO…그 뿌리는 아모데이 남매 매일경제 마켓"
+            "title": "월가 불만 산 '별난' 앤트로픽 IPO…그 뿌리는 아모데이 남매 - 연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wR3NVTWlGNVpObVR0TDk2aEpzOGVvaFM3bWwwcHRCOWlqLUdnc3FWcUQ2ZFN4TFdnZ3VGcVFBM0Z1Ukx0QnlTQm5wekpQVnNPT3lVLU5pQkxrRGxITWhiTdIBYEFVX3lxTE0wR3NVTWlGNVpObVR0TDk2aEpzOGVvaFM3bWwwcHRCOWlqLUdnc3FWcUQ2ZFN4TFdnZ3VGcVFBM0Z1Ukx0QnlTQm5wekpQVnNPT3lVLU5pQkxrRGxITWhiTQ?oc=5",
+            "source": "연합뉴스",
+            "published": "11-23 13:14",
+            "snippet": "월가 불만 산 '별난' 앤트로픽 IPO…그 뿌리는 아모데이 남매 연합뉴스"
           },
           {
-            "title": "월가 불만 산 '별난' 앤트로픽 IPO…그 뿌리는 아모데이 남매 - 매일경제 마켓",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkNm1zelhfQVNxY1UtemtFMUpIblhDZHVQbFdwRlAwVEw1Vm5KNHlzQXNUVGpodzZpNXEwMmdzM08xTm05ODhSU19MRExOSGdxY1E?oc=5",
-            "source": "매일경제 마켓",
-            "published": "11-23 13:14",
-            "snippet": "월가 불만 산 '별난' 앤트로픽 IPO…그 뿌리는 아모데이 남매 매일경제 마켓"
+            "title": "앤트로픽 상장에도 美 AI주 급락 지속…월가, AI 투자 회복 동력 찾기 고심 - 더구루",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TU1NBWDQ0SWlLN2hGbTlTRXU5WHFmX2tIeVMxc0paMmh4NUE4Qk02V0Vhd0JCdFdKc0o1b3hnZ3VyUFJKZm5ER1poWG1CTEc4NTdVeW1GYzFLNnFiUlE?oc=5",
+            "source": "더구루",
+            "published": "11-23 11:05",
+            "snippet": "앤트로픽 상장에도 美 AI주 급락 지속…월가, AI 투자 회복 동력 찾기 고심 더구루"
           },
           {
             "title": "월가 불만 산 '별난' 앤트로픽 IPO...그 뿌리는 아모데이 남매 - YTN",
@@ -409,6 +415,13 @@
             "source": "YTN",
             "published": "11-23 13:31",
             "snippet": "월가 불만 산 '별난' 앤트로픽 IPO...그 뿌리는 아모데이 남매 YTN"
+          },
+          {
+            "title": "\"새벽 2시에도 일하란 거냐\"…앤트로픽 기행에 월가 '부글' - 한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4ydHJUMy1oMUIzTXJJdkZaSjFxV0dESFM4WU9BUjQ1dURzQ3picGFyUzdYV0F4aWc4eHdqYU1MZEhhcERnank2RkNPWEFBNFZHazF0YV9jRF9GQQ?oc=5",
+            "source": "한국경제",
+            "published": "11-23 13:42",
+            "snippet": "\"새벽 2시에도 일하란 거냐\"…앤트로픽 기행에 월가 '부글' 한국경제"
           },
           {
             "title": "앤트로픽, IPO 은행에 오픈AI 업무 제한...월가 불만 - AI타임스",
@@ -423,13 +436,6 @@
             "source": "지디넷코리아",
             "published": "11-23 10:24",
             "snippet": "\"6개월간 오픈AI 맡지 마라\"…앤트로픽 IPO에 월가가 반발한 이유 지디넷코리아"
-          },
-          {
-            "title": "AI 부정행위 논란 속… 최태원 \"교육 체계 근본 바꿔야\" - 조선일보",
-            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ3VSMDlRSkJmNkFGbG5jTWpubUdYYTBCNWZsRjJzcFZXNjVaX3FpSWhwcFp5Z2pKWlRMQWdzeGlwNnBMMEVCb3FUWUlvUXBPSk52ZVVjcmdlT3Z3bEc2NjMxSi1iX2RBeWZEcUUzdG9hRVpmZmtWS0kzakg3NzJqVFU0bDVqeU1hNWQ5WFJHaw?oc=5",
-            "source": "조선일보",
-            "published": "11-22 13:37",
-            "snippet": "AI 부정행위 논란 속… 최태원 \"교육 체계 근본 바꿔야\" 조선일보 최태원 “AI 네이티브 시대엔 지혜 중심 교육을” 경향신문 최태원 \"한일 기업·대학 손잡고 AI 인재 공동 육성하자\" 연합뉴스TV “AI 네이티브 대학, 완전히 다른 설계·거버넌스 갖춰야” 헤럴드경제 최태원 회장 \"한일 대학·기업, AI 인재 공동 육성해야\" 화이트페이퍼"
           }
         ],
         "미 연준 빅스텝 우려": [
@@ -448,25 +454,25 @@
             "snippet": "美 증시 폭락에 연준 '빅스텝' 전망 소멸…12월 금리 인상 기대 후퇴 블루밍비트"
           },
           {
+            "title": "美재무 \"연준 과잉 긴축 시 실수 가능성\"…증시 투매 이유로 지목 - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YaF9OVUJDeWlwSWRHNWR4YnlIUzdQNkVKQ3daazJsUVNCSFhNZ2VHMDcwclVuRWVNV0VPVzhJRGcwRUZUUEJNNHFfT2VFWGVxMDJ2b2VibXYwcGRUZUl3OXNqeDNUbzd2NWZtSDdWbFU?oc=5",
+            "source": "연합인포맥스",
+            "published": "11-23 03:41",
+            "snippet": "美재무 \"연준 과잉 긴축 시 실수 가능성\"…증시 투매 이유로 지목 연합인포맥스 미국 4년 만에 '빅스텝'?...세계 금융시장 촉각 YTN 사이언스 글로벌 국채 금리, 팬데믹 수준의 기술주 폭락 속 수주 최저치 근접 Investing.com 한국어 美재무 과잉 긴축 경고…국제유가 하락 출발 뉴시스 미국 인공지능 투자 둔화에도 연준 금리 인하에 신중론, 기술주 자금조달 부담 커져 비즈니스포스트"
+          },
+          {
+            "title": "[채권-마감] 금리 하락…AI 투자 우려에 주가 조정 지속 - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11T1ZVNEFYSUF5NWZ3aG5ycENOZHZ4emRMc1BQa0Vta1ZZdkhCZzNtUW9tQzR0eHVjNEFGVjVETTFGcVRFWUdmYlotN1hGZ3lNNXloSXRPS09Ra0V5UFNuQl9ma0lRUlBpRVI4dGVtTjg?oc=5",
+            "source": "연합인포맥스",
+            "published": "11-23 19:00",
+            "snippet": "[채권-마감] 금리 하락…AI 투자 우려에 주가 조정 지속 연합인포맥스 국고채 금리 일제히 하락…3년물 연 3.623% 연합뉴스 코스피 급락에 국고채 가격 상승세…3년물 연 3.621% 한국경제 국고채 발행 10조 줄여도 장기금리 4% 안팎…정부 조달 부담↑ 뉴스1 3년 만기 국고채 금리 일제히 하락…연 3.623%로 마감 SBS 뉴스"
+          },
+          {
             "title": "[성공예감] AI 서사 의구심, 순환금융 위험, 코스피 반토막, 금리 상승…“美 연준의 가이던스가 중요한 시점” - 김학균 전무 (신영증권 리서치센터장) - KBS 뉴스",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90LUE3WlQtdm5qYUY1TkVYTUM5bW9TMENXVDlZZDlHaXdHNl9FaDdPWTlCcDVJeGlpcUpqeC1wTlVJVkV6X3BqUFJnc1kydG1heVpzSmZpc1BQdHc?oc=5",
             "source": "KBS 뉴스",
             "published": "11-23 13:41",
             "snippet": "[성공예감] AI 서사 의구심, 순환금융 위험, 코스피 반토막, 금리 상승…“美 연준의 가이던스가 중요한 시점” - 김학균 전무 (신영증권 리서치센터장) KBS 뉴스 Google 뉴스에서 헤드라인 및 의견 더보기"
-          },
-          {
-            "title": "머스크, 데이터센터 차질에 우려‥\"AI기업 내년에 자금난\" - MBC 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBidlBaM09rT21fUXplbUFrZ0YtQlBZT24wNWVDdzVSN1NZZkY1dGc0NlBVcFEySFFRS1V5VVd1cjZJZWY1d1lJc1RoZmloYjRhS3pveWdkQVNtbkZ2dEg0b0twaWdlNmF0ZFprVFFaTUJsaHFO0gF0QVVfeXFMTURCM3NZRHNWdXltZEtBU2FKNk1heHN6S0VSSDJJb0laT0QtX2k1UmJaWVVGemliX1YyTU44WTFIY1QxdnVsUDB1d2lxbVcxWXB5YkJ3eDl1b3RzSTEtQ1BZYXBSaHlHT2xqVEZSeENpMjZrM0I?oc=5",
-            "source": "MBC 뉴스",
-            "published": "11-23 13:45",
-            "snippet": "머스크, 데이터센터 차질에 우려‥\"AI기업 내년에 자금난\" MBC 뉴스 \"내년에 엄청난 일 벌어진다\"…머스크의 섬뜩한 경고 한국경제 머스크, \"내년 AI 업계 심각한 현금난 닥칠 것\" 경고 조선일보 머스크 \"AI기업, 데이터센터 차질로 내년에 자금난\" YTN 사이언스 AI 데이터센터 가동 지연이 재무 리스크 더 키운다, 후속 투자 위축되면 반도체 수요에 타격 비즈니스포스트"
-          },
-          {
-            "title": "월가 전문가 \"연준 매파 기조가 시장 붕괴 초래\" - 연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Sd01nSWpta3ZFMFVyWFM5MzRPcXhZaEZjMHoxU3BXdk1NS1BuUmM2LXp2YmVUTGQxaGROMHk2ckNILXFPU3Z4TlNid3Y1UkhSVFZXbTZNaXhZT1dhc1RRb2FkMjZEbS1vM0VacWx2eUQ?oc=5",
-            "source": "연합인포맥스",
-            "published": "11-23 13:05",
-            "snippet": "월가 전문가 \"연준 매파 기조가 시장 붕괴 초래\" 연합인포맥스"
           },
           {
             "title": "[글로벌 공포장세] 돈줄 마르는데 연준의 보살핌은 아직 - 뉴스핌",
@@ -478,17 +484,17 @@
         ]
       },
       "queries": {
-        "나스닥 5%대 폭락": [],
-        "앤트로픽 IPO 논란": [
-          "앤트로픽 ipo",
-          "앤트로픽 ipo 일정",
-          "앤트로픽 ipo 연기",
-          "앤트로픽 ipo 날짜",
-          "앤트로픽 ipo 규모",
-          "앤트로픽 ipo 가치",
-          "앤트로픽 ipo 투자설명서",
-          "앤트로픽 ipo 신청"
+        "나스닥 기술주 폭락": [
+          "나스닥 기술주",
+          "나스닥 기술주 etf",
+          "나스닥 기술주 종류",
+          "나스닥 기술주 하락",
+          "나스닥 기술주 비중",
+          "나스닥 기술주 하락 이유",
+          "나스닥 기술주 디시",
+          "나스닥 기술주 지수"
         ],
+        "앤트로픽 상장과 월가 갈등": [],
         "미 연준 빅스텝 우려": [
           "미 연준 금리",
           "미 연준",
@@ -502,191 +508,211 @@
       }
     },
     "keywords": [
-      "코스피 급락세",
+      "코스피 폭락과 증안펀드",
+      "AI 거품론 재점화",
       "개인정보 유출 피해",
-      "AI 투자 회의론",
-      "나스닥 5%대 폭락",
-      "앤트로픽 IPO 논란",
+      "나스닥 기술주 폭락",
+      "앤트로픽 상장과 월가 갈등",
       "미 연준 빅스텝 우려"
     ],
     "results": {
-      "코스피 급락세": {
-        "headline": "코스피 5%대 급락에 사이드카 발동 4,700선 턱걸이",
+      "코스피 폭락과 증안펀드": {
+        "headline": "코스피 4700선 턱걸이와 증안펀드 긴급 검토",
         "facts": [
-          "코스피 지수가 장중 5% 넘게 폭락하며 4,600선까지 밀려났고 급격한 변동성으로 인해 매도 사이드카가 발동되었다.",
-          "종가 기준으로는 3%대 하락한 4,700선에 간신히 턱걸이했으며 코스닥 지수는 2년 만에 최저치를 기록하며 동반 하락했다.",
-          "AI 산업 성장에 대한 의구심과 순환금융 위험, 금리 상승 압박이 복합적으로 작용하며 투자 심리가 급격히 위축된 결과이다.",
-          "국고채 3년물 금리는 증시가 최악의 상황은 면했다는 시장 판단에 따라 1.9bp 하락하며 일부 되돌림 현상이 나타났다."
+          "코스피 지수가 전 거래일 대비 3.31% 하락하며 4700선에 간신히 턱걸이하며 마감했다.",
+          "장중 한때 지수가 5% 넘게 폭락하며 4500선까지 밀려나자 매도 사이드카가 발동되는 소동이 벌어졌다.",
+          "정부는 증시 변동성이 이례적으로 확대됨에 따라 증시안정펀드(증안펀드) 가동을 위한 규모 검토에 착수했다.",
+          "코스닥 지수 역시 급락세를 면치 못하며 2년 만에 최저치를 기록하는 등 국내 증시 전반이 공포에 휩싸였다.",
+          "AI 산업의 수익성에 대한 의구심과 금리 상승 우려가 겹치며 외국인과 기관의 매도세가 집중된 결과로 풀이된다."
         ],
         "watch": [
-          "코스피 4,600선 지지 여부 및 추가 하락 가능성",
-          "미 연준의 향후 통화정책 가이던스 발표 내용",
-          "AI 관련주 실적 발표에 따른 투자 심리 회복세"
+          "증시안정펀드 최종 조성 규모 및 투입 시점",
+          "코스피 4500선 지지 여부와 외국인 수급 변화",
+          "미 연준의 추가 금리 가이던스 발표 내용"
         ],
         "qna": [
           {
-            "q": "매도 사이드카 발동이 시장에 미친 실질적인 영향은 무엇인가?",
-            "a": "급격한 가격 변동을 완화하기 위해 프로그램 매도 호가 효력을 일시 정지시켰으나 장중 4,600선 붕괴를 막기에는 역부족이었다. 이는 시장의 공포 심리가 시스템적 제어 범위를 넘어섰음을 시사한다."
+            "q": "장중 발동된 매도 사이드카는 시장에 어떤 신호를 주는가?",
+            "a": "사이드카는 선물 가격의 급등락이 현물 시장에 미치는 충격을 완화하기 위해 프로그램 매매를 일시 정지시키는 조치이다. 이번 발동은 시장의 심리적 지지선이 무너졌음을 의미하며, 단기적인 투매 현상이 극에 달했음을 보여주는 지표로 해석된다."
           },
           {
-            "q": "국고채 금리가 하락한 이유는 증시 폭락과 어떤 상관관계가 있는가?",
-            "a": "증시가 최악의 국면은 지났다는 인식이 확산되면서 안전자산 선호 현상이 일부 완화되어 금리가 소폭 하락했다. 다만 여전히 금리 상승 압박이 존재해 시장의 불안정성은 완전히 해소되지 않았다."
+            "q": "정부가 검토 중인 증안펀드는 실질적인 지수 방어 효과가 있는가?",
+            "a": "증안펀드는 유관기관의 자금을 모아 증시가 급락할 때 주식을 매수하여 하락 속도를 늦추는 역할을 한다. 직접적인 지수 반등을 이끌어내기보다는 시장에 유동성을 공급하고 투자자들의 공포 심리를 진정시키는 심리적 안전판 역할을 수행하는 데 목적이 있다."
           },
           {
-            "q": "과거 사례와 비교했을 때 현재의 반토막 난 코스피 반등 시점은 언제인가?",
-            "a": "과거 급락 사례 분석 결과 지수가 반토막 난 이후에는 기술적 반등이 나타났으나 이번에는 AI 회의론이라는 펀더멘털 이슈가 겹쳐 있다. 연준의 명확한 가이던스가 제시되는 시점이 반등의 분기점이 될 전망이다."
+            "q": "신영증권 리서치센터가 언급한 순환금융 위험은 무엇을 의미하는가?",
+            "a": "주가 하락이 담보가치 하락으로 이어지고, 이것이 다시 반대매매와 추가 하락을 부르는 악순환의 고리를 의미한다. 특히 금리 상승기에 부채를 동원한 투자가 많은 상황에서 이러한 순환적 위험은 증시의 하방 압력을 더욱 가중시키는 요인이 된다."
+          }
+        ]
+      },
+      "AI 거품론 재점화": {
+        "headline": "AI 수익성 의구심에 흔들리는 글로벌 증시",
+        "facts": [
+          "미국발 AI 거품론이 확산되면서 나스닥과 국내 증시가 동반 급락하는 도미노 현상이 발생했다.",
+          "일론 머스크는 AI 업계의 내년 자금난이 심각할 것이라고 경고하며 데이터센터 구축 지연 가능성을 언급했다.",
+          "AI 투자에 대한 회의론이 커지면서 채권 시장으로 자금이 유입되어 금리가 하락하는 안전자산 선호 현상이 나타났다.",
+          "금융권에서는 AI 기술 자체보다 기술을 운용하는 '신뢰'가 핵심 자산이라는 목소리가 나오며 기술 만능주의 경계령이 내려졌다.",
+          "AI 서사에 대한 의구심이 커지면서 엔비디아를 비롯한 주요 반도체 및 기술주들의 주가 조정이 지속되고 있다."
+        ],
+        "watch": [
+          "주요 AI 기업들의 차분기 실적 및 가이던스",
+          "글로벌 빅테크 기업들의 데이터센터 투자 규모 조정 여부",
+          "AI 관련 스타트업들의 자금 조달 성공률 추이"
+        ],
+        "qna": [
+          {
+            "q": "일론 머스크가 경고한 AI 업계 자금난의 구체적 원인은 무엇인가?",
+            "a": "막대한 자본이 투입되는 데이터센터 인프라 구축 비용에 비해 실질적인 수익 모델 창출이 늦어지고 있기 때문이다. 고금리 상황이 지속되면서 저렴한 자금 조달이 어려워진 점도 AI 기업들의 현금 흐름을 압박하는 주요 원인으로 꼽힌다."
+          },
+          {
+            "q": "AI 투자 우려가 채권 금리 하락으로 이어지는 메커니즘은 무엇인가?",
+            "a": "주식 시장의 위험 회피 심리가 강해지면서 투자자들이 상대적으로 안전한 국채 매수로 몰리기 때문이다. 기술주 폭락으로 인한 경기 둔화 우려가 반영되면서 시장 금리가 하방 압력을 받는 현상이 동반되고 있다."
+          },
+          {
+            "q": "토스뱅크가 강조한 '기술보다 신뢰'라는 메시지는 금융 AI 시장에 어떤 시사점을 주는가?",
+            "a": "단순히 고도화된 알고리즘을 도입하는 것보다 고객의 데이터를 안전하게 관리하고 투명하게 운용하는 것이 생존의 핵심이라는 뜻이다. AI 거품론이 기술의 성능 한계보다는 기술의 오남용이나 보안 사고에 대한 불안감에서 기인한다는 점을 지적한 것이다."
           }
         ]
       },
       "개인정보 유출 피해": {
-        "headline": "삼성증권·컬리 등 잇단 해킹에 수만 명 개인정보 유출",
+        "headline": "삼성증권·한전 등 잇따른 대규모 정보 유출",
         "facts": [
-          "삼성증권의 '고객의 소리' 서비스가 해킹 공격을 받아 이용자 8,241명의 이름과 전화번호 등 개인정보가 유출되었다.",
-          "신선식품 플랫폼 컬리에서도 임직원을 포함한 1만 902명의 개인정보가 유출되어 피해 규모가 대폭 확대되었다.",
-          "예별손보에서는 고객 66명의 주민등록번호를 포함한 민감 정보가 유출되는 사고가 발생해 보안 취약점이 드러났다.",
-          "개인정보보호위원회는 한국전력에서 발생한 개인정보 유출 사고에 대해 즉각적인 조사에 착수하며 대응에 나섰다."
+          "삼성증권에서 해킹 사고가 발생하여 고객 8,241명의 계좌번호와 운전면허번호 등 민감 정보가 유출되었다.",
+          "한국전력공사(한전)에서도 약 152만 명 규모의 개인정보 유출 정황이 포착되어 개인정보보호위원회가 조사에 착수했다.",
+          "신선식품 플랫폼 컬리는 임직원 199명과 회원 2명의 개인정보가 추가로 유출된 사실을 확인하고 공지했다.",
+          "삼성증권의 경우 '고객의 소리' 서비스의 취약점을 노린 해킹 공격에 노출된 것으로 파악되었다.",
+          "개인정보위는 유출 경위와 보안 시스템의 적절성 여부를 집중적으로 조사하여 과징금 부과 등을 검토할 예정이다."
         ],
         "watch": [
-          "개인정보위의 한전 및 삼성증권 조사 결과 발표",
-          "추가적인 해킹 피해 기업 발생 여부 모니터링",
-          "피해자들에 대한 기업별 보상 대책 및 보안 강화 방안"
+          "개인정보보호위원회의 한전 및 삼성증권 조사 결과 발표",
+          "유출된 정보를 악용한 2차 피해(보이스피싱 등) 발생 여부",
+          "금융권 전반의 보안 시스템 강화 대책 및 가이드라인"
         ],
         "qna": [
           {
-            "q": "삼성증권 해킹 사고에서 '고객의 소리' 서비스가 타깃이 된 이유는 무엇인가?",
-            "a": "고객 문의가 집중되는 채널의 보안 취약점을 노린 공격으로 분석되며 이를 통해 8,000여 명의 개인정보가 탈취되었다. 금융권의 비핵심 서비스 영역에 대한 보안 관리가 미흡했음을 보여주는 사례이다."
+            "q": "삼성증권 해킹 사고에서 운전면허번호 유출이 특히 위험한 이유는 무엇인가?",
+            "a": "운전면허번호는 비대면 금융 거래 시 본인 인증을 위한 핵심 수단으로 활용되기 때문이다. 유출된 번호를 이용해 타인 명의의 대포폰을 개설하거나 신규 계좌를 만드는 등 심각한 금융 범죄로 이어질 가능성이 매우 높다."
           },
           {
-            "q": "컬리의 유출 피해자가 1만 명 이상으로 늘어난 배경은 무엇인가?",
-            "a": "초기 파악된 규모보다 임직원 정보까지 포함되면서 피해 범위가 확산되었으며 외부 해킹에 의한 데이터 접근 권한 탈취가 원인이다. 플랫폼 기업의 내부 정보 관리 체계에 심각한 결함이 발견되었다."
+            "q": "한전의 152만 명 정보 유출 조사에서 개인정보위가 집중하는 부분은 무엇인가?",
+            "a": "대규모 정보가 한꺼번에 유출된 만큼 내부 관리자의 소홀함이 있었는지, 혹은 시스템 설계상의 근본적인 결함이 있었는지를 규명하는 데 집중하고 있다. 특히 유출 인지 후 즉각적인 신고와 피해자 통지가 이루어졌는지 등 법적 대응 절차 준수 여부도 핵심 조사 대상이다."
           },
           {
-            "q": "예별손보 사례처럼 주민등록번호가 유출된 경우의 파급 효과는 어떠한가?",
-            "a": "단순 연락처 유출과 달리 주민등록번호는 금융 사기나 명의 도용 등 2차 피해로 이어질 가능성이 매우 높다. 유출된 66명에 대해 즉각적인 번호 변경 지원과 집중 모니터링이 필수적인 상황이다."
+            "q": "컬리의 사례처럼 임직원 정보가 유출되는 것은 기업 운영에 어떤 타격을 주는가?",
+            "a": "임직원 계정 정보가 유출되면 이를 교두보 삼아 기업 내부망에 침투하는 추가 공격이 가능해진다. 이는 단순한 개인정보 유출을 넘어 기업의 영업비밀이나 핵심 기술 탈취로 이어질 수 있는 보안상의 중대한 허점이 된다."
           }
         ]
       },
-      "AI 투자 회의론": {
-        "headline": "나스닥 시총 5조 달러 증발하며 확산되는 AI 거품 붕괴론",
+      "나스닥 기술주 폭락": {
+        "headline": "나스닥 5% 폭락과 시총 5천조 원 증발",
         "facts": [
-          "AI 산업의 수익성에 대한 의구심이 커지면서 일주일 사이 나스닥 시가총액 약 5,000조 원이 증발하는 사태가 벌어졌다.",
-          "AI 인프라 구축의 핵심 원자재인 구리 가격이 급락세를 보이며 실물 경기와 투자 심리가 동시에 위축되고 있음을 나타냈다.",
-          "앤트로픽의 상장 소식에도 불구하고 미국 AI 관련주들의 하락세가 지속되면서 월가는 새로운 반등 동력을 찾지 못하고 있다.",
-          "기업들의 이익 호조에도 불구하고 AI 투자 위험에 대한 재평가가 이루어지며 나스닥 지수가 5.3% 폭락하는 '검은 월요일'을 맞았다."
+          "뉴욕증시에서 나스닥 지수가 기술주 투매 여파로 하루 만에 5% 급락하며 올해 상승분을 대부분 반납했다.",
+          "나스닥 시장의 시가총액은 일주일 사이에 약 5,000조 원이 증발하며 투자자들에게 큰 충격을 안겼다.",
+          "S&P500 지수 역시 8.6% 급락하는 등 AI 투자 회의론이 시장 전반의 투매를 촉발하는 양상이다.",
+          "폭락 이후 저가 매수세가 유입되면서 나스닥 100 선물 지수가 2% 이상 반등하며 변동성이 극심해지고 있다.",
+          "시장 전문가들은 AI 투자가 실제 기업의 이익으로 연결되는 속도가 기대보다 느리다는 점을 폭락의 근거로 지목했다."
         ],
         "watch": [
-          "구리 가격의 추가 하락 여부와 원자재 시장 동향",
-          "주요 AI 기업들의 차기 분기 실적 및 가이던스 변화",
-          "앤트로픽 상장 이후 AI 스타트업 투자 자금 흐름"
+          "나스닥 지수의 전저점 지지 여부 및 기술적 반등 강도",
+          "빅테크 기업들의 자사주 매입 등 주가 부양책 발표 여부",
+          "공포지수(VIX) 추이와 시장 심리 회복 속도"
         ],
         "qna": [
           {
-            "q": "AI 투자 회의론이 구리 가격 급락으로 이어진 메커니즘은 무엇인가?",
-            "a": "AI 데이터센터 건설에 막대한 양의 구리가 소요되는데 AI 투자 축소 우려가 확산되자 수요 감소 전망이 반영되며 가격이 폭락했다. 이는 AI 산업의 위축이 실물 원자재 시장까지 타격하고 있음을 의미한다."
+            "q": "나스닥 시총 5,000조 원 증발이 글로벌 실물 경제에 미치는 영향은 무엇인가?",
+            "a": "기술주 중심의 자산 가치 하락은 가계의 소비 심리를 위축시키는 '역자산 효과'를 불러온다. 또한 기술 기업들의 자금 조달 비용을 높여 신규 고용과 R&D 투자를 위축시킴으로써 전반적인 경기 둔화 압력을 가중시킨다."
           },
           {
-            "q": "기업 이익이 양호함에도 불구하고 주가가 폭락한 역설적인 이유는 무엇인가?",
-            "a": "현재 시장은 단순한 현재 이익보다 AI 투자가 미래에 실제 수익으로 전환될 수 있는지에 대한 확신을 요구하고 있다. 막대한 자본 지출 대비 회수 기간이 길어질 것이라는 공포가 밸류에이션 재평가를 촉발했다."
+            "q": "폭락 직후 나스닥 100 선물이 2% 반등한 것을 본격적인 회복 신호로 볼 수 있는가?",
+            "a": "단기 급락에 따른 기계적 매수세나 공매도 세력의 이익 실현(숏커버링)에 의한 일시적 현상일 가능성이 높다. AI 수익성에 대한 근본적인 의구심이 해소되지 않은 상태에서의 반등은 변동성만 키우는 '데드 캣 바운스'일 수 있어 주의가 필요하다."
           },
           {
-            "q": "앤트로픽 상장이 AI 주가 하락세를 막지 못한 결정적 이유는 무엇인가?",
-            "a": "앤트로픽의 IPO 방식과 조건에 대해 월가의 불만이 팽배한 데다 전반적인 AI 섹터에 대한 투매 심리가 상장 호재를 압도했기 때문이다. 개별 기업의 상장보다는 산업 전반의 수익 모델 증명이 필요한 시점이다."
+            "q": "AI가 분석한 현재 나스닥의 매수 시점은 어떤 지표를 근거로 하는가?",
+            "a": "과거 폭락장 데이터와 비교했을 때 현재의 주가수익비율(PER)이 역사적 평균치에 근접했는지를 분석한다. 또한 기술주들의 상대강도지수(RSI)가 과매도 구간에 진입했는지 여부를 통해 기술적 반등 가능성을 타진하는 방식이 주로 활용된다."
           }
         ]
       },
-      "나스닥 5%대 폭락": {
-        "headline": "나스닥 5%대 폭락에 반도체주 패닉셀 글로벌 증시 충격",
+      "앤트로픽 상장과 월가 갈등": {
+        "headline": "앤트로픽 IPO와 월가의 이례적 충돌",
         "facts": [
-          "뉴욕증시에서 나스닥 지수가 AI 기술주에 대한 투매 여파로 5.3% 폭락하며 시장에 큰 충격을 주었다.",
-          "반도체 종목들을 중심으로 패닉셀 현상이 나타났으며 다우 지수와 S&P 500 지수도 조정장에 진입하며 하락세에 동참했다.",
-          "이번 폭락으로 인해 증시 공포 지수가 금융위기 수준까지 치솟았으며 추가 하락에 대한 경고음이 커지고 있다.",
-          "나스닥의 기록적인 폭락 여파로 국내 코스피 지수도 개장 직후 2.77% 내린 4,734선에서 출발하며 동조화 현상을 보였다."
+          "AI 스타트업 앤트로픽이 기업공개(IPO)를 추진하는 과정에서 주관사 은행들에 이례적인 제약 조건을 내걸어 갈등을 빚고 있다.",
+          "앤트로픽은 상장 주관 업무를 맡는 은행들에 향후 6개월간 경쟁사인 OpenAI의 업무를 맡지 말 것을 요구했다.",
+          "월가 금융권은 앤트로픽의 이러한 요구가 시장 관행을 벗어난 '기행'이라며 강하게 반발하고 있다.",
+          "아모데이 남매가 이끄는 앤트로픽의 독특한 경영 철학과 새벽까지 이어지는 고강도 업무 문화가 갈등의 배경으로 지목된다.",
+          "앤트로픽의 상장 소식에도 불구하고 AI 산업 전반에 대한 투자 회의론이 겹치며 관련 주가들은 하락세를 지속했다."
         ],
         "watch": [
-          "나스닥 지수의 추가 하락 및 전저점 지지 여부",
-          "필라델피아 반도체 지수의 변동성 및 투매 진정세",
-          "공포지수(VIX)의 금융위기 수준 유지 여부"
+          "앤트로픽의 최종 상장 주관사 명단 확정 결과",
+          "OpenAI와 앤트로픽 간의 인재 및 자본 유치 경쟁 추이",
+          "상장 후 앤트로픽의 시가총액 형성 범위 및 시장 평가"
         ],
         "qna": [
           {
-            "q": "이번 나스닥 폭락이 '검은 월요일'로 불릴 만큼 공포가 컸던 이유는 무엇인가?",
-            "a": "하루 만에 5.3%라는 기록적인 하락폭을 기록하며 주요 지수들이 일제히 조정장에 진입했기 때문이다. 특히 AI 주도주들에 대한 신뢰가 무너지며 반도체 섹터에서 무차별적인 매도가 발생했다."
+            "q": "앤트로픽이 주관사 은행에 'OpenAI 업무 제한'을 요구한 전략적 이유는 무엇인가?",
+            "a": "상장 과정에서 공유되는 핵심 재무 정보와 기술 로드맵이 경쟁사로 유출되는 것을 원천 차단하려는 의도이다. 또한 월가 대형 은행들이 양사 사이에서 양다리를 걸치는 것을 막아 자사에 대한 충성도와 집중도를 높이려는 포석으로 풀이된다."
           },
           {
-            "q": "증시 공포가 금융위기 수준에 도달했다는 것은 어떤 지표로 확인되는가?",
-            "a": "변동성 지수와 투자자들의 심리 지표가 과거 2008년 금융위기 당시의 임계치에 근접하며 극도의 불안감을 반영하고 있다. 이는 단순한 조정을 넘어 구조적인 하락장으로의 진입 가능성을 시사한다."
+            "q": "월가가 앤트로픽의 요구에 대해 '새벽 2시 업무'까지 언급하며 분노하는 이유는 무엇인가?",
+            "a": "앤트로픽 경영진이 금융권의 기존 업무 프로세스를 무시하고 자신들의 스타트업식 속도와 문화를 강요하고 있기 때문이다. 이는 단순한 업무 강도의 문제를 넘어 발행사와 주관사 간의 대등한 파트너십이 무너졌다는 위기감을 반영한다."
           },
           {
-            "q": "나스닥 폭락이 코스피 개장가에 즉각 반영된 연결 고리는 무엇인가?",
-            "a": "한국 증시는 반도체 비중이 높아 나스닥 기술주와 동조화가 강하며 외국인 투자자들이 위험 자산 비중을 줄이는 과정에서 코스피를 우선 매도했기 때문이다. 개장 직후 2.77% 하락은 글로벌 패닉셀의 연장선이다."
-          }
-        ]
-      },
-      "앤트로픽 IPO 논란": {
-        "headline": "앤트로픽 IPO 강행에 월가 반발과 정크본드 등급 전망",
-        "facts": [
-          "AI 스타트업 앤트로픽이 IPO를 추진하며 주관사 은행들에 6개월간 경쟁사인 오픈AI 업무를 맡지 말라는 조건을 내걸어 논란이 일었다.",
-          "월스트리트저널은 앤트로픽의 채권 등급이 투기 등급인 '정크본드' 수준으로 예상된다고 보도하며 재무 건전성에 의문을 제기했다.",
-          "이번 IPO의 독특한 구조와 조건은 창업자인 아모데이 남매의 경영 철학에서 비롯되었으나 월가의 강한 불만을 사고 있다.",
-          "AI 업계의 부정행위 논란과 자금난 우려 속에서 진행되는 이번 상장이 시장의 신뢰를 얻을 수 있을지 불투명한 상황이다."
-        ],
-        "watch": [
-          "앤트로픽의 최종 공모가 확정 및 상장 후 주가 흐름",
-          "월가 투자은행들의 오픈AI 업무 제한 수용 여부",
-          "앤트로픽의 실제 채권 등급 판정 결과"
-        ],
-        "qna": [
-          {
-            "q": "앤트로픽이 주관사들에 오픈AI 업무 제한 조건을 건 의도는 무엇인가?",
-            "a": "기술 유출을 방지하고 투자은행들의 충성도를 확보하려는 전략이지만 시장의 자유로운 경쟁을 저해한다는 비판을 받고 있다. 이는 AI 기업 간의 주도권 싸움이 금융권 협력 관계까지 영향을 미치고 있음을 보여준다."
-          },
-          {
-            "q": "앤트로픽의 채권 등급이 정크본드로 예상되는 구체적인 이유는 무엇인가?",
-            "a": "막대한 AI 모델 개발 비용 지출로 인해 수익성이 확보되지 않았고 부채 상환 능력에 대한 불확실성이 크기 때문이다. 기술력은 인정받으나 재무적 자생력은 아직 검증되지 않았다는 평가이다."
-          },
-          {
-            "q": "아모데이 남매의 경영 방식이 IPO 과정에서 갈등을 빚는 배경은 무엇인가?",
-            "a": "기존 월가의 상장 관행을 따르지 않고 기업의 통제권을 강화하려는 폐쇄적인 태도가 투자자들과의 마찰을 일으키고 있다. 이는 상장 이후 지배구조 리스크로 이어질 수 있다는 우려를 낳고 있다."
+            "q": "앤트로픽 IPO가 침체된 AI 투자 시장의 반전 카드가 될 수 있는가?",
+            "a": "앤트로픽이 상장 후 높은 기업 가치를 인정받고 수익성을 증명한다면 AI 거품론을 잠재우는 촉매제가 될 수 있다. 그러나 현재처럼 월가와 갈등을 빚고 시장의 의구심이 큰 상황에서는 오히려 AI 섹터의 변동성을 키우는 리스크 요인이 될 가능성도 배제할 수 없다."
           }
         ]
       },
       "미 연준 빅스텝 우려": {
-        "headline": "연준 매파 기조에 시장 붕괴 초래 빅스텝 전망은 후퇴",
+        "headline": "연준 긴축 우려와 증시 투매의 악순환",
         "facts": [
-          "미 연준의 매파적 기조가 지속되면서 시장 붕괴를 초래했다는 전문가들의 지적이 잇따르며 증시 반등 소재가 실종되었다.",
-          "다만 미 증시가 5%대 폭락을 기록하자 12월 금리 인상 기대감이 후퇴하며 연준의 '빅스텝' 전망은 사실상 소멸했다.",
-          "일론 머스크는 데이터센터 차질과 자금난을 언급하며 내년 AI 기업들이 심각한 유동성 위기에 직면할 수 있다고 경고했다.",
-          "시장은 연준의 명확한 가이던스를 기다리고 있으나 긴축적인 돈줄 죄기 속에 정책적 보살핌은 아직 부족한 상황이다."
+          "미 연준의 '빅스텝(0.5%p 금리 인상)' 가능성이 제기되면서 글로벌 증시의 반등 소재가 실종된 상태다.",
+          "미 재무장관은 연준의 과잉 긴축이 경제적 실수를 유발할 수 있다고 경고하며 최근 증시 투매의 원인으로 지목했다.",
+          "증시 폭락 여파로 12월 금리 인상 기대감이 일부 후퇴했으나, 여전히 긴축에 대한 시장의 공포는 가시지 않고 있다.",
+          "채권 시장에서는 주가 조정 지속과 AI 투자 우려가 맞물리며 금리가 하락하는 등 혼조세가 나타났다.",
+          "시장 전문가들은 현재의 불확실성을 해소하기 위해 미 연준의 명확한 가이던스가 절실한 시점이라고 강조했다."
         ],
         "watch": [
-          "12월 FOMC 금리 결정 및 점도표 변화",
-          "연준 의장의 향후 통화정책 가이던스 발언",
-          "AI 기업들의 자금 조달 여건 및 유동성 지표"
+          "12월 FOMC 정례회의 금리 결정 결과",
+          "미국 소비자물가지수(CPI) 등 인플레이션 지표 발표",
+          "연준 위원들의 금리 인상 속도 조절 관련 발언"
         ],
         "qna": [
           {
-            "q": "증시 폭락 이후 연준의 빅스텝 전망이 소멸한 이유는 무엇인가?",
-            "a": "급격한 자산 가격 하락이 경기 침체를 가속화할 수 있다는 우려 때문에 연준이 추가적인 공격적 금리 인상을 단행하기 어려워졌기 때문이다. 시장의 붕괴가 역설적으로 금리 인상 압박을 낮추는 요인이 되었다."
+            "q": "재무장관이 언급한 연준의 '과잉 긴축 실수'란 구체적으로 무엇을 뜻하는가?",
+            "a": "인플레이션을 잡기 위해 금리를 너무 가파르게 올려 실물 경기를 필요 이상으로 위축시키는 '오버슈팅' 위험을 의미한다. 이는 기업의 부도 위험을 높이고 가계 부채 부담을 급격히 늘려 경제를 장기 침체에 빠뜨릴 수 있다는 경고이다."
           },
           {
-            "q": "일론 머스크가 경고한 AI 기업들의 내년 자금난은 어떤 경로로 발생하는가?",
-            "a": "고금리 지속으로 인해 벤처캐피털 자금이 마르고 데이터센터 구축 비용은 기하급수적으로 늘어나면서 현금 흐름이 악화되기 때문이다. 이는 중소 AI 기업들의 연쇄 도산이나 인수합병으로 이어질 수 있다."
+            "q": "증시 폭락에도 불구하고 왜 금리 인상 기대감이 완전히 사라지지 않는가?",
+            "a": "고용 지표가 여전히 견조하거나 물가 상승 압력이 잔존할 경우, 연준은 자산 가격 하락보다 물가 안정을 우선순위에 두기 때문이다. 시장은 증시 부양을 원하지만 연준은 인플레이션 목표치 달성을 위해 긴축 기조를 유지해야 하는 이해관계의 충돌이 발생하고 있다."
           },
           {
-            "q": "현재 시장에서 연준의 가이던스가 그 어느 때보다 중요해진 이유는 무엇인가?",
-            "a": "AI 회의론과 금리 공포가 겹친 상황에서 연준이 유동성 공급이나 금리 동결 신호를 주지 않으면 시장의 패닉셀을 멈출 동력이 없기 때문이다. 연준의 입에 따라 증시의 바닥 확인 여부가 결정될 전망이다."
+            "q": "연준의 가이던스가 시장의 '돈줄' 흐름을 어떻게 바꿀 수 있는가?",
+            "a": "연준이 금리 인상 중단이나 속도 조절 신호를 명확히 줄 경우, 안전자산으로 숨었던 자금이 다시 위험자산인 주식 시장으로 유입될 수 있다. 반대로 매파적(긴축 선호) 입장을 고수한다면 시장의 유동성 고갈 현상은 더욱 심화되어 증시 하락 압력이 지속될 것이다."
           }
         ]
       }
     },
     "news": {
-      "코스피 급락세": [
+      "코스피 폭락과 증안펀드": [
         {
-          "title": "코스피 5%대 급락에 매도 사이드카 발동‥4,600까지 밀려 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGMDY3V0VKOEt3TFhFdkRJTWZzWlowbGFGd0hqQ0xycE54MGZNT2NIdm16cFYyZnhhSnZySVZBY0NQbmdMa2tzOEM0d1djcVlkb2hHaU1zaVZweFE3MW9id3NUcG5palo0Vko0aHlsYTNYaTh40gF0QVVfeXFMUGFldkQxVEhrMmZ5cFNQRDdybzJvQ1RwMjBsUElZNUc0WDlrYXRULTRKX0F6czk2dU5GNkc4ejkzVTRCV0FSQjVVZ3Z3T1ZPcjZYZExVaUoxcVVVWUxTUmRVZzI4ZjhqYnlpZHp5YndyUFVaMzA?oc=5",
+          "title": "코스피 3.3% 하락‥'증안펀드 준비' 등 정부 대책 먹혔나? - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Uc08zWG5vbmw1MUVDdUljb2h2Z2hXNV83TkFaUzlEX2RtbDc1V1k0d01kaTlfVUxINUZZbHphdHk4d3QtU3ZfZDV0LUpWVFFIZ3RwWjM4OWNmMHlsNkY4enNhQnlDRjBDR1BvWXlqS0o4U3RjRHJVVNIBeEFVX3lxTE9ua1EzTTVOazh3WEM5eGZickRpUHFCcGVZdHlQZ0M4cThsTkVJYXNEV3dMaFpwS3JEODRZcGp6d1RFSkxiYjBDQ2kwZmwzNjUyMTY1ZS11RU9LZ3RLRkhSbUJGRjNWTm9rbGF4RUUxOWRSd0ZXWW1rSw?oc=5",
           "source": "MBC 뉴스",
-          "published": "11-23 11:36",
-          "snippet": "코스피 5%대 급락에 매도 사이드카 발동‥4,600까지 밀려 MBC 뉴스 \"금융위기급 급락…4200피까지 열어둬라\" 최악 시나리오 나왔다 - 머니투데이 머니투데이 코스피 3%넘게 하락 마감…코스닥 2년 만에 최저 KBS 뉴스 ‘검은 월요일’ 코스피 3.31% 하락...4700선 턱걸이 마감 조선일보 증시 계속된 추락…투자 목적·구성 재정비할 때 한겨레"
+          "published": "11-23 20:11",
+          "snippet": "코스피 3.3% 하락‥'증안펀드 준비' 등 정부 대책 먹혔나? MBC 뉴스"
+        },
+        {
+          "title": "이형일 \"증시 변동성 이례적 확대‥증안펀드 규모 검토\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YZjJ6VWo2Z3BrbGQ4Qy1jOXlXYWtpYkZlTXVKZmkwc1hobUx1a2VTMl82MTNCZGJwQUlfb1p6TXpzb3J2eFlRYmlLNjdpcGRrMV81aEdjVE01WTFlcnd5ZFdQejdWTTVXby1XS1Q1NzhtWktf0gF0QVVfeXFMTXNQaDV5QksxZWFlQ2VDRmVBSHVIQ3FVbDJMZEdnU3NkSXdZb1VxNEh6V2oyYkZnU3huZ1Y0ZmlZb1UzbEk3cjU2TnV3aEd6MHVOT1pJSjAwT2I4UEVRTXdXaVdXcUZaelVINzJabnFKVDBZeXc?oc=5",
+          "source": "MBC 뉴스",
+          "published": "11-23 12:00",
+          "snippet": "이형일 \"증시 변동성 이례적 확대‥증안펀드 규모 검토\" MBC 뉴스 \"최악의 경우 코스피 3000대까지 밀린다\"…전문가의 경고 [분석+] 한국경제 증시안정 위해 상장사 자사주 매수 한도 완화 KBS 뉴스 4,700선 턱걸이한 코스피, 18년 만에 증안펀드 나올까? 네이버페이 머니스토리 증시 변동성 확대에 정부, 증시안정펀드 즉시 가동 준비 대한민국 정책브리핑"
+        },
+        {
+          "title": "코스피 5% 폭락에 매도 사이드카…장중 4500선까지 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91Z1EyaE0xU2ttdmZsYW11ZkkzZU9IdmRVZWp1am0xbjY1Y0FJN2w0UE5nRmJrS2pYSV9EbkNvUFFpRkVKREF2NFNFTEJNcGU4bTlabnhHN0JCVmZ4Qk9BbS1OejZUcjA?oc=5",
+          "source": "한겨레",
+          "published": "11-23 15:13",
+          "snippet": "코스피 5% 폭락에 매도 사이드카…장중 4500선까지 한겨레 기업들, 자사주 사 ‘떠받치기’... 연기금은 팔아 ‘추락 부채질’ 조선일보 \"80% 손실, 주식앱 지웠다\" 개미들 자포자기...증권사도 침묵 - 머니투데이 머니투데이 코스피 5개월 만에 반토막, 3589조원 증발…4천대 초반까지 가나 한겨레 연이틀 매도 사이드카에 한숨 ...\"확인조차 두렵다\" YTN"
         },
         {
           "title": "[성공예감] AI 서사 의구심, 순환금융 위험, 코스피 반토막, 금리 상승…“美 연준의 가이던스가 중요한 시점” - 김학균 전무 (신영증권 리서치센터장) - KBS 뉴스",
@@ -696,18 +722,11 @@
           "snippet": "[성공예감] AI 서사 의구심, 순환금융 위험, 코스피 반토막, 금리 상승…“美 연준의 가이던스가 중요한 시점” - 김학균 전무 (신영증권 리서치센터장) KBS 뉴스 Google 뉴스에서 헤드라인 및 의견 더보기"
         },
         {
-          "title": "코스피 최악은 면했다 판단에 금리 일부 되돌려…국고 3년 1.9bp↓ - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GS3dSOFRyOUdEUTF6T3ZVdVlHWEtyNlVBdy1XQTFYQlBENHNHSkhqanVSaHR1a2RyRVh4emlnVGltSGJfeS1QUnZWNTVKeEVtVER2VUd4akt2ckhYRjlnb08wZ0s1WnlFMFZKeE12MkU?oc=5",
-          "source": "연합인포맥스",
-          "published": "11-23 13:05",
-          "snippet": "코스피 최악은 면했다 판단에 금리 일부 되돌려…국고 3년 1.9bp↓ 연합인포맥스 국고채 금리 일제히 하락…3년물 연 3.623% 연합뉴스 국고채 발행 10조 줄여도 장기금리 4% 안팎…정부 조달 부담↑ 뉴스1 코스피 급락에 국고채 가격 상승세…3년물 연 3.621% 한국경제 증시 급락에 국고채 금리 일제히↓…3년물 연 3.623%(종합) 연합뉴스"
-        },
-        {
-          "title": "AI 투자 회의론 확산에…구리 가격 ‘급락세’ - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13MHFMS0tiUmtXc205eUstQ1ZtRXBRd0RITWotNUhTTU5zMWt3aEdYWnhnY2NvTnhxQ29sNmlyR3ZFRTBjUDVsMEZhTFJHeE1oTUJoYktNcUJkTDA?oc=5",
-          "source": "KBS 뉴스",
-          "published": "11-23 15:11",
-          "snippet": "AI 투자 회의론 확산에…구리 가격 ‘급락세’ KBS 뉴스 AI 투자 불안에…'닥터 쿠퍼' 구리 가격 변동성 지속 마켓인 구리 가격 하락은 매수 기회일까? UBS가 매수 포지션을 선호하는 이유 Investing.com 한국어 \"믿을 건 金뿐이라더니\" 와르르…최악의 상황에 '비명' 한국경제 AI 수요 회의론에 '닥터 코퍼' 구릿값 급락세 연합뉴스"
+          "title": "‘검은 월요일’ 코스피 3.31% 하락...4700선 턱걸이 마감 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU28xY0xwdmdZYk4tdFY3XzZDLWpKb0dHYVpHS08wRUJVUm1QOHJrSmRYanUtSHRvekRHc3JWMmxUQWhhV3pweXI1dGpYaUtIOEdHcElXbFRrNDl4M0xlSGx4VUxDMm04aTN5aTBXUTdDaDNEVlRIYm5XM2t2STNsag?oc=5",
+          "source": "조선일보",
+          "published": "11-23 16:26",
+          "snippet": "‘검은 월요일’ 코스피 3.31% 하락...4700선 턱걸이 마감 조선일보"
         },
         {
           "title": "코스피, 3%대 급락 4,700선 턱걸이…코스닥 2년만에 최저(종합) - 연합뉴스",
@@ -715,43 +734,73 @@
           "source": "연합뉴스",
           "published": "11-23 16:11",
           "snippet": "코스피, 3%대 급락 4,700선 턱걸이…코스닥 2년만에 최저(종합) 연합뉴스"
+        }
+      ],
+      "AI 거품론 재점화": [
+        {
+          "title": "[세모경] AI 거품론 재점화…미국발 ‘블랙 먼데이’, 한국은 선방? - JTBC",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qSFVHamQ1YkM1ZWpJTC14a3dpR0pyTXN1SHp1amdybm9TS0M2Q0lSd3BteGJ3ZWt4Y001Y1RBMHVZbXJaWURORXhCdElBeDN0LWZwYQ?oc=5",
+          "source": "JTBC",
+          "published": "11-23 18:42",
+          "snippet": "[세모경] AI 거품론 재점화…미국발 ‘블랙 먼데이’, 한국은 선방? JTBC WSJ \"AI주 폭락, 닷컴버블 때와 닮아\"…한국 콕 집어 \"거품 최종 단계\" JTBC 블루웨이브·엔비디아 스캔들에 ‘AI 버블’ 논쟁 격화…AI 산업 최대 분기점 직면 경향신문 엔비디아 반토막, 나스닥 20% 추락… AI 버블은 이미 터졌나 조선일보 기대감의 시대 끝...AI, '수익성'으로 증명하라 YTN 사이언스"
         },
         {
-          "title": "반토막난 코스피, 언제 반등할까…과거 사례 분석해보니 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NbldSaFphX3BMNUkzclRsZmJvSnpuTmpJWFppdk5GX1dZQnpGN2hlcVVUeEFYaVd3eUxiR3Y5TmNCZXhVUXQ2Q0QwWXIzOTNUNnQ1dlVZWTRuUQ?oc=5",
-          "source": "한국경제",
-          "published": "11-23 13:26",
-          "snippet": "반토막난 코스피, 언제 반등할까…과거 사례 분석해보니 한국경제"
+          "title": "‘AI 거품론’ 확산에 미국·국내 증시 급락 ‘도미노’ - 부산일보",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KUDBTcEhKZlhxaUtPMERzQXJxRkM0WDJSRmhLSEJGZ3NSRlNmc25NeUg3aGNwV0t4SDNUb1pZeVRRbjE0Q0dhc3RzeHVwY1pteUlDbExFVEZXOHo4RDVldUN5aVZYZnZmdXBiTXVMOGZKc2hBWXNMRTNtaw?oc=5",
+          "source": "부산일보",
+          "published": "11-23 18:13",
+          "snippet": "‘AI 거품론’ 확산에 미국·국내 증시 급락 ‘도미노’ 부산일보"
+        },
+        {
+          "title": "토스뱅크 이은미 대표 \"AI시대 금융 핵심자산은 기술 아닌 신뢰\" - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ROGlpeUs2bjZ1LTFNYWdMNlktSzNxbUZDeGRnS2ZTQVdoWXNnVkJ3MnRkRmhPb09DQ242cXJiZ2tBQVFaLTM4TFM1TzJhYmxvZWNhU3pIRFU0NDTSAWBBVV95cUxNVGZSUHM1TWJHNW9iMUxKY0szODVsQ25jMGpNajZVSGFkMXNqNVFaMW1GRTZyMldDbEhDSWs3MmRNM1RobXBDeGo3REZjZVJXTFcxa2hlSjFOMTF5aGMyWTA?oc=5",
+          "source": "연합뉴스",
+          "published": "11-23 15:05",
+          "snippet": "토스뱅크 이은미 대표 \"AI시대 금융 핵심자산은 기술 아닌 신뢰\" 연합뉴스 이은미 토스뱅크 대표 “AI 에이전트, 권한과 책임 명확해야” 전자신문 이은미 토스뱅크 대표 \"신원·권한·책임 명확해야 AI 결제 확산\" 연합인포맥스 이은미 토스뱅크 대표, SFF 2026서 \"AI 결제 안착 조건은 기술 아닌 신뢰\" 뉴스핌 토스뱅크 이은미 싱가포르 핀테크행사 2년 연속 참석, \"AI 금융거래 핵심은 신뢰\" 비즈니스포스트"
+        },
+        {
+          "title": "일론 머스크 \"AI업계 내년 자금난 심각\"…데이터센터 지연 경고 By EBN - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVTTItRjc5el9ROWtCS2ZQNjFMekZWclcyaWJ5amItNmMwZzViRlVkWkZ2SHkxNXlhaHNoSzhIc0NtNGE5Vi1UR3Z4am0zaU0zaGJsNV9qRHItdVVJX2VuZnZja3FReTRTekxocWFhWG4?oc=5",
+          "source": "Investing.com 한국어",
+          "published": "11-23 15:22",
+          "snippet": "일론 머스크 \"AI업계 내년 자금난 심각\"…데이터센터 지연 경고 By EBN Investing.com 한국어 \"내년에 엄청난 일 벌어진다\"…머스크의 섬뜩한 경고 한국경제 AI 데이터센터 가동 지연이 재무 리스크 더 키운다, 후속 투자 위축되면 반도체 수요에 타격 비즈니스포스트 '내년 AI 돈줄 마르나' 증시 급락에 빚 이자 급등... 삼성·SK 영향은 한국일보 머스크, \"내년 AI 업계 심각한 현금난 닥칠 것\" 경고 조선일보"
+        },
+        {
+          "title": "[채권-마감] 금리 하락…AI 투자 우려에 주가 조정 지속 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11T1ZVNEFYSUF5NWZ3aG5ycENOZHZ4emRMc1BQa0Vta1ZZdkhCZzNtUW9tQzR0eHVjNEFGVjVETTFGcVRFWUdmYlotN1hGZ3lNNXloSXRPS09Ra0V5UFNuQl9ma0lRUlBpRVI4dGVtTjg?oc=5",
+          "source": "연합인포맥스",
+          "published": "11-23 19:00",
+          "snippet": "[채권-마감] 금리 하락…AI 투자 우려에 주가 조정 지속 연합인포맥스 국고채 금리 일제히 하락…3년물 연 3.623% 연합뉴스 코스피 급락에 국고채 가격 상승세…3년물 연 3.621% 한국경제 국고채 발행 10조 줄여도 장기금리 4% 안팎…정부 조달 부담↑ 뉴스1 3년 만기 국고채 금리 일제히 하락…연 3.623%로 마감 SBS 뉴스"
+        },
+        {
+          "title": "[성공예감] AI 서사 의구심, 순환금융 위험, 코스피 반토막, 금리 상승…“美 연준의 가이던스가 중요한 시점” - 김학균 전무 (신영증권 리서치센터장) - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90LUE3WlQtdm5qYUY1TkVYTUM5bW9TMENXVDlZZDlHaXdHNl9FaDdPWTlCcDVJeGlpcUpqeC1wTlVJVkV6X3BqUFJnc1kydG1heVpzSmZpc1BQdHc?oc=5",
+          "source": "KBS 뉴스",
+          "published": "11-23 13:41",
+          "snippet": "[성공예감] AI 서사 의구심, 순환금융 위험, 코스피 반토막, 금리 상승…“美 연준의 가이던스가 중요한 시점” - 김학균 전무 (신영증권 리서치센터장) KBS 뉴스 Google 뉴스에서 헤드라인 및 의견 더보기"
         }
       ],
       "개인정보 유출 피해": [
         {
-          "title": "삼성증권 '고객의 소리' 해킹 피해…8천여명 개인정보 유출(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpNEtwbkV5eFY3WDgyTF9UWHEwaFVQY2pCdkpsbEpIamtrN2cwSC1kS21lT1ZoZ3lYZXV0T3RxODZfREsxX1RJSVlMOWVVMk00MHdqejVIcG00dEnSAWBBVV95cUxPYmNlakRkdG53UU9OSmtNcnlFdDlTM0NxXzhfZkM2Y3EzaEpScERidHRpU1c4WUllUV9wYlIyLWtKbU1qOGlpa3pqZXlnOGlYQzZTUC1XYUhUNTNXejB0RnI?oc=5",
-          "source": "연합뉴스",
-          "published": "11-23 11:25",
-          "snippet": "삼성증권 '고객의 소리' 해킹 피해…8천여명 개인정보 유출(종합) 연합뉴스 삼성증권 고객 개인정보 8241건 유출... ‘고객의소리’ 서비스 노린 해킹 보안뉴스 삼성증권도 해킹 피해…8천여명 개인정보 유출 매일경제 마켓 [속보]삼성증권 ‘고객의 소리’ 해킹…고객 8241명 계좌번호·운전면허번호 유출 경향신문 경찰 \"금융기관 16곳 해킹 피해 조사 마쳐…국제공조 진행\" - 머니투데이 머니투데이"
-        },
-        {
-          "title": "’개인정보 유출’ 컬리, 임직원까지 털렸다…피해자 1만902명으로 늘어 By EBN - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00V01laWUzWUVTTlVzNUN4QXo0a3lSZjQ4UTBaY3VtdlBnYjJHUzlKS0V3a0lXUGNhT2h0LWcxS0E0WUJOa2Q3SkNuWkxqVV9tRTRJVUUzQzN2cUxhXzlSWEQ4QTNfcjFfUlRxS3Awazc?oc=5",
-          "source": "Investing.com 한국어",
-          "published": "11-23 14:13",
-          "snippet": "’개인정보 유출’ 컬리, 임직원까지 털렸다…피해자 1만902명으로 늘어 By EBN Investing.com 한국어 컬리 개인정보 유출 사고, 큐레이터 1만699명·일반 고객 2명 피해 보안뉴스 컬리 개인정보 유출 피해 추가 확인…임직원 199명·고객 2명 정보 노출 브릿지경제 컬리, 임직원 개인정보 추가 유출…퇴직자 포함 부산일보 컬리, 임직원 개인정보 유출 추가 확인…200여 명 수준 지디넷코리아"
-        },
-        {
-          "title": "예별손보 고객 66명 개인정보 유출‥주민번호까지 유출 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HekVpMERfaDNZdXlVOFNzV3FqM2hUSWxqSGN1WkJPR0h5WXowTUtlQ0VnODZnNzJVeS1fd2tJM2E3dkZrQ253VjM2NTJEZ3g0dFRCUVE0UGRlUnRGM0l3YlVGXzNmRkRNS291RWp6WXQyN2ZT0gF0QVVfeXFMTXNIbkgtTTJEQ3VxSXVWTXZWRzVuLU12ZWNKdjI1emtOcWo2dTEzR2NIczc2d0hqVncweS1WVXNrVjdUV2pjX1JwU3czUm1FY3cwdF9aSm5FQmJWTl9YRkJqVGJSa2pTaHNtUHVMdWQzUmI4SFg?oc=5",
-          "source": "MBC 뉴스",
-          "published": "11-23 10:47",
-          "snippet": "예별손보 고객 66명 개인정보 유출‥주민번호까지 유출 MBC 뉴스 예별손보, 수탁업체 해킹으로 고객 66명 개인정보 유출 KBS 뉴스 예별손보, 수탁업체서 단체보험 피보험자 66명 개인정보 유출 전자신문 금융사 아닌 협력업체가 뚫린다 … 예별손보·저축은행 잇단 정보유출 뉴데일리 경제 예별손보 고객 66명 개인정보 유출... 수탁업체 해킹에 피해 확산 보안뉴스"
+          "title": "컬리 “개인정보 추가 유출 확인…임직원 199명·회원 2명 피해” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBETkVyb3RCeVgxTUpvd1NCZjBpVVdsTnkwS0R4QUtQRU9nUWZhZnZlSkN0X1lOVDcwRzF6VlNMYU5QVWNTT3hlcWJ5MFcwdjF3bGYxVHBwbUlSWVk?oc=5",
+          "source": "KBS 뉴스",
+          "published": "11-23 11:34",
+          "snippet": "컬리 “개인정보 추가 유출 확인…임직원 199명·회원 2명 피해” KBS 뉴스 Google 뉴스에서 헤드라인 및 의견 더보기"
         },
         {
           "title": "개인정보위, 한전 개인정보 유출 조사 돌입 - MBC 뉴스",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KY1JJN0Y4VzdTZlRyUlVhbW1GUmtYRnpHTlkyalJXR3pHamFJQldBc0dndU1YbmZNTXFBZldhd1pmLWc0X1BJd1ZGTVlwbzQxczZZMGFCNkVBeWRSeFFaS00xOHBQMVBCeUlBUXN6THZmam8w0gF0QVVfeXFMTlNnLW9jaDFMZ01wdVhTUmxKZUVmbXlPbnF6czUzYVBJYmN1R2pQQnBaVVkzZkp5amgycmhnTlBCMGZKX1VfdG4waUhlTmJDOHM3Ym8yYTRhMDdqT1E2Z2I3RnZVRU5KYXVBQ2E1bjUteUtwelA?oc=5",
           "source": "MBC 뉴스",
           "published": "11-23 16:18",
-          "snippet": "개인정보위, 한전 개인정보 유출 조사 돌입 MBC 뉴스 이번엔 카드번호까지...한전, 또 150만 건 정보유출 YTN 사이언스 [포토] 한국전력에서 개인정보 152만건 유출 전자신문 [단독 후속] 데일리시큐 19일 최초 보도한 한국전력 해킹, 152만 명 개인정보 유출로 확인…다크웹 게시물과 DB 유통 가능성 조사해야 데일리시큐 개인정보위, 한전 개인정보 유출사고 조사 착수 서울Pn"
+          "snippet": "개인정보위, 한전 개인정보 유출 조사 돌입 MBC 뉴스 이번엔 카드번호까지...한전, 또 150만 건 정보유출 YTN 사이언스 개인정보위, 한전 152만명 개인정보 유출 조사 착수 전자신문 [단독 후속] 데일리시큐 19일 최초 보도한 한국전력 해킹, 152만 명 개인정보 유출로 확인…다크웹 게시물과 DB 유통 가능성 조사해야 데일리시큐 개인정보위, 한전 개인정보 유출사고 조사 착수 서울Pn"
+        },
+        {
+          "title": "삼성증권도 해킹 피해...계좌번호·운전면허번호까지 털려 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCOXc2ZXM0VWRid3JwV19aR00zQmNQNGVaSEJvc3k2enBETGQ3RnlCSVhIQzlWMTE0VWNVX1VsbzRlQkJoNjVNNlV3bU50T1phNUh6ZFZBX2l4b0tWcnc?oc=5",
+          "source": "YTN",
+          "published": "11-23 14:35",
+          "snippet": "삼성증권도 해킹 피해...계좌번호·운전면허번호까지 털려 YTN 삼성증권 고객 개인정보 8241건 유출... ‘고객의소리’ 서비스 노린 해킹 보안뉴스 경찰 \"금융기관 16곳 해킹 피해 조사 마쳐…국제공조 진행\" - 머니투데이 머니투데이 한전 이어 증권·보험사까지… 개인정보 유출 잇따라 천지일보 삼성증권, 운전면허번호 등 유출...2차 피해 우려↑ YTN"
         },
         {
           "title": "삼성증권 고객 개인정보 8241건 유출... ‘고객의소리’ 서비스 노린 해킹 - 보안뉴스",
@@ -761,78 +810,27 @@
           "snippet": "삼성증권 고객 개인정보 8241건 유출... ‘고객의소리’ 서비스 노린 해킹 보안뉴스"
         },
         {
-          "title": "삼성증권도 해킹 피해... 8241명 개인 정보 유출 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPazlTNXdUSDlGdDM5S3FMdW5XNlFSN09Ydk1RZGJSaVJ6UklJLWYyZkVtUVM4OWN1el9ieFlzRzJqb2NNQ0Nsb09IQzhURGhZV3JxM2VSejBLeFBzUmlsMUFRcnY3OGRVUFdsQ3Q2Y292WUtHRUh2U29VdHJiYkFtbw?oc=5",
-          "source": "조선일보",
-          "published": "11-23 10:33",
-          "snippet": "삼성증권도 해킹 피해... 8241명 개인 정보 유출 조선일보"
-        }
-      ],
-      "AI 투자 회의론": [
+          "title": "개인정보위, 한전 152만명 개인정보 유출 조사 착수 - 전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oMXRZMUk5Nk1LZHJsVjVQeWhSbWE5bFlSOXVmWHc2Q1pQZGlfTE9wM2VhZk9lQXV6cndYVkxQMzFOWjNjczJJbnp5di1zQQ?oc=5",
+          "source": "전자신문",
+          "published": "11-23 17:07",
+          "snippet": "개인정보위, 한전 152만명 개인정보 유출 조사 착수 전자신문"
+        },
         {
-          "title": "AI 투자 회의론 확산에…구리 가격 ‘급락세’ - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13MHFMS0tiUmtXc205eUstQ1ZtRXBRd0RITWotNUhTTU5zMWt3aEdYWnhnY2NvTnhxQ29sNmlyR3ZFRTBjUDVsMEZhTFJHeE1oTUJoYktNcUJkTDA?oc=5",
+          "title": "삼성증권 해킹 피해…고객 8천여 명 개인정보 유출 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrbUNBYlpIY242Mm42V3lnRmwwMU1sbEtJeGIyeXA4UDlMN1FqVEFSOHRPdmV1RTRUeHp5aXdWWE5DQmNCU2JrMDhNWmZnbEk1XzlnbTFMaVhWV1E?oc=5",
           "source": "KBS 뉴스",
-          "published": "11-23 15:11",
-          "snippet": "AI 투자 회의론 확산에…구리 가격 ‘급락세’ KBS 뉴스 AI 투자 불안에…'닥터 쿠퍼' 구리 가격 변동성 지속 마켓인 구리 가격 하락은 매수 기회일까? UBS가 매수 포지션을 선호하는 이유 Investing.com 한국어 \"믿을 건 金뿐이라더니\" 와르르…최악의 상황에 '비명' 한국경제 AI 수요 회의론에 '닥터 코퍼' 구릿값 급락세 연합뉴스"
-        },
-        {
-          "title": "나스닥 시총 일주일 새 5천조 ‘증발’…“AI 투자 회의론 점점 커져” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWUwyQWlOMlhMWE5YUUZVX0tqMHRnc2lPNnFUajZ6OWdzWXI3Q296c3dVQlRaRmtfbjcxVzlrc3p1MFM4TnMzM19lY2tLaUdLbWhGa1F2SFFSTElyVURlbDZDR1M5Z2M0UkxyVTJNbDhicjJOODAwZjlwT3h0YTBZc0Nn?oc=5",
-          "source": "한겨레",
-          "published": "11-23 09:01",
-          "snippet": "나스닥 시총 일주일 새 5천조 ‘증발’…“AI 투자 회의론 점점 커져” 한겨레"
-        },
-        {
-          "title": "앤트로픽 상장에도 美 AI주 급락 지속…월가, AI 투자 회복 동력 찾기 고심 - 더구루",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TU1NBWDQ0SWlLN2hGbTlTRXU5WHFmX2tIeVMxc0paMmh4NUE4Qk02V0Vhd0JCdFdKc0o1b3hnZ3VyUFJKZm5ER1poWG1CTEc4NTdVeW1GYzFLNnFiUlE?oc=5",
-          "source": "더구루",
-          "published": "11-23 11:05",
-          "snippet": "앤트로픽 상장에도 美 AI주 급락 지속…월가, AI 투자 회복 동력 찾기 고심 더구루"
-        },
-        {
-          "title": "나스닥 5.3% ↓… '검은 월요일' 공포, 고개 드는 'AI 회의론' - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NQmxjRHdSYUIyVzVWU3F5cnFVSnFfUzVhR2FyRm1XdDRndjJPVmVTaXhQVXhFNWN6MlFqLVhpTEdpZHduZ0pZQ2M2c0w0QU1LM2ZBc2c3MDBMMkVEOUlUQ1NvaUYxbVIx0gFuQVVfeXFMT003Yjd1elVpNjhWTzdmV2llUUZMd3kzZHVvZ0Q1bHVXYnZXc0dFcmdWcEFWTDBsRE1vQ2MzTUIycXFzQUxnV2cyQ29UWnNVelE3aHY3VTVHTHd2VE44aUgtV2J4Mk9zZHBzSXZYRUE?oc=5",
-          "source": "머니투데이",
-          "published": "11-23 03:00",
-          "snippet": "나스닥 5.3% ↓… '검은 월요일' 공포, 고개 드는 'AI 회의론' - 머니투데이 머니투데이"
-        },
-        {
-          "title": "미국 증시, AI 거품 붕괴 논쟁에 투자 위험 재평가…기업이익 호조에도 주가 급락 - 아시아투데이",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03Nm5NOXVDbXNwZG5rMWVhc3JPVkxSM0F4Z2FoUTZvTUFTcmhEanp2cmpsZkdNX0pVa2xzLUFQakY0c1ZsQ1B3dkFDYzhobzJmMUlKQkFKbElXdWFnM0NfV1FjZmVXZDliUVJ3OVFR?oc=5",
-          "source": "아시아투데이",
-          "published": "11-23 11:02",
-          "snippet": "미국 증시, AI 거품 붕괴 논쟁에 투자 위험 재평가…기업이익 호조에도 주가 급락 아시아투데이"
-        },
-        {
-          "title": "폭락한 나스닥, 지금 사도 될까?…AI가 본 매수 시점 - 비즈워치",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XUGZRZUF0Qk85X096cVRhQm02bWpKUkFzU29kRUIzT1Zpa0FTZllCM2VwRHRRRnJCMDFEQmhPMmVsRUhGNDNNeWdmZ2ZXZWNELVFZWmhuSld1cDh3N2g0aTlTTW5jS3g0Mmc?oc=5",
-          "source": "비즈워치",
-          "published": "11-23 11:05",
-          "snippet": "폭락한 나스닥, 지금 사도 될까?…AI가 본 매수 시점 비즈워치 나스닥 5.3% ↓… '검은 월요일' 공포, 고개 드는 'AI 회의론' - 머니투데이 머니투데이 “저가 매수 시점인데 선뜻”…美증시 바닥론에도 월가 ‘머뭇’ [머니+] 에너지경제신문 “미국 주식 폭락, 매력적인 매수기회 생겼다”…골드만삭스의 분석 매일경제 마켓 “아직 바닥 안 왔다”… 美 증시 급락에도 ‘저가 매수’ 주춤한 결정적 이유 동아일보"
+          "published": "11-23 10:23",
+          "snippet": "삼성증권 해킹 피해…고객 8천여 명 개인정보 유출 KBS 뉴스"
         }
       ],
-      "나스닥 5%대 폭락": [
-        {
-          "title": "[뉴욕 인사이트] AI주 투매에 나스닥 5%대 폭락, 반도체주 패닉셀 (영상) - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zX2RnUUdpQTdUd2J5ZUNDUkNvSEZzMUFWdW5BWXB6OUNTdlJoWm53VEtGZ1hfaWpDZWx4ZWVPRDFCaWRSWlJVQlpZdFdOQnQtWFoyN2U3OUJBekRoWnladw?oc=5",
-          "source": "Investing.com 한국어",
-          "published": "11-23 14:59",
-          "snippet": "[뉴욕 인사이트] AI주 투매에 나스닥 5%대 폭락, 반도체주 패닉셀 (영상) Investing.com 한국어"
-        },
+      "나스닥 기술주 폭락": [
         {
           "title": "폭락한 나스닥, 지금 사도 될까?…AI가 본 매수 시점 - 비즈워치",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XUGZRZUF0Qk85X096cVRhQm02bWpKUkFzU29kRUIzT1Zpa0FTZllCM2VwRHRRRnJCMDFEQmhPMmVsRUhGNDNNeWdmZ2ZXZWNELVFZWmhuSld1cDh3N2g0aTlTTW5jS3g0Mmc?oc=5",
           "source": "비즈워치",
           "published": "11-23 11:05",
-          "snippet": "폭락한 나스닥, 지금 사도 될까?…AI가 본 매수 시점 비즈워치 나스닥 5.3% ↓… '검은 월요일' 공포, 고개 드는 'AI 회의론' - 머니투데이 머니투데이 “저가 매수 시점인데 선뜻”…美증시 바닥론에도 월가 ‘머뭇’ [머니+] 에너지경제신문 “미국 주식 폭락, 매력적인 매수기회 생겼다”…골드만삭스의 분석 매일경제 마켓 “아직 바닥 안 왔다”… 美 증시 급락에도 ‘저가 매수’ 주춤한 결정적 이유 동아일보"
-        },
-        {
-          "title": "나스닥 폭락에 또 검은 월요일?…\"증시 공포 이미 금융위기 수준\" - 비즈워치",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OTXFkelpaTUs0b0lBeTgxNlZQejRyMl9WNGgtUHdlZ0VpV2c3N0NaT29yTnZQUlUydHF3ZHBtUFpYek5QT3pBY2h6c3NRU0hCVFBhOFlNZERzTmVSU1R6bm92RlREV0tsMVE?oc=5",
-          "source": "비즈워치",
-          "published": "11-22 12:07",
-          "snippet": "나스닥 폭락에 또 검은 월요일?…\"증시 공포 이미 금융위기 수준\" 비즈워치 美 반도체 10% 급락…외인 15조 이탈에 국내증시 비상 한국경제 [태평로] 젠슨 황의 몰락이 던지는 질문 조선일보 깐부 잃은 K반도체, 탈 엔비디아 속도 낼까 주간경향 \"월요일이 무섭다\" 나스닥 급락에 국장 개미도 긴장…AI 수익성 우려 - 머니투데이 머니투데이"
+          "snippet": "폭락한 나스닥, 지금 사도 될까?…AI가 본 매수 시점 비즈워치 골드만삭스 \"패닉지수 극단, 美주식 저가매수 기회\" 연합뉴스 나스닥 5.3% ↓… '검은 월요일' 공포, 고개 드는 'AI 회의론' - 머니투데이 머니투데이 골드만이 보는 증시 조정 끝내는 세 가지 조건 연합인포맥스 미국주가 급락에도 저가 매수자들 여전히 주춤주춤 매일경제 마켓"
         },
         {
           "title": "[e마켓오프닝] 나스닥 5% 폭락 여파···코스피 2.77% 내린 4734 출발 - 시사저널e",
@@ -842,34 +840,48 @@
           "snippet": "[e마켓오프닝] 나스닥 5% 폭락 여파···코스피 2.77% 내린 4734 출발 시사저널e"
         },
         {
-          "title": "[뉴스프레소] 다우·S&P500 조정장 진입… 나스닥 5% 폭락, 추가 하락 가능성도? - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DSEhqVUl6NUd0R253RHg5RWtBeWdBa3IxU2ZuX3JPYWJEZ09VQUw3VDNVbWFrYXNuQzl3Zk5xZTJUbU5rdld1aFhiVjdKNldQRVNXS3l0TnZGUUMtSlY2ZU5XNDZYVGNf0gFuQVVfeXFMTjhjTWxFeVNCSXY2QzFfdjJ6ekQ4UHcyZ0ZuNVBVZEhLQjF6Nzk2S0lRemJ5dzBpRUExMlBHdmZHN3lUbENzR1NnVzJQdWdIMk5wTk1vTHRvYUMyeko2UkpYaktXSkxVSHp5c2NHdUE?oc=5",
-          "source": "머니투데이",
-          "published": "11-23 14:10",
-          "snippet": "[뉴스프레소] 다우·S&P500 조정장 진입… 나스닥 5% 폭락, 추가 하락 가능성도? - 머니투데이 머니투데이"
+          "title": "나스닥100 선물, 기술주 급락 후 저가매수에 2% 이상 반등(상보) | - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DRTREX1lLMjZ2ZmZVZ21UOHBZcDdSWHBQSXk4dHlyS3JSeDZ4Skl6ZlFsMGFTYU1wREpvdTdxUjFkTDVneUprMFN1VzhYQ2lITnBoVGozOUtueTdUakhqbm5yQUJVSnllemMtY2tLTnRnNlE4?oc=5",
+          "source": "연합인포맥스",
+          "published": "11-23 11:33",
+          "snippet": "나스닥100 선물, 기술주 급락 후 저가매수에 2% 이상 반등(상보) | 연합인포맥스"
         },
         {
-          "title": "[마켓 프리뷰] '검은 금요일' 글로벌 증시 패닉…韓증시 5%대 폭락 - SBS Biz",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sbHlkWGVfclVtWWdMZmN1UmdiT3N2T1A3UmZremk0ZHp5cUg5S1U2MDB4VFZSWTlPbW8tU0pXUU1wRVh0VDJRTUVvWkU3Ti1wYXdj0gFYQVVfeXFMUEdCTHFCWlg0SlNSSHAxc2dDZC1RZDZrMnF0dEhmN2x4LTI0SGw5Rm5GTUZkS1JyVXVoRGh3S052TFpkWEJCbjQ4b1F3ZHdWZ3NtcXNBRkhOeg?oc=5",
-          "source": "SBS Biz",
-          "published": "11-23 06:58",
-          "snippet": "[마켓 프리뷰] '검은 금요일' 글로벌 증시 패닉…韓증시 5%대 폭락 SBS Biz"
+          "title": "[개장] 뉴욕증시, 기술주 투매에 나스닥 5%↓..올해 상승분 반납 By 알파경제 alphabiz - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xYmx6bzB3czAyVXpUSVBSTWxtM0c0TUwzYzFLRlNpOVg5ODNUTWFUN3lYNFJiRGtteU1JRnFlZHBDQ0FOVDhmWnhZWXpTalN5Sy1pb1lRejdsZUstbEpGdE84cFZJZ2xrSXdmR2M4SlQ?oc=5",
+          "source": "Investing.com 한국어",
+          "published": "11-23 08:39",
+          "snippet": "[개장] 뉴욕증시, 기술주 투매에 나스닥 5%↓..올해 상승분 반납 By 알파경제 alphabiz Investing.com 한국어"
+        },
+        {
+          "title": "뉴욕 증시 기술주 매도세 확대 … 나스닥 10%·S&P500 8.6% 급락 - 세이프머니",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53WDUzOU9yajlKSVpVM2JSUjFhMjJ2MkFsTndkbFYybUNIc0Z0dkN5NkRJSGl6M1g5cDZoNEp3YVFodVJJQ1NQMzV0WnFOWGdGT3Y5Z290WG14S3ZsQklHQWxSWW4tRnljMnQ5aVJ3?oc=5",
+          "source": "세이프머니",
+          "published": "11-23 16:25",
+          "snippet": "뉴욕 증시 기술주 매도세 확대 … 나스닥 10%·S&P500 8.6% 급락 세이프머니"
+        },
+        {
+          "title": "나스닥 시총 일주일 새 5천조 ‘증발’…“AI 투자 회의론 점점 커져” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWUwyQWlOMlhMWE5YUUZVX0tqMHRnc2lPNnFUajZ6OWdzWXI3Q296c3dVQlRaRmtfbjcxVzlrc3p1MFM4TnMzM19lY2tLaUdLbWhGa1F2SFFSTElyVURlbDZDR1M5Z2M0UkxyVTJNbDhicjJOODAwZjlwT3h0YTBZc0Nn?oc=5",
+          "source": "한겨레",
+          "published": "11-23 09:01",
+          "snippet": "나스닥 시총 일주일 새 5천조 ‘증발’…“AI 투자 회의론 점점 커져” 한겨레"
         }
       ],
-      "앤트로픽 IPO 논란": [
+      "앤트로픽 상장과 월가 갈등": [
         {
-          "title": "‘IPO 성공’ 앤트로픽, 채권 시장에선?…WSJ “정크본드 등급 예상” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XczlFY25vc0lMZmI4QUl5QkUyaVRhZXJRN0Nld2FjMVU1cEpmWlcwbjA2enJVdUMyLU5qUmY1MFV4RUtLTXpnc0tsc05idXpEanpZZGNaQzk2Wmc?oc=5",
-          "source": "KBS 뉴스",
-          "published": "11-23 16:30",
-          "snippet": "‘IPO 성공’ 앤트로픽, 채권 시장에선?…WSJ “정크본드 등급 예상” KBS 뉴스 'AI 거품' 이미 붕괴?...공모가 턱밑까지 급락한 앤트로픽 [Y녹취록] YTN 앤스로픽 \"주관사 인력 4명으로 제한\"… 월가에서 실리콘밸리로 기운 IPO 주도권 조선일보 [특징주] SK텔레콤, '지분보유' 앤트로픽 급락에 6%대 하락 연합뉴스 월가 불만 산 '별난' 앤트로픽 IPO…그 뿌리는 아모데이 남매 매일경제 마켓"
+          "title": "월가 불만 산 '별난' 앤트로픽 IPO…그 뿌리는 아모데이 남매 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wR3NVTWlGNVpObVR0TDk2aEpzOGVvaFM3bWwwcHRCOWlqLUdnc3FWcUQ2ZFN4TFdnZ3VGcVFBM0Z1Ukx0QnlTQm5wekpQVnNPT3lVLU5pQkxrRGxITWhiTdIBYEFVX3lxTE0wR3NVTWlGNVpObVR0TDk2aEpzOGVvaFM3bWwwcHRCOWlqLUdnc3FWcUQ2ZFN4TFdnZ3VGcVFBM0Z1Ukx0QnlTQm5wekpQVnNPT3lVLU5pQkxrRGxITWhiTQ?oc=5",
+          "source": "연합뉴스",
+          "published": "11-23 13:14",
+          "snippet": "월가 불만 산 '별난' 앤트로픽 IPO…그 뿌리는 아모데이 남매 연합뉴스"
         },
         {
-          "title": "월가 불만 산 '별난' 앤트로픽 IPO…그 뿌리는 아모데이 남매 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkNm1zelhfQVNxY1UtemtFMUpIblhDZHVQbFdwRlAwVEw1Vm5KNHlzQXNUVGpodzZpNXEwMmdzM08xTm05ODhSU19MRExOSGdxY1E?oc=5",
-          "source": "매일경제 마켓",
-          "published": "11-23 13:14",
-          "snippet": "월가 불만 산 '별난' 앤트로픽 IPO…그 뿌리는 아모데이 남매 매일경제 마켓"
+          "title": "앤트로픽 상장에도 美 AI주 급락 지속…월가, AI 투자 회복 동력 찾기 고심 - 더구루",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TU1NBWDQ0SWlLN2hGbTlTRXU5WHFmX2tIeVMxc0paMmh4NUE4Qk02V0Vhd0JCdFdKc0o1b3hnZ3VyUFJKZm5ER1poWG1CTEc4NTdVeW1GYzFLNnFiUlE?oc=5",
+          "source": "더구루",
+          "published": "11-23 11:05",
+          "snippet": "앤트로픽 상장에도 美 AI주 급락 지속…월가, AI 투자 회복 동력 찾기 고심 더구루"
         },
         {
           "title": "월가 불만 산 '별난' 앤트로픽 IPO...그 뿌리는 아모데이 남매 - YTN",
@@ -877,6 +889,13 @@
           "source": "YTN",
           "published": "11-23 13:31",
           "snippet": "월가 불만 산 '별난' 앤트로픽 IPO...그 뿌리는 아모데이 남매 YTN"
+        },
+        {
+          "title": "\"새벽 2시에도 일하란 거냐\"…앤트로픽 기행에 월가 '부글' - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4ydHJUMy1oMUIzTXJJdkZaSjFxV0dESFM4WU9BUjQ1dURzQ3picGFyUzdYV0F4aWc4eHdqYU1MZEhhcERnank2RkNPWEFBNFZHazF0YV9jRF9GQQ?oc=5",
+          "source": "한국경제",
+          "published": "11-23 13:42",
+          "snippet": "\"새벽 2시에도 일하란 거냐\"…앤트로픽 기행에 월가 '부글' 한국경제"
         },
         {
           "title": "앤트로픽, IPO 은행에 오픈AI 업무 제한...월가 불만 - AI타임스",
@@ -891,13 +910,6 @@
           "source": "지디넷코리아",
           "published": "11-23 10:24",
           "snippet": "\"6개월간 오픈AI 맡지 마라\"…앤트로픽 IPO에 월가가 반발한 이유 지디넷코리아"
-        },
-        {
-          "title": "AI 부정행위 논란 속… 최태원 \"교육 체계 근본 바꿔야\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ3VSMDlRSkJmNkFGbG5jTWpubUdYYTBCNWZsRjJzcFZXNjVaX3FpSWhwcFp5Z2pKWlRMQWdzeGlwNnBMMEVCb3FUWUlvUXBPSk52ZVVjcmdlT3Z3bEc2NjMxSi1iX2RBeWZEcUUzdG9hRVpmZmtWS0kzakg3NzJqVFU0bDVqeU1hNWQ5WFJHaw?oc=5",
-          "source": "조선일보",
-          "published": "11-22 13:37",
-          "snippet": "AI 부정행위 논란 속… 최태원 \"교육 체계 근본 바꿔야\" 조선일보 최태원 “AI 네이티브 시대엔 지혜 중심 교육을” 경향신문 최태원 \"한일 기업·대학 손잡고 AI 인재 공동 육성하자\" 연합뉴스TV “AI 네이티브 대학, 완전히 다른 설계·거버넌스 갖춰야” 헤럴드경제 최태원 회장 \"한일 대학·기업, AI 인재 공동 육성해야\" 화이트페이퍼"
         }
       ],
       "미 연준 빅스텝 우려": [
@@ -916,25 +928,25 @@
           "snippet": "美 증시 폭락에 연준 '빅스텝' 전망 소멸…12월 금리 인상 기대 후퇴 블루밍비트"
         },
         {
+          "title": "美재무 \"연준 과잉 긴축 시 실수 가능성\"…증시 투매 이유로 지목 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YaF9OVUJDeWlwSWRHNWR4YnlIUzdQNkVKQ3daazJsUVNCSFhNZ2VHMDcwclVuRWVNV0VPVzhJRGcwRUZUUEJNNHFfT2VFWGVxMDJ2b2VibXYwcGRUZUl3OXNqeDNUbzd2NWZtSDdWbFU?oc=5",
+          "source": "연합인포맥스",
+          "published": "11-23 03:41",
+          "snippet": "美재무 \"연준 과잉 긴축 시 실수 가능성\"…증시 투매 이유로 지목 연합인포맥스 미국 4년 만에 '빅스텝'?...세계 금융시장 촉각 YTN 사이언스 글로벌 국채 금리, 팬데믹 수준의 기술주 폭락 속 수주 최저치 근접 Investing.com 한국어 美재무 과잉 긴축 경고…국제유가 하락 출발 뉴시스 미국 인공지능 투자 둔화에도 연준 금리 인하에 신중론, 기술주 자금조달 부담 커져 비즈니스포스트"
+        },
+        {
+          "title": "[채권-마감] 금리 하락…AI 투자 우려에 주가 조정 지속 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11T1ZVNEFYSUF5NWZ3aG5ycENOZHZ4emRMc1BQa0Vta1ZZdkhCZzNtUW9tQzR0eHVjNEFGVjVETTFGcVRFWUdmYlotN1hGZ3lNNXloSXRPS09Ra0V5UFNuQl9ma0lRUlBpRVI4dGVtTjg?oc=5",
+          "source": "연합인포맥스",
+          "published": "11-23 19:00",
+          "snippet": "[채권-마감] 금리 하락…AI 투자 우려에 주가 조정 지속 연합인포맥스 국고채 금리 일제히 하락…3년물 연 3.623% 연합뉴스 코스피 급락에 국고채 가격 상승세…3년물 연 3.621% 한국경제 국고채 발행 10조 줄여도 장기금리 4% 안팎…정부 조달 부담↑ 뉴스1 3년 만기 국고채 금리 일제히 하락…연 3.623%로 마감 SBS 뉴스"
+        },
+        {
           "title": "[성공예감] AI 서사 의구심, 순환금융 위험, 코스피 반토막, 금리 상승…“美 연준의 가이던스가 중요한 시점” - 김학균 전무 (신영증권 리서치센터장) - KBS 뉴스",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90LUE3WlQtdm5qYUY1TkVYTUM5bW9TMENXVDlZZDlHaXdHNl9FaDdPWTlCcDVJeGlpcUpqeC1wTlVJVkV6X3BqUFJnc1kydG1heVpzSmZpc1BQdHc?oc=5",
           "source": "KBS 뉴스",
           "published": "11-23 13:41",
           "snippet": "[성공예감] AI 서사 의구심, 순환금융 위험, 코스피 반토막, 금리 상승…“美 연준의 가이던스가 중요한 시점” - 김학균 전무 (신영증권 리서치센터장) KBS 뉴스 Google 뉴스에서 헤드라인 및 의견 더보기"
-        },
-        {
-          "title": "머스크, 데이터센터 차질에 우려‥\"AI기업 내년에 자금난\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBidlBaM09rT21fUXplbUFrZ0YtQlBZT24wNWVDdzVSN1NZZkY1dGc0NlBVcFEySFFRS1V5VVd1cjZJZWY1d1lJc1RoZmloYjRhS3pveWdkQVNtbkZ2dEg0b0twaWdlNmF0ZFprVFFaTUJsaHFO0gF0QVVfeXFMTURCM3NZRHNWdXltZEtBU2FKNk1heHN6S0VSSDJJb0laT0QtX2k1UmJaWVVGemliX1YyTU44WTFIY1QxdnVsUDB1d2lxbVcxWXB5YkJ3eDl1b3RzSTEtQ1BZYXBSaHlHT2xqVEZSeENpMjZrM0I?oc=5",
-          "source": "MBC 뉴스",
-          "published": "11-23 13:45",
-          "snippet": "머스크, 데이터센터 차질에 우려‥\"AI기업 내년에 자금난\" MBC 뉴스 \"내년에 엄청난 일 벌어진다\"…머스크의 섬뜩한 경고 한국경제 머스크, \"내년 AI 업계 심각한 현금난 닥칠 것\" 경고 조선일보 머스크 \"AI기업, 데이터센터 차질로 내년에 자금난\" YTN 사이언스 AI 데이터센터 가동 지연이 재무 리스크 더 키운다, 후속 투자 위축되면 반도체 수요에 타격 비즈니스포스트"
-        },
-        {
-          "title": "월가 전문가 \"연준 매파 기조가 시장 붕괴 초래\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Sd01nSWpta3ZFMFVyWFM5MzRPcXhZaEZjMHoxU3BXdk1NS1BuUmM2LXp2YmVUTGQxaGROMHk2ckNILXFPU3Z4TlNid3Y1UkhSVFZXbTZNaXhZT1dhc1RRb2FkMjZEbS1vM0VacWx2eUQ?oc=5",
-          "source": "연합인포맥스",
-          "published": "11-23 13:05",
-          "snippet": "월가 전문가 \"연준 매파 기조가 시장 붕괴 초래\" 연합인포맥스"
         },
         {
           "title": "[글로벌 공포장세] 돈줄 마르는데 연준의 보살핌은 아직 - 뉴스핌",
@@ -946,7 +958,17 @@
       ]
     },
     "queries": {
-      "코스피 급락세": [],
+      "코스피 폭락과 증안펀드": [],
+      "AI 거품론 재점화": [
+        "ai 거품론",
+        "ai 거품론 나무위키",
+        "ai 거품론 디시",
+        "ai 거품론 반도체",
+        "ai 거품론 이란",
+        "ai 거품론 닷컴 버블",
+        "ai 거품론 이유",
+        "ai 거품론 의 실체"
+      ],
       "개인정보 유출 피해": [
         "개인정보 유출시 대응",
         "개인정보 유출시 처벌",
@@ -955,27 +977,17 @@
         "개인정보 유출등 대응 안내서",
         "개인정보 유출등 대응 매뉴얼"
       ],
-      "AI 투자 회의론": [
-        "AI투자 회의론",
-        "ai 투자",
-        "ai 투자 후기 디시",
-        "ai 투자 프롬프트",
-        "ai 투자 디시",
-        "ai 투자 프로그램",
-        "ai 투자 수익률",
-        "ai 투자 축소"
+      "나스닥 기술주 폭락": [
+        "나스닥 기술주",
+        "나스닥 기술주 etf",
+        "나스닥 기술주 종류",
+        "나스닥 기술주 하락",
+        "나스닥 기술주 비중",
+        "나스닥 기술주 하락 이유",
+        "나스닥 기술주 디시",
+        "나스닥 기술주 지수"
       ],
-      "나스닥 5%대 폭락": [],
-      "앤트로픽 IPO 논란": [
-        "앤트로픽 ipo",
-        "앤트로픽 ipo 일정",
-        "앤트로픽 ipo 연기",
-        "앤트로픽 ipo 날짜",
-        "앤트로픽 ipo 규모",
-        "앤트로픽 ipo 가치",
-        "앤트로픽 ipo 투자설명서",
-        "앤트로픽 ipo 신청"
-      ],
+      "앤트로픽 상장과 월가 갈등": [],
       "미 연준 빅스텝 우려": [
         "미 연준 금리",
         "미 연준",
@@ -987,7 +999,7 @@
         "미 연준 발표"
       ]
     },
-    "newsletter_md": "# ⚡ ZIPPY | AI 경제 데일리 브리핑\n_2026-11-23 이슈 · 발행 2026-11-23_\n\n🇰🇷 **국내 경제:** `코스피 급락세` · `개인정보 유출 피해` · `AI 투자 회의론`\n🌐 **해외 경제:** `나스닥 5%대 폭락` · `앤트로픽 IPO 논란` · `미 연준 빅스텝 우려`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 코스피 5%대 급락에 사이드카 발동 4,700선 턱걸이\n> 키워드: 코스피 급락세\n\n**📌 무슨 일이 있었나**\n- 코스피 지수가 장중 5% 넘게 폭락하며 4,600선까지 밀려났고 급격한 변동성으로 인해 매도 사이드카가 발동되었다.\n- 종가 기준으로는 3%대 하락한 4,700선에 간신히 턱걸이했으며 코스닥 지수는 2년 만에 최저치를 기록하며 동반 하락했다.\n- AI 산업 성장에 대한 의구심과 순환금융 위험, 금리 상승 압박이 복합적으로 작용하며 투자 심리가 급격히 위축된 결과이다.\n- 국고채 3년물 금리는 증시가 최악의 상황은 면했다는 시장 판단에 따라 1.9bp 하락하며 일부 되돌림 현상이 나타났다.\n\n**💬 핵심 Q&A**\n- **Q. 매도 사이드카 발동이 시장에 미친 실질적인 영향은 무엇인가?**\n  A. 급격한 가격 변동을 완화하기 위해 프로그램 매도 호가 효력을 일시 정지시켰으나 장중 4,600선 붕괴를 막기에는 역부족이었다. 이는 시장의 공포 심리가 시스템적 제어 범위를 넘어섰음을 시사한다.\n- **Q. 국고채 금리가 하락한 이유는 증시 폭락과 어떤 상관관계가 있는가?**\n  A. 증시가 최악의 국면은 지났다는 인식이 확산되면서 안전자산 선호 현상이 일부 완화되어 금리가 소폭 하락했다. 다만 여전히 금리 상승 압박이 존재해 시장의 불안정성은 완전히 해소되지 않았다.\n- **Q. 과거 사례와 비교했을 때 현재의 반토막 난 코스피 반등 시점은 언제인가?**\n  A. 과거 급락 사례 분석 결과 지수가 반토막 난 이후에는 기술적 반등이 나타났으나 이번에는 AI 회의론이라는 펀더멘털 이슈가 겹쳐 있다. 연준의 명확한 가이던스가 제시되는 시점이 반등의 분기점이 될 전망이다.\n\n**👀 앞으로 볼 포인트**\n- 코스피 4,600선 지지 여부 및 추가 하락 가능성\n- 미 연준의 향후 통화정책 가이던스 발표 내용\n- AI 관련주 실적 발표에 따른 투자 심리 회복세\n\n<sub>참고: [MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTFBGMDY3V0VKOEt3TFhFdkRJTWZzWlowbGFGd0hqQ0xycE54MGZNT2NIdm16cFYyZnhhSnZySVZBY0NQbmdMa2tzOEM0d1djcVlkb2hHaU1zaVZweFE3MW9id3NUcG5palo0Vko0aHlsYTNYaTh40gF0QVVfeXFMUGFldkQxVEhrMmZ5cFNQRDdybzJvQ1RwMjBsUElZNUc0WDlrYXRULTRKX0F6czk2dU5GNkc4ejkzVTRCV0FSQjVVZ3Z3T1ZPcjZYZExVaUoxcVVVWUxTUmRVZzI4ZjhqYnlpZHp5YndyUFVaMzA?oc=5) / [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE90LUE3WlQtdm5qYUY1TkVYTUM5bW9TMENXVDlZZDlHaXdHNl9FaDdPWTlCcDVJeGlpcUpqeC1wTlVJVkV6X3BqUFJnc1kydG1heVpzSmZpc1BQdHc?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE5GS3dSOFRyOUdEUTF6T3ZVdVlHWEtyNlVBdy1XQTFYQlBENHNHSkhqanVSaHR1a2RyRVh4emlnVGltSGJfeS1QUnZWNTVKeEVtVER2VUd4akt2ckhYRjlnb08wZ0s1WnlFMFZKeE12MkU?oc=5)</sub>\n\n---\n\n### 2. 삼성증권·컬리 등 잇단 해킹에 수만 명 개인정보 유출\n> 키워드: 개인정보 유출 피해\n\n**📌 무슨 일이 있었나**\n- 삼성증권의 '고객의 소리' 서비스가 해킹 공격을 받아 이용자 8,241명의 이름과 전화번호 등 개인정보가 유출되었다.\n- 신선식품 플랫폼 컬리에서도 임직원을 포함한 1만 902명의 개인정보가 유출되어 피해 규모가 대폭 확대되었다.\n- 예별손보에서는 고객 66명의 주민등록번호를 포함한 민감 정보가 유출되는 사고가 발생해 보안 취약점이 드러났다.\n- 개인정보보호위원회는 한국전력에서 발생한 개인정보 유출 사고에 대해 즉각적인 조사에 착수하며 대응에 나섰다.\n\n**💬 핵심 Q&A**\n- **Q. 삼성증권 해킹 사고에서 '고객의 소리' 서비스가 타깃이 된 이유는 무엇인가?**\n  A. 고객 문의가 집중되는 채널의 보안 취약점을 노린 공격으로 분석되며 이를 통해 8,000여 명의 개인정보가 탈취되었다. 금융권의 비핵심 서비스 영역에 대한 보안 관리가 미흡했음을 보여주는 사례이다.\n- **Q. 컬리의 유출 피해자가 1만 명 이상으로 늘어난 배경은 무엇인가?**\n  A. 초기 파악된 규모보다 임직원 정보까지 포함되면서 피해 범위가 확산되었으며 외부 해킹에 의한 데이터 접근 권한 탈취가 원인이다. 플랫폼 기업의 내부 정보 관리 체계에 심각한 결함이 발견되었다.\n- **Q. 예별손보 사례처럼 주민등록번호가 유출된 경우의 파급 효과는 어떠한가?**\n  A. 단순 연락처 유출과 달리 주민등록번호는 금융 사기나 명의 도용 등 2차 피해로 이어질 가능성이 매우 높다. 유출된 66명에 대해 즉각적인 번호 변경 지원과 집중 모니터링이 필수적인 상황이다.\n\n**👀 앞으로 볼 포인트**\n- 개인정보위의 한전 및 삼성증권 조사 결과 발표\n- 추가적인 해킹 피해 기업 발생 여부 모니터링\n- 피해자들에 대한 기업별 보상 대책 및 보안 강화 방안\n\n<sub>참고: [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpNEtwbkV5eFY3WDgyTF9UWHEwaFVQY2pCdkpsbEpIamtrN2cwSC1kS21lT1ZoZ3lYZXV0T3RxODZfREsxX1RJSVlMOWVVMk00MHdqejVIcG00dEnSAWBBVV95cUxPYmNlakRkdG53UU9OSmtNcnlFdDlTM0NxXzhfZkM2Y3EzaEpScERidHRpU1c4WUllUV9wYlIyLWtKbU1qOGlpa3pqZXlnOGlYQzZTUC1XYUhUNTNXejB0RnI?oc=5) / [Investing.com 한국어](https://news.google.com/rss/articles/CBMicEFVX3lxTE00V01laWUzWUVTTlVzNUN4QXo0a3lSZjQ4UTBaY3VtdlBnYjJHUzlKS0V3a0lXUGNhT2h0LWcxS0E0WUJOa2Q3SkNuWkxqVV9tRTRJVUUzQzN2cUxhXzlSWEQ4QTNfcjFfUlRxS3Awazc?oc=5) / [MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTE1HekVpMERfaDNZdXlVOFNzV3FqM2hUSWxqSGN1WkJPR0h5WXowTUtlQ0VnODZnNzJVeS1fd2tJM2E3dkZrQ253VjM2NTJEZ3g0dFRCUVE0UGRlUnRGM0l3YlVGXzNmRkRNS291RWp6WXQyN2ZT0gF0QVVfeXFMTXNIbkgtTTJEQ3VxSXVWTXZWRzVuLU12ZWNKdjI1emtOcWo2dTEzR2NIczc2d0hqVncweS1WVXNrVjdUV2pjX1JwU3czUm1FY3cwdF9aSm5FQmJWTl9YRkJqVGJSa2pTaHNtUHVMdWQzUmI4SFg?oc=5)</sub>\n\n---\n\n### 3. 나스닥 시총 5조 달러 증발하며 확산되는 AI 거품 붕괴론\n> 키워드: AI 투자 회의론\n\n**📌 무슨 일이 있었나**\n- AI 산업의 수익성에 대한 의구심이 커지면서 일주일 사이 나스닥 시가총액 약 5,000조 원이 증발하는 사태가 벌어졌다.\n- AI 인프라 구축의 핵심 원자재인 구리 가격이 급락세를 보이며 실물 경기와 투자 심리가 동시에 위축되고 있음을 나타냈다.\n- 앤트로픽의 상장 소식에도 불구하고 미국 AI 관련주들의 하락세가 지속되면서 월가는 새로운 반등 동력을 찾지 못하고 있다.\n- 기업들의 이익 호조에도 불구하고 AI 투자 위험에 대한 재평가가 이루어지며 나스닥 지수가 5.3% 폭락하는 '검은 월요일'을 맞았다.\n\n**💬 핵심 Q&A**\n- **Q. AI 투자 회의론이 구리 가격 급락으로 이어진 메커니즘은 무엇인가?**\n  A. AI 데이터센터 건설에 막대한 양의 구리가 소요되는데 AI 투자 축소 우려가 확산되자 수요 감소 전망이 반영되며 가격이 폭락했다. 이는 AI 산업의 위축이 실물 원자재 시장까지 타격하고 있음을 의미한다.\n- **Q. 기업 이익이 양호함에도 불구하고 주가가 폭락한 역설적인 이유는 무엇인가?**\n  A. 현재 시장은 단순한 현재 이익보다 AI 투자가 미래에 실제 수익으로 전환될 수 있는지에 대한 확신을 요구하고 있다. 막대한 자본 지출 대비 회수 기간이 길어질 것이라는 공포가 밸류에이션 재평가를 촉발했다.\n- **Q. 앤트로픽 상장이 AI 주가 하락세를 막지 못한 결정적 이유는 무엇인가?**\n  A. 앤트로픽의 IPO 방식과 조건에 대해 월가의 불만이 팽배한 데다 전반적인 AI 섹터에 대한 투매 심리가 상장 호재를 압도했기 때문이다. 개별 기업의 상장보다는 산업 전반의 수익 모델 증명이 필요한 시점이다.\n\n**👀 앞으로 볼 포인트**\n- 구리 가격의 추가 하락 여부와 원자재 시장 동향\n- 주요 AI 기업들의 차기 분기 실적 및 가이던스 변화\n- 앤트로픽 상장 이후 AI 스타트업 투자 자금 흐름\n\n<sub>참고: [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE13MHFMS0tiUmtXc205eUstQ1ZtRXBRd0RITWotNUhTTU5zMWt3aEdYWnhnY2NvTnhxQ29sNmlyR3ZFRTBjUDVsMEZhTFJHeE1oTUJoYktNcUJkTDA?oc=5) / [한겨레](https://news.google.com/rss/articles/CBMiggFBVV95cUxPWUwyQWlOMlhMWE5YUUZVX0tqMHRnc2lPNnFUajZ6OWdzWXI3Q296c3dVQlRaRmtfbjcxVzlrc3p1MFM4TnMzM19lY2tLaUdLbWhGa1F2SFFSTElyVURlbDZDR1M5Z2M0UkxyVTJNbDhicjJOODAwZjlwT3h0YTBZc0Nn?oc=5) / [더구루](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TU1NBWDQ0SWlLN2hGbTlTRXU5WHFmX2tIeVMxc0paMmh4NUE4Qk02V0Vhd0JCdFdKc0o1b3hnZ3VyUFJKZm5ER1poWG1CTEc4NTdVeW1GYzFLNnFiUlE?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 나스닥 5%대 폭락에 반도체주 패닉셀 글로벌 증시 충격\n> 키워드: 나스닥 5%대 폭락\n\n**📌 무슨 일이 있었나**\n- 뉴욕증시에서 나스닥 지수가 AI 기술주에 대한 투매 여파로 5.3% 폭락하며 시장에 큰 충격을 주었다.\n- 반도체 종목들을 중심으로 패닉셀 현상이 나타났으며 다우 지수와 S&P 500 지수도 조정장에 진입하며 하락세에 동참했다.\n- 이번 폭락으로 인해 증시 공포 지수가 금융위기 수준까지 치솟았으며 추가 하락에 대한 경고음이 커지고 있다.\n- 나스닥의 기록적인 폭락 여파로 국내 코스피 지수도 개장 직후 2.77% 내린 4,734선에서 출발하며 동조화 현상을 보였다.\n\n**💬 핵심 Q&A**\n- **Q. 이번 나스닥 폭락이 '검은 월요일'로 불릴 만큼 공포가 컸던 이유는 무엇인가?**\n  A. 하루 만에 5.3%라는 기록적인 하락폭을 기록하며 주요 지수들이 일제히 조정장에 진입했기 때문이다. 특히 AI 주도주들에 대한 신뢰가 무너지며 반도체 섹터에서 무차별적인 매도가 발생했다.\n- **Q. 증시 공포가 금융위기 수준에 도달했다는 것은 어떤 지표로 확인되는가?**\n  A. 변동성 지수와 투자자들의 심리 지표가 과거 2008년 금융위기 당시의 임계치에 근접하며 극도의 불안감을 반영하고 있다. 이는 단순한 조정을 넘어 구조적인 하락장으로의 진입 가능성을 시사한다.\n- **Q. 나스닥 폭락이 코스피 개장가에 즉각 반영된 연결 고리는 무엇인가?**\n  A. 한국 증시는 반도체 비중이 높아 나스닥 기술주와 동조화가 강하며 외국인 투자자들이 위험 자산 비중을 줄이는 과정에서 코스피를 우선 매도했기 때문이다. 개장 직후 2.77% 하락은 글로벌 패닉셀의 연장선이다.\n\n**👀 앞으로 볼 포인트**\n- 나스닥 지수의 추가 하락 및 전저점 지지 여부\n- 필라델피아 반도체 지수의 변동성 및 투매 진정세\n- 공포지수(VIX)의 금융위기 수준 유지 여부\n\n<sub>참고: [Investing.com 한국어](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zX2RnUUdpQTdUd2J5ZUNDUkNvSEZzMUFWdW5BWXB6OUNTdlJoWm53VEtGZ1hfaWpDZWx4ZWVPRDFCaWRSWlJVQlpZdFdOQnQtWFoyN2U3OUJBekRoWnladw?oc=5) / [비즈워치](https://news.google.com/rss/articles/CBMiakFVX3lxTE5XUGZRZUF0Qk85X096cVRhQm02bWpKUkFzU29kRUIzT1Zpa0FTZllCM2VwRHRRRnJCMDFEQmhPMmVsRUhGNDNNeWdmZ2ZXZWNELVFZWmhuSld1cDh3N2g0aTlTTW5jS3g0Mmc?oc=5) / [비즈워치](https://news.google.com/rss/articles/CBMiakFVX3lxTE5OTXFkelpaTUs0b0lBeTgxNlZQejRyMl9WNGgtUHdlZ0VpV2c3N0NaT29yTnZQUlUydHF3ZHBtUFpYek5QT3pBY2h6c3NRU0hCVFBhOFlNZERzTmVSU1R6bm92RlREV0tsMVE?oc=5)</sub>\n\n---\n\n### 2. 앤트로픽 IPO 강행에 월가 반발과 정크본드 등급 전망\n> 키워드: 앤트로픽 IPO 논란\n\n**📌 무슨 일이 있었나**\n- AI 스타트업 앤트로픽이 IPO를 추진하며 주관사 은행들에 6개월간 경쟁사인 오픈AI 업무를 맡지 말라는 조건을 내걸어 논란이 일었다.\n- 월스트리트저널은 앤트로픽의 채권 등급이 투기 등급인 '정크본드' 수준으로 예상된다고 보도하며 재무 건전성에 의문을 제기했다.\n- 이번 IPO의 독특한 구조와 조건은 창업자인 아모데이 남매의 경영 철학에서 비롯되었으나 월가의 강한 불만을 사고 있다.\n- AI 업계의 부정행위 논란과 자금난 우려 속에서 진행되는 이번 상장이 시장의 신뢰를 얻을 수 있을지 불투명한 상황이다.\n\n**💬 핵심 Q&A**\n- **Q. 앤트로픽이 주관사들에 오픈AI 업무 제한 조건을 건 의도는 무엇인가?**\n  A. 기술 유출을 방지하고 투자은행들의 충성도를 확보하려는 전략이지만 시장의 자유로운 경쟁을 저해한다는 비판을 받고 있다. 이는 AI 기업 간의 주도권 싸움이 금융권 협력 관계까지 영향을 미치고 있음을 보여준다.\n- **Q. 앤트로픽의 채권 등급이 정크본드로 예상되는 구체적인 이유는 무엇인가?**\n  A. 막대한 AI 모델 개발 비용 지출로 인해 수익성이 확보되지 않았고 부채 상환 능력에 대한 불확실성이 크기 때문이다. 기술력은 인정받으나 재무적 자생력은 아직 검증되지 않았다는 평가이다.\n- **Q. 아모데이 남매의 경영 방식이 IPO 과정에서 갈등을 빚는 배경은 무엇인가?**\n  A. 기존 월가의 상장 관행을 따르지 않고 기업의 통제권을 강화하려는 폐쇄적인 태도가 투자자들과의 마찰을 일으키고 있다. 이는 상장 이후 지배구조 리스크로 이어질 수 있다는 우려를 낳고 있다.\n\n**👀 앞으로 볼 포인트**\n- 앤트로픽의 최종 공모가 확정 및 상장 후 주가 흐름\n- 월가 투자은행들의 오픈AI 업무 제한 수용 여부\n- 앤트로픽의 실제 채권 등급 판정 결과\n\n<sub>참고: [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XczlFY25vc0lMZmI4QUl5QkUyaVRhZXJRN0Nld2FjMVU1cEpmWlcwbjA2enJVdUMyLU5qUmY1MFV4RUtLTXpnc0tsc05idXpEanpZZGNaQzk2Wmc?oc=5) / [매일경제 마켓](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkNm1zelhfQVNxY1UtemtFMUpIblhDZHVQbFdwRlAwVEw1Vm5KNHlzQXNUVGpodzZpNXEwMmdzM08xTm05ODhSU19MRExOSGdxY1E?oc=5) / [YTN](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvYkVHME5iTDJaaUdVZ0VJZE9DeXhqUE8yMzhuR3hfLW90bzJwY0hXT1NhUEpiN1hEQ181Ym8wOTN3R0FpdmVGcHd0c2tIcVpHTGNnUWc3NkFtcXI5M3c?oc=5)</sub>\n\n---\n\n### 3. 연준 매파 기조에 시장 붕괴 초래 빅스텝 전망은 후퇴\n> 키워드: 미 연준 빅스텝 우려\n\n**📌 무슨 일이 있었나**\n- 미 연준의 매파적 기조가 지속되면서 시장 붕괴를 초래했다는 전문가들의 지적이 잇따르며 증시 반등 소재가 실종되었다.\n- 다만 미 증시가 5%대 폭락을 기록하자 12월 금리 인상 기대감이 후퇴하며 연준의 '빅스텝' 전망은 사실상 소멸했다.\n- 일론 머스크는 데이터센터 차질과 자금난을 언급하며 내년 AI 기업들이 심각한 유동성 위기에 직면할 수 있다고 경고했다.\n- 시장은 연준의 명확한 가이던스를 기다리고 있으나 긴축적인 돈줄 죄기 속에 정책적 보살핌은 아직 부족한 상황이다.\n\n**💬 핵심 Q&A**\n- **Q. 증시 폭락 이후 연준의 빅스텝 전망이 소멸한 이유는 무엇인가?**\n  A. 급격한 자산 가격 하락이 경기 침체를 가속화할 수 있다는 우려 때문에 연준이 추가적인 공격적 금리 인상을 단행하기 어려워졌기 때문이다. 시장의 붕괴가 역설적으로 금리 인상 압박을 낮추는 요인이 되었다.\n- **Q. 일론 머스크가 경고한 AI 기업들의 내년 자금난은 어떤 경로로 발생하는가?**\n  A. 고금리 지속으로 인해 벤처캐피털 자금이 마르고 데이터센터 구축 비용은 기하급수적으로 늘어나면서 현금 흐름이 악화되기 때문이다. 이는 중소 AI 기업들의 연쇄 도산이나 인수합병으로 이어질 수 있다.\n- **Q. 현재 시장에서 연준의 가이던스가 그 어느 때보다 중요해진 이유는 무엇인가?**\n  A. AI 회의론과 금리 공포가 겹친 상황에서 연준이 유동성 공급이나 금리 동결 신호를 주지 않으면 시장의 패닉셀을 멈출 동력이 없기 때문이다. 연준의 입에 따라 증시의 바닥 확인 여부가 결정될 전망이다.\n\n**👀 앞으로 볼 포인트**\n- 12월 FOMC 금리 결정 및 점도표 변화\n- 연준 의장의 향후 통화정책 가이던스 발언\n- AI 기업들의 자금 조달 여건 및 유동성 지표\n\n<sub>참고: [뉴스토마토](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpOFhwWGdITmVFVGl6MDU4VEVOQU9zMWNHTm9vT0piQUQzb3RlcWhKMjUwZnphXzJDQXo0YlVQMFBBV0hpZ1JweTBOb0drNkh1RDlWSVRKUy1jNGVWR0l2cQ?oc=5) / [블루밍비트](https://news.google.com/rss/articles/CBMiUEFVX3lxTE80LUQxTkZyNkh2dm5KYnQ2WklacXNlVW1xX0Z0Rmp1d3M4ZzU1SElxWG9kTWtkS0N5UldWblllM0U4UDJudFV6STFzNEFDcjNX?oc=5) / [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE90LUE3WlQtdm5qYUY1TkVYTUM5bW9TMENXVDlZZDlHaXdHNl9FaDdPWTlCcDVJeGlpcUpqeC1wTlVJVkV6X3BqUFJnc1kydG1heVpzSmZpc1BQdHc?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 보도를 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
+    "newsletter_md": "# ⚡ ZIPPY | AI 경제 데일리 브리핑\n_2026-11-23 이슈 · 발행 2026-11-23_\n\n🇰🇷 **국내 경제:** `코스피 폭락과 증안펀드` · `AI 거품론 재점화` · `개인정보 유출 피해`\n🌐 **해외 경제:** `나스닥 기술주 폭락` · `앤트로픽 상장과 월가 갈등` · `미 연준 빅스텝 우려`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 코스피 4700선 턱걸이와 증안펀드 긴급 검토\n> 키워드: 코스피 폭락과 증안펀드\n\n**📌 무슨 일이 있었나**\n- 코스피 지수가 전 거래일 대비 3.31% 하락하며 4700선에 간신히 턱걸이하며 마감했다.\n- 장중 한때 지수가 5% 넘게 폭락하며 4500선까지 밀려나자 매도 사이드카가 발동되는 소동이 벌어졌다.\n- 정부는 증시 변동성이 이례적으로 확대됨에 따라 증시안정펀드(증안펀드) 가동을 위한 규모 검토에 착수했다.\n- 코스닥 지수 역시 급락세를 면치 못하며 2년 만에 최저치를 기록하는 등 국내 증시 전반이 공포에 휩싸였다.\n- AI 산업의 수익성에 대한 의구심과 금리 상승 우려가 겹치며 외국인과 기관의 매도세가 집중된 결과로 풀이된다.\n\n**💬 핵심 Q&A**\n- **Q. 장중 발동된 매도 사이드카는 시장에 어떤 신호를 주는가?**\n  A. 사이드카는 선물 가격의 급등락이 현물 시장에 미치는 충격을 완화하기 위해 프로그램 매매를 일시 정지시키는 조치이다. 이번 발동은 시장의 심리적 지지선이 무너졌음을 의미하며, 단기적인 투매 현상이 극에 달했음을 보여주는 지표로 해석된다.\n- **Q. 정부가 검토 중인 증안펀드는 실질적인 지수 방어 효과가 있는가?**\n  A. 증안펀드는 유관기관의 자금을 모아 증시가 급락할 때 주식을 매수하여 하락 속도를 늦추는 역할을 한다. 직접적인 지수 반등을 이끌어내기보다는 시장에 유동성을 공급하고 투자자들의 공포 심리를 진정시키는 심리적 안전판 역할을 수행하는 데 목적이 있다.\n- **Q. 신영증권 리서치센터가 언급한 순환금융 위험은 무엇을 의미하는가?**\n  A. 주가 하락이 담보가치 하락으로 이어지고, 이것이 다시 반대매매와 추가 하락을 부르는 악순환의 고리를 의미한다. 특히 금리 상승기에 부채를 동원한 투자가 많은 상황에서 이러한 순환적 위험은 증시의 하방 압력을 더욱 가중시키는 요인이 된다.\n\n**👀 앞으로 볼 포인트**\n- 증시안정펀드 최종 조성 규모 및 투입 시점\n- 코스피 4500선 지지 여부와 외국인 수급 변화\n- 미 연준의 추가 금리 가이던스 발표 내용\n\n<sub>참고: [MBC 뉴스](https://news.google.com/rss/articles/CBMieEFVX3lxTE9Uc08zWG5vbmw1MUVDdUljb2h2Z2hXNV83TkFaUzlEX2RtbDc1V1k0d01kaTlfVUxINUZZbHphdHk4d3QtU3ZfZDV0LUpWVFFIZ3RwWjM4OWNmMHlsNkY4enNhQnlDRjBDR1BvWXlqS0o4U3RjRHJVVNIBeEFVX3lxTE9ua1EzTTVOazh3WEM5eGZickRpUHFCcGVZdHlQZ0M4cThsTkVJYXNEV3dMaFpwS3JEODRZcGp6d1RFSkxiYjBDQ2kwZmwzNjUyMTY1ZS11RU9LZ3RLRkhSbUJGRjNWTm9rbGF4RUUxOWRSd0ZXWW1rSw?oc=5) / [MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTE1YZjJ6VWo2Z3BrbGQ4Qy1jOXlXYWtpYkZlTXVKZmkwc1hobUx1a2VTMl82MTNCZGJwQUlfb1p6TXpzb3J2eFlRYmlLNjdpcGRrMV81aEdjVE01WTFlcnd5ZFdQejdWTTVXby1XS1Q1NzhtWktf0gF0QVVfeXFMTXNQaDV5QksxZWFlQ2VDRmVBSHVIQ3FVbDJMZEdnU3NkSXdZb1VxNEh6V2oyYkZnU3huZ1Y0ZmlZb1UzbEk3cjU2TnV3aEd6MHVOT1pJSjAwT2I4UEVRTXdXaVdXcUZaelVINzJabnFKVDBZeXc?oc=5) / [한겨레](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91Z1EyaE0xU2ttdmZsYW11ZkkzZU9IdmRVZWp1am0xbjY1Y0FJN2w0UE5nRmJrS2pYSV9EbkNvUFFpRkVKREF2NFNFTEJNcGU4bTlabnhHN0JCVmZ4Qk9BbS1OejZUcjA?oc=5)</sub>\n\n---\n\n### 2. AI 수익성 의구심에 흔들리는 글로벌 증시\n> 키워드: AI 거품론 재점화\n\n**📌 무슨 일이 있었나**\n- 미국발 AI 거품론이 확산되면서 나스닥과 국내 증시가 동반 급락하는 도미노 현상이 발생했다.\n- 일론 머스크는 AI 업계의 내년 자금난이 심각할 것이라고 경고하며 데이터센터 구축 지연 가능성을 언급했다.\n- AI 투자에 대한 회의론이 커지면서 채권 시장으로 자금이 유입되어 금리가 하락하는 안전자산 선호 현상이 나타났다.\n- 금융권에서는 AI 기술 자체보다 기술을 운용하는 '신뢰'가 핵심 자산이라는 목소리가 나오며 기술 만능주의 경계령이 내려졌다.\n- AI 서사에 대한 의구심이 커지면서 엔비디아를 비롯한 주요 반도체 및 기술주들의 주가 조정이 지속되고 있다.\n\n**💬 핵심 Q&A**\n- **Q. 일론 머스크가 경고한 AI 업계 자금난의 구체적 원인은 무엇인가?**\n  A. 막대한 자본이 투입되는 데이터센터 인프라 구축 비용에 비해 실질적인 수익 모델 창출이 늦어지고 있기 때문이다. 고금리 상황이 지속되면서 저렴한 자금 조달이 어려워진 점도 AI 기업들의 현금 흐름을 압박하는 주요 원인으로 꼽힌다.\n- **Q. AI 투자 우려가 채권 금리 하락으로 이어지는 메커니즘은 무엇인가?**\n  A. 주식 시장의 위험 회피 심리가 강해지면서 투자자들이 상대적으로 안전한 국채 매수로 몰리기 때문이다. 기술주 폭락으로 인한 경기 둔화 우려가 반영되면서 시장 금리가 하방 압력을 받는 현상이 동반되고 있다.\n- **Q. 토스뱅크가 강조한 '기술보다 신뢰'라는 메시지는 금융 AI 시장에 어떤 시사점을 주는가?**\n  A. 단순히 고도화된 알고리즘을 도입하는 것보다 고객의 데이터를 안전하게 관리하고 투명하게 운용하는 것이 생존의 핵심이라는 뜻이다. AI 거품론이 기술의 성능 한계보다는 기술의 오남용이나 보안 사고에 대한 불안감에서 기인한다는 점을 지적한 것이다.\n\n**👀 앞으로 볼 포인트**\n- 주요 AI 기업들의 차분기 실적 및 가이던스\n- 글로벌 빅테크 기업들의 데이터센터 투자 규모 조정 여부\n- AI 관련 스타트업들의 자금 조달 성공률 추이\n\n<sub>참고: [JTBC](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qSFVHamQ1YkM1ZWpJTC14a3dpR0pyTXN1SHp1amdybm9TS0M2Q0lSd3BteGJ3ZWt4Y001Y1RBMHVZbXJaWURORXhCdElBeDN0LWZwYQ?oc=5) / [부산일보](https://news.google.com/rss/articles/CBMie0FVX3lxTE1KUDBTcEhKZlhxaUtPMERzQXJxRkM0WDJSRmhLSEJGZ3NSRlNmc25NeUg3aGNwV0t4SDNUb1pZeVRRbjE0Q0dhc3RzeHVwY1pteUlDbExFVEZXOHo4RDVldUN5aVZYZnZmdXBiTXVMOGZKc2hBWXNMRTNtaw?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ROGlpeUs2bjZ1LTFNYWdMNlktSzNxbUZDeGRnS2ZTQVdoWXNnVkJ3MnRkRmhPb09DQ242cXJiZ2tBQVFaLTM4TFM1TzJhYmxvZWNhU3pIRFU0NDTSAWBBVV95cUxNVGZSUHM1TWJHNW9iMUxKY0szODVsQ25jMGpNajZVSGFkMXNqNVFaMW1GRTZyMldDbEhDSWs3MmRNM1RobXBDeGo3REZjZVJXTFcxa2hlSjFOMTF5aGMyWTA?oc=5)</sub>\n\n---\n\n### 3. 삼성증권·한전 등 잇따른 대규모 정보 유출\n> 키워드: 개인정보 유출 피해\n\n**📌 무슨 일이 있었나**\n- 삼성증권에서 해킹 사고가 발생하여 고객 8,241명의 계좌번호와 운전면허번호 등 민감 정보가 유출되었다.\n- 한국전력공사(한전)에서도 약 152만 명 규모의 개인정보 유출 정황이 포착되어 개인정보보호위원회가 조사에 착수했다.\n- 신선식품 플랫폼 컬리는 임직원 199명과 회원 2명의 개인정보가 추가로 유출된 사실을 확인하고 공지했다.\n- 삼성증권의 경우 '고객의 소리' 서비스의 취약점을 노린 해킹 공격에 노출된 것으로 파악되었다.\n- 개인정보위는 유출 경위와 보안 시스템의 적절성 여부를 집중적으로 조사하여 과징금 부과 등을 검토할 예정이다.\n\n**💬 핵심 Q&A**\n- **Q. 삼성증권 해킹 사고에서 운전면허번호 유출이 특히 위험한 이유는 무엇인가?**\n  A. 운전면허번호는 비대면 금융 거래 시 본인 인증을 위한 핵심 수단으로 활용되기 때문이다. 유출된 번호를 이용해 타인 명의의 대포폰을 개설하거나 신규 계좌를 만드는 등 심각한 금융 범죄로 이어질 가능성이 매우 높다.\n- **Q. 한전의 152만 명 정보 유출 조사에서 개인정보위가 집중하는 부분은 무엇인가?**\n  A. 대규모 정보가 한꺼번에 유출된 만큼 내부 관리자의 소홀함이 있었는지, 혹은 시스템 설계상의 근본적인 결함이 있었는지를 규명하는 데 집중하고 있다. 특히 유출 인지 후 즉각적인 신고와 피해자 통지가 이루어졌는지 등 법적 대응 절차 준수 여부도 핵심 조사 대상이다.\n- **Q. 컬리의 사례처럼 임직원 정보가 유출되는 것은 기업 운영에 어떤 타격을 주는가?**\n  A. 임직원 계정 정보가 유출되면 이를 교두보 삼아 기업 내부망에 침투하는 추가 공격이 가능해진다. 이는 단순한 개인정보 유출을 넘어 기업의 영업비밀이나 핵심 기술 탈취로 이어질 수 있는 보안상의 중대한 허점이 된다.\n\n**👀 앞으로 볼 포인트**\n- 개인정보보호위원회의 한전 및 삼성증권 조사 결과 발표\n- 유출된 정보를 악용한 2차 피해(보이스피싱 등) 발생 여부\n- 금융권 전반의 보안 시스템 강화 대책 및 가이드라인\n\n<sub>참고: [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBETkVyb3RCeVgxTUpvd1NCZjBpVVdsTnkwS0R4QUtQRU9nUWZhZnZlSkN0X1lOVDcwRzF6VlNMYU5QVWNTT3hlcWJ5MFcwdjF3bGYxVHBwbUlSWVk?oc=5) / [MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTE5KY1JJN0Y4VzdTZlRyUlVhbW1GUmtYRnpHTlkyalJXR3pHamFJQldBc0dndU1YbmZNTXFBZldhd1pmLWc0X1BJd1ZGTVlwbzQxczZZMGFCNkVBeWRSeFFaS00xOHBQMVBCeUlBUXN6THZmam8w0gF0QVVfeXFMTlNnLW9jaDFMZ01wdVhTUmxKZUVmbXlPbnF6czUzYVBJYmN1R2pQQnBaVVkzZkp5amgycmhnTlBCMGZKX1VfdG4waUhlTmJDOHM3Ym8yYTRhMDdqT1E2Z2I3RnZVRU5KYXVBQ2E1bjUteUtwelA?oc=5) / [YTN](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCOXc2ZXM0VWRid3JwV19aR00zQmNQNGVaSEJvc3k2enBETGQ3RnlCSVhIQzlWMTE0VWNVX1VsbzRlQkJoNjVNNlV3bU50T1phNUh6ZFZBX2l4b0tWcnc?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 나스닥 5% 폭락과 시총 5천조 원 증발\n> 키워드: 나스닥 기술주 폭락\n\n**📌 무슨 일이 있었나**\n- 뉴욕증시에서 나스닥 지수가 기술주 투매 여파로 하루 만에 5% 급락하며 올해 상승분을 대부분 반납했다.\n- 나스닥 시장의 시가총액은 일주일 사이에 약 5,000조 원이 증발하며 투자자들에게 큰 충격을 안겼다.\n- S&P500 지수 역시 8.6% 급락하는 등 AI 투자 회의론이 시장 전반의 투매를 촉발하는 양상이다.\n- 폭락 이후 저가 매수세가 유입되면서 나스닥 100 선물 지수가 2% 이상 반등하며 변동성이 극심해지고 있다.\n- 시장 전문가들은 AI 투자가 실제 기업의 이익으로 연결되는 속도가 기대보다 느리다는 점을 폭락의 근거로 지목했다.\n\n**💬 핵심 Q&A**\n- **Q. 나스닥 시총 5,000조 원 증발이 글로벌 실물 경제에 미치는 영향은 무엇인가?**\n  A. 기술주 중심의 자산 가치 하락은 가계의 소비 심리를 위축시키는 '역자산 효과'를 불러온다. 또한 기술 기업들의 자금 조달 비용을 높여 신규 고용과 R&D 투자를 위축시킴으로써 전반적인 경기 둔화 압력을 가중시킨다.\n- **Q. 폭락 직후 나스닥 100 선물이 2% 반등한 것을 본격적인 회복 신호로 볼 수 있는가?**\n  A. 단기 급락에 따른 기계적 매수세나 공매도 세력의 이익 실현(숏커버링)에 의한 일시적 현상일 가능성이 높다. AI 수익성에 대한 근본적인 의구심이 해소되지 않은 상태에서의 반등은 변동성만 키우는 '데드 캣 바운스'일 수 있어 주의가 필요하다.\n- **Q. AI가 분석한 현재 나스닥의 매수 시점은 어떤 지표를 근거로 하는가?**\n  A. 과거 폭락장 데이터와 비교했을 때 현재의 주가수익비율(PER)이 역사적 평균치에 근접했는지를 분석한다. 또한 기술주들의 상대강도지수(RSI)가 과매도 구간에 진입했는지 여부를 통해 기술적 반등 가능성을 타진하는 방식이 주로 활용된다.\n\n**👀 앞으로 볼 포인트**\n- 나스닥 지수의 전저점 지지 여부 및 기술적 반등 강도\n- 빅테크 기업들의 자사주 매입 등 주가 부양책 발표 여부\n- 공포지수(VIX) 추이와 시장 심리 회복 속도\n\n<sub>참고: [비즈워치](https://news.google.com/rss/articles/CBMiakFVX3lxTE5XUGZRZUF0Qk85X096cVRhQm02bWpKUkFzU29kRUIzT1Zpa0FTZllCM2VwRHRRRnJCMDFEQmhPMmVsRUhGNDNNeWdmZ2ZXZWNELVFZWmhuSld1cDh3N2g0aTlTTW5jS3g0Mmc?oc=5) / [시사저널e](https://news.google.com/rss/articles/CBMickFVX3lxTE1fZ1VVRnlfcUxRWDFjbzdNRVB0QnZPZzJ4X0VTMi1uUVExaU1icHg4NHJGbkMxOGZ0eXBtMWMwbE9JVHlDdGlCM3MxSGVfTGVJb0Z4MjVBRnh0Ql9RSEJLSUNjTDdoeVFpdGtxWGRtNzMtdw?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMidEFVX3lxTE9DRTREX1lLMjZ2ZmZVZ21UOHBZcDdSWHBQSXk4dHlyS3JSeDZ4Skl6ZlFsMGFTYU1wREpvdTdxUjFkTDVneUprMFN1VzhYQ2lITnBoVGozOUtueTdUakhqbm5yQUJVSnllemMtY2tLTnRnNlE4?oc=5)</sub>\n\n---\n\n### 2. 앤트로픽 IPO와 월가의 이례적 충돌\n> 키워드: 앤트로픽 상장과 월가 갈등\n\n**📌 무슨 일이 있었나**\n- AI 스타트업 앤트로픽이 기업공개(IPO)를 추진하는 과정에서 주관사 은행들에 이례적인 제약 조건을 내걸어 갈등을 빚고 있다.\n- 앤트로픽은 상장 주관 업무를 맡는 은행들에 향후 6개월간 경쟁사인 OpenAI의 업무를 맡지 말 것을 요구했다.\n- 월가 금융권은 앤트로픽의 이러한 요구가 시장 관행을 벗어난 '기행'이라며 강하게 반발하고 있다.\n- 아모데이 남매가 이끄는 앤트로픽의 독특한 경영 철학과 새벽까지 이어지는 고강도 업무 문화가 갈등의 배경으로 지목된다.\n- 앤트로픽의 상장 소식에도 불구하고 AI 산업 전반에 대한 투자 회의론이 겹치며 관련 주가들은 하락세를 지속했다.\n\n**💬 핵심 Q&A**\n- **Q. 앤트로픽이 주관사 은행에 'OpenAI 업무 제한'을 요구한 전략적 이유는 무엇인가?**\n  A. 상장 과정에서 공유되는 핵심 재무 정보와 기술 로드맵이 경쟁사로 유출되는 것을 원천 차단하려는 의도이다. 또한 월가 대형 은행들이 양사 사이에서 양다리를 걸치는 것을 막아 자사에 대한 충성도와 집중도를 높이려는 포석으로 풀이된다.\n- **Q. 월가가 앤트로픽의 요구에 대해 '새벽 2시 업무'까지 언급하며 분노하는 이유는 무엇인가?**\n  A. 앤트로픽 경영진이 금융권의 기존 업무 프로세스를 무시하고 자신들의 스타트업식 속도와 문화를 강요하고 있기 때문이다. 이는 단순한 업무 강도의 문제를 넘어 발행사와 주관사 간의 대등한 파트너십이 무너졌다는 위기감을 반영한다.\n- **Q. 앤트로픽 IPO가 침체된 AI 투자 시장의 반전 카드가 될 수 있는가?**\n  A. 앤트로픽이 상장 후 높은 기업 가치를 인정받고 수익성을 증명한다면 AI 거품론을 잠재우는 촉매제가 될 수 있다. 그러나 현재처럼 월가와 갈등을 빚고 시장의 의구심이 큰 상황에서는 오히려 AI 섹터의 변동성을 키우는 리스크 요인이 될 가능성도 배제할 수 없다.\n\n**👀 앞으로 볼 포인트**\n- 앤트로픽의 최종 상장 주관사 명단 확정 결과\n- OpenAI와 앤트로픽 간의 인재 및 자본 유치 경쟁 추이\n- 상장 후 앤트로픽의 시가총액 형성 범위 및 시장 평가\n\n<sub>참고: [연합뉴스](https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wR3NVTWlGNVpObVR0TDk2aEpzOGVvaFM3bWwwcHRCOWlqLUdnc3FWcUQ2ZFN4TFdnZ3VGcVFBM0Z1Ukx0QnlTQm5wekpQVnNPT3lVLU5pQkxrRGxITWhiTdIBYEFVX3lxTE0wR3NVTWlGNVpObVR0TDk2aEpzOGVvaFM3bWwwcHRCOWlqLUdnc3FWcUQ2ZFN4TFdnZ3VGcVFBM0Z1Ukx0QnlTQm5wekpQVnNPT3lVLU5pQkxrRGxITWhiTQ?oc=5) / [더구루](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TU1NBWDQ0SWlLN2hGbTlTRXU5WHFmX2tIeVMxc0paMmh4NUE4Qk02V0Vhd0JCdFdKc0o1b3hnZ3VyUFJKZm5ER1poWG1CTEc4NTdVeW1GYzFLNnFiUlE?oc=5) / [YTN](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvYkVHME5iTDJaaUdVZ0VJZE9DeXhqUE8yMzhuR3hfLW90bzJwY0hXT1NhUEpiN1hEQ181Ym8wOTN3R0FpdmVGcHd0c2tIcVpHTGNnUWc3NkFtcXI5M3c?oc=5)</sub>\n\n---\n\n### 3. 연준 긴축 우려와 증시 투매의 악순환\n> 키워드: 미 연준 빅스텝 우려\n\n**📌 무슨 일이 있었나**\n- 미 연준의 '빅스텝(0.5%p 금리 인상)' 가능성이 제기되면서 글로벌 증시의 반등 소재가 실종된 상태다.\n- 미 재무장관은 연준의 과잉 긴축이 경제적 실수를 유발할 수 있다고 경고하며 최근 증시 투매의 원인으로 지목했다.\n- 증시 폭락 여파로 12월 금리 인상 기대감이 일부 후퇴했으나, 여전히 긴축에 대한 시장의 공포는 가시지 않고 있다.\n- 채권 시장에서는 주가 조정 지속과 AI 투자 우려가 맞물리며 금리가 하락하는 등 혼조세가 나타났다.\n- 시장 전문가들은 현재의 불확실성을 해소하기 위해 미 연준의 명확한 가이던스가 절실한 시점이라고 강조했다.\n\n**💬 핵심 Q&A**\n- **Q. 재무장관이 언급한 연준의 '과잉 긴축 실수'란 구체적으로 무엇을 뜻하는가?**\n  A. 인플레이션을 잡기 위해 금리를 너무 가파르게 올려 실물 경기를 필요 이상으로 위축시키는 '오버슈팅' 위험을 의미한다. 이는 기업의 부도 위험을 높이고 가계 부채 부담을 급격히 늘려 경제를 장기 침체에 빠뜨릴 수 있다는 경고이다.\n- **Q. 증시 폭락에도 불구하고 왜 금리 인상 기대감이 완전히 사라지지 않는가?**\n  A. 고용 지표가 여전히 견조하거나 물가 상승 압력이 잔존할 경우, 연준은 자산 가격 하락보다 물가 안정을 우선순위에 두기 때문이다. 시장은 증시 부양을 원하지만 연준은 인플레이션 목표치 달성을 위해 긴축 기조를 유지해야 하는 이해관계의 충돌이 발생하고 있다.\n- **Q. 연준의 가이던스가 시장의 '돈줄' 흐름을 어떻게 바꿀 수 있는가?**\n  A. 연준이 금리 인상 중단이나 속도 조절 신호를 명확히 줄 경우, 안전자산으로 숨었던 자금이 다시 위험자산인 주식 시장으로 유입될 수 있다. 반대로 매파적(긴축 선호) 입장을 고수한다면 시장의 유동성 고갈 현상은 더욱 심화되어 증시 하락 압력이 지속될 것이다.\n\n**👀 앞으로 볼 포인트**\n- 12월 FOMC 정례회의 금리 결정 결과\n- 미국 소비자물가지수(CPI) 등 인플레이션 지표 발표\n- 연준 위원들의 금리 인상 속도 조절 관련 발언\n\n<sub>참고: [뉴스토마토](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpOFhwWGdITmVFVGl6MDU4VEVOQU9zMWNHTm9vT0piQUQzb3RlcWhKMjUwZnphXzJDQXo0YlVQMFBBV0hpZ1JweTBOb0drNkh1RDlWSVRKUy1jNGVWR0l2cQ?oc=5) / [블루밍비트](https://news.google.com/rss/articles/CBMiUEFVX3lxTE80LUQxTkZyNkh2dm5KYnQ2WklacXNlVW1xX0Z0Rmp1d3M4ZzU1SElxWG9kTWtkS0N5UldWblllM0U4UDJudFV6STFzNEFDcjNX?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE5YaF9OVUJDeWlwSWRHNWR4YnlIUzdQNkVKQ3daazJsUVNCSFhNZ2VHMDcwclVuRWVNV0VPVzhJRGcwRUZUUEJNNHFfT2VFWGVxMDJ2b2VibXYwcGRUZUl3OXNqeDNUbzd2NWZtSDdWbFU?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 보도를 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
     "generation_mode": "gemini"
   },
   "yesterday": {
@@ -2994,5 +3006,5 @@
     "newsletter_md": "# ⚡ ZIPPY | AI 경제 데일리 브리핑\n_2026-11-16 ~ 2026-11-22 이슈 · 발행 2026-11-23_\n\n🇰🇷 **국내 경제:** `코스피 5000선 붕괴` · `서울 집값 하락세` · `기업 AI 사업 재편`\n🌐 **해외 경제:** `앤트로픽 상장 직후 급락` · `나스닥 기술주 폭락 사태` · `연준 추가 금리 인상`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 코스피 5000선 붕괴와 반도체 피크아웃 공포\n> 키워드: 코스피 5000선 붕괴\n\n**📌 무슨 일이 있었나**\n- 코스피 지수가 엔비디아 실적 파장과 반도체 업황의 피크아웃 우려가 겹치며 9개월 만에 5000선 아래로 추락했다.\n- 외국인 투자자들의 대규모 매도세가 이어지는 가운데 삼성전자와 SK하이닉스 등 시가총액 상위 반도체 종목들이 5%대 급락하며 지수 하락을 주도했다.\n- 지난 11월 16일 3.59% 하락하며 5100선으로 후퇴한 지수는 20일 다시 5%대 폭락을 기록하며 개인 투자자들의 손실이 눈덩이처럼 불어났다.\n- 시장에서는 호재성 재료가 발생해도 이를 받아줄 매수 주체가 부재한 수급 공백 상태가 지속되면서 지수 방어력이 급격히 약화된 모습이다.\n\n**💬 핵심 Q&A**\n- **Q. 엔비디아 실적 여파가 국내 반도체 대장주 폭락으로 이어진 메커니즘은 무엇인가?**\n  A. 글로벌 AI 대장주인 엔비디아의 실적 발표 이후 시장의 기대치가 정점에 달했다는 피크아웃 우려가 확산되면서 삼성전자와 SK하이닉스에 대한 외국인의 선제적 매도세가 집중되었기 때문이다.\n- **Q. 호재에도 불구하고 지수가 반등하지 못하는 수급 공백의 원인은 어디에 있는가?**\n  A. 외국인의 지속적인 이탈 속에 국내 증시를 지탱하던 개인 투자자들의 자금력이 급락장 속에서 한계에 다다랐고, 기관 역시 적극적인 매수에 나서지 않으면서 매수세가 실종된 상태이다.\n- **Q. 정치권에서 언급된 국장 투자자 보호 논의가 실제 시장 안정에 기여할 수 있는가?**\n  A. 나경원 의원 등이 제기한 투자자 피해 우려는 정부의 증시 안정 펀드 가동 검토 등 정책적 대응을 압박하는 요인이 되어 단기적인 심리적 지지선 형성에 영향을 줄 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 외국인 순매도세 진정 여부 및 수급 개선\n- 엔비디아 실적 발표 이후 반도체 업황 전망\n- 정부의 증시 안정화 대책 및 증안펀드 가동 시점\n\n<sub>참고: [경향신문](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxT2h1RTBUamNWb1M1MFNsU2xKQ0tqTDlpYzdHeHhadkVKTENxVmxpdkVSa0RVMTFFOTdPME5zbVhrWUh4R3Q3aUUtRmRqbEdranJOSXB1OEQwZ9IBX0FVX3lxTE92SkhETWFTS3RNQmdhUjR5MWVqcVZtR0ljTWFPZEh6SHZENXhaZlBXbmpnNjBJTjJPNk1wUjlIenQ5Y0U5QldNMVpqUEl0blIxbi04dzJERkVRcnRyMk9Z?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE81ZDh0elpqUkM4eDZESjljQWZ4RnluVHVVY2xIN1pnVjhrOTh4YWctcndoNTBUSEppNy1UMFhwY3ZCNU5mTHNoa2VpeFNHRUlxZ1Y0T05zY2EyTVIzZjZFUWxiVmN0TUFVWFdoYnNMNVQ?oc=5) / [중앙일보](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PMl9iVXNZYzVheHRGS19pdkFrdTU0aUZ4QkNBSEgzblhRNVFCamlBNjhpakFab09HVkM0b2M1eFlkaGdTSVdkbmVSWmwyQW5YRE9yc2Rn?oc=5)</sub>\n\n---\n\n### 2. 서울 집값 0.06% 하락 전환과 매수 부담 지속\n> 키워드: 서울 집값 하락세\n\n**📌 무슨 일이 있었나**\n- 11월 3주차 부동산 시장에서 서울 집값은 0.06% 하락하며 약세로 돌아선 반면 경기 지역은 0.24% 상승하며 지역별 양극화 현상이 나타났다.\n- 서울 내 집 마련에 걸리는 기간이 14년에서 12년으로 단축되었다는 통계가 나왔으나 이는 최근의 집값 상승세가 온전히 반영되지 않은 수치로 분석된다.\n- 서울 외곽 지역 중 일부는 집값이 10% 이상 급등했음에도 불구하고 여전히 과거 전고점을 회복하지 못한 단지들이 혼재되어 있다.\n- 재건축 초과이익 환수제가 적용되는 서울 내 52개 단지의 조합원 평균 부담금은 1억 1000만 원 수준으로 집계되어 정비사업의 수익성 변수로 부각되었다.\n\n**💬 핵심 Q&A**\n- **Q. 서울 집값 하락에도 불구하고 내 집 마련 부담이 여전하다고 느끼는 이유는 무엇인가?**\n  A. 통계상 내 집 마련 기간이 단축된 것으로 나타났으나 이는 과거 저점 데이터를 기반으로 한 착시 효과일 뿐, 실제 시장 가격과 대출 규제 강화로 인한 체감 구매력은 여전히 낮기 때문이다.\n- **Q. 경기 지역이 0.24% 상승하는 동안 서울이 하락한 디커플링 현상의 배경은 무엇인가?**\n  A. 서울의 높은 가격대에 부담을 느낀 수요자들이 상대적으로 저평가된 경기 지역으로 이동하는 풍선효과와 서울 내 고가 단지 위주의 거래 절벽이 맞물린 결과이다.\n- **Q. 평균 1억 원이 넘는 재건축 부담금이 향후 서울 주택 공급에 어떤 영향을 미치는가?**\n  A. 조합원들의 추가 분담금 압박이 커지면서 재건축 사업 속도가 지연되거나 중단되는 단지가 늘어날 수 있으며, 이는 중장기적으로 서울 도심 내 신축 공급 부족을 심화시킬 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 서울 지역 하락세의 강남권 확산 여부\n- 재건축 초과이익 환수제 부담금 확정 추이\n- 경기 지역 상승세 지속 및 서울과의 갭 메우기\n\n<sub>참고: [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSWGVWcUhyUmx2UmRBYmhSRmZGYzF5Yy1ET1dKcGVyWVBnN29GXzRqV2RZcUlCSU5MdEhORTl6aHlFZlFWMHhaak5fbVlaVmd1dmRCVnRBUnVEVV83ZkUyUTRMSDA1RzQ?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTFBPUU9sR2lVeUoyaXMtZkVTaV9SWjJSNldJV3JKOUQ1cmZUdV9lcHFiWkJpeU1QSl9rbjVEa1dTZFJRbHM2R1ZQU2twNEpUdEJvN0FkQzV1X0hIMGFuQ0lLOWRzZldhSXJOY1p1WkRnc1I?oc=5) / [네이버페이 머니스토리](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qdEJkQTVkVDMzZ2tyX1IyQjNBeFlmdjBpUW5xZ0hMSFdjRWU3alktNzJybEo4cG4wX1lrOVpsdWlGUHVMTDJGUWtFOEdma2ExdFE?oc=5)</sub>\n\n---\n\n### 3. 기업 AI 조직 개편과 신흥시장 거품론 확산\n> 키워드: 기업 AI 사업 재편\n\n**📌 무슨 일이 있었나**\n- LG유플러스는 AI 사업의 성과를 조기에 가시화하기 위해 대대적인 조직 개편을 단행하고 AI 중심의 사업 구조 재편에 속도를 내고 있다.\n- 글로벌 시장에서는 제프리스 등 주요 투자은행이 신흥시장에서의 AI 붐이 동력을 잃고 있다는 경고를 내놓으며 AI 관련주에 대한 투자 심리가 위축되고 있다.\n- 지스타 2026은 게임을 넘어 AI와 모빌리티로 외연을 확장하며 나흘간 20만 명의 방문객을 기록하는 등 산업 간 융합 트렌드를 입증했다.\n- 제약 업계에서는 머크가 AI 동맹을 맺는 등 신약 개발 효율화를 위한 AI 도입이 가속화되는 반면, 중국산 신약의 진입 장벽은 높아지며 판도가 요동치고 있다.\n\n**💬 핵심 Q&A**\n- **Q. LG유플러스가 AI 사업 조직을 전면 재편하며 속도전에 나선 구체적인 목적은 무엇인가?**\n  A. 단순한 기술 도입을 넘어 실질적인 수익 모델을 창출하기 위해 흩어져 있던 AI 역량을 집중시키고 의사결정 단계를 축소하여 시장 변화에 즉각 대응하기 위함이다.\n- **Q. 제프리스가 신흥시장에서의 AI 붐이 힘을 잃고 있다고 경고한 근거는 무엇인가?**\n  A. 막대한 인프라 투자 대비 수익 회수 시점이 불투명하다는 의구심이 커진 상황에서, 금리 인상 우려와 맞물려 위험 자산인 신흥국 AI 기술주로부터 자금이 이탈하고 있기 때문이다.\n- **Q. AI 안경과 반지를 이용한 부정행위 사례가 기업의 AI 웨어러블 시장에 시사하는 바는 무엇인가?**\n  A. AI 기기의 소형화와 고성능화가 빠르게 진행되고 있음을 보여주는 동시에, 기술 오남용을 막기 위한 보안 및 윤리적 가이드라인 수립이 상용화의 필수 조건임을 시사한다.\n\n**👀 앞으로 볼 포인트**\n- LG유플러스 조직 개편 이후 AI 서비스 출시 일정\n- 신흥국 AI 관련 자금 유출 추이 및 투자 심리\n- 정부의 증시 안정 펀드 실제 가동 여부 및 규모\n\n<sub>참고: [지디넷코리아](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uRzNJSG9sQTkyMnQ1RUtwZW82cWxza1dmU0dIR013cDFvTEtySzlHSkVOemZCZEpMUEdGSFFfVHA1MVVqLTBLQ1RFWWdjaWczQ0ZMUlR3?oc=5) / [한겨레](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QdWo0ZG5hNkswOUYwcHNTX0xoR2phd08yd0pPZ0prZVVtTUR4LVdSWHFwQkhmREJZMGZ4cHF0SXRDVzFfU01zNk5kM0llSVFHR0F1NENZenlvY0FSY0xTcVE3eEZqb0U?oc=5) / [뉴스1](https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxUWMtOEZFQ1QxWWZTVW1iQkZWLWtBMXBFTGlLTEw2YzAyZVltQ24wYUJ5TjloNmRJNnBsdDhyS29TdHR5QVZLWnZZak5oUjFWSWpCUHBqOVlXMHNrZm1LdA?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 앤트로픽 상장 쇼크와 나스닥 AI 패닉 셀링\n> 키워드: 앤트로픽 상장 직후 급락\n\n**📌 무슨 일이 있었나**\n- 기대를 모았던 AI 스타트업 앤트로픽의 상장이 오히려 시장에는 강력한 매도 신호로 작용하며 상장 직후 뉴욕증시의 급락을 촉발했다.\n- 앤트로픽은 상장 이틀 만에 시가총액 약 147조 원이 증발했으며, 이 여파로 나스닥 지수는 하루 만에 5.3% 폭락하는 초유의 사태를 맞았다.\n- 다우 지수 역시 앤트로픽발 AI 투매 영향으로 50,000선 아래로 밀려났으며, 시장에서는 AI 산업에 대한 낙관론보다 고평가 불안감이 우세해진 모습이다.\n- 이번 급락은 앤트로픽 개별 종목의 문제를 넘어 엔비디아 등 주요 AI 관련주 전반에 대한 패닉 셀링으로 번지며 기술주 중심의 조정장을 형성했다.\n\n**💬 핵심 Q&A**\n- **Q. 앤트로픽 상장이 호재가 아닌 '매도 신호'로 받아들여진 결정적인 이유는 무엇인가?**\n  A. 상장 전 형성된 높은 기업 가치가 실제 상장 후 시장의 냉정한 평가를 견디지 못하면서, AI 거품 붕괴의 신호탄으로 해석되어 투자자들이 차익 실현에 일제히 나섰기 때문이다.\n- **Q. 상장 이틀 만에 147조 원의 시총이 증발한 것이 전체 AI 밸류체인에 미치는 영향은 무엇인가?**\n  A. 앤트로픽에 대규모 투자를 진행했던 빅테크 기업들의 자산 가치 하락으로 이어지며, 향후 AI 스타트업에 대한 벤처 캐피털의 자금 공급이 위축되는 연쇄 반응을 일으킬 수 있다.\n- **Q. 나스닥이 5.3% 폭락하며 조정장에 진입한 상황에서 시장 반전의 분기점은 무엇인가?**\n  A. 앤트로픽의 실적 가이던스 확인과 더불어 연준의 금리 정책 기조 변화가 확인되어야 하며, 특히 AI 투자가 실질적인 매출 증대로 이어지는 지표가 제시되어야 추세 전환이 가능하다.\n\n**👀 앞으로 볼 포인트**\n- 앤트로픽 주가의 추가 하락 멈춤 및 지지선 형성\n- 나스닥 지수의 5%대 폭락 이후 기술적 반등 여부\n- 주요 빅테크 기업들의 AI 투자 계획 수정 여부\n\n<sub>참고: [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTFBsM1UySkQ1YmdONUNYZV82VjczODNrVU1GZVVKa3pKSGJ6Ym1COGdFaUJjOUpMb0RQVF81X0o1QjlaZGZnYWM4RlVrNmt4aG5VVFUwdkF5U2tJT3JQamxuR0FoQ0N0aF9FRGwyaTBFemQ?oc=5) / [MBC 뉴스](https://news.google.com/rss/articles/CBMiekFVX3lxTE1SWjBid3ltdWI4WGdGQlRJTXhxakExRmlfTjFfRWhMNzRoUnhFWW45RkFhSWM3cHZSYUpUeVMwSExjM2djUWZuT3I0N2VGbkkxTWgwbzVEb0hRR2hzZWFjdnhwbXh1N09nc0FfMWdfWkNrQ09KWlhqQzln0gF6QVVfeXFMT3RLd1N0SExGc3pCS0xjTW1UemlFdlpYRHdwT2lUSl9yMEJBWUxNOFQwUTZ4V0E3Vi1UYUxMTm50RFlkMXBobV9GRVRtYmhyQm5KMXhNYjlqa1ljSWpaSFhvcy14LWM5eVk5UXhkUHRQeE5NVWxtanl6ZXc?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Ec1NsYnJCZkgzRU1SakhnZkJ1d3BmeGpXbjVGMW96bkZIWmJxN0xiNEZ0eXNLbnJCR2ItbjI1UEFtamx5a0NCajFPelp1ckJXS3VkNDdIbktONkJKMHoxeNIBYEFVX3lxTE1Ec1NsYnJCZkgzRU1SakhnZkJ1d3BmeGpXbjVGMW96bkZIWmJxN0xiNEZ0eXNLbnJCR2ItbjI1UEFtamx5a0NCajFPelp1ckJXS3VkNDdIbktONkJKMHoxeA?oc=5)</sub>\n\n---\n\n### 2. 나스닥 5.3% 폭락과 기술주 중심의 조정장 진입\n> 키워드: 나스닥 기술주 폭락 사태\n\n**📌 무슨 일이 있었나**\n- 뉴욕증시에서 나스닥 지수가 기술주에 대한 집중적인 매도세로 인해 5.3% 폭락하며 시장에 큰 충격을 주었다.\n- 이번 폭락으로 S&P 500 지수는 최근 6년 사이 가장 긴 하락세를 기록하게 되었으며, 다우 지수와 함께 나란히 조정 국면에 진입했다.\n- 특히 반도체 업종과 최근 상장한 앤트로픽이 직격탄을 맞으며 기술주 전반의 투자 심리를 급격히 냉각시켰다.\n- 시장 전문가들은 이번 사태를 단순한 조정을 넘어 AI 기술주에 대한 과도한 기대감이 실망감으로 변하며 나타난 본격적인 매물 소화 과정으로 분석하고 있다.\n\n**💬 핵심 Q&A**\n- **Q. 나스닥 5.3% 폭락이 S&P 500의 6년 내 최장 하락 기록으로 이어진 배경은 무엇인가?**\n  A. 지수 내 비중이 높은 대형 기술주들이 AI 수익성 의구심과 금리 인상 압박이라는 이중고를 겪으며 동반 하락하자 지수 전체의 하방 압력이 극대화되었기 때문이다.\n- **Q. 반도체주와 앤트로픽이 이번 폭락의 직격탄을 맞은 구체적인 경로는 무엇인가?**\n  A. 앤트로픽 상장 실패가 AI 하드웨어 수요 감소 우려로 전이되면서, 그동안 지수를 견인해온 반도체 종목들에 대한 고점 인식과 투매 물량이 쏟어진 결과이다.\n- **Q. 다우와 S&P 500까지 조정장에 진입한 상황에서 향후 시장의 향방을 결정할 핵심 지표는 무엇인가?**\n  A. 기술주들의 실적 발표에서 나타날 이익률 변화와 함께, 국채 금리 추이가 기술주의 밸류에이션 부담을 얼마나 완화해 줄 수 있는지가 관건이다.\n\n**👀 앞으로 볼 포인트**\n- 나스닥 지수의 전고점 대비 하락 폭 및 지지선 확인\n- 필라델피아 반도체 지수의 반등 여부\n- 기술주 매도세의 중소형주 전이 가능성\n\n<sub>참고: [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnVVZsZm5TYkNqNjhpUHlQamVYZTdGMVZSVVEtQ2dkeEJBM3lYNVc3cGNudFFDLXJPTWhuWFBjWnhoZDFFWF9vcy14Ukp5YTZPMGl6V0NvVmJFOTA?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UbWQ5NUtvODJTMjZLTkl4S3Y3empSWHFVeVhxaElBYXF2ZzFNcWtDN1ZhVjhNamRGbDhidmdpYzBidy1PdGN3V1JaN3RxaXg4SElCTWhFR05FYk3SAWBBVV95cUxOXzMtMFdJR0FTOUxQRzNRS1VwdGxZUThMdUdpZ0M5dTBqazNlWlFUOW1ZNTZINXZlbGszWkR1MGtKRDRiNHdUcktnMUZ6LUFTR1g0aXJyc1d2NTFUY1drNkU?oc=5) / [MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTE1VNUNLMkdxZGRDa1ZIN3BSV1FBc0lIUnNLUlZRYXJSYi1qYjZ1b0ZmV3FibTYzZzg4X2E4MmhTbnFKbklLNmFva1hCSVc2d25fb0dtQ0Y3RV96eGwzNHZSR0tLam1Vc09na0VYWktlX3FxOW9O0gF0QVVfeXFMUDhxcmxEOFJyaXNJa0RfN0NnTllNZndfYU5RNlVRTDJMZjZZNU9YdjczSmQwSmt5S1ZMa0dFaVJlMGhtT3hIeXI1RVlJN29QUTBlck83dE9idTlySW1LQVNGSXVEandyZ2NhNFFtQTlNYlp1Njg?oc=5)</sub>\n\n---\n\n### 3. 연준의 추가 금리 인상 시사와 트럼프의 견제\n> 키워드: 연준 추가 금리 인상\n\n**📌 무슨 일이 있었나**\n- 마이클 바 연준 이사는 인플레이션이 여전히 지나치게 높다고 지적하며 기준금리의 추가 인상이 적절하다는 매파적 입장을 공식화했다.\n- JP모건은 연준이 향후 세 차례 연속으로 금리를 각각 25bp씩 인상할 것이라는 전망을 내놓으며 긴축 기조가 장기화될 것임을 예고했다.\n- 거의 모든 참석자가 추가 금리 인상의 필요성에 동의한 것으로 나타나 시장의 금리 인하 기대감에 찬물을 끼얹었다.\n- 도널드 트럼프 전 대통령과 베선트 등은 연준의 추가 긴축 움직임에 대해 금리가 이미 너무 높다며 강력한 견제 메시지를 보내고 있다.\n\n**💬 핵심 Q&A**\n- **Q. 10월 FOMC 의사록에서 '거의 모든 참가자'가 추가 인상을 주문한 것은 시장에 어떤 신호를 주는가?**\n  A. 금리 인상 사이클이 종료되었다는 시장의 낙관론이 완전히 빗나갔음을 의미하며, 연준 내부에 인플레이션 재발에 대한 강력한 경계심이 형성되어 있음을 보여준다.\n- **Q. 트럼프 전 대통령이 연준의 긴축 기조를 공개적으로 견제하는 정치적·경제적 이유는 무엇인가?**\n  A. 고금리가 경기 침체를 유발하여 자신의 경제 성과를 저해할 수 있다는 우려와 함께, 연준의 통화 정책 주도권을 압박하여 저금리 환경을 조성하려는 의도로 풀이된다.\n- **Q. JP모건의 3회 연속 25bp 인상 전망이 현실화될 경우 나스닥 등 기술주에 미칠 파급 효과는 무엇인가?**\n  A. 미래 수익을 당겨오는 기술주 특성상 할인율 상승으로 인한 밸류에이션 하락이 불가피하며, 이미 올해 상승분을 반납한 나스닥 지수에 추가적인 하락 압력으로 작용할 것이다.\n\n**👀 앞으로 볼 포인트**\n- 향후 발표될 소비자물가지수(CPI) 등 인플레이션 지표\n- 연준의 3회 연속 금리 인상 현실화 여부\n- 정치권의 압박이 연준 독립성에 미치는 영향\n\n<sub>참고: [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE4wVk8xLWxVTWRhTzduUWJRSzdGbmphMXVpbVdxYWV0X1g5NGVNNGZlQlQ3dGgwLXV0ek9OcldRTnE0dWc5bXRxaVBWc20zZ1JVc1E1T29KUEhPd2FOQjMtdnljUVlkV1ptNFJqR0dDS3Q?oc=5) / [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xNUtpQmJIeG11UkRUWDh1bHA2aDhYRkxFUlNqby1VOXNsS3ZsZEpKRzAxbTJKNEN4TzBpbF9GYWdDTXFuMGlZZ0F5MTlxSXh1NXdjTW9pOU1wcXpTN3dzUFAyOXJlZ3c?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTFBsdkt5LXdWTkNZWTV3ZjFPdHVpNUlIWjd5bHFUeG5vRm5LTjFiQlNpaHVqajJMekoySWxHQ2pxVWpZOGdHdDRQQ3hhSHVadTJWcjFVZGMxSlp3cFp5QWxVY1QxUmlGWEJ0LUg5bDN6WmM?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 보도를 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
     "generation_mode": "gemini"
   },
-  "updated_at": "2026-11-23 17:35:31 KST"
+  "updated_at": "2026-11-23 20:54:23 KST"
 }
