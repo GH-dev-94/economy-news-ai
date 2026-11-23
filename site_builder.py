@@ -44,24 +44,28 @@ COMMON_CSS = """
     .top-nav {
       display: flex; align-items: center; justify-content: space-between;
       flex-wrap: wrap; gap: 0.75rem;
-      padding-bottom: 0.9rem; margin-bottom: 1.35rem;
+      padding-bottom: 0.9rem; margin-bottom: 1.25rem;
       border-bottom: 2px solid var(--accent-blue);
     }
     .brand-link {
       text-decoration: none; color: var(--text-main);
       font-size: 1.35rem; font-weight: 800; letter-spacing: -0.02em;
+      white-space: nowrap;
     }
-    .nav-links { display: flex; flex-wrap: wrap; gap: 0.45rem; }
+    .nav-links { display: flex; flex-wrap: wrap; gap: 0.42rem; }
     .nav-links a {
       text-decoration: none; color: var(--text-muted);
-      font-size: 0.88rem; font-weight: 600;
-      padding: 0.4rem 0.75rem; border-radius: 7px;
-      border: 1px solid transparent; transition: all 0.15s;
+      font-size: 0.86rem; font-weight: 600;
+      padding: 0.38rem 0.72rem; border-radius: 7px;
+      border: 1px solid var(--border);
+      background: rgba(255, 255, 255, 0.03);
+      transition: all 0.15s ease;
+      white-space: nowrap;
     }
     .nav-links a:hover, .nav-links a.active {
       color: var(--text-main);
-      background: rgba(59, 130, 246, 0.14);
-      border-color: rgba(59, 130, 246, 0.35);
+      background: rgba(59, 130, 246, 0.16);
+      border-color: var(--accent-blue);
     }
     .card {
       background: var(--bg-card);
@@ -163,11 +167,11 @@ def _render_layout(
     <header class="top-nav">
       <a href="{rel_root}/index.html" class="brand-link">⚡ ZIPPY 경제 브리핑</a>
       <nav class="nav-links" aria-label="주요 메뉴">
-        <a href="{rel_root}/index.html"{nav_cls("home")}>오늘의 브리핑</a>
-        <a href="{rel_root}/archive/index.html"{nav_cls("archive")}>브리핑 아카이브</a>
-        <a href="{rel_root}/guide/index.html"{nav_cls("guide")}>경제·투자 가이드</a>
-        <a href="{rel_root}/tools/dsr.html"{nav_cls("tools")}>DSR·금융 계산기</a>
-        <a href="{rel_root}/about.html"{nav_cls("about")}>서비스 소개</a>
+        <a href="{rel_root}/index.html"{nav_cls("home")}>⚡ 오늘의 브리핑</a>
+        <a href="{rel_root}/archive/index.html"{nav_cls("archive")}>🗂️ 브리핑 아카이브</a>
+        <a href="{rel_root}/guide/index.html"{nav_cls("guide")}>📘 경제·투자 가이드</a>
+        <a href="{rel_root}/tools/dsr.html"{nav_cls("tools")}>🏦 DSR·금융 계산기</a>
+        <a href="{rel_root}/about.html"{nav_cls("about")}>ℹ️ 서비스 소개</a>
       </nav>
     </header>
 

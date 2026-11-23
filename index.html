@@ -60,39 +60,79 @@
     .container {
       max-width: 980px;
       margin: 0 auto;
-      padding: 1.6rem 1.25rem 3.5rem;
+      padding: 1.4rem 1.25rem 3.5rem;
     }
 
-    /* 헤더 */
-    .header-box {
+    /* 1단: 최상단 고정 글로벌 헤더 (전 페이지 100% 동일 규격) */
+    .top-nav {
       display: flex;
+      align-items: center;
       justify-content: space-between;
-      align-items: flex-end;
-      border-bottom: 2px solid var(--accent-blue);
-      padding-bottom: 0.7rem;
-      margin-bottom: 0.85rem;
-      gap: 1rem;
       flex-wrap: wrap;
+      gap: 0.75rem;
+      padding-bottom: 0.9rem;
+      margin-bottom: 1.25rem;
+      border-bottom: 2px solid var(--accent-blue);
     }
 
-    .header-title {
-      font-size: 1.75rem;
+    .brand-link {
+      text-decoration: none;
+      color: var(--text-main);
+      font-size: 1.35rem;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+      white-space: nowrap;
+    }
+
+    .nav-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.42rem;
+    }
+
+    .nav-links a {
+      text-decoration: none;
+      color: var(--text-muted);
+      font-size: 0.86rem;
+      font-weight: 600;
+      padding: 0.38rem 0.72rem;
+      border-radius: 7px;
+      border: 1px solid var(--border);
+      background: rgba(255, 255, 255, 0.03);
+      transition: all 0.15s ease;
+      white-space: nowrap;
+    }
+
+    .nav-links a:hover,
+    .nav-links a.active {
+      color: var(--text-main);
+      background: rgba(59, 130, 246, 0.16);
+      border-color: var(--accent-blue);
+    }
+
+    /* 2단: 페이지 타이틀 영역 */
+    .page-header {
+      margin-bottom: 0.9rem;
+    }
+
+    .page-header h1 {
+      font-size: 1.55rem;
       font-weight: 800;
       color: var(--text-main);
-      margin: 0;
+      margin: 0 0 0.32rem;
       letter-spacing: -0.02em;
     }
 
-    .header-subtitle {
-      font-size: 0.95rem;
+    .page-header p {
+      font-size: 0.93rem;
       color: var(--text-muted);
-      margin-top: 0.28rem;
+      margin: 0;
     }
 
     .update-caption {
       font-size: 0.85rem;
       color: var(--text-muted);
-      margin-bottom: 1.2rem;
+      margin-bottom: 1.1rem;
       display: flex;
       align-items: center;
       justify-content: space-between;
@@ -558,15 +598,10 @@
 </head>
 <body>
   <div class="container">
-    <!-- 상단 헤더 & 글로벌 내비게이션 -->
-    <header class="header-box">
-      <div>
-        <h1 class="header-title">⚡ ZIPPY | AI 경제 데일리 브리핑</h1>
-        <div class="header-subtitle">
-          지금 가장 뜨거운 국내·해외 경제 이슈부터 심층 Q&amp;A, 스트레스 DSR·금융 계산기까지 한눈에 제공합니다.
-        </div>
-      </div>
-      <nav class="top-global-nav" aria-label="주요 메뉴">
+    <!-- 1단: 최상단 글로벌 헤더 & 내비게이션 (전 페이지 동일) -->
+    <header class="top-nav">
+      <a href="./index.html" class="brand-link">⚡ ZIPPY 경제 브리핑</a>
+      <nav class="nav-links" aria-label="주요 메뉴">
         <a href="./index.html" class="active">⚡ 오늘의 브리핑</a>
         <a href="./archive/index.html">🗂️ 브리핑 아카이브</a>
         <a href="./guide/index.html">📘 경제·투자 가이드</a>
@@ -574,6 +609,12 @@
         <a href="./about.html">ℹ️ 서비스 소개</a>
       </nav>
     </header>
+
+    <!-- 2단: 페이지 타이틀 -->
+    <div class="page-header">
+      <h1>⚡ AI 경제 데일리 브리핑</h1>
+      <p>지금 가장 뜨거운 국내·해외 경제 이슈부터 핵심 Q&amp;A까지, 4시간 주기로 빠르게 짚어드립니다.</p>
+    </div>
 
     <div class="update-caption">
       <span id="updated-at">🕒 <strong>최근 자동 업데이트:</strong> 불러오는 중...</span>

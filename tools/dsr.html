@@ -92,40 +92,50 @@
     .top-nav {
       display: flex; align-items: center; justify-content: space-between;
       flex-wrap: wrap; gap: 0.75rem;
-      padding-bottom: 0.9rem; margin-bottom: 1.2rem;
+      padding-bottom: 0.9rem; margin-bottom: 1.25rem;
       border-bottom: 2px solid var(--accent-blue);
     }
     .brand-link {
       text-decoration: none; color: var(--text-main);
       font-size: 1.35rem; font-weight: 800; letter-spacing: -0.02em;
+      white-space: nowrap;
     }
-    .nav-links { display: flex; flex-wrap: wrap; gap: 0.45rem; }
+    .nav-links { display: flex; flex-wrap: wrap; gap: 0.42rem; }
     .nav-links a {
       text-decoration: none; color: var(--text-muted);
-      font-size: 0.88rem; font-weight: 600;
-      padding: 0.4rem 0.75rem; border-radius: 7px;
-      border: 1px solid transparent; transition: all 0.15s;
+      font-size: 0.86rem; font-weight: 600;
+      padding: 0.38rem 0.72rem; border-radius: 7px;
+      border: 1px solid var(--border);
+      background: rgba(255, 255, 255, 0.03);
+      transition: all 0.15s ease;
+      white-space: nowrap;
     }
     .nav-links a:hover, .nav-links a.active {
       color: var(--text-main);
-      background: rgba(59, 130, 246, 0.14);
-      border-color: rgba(59, 130, 246, 0.35);
+      background: rgba(59, 130, 246, 0.16);
+      border-color: var(--accent-blue);
     }
     .tools-subnav {
-      display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1.3rem;
+      display: flex; gap: 1.4rem;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 1.25rem;
+      overflow-x: auto; scrollbar-width: none;
     }
+    .tools-subnav::-webkit-scrollbar { display: none; }
     .tools-subnav a {
-      text-decoration: none; font-size: 0.88rem; font-weight: 600;
-      padding: 0.5rem 0.9rem; border-radius: 8px;
-      background: var(--bg-card); color: var(--text-muted);
-      border: 1px solid var(--border); transition: all 0.15s;
+      text-decoration: none; font-size: 0.95rem; font-weight: 600;
+      padding: 0.65rem 0.2rem; color: var(--text-muted);
+      border-bottom: 2.5px solid transparent;
+      transition: color 0.15s ease, border-color 0.15s ease;
+      white-space: nowrap;
     }
-    .tools-subnav a.active, .tools-subnav a:hover {
-      color: #fff; border-color: var(--accent-blue);
-      background: rgba(59, 130, 246, 0.18);
+    .tools-subnav a:hover { color: var(--text-main); }
+    .tools-subnav a.active {
+      color: var(--accent-red);
+      border-bottom-color: var(--accent-red);
     }
-    .page-header { margin-bottom: 1.3rem; }
-    .page-header h1 { font-size: 1.55rem; margin: 0 0 0.35rem; }
+    .page-header { margin-bottom: 0.95rem; }
+    .page-header h1 { font-size: 1.55rem; font-weight: 800; margin: 0 0 0.32rem; letter-spacing: -0.02em; }
     .page-header p { margin: 0; color: var(--text-muted); font-size: 0.93rem; }
 
     /* 모드 스위치 */
@@ -337,24 +347,24 @@
     <header class="top-nav">
       <a href="../index.html" class="brand-link">⚡ ZIPPY 경제 브리핑</a>
       <nav class="nav-links" aria-label="주요 메뉴">
-        <a href="../index.html">오늘의 브리핑</a>
-        <a href="../archive/index.html">브리핑 아카이브</a>
-        <a href="../guide/index.html">경제·투자 가이드</a>
-        <a href="./dsr.html" class="active">DSR·금융 계산기</a>
-        <a href="../about.html">서비스 소개</a>
+        <a href="../index.html">⚡ 오늘의 브리핑</a>
+        <a href="../archive/index.html">🗂️ 브리핑 아카이브</a>
+        <a href="../guide/index.html">📘 경제·투자 가이드</a>
+        <a href="./dsr.html" class="active">🏦 DSR·금융 계산기</a>
+        <a href="../about.html">ℹ️ 서비스 소개</a>
       </nav>
     </header>
+
+    <div class="page-header">
+      <h1>🏦 DSR · 스트레스 DSR 대출 한도 계산기</h1>
+      <p>현재 정책 기준(스트레스 DSR 적용·미적용, 수도권 3.0% / 지방 0.75% 차등, 고정·주기형·혼합형·변동금리 가중치)을 완벽 반영한 시뮬레이터입니다.</p>
+    </div>
 
     <nav class="tools-subnav" aria-label="금융 계산기 메뉴">
       <a href="./dsr.html" class="active">🏦 DSR · 스트레스 DSR 계산기</a>
       <a href="./compound.html">📈 복리 · 적립식 수익률 계산기</a>
       <a href="./us-stock-tax.html">💵 해외주식 환차익 · 양도세 계산기</a>
     </nav>
-
-    <div class="page-header">
-      <h1>🏦 DSR · 스트레스 DSR 대출 한도 계산기</h1>
-      <p>현재 정책 기준(스트레스 DSR 적용·미적용, 수도권 3.0% / 지방 0.75% 차등, 고정·주기형·혼합형·변동금리 가중치)을 완벽 반영한 시뮬레이터입니다.</p>
-    </div>
 
     <!-- 모드 전환 -->
     <div class="mode-switch">
