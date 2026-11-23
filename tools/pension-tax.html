@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
+  <title>연금저축 · 퇴직연금(IRP) 세액공제 연말정산 환급액 계산기 (900만·1,200만 한도) | ⚡ ZIPPY</title>
+  <meta name="description" content="연금저축(최대 600만 원)과 퇴직연금 IRP(합산 최대 900만 원), ISA 만기 전환 자금(추가 300만 원) 납입 시 총급여 구간별(16.5% vs 13.2%) 연말정산 세액공제 환급액을 즉시 계산해 보세요." />
+  <meta name="keywords" content="연금저축 세액공제 계산기, IRP 세액공제 계산기, 연말정산 연금저축 IRP 900만원 환급액, ISA 만기 연금전환 세액공제, 퇴직연금 세액공제 한도" />
+  <link rel="canonical" href="https://zippy.kr/tools/pension-tax.html" />
+  <meta property="og:title" content="🛡️ 연금저축 · 퇴직연금(IRP) 세액공제 환급액 계산기 | ⚡ ZIPPY" />
+  <meta property="og:description" content="연금저축 600만 + IRP 300만(합산 900만 원) 납입 시 연말정산에서 돌려받는 최대 148만 5,000원 환급액을 계산합니다." />
+  <meta property="og:url" content="https://zippy.kr/tools/pension-tax.html" />
+  <meta property="og:type" content="website" />
+  <meta name="theme-color" content="#0e1117" />
+  <link rel="manifest" href="../manifest.json" />
+  <link rel="apple-touch-icon" href="../icons/icon-192.png" />
+  <link rel="icon" type="image/png" sizes="192x192" href="../icons/icon-192.png" />
+  <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-dynamic-subset.min.css" />
+  <meta name="google-adsense-account" content="ca-pub-8243997410078269" />
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8243997410078269" crossorigin="anonymous"></script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "SoftwareApplication",
+        "name": "ZIPPY 연금저축 및 퇴직연금(IRP) 세액공제 환급액 계산기",
+        "applicationCategory": "FinanceApplication",
+        "operatingSystem": "Web",
+        "url": "https://zippy.kr/tools/pension-tax.html",
+        "offers": { "@type": "Offer", "price": "0", "priceCurrency": "KRW" }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "연금저축과 IRP를 합쳐서 최대 얼마까지 세액공제를 받을 수 있나요?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "연금저축 단독으로는 연 600만 원까지, 퇴직연금(IRP)과 합산하면 연 최대 900만 원까지 세액공제 대상이 됩니다. 총급여 5,500만 원 이하 근로자는 16.5%(최대 148만 5,000원), 총급여 5,500만 원 초과 근로자는 13.2%(최대 118만 8,000원)를 환급받습니다. 추가로 ISA 만기 자금을 연금계좌로 이체할 경우 이체액의 10%(최대 300만 원)가 추가 공제되어 총 1,200만 원까지 공제받을 수 있습니다."
+            }
+          }
+        ]
+      }
+    ]
+  }
+  </script>
+
+  <style>
+    :root {
+      --bg: #0e1117; --bg-card: #161a23; --bg-input: #0b0e14;
+      --text-main: #fafafa; --text-muted: #94a3b8;
+      --border: rgba(250, 250, 250, 0.14);
+      --accent-blue: #3b82f6; --accent-red: #ff4b4b;
+      --neon-green: #3dd56d; --neon-green-bg: rgba(61, 213, 109, 0.14);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; padding: 0; background: var(--bg); color: var(--text-main);
+      font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+      line-height: 1.65; -webkit-font-smoothing: antialiased;
+    }
+    .container { max-width: 980px; margin: 0 auto; padding: 1.4rem 1.25rem 3.5rem; }
+    .top-nav {
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 0.75rem; padding-bottom: 0.9rem; margin-bottom: 1.25rem;
+      border-bottom: 2px solid var(--accent-blue);
+    }
+    .brand-link { text-decoration: none; color: var(--text-main); font-size: 1.35rem; font-weight: 800; letter-spacing: -0.02em; white-space: nowrap; }
+    .nav-links { display: flex; flex-wrap: wrap; gap: 0.42rem; }
+    .nav-links a {
+      text-decoration: none; color: var(--text-muted); font-size: 0.86rem; font-weight: 600;
+      padding: 0.38rem 0.72rem; border-radius: 7px; border: 1px solid var(--border);
+      background: rgba(255, 255, 255, 0.03); transition: all 0.15s ease; white-space: nowrap;
+    }
+    .nav-links a:hover, .nav-links a.active {
+      color: var(--text-main); background: rgba(59, 130, 246, 0.16); border-color: var(--accent-blue);
+    }
+    .page-header { margin-bottom: 0.95rem; }
+    .page-header h1 { font-size: 1.55rem; font-weight: 800; margin: 0 0 0.32rem; letter-spacing: -0.02em; }
+    .page-header p { margin: 0; color: var(--text-muted); font-size: 0.93rem; }
+    .tools-subnav {
+      display: flex; gap: 1.25rem; border-bottom: 1px solid var(--border);
+      margin-bottom: 1.25rem; overflow-x: auto; scrollbar-width: none;
+    }
+    .tools-subnav::-webkit-scrollbar { display: none; }
+    .tools-subnav a {
+      text-decoration: none; font-size: 0.92rem; font-weight: 600;
+      padding: 0.62rem 0.15rem; color: var(--text-muted);
+      border-bottom: 2.5px solid transparent; transition: all 0.15s ease; white-space: nowrap;
+    }
+    .tools-subnav a:hover { color: var(--text-main); }
+    .tools-subnav a.active { color: var(--accent-red); border-bottom-color: var(--accent-red); }
+
+    .calc-grid { display: grid; grid-template-columns: 1.02fr 0.98fr; gap: 1.25rem; align-items: start; }
+    @media (max-width: 840px) { .calc-grid { grid-template-columns: 1fr; } }
+    .panel { background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px; padding: 1.35rem; margin-bottom: 1.2rem; }
+    .panel-title { font-size: 1.04rem; font-weight: 700; margin: 0 0 1rem; padding-bottom: 0.55rem; border-bottom: 1px solid var(--border); }
+    .form-group { margin-bottom: 0.95rem; }
+    .form-label { display: flex; justify-content: space-between; align-items: center; font-size: 0.86rem; font-weight: 600; color: #cbd5e1; margin-bottom: 0.35rem; }
+    .form-hint { font-size: 0.78rem; color: var(--neon-green); font-weight: 600; }
+    .form-input, .form-select {
+      width: 100%; background: var(--bg-input); color: var(--text-main);
+      border: 1px solid var(--border); border-radius: 8px; padding: 0.6rem 0.75rem; font-size: 0.95rem; font-family: inherit;
+    }
+    .result-hero {
+      background: linear-gradient(145deg, rgba(59, 130, 246, 0.14), rgba(22, 26, 35, 0.95));
+      border: 1px solid rgba(59, 130, 246, 0.4); border-radius: 12px; padding: 1.25rem; margin-bottom: 1rem;
+    }
+    .hero-big { font-size: 1.95rem; font-weight: 800; margin: 0.25rem 0; color: var(--neon-green); }
+    .kpi-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; margin-bottom: 1rem; }
+    .kpi-card { background: rgba(255, 255, 255, 0.03); border: 1px solid var(--border); border-radius: 9px; padding: 0.85rem 0.95rem; }
+    .kpi-label { font-size: 0.77rem; color: var(--text-muted); margin-bottom: 0.22rem; }
+    .kpi-val { font-size: 1.1rem; font-weight: 800; }
+    .kpi-sub { font-size: 0.74rem; color: var(--text-muted); margin-top: 0.18rem; }
+    .table-wrap { overflow-x: auto; margin-top: 0.55rem; }
+    table.comp-table { width: 100%; border-collapse: collapse; font-size: 0.84rem; }
+    table.comp-table th, table.comp-table td { padding: 0.58rem; border-bottom: 1px solid var(--border); text-align: right; }
+    table.comp-table th:first-child, table.comp-table td:first-child { text-align: left; }
+    table.comp-table th { color: var(--text-muted); background: rgba(255, 255, 255, 0.03); }
+    .action-bar { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 0.9rem; }
+    .act-btn {
+      flex: 1; background: var(--bg-input); border: 1px solid var(--border); color: var(--text-main);
+      font-size: 0.83rem; font-weight: 600; padding: 0.58rem 0.75rem; border-radius: 8px; cursor: pointer; font-family: inherit;
+    }
+    .act-btn:hover { border-color: var(--accent-blue); }
+    .ad-banner-slot:empty { display: none; }
+    .guide-section h2 { font-size: 1.18rem; color: #60a5fa; border-left: 3px solid var(--accent-blue); padding-left: 0.65rem; margin: 1.5rem 0 0.6rem; }
+    .guide-section p, .guide-section li { font-size: 0.93rem; color: #e2e8f0; }
+    .footer { margin-top: 2.5rem; padding-top: 1.3rem; border-top: 1px solid var(--border); color: var(--text-muted); font-size: 0.82rem; text-align: center; }
+    .footer-links { display: flex; justify-content: center; flex-wrap: wrap; gap: 1.1rem; margin-bottom: 0.65rem; }
+    .footer-links a { color: var(--text-muted); text-decoration: none; font-size: 0.84rem; }
+    .footer-links a:hover { color: var(--text-main); text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="top-nav">
+      <a href="../index.html" class="brand-link">⚡ ZIPPY</a>
+      <nav class="nav-links" aria-label="주요 메뉴">
+        <a href="../index.html">⚡ 오늘의 브리핑</a>
+        <a href="../archive/index.html">🗂️ 브리핑 아카이브</a>
+        <a href="../guide/index.html">📘 경제·투자 가이드</a>
+        <a href="./dsr.html" class="active">🏦 DSR·금융 계산기</a>
+        <a href="../about.html">ℹ️ 서비스 소개</a>
+      </nav>
+    </header>
+
+    <div class="page-header">
+      <h1>🛡️ 연금저축 · 퇴직연금(IRP) 세액공제 연말정산 환급액 계산기</h1>
+      <p>연금저축(한도 600만 원) + IRP(합산 900만 원) + ISA 만기 전환액(추가 300만 원)에 대한 16.5% / 13.2% 연말정산 세액공제 환급금을 계산합니다.</p>
+    </div>
+
+    <nav class="tools-subnav" aria-label="금융 계산기 메뉴">
+      <a href="./dsr.html">🏦 DSR·스트레스 DSR</a>
+      <a href="./refinance.html">🔄 대환대출·수수료</a>
+      <a href="./jeonse-vs-rent.html">🏠 전세대출 vs 월세</a>
+      <a href="./stock-averaging.html">📉 주식 물타기·평단가</a>
+      <a href="./compound.html">📈 복리·적립식 수익률</a>
+      <a href="./us-stock-tax.html">💵 해외주식 환차익·양도세</a>
+      <a href="./dividend-tax.html">💰 월배당·종합과세</a>
+      <a href="./pension-tax.html" class="active">🛡️ 연금저축·IRP 세액공제</a>
+    </nav>
+
+    <div class="calc-grid">
+      <div>
+        <section class="panel">
+          <h2 class="panel-title">연말정산 소득 구간 및 연금 납입액 입력</h2>
+          <div class="form-group">
+            <label class="form-label">세전 연간 총급여 (또는 종합소득 기준)</label>
+            <select id="p-income-tier" class="form-select" onchange="calcPension()">
+              <option value="0.165" selected>총급여 5,500만 원 이하 / 종합소득 4,500만 이하 (16.5% 공제)</option>
+              <option value="0.132">총급여 5,500만 원 초과 / 종합소득 4,500만 초과 (13.2% 공제)</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label class="form-label"><span>올해 연금저축펀드 납입액 (만원)</span><span class="form-hint">단독 세액공제 한도 600만 원</span></label>
+            <input type="number" id="p-saving" class="form-input" value="600" min="0" max="1800" step="50" oninput="calcPension()" />
+          </div>
+          <div class="form-group">
+            <label class="form-label"><span>올해 퇴직연금(IRP) 납입액 (만원)</span><span class="form-hint">연금저축 합산 한도 900만 원</span></label>
+            <input type="number" id="p-irp" class="form-input" value="300" min="0" max="1800" step="50" oninput="calcPension()" />
+          </div>
+          <div class="form-group" style="margin-bottom:0;">
+            <label class="form-label"><span>ISA 만기 자금 연금계좌 전환액 (만원 · 선택)</span><span class="form-hint">전환액의 10% (최대 300만) 추가 공제</span></label>
+            <input type="number" id="p-isa-roll" class="form-input" value="0" min="0" step="100" oninput="calcPension()" />
+          </div>
+        </section>
+      </div>
+
+      <div>
+        <section class="panel">
+          <h2 class="panel-title">📌 올해 연말정산 예상 세액공제 환급액</h2>
+          <div class="result-hero">
+            <div style="font-size:0.82rem; color:#93c5fd; font-weight:600;" id="p-rate-badge">적용 세액공제율: 16.5% (지방소득세 포함)</div>
+            <div class="hero-big" id="p-refund-won">1,485,000원 환급</div>
+            <div style="font-size:0.85rem; color:#cbd5e1;" id="p-hero-sub">
+              세액공제 인정 금액: 900만 원 (기본 한도 100% 달성!)
+            </div>
+          </div>
+
+          <div class="kpi-grid">
+            <div class="kpi-card">
+              <div class="kpi-label">연금저축 공제 인정액</div>
+              <div class="kpi-val" id="p-rec-saving">600만 원</div>
+              <div class="kpi-sub">단독 최대 600만 원 한도</div>
+            </div>
+            <div class="kpi-card">
+              <div class="kpi-label">IRP 추가 공제 인정액</div>
+              <div class="kpi-val" id="p-rec-irp" style="color:#60a5fa;">300만 원</div>
+              <div class="kpi-sub">합산 900만 원 범위 내</div>
+            </div>
+            <div class="kpi-card">
+              <div class="kpi-label">ISA 만기 전환 추가 공제액</div>
+              <div class="kpi-val" id="p-rec-isa">0만 원</div>
+              <div class="kpi-sub">전환액의 10% (최대 300만)</div>
+            </div>
+            <div class="kpi-card">
+              <div class="kpi-label">남은 기본 공제 한도 (추가 여력)</div>
+              <div class="kpi-val" id="p-rem-limit" style="color:var(--neon-green);">0만 원</div>
+              <div class="kpi-sub" id="p-rem-refund">추가 환급 가능액: 0원</div>
+            </div>
+          </div>
+
+          <div class="ad-banner-slot" id="ad-slot-result"></div>
+
+          <h3 style="font-size:0.93rem; margin: 1rem 0 0.35rem;">📊 납입 시나리오별 연말정산 환급액 비교</h3>
+          <div class="table-wrap">
+            <table class="comp-table">
+              <thead>
+                <tr>
+                  <th>납입 구성</th>
+                  <th>공제 인정액</th>
+                  <th>5,500만 이하 (16.5%)</th>
+                  <th>5,500만 초과 (13.2%)</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>연금저축 600만 단독</td>
+                  <td>600만 원</td>
+                  <td>990,000원</td>
+                  <td>792,000원</td>
+                </tr>
+                <tr style="background:rgba(59,130,246,0.14); font-weight:700;">
+                  <td>연금저축 600만 + IRP 300만 (표준)</td>
+                  <td>900만 원</td>
+                  <td style="color:var(--neon-green);">1,485,000원</td>
+                  <td style="color:#60a5fa;">1,188,000원</td>
+                </tr>
+                <tr>
+                  <td>900만 + ISA 만기 3,000만 전환</td>
+                  <td>1,200만 원</td>
+                  <td>1,980,000원</td>
+                  <td>1,584,000원</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div class="action-bar">
+            <button type="button" class="act-btn" onclick="copyPenSummary(this)">📋 결과 텍스트 복사</button>
+            <button type="button" class="act-btn" onclick="sharePenUrl(this)">🔗 이 조건 링크로 공유</button>
+          </div>
+        </section>
+      </div>
+    </div>
+
+    <section class="panel guide-section">
+      <h2>📘 왜 'IRP 900만 원'보다 '연금저축 600만 + IRP 300만' 조합이 유리할까?</h2>
+      <ul>
+        <li><strong>중도 인출 유연성 차이:</strong> 연금저축펀드는 급전이 필요할 때 계좌를 해지하지 않고도 세액공제받지 않은 원금이나 일부 금액을 중도 인출할 수 있지만, 퇴직연금(IRP)은 법정 사유(무주택자 주택 구입, 장기 요양 등) 외에는 일부 인출이 불가능하고 전액 해지해야 합니다.</li>
+        <li><strong>투자 가능 자산 범위:</strong> IRP는 규정상 전체 자산의 최소 30%를 안전자산(예금·채권·TDF 등)에 의무 배분해야 하지만, 연금저축펀드는 S&amp;P500·나스닥100 등 주식형 ETF에 100% 투자할 수 있습니다. 따라서 <strong>연금저축에 600만 원을 먼저 채우고 나머지 300만 원만 IRP에 납입</strong>하는 것이 가장 효율적입니다.</li>
+      </ul>
+    </section>
+
+    <footer class="footer">
+      <div class="footer-links">
+        <a href="../index.html">오늘의 브리핑</a>
+        <a href="../archive/index.html">브리핑 아카이브</a>
+        <a href="../guide/index.html">경제 가이드</a>
+        <a href="./dsr.html">DSR·금융 계산기</a>
+        <a href="../about.html">서비스 소개</a>
+        <a href="../privacy.html">개인정보처리방침</a>
+        <a href="../terms.html">이용약관 및 면책고지</a>
+        <a href="../contact.html">문의 및 정정요청</a>
+      </div>
+      <div>© ZIPPY Economy Briefing (zippy.kr). All rights reserved.</div>
+    </footer>
+  </div>
+
+  <script>
+    window.calcPension = function() {
+      const rate = Number(document.getElementById("p-income-tier").value) || 0.165;
+      const savingMan = Math.max(0, Number(document.getElementById("p-saving").value) || 0);
+      const irpMan = Math.max(0, Number(document.getElementById("p-irp").value) || 0);
+      const isaRollMan = Math.max(0, Number(document.getElementById("p-isa-roll").value) || 0);
+
+      const recSaving = Math.min(600, savingMan);
+      const recIrp = Math.min(900 - recSaving, irpMan);
+      const recBaseTotal = recSaving + recIrp;
+      const recIsaAdd = Math.min(300, isaRollMan * 0.1);
+      const totalCreditedMan = recBaseTotal + recIsaAdd;
+
+      const refundWon = Math.round(totalCreditedMan * 10000 * rate);
+      const remLimitMan = Math.max(0, 900 - recBaseTotal);
+      const remRefundWon = Math.round(remLimitMan * 10000 * rate);
+
+      document.getElementById("p-rate-badge").textContent =
+        `적용 세액공제율: ${(rate * 100).toFixed(1)}% (지방소득세 포함)`;
+      document.getElementById("p-refund-won").textContent = `${refundWon.toLocaleString()}원 환급`;
+      document.getElementById("p-hero-sub").textContent =
+        remLimitMan > 0
+          ? `세액공제 인정액: ${totalCreditedMan.toFixed(0)}만 원 (연말까지 ${remLimitMan}만 원 더 넣으면 +${remRefundWon.toLocaleString()}원 추가 환급!)`
+          : `세액공제 인정액: ${totalCreditedMan.toFixed(0)}만 원 (연간 기본 한도 900만 원 100% 달성!)`;
+
+      document.getElementById("p-rec-saving").textContent = `${recSaving}만 원`;
+      document.getElementById("p-rec-irp").textContent = `${recIrp}만 원`;
+      document.getElementById("p-rec-isa").textContent = `${recIsaAdd.toFixed(0)}만 원`;
+      document.getElementById("p-rem-limit").textContent = `${remLimitMan}만 원`;
+      document.getElementById("p-rem-refund").textContent = `추가 환급 가능액: +${remRefundWon.toLocaleString()}원`;
+    };
+
+    window.copyPenSummary = async function(btn) {
+      const text = `[⚡ ZIPPY 연금저축·IRP 세액공제 계산 결과]\n- 연금저축 납입: ${document.getElementById("p-saving").value}만 원 / IRP 납입: ${document.getElementById("p-irp").value}만 원\n- ${document.getElementById("p-rate-badge").textContent}\n- 예상 연말정산 환급액: ${document.getElementById("p-refund-won").textContent}\n- 계산기: https://zippy.kr/tools/pension-tax.html`;
+      try {
+        await navigator.clipboard.writeText(text);
+        const orig = btn.textContent;
+        btn.textContent = "✅ 복사 완료!";
+        setTimeout(() => { btn.textContent = orig; }, 2000);
+      } catch (e) {}
+    };
+
+    window.sharePenUrl = async function(btn) {
+      const params = new URLSearchParams({
+        tier: document.getElementById("p-income-tier").value,
+        sav: document.getElementById("p-saving").value,
+        irp: document.getElementById("p-irp").value,
+        isa: document.getElementById("p-isa-roll").value
+      });
+      const url = `${location.origin}${location.pathname}?${params.toString()}`;
+      try {
+        await navigator.clipboard.writeText(url);
+        const orig = btn.textContent;
+        btn.textContent = "✅ 공유 링크가 복사됨!";
+        setTimeout(() => { btn.textContent = orig; }, 2000);
+      } catch (e) {}
+    };
+
+    (function initFromQuery() {
+      const q = new URLSearchParams(location.search);
+      if (q.get("tier")) document.getElementById("p-income-tier").value = q.get("tier");
+      if (q.get("sav")) document.getElementById("p-saving").value = q.get("sav");
+      if (q.get("irp")) document.getElementById("p-irp").value = q.get("irp");
+      if (q.get("isa")) document.getElementById("p-isa-roll").value = q.get("isa");
+      calcPension();
+    })();
+  </script>
+</body>
+</html>

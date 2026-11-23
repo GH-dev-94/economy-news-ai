@@ -902,6 +902,39 @@
         ? `<span class="kw-badge" style="background:rgba(59,130,246,0.16); color:#93c5fd;">${escapeHtml(periodLabel)}</span>`
         : "";
 
+      const fullCtx = `${kw} ${headline} ${facts.join(" ")}`;
+      let ctaHref = "./tools/compound.html";
+      let ctaLabel = "📈 적립식 복리 투자 수익률 시뮬레이션 해보기 →";
+      if (/전세|월세|임대차/.test(fullCtx)) {
+        ctaHref = "./tools/jeonse-vs-rent.html";
+        ctaLabel = "🏠 전세대출 이자 vs 월세 전환율 유불리 비교하기 →";
+      } else if (/대환|갈아타기|중도상환/.test(fullCtx)) {
+        ctaHref = "./tools/refinance.html";
+        ctaLabel = "🔄 주담대 갈아타기(대환) 손익분기점 & 중도상환수수료 계산하기 →";
+      } else if (/주담대|대출|DSR|가계부채|부동산|아파트|집값|공시가|보유세|금리/.test(fullCtx)) {
+        ctaHref = "./tools/dsr.html";
+        ctaLabel = "🏦 내 소득 기준 2026 스트레스 DSR 대출 한도 계산해 보기 →";
+      } else if (/연금|퇴직|IRP|연말정산|세액공제|ISA/.test(fullCtx)) {
+        ctaHref = "./tools/pension-tax.html";
+        ctaLabel = "🛡️ 연금저축·IRP 연말정산 세액공제 환급액 계산하기 →";
+      } else if (/배당|커버드콜|SCHD|금융소득/.test(fullCtx)) {
+        ctaHref = "./tools/dividend-tax.html";
+        ctaLabel = "💰 월배당 현금흐름 & 금융소득종합과세(2,000만 원) 계산하기 →";
+      } else if (/서학개미|미국주식|나스닥|엔비디아|테슬라|환율|달러|뉴욕증시/.test(fullCtx)) {
+        ctaHref = "./tools/us-stock-tax.html";
+        ctaLabel = "💵 환율 변동 반영 해외주식 환차익·양도소득세 계산하기 →";
+      } else if (/급락|폭락|투매|신저가|패닉셀|사이드카|코스피/.test(fullCtx)) {
+        ctaHref = "./tools/stock-averaging.html";
+        ctaLabel = "📉 하락장 주식 물타기(평단가) & 본전 회복 상승률 계산하기 →";
+      }
+      const ctaHtml = `
+        <div style="margin-top:0.85rem; padding-top:0.7rem; border-top:1px dashed rgba(250,250,250,0.12);">
+          <a href="${ctaHref}" style="display:inline-block; color:#60a5fa; font-size:0.86rem; font-weight:700; text-decoration:none;">
+            ${ctaLabel}
+          </a>
+        </div>
+      `;
+
       return `
         <article class="expander-card ${defaultOpen ? 'open' : ''}" id="card-${idx}">
           <div class="expander-header" role="button" tabindex="0" onclick="toggleExpander(this)">
@@ -926,6 +959,7 @@
 
             ${watchHtml}
             ${artsHtml}
+            ${ctaHtml}
           </div>
         </article>
       `;

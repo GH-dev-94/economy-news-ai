@@ -110,9 +110,14 @@
     </div>
 
     <nav class="tools-subnav" aria-label="금융 계산기 메뉴">
-      <a href="./dsr.html">🏦 DSR · 스트레스 DSR 계산기</a>
-      <a href="./compound.html" class="active">📈 복리 · 적립식 수익률 계산기</a>
-      <a href="./us-stock-tax.html">💵 해외주식 환차익 · 양도세 계산기</a>
+      <a href="./dsr.html">🏦 DSR·스트레스 DSR</a>
+      <a href="./refinance.html">🔄 대환대출·수수료</a>
+      <a href="./jeonse-vs-rent.html">🏠 전세대출 vs 월세</a>
+      <a href="./stock-averaging.html">📉 주식 물타기·평단가</a>
+      <a href="./compound.html" class="active">📈 복리·적립식 수익률</a>
+      <a href="./us-stock-tax.html">💵 해외주식 환차익·양도세</a>
+      <a href="./dividend-tax.html">💰 월배당·종합과세</a>
+      <a href="./pension-tax.html">🛡️ 연금저축·IRP 세액공제</a>
     </nav>
 
     <div class="calc-grid">
@@ -177,6 +182,9 @@
             </thead>
             <tbody id="compound-tbody"></tbody>
           </table>
+        </div>
+        <div style="display:flex; gap:0.5rem; margin-top:0.85rem;">
+          <button type="button" style="flex:1; background:var(--bg-input); border:1px solid var(--border); color:var(--text-main); font-size:0.83rem; font-weight:600; padding:0.58rem; border-radius:8px; cursor:pointer; font-family:inherit;" onclick="shareCompoundUrl(this)">🔗 이 조건 링크로 공유</button>
         </div>
       </section>
     </div>
@@ -268,7 +276,31 @@
         </tr>
       `).join("");
     };
-    calcCompound();
+
+    window.shareCompoundUrl = async function(btn) {
+      const params = new URLSearchParams({
+        init: document.getElementById("init-amt").value,
+        mo: document.getElementById("monthly-amt").value,
+        ret: document.getElementById("annual-return").value,
+        yr: document.getElementById("invest-years").value
+      });
+      const url = `${location.origin}${location.pathname}?${params.toString()}`;
+      try {
+        await navigator.clipboard.writeText(url);
+        const orig = btn.textContent;
+        btn.textContent = "✅ 공유 링크가 복사됨!";
+        setTimeout(() => { btn.textContent = orig; }, 2000);
+      } catch (e) {}
+    };
+
+    (function initFromQuery() {
+      const q = new URLSearchParams(location.search);
+      if (q.get("init")) document.getElementById("init-amt").value = q.get("init");
+      if (q.get("mo")) document.getElementById("monthly-amt").value = q.get("mo");
+      if (q.get("ret")) document.getElementById("annual-return").value = q.get("ret");
+      if (q.get("yr")) document.getElementById("invest-years").value = q.get("yr");
+      calcCompound();
+    })();
   </script>
 </body>
 </html>

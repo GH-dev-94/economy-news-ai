@@ -101,9 +101,14 @@
     </div>
 
     <nav class="tools-subnav" aria-label="금융 계산기 메뉴">
-      <a href="./dsr.html">🏦 DSR · 스트레스 DSR 계산기</a>
-      <a href="./compound.html">📈 복리 · 적립식 수익률 계산기</a>
-      <a href="./us-stock-tax.html" class="active">💵 해외주식 환차익 · 양도세 계산기</a>
+      <a href="./dsr.html">🏦 DSR·스트레스 DSR</a>
+      <a href="./refinance.html">🔄 대환대출·수수료</a>
+      <a href="./jeonse-vs-rent.html">🏠 전세대출 vs 월세</a>
+      <a href="./stock-averaging.html">📉 주식 물타기·평단가</a>
+      <a href="./compound.html">📈 복리·적립식 수익률</a>
+      <a href="./us-stock-tax.html" class="active">💵 해외주식 환차익·양도세</a>
+      <a href="./dividend-tax.html">💰 월배당·종합과세</a>
+      <a href="./pension-tax.html">🛡️ 연금저축·IRP 세액공제</a>
     </nav>
 
     <div class="calc-grid">
@@ -163,6 +168,9 @@
           <div class="kpi-label">세후 최종 실수령 매도금액 (세후 순수익률)</div>
           <div class="kpi-val" id="u-net-proceeds" style="font-size:1.3rem; color:var(--neon-green);">0원</div>
         </div>
+        <div style="display:flex; gap:0.5rem; margin-top:0.85rem;">
+          <button type="button" style="flex:1; background:var(--bg-input); border:1px solid var(--border); color:var(--text-main); font-size:0.83rem; font-weight:600; padding:0.58rem; border-radius:8px; cursor:pointer; font-family:inherit;" onclick="shareUsTaxUrl(this)">🔗 이 조건 링크로 공유</button>
+        </div>
       </section>
     </div>
 
@@ -218,7 +226,33 @@
       document.getElementById("u-fx-gain").textContent = `${fxEffectKrw >= 0 ? '+' : ''}${Math.round(fxEffectKrw).toLocaleString()}원`;
       document.getElementById("u-net-proceeds").textContent = `${Math.round(sellKrw - tax).toLocaleString()}원 (세후 수익률 ${netRoi}%)`;
     };
-    calcUsTax();
+
+    window.shareUsTaxUrl = async function(btn) {
+      const params = new URLSearchParams({
+        bu: document.getElementById("buy-usd").value,
+        su: document.getElementById("sell-usd").value,
+        q: document.getElementById("qty").value,
+        bf: document.getElementById("buy-fx").value,
+        sf: document.getElementById("sell-fx").value
+      });
+      const url = `${location.origin}${location.pathname}?${params.toString()}`;
+      try {
+        await navigator.clipboard.writeText(url);
+        const orig = btn.textContent;
+        btn.textContent = "✅ 공유 링크가 복사됨!";
+        setTimeout(() => { btn.textContent = orig; }, 2000);
+      } catch (e) {}
+    };
+
+    (function initFromQuery() {
+      const q = new URLSearchParams(location.search);
+      if (q.get("bu")) document.getElementById("buy-usd").value = q.get("bu");
+      if (q.get("su")) document.getElementById("sell-usd").value = q.get("su");
+      if (q.get("q")) document.getElementById("qty").value = q.get("q");
+      if (q.get("bf")) document.getElementById("buy-fx").value = q.get("bf");
+      if (q.get("sf")) document.getElementById("sell-fx").value = q.get("sf");
+      calcUsTax();
+    })();
   </script>
 </body>
 </html>

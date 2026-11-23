@@ -361,9 +361,14 @@
     </div>
 
     <nav class="tools-subnav" aria-label="금융 계산기 메뉴">
-      <a href="./dsr.html" class="active">🏦 DSR · 스트레스 DSR 계산기</a>
-      <a href="./compound.html">📈 복리 · 적립식 수익률 계산기</a>
-      <a href="./us-stock-tax.html">💵 해외주식 환차익 · 양도세 계산기</a>
+      <a href="./dsr.html" class="active">🏦 DSR·스트레스 DSR</a>
+      <a href="./refinance.html">🔄 대환대출·수수료</a>
+      <a href="./jeonse-vs-rent.html">🏠 전세대출 vs 월세</a>
+      <a href="./stock-averaging.html">📉 주식 물타기·평단가</a>
+      <a href="./compound.html">📈 복리·적립식 수익률</a>
+      <a href="./us-stock-tax.html">💵 해외주식 환차익·양도세</a>
+      <a href="./dividend-tax.html">💰 월배당·종합과세</a>
+      <a href="./pension-tax.html">🛡️ 연금저축·IRP 세액공제</a>
     </nav>
 
     <!-- 모드 전환 -->
@@ -665,6 +670,7 @@
 
           <div class="action-bar">
             <button type="button" class="act-btn" onclick="copyDsrSummary(this)">📋 결과 텍스트 복사</button>
+            <button type="button" class="act-btn" onclick="shareDsrUrl(this)">🔗 이 조건 링크 공유</button>
             <button type="button" class="act-btn" onclick="saveDsrScenario(this)">💾 현재 조건 저장</button>
             <button type="button" class="act-btn" onclick="resetDsrScenario(this)">🔄 기본값 초기화</button>
           </div>
@@ -1272,6 +1278,22 @@
       setTimeout(() => { btn.textContent = orig; }, 1800);
     };
 
+    window.shareDsrUrl = async function(btn) {
+      const params = new URLSearchParams({
+        inc: document.getElementById("annual-income").value,
+        amt: document.getElementById("new-loan-amount").value,
+        rate: document.getElementById("new-loan-rate").value,
+        yr: document.getElementById("new-loan-years").value
+      });
+      const url = `${location.origin}${location.pathname}?${params.toString()}`;
+      try {
+        await navigator.clipboard.writeText(url);
+        const orig = btn.textContent;
+        btn.textContent = "✅ 공유 링크가 복사됨!";
+        setTimeout(() => { btn.textContent = orig; }, 2000);
+      } catch (e) {}
+    };
+
     (function loadSavedScenario() {
       try {
         const raw = localStorage.getItem("zippy_dsr_scenario");
@@ -1287,6 +1309,11 @@
             renderExistingLoans();
           }
         }
+        const q = new URLSearchParams(location.search);
+        if (q.get("inc")) document.getElementById("annual-income").value = q.get("inc");
+        if (q.get("amt")) document.getElementById("new-loan-amount").value = q.get("amt");
+        if (q.get("rate")) document.getElementById("new-loan-rate").value = q.get("rate");
+        if (q.get("yr")) document.getElementById("new-loan-years").value = q.get("yr");
       } catch (e) {}
       recalcDSR();
     })();

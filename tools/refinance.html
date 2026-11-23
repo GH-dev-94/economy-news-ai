@@ -1,0 +1,521 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
+  <title>주택담보대출 갈아타기(대환대출) 이자 절감 &amp; 중도상환수수료 계산기 (2026 개편 반영) | ⚡ ZIPPY</title>
+  <meta name="description" content="2025~2026 금융위원회 중도상환수수료 인하(0.65% 수준) 및 잔존일수 비례 감면, 연간 10% 면제 한도, 인지세를 모두 반영하여 대환대출(갈아타기) 손익분기점과 월 이자 절감액을 계산해 보세요." />
+  <meta name="keywords" content="대환대출 계산기, 주담대 갈아타기 계산기, 중도상환수수료 계산기, 주담대 중도상환수수료 0.65%, 대출 갈아타기 손익분기점, 이자 절감 계산기" />
+  <link rel="canonical" href="https://zippy.kr/tools/refinance.html" />
+  <meta property="og:title" content="🔄 주담대 갈아타기(대환대출) &amp; 중도상환수수료 계산기 | ⚡ ZIPPY" />
+  <meta property="og:description" content="중도상환수수료를 내고 지금 갈아타도 이득인지 손익분기점(개월)과 총 순절감액을 즉시 계산합니다." />
+  <meta property="og:url" content="https://zippy.kr/tools/refinance.html" />
+  <meta property="og:type" content="website" />
+  <meta name="theme-color" content="#0e1117" />
+  <link rel="manifest" href="../manifest.json" />
+  <link rel="apple-touch-icon" href="../icons/icon-192.png" />
+  <link rel="icon" type="image/png" sizes="192x192" href="../icons/icon-192.png" />
+  <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-dynamic-subset.min.css" />
+  <meta name="google-adsense-account" content="ca-pub-8243997410078269" />
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8243997410078269" crossorigin="anonymous"></script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "SoftwareApplication",
+        "name": "ZIPPY 대환대출(갈아타기) 및 중도상환수수료 손익분기점 계산기",
+        "applicationCategory": "FinanceApplication",
+        "operatingSystem": "Web",
+        "url": "https://zippy.kr/tools/refinance.html",
+        "offers": { "@type": "Offer", "price": "0", "priceCurrency": "KRW" }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "중도상환수수료는 어떻게 계산되나요?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "중도상환수수료는 '중도상환 원금 × 중도상환수수료율 × (3년 중 잔존일수 ÷ 1,095일)' 공식으로 계산됩니다. 대출 실행일로부터 3년(36개월)이 경과하면 전액 면제되며, 2025년 1월 중순 이후 신규 실행된 시중은행 주담대는 실비용 반영 개편에 따라 수수료율이 평균 0.65% 수준으로 인하되었습니다."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "금리가 몇 %p 이상 낮아져야 대환대출(갈아타기)이 유리한가요?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "중도상환수수료율이 0.65% 수준으로 낮아진 최근 대출은 남은 부과 기간이 2년 이하일 경우 금리가 0.3~0.4%p만 낮아져도 약 1년 이내에 수수료 본전(손익분기점)을 회수할 수 있습니다. 기존 1.2~1.4% 수수료율 대출은 통상 0.5~0.7%p 이상 금리 차이가 날 때 유리합니다."
+            }
+          }
+        ]
+      }
+    ]
+  }
+  </script>
+
+  <style>
+    :root {
+      --bg: #0e1117; --bg-card: #161a23; --bg-input: #0b0e14;
+      --text-main: #fafafa; --text-muted: #94a3b8;
+      --border: rgba(250, 250, 250, 0.14);
+      --accent-blue: #3b82f6; --accent-red: #ff4b4b; --accent-amber: #f59e0b;
+      --neon-green: #3dd56d; --neon-green-bg: rgba(61, 213, 109, 0.14);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; padding: 0; background: var(--bg); color: var(--text-main);
+      font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+      line-height: 1.65; -webkit-font-smoothing: antialiased;
+    }
+    .container { max-width: 980px; margin: 0 auto; padding: 1.4rem 1.25rem 3.5rem; }
+    .top-nav {
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 0.75rem; padding-bottom: 0.9rem; margin-bottom: 1.25rem;
+      border-bottom: 2px solid var(--accent-blue);
+    }
+    .brand-link { text-decoration: none; color: var(--text-main); font-size: 1.35rem; font-weight: 800; letter-spacing: -0.02em; white-space: nowrap; }
+    .nav-links { display: flex; flex-wrap: wrap; gap: 0.42rem; }
+    .nav-links a {
+      text-decoration: none; color: var(--text-muted); font-size: 0.86rem; font-weight: 600;
+      padding: 0.38rem 0.72rem; border-radius: 7px; border: 1px solid var(--border);
+      background: rgba(255, 255, 255, 0.03); transition: all 0.15s ease; white-space: nowrap;
+    }
+    .nav-links a:hover, .nav-links a.active {
+      color: var(--text-main); background: rgba(59, 130, 246, 0.16); border-color: var(--accent-blue);
+    }
+    .page-header { margin-bottom: 0.95rem; }
+    .page-header h1 { font-size: 1.55rem; font-weight: 800; margin: 0 0 0.32rem; letter-spacing: -0.02em; }
+    .page-header p { margin: 0; color: var(--text-muted); font-size: 0.93rem; }
+    .tools-subnav {
+      display: flex; gap: 1.25rem; border-bottom: 1px solid var(--border);
+      margin-bottom: 1.25rem; overflow-x: auto; scrollbar-width: none;
+    }
+    .tools-subnav::-webkit-scrollbar { display: none; }
+    .tools-subnav a {
+      text-decoration: none; font-size: 0.92rem; font-weight: 600;
+      padding: 0.62rem 0.15rem; color: var(--text-muted);
+      border-bottom: 2.5px solid transparent; transition: all 0.15s ease; white-space: nowrap;
+    }
+    .tools-subnav a:hover { color: var(--text-main); }
+    .tools-subnav a.active { color: var(--accent-red); border-bottom-color: var(--accent-red); }
+
+    .calc-grid { display: grid; grid-template-columns: 1.05fr 0.95fr; gap: 1.25rem; align-items: start; }
+    @media (max-width: 840px) { .calc-grid { grid-template-columns: 1fr; } }
+    .panel { background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px; padding: 1.35rem; margin-bottom: 1.2rem; }
+    .panel-title { font-size: 1.04rem; font-weight: 700; margin: 0 0 1rem; padding-bottom: 0.55rem; border-bottom: 1px solid var(--border); }
+    .form-group { margin-bottom: 0.95rem; }
+    .form-label { display: flex; justify-content: space-between; align-items: center; font-size: 0.86rem; font-weight: 600; color: #cbd5e1; margin-bottom: 0.35rem; }
+    .form-hint { font-size: 0.78rem; color: var(--neon-green); font-weight: 600; }
+    .form-input, .form-select {
+      width: 100%; background: var(--bg-input); color: var(--text-main);
+      border: 1px solid var(--border); border-radius: 8px; padding: 0.6rem 0.75rem; font-size: 0.95rem; font-family: inherit;
+    }
+    .form-input:focus, .form-select:focus { outline: none; border-color: var(--accent-blue); }
+    .radio-pills { display: grid; grid-template-columns: 1fr 1fr; gap: 0.45rem; }
+    .pill-btn {
+      background: var(--bg-input); border: 1px solid var(--border); color: var(--text-muted);
+      font-size: 0.82rem; font-weight: 600; padding: 0.5rem; border-radius: 7px; cursor: pointer; font-family: inherit;
+    }
+    .pill-btn.active { background: rgba(59, 130, 246, 0.18); color: #fff; border-color: var(--accent-blue); }
+    .pill-sub { display: block; font-size: 0.71rem; color: var(--text-muted); font-weight: 400; margin-top: 0.1rem; }
+    .pill-btn.active .pill-sub { color: #93c5fd; }
+
+    .result-hero {
+      background: linear-gradient(145deg, rgba(59, 130, 246, 0.14), rgba(22, 26, 35, 0.95));
+      border: 1px solid rgba(59, 130, 246, 0.4); border-radius: 12px; padding: 1.25rem; margin-bottom: 1rem;
+    }
+    .hero-big { font-size: 1.85rem; font-weight: 800; margin: 0.25rem 0; }
+    .status-badge { display: inline-block; font-size: 0.8rem; font-weight: 700; padding: 0.22rem 0.6rem; border-radius: 6px; }
+    .status-pass { background: var(--neon-green-bg); color: var(--neon-green); border: 1px solid rgba(61, 213, 109, 0.35); }
+    .status-fail { background: rgba(255, 75, 75, 0.16); color: #f87171; border: 1px solid rgba(255, 75, 75, 0.4); }
+
+    .kpi-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; margin-bottom: 1rem; }
+    .kpi-card { background: rgba(255, 255, 255, 0.03); border: 1px solid var(--border); border-radius: 9px; padding: 0.85rem 0.95rem; }
+    .kpi-label { font-size: 0.77rem; color: var(--text-muted); margin-bottom: 0.22rem; }
+    .kpi-val { font-size: 1.1rem; font-weight: 800; }
+    .kpi-sub { font-size: 0.74rem; color: var(--text-muted); margin-top: 0.18rem; }
+
+    .table-wrap { overflow-x: auto; margin-top: 0.55rem; }
+    table.comp-table { width: 100%; border-collapse: collapse; font-size: 0.84rem; }
+    table.comp-table th, table.comp-table td { padding: 0.58rem; border-bottom: 1px solid var(--border); text-align: right; }
+    table.comp-table th:first-child, table.comp-table td:first-child { text-align: left; }
+    table.comp-table th { color: var(--text-muted); background: rgba(255, 255, 255, 0.03); }
+
+    .action-bar { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 0.9rem; }
+    .act-btn {
+      flex: 1; background: var(--bg-input); border: 1px solid var(--border); color: var(--text-main);
+      font-size: 0.83rem; font-weight: 600; padding: 0.58rem 0.75rem; border-radius: 8px; cursor: pointer; font-family: inherit;
+    }
+    .act-btn:hover { border-color: var(--accent-blue); }
+    .ad-banner-slot:empty { display: none; }
+    .guide-section h2 { font-size: 1.18rem; color: #60a5fa; border-left: 3px solid var(--accent-blue); padding-left: 0.65rem; margin: 1.5rem 0 0.6rem; }
+    .guide-section p, .guide-section li { font-size: 0.93rem; color: #e2e8f0; }
+    .footer { margin-top: 2.5rem; padding-top: 1.3rem; border-top: 1px solid var(--border); color: var(--text-muted); font-size: 0.82rem; text-align: center; }
+    .footer-links { display: flex; justify-content: center; flex-wrap: wrap; gap: 1.1rem; margin-bottom: 0.65rem; }
+    .footer-links a { color: var(--text-muted); text-decoration: none; font-size: 0.84rem; }
+    .footer-links a:hover { color: var(--text-main); text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="top-nav">
+      <a href="../index.html" class="brand-link">⚡ ZIPPY</a>
+      <nav class="nav-links" aria-label="주요 메뉴">
+        <a href="../index.html">⚡ 오늘의 브리핑</a>
+        <a href="../archive/index.html">🗂️ 브리핑 아카이브</a>
+        <a href="../guide/index.html">📘 경제·투자 가이드</a>
+        <a href="./dsr.html" class="active">🏦 DSR·금융 계산기</a>
+        <a href="../about.html">ℹ️ 서비스 소개</a>
+      </nav>
+    </header>
+
+    <div class="page-header">
+      <h1>🔄 주택담보대출 갈아타기(대환대출) &amp; 중도상환수수료 계산기</h1>
+      <p>중도상환수수료(2025~2026 인하 요율 0.65% 및 잔존기간 비례 감면, 연간 10% 면제)와 인지세를 내고도 몇 개월 만에 이득인지 손익분기점을 계산합니다.</p>
+    </div>
+
+    <nav class="tools-subnav" aria-label="금융 계산기 메뉴">
+      <a href="./dsr.html">🏦 DSR·스트레스 DSR</a>
+      <a href="./refinance.html" class="active">🔄 대환대출·수수료</a>
+      <a href="./jeonse-vs-rent.html">🏠 전세대출 vs 월세</a>
+      <a href="./stock-averaging.html">📉 주식 물타기·평단가</a>
+      <a href="./compound.html">📈 복리·적립식 수익률</a>
+      <a href="./us-stock-tax.html">💵 해외주식 환차익·양도세</a>
+      <a href="./dividend-tax.html">💰 월배당·종합과세</a>
+      <a href="./pension-tax.html">🛡️ 연금저축·IRP 세액공제</a>
+    </nav>
+
+    <div class="calc-grid">
+      <div>
+        <section class="panel">
+          <h2 class="panel-title">1. 현재 보유 대출 &amp; 갈아탈 금리 조건</h2>
+          <div class="form-group">
+            <label class="form-label"><span>대환할 대출 잔액 (만원)</span><span class="form-hint" id="ref-amt-kr">3억 5,000만 원</span></label>
+            <input type="number" id="ref-amount" class="form-input" value="35000" min="100" step="500" oninput="calcRefinance()" />
+          </div>
+          <div style="display:grid; grid-template-columns:1fr 1fr; gap:0.7rem;">
+            <div class="form-group">
+              <label class="form-label">기존 대출 금리 (연 %)</label>
+              <input type="number" id="old-rate" class="form-input" value="4.85" step="0.05" oninput="calcRefinance()" />
+            </div>
+            <div class="form-group">
+              <label class="form-label">갈아탈 신규 금리 (연 %)</label>
+              <input type="number" id="new-rate" class="form-input" value="3.85" step="0.05" oninput="calcRefinance()" />
+            </div>
+          </div>
+          <div style="display:grid; grid-template-columns:1fr 1fr; gap:0.7rem;">
+            <div class="form-group" style="margin-bottom:0;">
+              <label class="form-label">남은 만기 (년)</label>
+              <input type="number" id="rem-years" class="form-input" value="28" min="1" max="50" oninput="calcRefinance()" />
+            </div>
+            <div class="form-group" style="margin-bottom:0;">
+              <label class="form-label">상환 방식</label>
+              <select id="repay-type" class="form-select" onchange="calcRefinance()">
+                <option value="equal_payment" selected>원리금균등 분할상환</option>
+                <option value="bullet">만기일시(이자만 비교)</option>
+              </select>
+            </div>
+          </div>
+        </section>
+
+        <section class="panel">
+          <h2 class="panel-title">2. 중도상환수수료 및 부대비용 설정</h2>
+          <div class="form-group">
+            <label class="form-label">중도상환수수료율 기준 선택</label>
+            <div class="radio-pills" id="fee-pills">
+              <button type="button" class="pill-btn active" onclick="setFeeRate(0.65, this)">
+                개편 후 주담대 (0.65%)
+                <span class="pill-sub">2025.1.13 이후 실행 평균</span>
+              </button>
+              <button type="button" class="pill-btn" onclick="setFeeRate(1.40, this)">
+                개편 전 고정형 (1.40%)
+                <span class="pill-sub">2025.1.13 이전 실행 주담대</span>
+              </button>
+              <button type="button" class="pill-btn" onclick="setFeeRate(1.20, this)">
+                개편 전 변동형 (1.20%)
+                <span class="pill-sub">2025.1.13 이전 변동금리</span>
+              </button>
+              <button type="button" class="pill-btn" onclick="setFeeRate(0, this)">
+                3년 경과 · 면제 (0%)
+                <span class="pill-sub">수수료 부과 기간 종료</span>
+              </button>
+            </div>
+          </div>
+          <div style="display:grid; grid-template-columns:1fr 1fr; gap:0.7rem;">
+            <div class="form-group">
+              <label class="form-label">수수료율 직접 조정 (%)</label>
+              <input type="number" id="fee-rate" class="form-input" value="0.65" min="0" max="3" step="0.05" oninput="calcRefinance()" />
+            </div>
+            <div class="form-group">
+              <label class="form-label"><span>3년(36개월) 중 남은 기간</span><span class="form-hint" id="rem-months-hint">18개월 남음</span></label>
+              <input type="number" id="fee-rem-months" class="form-input" value="18" min="0" max="36" step="1" oninput="calcRefinance()" />
+            </div>
+          </div>
+          <div class="form-group" style="margin-bottom:0;">
+            <label class="form-label">연간 10% 중도상환수수료 면제 한도 &amp; 인지세 반영</label>
+            <select id="exempt-opt" class="form-select" onchange="calcRefinance()">
+              <option value="10pct_stamp" selected>연 10% 수수료 면제 적용 + 신규 인지세(50% 분담) 포함</option>
+              <option value="none_stamp">면제 한도 없이 전액 부과 + 인지세 포함</option>
+              <option value="none_only">순수 중도상환수수료만 계산</option>
+            </select>
+          </div>
+        </section>
+      </div>
+
+      <div>
+        <section class="panel">
+          <h2 class="panel-title">📌 대환대출(갈아타기) 손익분기점 분석</h2>
+          <div class="result-hero">
+            <span class="status-badge status-pass" id="ref-badge">✅ 갈아타기 강력 추천</span>
+            <div class="hero-big" id="ref-breakeven">약 3.5개월 만에 수수료 본전 회수</div>
+            <div style="font-size:0.84rem; color:#cbd5e1;" id="ref-hero-desc">
+              금리가 1.00%p 낮아져 첫해에만 수수료를 빼고도 순수하게 이득입니다.
+            </div>
+          </div>
+
+          <div class="kpi-grid">
+            <div class="kpi-card">
+              <div class="kpi-label">연간 이자 절감액 (1년차)</div>
+              <div class="kpi-val" id="ref-annual-save" style="color:var(--neon-green);">0원</div>
+              <div class="kpi-sub" id="ref-monthly-save">월 평균 -0원 절감</div>
+            </div>
+            <div class="kpi-card">
+              <div class="kpi-label">총 대환 비용 (수수료+인지세)</div>
+              <div class="kpi-val" id="ref-total-cost" style="color:#f87171;">0원</div>
+              <div class="kpi-sub" id="ref-cost-detail">중도상환수수료 0원 + 인지세 0원</div>
+            </div>
+            <div class="kpi-card">
+              <div class="kpi-label">기존 월 원리금 상환액</div>
+              <div class="kpi-val" id="ref-old-pmt">0원</div>
+              <div class="kpi-sub">기존 금리 기준 월 납부액</div>
+            </div>
+            <div class="kpi-card">
+              <div class="kpi-label">갈아타기 후 월 원리금</div>
+              <div class="kpi-val" id="ref-new-pmt" style="color:#60a5fa;">0원</div>
+              <div class="kpi-sub" id="ref-pmt-diff">매달 상환 부담 감소분</div>
+            </div>
+          </div>
+
+          <div class="ad-banner-slot" id="ad-slot-result"></div>
+
+          <h3 style="font-size:0.93rem; margin: 1rem 0 0.35rem;">📊 기간별 누적 순이익 (수수료·인지세 차감 후)</h3>
+          <div class="table-wrap">
+            <table class="comp-table">
+              <thead>
+                <tr>
+                  <th>보유 기간</th>
+                  <th>누적 이자 절감액</th>
+                  <th>대환 비용 차감</th>
+                  <th>최종 순이익</th>
+                </tr>
+              </thead>
+              <tbody id="ref-period-tbody"></tbody>
+            </table>
+          </div>
+
+          <div class="action-bar">
+            <button type="button" class="act-btn" onclick="copyRefSummary(this)">📋 결과 텍스트 복사</button>
+            <button type="button" class="act-btn" onclick="shareRefUrl(this)">🔗 이 조건 링크로 공유</button>
+          </div>
+        </section>
+      </div>
+    </div>
+
+    <section class="panel guide-section">
+      <h2>📘 주담대 갈아타기(대환대출) &amp; 2026 중도상환수수료 인하 핵심 가이드</h2>
+      <ul>
+        <li><strong>2025~2026 중도상환수수료 반토막 인하:</strong> 금융위원회의 금소법 감독규정 개정에 따라 2025년 1월 13일 이후 신규 체결된 시중은행 주택담보대출의 중도상환수수료율은 기존 1.2%~1.4%에서 실비용 기준인 <strong>평균 0.65%(0.55%~0.75%)</strong> 수준으로 절반 가까이 낮아졌습니다.</li>
+        <li><strong>잔존일수 비례 감소 공식:</strong> 중도상환수수료는 대출 실행 후 3년(1,095일 / 36개월) 이내에만 부과되며, 시간이 지날수록 매일 비례해서 줄어듭니다. 예를 들어 대출 실행 후 1년 반(18개월)이 지났다면 약정 수수료율의 절반(18/36)만 부과됩니다.</li>
+        <li><strong>연간 10% 면제 한도 활용 팁:</strong> 대다수 시중은행은 매년 최초 대출금의 10% 범위 내에서 중도상환수수료를 면제해 줍니다. 대환대출 실행 전 여유 자금으로 10% 한도를 먼저 상환하거나 면제 특약 적용 여부를 확인하면 수수료를 추가로 아낄 수 있습니다.</li>
+      </ul>
+    </section>
+
+    <footer class="footer">
+      <div class="footer-links">
+        <a href="../index.html">오늘의 브리핑</a>
+        <a href="../archive/index.html">브리핑 아카이브</a>
+        <a href="../guide/index.html">경제 가이드</a>
+        <a href="./dsr.html">DSR·금융 계산기</a>
+        <a href="../about.html">서비스 소개</a>
+        <a href="../privacy.html">개인정보처리방침</a>
+        <a href="../terms.html">이용약관 및 면책고지</a>
+        <a href="../contact.html">문의 및 정정요청</a>
+      </div>
+      <div>© ZIPPY Economy Briefing (zippy.kr). All rights reserved.</div>
+    </footer>
+  </div>
+
+  <script>
+    function fmtKrw(won) {
+      const n = Math.round(won);
+      if (Math.abs(n) >= 10000) {
+        const man = Math.round(n / 10000);
+        const eok = Math.floor(Math.abs(man) / 10000);
+        const rem = Math.abs(man) % 10000;
+        const sign = n < 0 ? "-" : "";
+        if (eok > 0 && rem > 0) return `${sign}${eok}억 ${rem.toLocaleString()}만 원`;
+        if (eok > 0) return `${sign}${eok}억 원`;
+        return `${sign}${man.toLocaleString()}만 원`;
+      }
+      return `${n.toLocaleString()}원`;
+    }
+
+    function calcPmt(pWon, ratePct, years, type) {
+      const r = (Math.max(0, ratePct) / 100) / 12;
+      const n = Math.max(1, Math.round(years * 12));
+      if (type === "bullet" || r === 0) {
+        return pWon * r;
+      }
+      return pWon * (r * Math.pow(1 + r, n)) / (Math.pow(1 + r, n) - 1);
+    }
+
+    window.setFeeRate = function(val, btn) {
+      document.querySelectorAll("#fee-pills .pill-btn").forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+      document.getElementById("fee-rate").value = val;
+      if (val === 0) document.getElementById("fee-rem-months").value = 0;
+      else if (Number(document.getElementById("fee-rem-months").value) === 0) document.getElementById("fee-rem-months").value = 18;
+      calcRefinance();
+    };
+
+    window.calcRefinance = function() {
+      const amtMan = Math.max(0, Number(document.getElementById("ref-amount").value) || 0);
+      const pWon = amtMan * 10000;
+      const oldRate = Math.max(0, Number(document.getElementById("old-rate").value) || 0);
+      const newRate = Math.max(0, Number(document.getElementById("new-rate").value) || 0);
+      const remYears = Math.max(1, Number(document.getElementById("rem-years").value) || 1);
+      const repayType = document.getElementById("repay-type").value;
+      const feeRate = Math.max(0, Number(document.getElementById("fee-rate").value) || 0);
+      const remMonths = Math.min(36, Math.max(0, Number(document.getElementById("fee-rem-months").value) || 0));
+      const exemptOpt = document.getElementById("exempt-opt").value;
+
+      document.getElementById("ref-amt-kr").textContent = fmtKrw(pWon);
+      document.getElementById("rem-months-hint").textContent = `${remMonths}개월 남음 (${Math.round((remMonths / 36) * 100)}% 적용)`;
+
+      const feeTargetWon = exemptOpt.startsWith("10pct") ? pWon * 0.9 : pWon;
+      const prepayFeeWon = Math.round(feeTargetWon * (feeRate / 100) * (remMonths / 36));
+
+      // 인지세 (차주 50% 부담 기준: 5천만 이하 0원, 5천만~1억 35,000원, 1억~10억 75,000원, 10억 초과 175,000원)
+      let stampTaxWon = 0;
+      if (exemptOpt.endsWith("stamp")) {
+        if (pWon > 1000000000) stampTaxWon = 175000;
+        else if (pWon > 100000000) stampTaxWon = 75000;
+        else if (pWon > 50000000) stampTaxWon = 35000;
+      }
+      const totalCostWon = prepayFeeWon + stampTaxWon;
+
+      // 연간 이자 차이 (1년차 기준 원금 × 금리차)
+      const rateDiff = oldRate - newRate;
+      const annualInterestSaveWon = Math.round(pWon * (rateDiff / 100));
+      const monthlyInterestSaveWon = Math.round(annualInterestSaveWon / 12);
+
+      const oldPmt = Math.round(calcPmt(pWon, oldRate, remYears, repayType));
+      const newPmt = Math.round(calcPmt(pWon, newRate, remYears, repayType));
+      const pmtDiff = oldPmt - newPmt;
+
+      const badgeEl = document.getElementById("ref-badge");
+      const beEl = document.getElementById("ref-breakeven");
+      const descEl = document.getElementById("ref-hero-desc");
+
+      if (rateDiff <= 0) {
+        badgeEl.className = "status-badge status-fail";
+        badgeEl.textContent = "🚨 대환 비추천 (금리 인하 효과 없음)";
+        beEl.textContent = "신규 금리가 기존 금리보다 낮아야 합니다";
+        descEl.textContent = "갈아탈 대출 금리가 기존 금리 이상이므로 대환 실익이 없습니다.";
+      } else {
+        const beMonths = monthlyInterestSaveWon > 0 ? (totalCostWon / monthlyInterestSaveWon) : 999;
+        if (beMonths <= 12) {
+          badgeEl.className = "status-badge status-pass";
+          badgeEl.textContent = "✅ 갈아타기 강력 추천 (1년 내 본전 회수)";
+        } else if (beMonths <= 24) {
+          badgeEl.className = "status-badge status-pass";
+          badgeEl.textContent = "👍 갈아타기 유리 (2년 이상 유지 시 이득)";
+        } else {
+          badgeEl.className = "status-badge status-fail";
+          badgeEl.textContent = "⚠️ 신중 검토 (수수료 회수에 2년 이상 소요)";
+        }
+        beEl.textContent = totalCostWon === 0
+          ? "수수료 0원 · 즉시 100% 이자 절감!"
+          : `약 ${beMonths.toFixed(1)}개월 만에 대환 비용 전액 회수`;
+        const firstYearNet = annualInterestSaveWon - totalCostWon;
+        descEl.textContent = firstYearNet >= 0
+          ? `금리가 ${rateDiff.toFixed(2)}%p 낮아져 1년차에만 수수료를 다 내고도 +${fmtKrw(firstYearNet)} 순이익입니다.`
+          : `손익분기점(${beMonths.toFixed(1)}개월) 이후부터 매달 약 ${fmtKrw(monthlyInterestSaveWon)}씩 순이익이 쌓입니다.`;
+      }
+
+      document.getElementById("ref-annual-save").textContent = `${annualInterestSaveWon >= 0 ? '+' : ''}${fmtKrw(annualInterestSaveWon)}/년`;
+      document.getElementById("ref-monthly-save").textContent = `월 평균 이자 ${fmtKrw(monthlyInterestSaveWon)} 절감`;
+      document.getElementById("ref-total-cost").textContent = fmtKrw(totalCostWon);
+      document.getElementById("ref-cost-detail").textContent = `수수료 ${(prepayFeeWon / 10000).toFixed(1)}만 + 인지세 ${(stampTaxWon / 10000).toFixed(1)}만`;
+      document.getElementById("ref-old-pmt").textContent = `${Math.round(oldPmt / 10000).toLocaleString()}만 원/월`;
+      document.getElementById("ref-new-pmt").textContent = `${Math.round(newPmt / 10000).toLocaleString()}만 원/월`;
+      document.getElementById("ref-pmt-diff").textContent = pmtDiff >= 0 ? `매월 상환액 -${Math.round(pmtDiff / 10000).toLocaleString()}만 원 감소` : `매월 +${Math.round(-pmtDiff / 10000).toLocaleString()}만 원 증가`;
+
+      const horizons = [1, 2, 3, 5, Math.min(10, remYears)];
+      const uniqueH = [...new Set(horizons)].sort((a, b) => a - b);
+      document.getElementById("ref-period-tbody").innerHTML = uniqueH.map(yr => {
+        const grossSave = annualInterestSaveWon * yr;
+        const netSave = grossSave - totalCostWon;
+        return `
+          <tr>
+            <td><strong>${yr}년 유지 시</strong></td>
+            <td>+${fmtKrw(grossSave)}</td>
+            <td>-${fmtKrw(totalCostWon)}</td>
+            <td style="color:${netSave >= 0 ? 'var(--neon-green)' : '#f87171'}; font-weight:700;">
+              ${netSave >= 0 ? '+' : ''}${fmtKrw(netSave)}
+            </td>
+          </tr>
+        `;
+      }).join("");
+    };
+
+    window.copyRefSummary = async function(btn) {
+      const amtMan = document.getElementById("ref-amount").value;
+      const oldR = document.getElementById("old-rate").value;
+      const newR = document.getElementById("new-rate").value;
+      const be = document.getElementById("ref-breakeven").textContent;
+      const save = document.getElementById("ref-annual-save").textContent;
+      const cost = document.getElementById("ref-total-cost").textContent;
+      const text = `[⚡ ZIPPY 주담대 갈아타기 계산 결과]\n- 대환 원금: ${Number(amtMan).toLocaleString()}만 원 (${oldR}% → ${newR}%)\n- 총 대환 비용(수수료+인지세): ${cost}\n- 연간 이자 절감액: ${save}\n- 손익분기점: ${be}\n- 계산기: https://zippy.kr/tools/refinance.html`;
+      try {
+        await navigator.clipboard.writeText(text);
+        const orig = btn.textContent;
+        btn.textContent = "✅ 복사 완료!";
+        setTimeout(() => { btn.textContent = orig; }, 2000);
+      } catch (e) {}
+    };
+
+    window.shareRefUrl = async function(btn) {
+      const params = new URLSearchParams({
+        amt: document.getElementById("ref-amount").value,
+        old: document.getElementById("old-rate").value,
+        new: document.getElementById("new-rate").value,
+        yr: document.getElementById("rem-years").value,
+        fee: document.getElementById("fee-rate").value,
+        rem: document.getElementById("fee-rem-months").value
+      });
+      const url = `${location.origin}${location.pathname}?${params.toString()}`;
+      try {
+        await navigator.clipboard.writeText(url);
+        const orig = btn.textContent;
+        btn.textContent = "✅ 공유 링크가 복사됨!";
+        setTimeout(() => { btn.textContent = orig; }, 2000);
+      } catch (e) {}
+    };
+
+    (function initFromQuery() {
+      const q = new URLSearchParams(location.search);
+      if (q.get("amt")) document.getElementById("ref-amount").value = q.get("amt");
+      if (q.get("old")) document.getElementById("old-rate").value = q.get("old");
+      if (q.get("new")) document.getElementById("new-rate").value = q.get("new");
+      if (q.get("yr")) document.getElementById("rem-years").value = q.get("yr");
+      if (q.get("fee")) document.getElementById("fee-rate").value = q.get("fee");
+      if (q.get("rem")) document.getElementById("fee-rem-months").value = q.get("rem");
+      calcRefinance();
+    })();
+  </script>
+</body>
+</html>

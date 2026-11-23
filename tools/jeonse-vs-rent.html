@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
+  <title>전세대출 이자 vs 월세(반전세) 전환율 비교 계산기 (기회비용·월세 세액공제 반영) | ⚡ ZIPPY</title>
+  <meta name="description" content="전세자금대출 이자와 내 보증금(자기자본)의 예금 기회비용, 연말정산 월세 세액공제(최대 17%)를 모두 반영하여 전세와 월세(반전세) 중 어느 쪽이 월 실질 주거비가 저렴한지 계산해 보세요." />
+  <meta name="keywords" content="전세대출 월세 비교 계산기, 전월세 전환율 계산기, 반전세 계산기, 전세 월세 유불리 계산기, 월세 세액공제 계산기" />
+  <link rel="canonical" href="https://zippy.kr/tools/jeonse-vs-rent.html" />
+  <meta property="og:title" content="🏠 전세대출 이자 vs 월세(반전세) 전환율 비교 계산기 | ⚡ ZIPPY" />
+  <meta property="og:description" content="전세대출 이자 + 자기자금 기회비용 vs 월세 - 연말정산 월세 세액공제를 비교해 진짜 유리한 선택을 찾아드립니다." />
+  <meta property="og:url" content="https://zippy.kr/tools/jeonse-vs-rent.html" />
+  <meta property="og:type" content="website" />
+  <meta name="theme-color" content="#0e1117" />
+  <link rel="manifest" href="../manifest.json" />
+  <link rel="apple-touch-icon" href="../icons/icon-192.png" />
+  <link rel="icon" type="image/png" sizes="192x192" href="../icons/icon-192.png" />
+  <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-dynamic-subset.min.css" />
+  <meta name="google-adsense-account" content="ca-pub-8243997410078269" />
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8243997410078269" crossorigin="anonymous"></script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "SoftwareApplication",
+        "name": "ZIPPY 전세대출 이자 vs 월세 전환율 비교 계산기",
+        "applicationCategory": "FinanceApplication",
+        "operatingSystem": "Web",
+        "url": "https://zippy.kr/tools/jeonse-vs-rent.html",
+        "offers": { "@type": "Offer", "price": "0", "priceCurrency": "KRW" }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "전월세 전환율은 어떻게 계산하나요?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "전월세 전환율(%)은 '(연간 월세 합계 ÷ 전환되는 보증금 차액) × 100'으로 계산합니다. 예를 들어 전세 3억 원 매물을 보증금 1억 원에 월세 80만 원(연 960만 원)으로 전환한다면 전월세 전환율은 (960만 원 ÷ 2억 원) × 100 = 연 4.8%입니다."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "전세와 월세 중 어느 쪽이 유리한지 판단하는 기준은 무엇인가요?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "해당 매물의 전월세 전환율이 본인이 받을 수 있는 전세대출 금리보다 높다면 전세가 유리하고, 반대로 전세대출 금리(및 자기자본 예금 금리)보다 전월세 전환율이 낮거나 월세 세액공제(15~17%) 혜택이 크다면 월세(반전세)가 유리합니다."
+            }
+          }
+        ]
+      }
+    ]
+  }
+  </script>
+
+  <style>
+    :root {
+      --bg: #0e1117; --bg-card: #161a23; --bg-input: #0b0e14;
+      --text-main: #fafafa; --text-muted: #94a3b8;
+      --border: rgba(250, 250, 250, 0.14);
+      --accent-blue: #3b82f6; --accent-red: #ff4b4b;
+      --neon-green: #3dd56d; --neon-green-bg: rgba(61, 213, 109, 0.14);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; padding: 0; background: var(--bg); color: var(--text-main);
+      font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+      line-height: 1.65; -webkit-font-smoothing: antialiased;
+    }
+    .container { max-width: 980px; margin: 0 auto; padding: 1.4rem 1.25rem 3.5rem; }
+    .top-nav {
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 0.75rem; padding-bottom: 0.9rem; margin-bottom: 1.25rem;
+      border-bottom: 2px solid var(--accent-blue);
+    }
+    .brand-link { text-decoration: none; color: var(--text-main); font-size: 1.35rem; font-weight: 800; letter-spacing: -0.02em; white-space: nowrap; }
+    .nav-links { display: flex; flex-wrap: wrap; gap: 0.42rem; }
+    .nav-links a {
+      text-decoration: none; color: var(--text-muted); font-size: 0.86rem; font-weight: 600;
+      padding: 0.38rem 0.72rem; border-radius: 7px; border: 1px solid var(--border);
+      background: rgba(255, 255, 255, 0.03); transition: all 0.15s ease; white-space: nowrap;
+    }
+    .nav-links a:hover, .nav-links a.active {
+      color: var(--text-main); background: rgba(59, 130, 246, 0.16); border-color: var(--accent-blue);
+    }
+    .page-header { margin-bottom: 0.95rem; }
+    .page-header h1 { font-size: 1.55rem; font-weight: 800; margin: 0 0 0.32rem; letter-spacing: -0.02em; }
+    .page-header p { margin: 0; color: var(--text-muted); font-size: 0.93rem; }
+    .tools-subnav {
+      display: flex; gap: 1.25rem; border-bottom: 1px solid var(--border);
+      margin-bottom: 1.25rem; overflow-x: auto; scrollbar-width: none;
+    }
+    .tools-subnav::-webkit-scrollbar { display: none; }
+    .tools-subnav a {
+      text-decoration: none; font-size: 0.92rem; font-weight: 600;
+      padding: 0.62rem 0.15rem; color: var(--text-muted);
+      border-bottom: 2.5px solid transparent; transition: all 0.15s ease; white-space: nowrap;
+    }
+    .tools-subnav a:hover { color: var(--text-main); }
+    .tools-subnav a.active { color: var(--accent-red); border-bottom-color: var(--accent-red); }
+
+    .calc-grid { display: grid; grid-template-columns: 1.05fr 0.95fr; gap: 1.25rem; align-items: start; }
+    @media (max-width: 840px) { .calc-grid { grid-template-columns: 1fr; } }
+    .panel { background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px; padding: 1.35rem; margin-bottom: 1.2rem; }
+    .panel-title { font-size: 1.04rem; font-weight: 700; margin: 0 0 1rem; padding-bottom: 0.55rem; border-bottom: 1px solid var(--border); }
+    .form-group { margin-bottom: 0.95rem; }
+    .form-label { display: flex; justify-content: space-between; align-items: center; font-size: 0.86rem; font-weight: 600; color: #cbd5e1; margin-bottom: 0.35rem; }
+    .form-hint { font-size: 0.78rem; color: var(--neon-green); font-weight: 600; }
+    .form-input, .form-select {
+      width: 100%; background: var(--bg-input); color: var(--text-main);
+      border: 1px solid var(--border); border-radius: 8px; padding: 0.6rem 0.75rem; font-size: 0.95rem; font-family: inherit;
+    }
+    .result-hero {
+      background: linear-gradient(145deg, rgba(59, 130, 246, 0.14), rgba(22, 26, 35, 0.95));
+      border: 1px solid rgba(59, 130, 246, 0.4); border-radius: 12px; padding: 1.25rem; margin-bottom: 1rem;
+    }
+    .hero-big { font-size: 1.75rem; font-weight: 800; margin: 0.25rem 0; }
+    .status-badge { display: inline-block; font-size: 0.8rem; font-weight: 700; padding: 0.22rem 0.6rem; border-radius: 6px; background: var(--neon-green-bg); color: var(--neon-green); border: 1px solid rgba(61, 213, 109, 0.35); }
+    .kpi-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; margin-bottom: 1rem; }
+    .kpi-card { background: rgba(255, 255, 255, 0.03); border: 1px solid var(--border); border-radius: 9px; padding: 0.85rem 0.95rem; }
+    .kpi-label { font-size: 0.77rem; color: var(--text-muted); margin-bottom: 0.22rem; }
+    .kpi-val { font-size: 1.1rem; font-weight: 800; }
+    .kpi-sub { font-size: 0.74rem; color: var(--text-muted); margin-top: 0.18rem; }
+    .table-wrap { overflow-x: auto; margin-top: 0.55rem; }
+    table.comp-table { width: 100%; border-collapse: collapse; font-size: 0.84rem; }
+    table.comp-table th, table.comp-table td { padding: 0.58rem; border-bottom: 1px solid var(--border); text-align: right; }
+    table.comp-table th:first-child, table.comp-table td:first-child { text-align: left; }
+    table.comp-table th { color: var(--text-muted); background: rgba(255, 255, 255, 0.03); }
+    .action-bar { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 0.9rem; }
+    .act-btn {
+      flex: 1; background: var(--bg-input); border: 1px solid var(--border); color: var(--text-main);
+      font-size: 0.83rem; font-weight: 600; padding: 0.58rem 0.75rem; border-radius: 8px; cursor: pointer; font-family: inherit;
+    }
+    .act-btn:hover { border-color: var(--accent-blue); }
+    .ad-banner-slot:empty { display: none; }
+    .guide-section h2 { font-size: 1.18rem; color: #60a5fa; border-left: 3px solid var(--accent-blue); padding-left: 0.65rem; margin: 1.5rem 0 0.6rem; }
+    .guide-section p, .guide-section li { font-size: 0.93rem; color: #e2e8f0; }
+    .footer { margin-top: 2.5rem; padding-top: 1.3rem; border-top: 1px solid var(--border); color: var(--text-muted); font-size: 0.82rem; text-align: center; }
+    .footer-links { display: flex; justify-content: center; flex-wrap: wrap; gap: 1.1rem; margin-bottom: 0.65rem; }
+    .footer-links a { color: var(--text-muted); text-decoration: none; font-size: 0.84rem; }
+    .footer-links a:hover { color: var(--text-main); text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="top-nav">
+      <a href="../index.html" class="brand-link">⚡ ZIPPY</a>
+      <nav class="nav-links" aria-label="주요 메뉴">
+        <a href="../index.html">⚡ 오늘의 브리핑</a>
+        <a href="../archive/index.html">🗂️ 브리핑 아카이브</a>
+        <a href="../guide/index.html">📘 경제·투자 가이드</a>
+        <a href="./dsr.html" class="active">🏦 DSR·금융 계산기</a>
+        <a href="../about.html">ℹ️ 서비스 소개</a>
+      </nav>
+    </header>
+
+    <div class="page-header">
+      <h1>🏠 전세대출 이자 vs 월세(반전세) 전환율 비교 계산기</h1>
+      <p>전세대출 이자와 내 보증금(자기자본)의 기회비용, 연말정산 월세 세액공제(최대 17%)까지 반영하여 실제 월 주거비를 비교합니다.</p>
+    </div>
+
+    <nav class="tools-subnav" aria-label="금융 계산기 메뉴">
+      <a href="./dsr.html">🏦 DSR·스트레스 DSR</a>
+      <a href="./refinance.html">🔄 대환대출·수수료</a>
+      <a href="./jeonse-vs-rent.html" class="active">🏠 전세대출 vs 월세</a>
+      <a href="./stock-averaging.html">📉 주식 물타기·평단가</a>
+      <a href="./compound.html">📈 복리·적립식 수익률</a>
+      <a href="./us-stock-tax.html">💵 해외주식 환차익·양도세</a>
+      <a href="./dividend-tax.html">💰 월배당·종합과세</a>
+      <a href="./pension-tax.html">🛡️ 연금저축·IRP 세액공제</a>
+    </nav>
+
+    <div class="calc-grid">
+      <div>
+        <section class="panel">
+          <h2 class="panel-title">1. [안 A] 전세 계약 조건</h2>
+          <div style="display:grid; grid-template-columns:1fr 1fr; gap:0.7rem;">
+            <div class="form-group">
+              <label class="form-label"><span>전세 보증금 (만원)</span><span class="form-hint" id="j-dep-kr">3억 원</span></label>
+              <input type="number" id="j-deposit" class="form-input" value="30000" step="1000" oninput="calcJeonseRent()" />
+            </div>
+            <div class="form-group">
+              <label class="form-label"><span>내 보유 현금 (만원)</span><span class="form-hint" id="my-cash-kr">1억 원</span></label>
+              <input type="number" id="my-cash" class="form-input" value="10000" step="500" oninput="calcJeonseRent()" />
+            </div>
+          </div>
+          <div class="form-group" style="margin-bottom:0;">
+            <label class="form-label"><span>전세대출 금리 (연 %)</span><span class="form-hint" id="j-loan-hint">필요 전세대출: 2억 원</span></label>
+            <input type="number" id="j-loan-rate" class="form-input" value="3.80" step="0.1" oninput="calcJeonseRent()" />
+          </div>
+        </section>
+
+        <section class="panel">
+          <h2 class="panel-title">2. [안 B] 월세 · 반전세 조건 &amp; 세액공제</h2>
+          <div style="display:grid; grid-template-columns:1fr 1fr; gap:0.7rem;">
+            <div class="form-group">
+              <label class="form-label"><span>월세 보증금 (만원)</span><span class="form-hint" id="r-dep-kr">1억 원</span></label>
+              <input type="number" id="r-deposit" class="form-input" value="10000" step="1000" oninput="calcJeonseRent()" />
+            </div>
+            <div class="form-group">
+              <label class="form-label"><span>매월 월세 (만원)</span><span class="form-hint">관리비 제외 순수 월세</span></label>
+              <input type="number" id="r-monthly" class="form-input" value="75" step="5" oninput="calcJeonseRent()" />
+            </div>
+          </div>
+          <div style="display:grid; grid-template-columns:1fr 1fr; gap:0.7rem;">
+            <div class="form-group" style="margin-bottom:0;">
+              <label class="form-label">연말정산 월세 세액공제</label>
+              <select id="r-tax-credit" class="form-select" onchange="calcJeonseRent()">
+                <option value="0.17">총급여 5,500만 이하 (17% 공제)</option>
+                <option value="0.15" selected>총급여 8,000만 이하 (15% 공제)</option>
+                <option value="0">미해당 (유주택·소득초과 등 0%)</option>
+              </select>
+            </div>
+            <div class="form-group" style="margin-bottom:0;">
+              <label class="form-label">내 현금 예금·투자 수익률 (%)</label>
+              <input type="number" id="opp-rate" class="form-input" value="3.30" step="0.1" oninput="calcJeonseRent()" />
+            </div>
+          </div>
+        </section>
+      </div>
+
+      <div>
+        <section class="panel">
+          <h2 class="panel-title">📌 전세 vs 월세 실질 주거비 비교 결과</h2>
+          <div class="result-hero">
+            <span class="status-badge" id="jr-winner-badge">🏆 전세가 더 유리합니다</span>
+            <div class="hero-big" id="jr-diff-headline">매월 약 14만 원 절약 (2년 336만 원)</div>
+            <div style="font-size:0.84rem; color:#cbd5e1;" id="jr-breakeven-rent">
+              이 전세 조건과 같아지려면 월세가 <strong>61만 원 이하</strong>여야 합니다.
+            </div>
+          </div>
+
+          <div class="kpi-grid">
+            <div class="kpi-card">
+              <div class="kpi-label">[전세] 월 대출이자 (실제 지출)</div>
+              <div class="kpi-val" id="jr-j-interest" style="color:var(--neon-green);">0만 원/월</div>
+              <div class="kpi-sub" id="jr-j-total-opp">기회비용 포함 실질: 0만 원/월</div>
+            </div>
+            <div class="kpi-card">
+              <div class="kpi-label">[월세] 세액공제 후 실질 월세</div>
+              <div class="kpi-val" id="jr-r-net" style="color:#60a5fa;">0만 원/월</div>
+              <div class="kpi-sub" id="jr-r-credit-sub">연말정산 월 환산 -0만 원 환급</div>
+            </div>
+            <div class="kpi-card">
+              <div class="kpi-label">이 매물의 전월세 전환율</div>
+              <div class="kpi-val" id="jr-conv-rate">0.00%</div>
+              <div class="kpi-sub">전세대출 금리보다 높으면 전세 유리</div>
+            </div>
+            <div class="kpi-card">
+              <div class="kpi-label">손익분기점 적정 월세</div>
+              <div class="kpi-val" id="jr-fair-rent">0만 원</div>
+              <div class="kpi-sub">이 금액 이하면 월세가 더 유리</div>
+            </div>
+          </div>
+
+          <div class="ad-banner-slot" id="ad-slot-result"></div>
+
+          <h3 style="font-size:0.93rem; margin: 1rem 0 0.35rem;">🧾 항목별 월간·2년(24개월) 총 주거비용 비교</h3>
+          <div class="table-wrap">
+            <table class="comp-table">
+              <thead>
+                <tr>
+                  <th>항목</th>
+                  <th>안 A: 전세</th>
+                  <th>안 B: 월세(반전세)</th>
+                </tr>
+              </thead>
+              <tbody id="jr-comp-tbody"></tbody>
+            </table>
+          </div>
+
+          <div class="action-bar">
+            <button type="button" class="act-btn" onclick="copyJrSummary(this)">📋 결과 텍스트 복사</button>
+            <button type="button" class="act-btn" onclick="shareJrUrl(this)">🔗 이 조건 링크로 공유</button>
+          </div>
+        </section>
+      </div>
+    </div>
+
+    <section class="panel guide-section">
+      <h2>📘 전세대출 이자 vs 월세 비교 시 꼭 확인해야 할 3가지</h2>
+      <ul>
+        <li><strong>전월세 전환율 vs 전세대출 금리 공식:</strong> 매물의 전월세 전환율(<code>연간 월세 ÷ 보증금 차액 × 100</code>)이 내가 받을 수 있는 전세대출 금리(예: 청년·신생아 버팀목 1~3%대, 시중은행 3.5~4.5%대)보다 높다면 <strong>전세대출을 받아 전세로 들어가는 것이 유리</strong>합니다.</li>
+        <li><strong>연말정산 월세 세액공제(최대 연 1,000만 원 한도):</strong> 무주택 세대주(또는 세대원)로서 총급여 5,500만 원 이하는 월세액의 <strong>17%</strong>, 5,500만 원 초과 ~ 8,000만 원 이하는 <strong>15%</strong>를 연말정산에서 세액공제(최대 연 150만~170만 원 환급) 받을 수 있습니다.</li>
+        <li><strong>전세보증금 반환보증 보험료 체크:</strong> 전세 계약 시 HUG·HF·SGI 전세보증금 반환보증 가입이 가능한 매물(선순위 근저당 + 전세보증금이 주택 공시가·시세 기준 이내)인지 반드시 먼저 확인해야 합니다.</li>
+      </ul>
+    </section>
+
+    <footer class="footer">
+      <div class="footer-links">
+        <a href="../index.html">오늘의 브리핑</a>
+        <a href="../archive/index.html">브리핑 아카이브</a>
+        <a href="../guide/index.html">경제 가이드</a>
+        <a href="./dsr.html">DSR·금융 계산기</a>
+        <a href="../about.html">서비스 소개</a>
+        <a href="../privacy.html">개인정보처리방침</a>
+        <a href="../terms.html">이용약관 및 면책고지</a>
+        <a href="../contact.html">문의 및 정정요청</a>
+      </div>
+      <div>© ZIPPY Economy Briefing (zippy.kr). All rights reserved.</div>
+    </footer>
+  </div>
+
+  <script>
+    function fmtMan(man) {
+      const n = Math.round(man);
+      if (n <= 0) return "0원";
+      const eok = Math.floor(n / 10000);
+      const rem = n % 10000;
+      if (eok > 0 && rem > 0) return `${eok}억 ${rem.toLocaleString()}만 원`;
+      if (eok > 0) return `${eok}억 원`;
+      return `${rem.toLocaleString()}만 원`;
+    }
+
+    window.calcJeonseRent = function() {
+      const jDep = Math.max(0, Number(document.getElementById("j-deposit").value) || 0);
+      const myCash = Math.max(0, Number(document.getElementById("my-cash").value) || 0);
+      const jRate = Math.max(0, Number(document.getElementById("j-loan-rate").value) || 0);
+      const rDep = Math.max(0, Number(document.getElementById("r-deposit").value) || 0);
+      const rMonth = Math.max(0, Number(document.getElementById("r-monthly").value) || 0);
+      const creditRate = Number(document.getElementById("r-tax-credit").value) || 0;
+      const oppRate = Math.max(0, Number(document.getElementById("opp-rate").value) || 0);
+
+      document.getElementById("j-dep-kr").textContent = fmtMan(jDep);
+      document.getElementById("my-cash-kr").textContent = fmtMan(myCash);
+      document.getElementById("r-dep-kr").textContent = fmtMan(rDep);
+
+      // 안 A: 전세
+      const jLoan = Math.max(0, jDep - myCash);
+      const jUsedCash = Math.min(jDep, myCash);
+      const jSurplusCash = Math.max(0, myCash - jDep);
+      document.getElementById("j-loan-hint").textContent = `필요 전세대출: ${fmtMan(jLoan)}`;
+
+      const jMonthlyLoanInt = (jLoan * (jRate / 100)) / 12;
+      const jMonthlyOppCost = (jUsedCash * (oppRate / 100)) / 12 - (jSurplusCash * (oppRate / 100)) / 12;
+      const jTotalEconomicMonthly = jMonthlyLoanInt + jMonthlyOppCost;
+
+      // 안 B: 월세
+      const rLoan = Math.max(0, rDep - myCash);
+      const rUsedCash = Math.min(rDep, myCash);
+      const rSurplusCash = Math.max(0, myCash - rDep);
+      const rMonthlyLoanInt = (rLoan * (jRate / 100)) / 12;
+      // 월세 세액공제: 연간 월세 최대 1,000만 원 한도
+      const annualRentMan = rMonth * 12;
+      const creditableRentMan = Math.min(1000, annualRentMan);
+      const annualTaxRefundMan = creditableRentMan * creditRate;
+      const monthlyTaxRefundMan = annualTaxRefundMan / 12;
+      // 남는 현금(rSurplusCash)을 예금(oppRate, 이자소득세 15.4% 차감)으로 굴려 얻는 월 세후 이자수익
+      const rMonthlyOppCost = (rUsedCash * (oppRate / 100)) / 12 - (rSurplusCash * (oppRate / 100) * 0.846) / 12;
+
+      const rActualOutMonthly = rMonth + rMonthlyLoanInt - monthlyTaxRefundMan;
+      const rTotalEconomicMonthly = rActualOutMonthly + rMonthlyOppCost;
+
+      // 전월세 전환율
+      const depDiff = Math.max(1, jDep - rDep);
+      const convRate = ((rMonth * 12) / depDiff) * 100;
+
+      // 손익분기점 월세 (기회비용 및 세액공제 포함 기준)
+      const baseDiff = jTotalEconomicMonthly - (rMonthlyLoanInt + rMonthlyOppCost);
+      const fairRent = creditRate > 0 ? Math.max(0, baseDiff / (1 - creditRate)) : Math.max(0, baseDiff);
+
+      const diffMonthly = rTotalEconomicMonthly - jTotalEconomicMonthly;
+      const badgeEl = document.getElementById("jr-winner-badge");
+      const headEl = document.getElementById("jr-diff-headline");
+      const beEl = document.getElementById("jr-breakeven-rent");
+
+      if (diffMonthly > 0.5) {
+        badgeEl.textContent = "🏆 전세(전세대출)가 더 유리합니다";
+        headEl.textContent = `전세가 매월 약 ${Math.round(diffMonthly).toLocaleString()}만 원 절약 (2년 ${Math.round(diffMonthly * 24).toLocaleString()}만 원)`;
+      } else if (diffMonthly < -0.5) {
+        badgeEl.textContent = "🏆 월세(반전세)가 더 유리합니다";
+        headEl.textContent = `월세가 매월 약 ${Math.round(-diffMonthly).toLocaleString()}만 원 절약 (2년 ${Math.round(-diffMonthly * 24).toLocaleString()}만 원)`;
+      } else {
+        badgeEl.textContent = "⚖️ 전세와 월세의 실질 부담이 거의 같습니다";
+        headEl.textContent = "월 실질 주거비 차이 1만 원 미만";
+      }
+      beEl.innerHTML = `기회비용과 세액공제를 모두 감안할 때, 월세가 <strong>${Math.round(fairRent).toLocaleString()}만 원 이하</strong>일 때만 월세가 유리합니다.`;
+
+      document.getElementById("jr-j-interest").textContent = `${jMonthlyLoanInt.toFixed(1)}만 원/월`;
+      document.getElementById("jr-j-total-opp").textContent = `기회비용 포함 실질: ${jTotalEconomicMonthly.toFixed(1)}만 원/월`;
+      document.getElementById("jr-r-net").textContent = `${rActualOutMonthly.toFixed(1)}만 원/월`;
+      document.getElementById("jr-r-credit-sub").textContent = `세액공제 월 -${monthlyTaxRefundMan.toFixed(1)}만 원 반영`;
+      document.getElementById("jr-conv-rate").textContent = `연 ${convRate.toFixed(2)}%`;
+      document.getElementById("jr-fair-rent").textContent = `월 ${Math.round(fairRent).toLocaleString()}만 원`;
+
+      document.getElementById("jr-comp-tbody").innerHTML = `
+        <tr>
+          <td>보증금 (필요 대출금)</td>
+          <td>${fmtMan(jDep)} (대출 ${fmtMan(jLoan)})</td>
+          <td>${fmtMan(rDep)} (대출 ${fmtMan(rLoan)})</td>
+        </tr>
+        <tr>
+          <td>월 실제 지출 (이자+월세-공제)</td>
+          <td>월 ${jMonthlyLoanInt.toFixed(1)}만 원</td>
+          <td>월 ${rActualOutMonthly.toFixed(1)}만 원</td>
+        </tr>
+        <tr>
+          <td>자기자금 기회비용 (예금이자)</td>
+          <td>월 ${jMonthlyOppCost.toFixed(1)}만 원</td>
+          <td>월 ${rMonthlyOppCost.toFixed(1)}만 원</td>
+        </tr>
+        <tr style="background:rgba(59,130,246,0.12); font-weight:700;">
+          <td>월 실질 총 부담 (2년 합계)</td>
+          <td>월 ${jTotalEconomicMonthly.toFixed(1)}만 (${Math.round(jTotalEconomicMonthly * 24).toLocaleString()}만)</td>
+          <td>월 ${rTotalEconomicMonthly.toFixed(1)}만 (${Math.round(rTotalEconomicMonthly * 24).toLocaleString()}만)</td>
+        </tr>
+      `;
+    };
+
+    window.copyJrSummary = async function(btn) {
+      const text = `[⚡ ZIPPY 전세대출 vs 월세 비교 결과]\n- 판정: ${document.getElementById("jr-winner-badge").textContent}\n- 비용 차이: ${document.getElementById("jr-diff-headline").textContent}\n- 매물 전월세 전환율: ${document.getElementById("jr-conv-rate").textContent}\n- 손익분기 적정 월세: ${document.getElementById("jr-fair-rent").textContent}\n- 계산기: https://zippy.kr/tools/jeonse-vs-rent.html`;
+      try {
+        await navigator.clipboard.writeText(text);
+        const orig = btn.textContent;
+        btn.textContent = "✅ 복사 완료!";
+        setTimeout(() => { btn.textContent = orig; }, 2000);
+      } catch (e) {}
+    };
+
+    window.shareJrUrl = async function(btn) {
+      const params = new URLSearchParams({
+        jdep: document.getElementById("j-deposit").value,
+        cash: document.getElementById("my-cash").value,
+        jrate: document.getElementById("j-loan-rate").value,
+        rdep: document.getElementById("r-deposit").value,
+        rent: document.getElementById("r-monthly").value,
+        tax: document.getElementById("r-tax-credit").value
+      });
+      const url = `${location.origin}${location.pathname}?${params.toString()}`;
+      try {
+        await navigator.clipboard.writeText(url);
+        const orig = btn.textContent;
+        btn.textContent = "✅ 공유 링크가 복사됨!";
+        setTimeout(() => { btn.textContent = orig; }, 2000);
+      } catch (e) {}
+    };
+
+    (function initFromQuery() {
+      const q = new URLSearchParams(location.search);
+      if (q.get("jdep")) document.getElementById("j-deposit").value = q.get("jdep");
+      if (q.get("cash")) document.getElementById("my-cash").value = q.get("cash");
+      if (q.get("jrate")) document.getElementById("j-loan-rate").value = q.get("jrate");
+      if (q.get("rdep")) document.getElementById("r-deposit").value = q.get("rdep");
+      if (q.get("rent")) document.getElementById("r-monthly").value = q.get("rent");
+      if (q.get("tax")) document.getElementById("r-tax-credit").value = q.get("tax");
+      calcJeonseRent();
+    })();
+  </script>
+</body>
+</html>
