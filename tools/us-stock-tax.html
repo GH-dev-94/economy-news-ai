@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
+  <title>해외주식 수익률 · 환차익 · 양도소득세 계산기 (250만 원 기본공제 반영) | ⚡ ZIPPY</title>
+  <meta name="description" content="미국 주식(서학개미) 투자 시 달러 주가 변동 수익과 원·달러 환율 변동에 따른 환차익/환차손, 연간 250만 원 기본공제 후 22% 양도소득세를 정확히 계산해 보세요." />
+  <link rel="canonical" href="https://zippy.kr/tools/us-stock-tax.html" />
+  <meta property="og:title" content="💵 해외주식 환차익 · 양도소득세 계산기 | ⚡ ZIPPY" />
+  <meta property="og:description" content="매수·매도 환율 차이에 따른 환차익과 해외주식 양도소득세(250만 원 공제 후 22%)를 즉시 계산합니다." />
+  <meta property="og:url" content="https://zippy.kr/tools/us-stock-tax.html" />
+  <meta property="og:type" content="website" />
+  <meta name="theme-color" content="#0e1117" />
+  <link rel="manifest" href="../manifest.json" />
+  <link rel="apple-touch-icon" href="../icons/icon-192.png" />
+  <link rel="icon" type="image/png" sizes="192x192" href="../icons/icon-192.png" />
+  <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-dynamic-subset.min.css" />
+  <meta name="google-adsense-account" content="ca-pub-8243997410078269" />
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8243997410078269" crossorigin="anonymous"></script>
+  <style>
+    :root {
+      --bg: #0e1117; --bg-card: #161a23; --bg-input: #0b0e14;
+      --text-main: #fafafa; --text-muted: #94a3b8;
+      --border: rgba(250, 250, 250, 0.14);
+      --accent-blue: #3b82f6; --neon-green: #3dd56d;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; padding: 0; background: var(--bg); color: var(--text-main);
+      font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+      line-height: 1.65; -webkit-font-smoothing: antialiased;
+    }
+    .container { max-width: 980px; margin: 0 auto; padding: 1.4rem 1.25rem 3.5rem; }
+    .top-nav {
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 0.75rem; padding-bottom: 0.9rem; margin-bottom: 1.2rem;
+      border-bottom: 2px solid var(--accent-blue);
+    }
+    .brand-link { text-decoration: none; color: var(--text-main); font-size: 1.35rem; font-weight: 800; }
+    .nav-links { display: flex; flex-wrap: wrap; gap: 0.45rem; }
+    .nav-links a {
+      text-decoration: none; color: var(--text-muted); font-size: 0.88rem; font-weight: 600;
+      padding: 0.4rem 0.75rem; border-radius: 7px; border: 1px solid transparent;
+    }
+    .nav-links a:hover, .nav-links a.active {
+      color: var(--text-main); background: rgba(59, 130, 246, 0.14); border-color: rgba(59, 130, 246, 0.35);
+    }
+    .tools-subnav { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1.3rem; }
+    .tools-subnav a {
+      text-decoration: none; font-size: 0.88rem; font-weight: 600;
+      padding: 0.5rem 0.9rem; border-radius: 8px;
+      background: var(--bg-card); color: var(--text-muted); border: 1px solid var(--border);
+    }
+    .tools-subnav a.active, .tools-subnav a:hover {
+      color: #fff; border-color: var(--accent-blue); background: rgba(59, 130, 246, 0.18);
+    }
+    .calc-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.25rem; align-items: start; }
+    @media (max-width: 820px) { .calc-grid { grid-template-columns: 1fr; } }
+    .panel { background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px; padding: 1.35rem; margin-bottom: 1.2rem; }
+    .panel-title { font-size: 1.05rem; font-weight: 700; margin: 0 0 1rem; padding-bottom: 0.55rem; border-bottom: 1px solid var(--border); }
+    .form-group { margin-bottom: 0.95rem; }
+    .form-label { display: flex; justify-content: space-between; font-size: 0.86rem; font-weight: 600; color: #cbd5e1; margin-bottom: 0.35rem; }
+    .form-input {
+      width: 100%; background: var(--bg-input); color: var(--text-main);
+      border: 1px solid var(--border); border-radius: 8px; padding: 0.6rem 0.75rem; font-size: 0.95rem; font-family: inherit;
+    }
+    .kpi-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; margin-bottom: 1rem; }
+    .kpi-card { background: rgba(255, 255, 255, 0.03); border: 1px solid var(--border); border-radius: 9px; padding: 0.85rem 0.95rem; }
+    .kpi-label { font-size: 0.78rem; color: var(--text-muted); margin-bottom: 0.25rem; }
+    .kpi-val { font-size: 1.12rem; font-weight: 800; }
+    .guide-section h2 { font-size: 1.18rem; color: #60a5fa; border-left: 3px solid var(--accent-blue); padding-left: 0.65rem; margin: 1.5rem 0 0.6rem; }
+    .guide-section p, .guide-section li { font-size: 0.93rem; color: #e2e8f0; }
+    .footer { margin-top: 2.5rem; padding-top: 1.3rem; border-top: 1px solid var(--border); color: var(--text-muted); font-size: 0.82rem; text-align: center; }
+    .footer-links { display: flex; justify-content: center; flex-wrap: wrap; gap: 1.1rem; margin-bottom: 0.65rem; }
+    .footer-links a { color: var(--text-muted); text-decoration: none; font-size: 0.84rem; }
+    .footer-links a:hover { color: var(--text-main); text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="top-nav">
+      <a href="../index.html" class="brand-link">⚡ ZIPPY 경제 브리핑</a>
+      <nav class="nav-links">
+        <a href="../index.html">오늘의 브리핑</a>
+        <a href="../archive/index.html">브리핑 아카이브</a>
+        <a href="../guide/index.html">경제·투자 가이드</a>
+        <a href="./dsr.html" class="active">DSR·금융 계산기</a>
+        <a href="../about.html">서비스 소개</a>
+      </nav>
+    </header>
+
+    <nav class="tools-subnav">
+      <a href="./dsr.html">🏦 DSR · 스트레스 DSR 계산기</a>
+      <a href="./compound.html">📈 복리 · 적립식 수익률 계산기</a>
+      <a href="./us-stock-tax.html" class="active">💵 해외주식 환차익 · 양도세 계산기</a>
+    </nav>
+
+    <h1 style="font-size:1.55rem; margin:0 0 0.35rem;">💵 해외주식 수익률 · 환차익 · 양도소득세 계산기</h1>
+    <p style="margin:0 0 1.3rem; color:var(--text-muted); font-size:0.93rem;">미국 주식 매수·매도 시점의 원·달러 환율 차이에 따른 환차익과 연간 250만 원 기본공제 후 양도소득세(22%)를 계산합니다.</p>
+
+    <div class="calc-grid">
+      <section class="panel">
+        <h2 class="panel-title">매수 · 매도 및 환율 조건</h2>
+        <div style="display:grid; grid-template-columns:1fr 1fr; gap:0.7rem;">
+          <div class="form-group">
+            <label class="form-label">매수 단가 (USD $)</label>
+            <input type="number" id="buy-usd" class="form-input" value="100" step="1" oninput="calcUsTax()" />
+          </div>
+          <div class="form-group">
+            <label class="form-label">매도 단가 (USD $)</label>
+            <input type="number" id="sell-usd" class="form-input" value="145" step="1" oninput="calcUsTax()" />
+          </div>
+        </div>
+        <div class="form-group">
+          <label class="form-label">매도 수량 (주)</label>
+          <input type="number" id="qty" class="form-input" value="200" step="10" oninput="calcUsTax()" />
+        </div>
+        <div style="display:grid; grid-template-columns:1fr 1fr; gap:0.7rem;">
+          <div class="form-group">
+            <label class="form-label">매수 당시 환율 (원/$)</label>
+            <input type="number" id="buy-fx" class="form-input" value="1330" step="5" oninput="calcUsTax()" />
+          </div>
+          <div class="form-group">
+            <label class="form-label">매도 당시 환율 (원/$)</label>
+            <input type="number" id="sell-fx" class="form-input" value="1400" step="5" oninput="calcUsTax()" />
+          </div>
+        </div>
+        <div class="form-group" style="margin-bottom:0;">
+          <label class="form-label">연간 기본공제 적용액 (원)</label>
+          <input type="number" id="deduction-krw" class="form-input" value="2500000" step="500000" oninput="calcUsTax()" />
+        </div>
+      </section>
+
+      <section class="panel">
+        <h2 class="panel-title">양도차익 · 환차익 · 세금 분석</h2>
+        <div class="kpi-grid">
+          <div class="kpi-card">
+            <div class="kpi-label">원화 환산 총 양도차익</div>
+            <div class="kpi-val" id="u-total-gain" style="color:var(--neon-green);">0원</div>
+          </div>
+          <div class="kpi-card">
+            <div class="kpi-label">예상 양도소득세 (22%)</div>
+            <div class="kpi-val" id="u-tax" style="color:#f87171;">0원</div>
+          </div>
+          <div class="kpi-card">
+            <div class="kpi-label">순수 주가 상승분 (매수환율 기준)</div>
+            <div class="kpi-val" id="u-stock-gain">0원</div>
+          </div>
+          <div class="kpi-card">
+            <div class="kpi-label">환율 변동 효과 (환차익/환차손)</div>
+            <div class="kpi-val" id="u-fx-gain" style="color:#60a5fa;">0원</div>
+          </div>
+        </div>
+        <div class="kpi-card">
+          <div class="kpi-label">세후 최종 실수령 매도금액 (세후 순수익률)</div>
+          <div class="kpi-val" id="u-net-proceeds" style="font-size:1.3rem; color:var(--neon-green);">0원</div>
+        </div>
+      </section>
+    </div>
+
+    <section class="panel guide-section">
+      <h2>📘 서학개미가 꼭 알아야 할 해외주식 양도소득세 &amp; 환차익 원리</h2>
+      <ul>
+        <li><strong>원화 기준 과세 원칙:</strong> 대한민국 세법상 해외주식 양도소득세는 달러($) 기준 수익이 아니라 <strong>결제일(T+2일 등) 기준 원화 환산 매도가액에서 원화 환산 매수가액(필요경비 포함)을 뺀 금액</strong>으로 과세합니다. 따라서 달러 주가가 그대로여도 매도 시점 원·달러 환율이 올랐다면 환차익에 대해서도 양도세가 부과될 수 있습니다.</li>
+        <li><strong>연간 250만 원 기본공제와 손익통산:</strong> 매년 1월 1일 ~ 12월 31일 사이에 결제 완료된 모든 해외주식의 이익과 손실을 합산(손익통산)한 뒤, 순이익에서 <strong>250만 원을 공제</strong>하고 남은 과세표준에 대해 <strong>22% (양도세 20% + 지방소득세 2%)</strong> 세율을 곱합니다.</li>
+        <li><strong>연말 손실 확정(Tax-Loss Harvesting) 팁:</strong> 올해 이미 250만 원 넘게 수익을 실현했다면, 연말 결제일 이전에 평가손실 중인 종목을 매도(필요 시 재매수)하여 손실을 확정하면 과세 대상 이익을 줄여 절세할 수 있습니다.</li>
+      </ul>
+    </section>
+
+    <footer class="footer">
+      <div class="footer-links">
+        <a href="../index.html">홈(오늘의 브리핑)</a>
+        <a href="../archive/index.html">브리핑 아카이브</a>
+        <a href="../guide/index.html">경제 가이드</a>
+        <a href="./dsr.html">DSR·금융 계산기</a>
+        <a href="../about.html">서비스 소개</a>
+        <a href="../privacy.html">개인정보처리방침</a>
+        <a href="../terms.html">이용약관 및 면책고지</a>
+        <a href="../contact.html">문의 및 정정요청</a>
+      </div>
+      <div>© ZIPPY Economy Briefing (zippy.kr). All rights reserved.</div>
+    </footer>
+  </div>
+
+  <script>
+    window.calcUsTax = function() {
+      const buyUsd = Number(document.getElementById("buy-usd").value) || 0;
+      const sellUsd = Number(document.getElementById("sell-usd").value) || 0;
+      const qty = Number(document.getElementById("qty").value) || 0;
+      const buyFx = Number(document.getElementById("buy-fx").value) || 1300;
+      const sellFx = Number(document.getElementById("sell-fx").value) || 1300;
+      const deduct = Number(document.getElementById("deduction-krw").value) || 0;
+
+      const buyKrw = buyUsd * qty * buyFx;
+      const sellKrw = sellUsd * qty * sellFx;
+      const totalGainKrw = sellKrw - buyKrw;
+
+      // 주가 변동분 (매수환율 고정 시) vs 환율 변동분
+      const stockOnlyGainKrw = (sellUsd - buyUsd) * qty * buyFx;
+      const fxEffectKrw = totalGainKrw - stockOnlyGainKrw;
+
+      const taxable = Math.max(0, totalGainKrw - deduct);
+      const tax = Math.round(taxable * 0.22);
+      const netGain = totalGainKrw - tax;
+      const netRoi = buyKrw > 0 ? ((netGain / buyKrw) * 100).toFixed(2) : "0.00";
+
+      document.getElementById("u-total-gain").textContent = `${Math.round(totalGainKrw).toLocaleString()}원`;
+      document.getElementById("u-tax").textContent = `${tax.toLocaleString()}원`;
+      document.getElementById("u-stock-gain").textContent = `${Math.round(stockOnlyGainKrw).toLocaleString()}원`;
+      document.getElementById("u-fx-gain").textContent = `${fxEffectKrw >= 0 ? '+' : ''}${Math.round(fxEffectKrw).toLocaleString()}원`;
+      document.getElementById("u-net-proceeds").textContent = `${Math.round(sellKrw - tax).toLocaleString()}원 (세후 수익률 ${netRoi}%)`;
+    };
+    calcUsTax();
+  </script>
+</body>
+</html>

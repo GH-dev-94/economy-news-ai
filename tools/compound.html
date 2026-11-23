@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
+  <title>복리 · 적립식 투자 수익률 계산기 (일반과세 vs ISA·연금저축 절세 비교) | ⚡ ZIPPY</title>
+  <meta name="description" content="거치식 및 매월 적립식 복리 투자 수익률, 배당 재투자 효과, 일반 계좌(15.4% 과세)와 ISA·연금저축 절세 계좌의 만기 실수령액 차이를 연도별로 시뮬레이션해 보세요." />
+  <link rel="canonical" href="https://zippy.kr/tools/compound.html" />
+  <meta property="og:title" content="📈 복리 · 적립식 투자 수익률 계산기 | ⚡ ZIPPY" />
+  <meta property="og:description" content="초기 투자금과 월 적립금, 목표 수익률에 따른 연도별 복리 자산 증가와 절세 효과를 한눈에 계산합니다." />
+  <meta property="og:url" content="https://zippy.kr/tools/compound.html" />
+  <meta property="og:type" content="website" />
+  <meta name="theme-color" content="#0e1117" />
+  <link rel="manifest" href="../manifest.json" />
+  <link rel="apple-touch-icon" href="../icons/icon-192.png" />
+  <link rel="icon" type="image/png" sizes="192x192" href="../icons/icon-192.png" />
+  <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-dynamic-subset.min.css" />
+  <meta name="google-adsense-account" content="ca-pub-8243997410078269" />
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8243997410078269" crossorigin="anonymous"></script>
+  <style>
+    :root {
+      --bg: #0e1117; --bg-card: #161a23; --bg-input: #0b0e14;
+      --text-main: #fafafa; --text-muted: #94a3b8;
+      --border: rgba(250, 250, 250, 0.14);
+      --accent-blue: #3b82f6; --neon-green: #3dd56d; --neon-green-bg: rgba(61, 213, 109, 0.14);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; padding: 0; background: var(--bg); color: var(--text-main);
+      font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+      line-height: 1.65; -webkit-font-smoothing: antialiased;
+    }
+    .container { max-width: 980px; margin: 0 auto; padding: 1.4rem 1.25rem 3.5rem; }
+    .top-nav {
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 0.75rem; padding-bottom: 0.9rem; margin-bottom: 1.2rem;
+      border-bottom: 2px solid var(--accent-blue);
+    }
+    .brand-link { text-decoration: none; color: var(--text-main); font-size: 1.35rem; font-weight: 800; }
+    .nav-links { display: flex; flex-wrap: wrap; gap: 0.45rem; }
+    .nav-links a {
+      text-decoration: none; color: var(--text-muted); font-size: 0.88rem; font-weight: 600;
+      padding: 0.4rem 0.75rem; border-radius: 7px; border: 1px solid transparent;
+    }
+    .nav-links a:hover, .nav-links a.active {
+      color: var(--text-main); background: rgba(59, 130, 246, 0.14); border-color: rgba(59, 130, 246, 0.35);
+    }
+    .tools-subnav { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1.3rem; }
+    .tools-subnav a {
+      text-decoration: none; font-size: 0.88rem; font-weight: 600;
+      padding: 0.5rem 0.9rem; border-radius: 8px;
+      background: var(--bg-card); color: var(--text-muted); border: 1px solid var(--border);
+    }
+    .tools-subnav a.active, .tools-subnav a:hover {
+      color: #fff; border-color: var(--accent-blue); background: rgba(59, 130, 246, 0.18);
+    }
+    .calc-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.25rem; align-items: start; }
+    @media (max-width: 820px) { .calc-grid { grid-template-columns: 1fr; } }
+    .panel {
+      background: var(--bg-card); border: 1px solid var(--border);
+      border-radius: 12px; padding: 1.35rem; margin-bottom: 1.2rem;
+    }
+    .panel-title { font-size: 1.05rem; font-weight: 700; margin: 0 0 1rem; padding-bottom: 0.55rem; border-bottom: 1px solid var(--border); }
+    .form-group { margin-bottom: 1rem; }
+    .form-label { display: flex; justify-content: space-between; font-size: 0.87rem; font-weight: 600; color: #cbd5e1; margin-bottom: 0.38rem; }
+    .form-hint { font-size: 0.78rem; color: var(--neon-green); }
+    .form-input, .form-select {
+      width: 100%; background: var(--bg-input); color: var(--text-main);
+      border: 1px solid var(--border); border-radius: 8px; padding: 0.62rem 0.75rem; font-size: 0.95rem; font-family: inherit;
+    }
+    .kpi-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; margin-bottom: 1rem; }
+    .kpi-card { background: rgba(255, 255, 255, 0.03); border: 1px solid var(--border); border-radius: 9px; padding: 0.85rem 0.95rem; }
+    .kpi-label { font-size: 0.78rem; color: var(--text-muted); margin-bottom: 0.25rem; }
+    .kpi-val { font-size: 1.15rem; font-weight: 800; }
+    .table-wrap { overflow-x: auto; max-height: 360px; overflow-y: auto; margin-top: 0.6rem; }
+    table.comp-table { width: 100%; border-collapse: collapse; font-size: 0.84rem; }
+    table.comp-table th, table.comp-table td { padding: 0.55rem; border-bottom: 1px solid var(--border); text-align: right; }
+    table.comp-table th:first-child, table.comp-table td:first-child { text-align: left; }
+    table.comp-table th { color: var(--text-muted); background: #161a23; position: sticky; top: 0; }
+    .guide-section h2 { font-size: 1.18rem; color: #60a5fa; border-left: 3px solid var(--accent-blue); padding-left: 0.65rem; margin: 1.5rem 0 0.6rem; }
+    .guide-section p, .guide-section li { font-size: 0.93rem; color: #e2e8f0; }
+    .footer { margin-top: 2.5rem; padding-top: 1.3rem; border-top: 1px solid var(--border); color: var(--text-muted); font-size: 0.82rem; text-align: center; }
+    .footer-links { display: flex; justify-content: center; flex-wrap: wrap; gap: 1.1rem; margin-bottom: 0.65rem; }
+    .footer-links a { color: var(--text-muted); text-decoration: none; font-size: 0.84rem; }
+    .footer-links a:hover { color: var(--text-main); text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="top-nav">
+      <a href="../index.html" class="brand-link">⚡ ZIPPY 경제 브리핑</a>
+      <nav class="nav-links">
+        <a href="../index.html">오늘의 브리핑</a>
+        <a href="../archive/index.html">브리핑 아카이브</a>
+        <a href="../guide/index.html">경제·투자 가이드</a>
+        <a href="./dsr.html" class="active">DSR·금융 계산기</a>
+        <a href="../about.html">서비스 소개</a>
+      </nav>
+    </header>
+
+    <nav class="tools-subnav">
+      <a href="./dsr.html">🏦 DSR · 스트레스 DSR 계산기</a>
+      <a href="./compound.html" class="active">📈 복리 · 적립식 수익률 계산기</a>
+      <a href="./us-stock-tax.html">💵 해외주식 환차익 · 양도세 계산기</a>
+    </nav>
+
+    <h1 style="font-size:1.55rem; margin:0 0 0.35rem;">📈 복리 · 적립식 투자 수익률 계산기</h1>
+    <p style="margin:0 0 1.3rem; color:var(--text-muted); font-size:0.93rem;">초기 거치금과 매월 적립금, 연평균 수익률에 따른 장기 복리 성장 및 절세 계좌(ISA·연금저축) 효과를 비교합니다.</p>
+
+    <div class="calc-grid">
+      <section class="panel">
+        <h2 class="panel-title">투자 조건 입력</h2>
+        <div class="form-group">
+          <label class="form-label"><span>초기 거치 투자금 (만원)</span><span class="form-hint" id="init-kr">1,000만 원</span></label>
+          <input type="number" id="init-amt" class="form-input" value="1000" min="0" step="100" oninput="calcCompound()" />
+        </div>
+        <div class="form-group">
+          <label class="form-label"><span>매월 추가 적립금 (만원)</span><span class="form-hint" id="monthly-kr">100만 원</span></label>
+          <input type="number" id="monthly-amt" class="form-input" value="100" min="0" step="10" oninput="calcCompound()" />
+        </div>
+        <div class="form-group">
+          <label class="form-label"><span>연평균 기대 수익률 (연 %)</span><span class="form-hint">S&amp;P500 장기 평균 약 8~10%</span></label>
+          <input type="number" id="annual-return" class="form-input" value="8.5" min="0.1" max="50" step="0.5" oninput="calcCompound()" />
+        </div>
+        <div class="form-group">
+          <label class="form-label"><span>투자 기간 (년)</span><span class="form-hint" id="years-label">15년</span></label>
+          <input type="number" id="invest-years" class="form-input" value="15" min="1" max="50" step="1" oninput="calcCompound()" />
+        </div>
+        <div class="form-group" style="margin-bottom:0;">
+          <label class="form-label">복리 계산 주기</label>
+          <select id="compound-freq" class="form-select" onchange="calcCompound()">
+            <option value="12" selected>월복리 (매월 적립 및 재투자)</option>
+            <option value="1">연복리 (연 1회 정산 재투자)</option>
+          </select>
+        </div>
+      </section>
+
+      <section class="panel">
+        <h2 class="panel-title">복리 시뮬레이션 결과</h2>
+        <div class="kpi-grid">
+          <div class="kpi-card">
+            <div class="kpi-label">세전 최종 평가금액</div>
+            <div class="kpi-val" id="c-final-total" style="color:var(--neon-green);">0원</div>
+          </div>
+          <div class="kpi-card">
+            <div class="kpi-label">총 투자 원금 합계</div>
+            <div class="kpi-val" id="c-principal-total">0원</div>
+          </div>
+          <div class="kpi-card">
+            <div class="kpi-label">세전 순수익 (누적 수익률)</div>
+            <div class="kpi-val" id="c-profit-total" style="color:#60a5fa;">0원</div>
+          </div>
+          <div class="kpi-card">
+            <div class="kpi-label">일반과세(15.4%) 후 실수령액</div>
+            <div class="kpi-val" id="c-after-tax">0원</div>
+          </div>
+        </div>
+
+        <h3 style="font-size:0.93rem; margin: 1rem 0 0.35rem;">연도별 자산 증가 추이</h3>
+        <div class="table-wrap">
+          <table class="comp-table">
+            <thead>
+              <tr>
+                <th>경과</th>
+                <th>누적 원금</th>
+                <th>누적 수익</th>
+                <th>총 평가액</th>
+              </tr>
+            </thead>
+            <tbody id="compound-tbody"></tbody>
+          </table>
+        </div>
+      </section>
+    </div>
+
+    <section class="panel guide-section">
+      <h2>📘 복리 투자의 핵심 원리와 72의 법칙</h2>
+      <p>
+        <strong>복리(Compound Interest)</strong>는 원금에서 발생한 이자나 배당·자본차익을 인출하지 않고 다시 원금에 합산하여 재투자함으로써, 시간이 지날수록 수익의 증가 속도가 기하급수적으로 빨라지는 원리입니다.
+      </p>
+      <ul>
+        <li><strong>72의 법칙:</strong> 내 자산이 2배가 되는 데 걸리는 기간(년)은 <code>72 ÷ 연수익률(%)</code>로 간단히 어림잡을 수 있습니다. 예를 들어 연 8% 수익률을 꾸준히 달성하면 약 9년마다 원금이 2배로 불어납니다.</li>
+        <li><strong>절세 계좌(ISA·연금저축·IRP)와의 결합:</strong> 일반 계좌에서는 배당금이나 국내 상장 해외 ETF 매매차익에 대해 15.4%의 배당소득세가 원천징수되지만, ISA(개인종합자산관리계좌)나 연금저축 계좌를 활용하면 과세이연(세금을 나중에 냄) 효과 덕분에 세금으로 빠져나갈 금액까지 복리로 굴러가 장기 수익률이 크게 높아집니다.</li>
+      </ul>
+    </section>
+
+    <footer class="footer">
+      <div class="footer-links">
+        <a href="../index.html">홈(오늘의 브리핑)</a>
+        <a href="../archive/index.html">브리핑 아카이브</a>
+        <a href="../guide/index.html">경제 가이드</a>
+        <a href="./dsr.html">DSR·금융 계산기</a>
+        <a href="../about.html">서비스 소개</a>
+        <a href="../privacy.html">개인정보처리방침</a>
+        <a href="../terms.html">이용약관 및 면책고지</a>
+        <a href="../contact.html">문의 및 정정요청</a>
+      </div>
+      <div>© ZIPPY Economy Briefing (zippy.kr). All rights reserved.</div>
+    </footer>
+  </div>
+
+  <script>
+    function fmtMan(man) {
+      const n = Math.round(man);
+      if (n <= 0) return "0원";
+      const eok = Math.floor(n / 10000);
+      const rem = n % 10000;
+      if (eok > 0 && rem > 0) return `${eok}억 ${rem.toLocaleString()}만 원`;
+      if (eok > 0) return `${eok}억 원`;
+      return `${rem.toLocaleString()}만 원`;
+    }
+
+    window.calcCompound = function() {
+      const initMan = Math.max(0, Number(document.getElementById("init-amt").value) || 0);
+      const monthlyMan = Math.max(0, Number(document.getElementById("monthly-amt").value) || 0);
+      const ratePct = Math.max(0, Number(document.getElementById("annual-return").value) || 0);
+      const years = Math.min(50, Math.max(1, Number(document.getElementById("invest-years").value) || 1));
+      const freq = Number(document.getElementById("compound-freq").value) || 12;
+
+      document.getElementById("init-kr").textContent = fmtMan(initMan);
+      document.getElementById("monthly-kr").textContent = fmtMan(monthlyMan);
+      document.getElementById("years-label").textContent = `${years}년`;
+
+      let balance = initMan;
+      let principal = initMan;
+      const mRate = (ratePct / 100) / 12;
+      const yRate = ratePct / 100;
+      const rows = [];
+
+      for (let y = 1; y <= years; y++) {
+        if (freq === 12) {
+          for (let m = 1; m <= 12; m++) {
+            balance = (balance + monthlyMan) * (1 + mRate);
+            principal += monthlyMan;
+          }
+        } else {
+          principal += monthlyMan * 12;
+          balance = (balance + monthlyMan * 12) * (1 + yRate);
+        }
+        const profit = Math.max(0, balance - principal);
+        rows.push({ y, principal, profit, balance });
+      }
+
+      const last = rows[rows.length - 1];
+      const tax = last.profit * 0.154;
+      const afterTax = last.balance - tax;
+      const roi = last.principal > 0 ? ((last.profit / last.principal) * 100).toFixed(1) : "0.0";
+
+      document.getElementById("c-final-total").textContent = fmtMan(last.balance);
+      document.getElementById("c-principal-total").textContent = fmtMan(last.principal);
+      document.getElementById("c-profit-total").textContent = `+${fmtMan(last.profit)} (${roi}%)`;
+      document.getElementById("c-after-tax").textContent = fmtMan(afterTax);
+
+      document.getElementById("compound-tbody").innerHTML = rows.map(r => `
+        <tr>
+          <td>${r.y}년차</td>
+          <td>${fmtMan(r.principal)}</td>
+          <td style="color:var(--neon-green);">+${fmtMan(r.profit)}</td>
+          <td><strong>${fmtMan(r.balance)}</strong></td>
+        </tr>
+      `).join("");
+    };
+    calcCompound();
+  </script>
+</body>
+</html>

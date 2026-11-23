@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
+  <title>미국 CPI(소비자물가)·PCE·고용지표 발표 시 나스닥과 코스피가 움직이는 원리 | ⚡ ZIPPY 경제 가이드</title>
+  <meta name="description" content="매달 발표되는 미국 소비자물가지수(CPI), 근원 개인소비지출(Core PCE), 비농업 고용보고서(NFP) 및 실업률을 해석하는 방법과 증시 반응 공식을 정리합니다." />
+  <link rel="canonical" href="https://zippy.kr/guide/us-cpi-and-employment-indicators.html" />
+  <meta property="og:title" content="미국 CPI(소비자물가)·PCE·고용지표 발표 시 나스닥과 코스피가 움직이는 원리 | ⚡ ZIPPY 경제 가이드" />
+  <meta property="og:description" content="매달 발표되는 미국 소비자물가지수(CPI), 근원 개인소비지출(Core PCE), 비농업 고용보고서(NFP) 및 실업률을 해석하는 방법과 증시 반응 공식을 정리합니다." />
+  <meta property="og:url" content="https://zippy.kr/guide/us-cpi-and-employment-indicators.html" />
+  <meta property="og:type" content="article" />
+  <meta name="theme-color" content="#0e1117" />
+  <link rel="manifest" href="../manifest.json" />
+  <link rel="apple-touch-icon" href="../icons/icon-192.png" />
+  <link rel="icon" type="image/png" sizes="192x192" href="../icons/icon-192.png" />
+  <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-dynamic-subset.min.css" />
+  <meta name="google-adsense-account" content="ca-pub-8243997410078269" />
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8243997410078269" crossorigin="anonymous"></script>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "미국 CPI(소비자물가)·PCE·고용지표 발표 시 나스닥과 코스피가 움직이는 원리",
+  "description": "매달 발표되는 미국 소비자물가지수(CPI), 근원 개인소비지출(Core PCE), 비농업 고용보고서(NFP) 및 실업률을 해석하는 방법과 증시 반응 공식을 정리합니다.",
+  "author": {
+    "@type": "Organization",
+    "name": "ZIPPY Economy Briefing"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "ZIPPY",
+    "url": "https://zippy.kr"
+  },
+  "mainEntityOfPage": "https://zippy.kr/guide/us-cpi-and-employment-indicators.html"
+}
+</script>
+  <style>
+    :root {
+      --bg: #0e1117;
+      --bg-card: #161a23;
+      --bg-card-hover: #1c222e;
+      --text-main: #fafafa;
+      --text-muted: #94a3b8;
+      --border: rgba(250, 250, 250, 0.14);
+      --accent-blue: #3b82f6;
+      --accent-red: #ff4b4b;
+      --neon-green: #3dd56d;
+      --neon-green-bg: rgba(61, 213, 109, 0.14);
+      --quote-bg: rgba(255, 255, 255, 0.04);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; padding: 0;
+      background-color: var(--bg);
+      color: var(--text-main);
+      font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+      line-height: 1.72;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container { max-width: 980px; margin: 0 auto; padding: 1.4rem 1.25rem 3.5rem; }
+    .top-nav {
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 0.75rem;
+      padding-bottom: 0.9rem; margin-bottom: 1.35rem;
+      border-bottom: 2px solid var(--accent-blue);
+    }
+    .brand-link {
+      text-decoration: none; color: var(--text-main);
+      font-size: 1.35rem; font-weight: 800; letter-spacing: -0.02em;
+    }
+    .nav-links { display: flex; flex-wrap: wrap; gap: 0.45rem; }
+    .nav-links a {
+      text-decoration: none; color: var(--text-muted);
+      font-size: 0.88rem; font-weight: 600;
+      padding: 0.4rem 0.75rem; border-radius: 7px;
+      border: 1px solid transparent; transition: all 0.15s;
+    }
+    .nav-links a:hover, .nav-links a.active {
+      color: var(--text-main);
+      background: rgba(59, 130, 246, 0.14);
+      border-color: rgba(59, 130, 246, 0.35);
+    }
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.5rem 1.45rem;
+      margin-bottom: 1.15rem;
+    }
+    .badge {
+      display: inline-block; background: var(--neon-green-bg); color: var(--neon-green);
+      font-size: 0.78rem; font-weight: 700; padding: 0.15rem 0.55rem; border-radius: 5px; margin-bottom: 0.4rem;
+    }
+    .kw-badge {
+      display: inline-block; background: var(--neon-green-bg); color: var(--neon-green);
+      font-size: 0.8rem; font-weight: 600; padding: 0.18rem 0.58rem; border-radius: 5px;
+      margin-right: 0.35rem; margin-bottom: 0.25rem; text-decoration: none;
+    }
+    h1 { font-size: 1.6rem; margin: 0 0 0.55rem; line-height: 1.35; }
+    h2 { font-size: 1.22rem; margin: 1.55rem 0 0.65rem; color: #60a5fa; border-left: 3px solid var(--accent-blue); padding-left: 0.65rem; }
+    h3 { font-size: 1.06rem; margin: 1.15rem 0 0.45rem; color: var(--text-main); }
+    h4 { font-size: 0.98rem; margin: 0.95rem 0 0.4rem; color: #93c5fd; }
+    p, li { color: #e2e8f0; font-size: 0.95rem; }
+    ul, ol { padding-left: 1.3rem; margin: 0.45rem 0 0.85rem; }
+    li { margin-bottom: 0.4rem; }
+    .qna-item { margin-bottom: 0.95rem; }
+    .qna-q { font-weight: 700; color: var(--text-main); margin-bottom: 0.32rem; font-size: 0.95rem; }
+    .qna-a {
+      margin: 0; padding: 0.65rem 0.95rem;
+      background: var(--quote-bg); border-left: 3px solid var(--accent-blue);
+      border-radius: 4px; color: #cbd5e1; font-size: 0.92rem;
+    }
+    .table-wrap { overflow-x: auto; margin: 0.85rem 0; }
+    table.info-table { width: 100%; border-collapse: collapse; font-size: 0.87rem; }
+    table.info-table th, table.info-table td {
+      padding: 0.62rem 0.65rem; border: 1px solid var(--border); text-align: left;
+    }
+    table.info-table th { background: rgba(255, 255, 255, 0.04); color: #93c5fd; font-weight: 700; }
+    .grid-2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; }
+    .link-card {
+      display: block; text-decoration: none; color: inherit;
+      background: var(--bg-card); border: 1px solid var(--border);
+      border-radius: 11px; padding: 1.2rem 1.25rem; transition: all 0.15s;
+    }
+    .link-card:hover { border-color: var(--accent-blue); background: var(--bg-card-hover); transform: translateY(-1px); }
+    .footer {
+      margin-top: 2.5rem; padding-top: 1.3rem;
+      border-top: 1px solid var(--border);
+      color: var(--text-muted); font-size: 0.82rem; line-height: 1.65; text-align: center;
+    }
+    .footer-links {
+      display: flex; justify-content: center; flex-wrap: wrap; gap: 1.1rem; margin-bottom: 0.65rem;
+    }
+    .footer-links a { color: var(--text-muted); text-decoration: none; font-size: 0.84rem; }
+    .footer-links a:hover { color: var(--text-main); text-decoration: underline; }
+</style>
+</head>
+<body>
+  <div class="container">
+    <header class="top-nav">
+      <a href="../index.html" class="brand-link">⚡ ZIPPY 경제 브리핑</a>
+      <nav class="nav-links" aria-label="주요 메뉴">
+        <a href="../index.html">오늘의 브리핑</a>
+        <a href="../archive/index.html">브리핑 아카이브</a>
+        <a href="../guide/index.html" class="active">경제·투자 가이드</a>
+        <a href="../tools/dsr.html">DSR·금융 계산기</a>
+        <a href="../about.html">서비스 소개</a>
+      </nav>
+    </header>
+
+    
+    <main class="card">
+      <span class="badge">글로벌 경제지표</span>
+      <h1>미국 CPI(소비자물가)·PCE·고용지표 발표 시 나스닥과 코스피가 움직이는 원리</h1>
+      <p style="color:var(--text-muted); font-size:0.86rem; margin-bottom:1.1rem;">
+        ZIPPY 경제·투자 심층 가이드 · <a href="./index.html" style="color:#60a5fa;">전체 가이드 목록 보기</a>
+      </p>
+      
+      <p>미국 연방준비제도(Fed)의 통화정책 목표는 법률상 두 가지(Dual Mandate)로 정해져 있습니다. 바로 <strong>'물가 안정(연 2% 목표)'</strong>과 <strong>'최대 고용'</strong>입니다. 따라서 매달 발표되는 물가 지표와 고용 지표는 연준의 다음 금리 결정을 예고하는 가장 강력한 힌트가 됩니다.</p>
+
+      <h2>1. 3대 핵심 물가·고용 지표 비교</h2>
+      <div class="table-wrap">
+        <table class="info-table">
+          <thead>
+            <tr>
+              <th>지표명</th>
+              <th>발표 기관 및 시기</th>
+              <th>핵심 체크 포인트</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>소비자물가지수 (CPI)</strong></td>
+              <td>미 노동통계국(BLS) / 매월 중순</td>
+              <td>변동성이 큰 식료품·에너지를 제외한 <strong>근원(Core) CPI</strong>와 주거비 추이</td>
+            </tr>
+            <tr>
+              <td><strong>개인소비지출 (PCE) 물가</strong></td>
+              <td>미 상무부(BEA) / 매월 말</td>
+              <td>연준이 금리 결정 시 가장 중시하는 공식 인플레이션 기준 지표</td>
+            </tr>
+            <tr>
+              <td><strong>비농업 고용보고서 (NFP)</strong></td>
+              <td>미 노동통계국(BLS) / 매월 첫째 금요일</td>
+              <td>신규 취업자 수 증감, 실업률(%), 시간당 평균임금 상승률</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h2>2. 왜 '나쁜 경제 지표'에 주가가 오르기도 할까? (Good News is Bad News)</h2>
+      <p>인플레이션 우려가 높은 국면에서는 고용이 예상보다 너무 뜨겁게 나오면 <em>"임금 상승 → 소비 과열 → 물가 재반등 → 금리 인하 지연"</em>으로 해석되어 기술주(나스닥)가 하락하곤 합니다. 반대로 물가가 안정된 이후 경기 침체 우려가 커진 국면에서는 고용 지표가 급격히 악화될 경우 경기 침체 공포로 증시가 동반 하락합니다. 즉, <strong>현재 시장의 주된 걱정이 '인플레이션'인지 '경기 침체'인지</strong>를 먼저 파악해야 지표 발표 후 시장 방향을 정확히 읽을 수 있습니다.</p>
+
+      <hr style="border:none; border-top:1px solid var(--border); margin:1.8rem 0 1.2rem;" />
+      <h3>📚 함께 읽으면 좋은 ZIPPY 경제 가이드</h3>
+      <ul><li><a href="./stress-dsr-complete-guide.html" style="color:#60a5fa;">2026 스트레스 DSR 3단계 완벽 가이드: 수도권 3.0% vs 지방 0.75%, 금리유형별 한도 차이</a></li><li><a href="./interest-rate-and-market.html" style="color:#60a5fa;">기준금리 인상·인하가 주가·환율·채권·부동산에 미치는 구조 완벽 정리</a></li><li><a href="./exchange-rate-and-current-account.html" style="color:#60a5fa;">원·달러 환율 결정 요인과 경상수지·외환보유액으로 읽는 한국 경제 기초체력</a></li><li><a href="./etf-and-leverage-decay-risk.html" style="color:#60a5fa;">서학개미 필독: 미국 지수 ETF(S&amp;P500·나스닥100)와 3배 레버리지(SOXL·TQQQ) 음의 복리 리스크</a></li><li><a href="./valuation-per-pbr-roe.html" style="color:#60a5fa;">주식 투자 핵심 지표: PER·PBR·ROE·EPS로 저평가 우량주와 밸류업 종목 읽는 법</a></li><li><a href="./semiconductor-cycle-and-ai-export.html" style="color:#60a5fa;">한국 경제와 코스피의 핵심 엔진: 메모리 반도체(HBM·DRAM) 사이클과 수출 지표 읽는 법</a></li><li><a href="./compound-interest-and-tax-saving.html" style="color:#60a5fa;">복리의 마법과 절세 계좌(ISA·연금저축·IRP) 및 해외주식 양도세 250만 원 공제 활용법</a></li></ul>
+    </main>
+
+
+    <footer class="footer">
+      <div class="footer-links">
+        <a href="../index.html">홈(오늘의 브리핑)</a>
+        <a href="../archive/index.html">브리핑 아카이브</a>
+        <a href="../guide/index.html">경제 가이드</a>
+        <a href="../tools/dsr.html">DSR·금융 계산기</a>
+        <a href="../about.html">서비스 소개</a>
+        <a href="../privacy.html">개인정보처리방침</a>
+        <a href="../terms.html">이용약관 및 면책고지</a>
+        <a href="../contact.html">문의 및 정정요청</a>
+      </div>
+      <div>
+        ※ 본 서비스의 모든 브리핑 및 해설은 정보 제공 목적의 참고 자료이며, 특정 금융 상품이나 종목에 대한 투자 권유가 아닙니다.<br />
+        © ZIPPY Economy Briefing (zippy.kr). All rights reserved.
+      </div>
+    </footer>
+  </div>
+</body>
+</html>

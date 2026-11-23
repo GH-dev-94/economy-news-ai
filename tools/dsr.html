@@ -1,0 +1,1239 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
+  <title>DSR · 스트레스 DSR 계산기 (수도권 3.0% · 지방 0.75% · 금리유형별 한도 비교) | ⚡ ZIPPY</title>
+  <meta name="description" content="2026년 최신 스트레스 DSR 3단계(수도권 하한 3.0%, 지방 0.75% 유예, 신용대출 1.5%) 및 고정금리·주기형·혼합형·변동금리별 대출 가능 한도와 DSR 비율을 즉시 계산하고 비교해 보세요." />
+  <meta name="keywords" content="DSR 계산기, 스트레스 DSR 계산기, 스트레스 DSR 3단계, 주담대 한도 계산기, 수도권 스트레스 DSR 3.0%, 주기형 혼합형 변동금리 DSR 비교, 대출 한도 계산기" />
+  <link rel="canonical" href="https://zippy.kr/tools/dsr.html" />
+  <meta property="og:title" content="🧮 DSR · 스트레스 DSR 대출 한도 계산기 | ⚡ ZIPPY" />
+  <meta property="og:description" content="스트레스 DSR 적용·미적용 비교부터 고정·주기형·혼합형·변동금리별 최대 대출 가능 한도 역산까지 한눈에 계산하세요." />
+  <meta property="og:url" content="https://zippy.kr/tools/dsr.html" />
+  <meta property="og:type" content="website" />
+  <meta name="theme-color" content="#0e1117" />
+  <link rel="manifest" href="../manifest.json" />
+  <link rel="apple-touch-icon" href="../icons/icon-192.png" />
+  <link rel="icon" type="image/png" sizes="192x192" href="../icons/icon-192.png" />
+  <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-dynamic-subset.min.css" />
+  <meta name="google-adsense-account" content="ca-pub-8243997410078269" />
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8243997410078269" crossorigin="anonymous"></script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "SoftwareApplication",
+        "name": "ZIPPY DSR 및 스트레스 DSR 대출 한도 계산기",
+        "applicationCategory": "FinanceApplication",
+        "operatingSystem": "Web",
+        "url": "https://zippy.kr/tools/dsr.html",
+        "description": "스트레스 DSR 적용/미적용, 수도권(3.0%)·지방(0.75%) 지역별 가산금리, 고정·주기형·혼합형·변동금리 유형별 DSR 비율 및 최대 대출 한도 역산 시뮬레이터",
+        "offers": { "@type": "Offer", "price": "0", "priceCurrency": "KRW" }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "스트레스 DSR 가산금리가 붙으면 내가 실제로 내는 대출 이자도 오르나요?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "아니요. 스트레스 금리(예: 수도권 3.0%p, 지방 0.75%p)는 향후 금리 상승 위험을 반영해 '대출 한도(DSR)'를 심사할 때만 가산하는 가상의 금리입니다. 실제 매달 납부하는 이자는 은행과 약정한 실제 대출 금리로만 부과됩니다."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "변동금리, 혼합형, 주기형, 순수 고정금리 중 어떤 것이 대출 한도에 유리한가요?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "스트레스 DSR 3단계 기준 스트레스 금리 반영 비율은 변동금리 100%, 혼합형(5년 고정 후 변동) 80%, 주기형(5년 주기 재산정) 40%, 순수 고정금리 0%입니다. 따라서 순수 고정금리 > 주기형 > 혼합형 > 변동금리 순으로 대출 가능 한도가 높게 산출됩니다."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "신용대출도 스트레스 DSR이 무조건 적용되나요?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "신용대출(마이너스통장 포함)은 기존 보유액과 신규 신청액을 합산한 총 신용대출 잔액이 1억 원을 초과하는 경우에만 스트레스 금리(기본 1.50%p)가 적용됩니다. 1억 원 이하인 경우 스트레스 가산금리 없이 약정 금리로 DSR이 계산됩니다."
+            }
+          }
+        ]
+      }
+    ]
+  }
+  </script>
+
+  <style>
+    :root {
+      --bg: #0e1117;
+      --bg-card: #161a23;
+      --bg-input: #0b0e14;
+      --text-main: #fafafa;
+      --text-muted: #94a3b8;
+      --border: rgba(250, 250, 250, 0.14);
+      --accent-blue: #3b82f6;
+      --accent-red: #ff4b4b;
+      --accent-amber: #f59e0b;
+      --neon-green: #3dd56d;
+      --neon-green-bg: rgba(61, 213, 109, 0.14);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; padding: 0;
+      background-color: var(--bg);
+      color: var(--text-main);
+      font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+      line-height: 1.65;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container { max-width: 980px; margin: 0 auto; padding: 1.4rem 1.25rem 3.5rem; }
+    .top-nav {
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 0.75rem;
+      padding-bottom: 0.9rem; margin-bottom: 1.2rem;
+      border-bottom: 2px solid var(--accent-blue);
+    }
+    .brand-link {
+      text-decoration: none; color: var(--text-main);
+      font-size: 1.35rem; font-weight: 800; letter-spacing: -0.02em;
+    }
+    .nav-links { display: flex; flex-wrap: wrap; gap: 0.45rem; }
+    .nav-links a {
+      text-decoration: none; color: var(--text-muted);
+      font-size: 0.88rem; font-weight: 600;
+      padding: 0.4rem 0.75rem; border-radius: 7px;
+      border: 1px solid transparent; transition: all 0.15s;
+    }
+    .nav-links a:hover, .nav-links a.active {
+      color: var(--text-main);
+      background: rgba(59, 130, 246, 0.14);
+      border-color: rgba(59, 130, 246, 0.35);
+    }
+    .tools-subnav {
+      display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1.3rem;
+    }
+    .tools-subnav a {
+      text-decoration: none; font-size: 0.88rem; font-weight: 600;
+      padding: 0.5rem 0.9rem; border-radius: 8px;
+      background: var(--bg-card); color: var(--text-muted);
+      border: 1px solid var(--border); transition: all 0.15s;
+    }
+    .tools-subnav a.active, .tools-subnav a:hover {
+      color: #fff; border-color: var(--accent-blue);
+      background: rgba(59, 130, 246, 0.18);
+    }
+    .page-header { margin-bottom: 1.3rem; }
+    .page-header h1 { font-size: 1.55rem; margin: 0 0 0.35rem; }
+    .page-header p { margin: 0; color: var(--text-muted); font-size: 0.93rem; }
+
+    /* 모드 스위치 */
+    .mode-switch {
+      display: grid; grid-template-columns: 1fr 1fr; gap: 0.65rem;
+      background: var(--bg-card); padding: 0.45rem; border-radius: 11px;
+      border: 1px solid var(--border); margin-bottom: 1.25rem;
+    }
+    .mode-btn {
+      background: transparent; border: 1px solid transparent;
+      color: var(--text-muted); font-size: 0.95rem; font-weight: 700;
+      padding: 0.7rem 0.8rem; border-radius: 8px; cursor: pointer;
+      font-family: inherit; transition: all 0.15s;
+    }
+    .mode-btn.active {
+      background: rgba(59, 130, 246, 0.2);
+      color: #fff;
+      border-color: var(--accent-blue);
+    }
+
+    .calc-grid {
+      display: grid; grid-template-columns: 1.08fr 0.92fr; gap: 1.25rem;
+      align-items: start;
+    }
+    @media (max-width: 840px) {
+      .calc-grid { grid-template-columns: 1fr; }
+    }
+
+    .panel {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.35rem;
+      margin-bottom: 1.2rem;
+    }
+    .panel-title {
+      font-size: 1.05rem; font-weight: 700; margin: 0 0 1rem;
+      padding-bottom: 0.55rem; border-bottom: 1px solid var(--border);
+      display: flex; align-items: center; justify-content: space-between;
+    }
+
+    .form-group { margin-bottom: 1rem; }
+    .form-label {
+      display: flex; justify-content: space-between; align-items: center;
+      font-size: 0.87rem; font-weight: 600; color: #cbd5e1; margin-bottom: 0.38rem;
+    }
+    .form-hint { font-size: 0.78rem; color: var(--neon-green); font-weight: 600; }
+    .input-row { display: flex; gap: 0.5rem; align-items: center; }
+    .form-input, .form-select {
+      width: 100%; background: var(--bg-input); color: var(--text-main);
+      border: 1px solid var(--border); border-radius: 8px;
+      padding: 0.62rem 0.75rem; font-size: 0.95rem; font-family: inherit;
+    }
+    .form-input:focus, .form-select:focus {
+      outline: none; border-color: var(--accent-blue);
+    }
+    .quick-btns {
+      display: flex; flex-wrap: wrap; gap: 0.35rem; margin-top: 0.4rem;
+    }
+    .q-btn {
+      background: rgba(255, 255, 255, 0.05); border: 1px solid var(--border);
+      color: var(--text-muted); font-size: 0.76rem; padding: 0.25rem 0.55rem;
+      border-radius: 5px; cursor: pointer; font-family: inherit;
+    }
+    .q-btn:hover { color: #fff; border-color: var(--accent-blue); }
+
+    .radio-pills {
+      display: grid; grid-template-columns: repeat(auto-fit, minmax(115px, 1fr)); gap: 0.45rem;
+    }
+    .pill-btn {
+      background: var(--bg-input); border: 1px solid var(--border);
+      color: var(--text-muted); font-size: 0.83rem; font-weight: 600;
+      padding: 0.52rem 0.5rem; border-radius: 7px; cursor: pointer;
+      text-align: center; font-family: inherit; transition: all 0.15s;
+    }
+    .pill-btn.active {
+      background: rgba(59, 130, 246, 0.18);
+      color: #fff;
+      border-color: var(--accent-blue);
+    }
+    .pill-sub { display: block; font-size: 0.72rem; color: var(--text-muted); font-weight: 400; margin-top: 0.1rem; }
+    .pill-btn.active .pill-sub { color: #93c5fd; }
+
+    /* 기존 대출 아이템 */
+    .existing-item {
+      background: rgba(255, 255, 255, 0.025);
+      border: 1px solid var(--border);
+      border-radius: 9px;
+      padding: 0.9rem;
+      margin-bottom: 0.75rem;
+    }
+    .existing-head {
+      display: flex; justify-content: space-between; align-items: center;
+      margin-bottom: 0.65rem; font-size: 0.86rem; font-weight: 700; color: #93c5fd;
+    }
+    .btn-remove {
+      background: rgba(255, 75, 75, 0.14); border: 1px solid rgba(255, 75, 75, 0.35);
+      color: #fca5a5; font-size: 0.75rem; padding: 0.2rem 0.55rem;
+      border-radius: 5px; cursor: pointer; font-family: inherit;
+    }
+    .btn-add-loan {
+      width: 100%; background: rgba(59, 130, 246, 0.12);
+      border: 1px dashed rgba(59, 130, 246, 0.45);
+      color: #93c5fd; font-size: 0.88rem; font-weight: 600;
+      padding: 0.65rem; border-radius: 8px; cursor: pointer; font-family: inherit;
+    }
+    .btn-add-loan:hover { background: rgba(59, 130, 246, 0.22); color: #fff; }
+
+    /* 결과 대시보드 */
+    .result-hero {
+      background: linear-gradient(145deg, rgba(59, 130, 246, 0.14), rgba(22, 26, 35, 0.95));
+      border: 1px solid rgba(59, 130, 246, 0.4);
+      border-radius: 12px;
+      padding: 1.3rem;
+      margin-bottom: 1rem;
+    }
+    .dsr-header-row {
+      display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.5rem;
+    }
+    .dsr-big-num { font-size: 2.2rem; font-weight: 800; letter-spacing: -0.02em; }
+    .status-badge {
+      font-size: 0.82rem; font-weight: 700; padding: 0.25rem 0.65rem; border-radius: 6px;
+    }
+    .status-pass { background: var(--neon-green-bg); color: var(--neon-green); border: 1px solid rgba(61, 213, 109, 0.35); }
+    .status-warn { background: rgba(245, 158, 11, 0.16); color: #fbbf24; border: 1px solid rgba(245, 158, 11, 0.4); }
+    .status-fail { background: rgba(255, 75, 75, 0.16); color: #f87171; border: 1px solid rgba(255, 75, 75, 0.4); }
+
+    .gauge-track {
+      width: 100%; height: 12px; background: #0b0e14;
+      border-radius: 999px; overflow: hidden; position: relative;
+      margin: 0.75rem 0 0.4rem; border: 1px solid var(--border);
+    }
+    .gauge-fill {
+      height: 100%; border-radius: 999px; transition: width 0.25s ease, background 0.25s ease;
+    }
+    .gauge-labels {
+      display: flex; justify-content: space-between; font-size: 0.75rem; color: var(--text-muted);
+    }
+
+    .kpi-grid {
+      display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; margin-bottom: 1rem;
+    }
+    .kpi-card {
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid var(--border);
+      border-radius: 9px;
+      padding: 0.85rem 0.95rem;
+    }
+    .kpi-label { font-size: 0.78rem; color: var(--text-muted); margin-bottom: 0.25rem; }
+    .kpi-val { font-size: 1.12rem; font-weight: 800; color: var(--text-main); }
+    .kpi-sub { font-size: 0.75rem; color: var(--text-muted); margin-top: 0.2rem; }
+
+    .notice-callout {
+      background: rgba(61, 213, 109, 0.07);
+      border-left: 3px solid var(--neon-green);
+      padding: 0.75rem 0.9rem;
+      border-radius: 6px;
+      font-size: 0.83rem;
+      color: #d1fae5;
+      margin-bottom: 1rem;
+    }
+
+    /* 비교 테이블 */
+    .table-wrap { overflow-x: auto; margin-top: 0.6rem; }
+    table.comp-table {
+      width: 100%; border-collapse: collapse; font-size: 0.85rem;
+    }
+    table.comp-table th, table.comp-table td {
+      padding: 0.62rem 0.6rem; border-bottom: 1px solid var(--border); text-align: right;
+    }
+    table.comp-table th:first-child, table.comp-table td:first-child { text-align: left; }
+    table.comp-table th { color: var(--text-muted); font-weight: 600; background: rgba(255, 255, 255, 0.03); }
+    table.comp-table tr.highlight-row {
+      background: rgba(59, 130, 246, 0.14); font-weight: 700;
+    }
+
+    .action-bar { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 0.9rem; }
+    .act-btn {
+      flex: 1; background: var(--bg-input); border: 1px solid var(--border);
+      color: var(--text-main); font-size: 0.84rem; font-weight: 600;
+      padding: 0.58rem 0.8rem; border-radius: 8px; cursor: pointer; font-family: inherit;
+    }
+    .act-btn:hover { border-color: var(--accent-blue); }
+
+    /* 가이드 섹션 */
+    .guide-section h2 {
+      font-size: 1.2rem; color: #60a5fa; border-left: 3px solid var(--accent-blue);
+      padding-left: 0.65rem; margin: 1.6rem 0 0.7rem;
+    }
+    .guide-section h3 { font-size: 1.02rem; margin: 1.15rem 0 0.4rem; color: var(--text-main); }
+    .guide-section p, .guide-section li { font-size: 0.93rem; color: #e2e8f0; }
+    .guide-section ul { padding-left: 1.25rem; }
+    .guide-section li { margin-bottom: 0.4rem; }
+
+    .footer {
+      margin-top: 2.5rem; padding-top: 1.3rem;
+      border-top: 1px solid var(--border);
+      color: var(--text-muted); font-size: 0.82rem; line-height: 1.65; text-align: center;
+    }
+    .footer-links {
+      display: flex; justify-content: center; flex-wrap: wrap; gap: 1.1rem; margin-bottom: 0.65rem;
+    }
+    .footer-links a { color: var(--text-muted); text-decoration: none; font-size: 0.84rem; }
+    .footer-links a:hover { color: var(--text-main); text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="top-nav">
+      <a href="../index.html" class="brand-link">⚡ ZIPPY 경제 브리핑</a>
+      <nav class="nav-links" aria-label="주요 메뉴">
+        <a href="../index.html">오늘의 브리핑</a>
+        <a href="../archive/index.html">브리핑 아카이브</a>
+        <a href="../guide/index.html">경제·투자 가이드</a>
+        <a href="./dsr.html" class="active">DSR·금융 계산기</a>
+        <a href="../about.html">서비스 소개</a>
+      </nav>
+    </header>
+
+    <nav class="tools-subnav" aria-label="금융 계산기 메뉴">
+      <a href="./dsr.html" class="active">🏦 DSR · 스트레스 DSR 계산기</a>
+      <a href="./compound.html">📈 복리 · 적립식 수익률 계산기</a>
+      <a href="./us-stock-tax.html">💵 해외주식 환차익 · 양도세 계산기</a>
+    </nav>
+
+    <div class="page-header">
+      <h1>🏦 DSR · 스트레스 DSR 대출 한도 계산기</h1>
+      <p>현재 정책 기준(스트레스 DSR 적용·미적용, 수도권 3.0% / 지방 0.75% 차등, 고정·주기형·혼합형·변동금리 가중치)을 완벽 반영한 시뮬레이터입니다.</p>
+    </div>
+
+    <!-- 모드 전환 -->
+    <div class="mode-switch">
+      <button type="button" class="mode-btn active" id="mode-ratio-btn" onclick="setCalcMode('ratio')">
+        📊 내 DSR 비율 계산 (대출금액 기준)
+      </button>
+      <button type="button" class="mode-btn" id="mode-limit-btn" onclick="setCalcMode('limit')">
+        🏦 최대 대출 가능 한도 역산 (연소득 기준)
+      </button>
+    </div>
+
+    <div class="calc-grid">
+      <!-- 좌측: 입력 패널 -->
+      <div>
+        <!-- 1. 소득 및 스트레스 DSR 정책 설정 -->
+        <section class="panel">
+          <h2 class="panel-title">
+            <span>1. 연소득 및 스트레스 DSR 정책 설정</span>
+          </h2>
+
+          <div class="form-group">
+            <label class="form-label" for="annual-income">
+              <span>세전 연소득 (만원)</span>
+              <span class="form-hint" id="income-kr-label">6,000만 원</span>
+            </label>
+            <input type="number" id="annual-income" class="form-input" value="6000" min="500" step="100" oninput="recalcDSR()" />
+            <div class="quick-btns">
+              <button type="button" class="q-btn" onclick="adjustVal('annual-income', 500)">+500만</button>
+              <button type="button" class="q-btn" onclick="adjustVal('annual-income', 1000)">+1,000만</button>
+              <button type="button" class="q-btn" onclick="setVal('annual-income', 5000)">5,000만</button>
+              <button type="button" class="q-btn" onclick="setVal('annual-income', 7000)">7,000만</button>
+              <button type="button" class="q-btn" onclick="setVal('annual-income', 10000)">1억 (맞벌이 등)</button>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label class="form-label">금융권 DSR 한도 기준</label>
+            <div class="radio-pills" id="tier-pills">
+              <button type="button" class="pill-btn active" data-limit="40" onclick="selectTier(40, this)">
+                제1금융권 (40%)
+                <span class="pill-sub">시중은행·인터넷은행</span>
+              </button>
+              <button type="button" class="pill-btn" data-limit="50" onclick="selectTier(50, this)">
+                제2금융권 (50%)
+                <span class="pill-sub">보험·상호금융·저축은행</span>
+              </button>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label class="form-label">스트레스 DSR 적용 여부</label>
+            <div class="radio-pills">
+              <button type="button" class="pill-btn active" id="stress-on-btn" onclick="setStressEnabled(true)">
+                ✅ 스트레스 DSR 적용
+                <span class="pill-sub">현재 금융권 심사 기준</span>
+              </button>
+              <button type="button" class="pill-btn" id="stress-off-btn" onclick="setStressEnabled(false)">
+                ⭕ 미적용 (약정금리만)
+                <span class="pill-sub">가산금리 0%p 기준</span>
+              </button>
+            </div>
+          </div>
+
+          <div class="form-group" id="stress-policy-group">
+            <label class="form-label">
+              <span>지역 및 스트레스 금리 정책 기준</span>
+              <span class="form-hint" id="base-stress-badge">기본 3.00%p</span>
+            </label>
+            <div class="radio-pills" style="grid-template-columns: 1fr 1fr;">
+              <button type="button" class="pill-btn active" data-stress="3.0" onclick="selectStressPreset(3.0, this)">
+                수도권·규제지역 주담대
+                <span class="pill-sub">하한 3.00%p 적용</span>
+              </button>
+              <button type="button" class="pill-btn" data-stress="0.75" onclick="selectStressPreset(0.75, this)">
+                지방·비규제지역 주담대
+                <span class="pill-sub">2단계 유예 0.75%p</span>
+              </button>
+              <button type="button" class="pill-btn" data-stress="1.5" onclick="selectStressPreset(1.5, this)">
+                일반 3단계 표준
+                <span class="pill-sub">기본 1.50%p (신용대출 등)</span>
+              </button>
+              <button type="button" class="pill-btn" data-stress="custom" onclick="selectStressPreset('custom', this)">
+                직접 입력 (%p)
+                <span class="pill-sub">사용자 가산금리 설정</span>
+              </button>
+            </div>
+            <div id="custom-stress-wrap" style="display:none; margin-top:0.55rem;">
+              <input type="number" id="custom-stress-rate" class="form-input" value="1.50" min="0" max="10" step="0.05" oninput="recalcDSR()" placeholder="기본 스트레스 금리 (%p)" />
+            </div>
+          </div>
+        </section>
+
+        <!-- 2. 신규 대출 조건 -->
+        <section class="panel">
+          <h2 class="panel-title">
+            <span>2. 신규(예정) 대출 조건</span>
+          </h2>
+
+          <div class="form-group">
+            <label class="form-label" for="new-loan-type">신규 대출 종류</label>
+            <select id="new-loan-type" class="form-select" onchange="onNewLoanTypeChange()">
+              <option value="mortgage">주택담보대출 (아파트·주택 구입/담보)</option>
+              <option value="credit">신용대출 (총 잔액 1억 초과 시 스트레스 금리 적용)</option>
+              <option value="other">기타 담보·할부 대출</option>
+            </select>
+          </div>
+
+          <div class="form-group" id="new-amount-group">
+            <label class="form-label" for="new-loan-amount">
+              <span>신규 대출 신청 금액 (만원)</span>
+              <span class="form-hint" id="new-amount-kr-label">3억 5,000만 원</span>
+            </label>
+            <input type="number" id="new-loan-amount" class="form-input" value="35000" min="0" step="500" oninput="recalcDSR()" />
+            <div class="quick-btns">
+              <button type="button" class="q-btn" onclick="adjustVal('new-loan-amount', 1000)">+1,000만</button>
+              <button type="button" class="q-btn" onclick="adjustVal('new-loan-amount', 5000)">+5,000만</button>
+              <button type="button" class="q-btn" onclick="adjustVal('new-loan-amount', 10000)">+1억</button>
+              <button type="button" class="q-btn" onclick="setVal('new-loan-amount', 20000)">2억</button>
+              <button type="button" class="q-btn" onclick="setVal('new-loan-amount', 40000)">4억</button>
+              <button type="button" class="q-btn" onclick="setVal('new-loan-amount', 60000)">6억</button>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label class="form-label">
+              <span>금리 유형 (스트레스 가산율 차등)</span>
+              <span class="form-hint" id="rate-type-weight-label">가산율 40% 반영</span>
+            </label>
+            <div class="radio-pills" id="rate-type-pills" style="grid-template-columns: 1fr 1fr;">
+              <button type="button" class="pill-btn" data-rtype="fixed" data-weight="0" onclick="selectRateType('fixed', 0, this)">
+                🔒 순수 고정금리
+                <span class="pill-sub">만기까지 고정 · 스트레스 0%</span>
+              </button>
+              <button type="button" class="pill-btn active" data-rtype="periodic" data-weight="0.4" onclick="selectRateType('periodic', 0.4, this)">
+                🔄 주기형 (5년 주기)
+                <span class="pill-sub">3단계 기준 · 스트레스 40%</span>
+              </button>
+              <button type="button" class="pill-btn" data-rtype="mixed" data-weight="0.8" onclick="selectRateType('mixed', 0.8, this)">
+                ⚖️ 혼합형 (5년 고정 후 변동)
+                <span class="pill-sub">3단계 기준 · 스트레스 80%</span>
+              </button>
+              <button type="button" class="pill-btn" data-rtype="variable" data-weight="1.0" onclick="selectRateType('variable', 1.0, this)">
+                📈 변동금리 (6개월/1년)
+                <span class="pill-sub">전액 반영 · 스트레스 100%</span>
+              </button>
+            </div>
+          </div>
+
+          <div style="display:grid; grid-template-columns: 1fr 1fr; gap: 0.75rem;">
+            <div class="form-group">
+              <label class="form-label" for="new-loan-rate">약정 금리 (연 %)</label>
+              <input type="number" id="new-loan-rate" class="form-input" value="4.20" min="0.1" max="25" step="0.05" oninput="recalcDSR()" />
+            </div>
+            <div class="form-group">
+              <label class="form-label" for="new-loan-years">대출 만기 (년)</label>
+              <select id="new-loan-years" class="form-select" onchange="recalcDSR()">
+                <option value="5">5년 (신용대출 DSR 기본)</option>
+                <option value="10">10년</option>
+                <option value="15">15년</option>
+                <option value="20">20년</option>
+                <option value="25">25년</option>
+                <option value="30" selected>30년 (주담대 표준)</option>
+                <option value="35">35년</option>
+                <option value="40">40년</option>
+                <option value="50">50년</option>
+              </select>
+            </div>
+          </div>
+
+          <div style="display:grid; grid-template-columns: 1fr 1fr; gap: 0.75rem;">
+            <div class="form-group" style="margin-bottom:0;">
+              <label class="form-label" for="new-repay-method">상환 방식</label>
+              <select id="new-repay-method" class="form-select" onchange="recalcDSR()">
+                <option value="equal_payment" selected>원리금균등 분할상환</option>
+                <option value="equal_principal">원금균등 분할상환</option>
+                <option value="bullet">만기일시상환</option>
+              </select>
+            </div>
+            <div class="form-group" style="margin-bottom:0;">
+              <label class="form-label" for="new-grace-years">거치 기간 (이자만 납부)</label>
+              <select id="new-grace-years" class="form-select" onchange="recalcDSR()">
+                <option value="0" selected>없음 (0년 · 비거치)</option>
+                <option value="1">1년 거치</option>
+                <option value="2">2년 거치</option>
+                <option value="3">3년 거치</option>
+              </select>
+            </div>
+          </div>
+        </section>
+
+        <!-- 3. 기존 보유 대출 -->
+        <section class="panel">
+          <h2 class="panel-title">
+            <span>3. 기존 보유 대출 (선택)</span>
+            <span style="font-size:0.8rem; color:var(--text-muted); font-weight:500;" id="existing-count-label">0건</span>
+          </h2>
+          <div id="existing-loans-list"></div>
+          <button type="button" class="btn-add-loan" onclick="addExistingLoan()">
+            + 기존 보유 대출 추가 (신용대출 · 마이너스통장 · 기존 주담대 · 전세대출 등)
+          </button>
+        </section>
+      </div>
+
+      <!-- 우측: 결과 대시보드 -->
+      <div>
+        <section class="panel" style="position: sticky; top: 1rem;">
+          <h2 class="panel-title">
+            <span>📌 DSR 심사 &amp; 대출 한도 분석 결과</span>
+          </h2>
+
+          <div class="result-hero">
+            <div class="dsr-header-row">
+              <div>
+                <div style="font-size:0.82rem; color:#93c5fd; font-weight:600;" id="hero-subtitle">스트레스 DSR 적용 기준 최종 DSR</div>
+                <div class="dsr-big-num" id="res-dsr-pct">0.00%</div>
+              </div>
+              <span class="status-badge status-pass" id="res-status-badge">한도 이내 (통과)</span>
+            </div>
+
+            <div class="gauge-track">
+              <div class="gauge-fill" id="res-gauge-fill" style="width: 35%; background: var(--neon-green);"></div>
+            </div>
+            <div class="gauge-labels">
+              <span>0%</span>
+              <span>1금융 40%</span>
+              <span>2금융 50%</span>
+              <span>70%+</span>
+            </div>
+          </div>
+
+          <div class="kpi-grid">
+            <div class="kpi-card">
+              <div class="kpi-label">최대 신규 대출 가능 한도</div>
+              <div class="kpi-val" id="res-max-loan" style="color:var(--neon-green);">0원</div>
+              <div class="kpi-sub" id="res-max-loan-diff">스트레스 미적용 대비 -0원</div>
+            </div>
+            <div class="kpi-card">
+              <div class="kpi-label">심사 적용 금리 (스트레스 반영)</div>
+              <div class="kpi-val" id="res-eval-rate">4.20%</div>
+              <div class="kpi-sub" id="res-stress-detail">약정 4.20% + 가산 0.00%p</div>
+            </div>
+            <div class="kpi-card">
+              <div class="kpi-label">실제 월 납부 원리금 (약정금리)</div>
+              <div class="kpi-val" id="res-actual-monthly">0만 원</div>
+              <div class="kpi-sub">실제 통장에서 출금되는 월 상환액</div>
+            </div>
+            <div class="kpi-card">
+              <div class="kpi-label">DSR 심사 기준 월 환산액</div>
+              <div class="kpi-val" id="res-eval-monthly" style="color:#93c5fd;">0만 원</div>
+              <div class="kpi-sub" id="res-annual-total">연간 총 원리금 0만 원</div>
+            </div>
+          </div>
+
+          <div class="notice-callout" id="res-summary-callout">
+            💡 스트레스 가산금리는 <strong>대출 한도 심사 시에만</strong> 적용되며, 실제 매달 내는 이자는 약정 금리로만 계산됩니다.
+          </div>
+
+          <!-- 금리 유형별 4종 한도 비교표 -->
+          <h3 style="font-size:0.94rem; margin: 1.1rem 0 0.35rem; color:#fafafa;">
+            📊 금리 유형별 스트레스 금리 &amp; 최대 한도 비교
+          </h3>
+          <div style="font-size:0.78rem; color:var(--text-muted); margin-bottom:0.35rem;">
+            동일 소득·약정금리 조건에서 금리 유형만 바꾸었을 때의 한도 차이입니다.
+          </div>
+          <div class="table-wrap">
+            <table class="comp-table">
+              <thead>
+                <tr>
+                  <th>금리 유형</th>
+                  <th>가산금리</th>
+                  <th>심사금리</th>
+                  <th>예상 DSR</th>
+                  <th>최대 대출한도</th>
+                </tr>
+              </thead>
+              <tbody id="rate-type-comp-tbody"></tbody>
+            </table>
+          </div>
+
+          <!-- 대출별 연간 원리금 상세 분해 -->
+          <h3 style="font-size:0.94rem; margin: 1.2rem 0 0.35rem; color:#fafafa;">
+            🧾 대출 건별 연간 원리금 상환액 내역
+          </h3>
+          <div class="table-wrap">
+            <table class="comp-table">
+              <thead>
+                <tr>
+                  <th>구분</th>
+                  <th>원금</th>
+                  <th>심사금리</th>
+                  <th>연간 원리금</th>
+                  <th>DSR 비중</th>
+                </tr>
+              </thead>
+              <tbody id="loan-breakdown-tbody"></tbody>
+            </table>
+          </div>
+
+          <div class="action-bar">
+            <button type="button" class="act-btn" onclick="copyDsrSummary(this)">📋 계산 결과 텍스트 복사</button>
+            <button type="button" class="act-btn" onclick="saveDsrScenario(this)">💾 현재 입력 조건 저장</button>
+          </div>
+        </section>
+      </div>
+    </div>
+
+    <!-- 하단 정책 가이드 및 해설 콘텐츠 -->
+    <section class="panel guide-section">
+      <h2>📘 2026년 스트레스 DSR 3단계 &amp; 지역·금리유형별 핵심 정리</h2>
+      <p>
+        <strong>DSR(총부채원리금상환비율, Debt Service Ratio)</strong>은 차주의 세전 연소득 대비 모든 가계대출의 <strong>연간 원리금(원금+이자) 상환액 합계</strong>가 차지하는 비율입니다. 현재 제1금융권(은행)은 <strong>40%</strong>, 제2금융권은 <strong>50%</strong> 이내로 제한되며, <strong>스트레스 DSR</strong>은 향후 금리 상승기에 차주의 상환 부담이 커질 가능성을 미리 반영해 심사 금리에 일정 폭의 가산금리(스트레스 금리)를 더해 대출 한도를 산출하는 제도입니다.
+      </p>
+
+      <h3>1. 수도권(3.0%p) vs 지방(0.75%p) 지역별 차등 적용</h3>
+      <ul>
+        <li><strong>수도권(서울·경기·인천) 및 규제지역 주택담보대출:</strong> 수도권 가계부채 관리 강화를 위해 스트레스 금리 하한이 <strong>3.00%p</strong>로 상향 적용됩니다. 변동금리 선택 시 실제 금리에 3.00%p가 더해져 심사됩니다.</li>
+        <li><strong>지방(비수도권 비규제지역) 주택담보대출:</strong> 지방 부동산 경기와 실수요자 부담을 감안하여 2단계 수준인 <strong>0.75%p</strong> 가산금리 완화 조치가 적용됩니다.</li>
+        <li><strong>신용대출 및 기타대출:</strong> 기존 신용대출과 신규 신용대출을 합산한 총 잔액이 <strong>1억 원을 초과</strong>하는 경우에 한해 기본 스트레스 금리 <strong>1.50%p</strong>가 적용됩니다. (1억 원 이하 신용대출은 스트레스 금리 미적용)</li>
+      </ul>
+
+      <h3>2. 금리 유형별 스트레스 금리 반영 비율 (3단계 기준)</h3>
+      <p>대출 상품의 금리 변동 위험이 낮을수록(고정 기간이나 변동 주기가 길수록) 스트레스 금리가 적게 부과되어 <strong>대출 가능 한도가 늘어납니다</strong>.</p>
+      <div class="table-wrap">
+        <table class="comp-table">
+          <thead>
+            <tr>
+              <th>금리 유형</th>
+              <th>스트레스 반영 비율</th>
+              <th>수도권 주담대 (3.0% 기준)</th>
+              <th>지방 주담대 (0.75% 기준)</th>
+              <th>특징 및 한도 영향</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>순수 고정금리</strong> (만기까지 고정)</td>
+              <td>0% (미적용)</td>
+              <td>+0.00%p</td>
+              <td>+0.00%p</td>
+              <td>스트레스 금리 없음 · 한도 최대</td>
+            </tr>
+            <tr>
+              <td><strong>주기형</strong> (5년 주기 금리 재산정)</td>
+              <td>40% 반영</td>
+              <td>+1.20%p</td>
+              <td>+0.30%p</td>
+              <td>시중은행 주담대 주력 · 한도 방어 유리</td>
+            </tr>
+            <tr>
+              <td><strong>혼합형</strong> (5년 고정 후 변동 전환)</td>
+              <td>80% 반영</td>
+              <td>+2.40%p</td>
+              <td>+0.60%p</td>
+              <td>3단계에서 반영비율(60%→80%) 상향</td>
+            </tr>
+            <tr>
+              <td><strong>변동금리</strong> (6개월·1년 주기 변동)</td>
+              <td>100% 반영</td>
+              <td>+3.00%p</td>
+              <td>+0.75%p</td>
+              <td>가산금리 100% 부과 · 한도 축소 폭 최대</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h3>3. 상환 방식별 DSR 연간 원리금 산정 원리</h3>
+      <ul>
+        <li><strong>원리금균등 분할상환:</strong> 매월 상환하는 (원금+이자) 금액이 만기까지 동일하도록 계산한 뒤 이를 12개월분으로 환산합니다. 초기 상환 부담이 원금균등보다 낮고 금융권에서 가장 널리 쓰입니다.</li>
+        <li><strong>원금균등 분할상환:</strong> 대출 원금을 만기 개월 수로 균등하게 나누고, 매달 줄어드는 잔액에 대해 이자를 계산합니다. DSR 심사 시에는 전체 대출 기간의 연평균 이자액과 연간 원금 상환액을 합산하여 반영합니다.</li>
+        <li><strong>만기일시상환 (신용대출·마이너스통장 등):</strong> 실제 만기가 1년(연장형)이더라도 DSR 산정 시에는 감독 규정에 따른 <strong>산정 만기(신용대출 기본 5년)</strong> 동안 원금을 분할 상환하는 것으로 간주하여 <code>(대출원금 ÷ 산정만기) + 연간 이자</code>로 계산합니다.</li>
+      </ul>
+
+      <h3>4. DSR 산정 제외 주요 대출 (참고)</h3>
+      <ul>
+        <li><strong>정책모기지:</strong> 디딤돌대출, 보금자리론, 신생아 특례대출 등은 DSR 규제 대신 DTI(총부채상환비율)가 적용되어 은행 DSR 한도 심사 대상에서 제외됩니다. (단, 차주가 이후 별도 신용대출 등을 받을 때 기존 주담대 원리금은 DSR에 포함될 수 있습니다.)</li>
+        <li><strong>전세자금대출:</strong> 전세대출 원금은 임대인이 반환하는 보증금이므로 DSR 원금 산정에서 제외되며, 차주가 부담하는 <strong>연간 이자 상환액</strong>만 DSR에 반영됩니다.</li>
+        <li><strong>기타 제외 대출:</strong> 서민금융상품(햇살론 등), 300만 원 이하 소액 신용대출, 보험약관대출, 예·적금 담보대출 등.</li>
+      </ul>
+    </section>
+
+    <footer class="footer">
+      <div class="footer-links">
+        <a href="../index.html">홈(오늘의 브리핑)</a>
+        <a href="../archive/index.html">브리핑 아카이브</a>
+        <a href="../guide/index.html">경제 가이드</a>
+        <a href="./dsr.html">DSR·금융 계산기</a>
+        <a href="../about.html">서비스 소개</a>
+        <a href="../privacy.html">개인정보처리방침</a>
+        <a href="../terms.html">이용약관 및 면책고지</a>
+        <a href="../contact.html">문의 및 정정요청</a>
+      </div>
+      <div>
+        ※ 본 계산기는 금융당국 공개 산식을 기반으로 한 모의 계산 도구이며, 실제 대출 가능 한도는 개별 금융기관의 심사 기준 및 LTV·신용도에 따라 달라질 수 있습니다.<br />
+        © ZIPPY Economy Briefing (zippy.kr). All rights reserved.
+      </div>
+    </footer>
+  </div>
+
+  <script>
+    let calcMode = "ratio"; // 'ratio' | 'limit'
+    let dsrLimitPct = 40;
+    let stressEnabled = true;
+    let stressPresetVal = 3.0; // 3.0 | 0.75 | 1.5 | 'custom'
+    let newRateType = "periodic";
+    let newRateWeight = 0.4;
+    let existingLoans = [];
+    let nextLoanId = 1;
+
+    function formatKoreanMoney(manwon) {
+      const n = Math.round(Number(manwon) || 0);
+      if (n <= 0) return "0원";
+      const eok = Math.floor(n / 10000);
+      const rem = n % 10000;
+      if (eok > 0 && rem > 0) return `${eok}억 ${rem.toLocaleString()}만 원`;
+      if (eok > 0) return `${eok}억 원`;
+      return `${rem.toLocaleString()}만 원`;
+    }
+
+    window.adjustVal = function(id, delta) {
+      const el = document.getElementById(id);
+      if (!el) return;
+      const cur = Number(el.value) || 0;
+      el.value = Math.max(0, cur + delta);
+      recalcDSR();
+    };
+
+    window.setVal = function(id, val) {
+      const el = document.getElementById(id);
+      if (!el) return;
+      el.value = val;
+      recalcDSR();
+    };
+
+    window.setCalcMode = function(mode) {
+      calcMode = mode;
+      document.getElementById("mode-ratio-btn").classList.toggle("active", mode === "ratio");
+      document.getElementById("mode-limit-btn").classList.toggle("active", mode === "limit");
+      const amtGroup = document.getElementById("new-amount-group");
+      if (mode === "limit") {
+        amtGroup.style.opacity = "0.55";
+      } else {
+        amtGroup.style.opacity = "1";
+      }
+      recalcDSR();
+    };
+
+    window.selectTier = function(limit, btn) {
+      dsrLimitPct = limit;
+      document.querySelectorAll("#tier-pills .pill-btn").forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+      recalcDSR();
+    };
+
+    window.setStressEnabled = function(enabled) {
+      stressEnabled = enabled;
+      document.getElementById("stress-on-btn").classList.toggle("active", enabled);
+      document.getElementById("stress-off-btn").classList.toggle("active", !enabled);
+      document.getElementById("stress-policy-group").style.display = enabled ? "block" : "none";
+      recalcDSR();
+    };
+
+    window.selectStressPreset = function(val, btn) {
+      stressPresetVal = val;
+      document.querySelectorAll("#stress-policy-group .pill-btn").forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+      document.getElementById("custom-stress-wrap").style.display = (val === "custom") ? "block" : "none";
+      recalcDSR();
+    };
+
+    window.selectRateType = function(rtype, weight, btn) {
+      newRateType = rtype;
+      newRateWeight = weight;
+      document.querySelectorAll("#rate-type-pills .pill-btn").forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+      document.getElementById("rate-type-weight-label").textContent = `가산율 ${Math.round(weight * 100)}% 반영`;
+      recalcDSR();
+    };
+
+    window.onNewLoanTypeChange = function() {
+      const ltype = document.getElementById("new-loan-type").value;
+      const yearsEl = document.getElementById("new-loan-years");
+      if (ltype === "credit") {
+        yearsEl.value = "5";
+      } else if (ltype === "mortgage" && yearsEl.value === "5") {
+        yearsEl.value = "30";
+      }
+      recalcDSR();
+    };
+
+    function getBaseStressRate() {
+      if (!stressEnabled) return 0;
+      if (stressPresetVal === "custom") {
+        return Math.max(0, Number(document.getElementById("custom-stress-rate").value) || 0);
+      }
+      return Number(stressPresetVal) || 0;
+    }
+
+    // 연간 원리금 상환액 계산 (만원 단위 반환)
+    function calcAnnualDebtService(principalMan, annualRatePct, years, graceYears, method) {
+      const P = Math.max(0, Number(principalMan) || 0);
+      if (P <= 0 || years <= 0) return { annualTotal: 0, monthlyPayment: 0 };
+      const R = Math.max(0, Number(annualRatePct) || 0) / 100;
+      const r = R / 12;
+      const n = Math.max(1, Math.round(years * 12));
+      const g = Math.min(n - 1, Math.max(0, Math.round((graceYears || 0) * 12)));
+      const repayMonths = Math.max(1, n - g);
+
+      if (method === "interest_only") {
+        const annualInt = P * R;
+        return { annualTotal: annualInt, monthlyPayment: annualInt / 12 };
+      }
+
+      if (method === "bullet") {
+        const annualPrin = P / years;
+        const annualInt = P * R;
+        return { annualTotal: annualPrin + annualInt, monthlyPayment: (annualPrin + annualInt) / 12 };
+      }
+
+      if (method === "equal_principal") {
+        // 원금균등: 연간 원금(P / years) + 전체 기간 총이자의 연평균
+        const totalInterest = (P * r * g) + (P * r * (repayMonths + 1) / 2);
+        const annualAvgInterest = totalInterest / years;
+        const annualPrin = P / years;
+        const firstMonthPayment = (P / repayMonths) + (P * r);
+        return { annualTotal: annualPrin + annualAvgInterest, monthlyPayment: firstMonthPayment };
+      }
+
+      // 기본: 원리금균등 (equal_payment)
+      if (r === 0) {
+        const m = P / repayMonths;
+        return { annualTotal: (P / years), monthlyPayment: m };
+      }
+      const pmt = P * (r * Math.pow(1 + r, repayMonths)) / (Math.pow(1 + r, repayMonths) - 1);
+      // 거치기간이 있을 경우 전체 기간 총 상환원리금을 연수로 나눈 연평균 원리금 반영 (또는 비거치 시 pmt * 12)
+      if (g === 0) {
+        return { annualTotal: pmt * 12, monthlyPayment: pmt };
+      } else {
+        const totalPaid = (P * r * g) + (pmt * repayMonths);
+        return { annualTotal: totalPaid / years, monthlyPayment: pmt };
+      }
+    }
+
+    window.addExistingLoan = function(preset) {
+      const id = nextLoanId++;
+      const item = preset || {
+        id,
+        type: "credit",
+        amount: 3000,
+        rate: 5.2,
+        years: 5,
+        method: "bullet",
+        rateTypeWeight: 1.0
+      };
+      item.id = id;
+      existingLoans.push(item);
+      renderExistingLoans();
+      recalcDSR();
+    };
+
+    window.removeExistingLoan = function(id) {
+      existingLoans = existingLoans.filter(x => x.id !== id);
+      renderExistingLoans();
+      recalcDSR();
+    };
+
+    window.updateExistingLoan = function(id, field, val) {
+      const target = existingLoans.find(x => x.id === id);
+      if (!target) return;
+      if (field === "amount" || field === "rate" || field === "years" || field === "rateTypeWeight") {
+        target[field] = Number(val) || 0;
+      } else {
+        target[field] = val;
+        if (field === "type") {
+          if (val === "credit") { target.years = 5; target.method = "bullet"; }
+          if (val === "jeonse") { target.method = "interest_only"; target.rateTypeWeight = 0; }
+          if (val === "mortgage") { target.years = 30; target.method = "equal_payment"; }
+        }
+      }
+      renderExistingLoans();
+      recalcDSR();
+    };
+
+    function renderExistingLoans() {
+      const container = document.getElementById("existing-loans-list");
+      document.getElementById("existing-count-label").textContent = `${existingLoans.length}건`;
+      if (existingLoans.length === 0) {
+        container.innerHTML = "";
+        return;
+      }
+      container.innerHTML = existingLoans.map((loan, idx) => `
+        <div class="existing-item">
+          <div class="existing-head">
+            <span>기존 대출 #${idx + 1} (${formatKoreanMoney(loan.amount)})</span>
+            <button type="button" class="btn-remove" onclick="removeExistingLoan(${loan.id})">삭제 ✕</button>
+          </div>
+          <div style="display:grid; grid-template-columns: 1fr 1fr; gap: 0.55rem; margin-bottom:0.55rem;">
+            <div>
+              <label class="form-label" style="font-size:0.78rem;">대출 종류</label>
+              <select class="form-select" style="padding:0.45rem;" onchange="updateExistingLoan(${loan.id}, 'type', this.value)">
+                <option value="credit" ${loan.type === 'credit' ? 'selected' : ''}>신용대출·마통 (산정만기 5년)</option>
+                <option value="mortgage" ${loan.type === 'mortgage' ? 'selected' : ''}>기존 주택담보대출</option>
+                <option value="jeonse" ${loan.type === 'jeonse' ? 'selected' : ''}>전세대출 (이자만 DSR 반영)</option>
+                <option value="other" ${loan.type === 'other' ? 'selected' : ''}>자동차할부·기타대출</option>
+              </select>
+            </div>
+            <div>
+              <label class="form-label" style="font-size:0.78rem;">잔액/한도 (만원)</label>
+              <input type="number" class="form-input" style="padding:0.45rem;" value="${loan.amount}" min="0" step="100" oninput="updateExistingLoan(${loan.id}, 'amount', this.value)" />
+            </div>
+          </div>
+          <div style="display:grid; grid-template-columns: 1fr 1fr 1fr; gap: 0.55rem;">
+            <div>
+              <label class="form-label" style="font-size:0.78rem;">약정 금리 (%)</label>
+              <input type="number" class="form-input" style="padding:0.45rem;" value="${loan.rate}" step="0.1" oninput="updateExistingLoan(${loan.id}, 'rate', this.value)" />
+            </div>
+            <div>
+              <label class="form-label" style="font-size:0.78rem;">산정 만기 (년)</label>
+              <input type="number" class="form-input" style="padding:0.45rem;" value="${loan.years}" min="1" max="50" oninput="updateExistingLoan(${loan.id}, 'years', this.value)" />
+            </div>
+            <div>
+              <label class="form-label" style="font-size:0.78rem;">상환 방식</label>
+              <select class="form-select" style="padding:0.45rem;" onchange="updateExistingLoan(${loan.id}, 'method', this.value)">
+                <option value="equal_payment" ${loan.method === 'equal_payment' ? 'selected' : ''}>원리금균등</option>
+                <option value="equal_principal" ${loan.method === 'equal_principal' ? 'selected' : ''}>원금균등</option>
+                <option value="bullet" ${loan.method === 'bullet' ? 'selected' : ''}>만기일시</option>
+                <option value="interest_only" ${loan.method === 'interest_only' ? 'selected' : ''}>이자만(전세)</option>
+              </select>
+            </div>
+          </div>
+        </div>
+      `).join("");
+    }
+
+    function getNewLoanStressAdd(baseStress, weight, loanType, totalCreditAmountMan) {
+      if (!stressEnabled) return 0;
+      if (loanType === "credit") {
+        // 신용대출은 총 잔액 1억(10,000만원) 초과 시에만 스트레스 금리(기본 1.5%p 또는 설정값) 적용
+        if (totalCreditAmountMan <= 10000) return 0;
+        const creditBase = (stressPresetVal === "custom") ? baseStress : 1.5;
+        return creditBase * weight;
+      }
+      return baseStress * weight;
+    }
+
+    window.recalcDSR = function() {
+      const incomeMan = Math.max(100, Number(document.getElementById("annual-income").value) || 6000);
+      document.getElementById("income-kr-label").textContent = formatKoreanMoney(incomeMan);
+
+      const baseStress = getBaseStressRate();
+      document.getElementById("base-stress-badge").textContent = stressEnabled ? `기본 ${baseStress.toFixed(2)}%p` : "미적용 (0.00%p)";
+
+      const newLoanType = document.getElementById("new-loan-type").value;
+      let newAmountMan = Math.max(0, Number(document.getElementById("new-loan-amount").value) || 0);
+      const newRate = Math.max(0.1, Number(document.getElementById("new-loan-rate").value) || 4.2);
+      const newYears = Math.max(1, Number(document.getElementById("new-loan-years").value) || 30);
+      const newMethod = document.getElementById("new-repay-method").value;
+      const newGrace = Math.max(0, Number(document.getElementById("new-grace-years").value) || 0);
+
+      // 기존 신용대출 합계
+      const existingCreditSum = existingLoans
+        .filter(l => l.type === "credit")
+        .reduce((acc, l) => acc + (Number(l.amount) || 0), 0);
+
+      const totalCreditIfNew = existingCreditSum + (newLoanType === "credit" ? newAmountMan : 0);
+
+      // 기존 대출 연간 원리금 합계
+      let existingAnnualSum = 0;
+      const existingRows = existingLoans.map((loan, i) => {
+        let lStress = 0;
+        if (stressEnabled) {
+          if (loan.type === "credit" && totalCreditIfNew > 10000) {
+            lStress = 1.5 * (loan.rateTypeWeight ?? 1.0);
+          } else if (loan.type === "mortgage") {
+            lStress = baseStress * (loan.rateTypeWeight ?? 0.4);
+          }
+        }
+        const evalRate = (Number(loan.rate) || 0) + lStress;
+        const res = calcAnnualDebtService(loan.amount, evalRate, loan.years, 0, loan.method);
+        existingAnnualSum += res.annualTotal;
+        return {
+          name: `기존 #${i + 1} (${loan.type === 'credit' ? '신용' : loan.type === 'mortgage' ? '주담대' : loan.type === 'jeonse' ? '전세' : '기타'})`,
+          amount: loan.amount,
+          evalRate,
+          annual: res.annualTotal
+        };
+      });
+
+      // 최대 한도 역산 함수 (특정 가중치 weight와 스트레스 적용 여부 기준)
+      const maxAllowedAnnualDebt = incomeMan * (dsrLimitPct / 100);
+      const remainingAnnualCapacity = Math.max(0, maxAllowedAnnualDebt - existingAnnualSum);
+
+      function computeMaxNewLoan(weight, useStress) {
+        if (remainingAnnualCapacity <= 0) return 0;
+        let stressAdd = 0;
+        if (useStress) {
+          if (newLoanType === "credit") {
+            const creditBase = (stressPresetVal === "custom") ? baseStress : 1.5;
+            stressAdd = creditBase * weight;
+          } else {
+            stressAdd = baseStress * weight;
+          }
+        }
+        const evalRate = newRate + stressAdd;
+        const unit = calcAnnualDebtService(10000, evalRate, newYears, newGrace, newMethod);
+        if (unit.annualTotal <= 0) return 0;
+        const maxMan = Math.floor((remainingAnnualCapacity / unit.annualTotal) * 10000 / 10) * 10;
+        return Math.max(0, maxMan);
+      }
+
+      const maxLoanWithStress = computeMaxNewLoan(newRateWeight, stressEnabled);
+      const maxLoanNoStress = computeMaxNewLoan(newRateWeight, false);
+
+      if (calcMode === "limit") {
+        newAmountMan = maxLoanWithStress;
+        document.getElementById("new-loan-amount").value = newAmountMan;
+      }
+      document.getElementById("new-amount-kr-label").textContent = formatKoreanMoney(newAmountMan);
+
+      const newStressAdd = getNewLoanStressAdd(baseStress, newRateWeight, newLoanType, existingCreditSum + (newLoanType === "credit" ? newAmountMan : 0));
+      const newEvalRate = newRate + newStressAdd;
+
+      const newEvalRes = calcAnnualDebtService(newAmountMan, newEvalRate, newYears, newGrace, newMethod);
+      const newActualRes = calcAnnualDebtService(newAmountMan, newRate, newYears, newGrace, newMethod);
+
+      const totalAnnualDebt = existingAnnualSum + newEvalRes.annualTotal;
+      const finalDsrPct = (totalAnnualDebt / incomeMan) * 100;
+
+      // UI 업데이트
+      document.getElementById("hero-subtitle").textContent =
+        stressEnabled ? `스트레스 DSR 적용 기준 (한도 기준 ${dsrLimitPct}%)` : `스트레스 DSR 미적용 기준 (한도 기준 ${dsrLimitPct}%)`;
+      document.getElementById("res-dsr-pct").textContent = `${finalDsrPct.toFixed(2)}%`;
+
+      const badgeEl = document.getElementById("res-status-badge");
+      const gaugeEl = document.getElementById("res-gauge-fill");
+      const gaugeWidth = Math.min(100, (finalDsrPct / 70) * 100);
+      gaugeEl.style.width = `${gaugeWidth}%`;
+
+      if (finalDsrPct <= dsrLimitPct) {
+        badgeEl.className = "status-badge status-pass";
+        badgeEl.textContent = `✅ ${dsrLimitPct}% 한도 통과 (여유 ${(dsrLimitPct - finalDsrPct).toFixed(2)}%p)`;
+        gaugeEl.style.background = "var(--neon-green)";
+      } else if (finalDsrPct <= 50) {
+        badgeEl.className = "status-badge status-warn";
+        badgeEl.textContent = `⚠️ 1금융(40%) 초과 · 2금융(50%) 가능`;
+        gaugeEl.style.background = "var(--accent-amber)";
+      } else {
+        badgeEl.className = "status-badge status-fail";
+        badgeEl.textContent = `🚨 DSR 한도 초과 (+${(finalDsrPct - dsrLimitPct).toFixed(2)}%p)`;
+        gaugeEl.style.background = "var(--accent-red)";
+      }
+
+      document.getElementById("res-max-loan").textContent = formatKoreanMoney(maxLoanWithStress);
+      const diffMan = maxLoanNoStress - maxLoanWithStress;
+      document.getElementById("res-max-loan-diff").textContent =
+        stressEnabled && diffMan > 0
+          ? `스트레스 미적용(${formatKoreanMoney(maxLoanNoStress)}) 대비 -${formatKoreanMoney(diffMan)}`
+          : `현재 DSR ${dsrLimitPct}% 상한 기준 최대 한도`;
+
+      document.getElementById("res-eval-rate").textContent = `${newEvalRate.toFixed(2)}%`;
+      document.getElementById("res-stress-detail").textContent =
+        `약정 ${newRate.toFixed(2)}% + 스트레스 ${newStressAdd.toFixed(2)}%p`;
+
+      document.getElementById("res-actual-monthly").textContent = `${Math.round(newActualRes.monthlyPayment).toLocaleString()}만 원`;
+      document.getElementById("res-eval-monthly").textContent = `${Math.round(newEvalRes.monthlyPayment).toLocaleString()}만 원`;
+      document.getElementById("res-annual-total").textContent = `총 연간 원리금 ${Math.round(totalAnnualDebt).toLocaleString()}만 원`;
+
+      // 금리 유형별 4종 비교표 렌더링
+      const rateTypes = [
+        { key: "fixed", label: "🔒 순수 고정 (0%)", weight: 0 },
+        { key: "periodic", label: "🔄 주기형 (40%)", weight: 0.4 },
+        { key: "mixed", label: "⚖️ 혼합형 (80%)", weight: 0.8 },
+        { key: "variable", label: "📈 변동금리 (100%)", weight: 1.0 }
+      ];
+      const compTbody = document.getElementById("rate-type-comp-tbody");
+      compTbody.innerHTML = rateTypes.map(rt => {
+        const sAdd = getNewLoanStressAdd(baseStress, rt.weight, newLoanType, existingCreditSum + (newLoanType === "credit" ? newAmountMan : 0));
+        const eRate = newRate + sAdd;
+        const eRes = calcAnnualDebtService(newAmountMan, eRate, newYears, newGrace, newMethod);
+        const dsrVal = ((existingAnnualSum + eRes.annualTotal) / incomeMan) * 100;
+        const maxLim = computeMaxNewLoan(rt.weight, stressEnabled);
+        const isCur = rt.key === newRateType;
+        return `
+          <tr class="${isCur ? 'highlight-row' : ''}">
+            <td>${rt.label} ${isCur ? '👈' : ''}</td>
+            <td>+${sAdd.toFixed(2)}%p</td>
+            <td>${eRate.toFixed(2)}%</td>
+            <td style="color:${dsrVal <= dsrLimitPct ? 'var(--neon-green)' : '#f87171'};">${dsrVal.toFixed(2)}%</td>
+            <td>${formatKoreanMoney(maxLim)}</td>
+          </tr>
+        `;
+      }).join("");
+
+      // 대출 건별 분해 테이블
+      const breakTbody = document.getElementById("loan-breakdown-tbody");
+      const allRows = [
+        {
+          name: `신규 (${newLoanType === 'mortgage' ? '주담대' : newLoanType === 'credit' ? '신용' : '기타'})`,
+          amount: newAmountMan,
+          evalRate: newEvalRate,
+          annual: newEvalRes.annualTotal
+        },
+        ...existingRows
+      ];
+      breakTbody.innerHTML = allRows.map(r => {
+        const share = ((r.annual / incomeMan) * 100).toFixed(2);
+        return `
+          <tr>
+            <td>${r.name}</td>
+            <td>${formatKoreanMoney(r.amount)}</td>
+            <td>${r.evalRate.toFixed(2)}%</td>
+            <td>${Math.round(r.annual).toLocaleString()}만 원/년</td>
+            <td>${share}%</td>
+          </tr>
+        `;
+      }).join("");
+    };
+
+    window.copyDsrSummary = async function(btn) {
+      const incomeMan = Number(document.getElementById("annual-income").value) || 0;
+      const newAmountMan = Number(document.getElementById("new-loan-amount").value) || 0;
+      const dsrText = document.getElementById("res-dsr-pct").textContent;
+      const maxLoanText = document.getElementById("res-max-loan").textContent;
+      const evalRateText = document.getElementById("res-eval-rate").textContent;
+      const actualMonthly = document.getElementById("res-actual-monthly").textContent;
+
+      const text = [
+        `[⚡ ZIPPY 스트레스 DSR 계산 결과]`,
+        `- 세전 연소득: ${formatKoreanMoney(incomeMan)}`,
+        `- 신규 대출금: ${formatKoreanMoney(newAmountMan)}`,
+        `- 심사 적용 금리: ${evalRateText}`,
+        `- 최종 DSR: ${dsrText} (기준 ${dsrLimitPct}%)`,
+        `- 최대 신규 대출 가능 한도: ${maxLoanText}`,
+        `- 실제 월 상환액(약정금리 기준): ${actualMonthly}`,
+        `- 계산기 바로가기: https://zippy.kr/tools/dsr.html`
+      ].join("\n");
+
+      try {
+        await navigator.clipboard.writeText(text);
+        const orig = btn.textContent;
+        btn.textContent = "✅ 계산 결과가 복사되었습니다!";
+        setTimeout(() => { btn.textContent = orig; }, 2000);
+      } catch (e) {}
+    };
+
+    window.saveDsrScenario = function(btn) {
+      const payload = {
+        income: document.getElementById("annual-income").value,
+        newLoanType: document.getElementById("new-loan-type").value,
+        newAmount: document.getElementById("new-loan-amount").value,
+        newRate: document.getElementById("new-loan-rate").value,
+        newYears: document.getElementById("new-loan-years").value,
+        newMethod: document.getElementById("new-repay-method").value,
+        existingLoans
+      };
+      localStorage.setItem("zippy_dsr_scenario", JSON.stringify(payload));
+      const orig = btn.textContent;
+      btn.textContent = "✅ 현재 조건이 브라우저에 저장됨!";
+      setTimeout(() => { btn.textContent = orig; }, 2000);
+    };
+
+    (function loadSavedScenario() {
+      try {
+        const raw = localStorage.getItem("zippy_dsr_scenario");
+        if (raw) {
+          const data = JSON.parse(raw);
+          if (data.income) document.getElementById("annual-income").value = data.income;
+          if (data.newAmount) document.getElementById("new-loan-amount").value = data.newAmount;
+          if (data.newRate) document.getElementById("new-loan-rate").value = data.newRate;
+          if (data.newYears) document.getElementById("new-loan-years").value = data.newYears;
+          if (Array.isArray(data.existingLoans)) {
+            existingLoans = data.existingLoans;
+            nextLoanId = existingLoans.length + 10;
+            renderExistingLoans();
+          }
+        }
+      } catch (e) {}
+      recalcDSR();
+    })();
+  </script>
+</body>
+</html>

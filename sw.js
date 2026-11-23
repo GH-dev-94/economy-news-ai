@@ -1,7 +1,16 @@
-const CACHE_NAME = "zippy-economy-v1";
+const CACHE_NAME = "zippy-economy-v2";
 const CORE_ASSETS = [
   "./",
   "./index.html",
+  "./about.html",
+  "./privacy.html",
+  "./terms.html",
+  "./contact.html",
+  "./tools/dsr.html",
+  "./tools/compound.html",
+  "./tools/us-stock-tax.html",
+  "./guide/index.html",
+  "./archive/index.html",
   "./manifest.json",
   "./news_data.json",
   "./icons/icon-192.png",

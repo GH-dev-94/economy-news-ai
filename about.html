@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
+  <title>서비스 소개 및 편집 원칙 | ⚡ ZIPPY 경제 데일리 브리핑</title>
+  <meta name="description" content="ZIPPY(zippy.kr)의 경제 뉴스 큐레이션 파이프라인, 팩트 기반 편집 원칙, 데일리 브리핑 아카이브 및 금융·DSR 계산기 서비스를 소개합니다." />
+  <link rel="canonical" href="https://zippy.kr/about.html" />
+  <meta property="og:title" content="서비스 소개 및 편집 원칙 | ⚡ ZIPPY 경제 데일리 브리핑" />
+  <meta property="og:description" content="4시간 주기 국내·해외 경제 이슈 분석부터 심층 경제 가이드, 스트레스 DSR·금융 계산기까지 제공하는 경제 정보 플랫폼입니다." />
+  <meta property="og:url" content="https://zippy.kr/about.html" />
+  <meta property="og:type" content="website" />
+  <meta name="theme-color" content="#0e1117" />
+  <link rel="manifest" href="./manifest.json" />
+  <link rel="apple-touch-icon" href="./icons/icon-192.png" />
+  <link rel="icon" type="image/png" sizes="192x192" href="./icons/icon-192.png" />
+  <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-dynamic-subset.min.css" />
+  <meta name="google-adsense-account" content="ca-pub-8243997410078269" />
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8243997410078269" crossorigin="anonymous"></script>
+  <style>
+    :root {
+      --bg: #0e1117;
+      --bg-card: #161a23;
+      --bg-card-hover: #1c222e;
+      --text-main: #fafafa;
+      --text-muted: #94a3b8;
+      --border: rgba(250, 250, 250, 0.14);
+      --accent-blue: #3b82f6;
+      --accent-red: #ff4b4b;
+      --neon-green: #3dd56d;
+      --neon-green-bg: rgba(61, 213, 109, 0.14);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; padding: 0;
+      background-color: var(--bg);
+      color: var(--text-main);
+      font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+      line-height: 1.75;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container { max-width: 980px; margin: 0 auto; padding: 1.4rem 1.25rem 3.5rem; }
+    .top-nav {
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 0.75rem;
+      padding-bottom: 0.9rem; margin-bottom: 1.4rem;
+      border-bottom: 2px solid var(--accent-blue);
+    }
+    .brand-link {
+      text-decoration: none; color: var(--text-main);
+      font-size: 1.35rem; font-weight: 800; letter-spacing: -0.02em;
+    }
+    .nav-links { display: flex; flex-wrap: wrap; gap: 0.45rem; }
+    .nav-links a {
+      text-decoration: none; color: var(--text-muted);
+      font-size: 0.88rem; font-weight: 600;
+      padding: 0.4rem 0.75rem; border-radius: 7px;
+      border: 1px solid transparent; transition: all 0.15s;
+    }
+    .nav-links a:hover, .nav-links a.active {
+      color: var(--text-main);
+      background: rgba(59, 130, 246, 0.14);
+      border-color: rgba(59, 130, 246, 0.35);
+    }
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.75rem 1.6rem;
+      margin-bottom: 1.25rem;
+    }
+    h1 { font-size: 1.65rem; margin: 0 0 0.6rem; color: var(--text-main); }
+    h2 { font-size: 1.22rem; margin: 1.6rem 0 0.65rem; color: #60a5fa; border-left: 3px solid var(--accent-blue); padding-left: 0.65rem; }
+    h3 { font-size: 1.05rem; margin: 1.1rem 0 0.4rem; color: var(--text-main); }
+    p { margin: 0.55rem 0; color: #e2e8f0; font-size: 0.96rem; }
+    ul, ol { margin: 0.5rem 0 0.9rem; padding-left: 1.3rem; color: #e2e8f0; font-size: 0.95rem; }
+    li { margin-bottom: 0.45rem; }
+    .grid-2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1rem; margin-top: 1rem; }
+    .sub-box {
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid var(--border);
+      border-radius: 9px;
+      padding: 1.1rem 1.2rem;
+    }
+    .badge {
+      display: inline-block; background: var(--neon-green-bg); color: var(--neon-green);
+      font-size: 0.78rem; font-weight: 700; padding: 0.15rem 0.55rem; border-radius: 5px; margin-bottom: 0.4rem;
+    }
+    .footer {
+      margin-top: 2.5rem; padding-top: 1.3rem;
+      border-top: 1px solid var(--border);
+      color: var(--text-muted); font-size: 0.82rem; line-height: 1.65; text-align: center;
+    }
+    .footer-links {
+      display: flex; justify-content: center; flex-wrap: wrap; gap: 1.1rem; margin-bottom: 0.65rem;
+    }
+    .footer-links a {
+      color: var(--text-muted); text-decoration: none; font-size: 0.84rem;
+    }
+    .footer-links a:hover { color: var(--text-main); text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="top-nav">
+      <a href="./index.html" class="brand-link">⚡ ZIPPY 경제 브리핑</a>
+      <nav class="nav-links" aria-label="주요 메뉴">
+        <a href="./index.html">오늘의 브리핑</a>
+        <a href="./archive/index.html">브리핑 아카이브</a>
+        <a href="./guide/index.html">경제·투자 가이드</a>
+        <a href="./tools/dsr.html">DSR·금융 계산기</a>
+        <a href="./about.html" class="active">서비스 소개</a>
+      </nav>
+    </header>
+
+    <main class="card">
+      <span class="badge">ABOUT ZIPPY</span>
+      <h1>⚡ ZIPPY 경제 데일리 브리핑 &amp; 금융 유틸리티 소개</h1>
+      <p>
+        <strong>ZIPPY (https://zippy.kr)</strong>는 쏟아지는 국내외 거시경제·금융시장·산업 뉴스 속에서 개인 투자자와 직장인이 반드시 알아야 할 핵심 사실과 맥락을 빠르게 파악할 수 있도록 설계된 <strong>경제 브리핑 및 실용 금융 도구 플랫폼</strong>입니다.
+      </p>
+      <p>
+        단순히 뉴스 헤드라인을 나열하는 것에 그치지 않고, <strong>① 무슨 일이 있었나(핵심 팩트 종합)</strong>, <strong>② 왜 중요하며 어떤 파급효과가 있는가(심층 Q&amp;A 3선)</strong>, <strong>③ 앞으로 확인해야 할 후속 지표는 무엇인가(향후 관전 포인트)</strong>의 3단계 입체 구조로 이슈를 분석합니다. 또한 일자별 아카이브, 상설 경제 기초 가이드, 스트레스 DSR·복리·양도세 계산기를 함께 제공하여 의사결정을 돕습니다.
+      </p>
+
+      <h2>1. ZIPPY의 4대 핵심 구성</h2>
+      <div class="grid-2">
+        <div class="sub-box">
+          <h3>📅 실시간 데일리 경제 브리핑</h3>
+          <p>한국 표준시(KST) 기준 매일 4시간 간격(00시, 04시, 08시, 12시, 16시, 20시)으로 국내 Top 3 및 해외 Top 3 핵심 경제 이슈를 클러스터링하여 팩트와 Q&amp;A 중심으로 브리핑합니다.</p>
+        </div>
+        <div class="sub-box">
+          <h3>🗂️ 일자별 브리핑 아카이브</h3>
+          <p>하루가 지나면 사라지는 단발성 요약이 아니라, 매일의 국내·해외 시장 이슈와 총평을 날짜별 아카이브 페이지로 영구 보존하여 시장 흐름의 시계열 추적을 지원합니다.</p>
+        </div>
+        <div class="sub-box">
+          <h3>📘 상설 경제·투자 핵심 가이드</h3>
+          <p>기준금리와 환율 메커니즘, 미국 CPI·고용지표 해석법, 스트레스 DSR 3단계 규제 해설, ETF·레버리지 구조 등 시황을 이해하는 데 필수적인 기초 지식을 심층 아티클로 제공합니다.</p>
+        </div>
+        <div class="sub-box">
+          <h3>🧮 DSR · 스트레스 DSR &amp; 금융 계산기</h3>
+          <p>2026년 최신 정책(수도권 스트레스 금리 3.0% 하한, 지방 0.75% 유예, 혼합형·주기형·변동금리 가중치)을 반영한 DSR 대출 한도 계산기와 적립식 복리, 해외주식 양도세 계산기를 제공합니다.</p>
+        </div>
+      </div>
+
+      <h2>2. 콘텐츠 큐레이션 및 팩트 검증 원칙</h2>
+      <p>ZIPPY는 신뢰할 수 있는 경제 정보를 제공하기 위해 다음과 같은 데이터 처리 및 편집 원칙을 준수합니다.</p>
+      <ol>
+        <li><strong>다중 언론사 교차 클러스터링:</strong> 단일 기사에 의존하지 않고 국내 주요 경제지(매일경제, 한국경제, 연합뉴스 등)와 글로벌 경제 보도를 다중 수집하여, 동일 주제를 다룬 복수의 기사에서 공통으로 확인되는 사실만을 추출합니다.</li>
+        <li><strong>추측·환각 배제 및 수치 중심 서술:</strong> 확인되지 않은 풍문이나 자극적인 전망을 배제하고, 발표된 공식 지표·등락률·정책 수치를 중심으로 서술합니다.</li>
+        <li><strong>원문 출처 투명 공개:</strong> 모든 브리핑 카드 하단에는 분석의 근거가 된 주요 언론사 원문 기사 링크를 투명하게 명시하여, 독자가 언제든 원문 보도를 교차 확인할 수 있도록 합니다.</li>
+        <li><strong>정치적·상업적 중립성:</strong> 특정 종목이나 금융 상품의 매수·매도를 권유하지 않으며, 거시경제와 산업 구조의 인과관계를 객관적으로 해설하는 데 집중합니다.</li>
+      </ol>
+
+      <h2>3. 누구에게 유용한가요?</h2>
+      <ul>
+        <li>출근길·점심시간 5분 만에 <strong>국내 증시(코스피·코스닥)와 미국 증시(나스닥·S&amp;P500)의 핵심 변수</strong>를 파악하고 싶은 직장인 및 개인 투자자</li>
+        <li>뉴스에 등장하는 금리·환율·반도체 수출·관세 정책이 <strong>내 가계 경제와 포트폴리오에 어떤 영향을 주는지</strong> 인과관계(Q&amp;A)로 이해하고 싶은 분</li>
+        <li>주택 구입이나 갈아타기를 앞두고 <strong>스트레스 DSR 적용 여부 및 금리 유형(고정·주기·혼합·변동)별 실제 대출 한도 차이</strong>를 정확히 시뮬레이션해 보고 싶은 실수요자</li>
+        <li>취업 면접, 논술, 비즈니스 미팅을 위해 <strong>최근 시사 경제 이슈의 흐름을 날짜별로 복기</strong>해야 하는 취준생 및 실무자</li>
+      </ul>
+
+      <h2>4. 운영 및 문의 안내</h2>
+      <p>
+        서비스 이용 중 데이터 오류 정정 요청, 기능 제안 또는 제휴 문의가 있으신 경우 <a href="./contact.html" style="color:#60a5fa;">문의 및 정정요청 페이지</a>를 통해 언제든 연락해 주시기 바랍니다.
+      </p>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-links">
+        <a href="./index.html">홈(오늘의 브리핑)</a>
+        <a href="./archive/index.html">브리핑 아카이브</a>
+        <a href="./guide/index.html">경제 가이드</a>
+        <a href="./tools/dsr.html">DSR·금융 계산기</a>
+        <a href="./about.html">서비스 소개</a>
+        <a href="./privacy.html">개인정보처리방침</a>
+        <a href="./terms.html">이용약관 및 면책고지</a>
+        <a href="./contact.html">문의 및 정정요청</a>
+      </div>
+      <div>
+        ※ 본 서비스의 모든 브리핑 및 계산 결과는 정보 제공 목적의 참고 자료이며, 특정 금융 상품이나 종목에 대한 투자 권유가 아닙니다.<br />
+        © ZIPPY Economy Briefing (zippy.kr). All rights reserved.
+      </div>
+    </footer>
+  </div>
+</body>
+</html>

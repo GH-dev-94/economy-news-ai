@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
+  <title>서학개미 필독: 미국 지수 ETF(S&amp;P500·나스닥100)와 3배 레버리지(SOXL·TQQQ) 음의 복리 리스크 | ⚡ ZIPPY 경제 가이드</title>
+  <meta name="description" content="국내 투자자들이 가장 많이 매수하는 S&amp;P500·나스닥100 지수 추종 ETF와 3배 레버리지 ETF(SOXL, TQQQ)의 일일 리밸런싱 구조 및 횡보장 음의 복리(Volatility Decay) 원리를 수학적으로 해설합니다." />
+  <link rel="canonical" href="https://zippy.kr/guide/etf-and-leverage-decay-risk.html" />
+  <meta property="og:title" content="서학개미 필독: 미국 지수 ETF(S&amp;P500·나스닥100)와 3배 레버리지(SOXL·TQQQ) 음의 복리 리스크 | ⚡ ZIPPY 경제 가이드" />
+  <meta property="og:description" content="국내 투자자들이 가장 많이 매수하는 S&amp;P500·나스닥100 지수 추종 ETF와 3배 레버리지 ETF(SOXL, TQQQ)의 일일 리밸런싱 구조 및 횡보장 음의 복리(Volatility Decay) 원리를 수학적으로 해설합니다." />
+  <meta property="og:url" content="https://zippy.kr/guide/etf-and-leverage-decay-risk.html" />
+  <meta property="og:type" content="article" />
+  <meta name="theme-color" content="#0e1117" />
+  <link rel="manifest" href="../manifest.json" />
+  <link rel="apple-touch-icon" href="../icons/icon-192.png" />
+  <link rel="icon" type="image/png" sizes="192x192" href="../icons/icon-192.png" />
+  <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-dynamic-subset.min.css" />
+  <meta name="google-adsense-account" content="ca-pub-8243997410078269" />
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8243997410078269" crossorigin="anonymous"></script>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "서학개미 필독: 미국 지수 ETF(S&P500·나스닥100)와 3배 레버리지(SOXL·TQQQ) 음의 복리 리스크",
+  "description": "국내 투자자들이 가장 많이 매수하는 S&P500·나스닥100 지수 추종 ETF와 3배 레버리지 ETF(SOXL, TQQQ)의 일일 리밸런싱 구조 및 횡보장 음의 복리(Volatility Decay) 원리를 수학적으로 해설합니다.",
+  "author": {
+    "@type": "Organization",
+    "name": "ZIPPY Economy Briefing"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "ZIPPY",
+    "url": "https://zippy.kr"
+  },
+  "mainEntityOfPage": "https://zippy.kr/guide/etf-and-leverage-decay-risk.html"
+}
+</script>
+  <style>
+    :root {
+      --bg: #0e1117;
+      --bg-card: #161a23;
+      --bg-card-hover: #1c222e;
+      --text-main: #fafafa;
+      --text-muted: #94a3b8;
+      --border: rgba(250, 250, 250, 0.14);
+      --accent-blue: #3b82f6;
+      --accent-red: #ff4b4b;
+      --neon-green: #3dd56d;
+      --neon-green-bg: rgba(61, 213, 109, 0.14);
+      --quote-bg: rgba(255, 255, 255, 0.04);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; padding: 0;
+      background-color: var(--bg);
+      color: var(--text-main);
+      font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+      line-height: 1.72;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container { max-width: 980px; margin: 0 auto; padding: 1.4rem 1.25rem 3.5rem; }
+    .top-nav {
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 0.75rem;
+      padding-bottom: 0.9rem; margin-bottom: 1.35rem;
+      border-bottom: 2px solid var(--accent-blue);
+    }
+    .brand-link {
+      text-decoration: none; color: var(--text-main);
+      font-size: 1.35rem; font-weight: 800; letter-spacing: -0.02em;
+    }
+    .nav-links { display: flex; flex-wrap: wrap; gap: 0.45rem; }
+    .nav-links a {
+      text-decoration: none; color: var(--text-muted);
+      font-size: 0.88rem; font-weight: 600;
+      padding: 0.4rem 0.75rem; border-radius: 7px;
+      border: 1px solid transparent; transition: all 0.15s;
+    }
+    .nav-links a:hover, .nav-links a.active {
+      color: var(--text-main);
+      background: rgba(59, 130, 246, 0.14);
+      border-color: rgba(59, 130, 246, 0.35);
+    }
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.5rem 1.45rem;
+      margin-bottom: 1.15rem;
+    }
+    .badge {
+      display: inline-block; background: var(--neon-green-bg); color: var(--neon-green);
+      font-size: 0.78rem; font-weight: 700; padding: 0.15rem 0.55rem; border-radius: 5px; margin-bottom: 0.4rem;
+    }
+    .kw-badge {
+      display: inline-block; background: var(--neon-green-bg); color: var(--neon-green);
+      font-size: 0.8rem; font-weight: 600; padding: 0.18rem 0.58rem; border-radius: 5px;
+      margin-right: 0.35rem; margin-bottom: 0.25rem; text-decoration: none;
+    }
+    h1 { font-size: 1.6rem; margin: 0 0 0.55rem; line-height: 1.35; }
+    h2 { font-size: 1.22rem; margin: 1.55rem 0 0.65rem; color: #60a5fa; border-left: 3px solid var(--accent-blue); padding-left: 0.65rem; }
+    h3 { font-size: 1.06rem; margin: 1.15rem 0 0.45rem; color: var(--text-main); }
+    h4 { font-size: 0.98rem; margin: 0.95rem 0 0.4rem; color: #93c5fd; }
+    p, li { color: #e2e8f0; font-size: 0.95rem; }
+    ul, ol { padding-left: 1.3rem; margin: 0.45rem 0 0.85rem; }
+    li { margin-bottom: 0.4rem; }
+    .qna-item { margin-bottom: 0.95rem; }
+    .qna-q { font-weight: 700; color: var(--text-main); margin-bottom: 0.32rem; font-size: 0.95rem; }
+    .qna-a {
+      margin: 0; padding: 0.65rem 0.95rem;
+      background: var(--quote-bg); border-left: 3px solid var(--accent-blue);
+      border-radius: 4px; color: #cbd5e1; font-size: 0.92rem;
+    }
+    .table-wrap { overflow-x: auto; margin: 0.85rem 0; }
+    table.info-table { width: 100%; border-collapse: collapse; font-size: 0.87rem; }
+    table.info-table th, table.info-table td {
+      padding: 0.62rem 0.65rem; border: 1px solid var(--border); text-align: left;
+    }
+    table.info-table th { background: rgba(255, 255, 255, 0.04); color: #93c5fd; font-weight: 700; }
+    .grid-2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; }
+    .link-card {
+      display: block; text-decoration: none; color: inherit;
+      background: var(--bg-card); border: 1px solid var(--border);
+      border-radius: 11px; padding: 1.2rem 1.25rem; transition: all 0.15s;
+    }
+    .link-card:hover { border-color: var(--accent-blue); background: var(--bg-card-hover); transform: translateY(-1px); }
+    .footer {
+      margin-top: 2.5rem; padding-top: 1.3rem;
+      border-top: 1px solid var(--border);
+      color: var(--text-muted); font-size: 0.82rem; line-height: 1.65; text-align: center;
+    }
+    .footer-links {
+      display: flex; justify-content: center; flex-wrap: wrap; gap: 1.1rem; margin-bottom: 0.65rem;
+    }
+    .footer-links a { color: var(--text-muted); text-decoration: none; font-size: 0.84rem; }
+    .footer-links a:hover { color: var(--text-main); text-decoration: underline; }
+</style>
+</head>
+<body>
+  <div class="container">
+    <header class="top-nav">
+      <a href="../index.html" class="brand-link">⚡ ZIPPY 경제 브리핑</a>
+      <nav class="nav-links" aria-label="주요 메뉴">
+        <a href="../index.html">오늘의 브리핑</a>
+        <a href="../archive/index.html">브리핑 아카이브</a>
+        <a href="../guide/index.html" class="active">경제·투자 가이드</a>
+        <a href="../tools/dsr.html">DSR·금융 계산기</a>
+        <a href="../about.html">서비스 소개</a>
+      </nav>
+    </header>
+
+    
+    <main class="card">
+      <span class="badge">ETF·투자전략</span>
+      <h1>서학개미 필독: 미국 지수 ETF(S&amp;P500·나스닥100)와 3배 레버리지(SOXL·TQQQ) 음의 복리 리스크</h1>
+      <p style="color:var(--text-muted); font-size:0.86rem; margin-bottom:1.1rem;">
+        ZIPPY 경제·투자 심층 가이드 · <a href="./index.html" style="color:#60a5fa;">전체 가이드 목록 보기</a>
+      </p>
+      
+      <p>최근 국내 투자자들 사이에서 TIGER·KODEX 미국S&amp;P500 등 1배수 지수 추종 ETF와 함께, 미국 반도체 지수 일일 수익률의 3배를 추종하는 <strong>SOXL</strong>이나 나스닥100 3배를 추종하는 <strong>TQQQ</strong>에 대한 집중 투자가 크게 늘었습니다. 그러나 레버리지 ETF는 기초지수가 제자리에 돌아와도 원금이 녹아내리는 구조적 특성을 정확히 이해하고 접근해야 합니다.</p>
+
+      <h2>1. 레버리지 ETF의 '음의 복리(변동성 잠식)' 수치 예시</h2>
+      <p>레버리지 ETF는 '장기 누적 수익률의 3배'가 아니라 <strong>'하루(일간) 등락률의 3배'</strong>만을 추종하도록 매일 리밸런싱됩니다. 기초지수가 첫날 10% 오르고 둘째 날 9.09% 내리면 기초지수는 원래 가격(100)으로 돌아오지만, 3배 레버리지는 어떻게 되는지 비교해 보겠습니다.</p>
+
+      <div class="table-wrap">
+        <table class="info-table">
+          <thead>
+            <tr>
+              <th>구분</th>
+              <th>시작 가격</th>
+              <th>1일차 (지수 +10%)</th>
+              <th>2일차 (지수 -9.09%)</th>
+              <th>최종 결과</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>1배 기초지수 ETF</strong></td>
+              <td>100.0</td>
+              <td>110.0 (+10.0%)</td>
+              <td>100.0 (-9.09%)</td>
+              <td><strong>100.0 (원금 유지 0%)</strong></td>
+            </tr>
+            <tr>
+              <td><strong>2배 레버리지 ETF</strong></td>
+              <td>100.0</td>
+              <td>120.0 (+20.0%)</td>
+              <td>98.18 (-18.18%)</td>
+              <td><strong>98.18 (-1.82% 손실)</strong></td>
+            </tr>
+            <tr>
+              <td><strong>3배 레버리지 (SOXL·TQQQ)</strong></td>
+              <td>100.0</td>
+              <td>130.0 (+30.0%)</td>
+              <td>94.55 (-27.27%)</td>
+              <td><strong>94.55 (-5.45% 손실)</strong></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h2>2. 안전한 장기 자산 배분 원칙</h2>
+      <ul>
+        <li><strong>코어-새틀라이트(Core-Satellite) 전략:</strong> 전체 포트폴리오의 70~80% 이상은 S&amp;P500이나 나스닥100 같은 1배수 우량 지수 ETF로 적립식 복리 투자를 유지하고, 변동성 상품은 감내 가능한 소액 비중으로만 단기 추세 구간에 활용하는 것이 계좌 파산을 막는 핵심입니다.</li>
+        <li>1배수 우량 지수 ETF를 매월 꾸준히 적립했을 때의 10~20년 뒤 자산 규모는 <a href="../tools/compound.html" style="color:#60a5fa; font-weight:700;">[복리 · 적립식 투자 수익률 계산기]</a>에서 확인해 보세요.</li>
+      </ul>
+
+      <hr style="border:none; border-top:1px solid var(--border); margin:1.8rem 0 1.2rem;" />
+      <h3>📚 함께 읽으면 좋은 ZIPPY 경제 가이드</h3>
+      <ul><li><a href="./stress-dsr-complete-guide.html" style="color:#60a5fa;">2026 스트레스 DSR 3단계 완벽 가이드: 수도권 3.0% vs 지방 0.75%, 금리유형별 한도 차이</a></li><li><a href="./interest-rate-and-market.html" style="color:#60a5fa;">기준금리 인상·인하가 주가·환율·채권·부동산에 미치는 구조 완벽 정리</a></li><li><a href="./exchange-rate-and-current-account.html" style="color:#60a5fa;">원·달러 환율 결정 요인과 경상수지·외환보유액으로 읽는 한국 경제 기초체력</a></li><li><a href="./us-cpi-and-employment-indicators.html" style="color:#60a5fa;">미국 CPI(소비자물가)·PCE·고용지표 발표 시 나스닥과 코스피가 움직이는 원리</a></li><li><a href="./valuation-per-pbr-roe.html" style="color:#60a5fa;">주식 투자 핵심 지표: PER·PBR·ROE·EPS로 저평가 우량주와 밸류업 종목 읽는 법</a></li><li><a href="./semiconductor-cycle-and-ai-export.html" style="color:#60a5fa;">한국 경제와 코스피의 핵심 엔진: 메모리 반도체(HBM·DRAM) 사이클과 수출 지표 읽는 법</a></li><li><a href="./compound-interest-and-tax-saving.html" style="color:#60a5fa;">복리의 마법과 절세 계좌(ISA·연금저축·IRP) 및 해외주식 양도세 250만 원 공제 활용법</a></li></ul>
+    </main>
+
+
+    <footer class="footer">
+      <div class="footer-links">
+        <a href="../index.html">홈(오늘의 브리핑)</a>
+        <a href="../archive/index.html">브리핑 아카이브</a>
+        <a href="../guide/index.html">경제 가이드</a>
+        <a href="../tools/dsr.html">DSR·금융 계산기</a>
+        <a href="../about.html">서비스 소개</a>
+        <a href="../privacy.html">개인정보처리방침</a>
+        <a href="../terms.html">이용약관 및 면책고지</a>
+        <a href="../contact.html">문의 및 정정요청</a>
+      </div>
+      <div>
+        ※ 본 서비스의 모든 브리핑 및 해설은 정보 제공 목적의 참고 자료이며, 특정 금융 상품이나 종목에 대한 투자 권유가 아닙니다.<br />
+        © ZIPPY Economy Briefing (zippy.kr). All rights reserved.
+      </div>
+    </footer>
+  </div>
+</body>
+</html>
