@@ -529,61 +529,6 @@
       padding: 0;
     }
 
-    .top-global-nav {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 0.45rem;
-    }
-
-    .top-global-nav a {
-      text-decoration: none;
-      color: var(--text-muted);
-      font-size: 0.86rem;
-      font-weight: 600;
-      padding: 0.38rem 0.72rem;
-      border-radius: 7px;
-      border: 1px solid var(--border);
-      background: rgba(255, 255, 255, 0.03);
-      transition: all 0.15s ease;
-    }
-
-    .top-global-nav a:hover,
-    .top-global-nav a.active {
-      color: var(--text-main);
-      border-color: var(--accent-blue);
-      background: rgba(59, 130, 246, 0.16);
-    }
-
-    .hub-section {
-      margin-top: 2rem;
-      padding-top: 1.4rem;
-      border-top: 1px solid var(--border);
-    }
-
-    .hub-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-      gap: 0.9rem;
-      margin-top: 0.8rem;
-    }
-
-    .hub-card {
-      display: block;
-      text-decoration: none;
-      color: inherit;
-      background: var(--bg-card);
-      border: 1px solid var(--border);
-      border-radius: 10px;
-      padding: 1.1rem 1.15rem;
-      transition: all 0.15s ease;
-    }
-
-    .hub-card:hover {
-      border-color: var(--accent-blue);
-      background: var(--bg-card-hover);
-      transform: translateY(-1px);
-    }
-
     .footer-links a {
       color: var(--text-muted);
       text-decoration: none;
@@ -658,46 +603,6 @@
       <button class="action-btn" id="btn-download-md">📥 통합 뉴스레터 다운로드 (.md)</button>
       <button class="action-btn" id="btn-copy-md">📋 뉴스레터 텍스트 복사</button>
     </div>
-
-    <!-- 실용 금융·DSR 계산기 & 상설 경제 가이드 & 아카이브 허브 섹션 -->
-    <section class="hub-section" aria-label="실용 금융 도구 및 경제 가이드">
-      <h2 style="font-size:1.18rem; margin:0 0 0.35rem; color:#fafafa;">🧮 실용 금융 · DSR 계산기 &amp; 심층 경제 가이드</h2>
-      <p style="margin:0; font-size:0.88rem; color:var(--text-muted);">
-        최신 스트레스 DSR 3단계 정책 기준 대출 한도 시뮬레이터와 핵심 거시경제·투자 해설 아카이브를 활용해 보세요.
-      </p>
-      <div class="hub-grid">
-        <a href="./tools/dsr.html" class="hub-card">
-          <div style="font-size:0.76rem; color:var(--neon-green); font-weight:700; margin-bottom:0.25rem;">FLAGSHIP CALCULATOR</div>
-          <div style="font-size:1.02rem; font-weight:700; margin-bottom:0.35rem;">🏦 DSR · 스트레스 DSR 계산기</div>
-          <div style="font-size:0.84rem; color:var(--text-muted);">수도권(3.0%)·지방(0.75%) 차등 및 고정·주기형·혼합형·변동금리별 최대 대출 가능 한도 역산</div>
-        </a>
-        <a href="./tools/compound.html" class="hub-card">
-          <div style="font-size:0.76rem; color:#60a5fa; font-weight:700; margin-bottom:0.25rem;">INVESTMENT TOOL</div>
-          <div style="font-size:1.02rem; font-weight:700; margin-bottom:0.35rem;">📈 복리 · 적립식 수익률 계산기</div>
-          <div style="font-size:0.84rem; color:var(--text-muted);">초기 투자금과 월 적립금, 목표 수익률에 따른 연도별 자산 증가 및 세후 수령액 시뮬레이션</div>
-        </a>
-        <a href="./tools/us-stock-tax.html" class="hub-card">
-          <div style="font-size:0.76rem; color:#60a5fa; font-weight:700; margin-bottom:0.25rem;">TAX &amp; FX TOOL</div>
-          <div style="font-size:1.02rem; font-weight:700; margin-bottom:0.35rem;">💵 해외주식 환차익 · 양도세 계산기</div>
-          <div style="font-size:0.84rem; color:var(--text-muted);">매수·매도 환율 변동에 따른 환차익 분리 계산 및 250만 원 기본공제 후 22% 양도세 산출</div>
-        </a>
-        <a href="./guide/stress-dsr-complete-guide.html" class="hub-card">
-          <div style="font-size:0.76rem; color:var(--neon-green); font-weight:700; margin-bottom:0.25rem;">POLICY GUIDE</div>
-          <div style="font-size:1.02rem; font-weight:700; margin-bottom:0.35rem;">📘 2026 스트레스 DSR 3단계 완벽 가이드</div>
-          <div style="font-size:0.84rem; color:var(--text-muted);">주기형(40%) vs 혼합형(80%) vs 변동금리(100%) 가산금리 구조와 한도 방어 전략</div>
-        </a>
-        <a href="./guide/index.html" class="hub-card">
-          <div style="font-size:0.76rem; color:var(--neon-green); font-weight:700; margin-bottom:0.25rem;">EVERGREEN ARCHIVE</div>
-          <div style="font-size:1.02rem; font-weight:700; margin-bottom:0.35rem;">📚 경제 · 투자 핵심 가이드 8선</div>
-          <div style="font-size:0.84rem; color:var(--text-muted);">기준금리·환율·미국 CPI·반도체 사이클·레버리지 ETF 음의 복리·PER/PBR 밸류에이션 해설</div>
-        </a>
-        <a href="./archive/index.html" class="hub-card">
-          <div style="font-size:0.76rem; color:#93c5fd; font-weight:700; margin-bottom:0.25rem;">DAILY HISTORY</div>
-          <div style="font-size:1.02rem; font-weight:700; margin-bottom:0.35rem;">🗂️ 일자별 브리핑 전체 아카이브</div>
-          <div style="font-size:0.84rem; color:var(--text-muted);">날짜별로 축적된 국내·해외 주요 경제 이슈 원고와 심층 Q&amp;A 히스토리 열람</div>
-        </a>
-      </div>
-    </section>
 
     <!-- [광고 슬롯 2: 하단 배너] -->
     <div class="ad-banner-slot" id="ad-slot-bottom"></div>
