@@ -90,17 +90,28 @@
     .page-header h1 { font-size: 1.55rem; font-weight: 800; margin: 0 0 0.32rem; letter-spacing: -0.02em; }
     .page-header p { margin: 0; color: var(--text-muted); font-size: 0.93rem; }
     .tools-subnav {
-      display: flex; gap: 1.25rem; border-bottom: 1px solid var(--border);
-      margin-bottom: 1.25rem; overflow-x: auto; scrollbar-width: none;
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 0.5rem;
+      margin-bottom: 1.25rem;
     }
-    .tools-subnav::-webkit-scrollbar { display: none; }
+    @media (max-width: 640px) {
+      .tools-subnav {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 0.4rem;
+      }
+    }
     .tools-subnav a {
-      text-decoration: none; font-size: 0.92rem; font-weight: 600;
-      padding: 0.62rem 0.15rem; color: var(--text-muted);
-      border-bottom: 2.5px solid transparent; transition: all 0.15s ease; white-space: nowrap;
+      text-decoration: none; font-size: 0.87rem; font-weight: 600;
+      padding: 0.58rem 0.5rem; border-radius: 8px;
+      background: var(--bg-card); color: var(--text-muted);
+      border: 1px solid var(--border); text-align: center;
+      transition: all 0.15s ease; white-space: nowrap;
     }
-    .tools-subnav a:hover { color: var(--text-main); }
-    .tools-subnav a.active { color: var(--accent-red); border-bottom-color: var(--accent-red); }
+    .tools-subnav a:hover { color: var(--text-main); border-color: rgba(255, 75, 75, 0.5); }
+    .tools-subnav a.active {
+      color: #fff; background: rgba(255, 75, 75, 0.16); border-color: var(--accent-red); font-weight: 700;
+    }
 
     .calc-grid { display: grid; grid-template-columns: 1.05fr 0.95fr; gap: 1.25rem; align-items: start; }
     @media (max-width: 840px) { .calc-grid { grid-template-columns: 1fr; } }
