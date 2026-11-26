@@ -154,60 +154,61 @@
     .footer-links a { color: var(--text-muted); text-decoration: none; font-size: 0.84rem; }
     .footer-links a:hover { color: var(--text-main); text-decoration: underline; }
   
-    /* === Mobile Readability & 1-Line Pill Subnav Optimization === */
-    body { word-break: keep-all; overflow-wrap: break-word; }
-    .mobile-sticky-result { display: none; }
-    @media (max-width: 640px) {
-      .container { padding: 0.95rem 0.85rem 4.8rem !important; }
-      .top-nav { gap: 0.55rem !important; padding-bottom: 0.7rem !important; margin-bottom: 0.9rem !important; }
-      .brand-link { font-size: 1.22rem !important; }
-      .nav-links {
-        flex-wrap: nowrap !important;
-        overflow-x: auto !important;
-        width: 100% !important;
-        gap: 0.35rem !important;
-        padding-bottom: 0.15rem !important;
-        scrollbar-width: none !important;
-        -webkit-overflow-scrolling: touch !important;
-      }
-      .nav-links::-webkit-scrollbar { display: none !important; }
-      .nav-links a { font-size: 0.8rem !important; padding: 0.34rem 0.62rem !important; flex-shrink: 0 !important; }
-      .tools-subnav {
-        display: flex !important;
-        flex-wrap: nowrap !important;
-        overflow-x: auto !important;
-        gap: 0.42rem !important;
-        padding-bottom: 0.25rem !important;
-        margin-bottom: 1rem !important;
-        scrollbar-width: none !important;
-        -webkit-overflow-scrolling: touch !important;
-      }
-      .tools-subnav::-webkit-scrollbar { display: none !important; }
-      .tools-subnav a {
-        flex: 0 0 auto !important;
-        font-size: 0.82rem !important;
-        padding: 0.48rem 0.82rem !important;
-        border-radius: 999px !important;
-        white-space: nowrap !important;
-      }
-      .page-header h1 { font-size: 1.28rem !important; line-height: 1.32 !important; }
-      .page-header p { font-size: 0.85rem !important; line-height: 1.5 !important; }
-      .panel { padding: 1.05rem 0.95rem !important; margin-bottom: 0.95rem !important; }
-      .panel-title { font-size: 0.98rem !important; }
-      .form-input, .form-select { font-size: 16px !important; padding: 0.56rem 0.68rem !important; }
-      .result-hero { padding: 1.05rem 0.95rem !important; }
-      .dsr-big-num, .hero-big, .big-val { font-size: 1.6rem !important; white-space: nowrap !important; }
-      .kpi-grid { gap: 0.55rem !important; }
-      .kpi-card { padding: 0.72rem 0.75rem !important; }
-      .kpi-label { font-size: 0.74rem !important; white-space: nowrap !important; }
-      .kpi-val { font-size: 0.96rem !important; white-space: nowrap !important; }
-      table.comp-table { font-size: 0.78rem !important; }
-      table.comp-table th, table.comp-table td { padding: 0.48rem 0.42rem !important; white-space: nowrap !important; }
-      .guide-section h2 { font-size: 1.08rem !important; }
-      .guide-section h3 { font-size: 0.96rem !important; }
-      .guide-section p, .guide-section li { font-size: 0.88rem !important; line-height: 1.62 !important; }
+    
+    /* === Mobile Readability & Strict 100% Width Alignment === */
+    html, body {
+      width: 100%;
+      max-width: 100%;
+      overflow-x: hidden;
+      word-break: keep-all;
+      overflow-wrap: break-word;
     }
+    .container {
+      width: 100% !important;
+      max-width: 980px !important;
+      margin: 0 auto !important;
+      box-sizing: border-box !important;
+    }
+    .top-nav,
+    .tools-subnav,
+    .page-header,
+    .mode-switch,
+    .calc-grid,
+    .panel,
+    .guide-section,
+    .footer {
+      width: 100% !important;
+      max-width: 100% !important;
+      min-width: 0 !important;
+      box-sizing: border-box !important;
+    }
+    .calc-grid {
+      grid-template-columns: minmax(0, 1.08fr) minmax(0, 0.92fr) !important;
+    }
+    .calc-grid > * {
+      min-width: 0 !important;
+      max-width: 100% !important;
+      width: 100% !important;
+    }
+    .kpi-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+    }
+    .kpi-card {
+      min-width: 0 !important;
+      max-width: 100% !important;
+    }
+    .table-wrap {
+      display: block !important;
+      width: 100% !important;
+      max-width: 100% !important;
+      overflow-x: auto !important;
+      -webkit-overflow-scrolling: touch !important;
+    }
+    .mobile-sticky-result { display: none; }
     @media (max-width: 840px) {
+      .calc-grid {
+        grid-template-columns: minmax(0, 1fr) !important;
+      }
       .mobile-sticky-result {
         display: flex;
         position: fixed;
@@ -255,6 +256,74 @@
         white-space: nowrap;
         flex-shrink: 0;
       }
+    }
+    @media (max-width: 640px) {
+      .container { padding: 0.95rem 0.85rem 4.8rem !important; }
+      .top-nav {
+        flex-direction: column !important;
+        align-items: stretch !important;
+        gap: 0.55rem !important;
+        padding-bottom: 0.7rem !important;
+        margin-bottom: 0.9rem !important;
+      }
+      .brand-link { font-size: 1.22rem !important; }
+      .nav-links {
+        display: flex !important;
+        flex-wrap: nowrap !important;
+        overflow-x: auto !important;
+        width: 100% !important;
+        max-width: 100% !important;
+        gap: 0.35rem !important;
+        padding-bottom: 0.15rem !important;
+        scrollbar-width: none !important;
+        -webkit-overflow-scrolling: touch !important;
+      }
+      .nav-links::-webkit-scrollbar { display: none !important; }
+      .nav-links a { font-size: 0.8rem !important; padding: 0.34rem 0.62rem !important; flex-shrink: 0 !important; }
+      .tools-subnav {
+        display: flex !important;
+        flex-wrap: nowrap !important;
+        overflow-x: auto !important;
+        width: 100% !important;
+        max-width: 100% !important;
+        gap: 0.42rem !important;
+        padding-bottom: 0.25rem !important;
+        margin-bottom: 1rem !important;
+        scrollbar-width: none !important;
+        -webkit-overflow-scrolling: touch !important;
+      }
+      .tools-subnav::-webkit-scrollbar { display: none !important; }
+      .tools-subnav a {
+        flex: 0 0 auto !important;
+        font-size: 0.82rem !important;
+        padding: 0.48rem 0.82rem !important;
+        border-radius: 999px !important;
+        white-space: nowrap !important;
+      }
+      .mode-switch {
+        grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) !important;
+        gap: 0.4rem !important;
+      }
+      .mode-btn {
+        font-size: 0.8rem !important;
+        padding: 0.55rem 0.4rem !important;
+      }
+      .page-header h1 { font-size: 1.28rem !important; line-height: 1.32 !important; }
+      .page-header p { font-size: 0.85rem !important; line-height: 1.5 !important; }
+      .panel { padding: 1.05rem 0.95rem !important; margin-bottom: 0.95rem !important; }
+      .panel-title { font-size: 0.98rem !important; }
+      .form-input, .form-select { font-size: 16px !important; padding: 0.56rem 0.68rem !important; }
+      .result-hero { padding: 1.05rem 0.95rem !important; }
+      .dsr-big-num, .hero-big, .big-val { font-size: 1.55rem !important; }
+      .kpi-grid { gap: 0.5rem !important; }
+      .kpi-card { padding: 0.7rem 0.72rem !important; }
+      .kpi-label { font-size: 0.73rem !important; }
+      .kpi-val { font-size: 0.95rem !important; }
+      table.comp-table { font-size: 0.76rem !important; }
+      table.comp-table th, table.comp-table td { padding: 0.45rem 0.38rem !important; white-space: nowrap !important; }
+      .guide-section h2 { font-size: 1.08rem !important; }
+      .guide-section h3 { font-size: 0.96rem !important; }
+      .guide-section p, .guide-section li { font-size: 0.88rem !important; line-height: 1.62 !important; }
     }
 
   </style>
@@ -565,6 +634,7 @@
     })();
   </script>
 
+  
   <div class="mobile-sticky-result" id="mobile-sticky-result" onclick="var el=document.querySelector('.result-hero'); if(el) el.scrollIntoView({behavior:'smooth', block:'start'});">
     <div class="msr-left">
       <span class="msr-label">📊 실시간 계산 결과</span>
