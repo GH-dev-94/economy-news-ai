@@ -86,6 +86,29 @@
     }
     .footer-links a { color: var(--text-muted); text-decoration: none; font-size: 0.84rem; }
     .footer-links a:hover { color: var(--text-main); text-decoration: underline; }
+  
+    body { word-break: keep-all; overflow-wrap: break-word; }
+    @media (max-width: 640px) {
+      .container { padding: 0.95rem 0.85rem 2.8rem !important; }
+      .top-nav { gap: 0.55rem !important; padding-bottom: 0.7rem !important; margin-bottom: 0.95rem !important; }
+      .brand-link { font-size: 1.22rem !important; }
+      .nav-links {
+        flex-wrap: nowrap !important;
+        overflow-x: auto !important;
+        width: 100% !important;
+        gap: 0.35rem !important;
+        padding-bottom: 0.15rem !important;
+        scrollbar-width: none !important;
+        -webkit-overflow-scrolling: touch !important;
+      }
+      .nav-links::-webkit-scrollbar { display: none !important; }
+      .nav-links a { font-size: 0.8rem !important; padding: 0.34rem 0.62rem !important; flex-shrink: 0 !important; }
+      .card { padding: 1.05rem 0.95rem !important; }
+      h1 { font-size: 1.32rem !important; line-height: 1.32 !important; }
+      h2 { font-size: 1.08rem !important; }
+      p, li { font-size: 0.9rem !important; line-height: 1.65 !important; }
+    }
+
   </style>
 </head>
 <body>

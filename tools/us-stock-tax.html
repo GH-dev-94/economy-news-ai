@@ -89,6 +89,110 @@
     .footer-links { display: flex; justify-content: center; flex-wrap: wrap; gap: 1.1rem; margin-bottom: 0.65rem; }
     .footer-links a { color: var(--text-muted); text-decoration: none; font-size: 0.84rem; }
     .footer-links a:hover { color: var(--text-main); text-decoration: underline; }
+  
+    /* === Mobile Readability & 1-Line Pill Subnav Optimization === */
+    body { word-break: keep-all; overflow-wrap: break-word; }
+    .mobile-sticky-result { display: none; }
+    @media (max-width: 640px) {
+      .container { padding: 0.95rem 0.85rem 4.8rem !important; }
+      .top-nav { gap: 0.55rem !important; padding-bottom: 0.7rem !important; margin-bottom: 0.9rem !important; }
+      .brand-link { font-size: 1.22rem !important; }
+      .nav-links {
+        flex-wrap: nowrap !important;
+        overflow-x: auto !important;
+        width: 100% !important;
+        gap: 0.35rem !important;
+        padding-bottom: 0.15rem !important;
+        scrollbar-width: none !important;
+        -webkit-overflow-scrolling: touch !important;
+      }
+      .nav-links::-webkit-scrollbar { display: none !important; }
+      .nav-links a { font-size: 0.8rem !important; padding: 0.34rem 0.62rem !important; flex-shrink: 0 !important; }
+      .tools-subnav {
+        display: flex !important;
+        flex-wrap: nowrap !important;
+        overflow-x: auto !important;
+        gap: 0.42rem !important;
+        padding-bottom: 0.25rem !important;
+        margin-bottom: 1rem !important;
+        scrollbar-width: none !important;
+        -webkit-overflow-scrolling: touch !important;
+      }
+      .tools-subnav::-webkit-scrollbar { display: none !important; }
+      .tools-subnav a {
+        flex: 0 0 auto !important;
+        font-size: 0.82rem !important;
+        padding: 0.48rem 0.82rem !important;
+        border-radius: 999px !important;
+        white-space: nowrap !important;
+      }
+      .page-header h1 { font-size: 1.28rem !important; line-height: 1.32 !important; }
+      .page-header p { font-size: 0.85rem !important; line-height: 1.5 !important; }
+      .panel { padding: 1.05rem 0.95rem !important; margin-bottom: 0.95rem !important; }
+      .panel-title { font-size: 0.98rem !important; }
+      .form-input, .form-select { font-size: 16px !important; padding: 0.56rem 0.68rem !important; }
+      .result-hero { padding: 1.05rem 0.95rem !important; }
+      .dsr-big-num, .hero-big, .big-val { font-size: 1.6rem !important; white-space: nowrap !important; }
+      .kpi-grid { gap: 0.55rem !important; }
+      .kpi-card { padding: 0.72rem 0.75rem !important; }
+      .kpi-label { font-size: 0.74rem !important; white-space: nowrap !important; }
+      .kpi-val { font-size: 0.96rem !important; white-space: nowrap !important; }
+      table.comp-table { font-size: 0.78rem !important; }
+      table.comp-table th, table.comp-table td { padding: 0.48rem 0.42rem !important; white-space: nowrap !important; }
+      .guide-section h2 { font-size: 1.08rem !important; }
+      .guide-section h3 { font-size: 0.96rem !important; }
+      .guide-section p, .guide-section li { font-size: 0.88rem !important; line-height: 1.62 !important; }
+    }
+    @media (max-width: 840px) {
+      .mobile-sticky-result {
+        display: flex;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        z-index: 990;
+        background: rgba(14, 17, 23, 0.95);
+        backdrop-filter: blur(10px);
+        border-top: 1px solid rgba(59, 130, 246, 0.45);
+        padding: 0.65rem 1rem;
+        align-items: center;
+        justify-content: space-between;
+        gap: 0.75rem;
+        box-shadow: 0 -6px 20px rgba(0, 0, 0, 0.45);
+        cursor: pointer;
+      }
+      .mobile-sticky-result .msr-left {
+        display: flex;
+        align-items: baseline;
+        gap: 0.5rem;
+        min-width: 0;
+        overflow: hidden;
+      }
+      .mobile-sticky-result .msr-label {
+        font-size: 0.76rem;
+        color: #94a3b8;
+        white-space: nowrap;
+      }
+      .mobile-sticky-result .msr-val {
+        font-size: 1.02rem;
+        font-weight: 800;
+        color: #3dd56d;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+      .mobile-sticky-result .msr-btn {
+        font-size: 0.76rem;
+        font-weight: 700;
+        color: #fff;
+        background: #3b82f6;
+        padding: 0.35rem 0.68rem;
+        border-radius: 999px;
+        white-space: nowrap;
+        flex-shrink: 0;
+      }
+    }
+
   </style>
 </head>
 <body>
@@ -263,5 +367,38 @@
       calcUsTax();
     })();
   </script>
+
+  <div class="mobile-sticky-result" id="mobile-sticky-result" onclick="var el=document.querySelector('.result-hero'); if(el) el.scrollIntoView({behavior:'smooth', block:'start'});">
+    <div class="msr-left">
+      <span class="msr-label">📊 실시간 계산 결과</span>
+      <span class="msr-val" id="msr-val-text">확인하기</span>
+    </div>
+    <span class="msr-btn">결과 보기 ↓</span>
+  </div>
+  <script>
+    (function() {
+      var activePill = document.querySelector(".tools-subnav a.active");
+      if (activePill && window.innerWidth <= 640) {
+        setTimeout(function() {
+          try { activePill.scrollIntoView({ inline: "center", block: "nearest", behavior: "smooth" }); } catch(e) {}
+        }, 60);
+      }
+      var hero = document.querySelector(".result-hero");
+      var msrVal = document.getElementById("msr-val-text");
+      function syncStickyResult() {
+        if (!hero || !msrVal) return;
+        var big = hero.querySelector(".dsr-big-num, .hero-big, .big-val, [id*='res-'], strong");
+        if (big && big.textContent) {
+          msrVal.textContent = big.textContent.trim();
+        }
+      }
+      syncStickyResult();
+      if (hero && "MutationObserver" in window) {
+        var obs = new MutationObserver(syncStickyResult);
+        obs.observe(hero, { childList: true, subtree: true, characterData: true });
+      }
+    })();
+  </script>
+
 </body>
 </html>
