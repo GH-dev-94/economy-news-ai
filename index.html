@@ -1400,26 +1400,54 @@
       const [y, m, d] = dateStr.split("-").map(Number);
       const target = new Date(y, m - 1, d);
       const diffDays = Math.round((target - base) / 86400000);
-      if (diffDays === 0) return { diffDays, badge: "D-DAY" };
-      if (diffDays > 0) return { diffDays, badge: `D-${diffDays}` };
-      return { diffDays, badge: `종료` };
+      if (diffDays === 0) return { diffDays, badge: "D-DAY", isPast: false };
+      if (diffDays > 0) return { diffDays, badge: `D-${diffDays}`, isPast: false };
+      return { diffDays, badge: `${Math.abs(diffDays)}일 전`, isPast: true };
     }
 
-    function getUpcomingEvents() {
-      return MACRO_CALENDAR_EVENTS
+    function getCalendarEvents() {
+      const srcEvents = (appData && appData.macro_calendar && Array.isArray(appData.macro_calendar.events) && appData.macro_calendar.events.length > 0)
+        ? appData.macro_calendar.events
+        : MACRO_CALENDAR_EVENTS;
+      return srcEvents
         .map(ev => ({ ...ev, dday: calcDDayInfo(ev.date) }))
-        .filter(ev => ev.dday.diffDays >= 0);
+        .filter(ev => ev.dday.diffDays >= -7 && ev.dday.diffDays <= 31);
     }
 
     let isCalendarOpen = false;
+
+    function buildCalCardHtml(ev) {
+      const timeBadge = ev.timeKst ? ` · ${escapeHtml(ev.timeKst)} KST` : "";
+      const vals = [];
+      if (ev.actual) vals.push(`실제 <strong style="color:#3dd56d">${escapeHtml(ev.actual)}</strong>`);
+      if (ev.forecast) vals.push(`예상 <strong>${escapeHtml(ev.forecast)}</strong>`);
+      if (ev.previous) vals.push(`이전 ${escapeHtml(ev.previous)}`);
+      const valsHtml = vals.length > 0 ? `<div style="font-size:0.78rem; color:#cbd5e1; margin-bottom:0.4rem;">📊 ${vals.join(" · ")}</div>` : "";
+      const badgeStyle = ev.dday.isPast
+        ? "background:rgba(148,163,184,0.16); color:#cbd5e1; border-color:rgba(148,163,184,0.35);"
+        : "";
+      return `
+        <div class="cal-card" style="${ev.dday.isPast ? "opacity:0.86;" : ""}">
+          <div class="cal-card-top">
+            <div class="cal-card-title">${ev.region} ${escapeHtml(ev.title)}</div>
+            <span class="cal-dday" style="${badgeStyle}">${ev.dday.badge}</span>
+          </div>
+          <div class="cal-card-meta">📅 <strong>${ev.date}</strong>${timeBadge} · 중요도: <strong>${escapeHtml(ev.importance || "상")}</strong></div>
+          ${valsHtml}
+          <div class="cal-guide">💡 <strong>시장 영향:</strong> ${escapeHtml(ev.guide || "")}</div>
+        </div>
+      `;
+    }
 
     function renderCalendarPreview() {
       const wrap = document.getElementById("cal-accordion-wrap");
       const bar = document.getElementById("cal-preview-bar");
       const body = document.getElementById("cal-accordion-body");
       if (!bar || !body || !wrap) return;
-      const upcoming = getUpcomingEvents();
-      const nextEv = upcoming[0];
+      const allEvents = getCalendarEvents();
+      const upcoming = allEvents.filter(ev => !ev.dday.isPast);
+      const pastWeek = allEvents.filter(ev => ev.dday.isPast).reverse();
+      const nextEv = upcoming[0] || pastWeek[0];
       if (!nextEv) {
         wrap.style.display = "none";
         return;
@@ -1433,20 +1461,21 @@
           </span>
         </div>
         <span style="color:#60a5fa; font-weight:700; white-space:nowrap; font-size:0.78rem; flex-shrink:0;">
-          ${isCalendarOpen ? "일정 접기 ▲" : `전체 일정(${upcoming.length}) ▼`}
+          ${isCalendarOpen ? "접기 ▲" : `일정(${allEvents.length}) ▼`}
         </span>
       `;
       body.style.display = isCalendarOpen ? "block" : "none";
-      body.innerHTML = `<div class="cal-list">${upcoming.map(ev => `
-        <div class="cal-card">
-          <div class="cal-card-top">
-            <div class="cal-card-title">${ev.region} ${escapeHtml(ev.title)}</div>
-            <span class="cal-dday">${ev.dday.badge}</span>
-          </div>
-          <div class="cal-card-meta">📅 발표일: <strong>${ev.date}</strong> · 중요도: <strong>${ev.importance}</strong></div>
-          <div class="cal-guide">💡 <strong>시장 영향:</strong> ${escapeHtml(ev.guide)}</div>
-        </div>
-      `).join("")}</div>`;
+      let html = `<div class="cal-list">`;
+      if (upcoming.length > 0) {
+        html += `<div style="font-size:0.78rem; font-weight:700; color:#93c5fd; padding:0.15rem 0.2rem;">📌 예정된 주요 일정 (앞으로 1개월 · ${upcoming.length}건)</div>`;
+        html += upcoming.map(buildCalCardHtml).join("");
+      }
+      if (pastWeek.length > 0) {
+        html += `<div style="font-size:0.78rem; font-weight:700; color:#94a3b8; padding:0.4rem 0.2rem 0.1rem;">🕒 최근 일주일 발표 내역 (과거 7일 · ${pastWeek.length}건)</div>`;
+        html += pastWeek.map(buildCalCardHtml).join("");
+      }
+      html += `</div>`;
+      body.innerHTML = html;
     }
 
     window.toggleCalendarAccordion = function() {

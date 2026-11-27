@@ -318,6 +318,14 @@ def run_batch(only=None):
         output["market_snapshot"] = snapshot
         print(f"-> 시장 지표 {len(snapshot['items'])}개 수집 완료")
 
+    cal_updated_date = str(output.get("macro_calendar", {}).get("updatedAt", ""))[:10]
+    if now.hour == 0 or not output.get("macro_calendar") or cal_updated_date != f"{now:%Y-%m-%d}":
+        print("\n7단계: 과거 7일 + 미래 1개월 핵심 경제 캘린더 갱신 중...")
+        cal = _fetch_macro_calendar(now)
+        if cal.get("events"):
+            output["macro_calendar"] = cal
+            print(f"-> 경제 일정 {len(cal['events'])}건 갱신 완료")
+
     output["updated_at"] = now.strftime("%Y-%m-%d %H:%M:%S KST")
 
     with open(DATA_PATH, "w", encoding="utf-8") as f:
@@ -373,6 +381,140 @@ def _fetch_market_snapshot(now: datetime) -> dict:
         "updatedAt": now.isoformat(),
         "source": "github-4h-snapshot",
         "items": items,
+    }
+
+
+def _fetch_macro_calendar(now: datetime) -> dict:
+    """과거 7일 + 미래 31일 핵심 거시경제 일정 수집 (실제 피드 + 공식 확정 일정 병합)."""
+    past_start = (now - timedelta(days=7)).date()
+    future_end = (now + timedelta(days=31)).date()
+
+    country_map = {
+        "USD": "🇺🇸 미국",
+        "JPY": "🇯🇵 일본",
+        "EUR": "🇪🇺 유로존",
+        "CNY": "🇨🇳 중국",
+        "GBP": "🇬🇧 영국",
+    }
+
+    title_rules = [
+        ("Core PCE", "미국 근원 개인소비지출(Core PCE) 물가지수", "연준이 가장 중시하는 물가 지표. 예상 상회 시 금리↑·기술주↓ 주의"),
+        ("PCE Price", "미국 개인소비지출(PCE) 물가지수", "소비·물가 흐름 동시 점검. 예상 하회 시 금리안정·증시 우호"),
+        ("Non-Farm", "미국 비농업부문 고용자 수 (NFP)", "고용 과열 시 금리인하 지연 우려(나스닥↓), 둔화 시 증시 우호"),
+        ("Unemployment Rate", "미국 실업률", "고용시장 냉각 여부를 가늠하는 핵심 지표"),
+        ("CPI", "소비자물가지수 (CPI)", "인플레이션 둔화 여부에 따라 채권금리·환율·증시 즉각 변동"),
+        ("PPI", "생산자물가지수 (PPI)", "소비자물가 선행 지표. 예상 상회 시 인플레 경계감 확대"),
+        ("GDP", "국내총생산 (GDP) 성장률", "경기 침체 vs 연착륙 여부를 판단하는 핵심 성장 지표"),
+        ("Federal Funds Rate", "미 연준 FOMC 기준금리 결정", "기준금리 결정 및 점도표·파월 의장 발언이 글로벌 자산시장 분수령"),
+        ("FOMC", "미 연준 FOMC 회의록·성명", "연준 위원들의 금리 인하/긴축 스탠스 확인"),
+        ("Retail Sales", "미국 소매판매", "미국 내수 소비 탄탄함 측정. 급감 시 경기침체 우려 부각"),
+        ("ISM Manufacturing", "미국 ISM 제조업 PMI", "기준선 50 상회 시 제조업 경기 확장, 하회 시 위축 신호"),
+        ("ISM Services", "미국 ISM 서비스업 PMI", "미국 경제의 70%를 차지하는 서비스업 경기 체력 지표"),
+        ("BOJ", "일본은행(BOJ) 통화정책 결정", "일본 금리 인상 시사 시 엔캐리 청산 경계로 글로벌 변동성 확대"),
+        ("ECB", "유럽중앙은행(ECB) 기준금리 결정", "유로존 통화정책 및 달러 인덱스 방향성에 영향"),
+    ]
+
+    def _translate_and_guide(raw_title: str) -> tuple[str, str]:
+        for key, ko_title, guide in title_rules:
+            if key.lower() in raw_title.lower():
+                return ko_title, guide
+        return raw_title, "주요 거시경제 지표 발표에 따른 금리·환율 단기 변동성 유의"
+
+    events_by_key: dict[tuple[str, str], dict] = {}
+
+    # 1. 무료 공개 경제 캘린더 JSON (이번 주 + 다음 주)
+    for feed_url in (
+        "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
+        "https://nfs.faireconomy.media/ff_calendar_nextweek.json",
+    ):
+        try:
+            req = urllib.request.Request(feed_url, headers={"User-Agent": "Mozilla/5.0 (ZippyCalendar/1.0)"})
+            with urllib.request.urlopen(req, timeout=8) as resp:
+                rows = json.loads(resp.read().decode("utf-8"))
+            if not isinstance(rows, list):
+                continue
+            for r in rows:
+                if r.get("impact") != "High":
+                    continue
+                ctry = str(r.get("country", "")).upper()
+                if ctry not in ("USD", "JPY", "EUR", "CNY"):
+                    continue
+                raw_dt = str(r.get("date", "")).strip()
+                if not raw_dt:
+                    continue
+                try:
+                    dt_kst = datetime.fromisoformat(raw_dt).astimezone(KST)
+                except Exception:
+                    continue
+                ev_date = dt_kst.date()
+                if not (past_start <= ev_date <= future_end):
+                    continue
+                raw_title = str(r.get("title", "")).strip()
+                ko_title, guide = _translate_and_guide(raw_title)
+                date_str = f"{ev_date:%Y-%m-%d}"
+                dedup_key = (date_str, ko_title[:12])
+                events_by_key[dedup_key] = {
+                    "date": date_str,
+                    "timeKst": f"{dt_kst:%H:%M}",
+                    "region": country_map.get(ctry, ctry),
+                    "title": ko_title,
+                    "rawTitle": raw_title,
+                    "importance": "최상",
+                    "forecast": str(r.get("forecast") or "").strip(),
+                    "previous": str(r.get("previous") or "").strip(),
+                    "actual": str(r.get("actual") or "").strip(),
+                    "guide": guide,
+                    "source": "live-feed",
+                }
+        except Exception:
+            continue
+
+    # 2. 공식 확정 일정 (피드 범위 이후 2~4주 뒤까지 빈틈 보완)
+    confirmed_schedule = [
+        ("2026-12-04", "22:30", "🇺🇸 미국", "미국 11월 비농업고용·실업률 (고용보고서)", "최상", "고용 과열 시 금리인하 지연 우려(나스닥↓), 둔화 시 금리안정·증시 우호"),
+        ("2026-12-10", "22:30", "🇺🇸 미국", "미국 11월 소비자물가지수 (CPI)", "최상", "근원 CPI 예상 상회 시 인플레 경계(환율↑), 하회 시 기술주·채권 강세"),
+        ("2026-12-17", "04:00", "🇺🇸 미국", "12월 FOMC 기준금리 결정 & 점도표 발표", "최상", "금리 결정 및 2027년 점도표·파월 기자회견이 연말 시장의 분수령"),
+        ("2026-12-18", "12:00", "🇯🇵 일본", "일본은행(BOJ) 금융정책결정회의", "상", "일본 금리 인상 시사 시 엔캐리 청산 경계로 글로벌 단기 변동성 확대"),
+        ("2026-12-23", "22:30", "🇺🇸 미국", "미국 11월 개인소비지출(PCE) 물가지수", "상", "연준이 가장 선호하는 물가 지표. 연말 소비 및 물가 안정 여부 확인"),
+        ("2027-01-08", "22:30", "🇺🇸 미국", "미국 12월 비농업고용·실업률 (고용보고서)", "최상", "새해 첫 고용 지표. 연초 금리 경로 및 경기 펀더멘털 가늠자"),
+        ("2027-01-13", "22:30", "🇺🇸 미국", "미국 12월 소비자물가지수 (CPI)", "최상", "연초 물가 둔화 지속 여부에 따라 1월 FOMC 기대감 좌우"),
+        ("2027-01-15", "10:00", "🇰🇷 한국", "한국은행 금융통화위원회 (기준금리 결정)", "최상", "원/달러 환율 레벨과 가계부채 추이에 따른 한은 금리 스탠스 결정"),
+        ("2027-01-28", "04:00", "🇺🇸 미국", "1월 FOMC 기준금리 결정", "최상", "새해 첫 미 연준 기준금리 결정 및 통화정책 방향성 제시"),
+        ("2027-02-25", "10:00", "🇰🇷 한국", "한국은행 금융통화위원회 (기준금리 결정)", "최상", "국내 경기 부양 필요성과 환율·물가 간 균형점 판단"),
+        ("2027-03-18", "03:00", "🇺🇸 미국", "3월 FOMC 기준금리 결정 & 경제전망(SEP)", "최상", "분기 경제전망 및 점도표 업데이트 발표"),
+    ]
+    for d_str, t_str, reg, ttl, imp, gd in confirmed_schedule:
+        try:
+            ev_d = datetime.strptime(d_str, "%Y-%m-%d").date()
+        except Exception:
+            continue
+        if not (past_start <= ev_d <= future_end):
+            continue
+        # 같은 날짜에 실데이터 피드로 이미 들어온 유사 항목이 있으면 피드 우선
+        already = any(
+            k[0] == d_str and (k[1][:6] in ttl or ttl[:6] in k[1])
+            for k in events_by_key.keys()
+        )
+        if not already:
+            events_by_key[(d_str, ttl[:12])] = {
+                "date": d_str,
+                "timeKst": t_str,
+                "region": reg,
+                "title": ttl,
+                "rawTitle": ttl,
+                "importance": imp,
+                "forecast": "",
+                "previous": "",
+                "actual": "",
+                "guide": gd,
+                "source": "confirmed-schedule",
+            }
+
+    events = sorted(events_by_key.values(), key=lambda x: (x["date"], x.get("timeKst", "")))
+    return {
+        "updatedAt": now.isoformat(),
+        "range": {"start": f"{past_start:%Y-%m-%d}", "end": f"{future_end:%Y-%m-%d}"},
+        "events": events,
     }
 
 
