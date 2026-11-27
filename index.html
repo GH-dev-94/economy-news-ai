@@ -891,15 +891,17 @@
       <div class="market-thermo" id="market-thermo"></div>
     </section>
 
-    <!-- 📅 [2번] 다음 핵심 경제 일정 1줄 미리보기 -->
-    <div class="cal-preview" id="cal-preview-bar" onclick="openCalendarTab()"></div>
+    <!-- 📅 [2번] D-Day 경제 일정 아코디언 카드 -->
+    <div id="cal-accordion-wrap" style="margin-bottom: 1.05rem;">
+      <div class="cal-preview" id="cal-preview-bar" onclick="toggleCalendarAccordion()" style="margin-bottom: 0;"></div>
+      <div id="cal-accordion-body" style="display:none; margin-top: 0.55rem;"></div>
+    </div>
 
-    <!-- 기간 선택 탭 (오늘 / 어제 / 지난 일주일 / 경제 일정 / 스크랩 보관함) -->
+    <!-- 기간 선택 탭 (오늘 / 어제 / 지난 일주일 / 스크랩 보관함) -->
     <nav class="tabs-bar" id="period-tabs">
       <button class="tab-btn active" data-period="today">📅 오늘</button>
       <button class="tab-btn" data-period="yesterday">⏳ 어제</button>
       <button class="tab-btn" data-period="week">🗓️ 지난 일주일</button>
-      <button class="tab-btn" data-period="calendar">📆 경제 일정</button>
       <button class="tab-btn" data-period="saved" id="saved-tab-btn">⭐ 스크랩 (0)</button>
     </nav>
 
@@ -1109,28 +1111,6 @@
         console.warn("LocalStorage 저장 실패:", e);
       }
       updateSavedTabCount();
-
-      if (currentPeriod === "calendar") {
-        regionTabsEl.style.display = "none";
-        actionRowEl.style.display = "none";
-        const upcoming = getUpcomingEvents();
-        summaryEl.innerHTML = `
-          <div class="period-line">
-            <strong>📆 핵심 거시경제 캘린더:</strong> 금리·물가·고용 발표 일정 및 시장 영향 해석 (${upcoming.length}건 예정)
-          </div>
-        `;
-        cardsEl.innerHTML = `<div class="cal-list">${upcoming.map(ev => `
-          <div class="cal-card">
-            <div class="cal-card-top">
-              <div class="cal-card-title">${ev.region} ${escapeHtml(ev.title)}</div>
-              <span class="cal-dday">${ev.dday.badge}</span>
-            </div>
-            <div class="cal-card-meta">📅 발표일: <strong>${ev.date}</strong> · 중요도: <strong>${ev.importance}</strong></div>
-            <div class="cal-guide">💡 <strong>시장 영향:</strong> ${escapeHtml(ev.guide)}</div>
-          </div>
-        `).join("")}</div>`;
-        return;
-      }
 
       if (currentPeriod === "saved") {
         renderView();
@@ -1431,15 +1411,20 @@
         .filter(ev => ev.dday.diffDays >= 0);
     }
 
+    let isCalendarOpen = false;
+
     function renderCalendarPreview() {
+      const wrap = document.getElementById("cal-accordion-wrap");
       const bar = document.getElementById("cal-preview-bar");
-      if (!bar) return;
+      const body = document.getElementById("cal-accordion-body");
+      if (!bar || !body || !wrap) return;
       const upcoming = getUpcomingEvents();
       const nextEv = upcoming[0];
       if (!nextEv) {
-        bar.style.display = "none";
+        wrap.style.display = "none";
         return;
       }
+      wrap.style.display = "block";
       bar.innerHTML = `
         <div style="display:flex; align-items:center; gap:0.55rem; min-width:0; overflow:hidden;">
           <span class="cal-dday">${nextEv.dday.badge}</span>
@@ -1448,17 +1433,25 @@
           </span>
         </div>
         <span style="color:#60a5fa; font-weight:700; white-space:nowrap; font-size:0.78rem; flex-shrink:0;">
-          전체 일정 →
+          ${isCalendarOpen ? "일정 접기 ▲" : `전체 일정(${upcoming.length}) ▼`}
         </span>
       `;
+      body.style.display = isCalendarOpen ? "block" : "none";
+      body.innerHTML = `<div class="cal-list">${upcoming.map(ev => `
+        <div class="cal-card">
+          <div class="cal-card-top">
+            <div class="cal-card-title">${ev.region} ${escapeHtml(ev.title)}</div>
+            <span class="cal-dday">${ev.dday.badge}</span>
+          </div>
+          <div class="cal-card-meta">📅 발표일: <strong>${ev.date}</strong> · 중요도: <strong>${ev.importance}</strong></div>
+          <div class="cal-guide">💡 <strong>시장 영향:</strong> ${escapeHtml(ev.guide)}</div>
+        </div>
+      `).join("")}</div>`;
     }
 
-    window.openCalendarTab = function() {
-      document.querySelectorAll("#period-tabs .tab-btn").forEach(b => {
-        b.classList.toggle("active", b.dataset.period === "calendar");
-      });
-      currentPeriod = "calendar";
-      renderView();
+    window.toggleCalendarAccordion = function() {
+      isCalendarOpen = !isCalendarOpen;
+      renderCalendarPreview();
     };
 
     function buildCardHtml(idx, kw, item, arts, periodLabel, defaultOpen = false) {
@@ -1598,28 +1591,6 @@
       const regionTabsEl = document.getElementById("region-tabs");
       const cardsEl = document.getElementById("cards-container");
       const actionRowEl = document.getElementById("action-row");
-
-      if (currentPeriod === "calendar") {
-        regionTabsEl.style.display = "none";
-        actionRowEl.style.display = "none";
-        const upcoming = getUpcomingEvents();
-        summaryEl.innerHTML = `
-          <div class="period-line">
-            <strong>📆 핵심 거시경제 캘린더:</strong> 금리·물가·고용 발표 일정 및 시장 영향 해석 (${upcoming.length}건 예정)
-          </div>
-        `;
-        cardsEl.innerHTML = `<div class="cal-list">${upcoming.map(ev => `
-          <div class="cal-card">
-            <div class="cal-card-top">
-              <div class="cal-card-title">${ev.region} ${escapeHtml(ev.title)}</div>
-              <span class="cal-dday">${ev.dday.badge}</span>
-            </div>
-            <div class="cal-card-meta">📅 발표일: <strong>${ev.date}</strong> · 중요도: <strong>${ev.importance}</strong></div>
-            <div class="cal-guide">💡 <strong>시장 영향:</strong> ${escapeHtml(ev.guide)}</div>
-          </div>
-        `).join("")}</div>`;
-        return;
-      }
 
       if (currentPeriod === "saved") {
         regionTabsEl.style.display = "none";
