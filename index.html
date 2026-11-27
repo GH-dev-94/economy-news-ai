@@ -1033,6 +1033,19 @@
       <span id="updated-at">🕒 <strong>최근 자동 업데이트:</strong> 불러오는 중...</span>
     </div>
 
+    <!-- 📱 [3-2] 모바일 재방문 유저용 홈 화면 추가(PWA) 안내 배너 -->
+    <div id="pwa-install-banner" style="display:none; background:rgba(61,213,109,0.09); border:1px solid rgba(61,213,109,0.32); border-radius:10px; padding:0.6rem 0.85rem; margin-bottom:0.95rem; font-size:0.8rem; align-items:center; justify-content:space-between; gap:0.55rem;">
+      <div style="min-width:0; flex:1;">
+        <div id="pwa-banner-text" style="color:#e2e8f0; font-weight:600; line-height:1.4;">
+          📱 홈 화면에 추가하고 1분 시세·경제 브리핑 바로 보기
+        </div>
+      </div>
+      <div style="display:flex; align-items:center; gap:0.4rem; flex-shrink:0;">
+        <button type="button" id="pwa-install-btn" onclick="triggerPwaInstall()" style="background:#3dd56d; color:#0e1117; border:none; border-radius:6px; padding:0.32rem 0.65rem; font-size:0.76rem; font-weight:800; cursor:pointer; white-space:nowrap;">앱 추가</button>
+        <button type="button" onclick="dismissPwaBanner()" aria-label="배너 닫기" style="background:none; border:none; color:#94a3b8; font-size:0.95rem; cursor:pointer; padding:0.15rem 0.3rem;">✕</button>
+      </div>
+    </div>
+
     <!-- 📊 [1번+4번 통합] 실시간 시장 핵심 지표 & 온도계 -->
     <section class="market-dashboard" id="market-dashboard" aria-label="실시간 핵심 시장 지표 및 온도계">
       <div class="market-dash-head">
@@ -1979,6 +1992,67 @@
         navigator.serviceWorker.register("./sw.js").catch(() => {});
       });
     }
+
+    // 📱 모바일 PWA 홈 화면 추가 안내 배너 (2회 이상 방문 시 노출, 닫기 시 영구 숨김)
+    let deferredPwaPrompt = null;
+    (function initPwaBanner() {
+      const banner = document.getElementById("pwa-install-banner");
+      if (!banner) return;
+      const isStandalone =
+        window.matchMedia("(display-mode: standalone)").matches ||
+        window.navigator.standalone === true;
+      if (isStandalone) return;
+
+      let dismissed = false;
+      let visits = 1;
+      try {
+        dismissed = localStorage.getItem("zippy_pwa_dismissed") === "1";
+        visits = (parseInt(localStorage.getItem("zippy_visit_count") || "0", 10) || 0) + 1;
+        localStorage.setItem("zippy_visit_count", String(visits));
+      } catch (e) {}
+
+      if (dismissed) return;
+      const isMobile = window.innerWidth <= 840 || /Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
+
+      window.addEventListener("beforeinstallprompt", (e) => {
+        e.preventDefault();
+        deferredPwaPrompt = e;
+        if (isMobile && visits >= 2) banner.style.display = "flex";
+      });
+
+      if (isMobile && visits >= 2) {
+        banner.style.display = "flex";
+      }
+    })();
+
+    window.triggerPwaInstall = async function() {
+      const textEl = document.getElementById("pwa-banner-text");
+      const btnEl = document.getElementById("pwa-install-btn");
+      if (deferredPwaPrompt) {
+        deferredPwaPrompt.prompt();
+        const choice = await deferredPwaPrompt.userChoice.catch(() => null);
+        deferredPwaPrompt = null;
+        if (choice && choice.outcome === "accepted") {
+          dismissPwaBanner();
+        }
+        return;
+      }
+      const isIos = /iPhone|iPad|iPod/i.test(navigator.userAgent);
+      if (textEl) {
+        textEl.innerHTML = isIos
+          ? "🍏 Safari 하단 <strong>공유(□↑)</strong> 버튼 → <strong>'홈 화면에 추가'</strong>를 눌러주세요!"
+          : "🌐 브라우저 우측 상단 <strong>메뉴(⋮)</strong> → <strong>'홈 화면에 추가'</strong>를 눌러주세요!";
+      }
+      if (btnEl) btnEl.style.display = "none";
+    };
+
+    window.dismissPwaBanner = function() {
+      const banner = document.getElementById("pwa-install-banner");
+      if (banner) banner.style.display = "none";
+      try {
+        localStorage.setItem("zippy_pwa_dismissed", "1");
+      } catch (e) {}
+    };
   </script>
 </body>
 </html>
