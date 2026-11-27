@@ -1209,7 +1209,7 @@
     // =========================================================================
     // 📊 실시간 시장 지표 & 온도계 (Vercel 1분 캐시 API + CORS 직접 조회 + 4시간 스냅샷)
     // =========================================================================
-    const LIVE_MARKET_API_URL = ""; // 예: "https://본인-버셀-주소.vercel.app/api/market" (비어있어도 환율·BTC 실시간 + 4시간 전종목 자동 표시)
+    const LIVE_MARKET_API_URL = "https://economy-news-ai.vercel.app/api/market"; // 1분 CDN 캐시 실시간 시세 API
     const MARKET_ORDER = ["kospi", "kosdaq", "nasdaq", "sp500", "usdkrw", "us10y", "vix", "btc"];
     let currentMarketState = null;
 
