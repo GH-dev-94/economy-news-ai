@@ -1993,7 +1993,7 @@
       });
     }
 
-    // 📱 모바일 PWA 홈 화면 추가 안내 배너 (2회 이상 방문 시 노출, 닫기 시 영구 숨김)
+    // 📱 모바일 PWA 홈 화면 추가 안내 배너 (모바일 브라우저 접속 시 상시 노출, 닫기 시 현재 세션에서만 숨김)
     let deferredPwaPrompt = null;
     (function initPwaBanner() {
       const banner = document.getElementById("pwa-install-banner");
@@ -2003,24 +2003,21 @@
         window.navigator.standalone === true;
       if (isStandalone) return;
 
-      let dismissed = false;
-      let visits = 1;
+      let dismissedInSession = false;
       try {
-        dismissed = localStorage.getItem("zippy_pwa_dismissed") === "1";
-        visits = (parseInt(localStorage.getItem("zippy_visit_count") || "0", 10) || 0) + 1;
-        localStorage.setItem("zippy_visit_count", String(visits));
+        dismissedInSession = sessionStorage.getItem("zippy_pwa_dismissed_session") === "1";
       } catch (e) {}
 
-      if (dismissed) return;
+      if (dismissedInSession) return;
       const isMobile = window.innerWidth <= 840 || /Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
 
       window.addEventListener("beforeinstallprompt", (e) => {
         e.preventDefault();
         deferredPwaPrompt = e;
-        if (isMobile && visits >= 2) banner.style.display = "flex";
+        if (isMobile) banner.style.display = "flex";
       });
 
-      if (isMobile && visits >= 2) {
+      if (isMobile) {
         banner.style.display = "flex";
       }
     })();
@@ -2050,7 +2047,7 @@
       const banner = document.getElementById("pwa-install-banner");
       if (banner) banner.style.display = "none";
       try {
-        localStorage.setItem("zippy_pwa_dismissed", "1");
+        sessionStorage.setItem("zippy_pwa_dismissed_session", "1");
       } catch (e) {}
     };
   </script>
