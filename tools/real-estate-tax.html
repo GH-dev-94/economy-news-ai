@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
+  <title>부동산 취득세 · 중개보수(복비) 계산기 | ⚡ ZIPPY</title>
+  <meta name="description" content="주택 수(1주택·2주택·3주택), 매매가, 전용면적(85㎡ 이하·초과)에 따른 부동산 취득세·지방교육세·농어촌특별세와 법정 중개보수 상한액을 즉시 계산하세요." />
+  <link rel="canonical" href="https://zippy.kr/tools/real-estate-tax.html" />
+  <meta name="theme-color" content="#0e1117" />
+  <link rel="manifest" href="../manifest.json" />
+  <link rel="apple-touch-icon" href="../icons/icon-192.png" />
+  <link rel="icon" type="image/png" sizes="192x192" href="../icons/icon-192.png" />
+  <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-dynamic-subset.min.css" />
+  <meta name="google-adsense-account" content="ca-pub-8243997410078269" />
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8243997410078269" crossorigin="anonymous"></script>
+
+  <style>
+    :root {
+      --bg: #0e1117; --bg-card: #161a23; --bg-input: #0b0e14;
+      --text-main: #fafafa; --text-muted: #94a3b8;
+      --border: rgba(250, 250, 250, 0.14);
+      --accent-blue: #3b82f6; --accent-red: #ff4b4b; --neon-green: #3dd56d;
+      --neon-green-bg: rgba(61, 213, 109, 0.14);
+    }
+    * { box-sizing: border-box; }
+    html, body { width: 100%; max-width: 100%; overflow-x: hidden; word-break: keep-all; overflow-wrap: break-word; }
+    body {
+      margin: 0; padding: 0; background: var(--bg); color: var(--text-main);
+      font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+      line-height: 1.65; -webkit-font-smoothing: antialiased;
+    }
+    .container { width: 100%; max-width: 980px; margin: 0 auto; padding: 1.4rem 1.25rem 3.5rem; }
+    .top-nav {
+      display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.75rem;
+      padding-bottom: 0.9rem; margin-bottom: 1.25rem; border-bottom: 2px solid var(--accent-blue);
+    }
+    .brand-link { text-decoration: none; color: var(--text-main); font-size: 1.35rem; font-weight: 800; white-space: nowrap; }
+    .nav-links { display: flex; flex-wrap: wrap; gap: 0.42rem; }
+    .nav-links a {
+      text-decoration: none; color: var(--text-muted); font-size: 0.86rem; font-weight: 600;
+      padding: 0.38rem 0.72rem; border-radius: 7px; border: 1px solid var(--border);
+      background: rgba(255, 255, 255, 0.03); transition: all 0.15s ease; white-space: nowrap;
+    }
+    .nav-links a:hover, .nav-links a.active { color: var(--text-main); background: rgba(59, 130, 246, 0.16); border-color: var(--accent-blue); }
+    .tools-subnav {
+      display: flex; flex-wrap: wrap; gap: 0.45rem; margin-bottom: 1.25rem;
+    }
+    .tools-subnav a {
+      text-decoration: none; font-size: 0.84rem; font-weight: 600; padding: 0.48rem 0.75rem;
+      border-radius: 8px; background: var(--bg-card); color: var(--text-muted);
+      border: 1px solid var(--border); white-space: nowrap; transition: all 0.15s ease;
+    }
+    .tools-subnav a.active { color: #fff; background: rgba(255, 75, 75, 0.16); border-color: var(--accent-red); font-weight: 700; }
+    .page-header { margin-bottom: 0.95rem; }
+    .page-header h1 { font-size: 1.5rem; font-weight: 800; margin: 0 0 0.32rem; }
+    .page-header p { margin: 0; color: var(--text-muted); font-size: 0.93rem; }
+    .calc-grid { display: grid; grid-template-columns: minmax(0, 1.05fr) minmax(0, 0.95fr); gap: 1.25rem; align-items: start; }
+    .calc-grid > * { min-width: 0; max-width: 100%; width: 100%; }
+    .panel { background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px; padding: 1.3rem; margin-bottom: 1.2rem; }
+    .panel-title { font-size: 1.04rem; font-weight: 700; margin: 0 0 1rem; padding-bottom: 0.55rem; border-bottom: 1px solid var(--border); }
+    .form-group { margin-bottom: 0.95rem; }
+    .form-label { display: flex; justify-content: space-between; align-items: center; font-size: 0.86rem; font-weight: 600; color: #cbd5e1; margin-bottom: 0.35rem; }
+    .form-hint { font-size: 0.78rem; color: var(--neon-green); font-weight: 600; }
+    .form-input, .form-select {
+      width: 100%; background: var(--bg-input); color: var(--text-main);
+      border: 1px solid var(--border); border-radius: 8px; padding: 0.6rem 0.75rem; font-size: 0.95rem; font-family: inherit;
+    }
+    .quick-btns { display: flex; flex-wrap: wrap; gap: 0.35rem; margin-top: 0.4rem; }
+    .q-btn {
+      background: rgba(255, 255, 255, 0.05); border: 1px solid var(--border); color: var(--text-muted);
+      font-size: 0.76rem; padding: 0.25rem 0.55rem; border-radius: 5px; cursor: pointer; font-family: inherit;
+    }
+    .radio-pills { display: grid; grid-template-columns: 1fr 1fr; gap: 0.45rem; }
+    .pill-btn {
+      background: var(--bg-input); border: 1px solid var(--border); color: var(--text-muted);
+      font-size: 0.82rem; font-weight: 600; padding: 0.52rem; border-radius: 7px; cursor: pointer; font-family: inherit;
+    }
+    .pill-btn.active { background: rgba(59, 130, 246, 0.18); color: #fff; border-color: var(--accent-blue); }
+    .result-hero {
+      background: linear-gradient(145deg, rgba(59, 130, 246, 0.14), rgba(22, 26, 35, 0.95));
+      border: 1px solid rgba(59, 130, 246, 0.4); border-radius: 12px; padding: 1.25rem; margin-bottom: 1rem;
+    }
+    .hero-big { font-size: 1.85rem; font-weight: 800; margin: 0.25rem 0; color: var(--neon-green); }
+    .kpi-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.75rem; margin-bottom: 1rem; }
+    .kpi-card { background: rgba(255, 255, 255, 0.03); border: 1px solid var(--border); border-radius: 9px; padding: 0.85rem 0.95rem; min-width: 0; }
+    .kpi-label { font-size: 0.77rem; color: var(--text-muted); margin-bottom: 0.22rem; }
+    .kpi-val { font-size: 1.08rem; font-weight: 800; }
+    .kpi-sub { font-size: 0.74rem; color: var(--text-muted); margin-top: 0.18rem; }
+    .table-wrap { display: block; width: 100%; overflow-x: auto; margin-top: 0.55rem; }
+    table.comp-table { width: 100%; border-collapse: collapse; font-size: 0.84rem; }
+    table.comp-table th, table.comp-table td { padding: 0.58rem; border-bottom: 1px solid var(--border); text-align: right; white-space: nowrap; }
+    table.comp-table th:first-child, table.comp-table td:first-child { text-align: left; }
+    table.comp-table th { color: var(--text-muted); background: rgba(255, 255, 255, 0.03); }
+    .guide-section h2 { font-size: 1.15rem; color: #60a5fa; border-left: 3px solid var(--accent-blue); padding-left: 0.65rem; margin: 1.4rem 0 0.6rem; }
+    .guide-section p, .guide-section li { font-size: 0.92rem; color: #e2e8f0; }
+    .footer { margin-top: 2.5rem; padding-top: 1.3rem; border-top: 1px solid var(--border); color: var(--text-muted); font-size: 0.82rem; text-align: center; }
+    .footer-links { display: flex; justify-content: center; flex-wrap: wrap; gap: 1.1rem; margin-bottom: 0.65rem; }
+    .footer-links a { color: var(--text-muted); text-decoration: none; font-size: 0.84rem; }
+    .mobile-sticky-result { display: none; }
+    @media (max-width: 840px) {
+      .calc-grid { grid-template-columns: minmax(0, 1fr); }
+      .mobile-sticky-result {
+        display: flex; position: fixed; bottom: 0; left: 0; right: 0; z-index: 990;
+        background: rgba(14, 17, 23, 0.95); backdrop-filter: blur(10px);
+        border-top: 1px solid rgba(59, 130, 246, 0.45); padding: 0.65rem 1rem;
+        align-items: center; justify-content: space-between; gap: 0.75rem; cursor: pointer;
+      }
+      .mobile-sticky-result .msr-left { display: flex; align-items: baseline; gap: 0.5rem; min-width: 0; overflow: hidden; }
+      .mobile-sticky-result .msr-label { font-size: 0.76rem; color: #94a3b8; white-space: nowrap; }
+      .mobile-sticky-result .msr-val { font-size: 1.02rem; font-weight: 800; color: #3dd56d; white-space: nowrap; }
+      .mobile-sticky-result .msr-btn { font-size: 0.76rem; font-weight: 700; color: #fff; background: #3b82f6; padding: 0.35rem 0.68rem; border-radius: 999px; white-space: nowrap; }
+    }
+    @media (max-width: 640px) {
+      .container { padding: 0.95rem 0.85rem 4.8rem; }
+      .top-nav { flex-direction: column; align-items: stretch; gap: 0.55rem; padding-bottom: 0.7rem; margin-bottom: 0.9rem; }
+      .brand-link { font-size: 1.22rem; }
+      .nav-links { flex-wrap: nowrap; overflow-x: auto; width: 100%; gap: 0.35rem; padding-bottom: 0.15rem; scrollbar-width: none; }
+      .nav-links::-webkit-scrollbar { display: none; }
+      .nav-links a { font-size: 0.8rem; padding: 0.34rem 0.62rem; flex-shrink: 0; }
+      .tools-subnav { flex-wrap: nowrap; overflow-x: auto; width: 100%; gap: 0.42rem; padding-bottom: 0.25rem; margin-bottom: 1rem; scrollbar-width: none; }
+      .tools-subnav::-webkit-scrollbar { display: none; }
+      .tools-subnav a { flex: 0 0 auto; font-size: 0.82rem; padding: 0.48rem 0.82rem; border-radius: 999px; }
+      .page-header h1 { font-size: 1.28rem; }
+      .page-header p { font-size: 0.85rem; }
+      .panel { padding: 1.05rem 0.95rem; margin-bottom: 0.95rem; }
+      .form-input, .form-select { font-size: 16px; padding: 0.56rem 0.68rem; }
+      .hero-big { font-size: 1.55rem; }
+      .kpi-val { font-size: 0.95rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="top-nav">
+      <a href="../index.html" class="brand-link">⚡ ZIPPY</a>
+      <nav class="nav-links" aria-label="주요 메뉴">
+        <a href="../index.html">⚡ 경제 브리핑</a>
+        <a href="../archive/index.html">🗂️ 브리핑 아카이브</a>
+        <a href="../guide/index.html">📘 경제·투자 가이드</a>
+        <a href="./dsr.html" class="active">🧮 금융 계산기</a>
+        <a href="../about.html">ℹ️ 서비스 소개</a>
+      </nav>
+    </header>
+
+    <nav class="tools-subnav" aria-label="금융 계산기 메뉴">
+      <a href="./dsr.html">🏦 DSR 대출 한도</a>
+      <a href="./real-estate-tax.html" class="active">🏡 취득세·중개보수</a>
+      <a href="./salary.html">💼 연봉 실수령·퇴직금</a>
+      <a href="./refinance.html">🔄 주담대 갈아타기</a>
+      <a href="./jeonse-vs-rent.html">🏠 전세대출 vs 월세</a>
+      <a href="./stock-averaging.html">📉 주식 물타기·평단가</a>
+      <a href="./compound.html">📈 복리·적립식 투자</a>
+      <a href="./us-stock-tax.html">💵 해외주식 양도세</a>
+      <a href="./dividend-tax.html">💰 월배당·배당소득세</a>
+      <a href="./pension-tax.html">🛡️ 연금저축·IRP 공제</a>
+    </nav>
+
+    <div class="page-header">
+      <h1>🏡 부동산 취득세 · 중개보수(복비) 계산기</h1>
+      <p>매매가와 보유 주택 수, 전용면적(85㎡ 이하·초과)에 따른 취득세·교육세·농특세 및 법정 중개수수료 상한액을 즉시 계산합니다.</p>
+    </div>
+
+    <div class="calc-grid">
+      <div>
+        <section class="panel">
+          <h2 class="panel-title">1. 매수 주택 및 거래 조건</h2>
+          <div class="form-group">
+            <label class="form-label" for="re-price">
+              <span>주택 취득가액 / 매매가 (만원)</span>
+              <span class="form-hint" id="re-price-kr">8억 5,000만 원</span>
+            </label>
+            <input type="number" id="re-price" class="form-input" value="85000" min="1000" step="1000" oninput="calcRealEstate()" />
+            <div class="quick-btns">
+              <button type="button" class="q-btn" onclick="adjPrice(5000)">+5,000만</button>
+              <button type="button" class="q-btn" onclick="adjPrice(10000)">+1억</button>
+              <button type="button" class="q-btn" onclick="setPrice(60000)">6억</button>
+              <button type="button" class="q-btn" onclick="setPrice(90000)">9억</button>
+              <button type="button" class="q-btn" onclick="setPrice(120000)">12억</button>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label class="form-label" for="re-houses">취득 후 보유 주택 수 (규제지역 여부)</label>
+            <select id="re-houses" class="form-select" onchange="calcRealEstate()">
+              <option value="1">1주택 (무주택자·일시적 2주택 포함)</option>
+              <option value="2_non">비조정대상지역 2주택 (1~3% 일반세율)</option>
+              <option value="2_adj">조정대상지역 2주택 (중과 8%)</option>
+              <option value="3_non">비조정대상지역 3주택 (중과 8%)</option>
+              <option value="3_adj">조정대상지역 3주택 이상 / 4주택+ (중과 12%)</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label class="form-label">전용면적</label>
+            <div class="radio-pills">
+              <button type="button" class="pill-btn active" id="area-small" onclick="setArea('small')">85㎡ 이하 (국민평형)</button>
+              <button type="button" class="pill-btn" id="area-large" onclick="setArea('large')">85㎡ 초과 (농특세 +0.2%)</button>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label class="form-label">중개보수 부가세(10%) 포함 여부</label>
+            <div class="radio-pills">
+              <button type="button" class="pill-btn active" id="vat-on" onclick="setVat(true)">일반과세 (VAT 10% 포함)</button>
+              <button type="button" class="pill-btn" id="vat-off" onclick="setVat(false)">간이과세 (VAT 미포함)</button>
+            </div>
+          </div>
+        </section>
+      </div>
+
+      <div>
+        <section class="panel result-hero">
+          <div style="font-size:0.84rem; color:#93c5fd; font-weight:700;">총 취득 부대비용 합계 (세금 + 복비)</div>
+          <div class="hero-big" id="res-total-cost">0만 원</div>
+          <div style="font-size:0.82rem; color:var(--text-muted);" id="res-total-sub">매매가 대비 약 0.00%</div>
+        </section>
+
+        <div class="kpi-grid">
+          <div class="kpi-card">
+            <div class="kpi-label">취득세 합계 (세금 총액)</div>
+            <div class="kpi-val" id="res-tax-total" style="color:#60a5fa;">0만 원</div>
+            <div class="kpi-sub" id="res-tax-rate">적용 세율 0.00%</div>
+          </div>
+          <div class="kpi-card">
+            <div class="kpi-label">법정 중개보수 상한 (복비)</div>
+            <div class="kpi-val" id="res-broker-fee" style="color:#fbbf24;">0만 원</div>
+            <div class="kpi-sub" id="res-broker-rate">상한 요율 0.0%</div>
+          </div>
+        </div>
+
+        <section class="panel">
+          <h3 style="margin:0 0 0.65rem; font-size:0.96rem;">🧾 항목별 세부 내역</h3>
+          <div class="table-wrap">
+            <table class="comp-table">
+              <thead>
+                <tr><th>항목</th><th>적용 요율</th><th>금액</th></tr>
+              </thead>
+              <tbody id="re-detail-tbody"></tbody>
+            </table>
+          </div>
+          <div style="margin-top:0.95rem; padding-top:0.75rem; border-top:1px dashed var(--border);">
+            <a href="./dsr.html" style="color:#60a5fa; font-size:0.86rem; font-weight:700; text-decoration:none;">
+              🏦 이 집 살 때 내 연봉 기준 스트레스 DSR 주담대 한도 계산하기 →
+            </a>
+          </div>
+        </section>
+      </div>
+    </div>
+
+    <section class="panel guide-section">
+      <h2>📘 주택 취득세율 &amp; 중개보수 상한 기준 요약</h2>
+      <ul>
+        <li><strong>1주택 및 비조정 2주택:</strong> 6억 원 이하 <strong>1%</strong>, 6억 초과~9억 원 이하 <strong>1%~3% 누진</strong>(<code>(취득가액(억)×2/3 - 3)%</code>), 9억 원 초과 <strong>3%</strong>가 적용됩니다.</li>
+        <li><strong>지방교육세 &amp; 농어촌특별세:</strong> 일반 1~3% 구간에서는 취득세의 10%(0.1~0.3%)가 지방교육세로 붙으며, 전용면적 <strong>85㎡ 초과</strong> 주택은 농어촌특별세 <strong>0.2%</strong>가 추가됩니다.</li>
+        <li><strong>주택 매매 중개보수 상한:</strong> 2~9억 미만 0.4%, 9~12억 미만 0.5%, 12~15억 미만 0.6%, 15억 이상 0.7% 이내에서 공인중개사와 협의합니다.</li>
+      </ul>
+    </section>
+
+    <footer class="footer">
+      <div class="footer-links">
+        <a href="../index.html">경제 브리핑</a>
+        <a href="../archive/index.html">브리핑 아카이브</a>
+        <a href="../guide/index.html">경제·투자 가이드</a>
+        <a href="./dsr.html">금융 계산기</a>
+        <a href="../about.html">서비스 소개</a>
+        <a href="../privacy.html">개인정보처리방침</a>
+      </div>
+      <div>© ZIPPY (zippy.kr). 본 계산 결과는 참고용이며 실제 등기 시 세무사·법무사 고지 세액과 일부 차이가 있을 수 있습니다.</div>
+    </footer>
+  </div>
+
+  <div class="mobile-sticky-result" id="mobile-sticky-result" onclick="document.querySelector('.result-hero').scrollIntoView({behavior:'smooth', block:'start'});">
+    <div class="msr-left">
+      <span class="msr-label">📊 총 부대비용</span>
+      <span class="msr-val" id="msr-val-text">계산 중</span>
+    </div>
+    <span class="msr-btn">상세 보기 ↓</span>
+  </div>
+
+  <script>
+    let areaType = "small";
+    let includeVat = true;
+    function setArea(t) {
+      areaType = t;
+      document.getElementById("area-small").classList.toggle("active", t === "small");
+      document.getElementById("area-large").classList.toggle("active", t === "large");
+      calcRealEstate();
+    }
+    function setVat(v) {
+      includeVat = v;
+      document.getElementById("vat-on").classList.toggle("active", v);
+      document.getElementById("vat-off").classList.toggle("active", !v);
+      calcRealEstate();
+    }
+    function adjPrice(d) {
+      const el = document.getElementById("re-price");
+      el.value = Math.max(1000, (Number(el.value) || 0) + d);
+      calcRealEstate();
+    }
+    function setPrice(v) {
+      document.getElementById("re-price").value = v;
+      calcRealEstate();
+    }
+    function fmtKRW(won) {
+      const n = Math.round(won);
+      const eok = Math.floor(n / 100000000);
+      const man = Math.round((n % 100000000) / 10000);
+      if (eok > 0 && man > 0) return `${eok}억 ${man.toLocaleString()}만 원`;
+      if (eok > 0) return `${eok}억 원`;
+      return `${Math.round(n / 10000).toLocaleString()}만 원`;
+    }
+    function calcRealEstate() {
+      const priceMan = Math.max(0, Number(document.getElementById("re-price").value) || 0);
+      const priceWon = priceMan * 10000;
+      document.getElementById("re-price-kr").textContent = fmtKRW(priceWon);
+
+      const houseOpt = document.getElementById("re-houses").value;
+      const eok = priceWon / 100000000;
+      let acqRatePct = 1.0;
+      let eduRatePct = 0.1;
+      let agriRatePct = areaType === "large" ? 0.2 : 0.0;
+
+      if (houseOpt === "1" || houseOpt === "2_non") {
+        if (eok <= 6) acqRatePct = 1.0;
+        else if (eok <= 9) acqRatePct = Number(((eok * 2) / 3 - 3).toFixed(2));
+        else acqRatePct = 3.0;
+        eduRatePct = Number((acqRatePct * 0.1).toFixed(3));
+      } else if (houseOpt === "2_adj" || houseOpt === "3_non") {
+        acqRatePct = 8.0;
+        eduRatePct = 0.4;
+        agriRatePct = areaType === "large" ? 0.6 : 0.0;
+      } else {
+        acqRatePct = 12.0;
+        eduRatePct = 0.4;
+        agriRatePct = areaType === "large" ? 1.0 : 0.0;
+      }
+
+      const acqTax = Math.round(priceWon * (acqRatePct / 100));
+      const eduTax = Math.round(priceWon * (eduRatePct / 100));
+      const agriTax = Math.round(priceWon * (agriRatePct / 100));
+      const taxTotal = acqTax + eduTax + agriTax;
+      const totalTaxRate = acqRatePct + eduRatePct + agriRatePct;
+
+      // 중개보수 상한 요율
+      let brokerPct = 0.4;
+      let brokerCap = Infinity;
+      if (eok < 0.5) { brokerPct = 0.6; brokerCap = 250000; }
+      else if (eok < 2) { brokerPct = 0.5; brokerCap = 800000; }
+      else if (eok < 9) { brokerPct = 0.4; }
+      else if (eok < 12) { brokerPct = 0.5; }
+      else if (eok < 15) { brokerPct = 0.6; }
+      else { brokerPct = 0.7; }
+
+      const baseBroker = Math.min(brokerCap, Math.round(priceWon * (brokerPct / 100)));
+      const brokerTotal = includeVat ? Math.round(baseBroker * 1.1) : baseBroker;
+      const totalCost = taxTotal + brokerTotal;
+
+      document.getElementById("res-total-cost").textContent = fmtKRW(totalCost);
+      document.getElementById("msr-val-text").textContent = fmtKRW(totalCost);
+      document.getElementById("res-total-sub").textContent =
+        `매매가 대비 약 ${priceWon > 0 ? ((totalCost / priceWon) * 100).toFixed(2) : "0.00"}% (${totalCost.toLocaleString()}원)`;
+      document.getElementById("res-tax-total").textContent = fmtKRW(taxTotal);
+      document.getElementById("res-tax-rate").textContent = `합산 세율 ${totalTaxRate.toFixed(2)}%`;
+      document.getElementById("res-broker-fee").textContent = fmtKRW(brokerTotal);
+      document.getElementById("res-broker-rate").textContent = `상한 ${brokerPct}%${includeVat ? " + VAT" : ""}`;
+
+      document.getElementById("re-detail-tbody").innerHTML = `
+        <tr><td>취득세</td><td>${acqRatePct.toFixed(2)}%</td><td>${acqTax.toLocaleString()}원</td></tr>
+        <tr><td>지방교육세</td><td>${eduRatePct.toFixed(2)}%</td><td>${eduTax.toLocaleString()}원</td></tr>
+        <tr><td>농어촌특별세</td><td>${agriRatePct.toFixed(2)}%</td><td>${agriTax.toLocaleString()}원</td></tr>
+        <tr><td>중개보수 (${includeVat ? "VAT 포함" : "VAT 제외"})</td><td>${brokerPct.toFixed(2)}%</td><td>${brokerTotal.toLocaleString()}원</td></tr>
+      `;
+    }
+    calcRealEstate();
+    (function() {
+      var activePill = document.querySelector(".tools-subnav a.active");
+      if (activePill && window.innerWidth <= 640) {
+        setTimeout(function() { try { activePill.scrollIntoView({ inline: "center", block: "nearest" }); } catch(e) {} }, 60);
+      }
+    })();
+  </script>
+</body>
+</html>

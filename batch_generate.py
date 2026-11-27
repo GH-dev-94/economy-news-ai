@@ -8,6 +8,8 @@ import os
 import re
 import sys
 import traceback
+import urllib.parse
+import urllib.request
 from datetime import datetime, timedelta, timezone
 from dotenv import load_dotenv
 
@@ -310,6 +312,12 @@ def run_batch(only=None):
 
         output[key] = new_data
 
+    print("\n6단계: 글로벌 핵심 시장 지표 스냅샷 수집 중...")
+    snapshot = _fetch_market_snapshot(now)
+    if snapshot.get("items"):
+        output["market_snapshot"] = snapshot
+        print(f"-> 시장 지표 {len(snapshot['items'])}개 수집 완료")
+
     output["updated_at"] = now.strftime("%Y-%m-%d %H:%M:%S KST")
 
     with open(DATA_PATH, "w", encoding="utf-8") as f:
@@ -320,6 +328,52 @@ def run_batch(only=None):
     print(f"\n==========================================")
     print(f"[OK] 배치 완료: {DATA_PATH} 저장 성공!")
     print(f"==========================================")
+
+
+def _fetch_market_snapshot(now: datetime) -> dict:
+    """Yahoo Finance 공개 차트 API에서 주요 지수·환율·금리·VIX·BTC 스냅샷 수집(4시간 백업용)."""
+    specs = [
+        ("kospi", "^KS11", "코스피", "", 2),
+        ("kosdaq", "^KQ11", "코스닥", "", 2),
+        ("nasdaq", "^IXIC", "나스닥", "", 2),
+        ("sp500", "^GSPC", "S&P 500", "", 2),
+        ("usdkrw", "KRW=X", "원/달러", "원", 1),
+        ("us10y", "^TNX", "미 국채 10년", "%", 2),
+        ("vix", "^VIX", "VIX 공포지수", "", 2),
+        ("btc", "BTC-USD", "비트코인", "$", 0),
+    ]
+    items = {}
+    for key, symbol, label, unit, decimals in specs:
+        try:
+            url = f"https://query1.finance.yahoo.com/v8/finance/chart/{urllib.parse.quote(symbol)}?range=5d&interval=1d"
+            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (ZippyMarket/1.0)"})
+            with urllib.request.urlopen(req, timeout=6) as resp:
+                data = json.loads(resp.read().decode("utf-8"))
+            meta = data["chart"]["result"][0]["meta"]
+            price = float(meta["regularMarketPrice"])
+            prev = float(meta.get("chartPreviousClose") or meta.get("previousClose") or price)
+            chg = price - prev
+            chg_pct = (chg / prev * 100.0) if prev > 0 else 0.0
+            items[key] = {
+                "key": key,
+                "label": label,
+                "symbol": symbol,
+                "unit": unit,
+                "decimals": decimals,
+                "price": price,
+                "prevClose": prev,
+                "change": chg,
+                "changePct": chg_pct,
+                "high52w": meta.get("fiftyTwoWeekHigh"),
+                "low52w": meta.get("fiftyTwoWeekLow"),
+            }
+        except Exception:
+            continue
+    return {
+        "updatedAt": now.isoformat(),
+        "source": "github-4h-snapshot",
+        "items": items,
+    }
 
 
 def _sync_static_seo_files(output: dict, now: datetime):

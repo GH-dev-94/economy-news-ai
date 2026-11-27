@@ -1132,6 +1132,8 @@ def update_sitemap(now: datetime | None = None):
     urls = [
         ("https://zippy.kr/", today_str, "hourly", "1.0"),
         ("https://zippy.kr/tools/dsr.html", today_str, "weekly", "0.95"),
+        ("https://zippy.kr/tools/real-estate-tax.html", today_str, "weekly", "0.95"),
+        ("https://zippy.kr/tools/salary.html", today_str, "weekly", "0.95"),
         ("https://zippy.kr/tools/refinance.html", today_str, "weekly", "0.95"),
         ("https://zippy.kr/tools/jeonse-vs-rent.html", today_str, "weekly", "0.95"),
         ("https://zippy.kr/tools/stock-averaging.html", today_str, "weekly", "0.95"),

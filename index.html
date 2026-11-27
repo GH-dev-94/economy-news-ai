@@ -638,6 +638,217 @@
       color: var(--text-main);
       text-decoration: underline;
     }
+
+    /* 📊 실시간 시장 지표 & 온도계 통합 박스 */
+    .market-dashboard {
+      background: linear-gradient(180deg, rgba(22, 26, 35, 0.96), rgba(16, 20, 29, 0.96));
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 0.95rem 1.05rem;
+      margin-bottom: 1.15rem;
+    }
+    .market-dash-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.5rem;
+      margin-bottom: 0.7rem;
+      flex-wrap: wrap;
+    }
+    .market-dash-title {
+      font-size: 0.9rem;
+      font-weight: 800;
+      color: var(--text-main);
+      display: flex;
+      align-items: center;
+      gap: 0.45rem;
+    }
+    .live-dot {
+      width: 7px;
+      height: 7px;
+      border-radius: 999px;
+      background: var(--neon-green);
+      display: inline-block;
+      box-shadow: 0 0 8px rgba(61, 213, 109, 0.8);
+    }
+    .market-dash-meta {
+      display: flex;
+      align-items: center;
+      gap: 0.45rem;
+      font-size: 0.75rem;
+      color: var(--text-muted);
+    }
+    .market-refresh-btn {
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid var(--border);
+      color: var(--text-main);
+      font-size: 0.72rem;
+      font-weight: 600;
+      padding: 0.2rem 0.5rem;
+      border-radius: 6px;
+      cursor: pointer;
+      font-family: inherit;
+    }
+    .market-refresh-btn:hover {
+      border-color: var(--accent-blue);
+    }
+    .market-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 0.55rem;
+    }
+    .m-card {
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid rgba(250, 250, 250, 0.09);
+      border-radius: 9px;
+      padding: 0.55rem 0.65rem;
+      min-width: 0;
+    }
+    .m-label {
+      font-size: 0.74rem;
+      color: var(--text-muted);
+      font-weight: 600;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .m-price {
+      font-size: 0.96rem;
+      font-weight: 800;
+      color: var(--text-main);
+      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+      margin-top: 0.15rem;
+      white-space: nowrap;
+    }
+    .m-chg {
+      font-size: 0.74rem;
+      font-weight: 700;
+      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+      margin-top: 0.1rem;
+      white-space: nowrap;
+    }
+    .m-up { color: #f87171; }
+    .m-down { color: #60a5fa; }
+    .m-flat { color: #94a3b8; }
+
+    /* 통합 시장 온도계 (VIX + 원/달러 52주 레인지) */
+    .market-thermo {
+      margin-top: 0.75rem;
+      padding-top: 0.7rem;
+      border-top: 1px dashed rgba(250, 250, 250, 0.12);
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0.75rem;
+    }
+    .thermo-item {
+      min-width: 0;
+    }
+    .thermo-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.76rem;
+      margin-bottom: 0.3rem;
+      gap: 0.4rem;
+    }
+    .thermo-title { color: #cbd5e1; font-weight: 600; white-space: nowrap; }
+    .thermo-badge { font-weight: 700; white-space: nowrap; }
+    .thermo-track {
+      height: 7px;
+      border-radius: 999px;
+      background: linear-gradient(90deg, #3dd56d 0%, #f59e0b 55%, #ff4b4b 100%);
+      position: relative;
+      overflow: visible;
+    }
+    .thermo-pin {
+      position: absolute;
+      top: 50%;
+      width: 11px;
+      height: 11px;
+      border-radius: 999px;
+      background: #fff;
+      border: 2px solid #0e1117;
+      transform: translate(-50%, -50%);
+      box-shadow: 0 0 6px rgba(0, 0, 0, 0.6);
+    }
+
+    /* 📅 D-Day 경제 캘린더 카드 */
+    .cal-preview {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.65rem;
+      background: rgba(59, 130, 246, 0.08);
+      border: 1px solid rgba(59, 130, 246, 0.28);
+      border-radius: 10px;
+      padding: 0.68rem 0.9rem;
+      margin-bottom: 1.05rem;
+      font-size: 0.84rem;
+      cursor: pointer;
+    }
+    .cal-preview:hover {
+      border-color: var(--accent-blue);
+      background: rgba(59, 130, 246, 0.13);
+    }
+    .cal-dday {
+      display: inline-block;
+      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+      font-size: 0.74rem;
+      font-weight: 800;
+      padding: 0.14rem 0.45rem;
+      border-radius: 5px;
+      background: rgba(255, 75, 75, 0.18);
+      color: #fca5a5;
+      border: 1px solid rgba(255, 75, 75, 0.35);
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .cal-list {
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+    }
+    .cal-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 0.95rem 1.05rem;
+    }
+    .cal-card-top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.5rem;
+      margin-bottom: 0.45rem;
+      flex-wrap: wrap;
+    }
+    .cal-card-title {
+      font-size: 0.96rem;
+      font-weight: 800;
+      color: var(--text-main);
+    }
+    .cal-card-meta {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-bottom: 0.45rem;
+    }
+    .cal-guide {
+      background: rgba(255, 255, 255, 0.03);
+      border-left: 3px solid var(--accent-blue);
+      padding: 0.5rem 0.75rem;
+      border-radius: 0 6px 6px 0;
+      font-size: 0.86rem;
+      color: #cbd5e1;
+    }
+
+    @media (max-width: 640px) {
+      .market-dashboard { padding: 0.8rem 0.78rem; }
+      .market-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.42rem; }
+      .m-card { padding: 0.48rem 0.56rem; }
+      .m-price { font-size: 0.9rem; }
+      .market-thermo { grid-template-columns: 1fr; gap: 0.6rem; }
+      .cal-preview { padding: 0.6rem 0.75rem; font-size: 0.8rem; }
+    }
   </style>
 </head>
 <body>
@@ -664,11 +875,31 @@
       <span id="updated-at">🕒 <strong>최근 자동 업데이트:</strong> 불러오는 중...</span>
     </div>
 
-    <!-- 기간 선택 탭 (오늘 / 어제 / 지난 일주일 / 스크랩 보관함) -->
+    <!-- 📊 [1번+4번 통합] 실시간 시장 핵심 지표 & 온도계 -->
+    <section class="market-dashboard" id="market-dashboard" aria-label="실시간 핵심 시장 지표 및 온도계">
+      <div class="market-dash-head">
+        <div class="market-dash-title">
+          <span class="live-dot"></span>
+          <span>실시간 핵심 시장 지표 · 온도계</span>
+        </div>
+        <div class="market-dash-meta">
+          <span id="market-updated-label">시세 확인 중...</span>
+          <button type="button" class="market-refresh-btn" onclick="fetchLiveMarket(true)">🔄 갱신</button>
+        </div>
+      </div>
+      <div class="market-grid" id="market-grid"></div>
+      <div class="market-thermo" id="market-thermo"></div>
+    </section>
+
+    <!-- 📅 [2번] 다음 핵심 경제 일정 1줄 미리보기 -->
+    <div class="cal-preview" id="cal-preview-bar" onclick="openCalendarTab()"></div>
+
+    <!-- 기간 선택 탭 (오늘 / 어제 / 지난 일주일 / 경제 일정 / 스크랩 보관함) -->
     <nav class="tabs-bar" id="period-tabs">
       <button class="tab-btn active" data-period="today">📅 오늘</button>
       <button class="tab-btn" data-period="yesterday">⏳ 어제</button>
       <button class="tab-btn" data-period="week">🗓️ 지난 일주일</button>
+      <button class="tab-btn" data-period="calendar">📆 경제 일정</button>
       <button class="tab-btn" data-period="saved" id="saved-tab-btn">⭐ 스크랩 (0)</button>
     </nav>
 
@@ -879,6 +1110,28 @@
       }
       updateSavedTabCount();
 
+      if (currentPeriod === "calendar") {
+        regionTabsEl.style.display = "none";
+        actionRowEl.style.display = "none";
+        const upcoming = getUpcomingEvents();
+        summaryEl.innerHTML = `
+          <div class="period-line">
+            <strong>📆 핵심 거시경제 캘린더:</strong> 금리·물가·고용 발표 일정 및 시장 영향 해석 (${upcoming.length}건 예정)
+          </div>
+        `;
+        cardsEl.innerHTML = `<div class="cal-list">${upcoming.map(ev => `
+          <div class="cal-card">
+            <div class="cal-card-top">
+              <div class="cal-card-title">${ev.region} ${escapeHtml(ev.title)}</div>
+              <span class="cal-dday">${ev.dday.badge}</span>
+            </div>
+            <div class="cal-card-meta">📅 발표일: <strong>${ev.date}</strong> · 중요도: <strong>${ev.importance}</strong></div>
+            <div class="cal-guide">💡 <strong>시장 영향:</strong> ${escapeHtml(ev.guide)}</div>
+          </div>
+        `).join("")}</div>`;
+        return;
+      }
+
       if (currentPeriod === "saved") {
         renderView();
       } else if (event && event.currentTarget) {
@@ -945,8 +1198,268 @@
         `🕒 <strong>최근 자동 업데이트:</strong> ${escapeHtml(appData.updated_at || "최근")}`;
 
       updateSavedTabCount();
+      if (appData.market_snapshot && appData.market_snapshot.items) {
+        renderMarketDashboard(appData.market_snapshot);
+      }
+      renderCalendarPreview();
       renderView();
+      fetchLiveMarket(false);
     }
+
+    // =========================================================================
+    // 📊 실시간 시장 지표 & 온도계 (Vercel 1분 캐시 API + CORS 직접 조회 + 4시간 스냅샷)
+    // =========================================================================
+    const LIVE_MARKET_API_URL = ""; // 예: "https://본인-버셀-주소.vercel.app/api/market" (비어있어도 환율·BTC 실시간 + 4시간 전종목 자동 표시)
+    const MARKET_ORDER = ["kospi", "kosdaq", "nasdaq", "sp500", "usdkrw", "us10y", "vix", "btc"];
+    let currentMarketState = null;
+
+    function formatMarketPrice(item) {
+      const val = Number(item.price || 0);
+      const dec = typeof item.decimals === "number" ? item.decimals : 2;
+      const formatted = val.toLocaleString("ko-KR", {
+        minimumFractionDigits: dec,
+        maximumFractionDigits: dec
+      });
+      if (item.unit === "$") return `$${formatted}`;
+      if (item.unit === "%") return `${formatted}%`;
+      if (item.unit === "원") return `${formatted}원`;
+      return formatted;
+    }
+
+    function renderMarketDashboard(snapshot) {
+      if (!snapshot || !snapshot.items) return;
+      currentMarketState = snapshot;
+      const gridEl = document.getElementById("market-grid");
+      const thermoEl = document.getElementById("market-thermo");
+      const labelEl = document.getElementById("market-updated-label");
+      if (!gridEl || !thermoEl) return;
+
+      const cardsHtml = MARKET_ORDER.map(key => {
+        const it = snapshot.items[key];
+        if (!it) return "";
+        const chgPct = Number(it.changePct || 0);
+        const cls = chgPct > 0.005 ? "m-up" : chgPct < -0.005 ? "m-down" : "m-flat";
+        const arrow = chgPct > 0.005 ? "▲" : chgPct < -0.005 ? "▼" : "•";
+        return `
+          <div class="m-card">
+            <div class="m-label">${escapeHtml(it.label || key)}</div>
+            <div class="m-price">${formatMarketPrice(it)}</div>
+            <div class="m-chg ${cls}">${arrow} ${chgPct >= 0 ? "+" : ""}${chgPct.toFixed(2)}%</div>
+          </div>
+        `;
+      }).join("");
+      gridEl.innerHTML = cardsHtml;
+
+      // 시장 온도계 (VIX 공포지수 + 원/달러 52주 위치)
+      const vix = snapshot.items.vix;
+      const fx = snapshot.items.usdkrw;
+      let thermoHtml = "";
+
+      if (vix) {
+        const vp = Number(vix.price || 18);
+        const vixPct = Math.max(4, Math.min(96, ((vp - 10) / 30) * 100));
+        const vixStatus =
+          vp < 15 ? { text: "안정 · 탐욕", color: "#3dd56d" } :
+          vp < 22 ? { text: "보통 · 중립", color: "#93c5fd" } :
+          vp < 30 ? { text: "경계 · 변동성", color: "#fbbf24" } :
+                    { text: "공포 · 투매주의", color: "#f87171" };
+        thermoHtml += `
+          <div class="thermo-item">
+            <div class="thermo-head">
+              <span class="thermo-title">🌡️ 시장 공포·탐욕 (VIX ${vp.toFixed(1)})</span>
+              <span class="thermo-badge" style="color:${vixStatus.color}">${vixStatus.text}</span>
+            </div>
+            <div class="thermo-track"><span class="thermo-pin" style="left:${vixPct}%"></span></div>
+          </div>
+        `;
+      }
+
+      if (fx) {
+        const fp = Number(fx.price || 1380);
+        const lo = Number(fx.low52w || fp - 80);
+        const hi = Number(fx.high52w || fp + 80);
+        const span = Math.max(10, hi - lo);
+        const fxPct = Math.max(4, Math.min(96, ((fp - lo) / span) * 100));
+        const fxLabel = fxPct >= 75 ? "고환율 경계" : fxPct <= 30 ? "원화 강세권" : "중립 구간";
+        const fxColor = fxPct >= 75 ? "#f87171" : fxPct <= 30 ? "#3dd56d" : "#fbbf24";
+        thermoHtml += `
+          <div class="thermo-item">
+            <div class="thermo-head">
+              <span class="thermo-title">💵 원/달러 52주 위치 (${Math.round(fp).toLocaleString()}원)</span>
+              <span class="thermo-badge" style="color:${fxColor}">상위 ${Math.round(100 - fxPct)}% · ${fxLabel}</span>
+            </div>
+            <div class="thermo-track"><span class="thermo-pin" style="left:${fxPct}%"></span></div>
+          </div>
+        `;
+      }
+      thermoEl.innerHTML = thermoHtml;
+
+      if (labelEl && snapshot.updatedAt) {
+        const dt = new Date(snapshot.updatedAt);
+        const hhmm = isNaN(dt.getTime())
+          ? ""
+          : dt.toLocaleTimeString("ko-KR", { hour: "2-digit", minute: "2-digit" });
+        const modeText = snapshot.source === "vercel-cached-60s" ? "1분 실시간" : "시세 기준";
+        labelEl.textContent = hhmm ? `${hhmm} ${modeText}` : modeText;
+      }
+    }
+
+    async function fetchLiveMarket(isManual) {
+      if (isManual) {
+        const labelEl = document.getElementById("market-updated-label");
+        if (labelEl) labelEl.textContent = "갱신 중...";
+      }
+
+      // 1. Vercel 1분 캐시 API가 설정된 경우 전 종목 실시간 조회
+      if (LIVE_MARKET_API_URL) {
+        try {
+          const res = await fetch(LIVE_MARKET_API_URL, { cache: "no-store" });
+          if (res.ok) {
+            const data = await res.json();
+            if (data && data.items) {
+              renderMarketDashboard(data);
+              return;
+            }
+          }
+        } catch (e) {}
+      }
+
+      // 2. 폴백: CORS 허용 무료 API로 환율(USD/KRW)과 BTC 실시간 보강
+      try {
+        const merged = currentMarketState
+          ? JSON.parse(JSON.stringify(currentMarketState))
+          : { updatedAt: new Date().toISOString(), source: "live-partial", items: {} };
+
+        const [fxRes, btcRes] = await Promise.allSettled([
+          fetch("https://open.er-api.com/v6/latest/USD"),
+          fetch("https://api.coinbase.com/v2/prices/BTC-USD/spot")
+        ]);
+
+        if (fxRes.status === "fulfilled" && fxRes.value.ok) {
+          const fxData = await fxRes.value.json();
+          const krw = fxData?.rates?.KRW;
+          if (krw && merged.items.usdkrw) {
+            const prev = merged.items.usdkrw.prevClose || krw;
+            merged.items.usdkrw.price = krw;
+            merged.items.usdkrw.change = krw - prev;
+            merged.items.usdkrw.changePct = prev > 0 ? ((krw - prev) / prev) * 100 : 0;
+          }
+        }
+
+        if (btcRes.status === "fulfilled" && btcRes.value.ok) {
+          const btcData = await btcRes.value.json();
+          const amt = Number(btcData?.data?.amount);
+          if (amt && merged.items.btc) {
+            const prev = merged.items.btc.prevClose || amt;
+            merged.items.btc.price = amt;
+            merged.items.btc.change = amt - prev;
+            merged.items.btc.changePct = prev > 0 ? ((amt - prev) / prev) * 100 : 0;
+          }
+        }
+        merged.updatedAt = new Date().toISOString();
+        renderMarketDashboard(merged);
+      } catch (e) {}
+    }
+
+    // 1분(60초)마다 자동 시세 갱신
+    setInterval(() => {
+      if (document.visibilityState === "visible") fetchLiveMarket(false);
+    }, 60000);
+
+    // =========================================================================
+    // 📅 D-Day 핵심 경제 캘린더 데이터 & 렌더링
+    // =========================================================================
+    const MACRO_CALENDAR_EVENTS = [
+      {
+        date: "2026-12-04",
+        region: "🇺🇸 미국",
+        title: "미국 11월 비농업고용·실업률 (고용보고서)",
+        importance: "최상",
+        guide: "고용이 예상보다 뜨거우면 ➔ 연준 금리인하 지연 우려(금리↑·나스닥↓), 둔화 시 ➔ 금리안정·증시 우호"
+      },
+      {
+        date: "2026-12-10",
+        region: "🇺🇸 미국",
+        title: "미국 11월 소비자물가지수 (CPI)",
+        importance: "최상",
+        guide: "근원 CPI가 예상치를 웃돌면 ➔ 인플레 재점화 경계(환율↑), 예상 하회 시 ➔ 기술주·채권 강세"
+      },
+      {
+        date: "2026-12-16",
+        region: "🇺🇸 미국",
+        title: "12월 FOMC 기준금리 결정 & 점도표 발표",
+        importance: "최상",
+        guide: "금리 결정 자체보다 2027년 점도표(인하 횟수 전망)와 파월 의장 기자회견 톤이 연말 산타랠리 분수령"
+      },
+      {
+        date: "2026-12-18",
+        region: "🇯🇵 일본",
+        title: "일본은행(BOJ) 금융정책결정회의",
+        importance: "상",
+        guide: "엔화 금리 인상 시사 시 ➔ 엔캐리 청산 경계로 글로벌 증시 단기 변동성 확대 주의"
+      },
+      {
+        date: "2026-12-23",
+        region: "🇺🇸 미국",
+        title: "미국 11월 개인소비지출(PCE) 물가지수",
+        importance: "상",
+        guide: "연준이 가장 선호하는 물가 지표. 연말 소비 강도와 물가 안정 여부를 동시에 점검"
+      },
+      {
+        date: "2027-01-15",
+        region: "🇰🇷 한국",
+        title: "한국은행 금융통화위원회 (기준금리 결정)",
+        importance: "최상",
+        guide: "원/달러 환율 레벨과 수도권 가계부채 추이에 따라 한은 금리 동결·인하 스탠스 결정"
+      }
+    ];
+
+    function calcDDayInfo(dateStr) {
+      const today = new Date();
+      const base = new Date(today.getFullYear(), today.getMonth(), today.getDate());
+      const [y, m, d] = dateStr.split("-").map(Number);
+      const target = new Date(y, m - 1, d);
+      const diffDays = Math.round((target - base) / 86400000);
+      if (diffDays === 0) return { diffDays, badge: "D-DAY" };
+      if (diffDays > 0) return { diffDays, badge: `D-${diffDays}` };
+      return { diffDays, badge: `종료` };
+    }
+
+    function getUpcomingEvents() {
+      return MACRO_CALENDAR_EVENTS
+        .map(ev => ({ ...ev, dday: calcDDayInfo(ev.date) }))
+        .filter(ev => ev.dday.diffDays >= 0);
+    }
+
+    function renderCalendarPreview() {
+      const bar = document.getElementById("cal-preview-bar");
+      if (!bar) return;
+      const upcoming = getUpcomingEvents();
+      const nextEv = upcoming[0];
+      if (!nextEv) {
+        bar.style.display = "none";
+        return;
+      }
+      bar.innerHTML = `
+        <div style="display:flex; align-items:center; gap:0.55rem; min-width:0; overflow:hidden;">
+          <span class="cal-dday">${nextEv.dday.badge}</span>
+          <span style="white-space:nowrap; overflow:hidden; text-overflow:ellipsis; color:#e2e8f0; font-weight:600;">
+            ${nextEv.region} ${escapeHtml(nextEv.title)} (${nextEv.date.slice(5).replace("-", "/")})
+          </span>
+        </div>
+        <span style="color:#60a5fa; font-weight:700; white-space:nowrap; font-size:0.78rem; flex-shrink:0;">
+          전체 일정 →
+        </span>
+      `;
+    }
+
+    window.openCalendarTab = function() {
+      document.querySelectorAll("#period-tabs .tab-btn").forEach(b => {
+        b.classList.toggle("active", b.dataset.period === "calendar");
+      });
+      currentPeriod = "calendar";
+      renderView();
+    };
 
     function buildCardHtml(idx, kw, item, arts, periodLabel, defaultOpen = false) {
       const headline = item.headline || `${kw} 시장 핵심 이슈`;
@@ -1085,6 +1598,28 @@
       const regionTabsEl = document.getElementById("region-tabs");
       const cardsEl = document.getElementById("cards-container");
       const actionRowEl = document.getElementById("action-row");
+
+      if (currentPeriod === "calendar") {
+        regionTabsEl.style.display = "none";
+        actionRowEl.style.display = "none";
+        const upcoming = getUpcomingEvents();
+        summaryEl.innerHTML = `
+          <div class="period-line">
+            <strong>📆 핵심 거시경제 캘린더:</strong> 금리·물가·고용 발표 일정 및 시장 영향 해석 (${upcoming.length}건 예정)
+          </div>
+        `;
+        cardsEl.innerHTML = `<div class="cal-list">${upcoming.map(ev => `
+          <div class="cal-card">
+            <div class="cal-card-top">
+              <div class="cal-card-title">${ev.region} ${escapeHtml(ev.title)}</div>
+              <span class="cal-dday">${ev.dday.badge}</span>
+            </div>
+            <div class="cal-card-meta">📅 발표일: <strong>${ev.date}</strong> · 중요도: <strong>${ev.importance}</strong></div>
+            <div class="cal-guide">💡 <strong>시장 영향:</strong> ${escapeHtml(ev.guide)}</div>
+          </div>
+        `).join("")}</div>`;
+        return;
+      }
 
       if (currentPeriod === "saved") {
         regionTabsEl.style.display = "none";
