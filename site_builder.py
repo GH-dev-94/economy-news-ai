@@ -874,7 +874,7 @@ def write_archive_page(date_str: str, period_data: dict, prev_date: str | None =
     <main>
       <div class="card">
         <span class="badge">BRIEFING ARCHIVE · {_html.escape(date_str)}</span>
-        <h1>📅 {_html.escape(period_label)} 국내·해외 실시간 경제 브리핑</h1>
+        <h1>📰 {_html.escape(" · ".join((dom_kws + gl_kws)[:3]) or period_label)} — {_html.escape(period_label)} 경제 브리핑</h1>
         <p style="margin:0.5rem 0 0.9rem;">{exec_summary}</p>
         <div style="font-size:0.88rem; margin-bottom:0.35rem;"><strong>🇰🇷 국내 키워드:</strong> {dom_badges}</div>
         <div style="font-size:0.88rem;"><strong>🌐 해외 키워드:</strong> {gl_badges}</div>
@@ -890,15 +890,16 @@ def write_archive_page(date_str: str, period_data: dict, prev_date: str | None =
       </div>
     </main>
 """
-    lead_kw = ", ".join((dom_kws + gl_kws)[:4])
-    title = f"{period_label} 경제 브리핑 ({lead_kw}) | ⚡ ZIPPY 아카이브"
-    desc = f"{period_label} 국내·해외 핵심 경제 이슈 브리핑: {lead_kw} 관련 핵심 팩트와 심층 Q&A 3선, 향후 관전 포인트를 확인하세요."
+    lead_kw = " · ".join((dom_kws + gl_kws)[:3]) or "국내·해외 핵심 경제 이슈"
+    title = f"{lead_kw} | {period_label} 경제 브리핑 - ⚡ ZIPPY"
+    desc = f"{lead_kw} 중심의 {period_label} 국내·해외 경제 브리핑: 핵심 팩트 요약과 Q&A 3선, 시장 관전 포인트를 확인하세요."
     rel_path = f"archive/{date_str}.html"
 
     json_ld = {
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": title,
+        "keywords": ", ".join(dom_kws + gl_kws),
         "datePublished": f"{date_str}T09:00:00+09:00",
         "dateModified": f"{date_str}T20:00:00+09:00",
         "description": desc,
