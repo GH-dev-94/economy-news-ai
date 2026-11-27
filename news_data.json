@@ -5,104 +5,145 @@
     "end_date": "2026-11-28",
     "domestic": {
       "keywords": [
-        "코스피 코스닥 동반 급등",
-        "삼성전자 대규모 배당",
-        "국내은행 이자이익 최대"
+        "개인정보 유출 잇따라",
+        "코스피 동반 급등",
+        "통상 불확실성 확대"
       ],
       "results": {
-        "코스피 코스닥 동반 급등": {
-          "headline": "코스피 4,900선 탈환·코스닥 8% 급등",
+        "개인정보 유출 잇따라": {
+          "headline": "유통부터 금융·공공까지 유출 확산",
           "facts": [
-            "엔비디아발 AI 기술주 조정세가 정점을 지나면서 국내 증시에 대한 외국인 투자자의 강한 순매수 유입이 이루어졌다.",
-            "코스피 지수가 4% 상승하며 4,900선을 일시 탈환했고 코스닥 지수는 8% 폭등하며 장을 마감했다.",
-            "금융당국과 유관기관의 증권시장안정펀드 조성 및 가동 기대감이 가시화되면서 시장의 매수 심리가 크게 개선되었다.",
-            "그동안 하락 폭이 컸던 코스닥 IT 기술주와 AI 관련 중소형 종목을 중심으로 강력한 저가 매수세가 집중되었다."
+            "올리브영, 인터넷우체국, 과학기술인공제회, 수협은행 등 유통과 금융 및 공공 전반에서 해킹과 침해사고가 연속 발생했다.",
+            "인터넷우체국에서는 단 하루치 집계에서만 11만 명을 넘어서는 대규모 고객 개인정보 유출 피해가 확인되었다.",
+            "수협은행 고객 54명의 개인정보가 유출되고 과학기술인공제회도 해킹 공격을 받으면서 금융권과 공제회까지 침해가 확산되었다.",
+            "올해 10월까지 집계된 개인정보 유출 신고 건수가 총 1,019건에 달함에 따라 당국이 긴급 대응체계를 전격 가동했다."
           ],
           "watch": [
-            "외국인 순매수세 지속 여부",
-            "증안펀드 투입 시기 및 조성 규모",
-            "미국 주요 기술주 주가 향방"
+            "보안당국 긴급 대응체계 가동 후속 점검 결과",
+            "유통 및 금융권 추가 침해사고발생 여부"
           ],
           "qna": [
             {
-              "q": "코스닥 지수가 8% 급등한 배경에 증안펀드 기대감은 어떻게 작용했는가?",
-              "a": "증권시장안정펀드 출범 가능성이 제시되면서 하락장에서 급격히 위축되었던 매수 심리가 크게 반등했다. 특히 기관과 외국인의 동반 매수세가 가세하며 코스닥 상장 종목의 거래량이 폭증했다."
+              "q": "공공기관과 금융권까지 동시다발적으로 개인정보가 뚫린 배경은 무엇인가?",
+              "a": "올리브영 등 유통업계뿐만 아니라 인터넷우체국, 수협은행, 과학기술인공제회 등 보안이 엄격한 기관들까지 해킹 공격에 노출됐다. 웹 서비스 노출 접점이 늘어난 상황에서 고도화된 해킹 기법이 집중되며 대규모 유출 사고로 이어졌다."
             },
             {
-              "q": "엔비디아의 AI 조정세 완화가 국내 반도체 및 기술주에 전달된 연쇄 파급 경로는 무엇인가?",
-              "a": "글로벌 AI 반도체 밸류체인의 불확실성이 해소되면서 국내 주요 반도체 제조사 및 관련 부품·장비 업체에 대한 외인 매도세가 매수세로 전환되었다. 이에 따라 국내 증시 전반의 수급 여건이 크게 개선되었다."
+              "q": "10월까지 유출 신고가 1,000건을 넘어서며 가동된 긴급 대응체계는 기업에 어떤 파급을 가져오는가?",
+              "a": "당국이 긴급 대응체계를 가동함에 따라 시스템 침해사고를 낸 기업에 대한 전수 조사와 보안 실태 점검이 강화된다. 이는 기업들의 IT 보안 예산 증액과 정보보호 인증 기준 강화로 이어져 유통 및 금융 IT 비용 부담을 늘리는 요인이 된다."
             },
             {
-              "q": "코스피 4,900선 안착을 지속하기 위한 향후 시장의 핵심 분기점은 무엇인가?",
-              "a": "외국인 순매수세의 연속성과 함께 증안펀드의 실제 자금 집행 여부가 시장의 지속성을 결정짓는 요소다. 또한 미국 기술주 시장의 추가 반등과 고금리 긴축 우려의 완화가 수반되어야 한다."
+              "q": "침해사고 재발을 막고 시스템 안전성을 확보하기 위한 핵심 분기점은 무엇인가?",
+              "a": "단순 시스템 점검에 그치지 않고 유출 원인 파악 및 추가 피해 차단 패치가 신속히 이루어지는지가 관건이다. 유출 사실 통지와 시스템 고도화 조치가 실질적으로 이행되어 추가 침해를 막아야 한다."
             }
           ]
         },
-        "삼성전자 대규모 배당": {
-          "headline": "삼성전자 30조 역대급 배당 지급",
+        "코스피 동반 급등": {
+          "headline": "코스피 4%·코스닥 8% 동반 폭등",
           "facts": [
-            "삼성전자가 30조 원 규모의 대규모 배당금을 지급하였으며 이재용 회장은 약 4,488억 원의 배당금을 수령했다.",
-            "삼성전자 주가가 16만 원대를 기록한 가운데 역대급 배당 지급이 이뤄지며 강력한 주주환원 정책이 확인되었다.",
-            "외국인 지분율에 따른 대규모 배당금 지급 영향으로 외환시장에서 외국인 역송금 수요 증가에 대한 경계감이 형성되었다.",
-            "글로벌 빅테크 기업들의 반도체 공급 요청 호조와 주주가치 제고 정책이 맞물려 국내 증시 반등을 이끌었다."
+            "코스피가 4.3% 상승하며 4,900선을 회복했고 코스닥 지수는 8.1% 폭등해 700선 탈환에 성공했다.",
+            "증시안정펀드 조성 및 투입에 대한 시장의 기대감이 유입되며 투자심리가 급격히 개선되었다.",
+            "외국인 투자자들이 국내 증시에서 조 단위 규모의 대규모 순매수를 기록하며 주가 상승을 견인했다.",
+            "외국인 수급 유입과 정책 지원 기대감이 맞물리며 코스피와 코스닥 양 시장 모두 대형주 위주로 동반 급등세를 나타냈다."
           ],
           "watch": [
-            "배당금 지급에 따른 환율 변동성",
-            "외국인 주주의 배당금 재투자 비율",
-            "삼성전자 반도체 부문 추가 투자 발표"
+            "외국인 투자자 조 단위 순매수 기조 지속성",
+            "증시안정펀드 실제 집행 시기 및 자금 규모"
           ],
           "qna": [
             {
-              "q": "30조 원 규모의 배당 지급이 외환시장에 유동성 경계감을 불러일으킨 메커니즘은 무엇인가?",
-              "a": "삼성전자의 외국인 지분율이 높아 배당금 지급 시 원화를 달러로 환전해 해외로 송금하는 역송금 수요가 일시에 몰린다. 이로 인해 원/달러 환율이 상승 압력을 받게 되며 외환시장의 변동성이 확대될 수 있다."
+              "q": "코스피 4.3%, 코스닥 8.1% 급등을 이끈 핵심 동력은 무엇인가?",
+              "a": "외국인 투자자의 조 단위 순매수가 유입된 가운데 증시안정펀드 출범 및 투입에 대한 기대감이 투자심리를 급격히 개선시켰다. 이로 인해 수급 공백이 해소되며 대형주와 중소형주가 동반 폭등했다."
             },
             {
-              "q": "역대급 대규모 배당 지급과 삼성전자 16만 원대 주가 유지가 증시 전체 밸류에이션에 미치는 영향은 무엇인가?",
-              "a": "삼성전자의 대규모 주주환원은 코스피 지수의 하단을 지지하고 외국인 투자자의 자금 유출을 방어하는 역할을 한다. 또한 주주가치 제고에 대한 기대감을 높여 국내 주요 대형주들의 밸류에이션 재평가로 이어질 수 있다."
+              "q": "외국인 조 단위 순매수 전환이 향후 국내 증시 밸류체인에 어떤 파급 효과를 가져오는가?",
+              "a": "외국인 자금이 시가총액 상위 대형주로 집중 유입되면서 시장 전체의 거래대금이 크게 늘어났다. 이는 하락세를 보이던 주요 업종의 투심을 회복시키고 증시 전반의 하방 지지력을 단단하게 만드는 효과를 가져온다."
             },
             {
-              "q": "배당금 지급 이후 외국인 수급이 단순 이탈로 끝날지, 재투자로 전환될지를 결정짓는 요소는 무엇인가?",
-              "a": "반도체 업황의 회복 속도와 글로벌 빅테크 기업들과의 반도체 공급 계약 실적 추가 확보 여부에 달려 있다. 기술 경쟁력 강화를 통한 이익 성장 가능성이 확인되어야 지급된 배당 자금이 증시로 재유입된다."
+              "q": "급등한 국내 증시가 상승 추세를 지속하기 위한 향후 분기점은 무엇인가?",
+              "a": "증시안정펀드의 실제 구체화 및 유동성 공급 규모가 시장 기대치에 부합하는지가 중요하다. 또한 외국인 순매수세가 일회성에 그치지 않고 지속적인 유입으로 이어지는지 점검해야 한다."
             }
           ]
         },
-        "국내은행 이자이익 최대": {
-          "headline": "국내은행 이자이익 48.4조 역대 최대",
+        "통상 불확실성 확대": {
+          "headline": "美 선거 후에도 계속되는 통상 압박",
           "facts": [
-            "국내은행의 올해 1~3분기 누적 이자이익이 48조 4,000억 원을 기록하며 역대 최대치를 다시 한번 경신했다.",
-            "이자이익 급증의 주요 원인으로는 대출 자산 규모의 지속적인 확대와 금리 인상 기조의 영향이 꼽혔다.",
-            "은행권 전체 순이익은 21조 5,000억 원을 달성했으나 지방은행의 경우 순이익이 오히려 감소하며 양극화 양상을 보였다.",
-            "이자이익 최대 달성과 동시에 차주의 이자 부담 증가로 인한 대출 연체율도 함께 상승하는 역설적 현상이 나타났다."
+            "미국 중간선거가 끝난 이후에도 통상 환경의 불확실성이 해소되지 않아 국내 기업들의 우려가 커지고 있다.",
+            "대미 무역흑자가 기존 대비 2배 수준으로 확대됨에 따라 미국 정부의 통상 압박이 가화될 가능성이 제기되었다.",
+            "재계는 미국 통상 정책 변화에 대응해 세액공제 제도 유지와 정부 차원의 적극적인 지원책 마련을 강력히 요청했다.",
+            "한중일 경제 당국자들은 글로벌 AI 불확실성 속에서 경제 동향을 공유하고 상호 통상 협력의 필요성을 확인했다."
           ],
           "watch": [
-            "취약차주 연체율 상승과 충당금 적립 부담",
-            "시중은행과 지방은행 간 이익 양극화",
-            "금융당국의 상생금융 및 이자이익 압박 수위"
+            "미국 통상 정책 변경 및 세액공제 유지 여부",
+            "대미 무역흑자 추이에 따른 통상 제재 가능성"
           ],
           "qna": [
             {
-              "q": "국내은행의 이자이익이 역대 최대치를 경신하는 가운데 연체율도 함께 상승한 역설은 어떻게 발생하는가?",
-              "a": "대출 총잔액이 늘어나면서 고금리 상태가 유지되어 은행의 전체 이자수입 규모는 계속 확대된다. 그러나 고금리 장기화로 인해 상환 능력이 약화된 취약차주들이 원리금을 제때 갚지 못하면서 연체율도 동반 상승하는 구조다."
+              "q": "미국 중간선거 종료 이후에도 통상 불확실성이 지속되는 근본적 배경은 무엇인가?",
+              "a": "대미 무역흑자가 이전 대비 2배로 급증하면서 미국의 통상 제재와 압박 우려가 커졌기 때문이다. 정치적 이벤트가 끝났음에도 수시로 변하는 통상 기조와 무역 정책 변화가 우리 산업계에 지속적인 부담을 주고 있다."
             },
             {
-              "q": "시중은행의 실적 호조와 달리 지방은행의 순이익이 감소하며 양극화가 벌어진 주된 이유는 무엇인가?",
-              "a": "지방은행은 지역 경기 둔화와 부동산 PF 리스크 영향으로 연체율 관리 및 대손충당금 적립 부담이 훨씬 컸다. 또한 우량 차주 유치 경쟁에서 시중은행에 밀려 대출 자산의 질과 마진이 악화되었기 때문이다."
+              "q": "대미 무역흑자 급증과 통상 불확실성은 국내 반도체 및 주요 산업 투자에 어떤 영향을 미치는가?",
+              "a": "통상 압박이 강화되면 현지 투자 및 수출 제품에 대한 관세 부담이 커질 수 있다. 특히 기업들이 현지 공장 설립 및 투자를 진행하는 과정에서 세액공제 혜택 감축 등 제도적 불이익을 받을 리스크가 발생한다."
             },
             {
-              "q": "이자이익 48.4조 원 달성에 대한 금융권 건전성 평가 및 수익성 유지의 분기점은 어디인가?",
-              "a": "향후 기준금리 인하 기조나 대출 규제 강화에 따른 순이자마진(NIM) 축소 여부가 핵심이다. 대손충당금 적립 수준이 부실 채권 증가 속도를 감당할 수 있는지 여부가 건전성 평가의 분기점이 된다."
+              "q": "통상 환경의 악영향을 최소화하고 산업 경쟁력을 유지하기 위한 분기점은 무엇인가?",
+              "a": "정부 차원의 세액공제 연장 및 지원책이 신속히 수립되고 한중일 등 다자간 통상 협력 체계가 원활히 가동되는지가 중요하다. 미 정부와의 불확실한 통상 협상 결과를 최소화하는 대외 대응력이 관건이다."
             }
           ]
         }
       },
       "news": {
-        "코스피 코스닥 동반 급등": [
+        "개인정보 유출 잇따라": [
+          {
+            "title": "올리브영도 뚫렸다…유통업계 개인정보 유출 잇따라 - 매일경제",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWdDAtbm9ZYmRJczBLYXFkLVZwNVJ5eDZUOGlYV1hqdFpGMm1HbU0tNTNQRW5lR0NPS1hkWTFzcXpGaWxFdDRMcFBPY0MzQlhCWnZod2p3?oc=5",
+            "source": "매일경제",
+            "published": "11-27 10:54",
+            "snippet": "올리브영도 뚫렸다…유통업계 개인정보 유출 잇따라 매일경제 올리브영 “해킹으로 고객 등 790명 정보 유출” KBS 뉴스 정보 240만건 유출된 올리브영...'인증 밖' 시스템 뚫렸다 - 머니투데이 머니투데이 올리브영 전산망 보안 뚫렸다…개인정보 790명분 외부 유출 제민일보 CJ올리브영, 업무시스템 해킹으로 임직원·고객 개인정보 유출 연합뉴스"
+          },
+          {
+            "title": "개인정보 유출신고 10월까지 1019건…긴급 대응체계 가동 - 대한민국 정책브리핑",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KM28zQWN3elVWX052RmZBbVF5ZnVuWmc2a24wZmw0X0ZDOUFZTEttMXlJa3gySFNyXzhyZ2Eya2ZXc2F4Zk5NRWtleE1DemxwQzJSdXgzQzN0Y0h6Snp4RWduYzNhbFlUZlFNNA?oc=5",
+            "source": "대한민국 정책브리핑",
+            "published": "11-27 21:19",
+            "snippet": "개인정보 유출신고 10월까지 1019건…긴급 대응체계 가동 대한민국 정책브리핑 청와대 국가안보실, 금융당국 소집 해킹 2차 피해 방지 점검 KBS 뉴스 월평균 100건, AI 해킹 위협 현실화…개보위 \"AI 방어는 투자 필요\"(종합) - 머니투데이 머니투데이 정부, 해킹 유출 계좌·카드 정보 FDS 신속 등록…AI 보이스피싱 탐지 가동 경향신문 안보실, 해킹발 금융범죄 차단 총력…AI 기반 이상거래 감시 강화 제민일보"
+          },
+          {
+            "title": "인터넷우체국 개인정보 털렸다...하루치만 11만명 넘게 유출 - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa1JQMy1vbDhFRWQ4dVdtc3hMSy1zSVFNOWJGTmJ6UFNlaGxqQWVESlU1WGxNVjY4QkRJNUF6M2FPejlod2xRVHlKVnNkelg3b1BjYXNiOWdjNjNSUFZGQnpkYVEyZEpKakZyYkdvZHZjcDEzaWFyMmt0Z2FVNUwtRmxKYw?oc=5",
+            "source": "조선일보",
+            "published": "11-28 00:59",
+            "snippet": "인터넷우체국 개인정보 털렸다...하루치만 11만명 넘게 유출 조선일보 인터넷우체국 해킹으로 개인정보 유출…하루치만 11만3천여명 연합뉴스 우체국도 해킹으로 개인정보 유출…등기우편 수취인 11만여명 경향신문 우체국 온라인 서비스 보안 뚫렸다…11만명 넘는 고객정보 노출 제민일보 우체국 등기우편 개인정보 해킹 유출…'배송비 결제' 사칭 주의 이데일리TV"
+          },
+          {
+            "title": "\"공제회도 뚫렸다\"…과기공, 해킹 공격에 개인 정보 유출 - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xQnN5TGVrRmtfZnd0MzlxeGdzXzF2VmNuTWc1dGtQb0FXcHFkMThuazQxX3VNbmdHTUgyQWtTSFdkTjd5OG55YTBZQ0NRd0g2VmtEUTJyazJqQkFnMEJydUxLRDA5UXRMZ19kNVdEWE4?oc=5",
+            "source": "연합인포맥스",
+            "published": "11-27 09:38",
+            "snippet": "\"공제회도 뚫렸다\"…과기공, 해킹 공격에 개인 정보 유출 연합인포맥스 과학기술인공제회 해킹…주민번호·직장·직급까지 회원정보 21만건 유출 경향신문 과학기술인공제회, 서버 보안 취약점 악용 해킹으로 회원 개인정보 유출 보안뉴스 20만 과학기술인 개인정보 유출…공제회 전 회원 피해 추정(종합) 연합뉴스 과학기술인 21만명 정보 털렸다…해킹 알고도 열흘 뒤 공지 마켓인"
+          },
+          {
+            "title": "실적 발표 앞둔 넷스코프(NTSK), 월가 눈높이 상향 잇따라 - 인포스탁데일리",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XWWZ2dFh6TmpXTFc4RHZONm1FOV90c2hQN1YxYThDUjM2VnFNMXB3TWlVZVZXeVZMVEtOMjRKZHRfU3Foc0k3YjVwdVZHY0J1TEJyOGh6bFJyU1NwQk5lcU1aX0lLSjd1elpWSEJIZ2RITEdRWVE?oc=5",
+            "source": "인포스탁데일리",
+            "published": "11-27 16:30",
+            "snippet": "실적 발표 앞둔 넷스코프(NTSK), 월가 눈높이 상향 잇따라 인포스탁데일리"
+          },
+          {
+            "title": "수협은행도 고객 54명 개인정보 유출, 금융권 침해사고 잇따라 - 데일리시큐",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5dEYtUVdvbEVBUHViaDgzYmdnVmJxNVVWazBLUDYzODRtcmhTU3hBZmEzNUpkU3BkN0ZnejZsZHdSVUN4RE1uVkYyMzd0TklWMnYxV0hWR2JCUkxCX1o1ajlNamtLbHZ5bDhQbw?oc=5",
+            "source": "데일리시큐",
+            "published": "11-27 13:37",
+            "snippet": "수협은행도 고객 54명 개인정보 유출, 금융권 침해사고 잇따라 데일리시큐"
+          }
+        ],
+        "코스피 동반 급등": [
           {
             "title": "코스피·코스닥 동반 급등…외국인 순매수 - KBS 뉴스",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KWmpJNDZVZVBFWDBETjVpR0FaOXprVFdnSWtHSnFoOFBMQ2dMS2lNc01pQWtSeG5HUG5qa1AySVVtVGxrZHJkVG1fRTY2MTl0N3VPc2laMnVtTkk?oc=5",
             "source": "KBS 뉴스",
             "published": "11-27 19:44",
-            "snippet": "코스피·코스닥 동반 급등…외국인 순매수 KBS 뉴스 코스피·코스닥 급반등, 삼성전자 16만 원대의 진짜 의미는? 네이버페이 머니스토리 배당금·증권시장안전펀드 투입 기대감에 불기둥 올린 증시 YTN \"코스닥 8%, 코스피 4% 쭉쭉\" 증안펀드 기대, 외인도 올라탔다 - 머니투데이 머니투데이 [연합뉴스 이 시각 헤드라인] - 18:00 연합뉴스"
+            "snippet": "코스피·코스닥 동반 급등…외국인 순매수 KBS 뉴스 배당금·증권시장안전펀드 투입 기대감에 불기둥 올린 증시 YTN “오래 기다렸죠?” 돌아온 외국인…삼전닉스 내다팔더니 ‘이것’ 샀다 매일경제 마켓 \"코스닥 8%, 코스피 4% 쭉쭉\" 증안펀드 기대, 외인도 올라탔다 - 머니투데이 머니투데이 [연합뉴스 이 시각 헤드라인] - 18:00 연합뉴스"
           },
           {
             "title": "코스피 4%·코스닥 8% 급등…증안펀드 기대감 - 연합뉴스TV",
@@ -119,231 +160,195 @@
             "snippet": "코스피 4%·코스닥 8% 급등…증안펀드 기대감 반영됐나 한겨레"
           },
           {
-            "title": "엔비디아발 'AI 조정' 잦아드나…코스피·코스닥, 급등 마감(종합) - 연합뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9veUI5eUJaOWYzLTV3UlR6TkVxbXVTZzJuV2N3cXN4VXBjMkVsUTFJRmZZZnY0Q1BmdW5mWS1OY0kzd0IzRHAzeEhoREpzQ2o1SlZDNE9PdHhweFHSAWBBVV95cUxNcFlWOFJMSkpDWWJ5aTV1SFpHYVU4aDlUOTl1VGZFR0VscHdBZVhSb1V3X2hTVjBGLTlFc1RWUmJ2V25Jc0VabWplT3hHNHlKMTJvckVTbGxMZDE4RVlnQWg?oc=5",
+            "title": "코스피, 4%대 올라 4,900 탈환...코스닥, 8.1% 급등 - YTN",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiN05fMENwQzk0bXpZdnlFNUlIeDgzRV9nbl9xQm1xTlh1Z1pHOGt2VkFjWF81cjd5SXN0dm1SOUprd3p4dmdCeDJzc2dXUkw1QUtRd2xmSGtOOE1tWmllbXRyZXIwR0lHRTJoLXU4dw?oc=5",
+            "source": "YTN",
+            "published": "11-27 16:34",
+            "snippet": "코스피, 4%대 올라 4,900 탈환...코스닥, 8.1% 급등 YTN"
+          },
+          {
+            "title": "[증시-마감] 돌아온 외국인…코스피 兆단위 순매수에 4.3% 급등 - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80bHZ0YkFhTjV2MDJrRlJ4eHoxQTRoaWF4bDBmaDFDcDc5OFJLZmZHV2FYV1VOZlZPZWJZZTQ1WHktNG9BUy14c2xxUms0TW9HcEhfOFZtY0V5VTNud19LZ1F2d2xsbnVpaW1sUFRQdXc?oc=5",
+            "source": "연합인포맥스",
+            "published": "11-27 16:14",
+            "snippet": "[증시-마감] 돌아온 외국인…코스피 兆단위 순매수에 4.3% 급등 연합인포맥스"
+          },
+          {
+            "title": "코스피 4.3% 상승 4,900선 회복…코스닥 8%대 급등 700선 탈환(종합) - 연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HUndHT3pvSWlvcVUtYXoxalVncFVFUzFoX0VIRVFjVG90RERfT2NURmhSS1JpWC0tSTNuUzk2d3JER3prWGRjSjJocXJzRUVHSW95Y0E4NDNsUTBJUzVEZdIBYEFVX3lxTE9HUndHT3pvSWlvcVUtYXoxalVncFVFUzFoX0VIRVFjVG90RERfT2NURmhSS1JpWC0tSTNuUzk2d3JER3prWGRjSjJocXJzRUVHSW95Y0E4NDNsUTBJUzVEZQ?oc=5",
             "source": "연합뉴스",
-            "published": "11-27 16:35",
-            "snippet": "엔비디아발 'AI 조정' 잦아드나…코스피·코스닥, 급등 마감(종합) 연합뉴스"
-          },
-          {
-            "title": "코스피, 4,900선 탈환...코스닥 8% 급등 마감 - YTN",
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tZkpMQzBQTE5RNWx3aFZYakE1QXJTMWwzUkE4WWtFcE1XTFZGcWNFTVNrcU15N2pVSlRXME5XN1lTckpzUkVxa1ZkTDFRamlNekZkQmFJM1dCUmxTMEI4am9ZRjJiOHJfeXNSSXJ5VQ?oc=5",
-            "source": "YTN",
-            "published": "11-27 16:06",
-            "snippet": "코스피, 4,900선 탈환...코스닥 8% 급등 마감 YTN"
-          },
-          {
-            "title": "코스닥 8% 급등 마감...코스피도 4,900선 회복 - YTN",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XZG5OTkZBZl9LTnIwU05aMGp1dURrV3FqdGU2TEVnZjQxM2gwaUpGSzhYd2xBSDdNT01TazVxRmdVWmVMX1Iyam1jdjZ6Z3lXaTBiVGlta19LcEhMem5iY3BiRHR5LTIyTlh4blNScE9lcW04V2c?oc=5",
-            "source": "YTN",
-            "published": "11-27 15:37",
-            "snippet": "코스닥 8% 급등 마감...코스피도 4,900선 회복 YTN"
+            "published": "11-27 16:08",
+            "snippet": "코스피 4.3% 상승 4,900선 회복…코스닥 8%대 급등 700선 탈환(종합) 연합뉴스"
           }
         ],
-        "삼성전자 대규모 배당": [
+        "통상 불확실성 확대": [
           {
-            "title": "삼성전자, 오늘 30조 배당…이재용 회장 4488억 - 한겨레",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42ZXJ1alF4TGNiUWlSTTZYbnVEaXVKZVFITTN0RXpCaUM0MFJfbkZ1OGRycm9sclRQVE9JbW1vMGUxRC11Ui1jRlkwVUtEMTRFel8tWUs5NlA4RTY5ZnF1aERIUlNxZnVZR0E?oc=5",
-            "source": "한겨레",
-            "published": "11-27 13:50",
-            "snippet": "삼성전자, 오늘 30조 배당…이재용 회장 4488억 한겨레 내 계좌엔 얼마 들어올까? 역대급 배당금 쏘는 삼성전자 네이버페이 머니스토리 삼성전자 30조 ‘역대급’ 배당···이재용 회장, 한 분기에만 4488억 수령 경향신문 ‘입금되셨죠?’ 삼전 30조 배당…다음달엔 하닉 14조 쏜다 JTBC “133% 올라야 겨우 본전”…160층에 갇힌 개미들, SK하닉 10%는 248층 전자신문"
-          },
-          {
-            "title": "[환율 전망] 삼성전자 배당에 대한 외국인 역송금 경계 - KB Think",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53MGI3VGVWWGIyeGxVSTZZdUlLRXMyQnVJU0RrbWcxNG4ydVpSZG5MVUFmcHhITllDeHFZSGpsTU9tcmgxRWMyOWczZGtDTmpYeW1uVGU4QTRFUmZsOXNhYw?oc=5",
-            "source": "KB Think",
-            "published": "11-27 08:46",
-            "snippet": "[환율 전망] 삼성전자 배당에 대한 외국인 역송금 경계 KB Think 원/달러 환율, 증시 반등·월말 네고에 하락…1,337.9원 연합뉴스 달러-원, 뉴욕장서 1,330원 중반대 거래 연합인포맥스 코스피 주저앉았는데 환율은 잠잠…금융위기 때와 다른 이유 뉴시스 주가↑· 환율↓…달러·원 환율, 원화 강세에 1337.9원 마감(종합) 뉴스1"
-          },
-          {
-            "title": "내 계좌엔 얼마 들어올까? 역대급 배당금 쏘는 삼성전자 - 네이버페이 머니스토리",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXRlBHOHpxOTVUYk5waVAxTkNRTHQ0UmxQVlJybXdnUU5HU0tQVWo5QWFTd0Nna3V1QUR2SnJRV2tHVUFkSlA4aS1taWRqVG0wdEE?oc=5",
-            "source": "네이버페이 머니스토리",
-            "published": "11-28 03:55",
-            "snippet": "내 계좌엔 얼마 들어올까? 역대급 배당금 쏘는 삼성전자 네이버페이 머니스토리"
-          },
-          {
-            "title": "머스크도 애타는 삼성전자 반도체…이재용 \"뭘 더 해줄 수 있나?\" - 주간조선",
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XdGgxYW9KckQ1VjNISFBDcmtKYkNobXJVcDdELXY3YjlVWUNqbFBDZmRrbkdMdzN1SXJEdmM3WS0zOWxmWGZPVVhwaGxQcmtXQjNRTkxuRXQzTF9hb19OdTJyZm8yZWV1MDA0?oc=5",
-            "source": "주간조선",
-            "published": "11-27 02:59",
-            "snippet": "머스크도 애타는 삼성전자 반도체…이재용 \"뭘 더 해줄 수 있나?\" 주간조선 “머스크 ‘삼성전자 칩 장기구매’ 제안에···이재용 ‘뭐 더 해줄 건데’” 경향신문 \"이재용, '반도체 장기구매할게' 머스크에 '그럼 뭘 해줄건데'\" 연합뉴스 삼성전자·SK하이닉스 장기공급계약 '물음표'…장부에 받은 돈이 없다 연합인포맥스 반도체 확보에 선금까지…마이크론·삼성·SK하이닉스, 수년치 물량 선점 경쟁 제민일보"
-          },
-          {
-            "title": "코스피·코스닥 급반등, 삼성전자 16만 원대의 진짜 의미는? - 네이버페이 머니스토리",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YZ0Jmam5XZ0VEQ0tibU1jSTV2cTEwd1gzQS1GVXUzUW9ldVljT2VxU0hnMGNfRG5rdjRSYl9kOE5fbjhPOVFYVkNEUjZ0YXhpb2pkY1VHZzN0UQ?oc=5",
-            "source": "네이버페이 머니스토리",
-            "published": "11-27 20:11",
-            "snippet": "코스피·코스닥 급반등, 삼성전자 16만 원대의 진짜 의미는? 네이버페이 머니스토리"
-          },
-          {
-            "title": "코스피·코스닥 동반 급등…외국인 순매수 - KBS 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KWmpJNDZVZVBFWDBETjVpR0FaOXprVFdnSWtHSnFoOFBMQ2dMS2lNc01pQWtSeG5HUG5qa1AySVVtVGxrZHJkVG1fRTY2MTl0N3VPc2laMnVtTkk?oc=5",
-            "source": "KBS 뉴스",
-            "published": "11-27 19:44",
-            "snippet": "코스피·코스닥 동반 급등…외국인 순매수 KBS 뉴스 코스피·코스닥 급반등, 삼성전자 16만 원대의 진짜 의미는? 네이버페이 머니스토리 배당금·증권시장안전펀드 투입 기대감에 불기둥 올린 증시 YTN \"코스닥 8%, 코스피 4% 쭉쭉\" 증안펀드 기대, 외인도 올라탔다 - 머니투데이 머니투데이 [연합뉴스 이 시각 헤드라인] - 18:00 연합뉴스"
-          }
-        ],
-        "국내은행 이자이익 최대": [
-          {
-            "title": "국내은행 1∼3분기 이자이익 또 역대 최대치…“대출확대·금리인상 영향” - 한겨레",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzMUdhS01TU0JHWk0wQzFDNmFkSXpKcFhZSnN1SlM1MmZJM3RjcGpJbWI0OG1EQ2h2anlRLUhiMTFLbkhTMm05TENKTHhzVFpmaUtxOWx6WUhPVklIS1FwM3ZhZTNqbkE?oc=5",
-            "source": "한겨레",
-            "published": "11-27 07:24",
-            "snippet": "국내은행 1∼3분기 이자이익 또 역대 최대치…“대출확대·금리인상 영향” 한겨레 늘어난 대출에…은행 3분기까지 이자이익 48조원 넘었다 경향신문 은행권 3분기 누적 순익 시중은행 6% 늘고 지방은행 11% 감소 - 머니투데이 머니투데이 국내은행 3분기 누적 순이익 21조5천억으로 2% 증가, 이자이익 늘고 유가증권은 손실 비즈니스포스트 은행, 이자이익 늘었지만…유가증권 손실에 순익 막혀 스트레이트뉴스"
-          },
-          {
-            "title": "국내은행 이자이익 48조 ‘역대 최대’…지방은행은 순이익 감소 - 매일경제",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ua0EwZlFvdllVRHpGUG9rZWZaemxJbElxUUNJTmNaNXVaelZaODJOQ3pmZ1J3dTV1Z21Yd1plVWxGQVhoY2N5elo4al9BSVB0dmpkVQ?oc=5",
-            "source": "매일경제",
-            "published": "11-27 10:42",
-            "snippet": "국내은행 이자이익 48조 ‘역대 최대’…지방은행은 순이익 감소 매일경제"
-          },
-          {
-            "title": "국내은행 이자이익 48조4천억원, 1~3분기 기준 역대 최대… 연체율도 함께 올랐다고? 🏦 - 뉴닉",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NaTZXTWNYTkxENG9sQ1ZjOGtMakpQb1preU9hMTdPcGV2TWc5ellpLWlUOFZJNDMxQXVwMVk4eDhGYURCZVRJUlB1VGpoU0syRTlr?oc=5",
-            "source": "뉴닉",
-            "published": "11-27 12:21",
-            "snippet": "국내은행 이자이익 48조4천억원, 1~3분기 기준 역대 최대… 연체율도 함께 올랐다고? 🏦 뉴닉"
-          },
-          {
-            "title": "국내은행 이자이익 48조 4천억…역대 최대 - 미디어스",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xXzkzX251T01uTWdPMU9wcFNHVkwtTFh0SHFOemo0bFJtRFgzNjRWenpEbGstUXQ1OW5wSFlCNVhra0lLZVhGbDd3RnJraEZGZWgzOExZUHFCSFZJbGZMR0lHeXp6dW5fa3I1c9IBcEFVX3lxTE9ZbTZEcWtiUVRUV3NvcDlZbnp6ZUd4VWdiM1lfTkE0d2VBSWRtZ1V6a1AwSzljTEJlMkRaQU8tdUpKaUVScERSWTVZRXk5bllhbDhCV1NvQklfUlZIYkx1Vm9oaGxqb0ZqMVRvMjc5b0s?oc=5",
-            "source": "미디어스",
-            "published": "11-27 10:14",
-            "snippet": "국내은행 이자이익 48조 4천억…역대 최대 미디어스"
-          },
-          {
-            "title": "국내은행 이자이익 역대 최대…1~3분기 48.4조 - 한국NGO신문",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QN1F3cGFERTRtYnNIMlRWQ1lkY3NmNjF1LWNkUEtnd0FHLVpQdzZIOTlHdy0tMjJxaDE4cGI4QzRGYlNocjJCZlVrU2phRzktcTNSdjdaVkg3TXZOOWhlaVFMNXgtbEFD?oc=5",
-            "source": "한국NGO신문",
+            "title": "재계 \"美 중간선거 뒤에도 통상 불확실성\"…지원책 요구 - 연합뉴스TV",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Oa2R2Ty1ja3pYdkcyWDQwVy1JeUVIWkNyWFNFdTBGV1pMdkh6OTdiLTh5WEU5OXJ6Mnp1Q0M3SkpYNUxEU1duV1FEVDhIcTZhMDQ4akxiNy1aQnUtU2RhZksxRTY?oc=5",
+            "source": "연합뉴스TV",
             "published": "11-27 08:10",
-            "snippet": "국내은행 이자이익 역대 최대…1~3분기 48.4조 한국NGO신문"
+            "snippet": "재계 \"美 중간선거 뒤에도 통상 불확실성\"…지원책 요구 연합뉴스TV 미국 중간선거 뒤에도 통상 불확실성…기업들, 정부 지원책 요청 연합뉴스 통상 불확실성 여전…반도체 업계 “美 투자세액공제 연장 필요” 마켓인 재계 “美 투자세액공제 유지·EU 무역장벽 대응 필요” 전자신문 \"美 중간선거 이후 연방보다 '주정부' 공략해야\"…대한상의, 통상전략 점검 뉴시스"
           },
           {
-            "title": "은행 1~3분기 이자이익 48.4조원 ‘역대 최대’…순이익 21.5조원 - 서울이코노미뉴스",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02ZFNIbzFJNFNTUFdIenRJN0UxX0c1cXFwVVVLMFhfU05NeExrb0duX0lPVUxWR3FYYXFORlFSN1VqUGJGdE02bmpjYld1NHQ3REpCWWs0ZnZIbGdWZGhTanE1TGx4ZFRPTk9RbUZn?oc=5",
-            "source": "서울이코노미뉴스",
-            "published": "11-27 10:40",
-            "snippet": "은행 1~3분기 이자이익 48.4조원 ‘역대 최대’…순이익 21.5조원 서울이코노미뉴스"
+            "title": "한중일, AI 불확실성 속 경제동향 공유…재경부 \"협력 중요\" - 한국무역협회-KITA.NET",
+            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZTRDVmRwRS1ESkcyOXdOdnE4ZkN0TUxRemJjMEJBdTN6RzRSUzJFU0VOeXZSVm5xQUVnTGE4T0NUTlZ6SjVRelhOS2YyQlVnbkVNVFA4b3dvbW1IYlRXeDMxc1ZkcE1PWTZ0alUwNmE2RkEtSTJSUkJjcU5qeXg2cFBURmhMQ1ozZDZzZXdwbGZfUFFpMVNpT0U1SDRHOG9wdXNTbHY3U0hQbmNYVDM3UTNfekRUa3VscU5BSUgxQ3l0YUJCamVjUmpvbmZqb2YwU29XZUJn?oc=5",
+            "source": "한국무역협회-KITA.NET",
+            "published": "11-27 13:07",
+            "snippet": "한중일, AI 불확실성 속 경제동향 공유…재경부 \"협력 중요\" 한국무역협회-KITA.NET Google 뉴스에서 헤드라인 및 의견 더보기"
+          },
+          {
+            "title": "미국 중간선거 뒤에도 통상 불확실성…기업들, 정부 지원책 요청 - 연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4Q2xsbVJZSHA2YmZVWXNacE9kSzdES25uVEJCOVk3YmlORnBBUEdIQjZIZElFUUdXZ1NiNmc4VzlNV202OHRzTlhqcTNHSS1fYW9xbFZ6Rjdnb2lpeXlta9IBYEFVX3lxTFB4Q2xsbVJZSHA2YmZVWXNacE9kSzdES25uVEJCOVk3YmlORnBBUEdIQjZIZElFUUdXZ1NiNmc4VzlNV202OHRzTlhqcTNHSS1fYW9xbFZ6Rjdnb2lpeXltaw?oc=5",
+            "source": "연합뉴스",
+            "published": "11-27 07:30",
+            "snippet": "미국 중간선거 뒤에도 통상 불확실성…기업들, 정부 지원책 요청 연합뉴스"
+          },
+          {
+            "title": "경제금융수장들 \"글로벌 AI 불확실성에 증시 변동성 확대...대응태세 유지\" - 파이낸셜신문",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tME1WblVSWjZLeTVydVlxeWxDMjNKR2VOcEhwWl9MZUhNNUg5Z2pHcGVyM0RzcU42NktSXzdXSDBmLUE1NXZtc0FDMW0wa1B6Tm1iSUt0TXlYaGxUZkZXVmxKc0NJdEwxRE5B?oc=5",
+            "source": "파이낸셜신문",
+            "published": "11-27 14:50",
+            "snippet": "경제금융수장들 \"글로벌 AI 불확실성에 증시 변동성 확대...대응태세 유지\" 파이낸셜신문"
+          },
+          {
+            "title": "美 중간선거 후에도 통상 불확실성…기업들 \"세액공제 유지 필요\" - 더파워",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83XzRRaHJyTHFIc2pZT09jNllWLW0xZzRUcHJ4RHYzY28zTVFJY1R0UThjMWVON0ZGUnBIaHZSNDZTamRiSmhrSWNQZXl1Nl9BWVQtWGNlb0lrWW1qOGNXUWRDNWxIZUozclAzYzF4SGppNjFaS29yLU9STV80Zw?oc=5",
+            "source": "더파워",
+            "published": "11-27 09:23",
+            "snippet": "美 중간선거 후에도 통상 불확실성…기업들 \"세액공제 유지 필요\" 더파워"
+          },
+          {
+            "title": "[초점] '대미 흑자 2배', 부메랑되나…美 통상압박에 K-산업·반도체 투자 '비상' - 뉴시안",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fNlBKajRhUlBtNTdaS0dGRDRJcHl5THpBVWdMYVZVSDVPd3VtbXdkby1Yb0hPT0cxZF8taGdVdHVvNGowTXJGMmZ4RjA1RC11TF9PZ1lzWnlvckxVNFVfNk8zZl9XOE5iRWt0VQ?oc=5",
+            "source": "뉴시안",
+            "published": "11-27 07:05",
+            "snippet": "[초점] '대미 흑자 2배', 부메랑되나…美 통상압박에 K-산업·반도체 투자 '비상' 뉴시안"
           }
         ]
       },
       "queries": {
-        "코스피 코스닥 동반 급등": [
-          "코스피 코스닥 지수",
-          "코스피 코스닥 차이",
-          "코스피 코스닥 지수 실시간",
-          "코스피 코스닥 지수 의미",
-          "코스피 코스닥 나스닥 차이",
-          "코스피 코스닥 지수 차트 보는 법",
-          "코스피 코스닥 나스닥 s&p",
-          "코스피 코스닥 차이 디시"
+        "개인정보 유출 잇따라": [
+          "개인정보 유출시 대응",
+          "개인정보 유출시 처벌",
+          "개인정보 유출여부 조회",
+          "개인정보 유출등 대응 안내서",
+          "개인정보 유출이란",
+          "개인정보 유출등 대응 매뉴얼"
         ],
-        "삼성전자 대규모 배당": [
-          "삼성전자 대규모 채용",
-          "삼성전자 대규모 해고",
-          "삼성전자 대규모 투자",
-          "삼성전자 대규모",
-          "삼성전자 대규모 주주환원"
+        "코스피 동반 급등": [
+          "코스피.환율 동반 상승"
         ],
-        "국내은행 이자이익 최대": []
+        "통상 불확실성 확대": [
+          "통상 불확실성",
+          "통상 환경 불확실성"
+        ]
       }
     },
     "global": {
       "keywords": [
         "뉴욕증시 기술주 반등",
-        "앤스로픽 주가 급등",
-        "미 연준 금리인상 우려"
+        "반도체주 저가 매수",
+        "앤스로픽 11% 폭등"
       ],
       "results": {
         "뉴욕증시 기술주 반등": {
-          "headline": "뉴욕증시 기술주 반등…나스닥 2.3%↑",
+          "headline": "AI 우려 딛고 나스닥 2.3% 상승",
           "facts": [
-            "뉴욕증시가 AI 및 반도체 주요 기술주에 대한 강력한 저가 매수세 유입으로 나스닥 지수가 2.3% 상승 마감했다.",
-            "필라델피아 반도체 지수는 4.69% 폭등하며 기술주 전반의 강한 반등 흐름을 주도했다.",
-            "AI 거품론과 금리 우려로 인한 최근 주가 둔화 이후 대형 기술주 중심의 투자심리가 빠르게 회복되었다.",
-            "반면 엔비디아는 중국 밀반입 의혹 등 악재가 겹치며 3% 하락하는 등 종목별 차별화 현상도 함께 나타났다."
+            "뉴욕증시에서 AI 투자 우려에도 불구하고 기술주 중심의 강력한 저가 매수세가 들어오며 나스닥 지수가 2.3% 상승했다.",
+            "중국 정부의 증시 부양 의지와 주요 기술주들의 실적 기대감이 복합적으로 작용해 뉴욕증시 3대 지수가 일제히 오름세로 마감했다.",
+            "과잉 투자에 대한 시장 경계감이 존속하는 가운데서도 반도체와 대형 IT 종목들이 반등세를 이끌며 장세를 reversal시켰다.",
+            "기술주 강세에 힘입어 뉴욕증시는 주간 기준으로도 높은 상승률을 기록하며 투자심리 회복세를 확고히 했다."
           ],
           "watch": [
-            "필라델피아 반도체 지수 지속 상승 여부",
-            "엔비디아 악재 해명 및 투심 회복",
-            "빅테크 실적 발표 및 AI 투자 유지 가능성"
+            "나스닥 지수의 주간 상승 흐름 유지 여부",
+            "중국 당국의 추가 증시 부양책 구체화"
           ],
           "qna": [
             {
-              "q": "엔비디아가 3% 하락했음에도 나스닥과 필라델피아 반도체 지수가 급등할 수 있었던 원인은 무엇인가?",
-              "a": "엔비디아의 악재는 개별 악재로 국한된 반면, 그동안 낙폭이 컸던 다른 주요 반도체 및 AI 기술주 전반으로 저가 매수세가 광범위하게 확산되었기 때문이다. 반도체 업황 자체의 기술적 반등 세가 시장 전체를 견인했다."
+              "q": "AI 과잉 투자 우려 속에서 나스닥 지수가 2.3% 급등하며 반등한 메커니즘은 무엇인가?",
+              "a": "급락했던 AI 및 기술주를 중심으로 강력한 저가 매수세가 유입되었기 때문이다. 여기에 중국 정부의 증시 부양 의지까지 더해지면서 기술주 전반의 투자심리가 살아나 3대 지수가 일제히 오름세를 탔다."
             },
             {
-              "q": "기술주 급등세가 유연하게 재개되었지만 AI 거품론 우려 속에서 상승 동력이 지속될 수 있는 메커니즘은 무엇인가?",
-              "a": "밸류에이션 부담이 일정 부분 해소된 상태에서 빅테크 기업들의 AI 투자가 실질적 실적 개선으로 이어지고 있음이 입증되어야 한다. 기관 투자자들의 매수세가 유지되면서 주가 하단을 지지하는 메커니즘이 작동하고 있다."
+              "q": "이번 기술주 반등이 글로벌 증시 및 반도체 밸류체인에 어떤 파급 효과를 가져오는가?",
+              "a": "대표 기술주들의 가격 반등은 글로벌 위험자산 선호 심리를 빠르게 되살려 놓았다. 이는 국내외 반도체 및 AI 공급망에 속한 대형주들의 주가 하방 압력을 낮추고 동반 상승을 이끄는 촉매제로 작용한다."
             },
             {
-              "q": "뉴욕증시 반도체주의 강한 반등이 글로벌 증시 및 한국 반도체 기업 주가로 전달되는 분기점은 무엇인가?",
-              "a": "필라델피아 반도체 지수의 연속적인 상승세 유지와 미 연준의 통화정책 긴축 스탠스 완화 여부다. 글로벌 반도체 밸류체인 전반의 부품 수요가 실제로 증가하고 있음이 확인되면 국내 증시 상승폭이 더욱 확정된다."
+              "q": "뉴욕증시 기술주의 반등세가 단기 반발에 그치지 않고 지속되기 위한 분기점은 무엇인가?",
+              "a": "기술 기업들의 실제 실적 지표가 시장의 높은 상향 눈높이를 충족하는지 검증되어야 한다. 또한 AI 투자 대비 수익성 입증 여부가 추가 상승의 필수 조건이다."
             }
           ]
         },
-        "앤스로픽 주가 급등": {
-          "headline": "앤스로픽 저가 매수세에 10% 급등",
+        "반도체주 저가 매수": {
+          "headline": "마이크론 7%·샌디스크 16% 폭등",
           "facts": [
-            "AI 스타트업 앤스로픽 주가가 AI 관련 종목에 대한 저가 매수세 유입에 힘입어 10% 급등했다.",
-            "앤스로픽 주가는 이번 급등을 통해 종전의 공모가를 돌파하며 기술주 반등 장세를 반영했다.",
-            "서학개미 등 글로벌 투자자들의 나스닥 기술주 및 AI 선물 거래량이 폭증하며 투자 열기가 고조되었다.",
-            "AI 테마 전반에 대한 저가 매수 열풍이 앤스로픽 등 유망 AI 기업 주가를 직접적으로 끌어올렸다."
+            "뉴욕증시에서 반도체 종목에 대한 저가 매수가 유입되며 마이크론과 마벨 기술이 각각 7%대 급등세를 나타냈다.",
+            "AI 반도체주 저가 매수세에 힙입어 샌디스크가 16% 폭등했고 앤스로픽 관련 선물 지수도 11% 크게 올랐다.",
+            "금리 인상에 대한 시장의 우려가 잔존함에도 나스닥 선물이 2% 이상 올라 기술주 장세 재개 신호를 보였다.",
+            "주가가 과도하게 조정받았다는 인식이 확산되면서 AI 및 반도체 밸류체인 전반으로 저가 매수 자금이 대거 몰렸다."
           ],
           "watch": [
-            "앤스로픽 공모가 상회 유지 여부",
-            "글로벌 AI 기업 간 모델 성능 경쟁",
-            "서학개미의 AI 유망주 매수세 지속성"
+            "마이크론 및 샌디스크 등 메모리주 연속 상승",
+            "금리 인상 가능성 관련 주요 통화지표 발표"
           ],
           "qna": [
             {
-              "q": "앤스로픽 주가가 10% 급등하며 공모가를 넘어서게 만든 시장 내 저가 매수세의 작동 원리는 무엇인가?",
-              "a": "최근 AI 종목들의 주가 조정 과정에서 앤스로픽의 기술적 가치가 과도하게 저평가되었다는 인식이 확산되었다. 이에 따라 나스닥 반등 흐름과 맞물려 매수세가 집중되면서 공모가를 단숨에 돌파했다."
+              "q": "마이크론, 샌디스크 등 반도체 종목으로 저가 매수세가 대거 몰린 주요 배경은 무엇인가?",
+              "a": "최근 가격 조정으로 인해 주요 반도체 기업들의 주가가 기술적으로 과매도 구간에 진입했다는 평가가 우세했기 때문이다. AI 반도체 수요 자체는 건재하다는 판단 아래 저가 매수 자금이 선제적으로 들어왔다."
             },
             {
-              "q": "앤스로픽의 주가 급등이 AI 산업 밸류체인 내 타 스타트업 및 빅테크 기업에 미치는 파급 효과는 무엇인가?",
-              "a": "비상장 및 신규 상장 AI 기업들의 기업가치 밸류에이션 산정에 긍정적인 기준점을 제공한다. 또한 빅테크 기업과의 AI 모델 개발 경쟁 및 자원 투자 확대를 자극하는 유인이 된다."
+              "q": "반도체주 7~16% 폭등세가 글로벌 AI 공급망 및 국내 증시에 어떤 연쇄 영향은 무엇인가?",
+              "a": "마이크론과 샌디스크 등 메모리 및 서버 관련 반도체 기업들의 주가 급등은 한국 등 반도체 수출국 증시에 강력한 호재로 작용한다. 국내 반도체 대형주로 외국인 수급이 재유입되며 증시 전반의 상승을 자극한다."
             },
             {
-              "q": "앤스로픽 주가의 급등세가 단기 반등에 그치지 않고 유지되기 위한 실적 분기점은 무엇인가?",
-              "a": "차세대 AI 모델의 상용화 매출 성과와 유료 구독자 및 기업 고객 확보 속도다. 대규모 서버 인프라 비용을 감당할 수 있는 수익 모델 구축이 입증되어야 주가 안착이 지속될 수 있다."
+              "q": "반도체 저가 매수세가 일시적 반등을 넘어 장기 상승 추세로 안착하는 분기점은 무엇인가?",
+              "a": "금리 우려 완화와 함께 차세대 메모리 및 AI 반도체 칩의 실제 출하량 수치가 지속 증가해야 한다. 수급 개선과 더불어 글로벌 빅테크 기업들의 투자 집행이 지속되는지가 핵심이다."
             }
           ]
         },
-        "미 연준 금리인상 우려": {
-          "headline": "미 연준 12월 금리 인상 우려 재부각",
+        "앤스로픽 11% 폭등": {
+          "headline": "앤스로픽 11% 폭등에 나스닥 주간 6.7%↑",
           "facts": [
-            "미 연준이 오는 12월 기준금리를 25bp(0.25%p) 인상할 수 있다는 전망이 나오면서 통화 긴축 우려가 다시 부각되었다.",
-            "금융권에서는 연준의 금리 인상 중단 및 내년 금리 인하 전환에 대한 확신이 약해지고 있다는 분석이 제시되었다.",
-            "시장에서는 AI 거품론보다 연준의 추가 긴축 조치가 금융 시장에 더 큰 위협으로 작용할 수 있다는 경계감이 확산되었다.",
-            "일각에서는 연준의 긴축 우려가 과도하다는 시각도 존재하나 고금리 장기화에 대비한 금 강세 전망 등이 이어졌다."
+            "AI 핵심 기업인 앤스로픽 주가가 11% 폭등하면서 뉴욕증시 기술주 전반의 강한 랠리를 주도했다.",
+            "앤스로픽 급등과 기술주 강세에 힘입어 나스닥 지수는 주간 기준 6.7% 상승하며 4년 만에 최고의 한 주를 기록했다.",
+            "뉴욕증시와 서울 증시가 동반 급등하는 모습을 보이며 글로벌 자산 시장 전반으로 온기가 확산되었다.",
+            "한편 미 공군 컴퓨터 시스템 해킹으로 민감 군사 정보 유출 가능성이 제기되는 등 보안 불안도 공존했다."
           ],
           "watch": [
-            "연준 12월 FOMC 기준금리 결정",
-            "미국 물가지표(CPI, PCE) 및 고용 보고서",
-            "금리 인상 우려에 따른 국채 금리 변동"
+            "앤스로픽 등 독점적 AI 기업 주가 추이",
+            "미 공군 해킹 사태 여파 및 보안 관련 정책"
           ],
           "qna": [
             {
-              "q": "증시 반등 흐름 속에서도 연준의 12월 25bp 금리 인상 우려가 지속되는 역설적 원인은 무엇인가?",
-              "a": "기술주 저가 매수세로 주가는 반등했으나 강한 경제 지표와 물가 상방 압력이 연준의 인플레이션 목표치 달성을 방해하고 있기 때문이다. 이로 인해 시장의 금리 인하 기대감이 후퇴하고 추가 인상 가능성이 대두되었다."
+              "q": "앤스로픽이 11% 폭등하며 나스닥 주간 6.7% 상승을 이끌어낸 핵심 원동력은 무엇인가?",
+              "a": "AI 대표 종목인 앤스로픽에 투심이 쏠리며 관련 생태계 전체의 평가 가치가 동반 상승했기 때문이다. 이에 힘입어 나스닥은 주간 6.7% 상승해 4년 만에 최고 주간 성과를 올렸다."
             },
             {
-              "q": "미 연준의 금리 인상 가능성 제기가 글로벌 자산 시장 및 원자재 시장에 미치는 파급 경로는 무엇인가?",
-              "a": "고금리 장기화 우려로 달러화 강세 압력이 커지고 위험자산 선호 심리가 위축된다. 동시에 안전자산 선호 심리가 작용하면서 안전자산인 금 선물 가격이나 원자재 가격 변동성이 확대되는 경로로 이어진다."
+              "q": "앤스로픽의 급등 및 뉴욕·서울 증시 동반 랠리가 자산 시장 전반에 어떤 파급 효과를 가져오는가?",
+              "a": "뉴욕과 서울 증시가 함께 급등하며 글로벌 투자자들의 위험자산 선호가 완전히 살아났다. AI 산업 전반에 대한 자금 유입이 가속화되고 기술주 전반의 밸류에이션 리레이팅이 나타났다."
             },
             {
-              "q": "연준의 통화정책 기조가 다시 완화로 돌아설 수 있는 결정적 조건 및 시장 분기점은 무엇인가?",
-              "a": "미국 노동 시장의 과열 양상 진정과 함께 소비자물가지수(CPI) 등 핵심 인플레이션 지표의 뚜렷한 하향 안정세 확인이다. 물가 상승세가 둔화되지 않을 경우 금리 인상 기조 완화는 연기될 수밖에 없다."
+              "q": "AI 랠리의 지속성을 결정지을 향후 주요 분기점은 무엇인가?",
+              "a": "폭등한 AI 모델 개발 기업들의 실제 수익화 능력과 서비스 확산 속도가 관건이다. 아울러 미 군사 정보 유출 등 해킹 악재가 관련 IT 기술주 심리에 미칠 악영향을 제어하는지가 중요하다."
             }
           ]
         }
       },
       "news": {
         "뉴욕증시 기술주 반등": [
+          {
+            "title": "AI 투자 우려 속 기술주 반등…나스닥 2.3% 상승 [뉴욕증시] - 한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52cEZ1OTRDdVh5Qm1oaF9VbnpIbDJwcnJfT25SUElHXzMxeTlBb2dxMkZ0U0NZUF9Fc0VUdzBvTmZfMGlYV0NrQUZYc0RaV05qRW1GQ2JoOGhFZw?oc=5",
+            "source": "한국경제",
+            "published": "11-28 07:11",
+            "snippet": "AI 투자 우려 속 기술주 반등…나스닥 2.3% 상승 [뉴욕증시] 한국경제"
+          },
+          {
+            "title": "뉴욕증시, AI·기술주 반등에 일제히 상승 마감‥나스닥 2.3%↑ - MBC 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81RXk3eS11MnlVWnZPdGVmTHVRUGl3OW1qczBTNXU2RjBhRDVMOGZwN2xCanI2bXBYTUdIZENnRkF6V3RCN1JScFAwYkl0ZHVpQ2htSThILWF6ZDhtVW9GdGZ1aUZ3Sy1OTzVTUTRkb1pqcXg20gF0QVVfeXFMTmtUYm9XQlJ5RHp0Z001RGtiR0JKYXJMbl9yNWZkazBCM0FwektCUy1wbkxvbllObnhyYzdyR05WSUh2WWFuMEp1VXRiV3kxMDJHZS1tcW9nMzRSOWx2ZDY1R3VTVDRjZGQxX0VFWWFoVDlxcVQ?oc=5",
+            "source": "MBC 뉴스",
+            "published": "11-28 05:41",
+            "snippet": "뉴욕증시, AI·기술주 반등에 일제히 상승 마감‥나스닥 2.3%↑ MBC 뉴스"
+          },
           {
             "title": "뉴욕증시, AI·기술주 반등에 일제히 상승…나스닥 2.3%↑(종합) - 연합뉴스",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nYXJjZGVjak5Fd3c5aXdXcEdCLThBUU5xclM5Z09lY2tQby0tXzZOYlcwVkJvRGVGMHZydllSelFvRU01VU9KdE5rei1MMnFlc2hoRDhEdjJUdWNlOU1sRtIBYEFVX3lxTE9nYXJjZGVjak5Fd3c5aXdXcEdCLThBUU5xclM5Z09lY2tQby0tXzZOYlcwVkJvRGVGMHZydllSelFvRU01VU9KdE5rei1MMnFlc2hoRDhEdjJUdWNlOU1sRg?oc=5",
@@ -352,99 +357,34 @@
             "snippet": "뉴욕증시, AI·기술주 반등에 일제히 상승…나스닥 2.3%↑(종합) 연합뉴스"
           },
           {
-            "title": "뉴욕증시, AI·기술주 반등에 일제히 상승…나스닥 2.3%↑ - 연합뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ITHBzUVVyQmRWbld0Wng5QWs4d1J1NkFqTnFTdlQzTFEtbUoyLW9wQ3hXeGZhWHpqSGUwOGFpUU5USVB5ak5lcGJ5czQ4QUxqWVdBcU9zbUZkM0ZLR252YdIBYEFVX3lxTE5ITHBzUVVyQmRWbld0Wng5QWs4d1J1NkFqTnFTdlQzTFEtbUoyLW9wQ3hXeGZhWHpqSGUwOGFpUU5USVB5ak5lcGJ5czQ4QUxqWVdBcU9zbUZkM0ZLR252YQ?oc=5",
-            "source": "연합뉴스",
-            "published": "11-28 03:12",
-            "snippet": "뉴욕증시, AI·기술주 반등에 일제히 상승…나스닥 2.3%↑ 연합뉴스"
+            "title": "[오늘의 글로벌마켓] 뉴욕증시, 中 증시 부양 의지 속 기술주 반등 - 오피니언뉴스",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zMVpjY29ienZpU3VqTVNIWFhrV21YRzhIendDem5qLUc3c3c1anctR09hRWNnY1Y5aXd0WjJjOTJfS2MzcHBlTWdPRU1Jd0JZbEM5ZXdjYjFTeWFHX3NxRF9EOWZHd0lGX2h3cHNCYkVlQQ?oc=5",
+            "source": "오피니언뉴스",
+            "published": "11-28 08:03",
+            "snippet": "[오늘의 글로벌마켓] 뉴욕증시, 中 증시 부양 의지 속 기술주 반등 오피니언뉴스"
+          },
+          {
+            "title": "뉴욕증시, AI·기술주 반등에 일제히 상승…나스닥 2.3%↑ - 여성신문",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IQlQtQXpyblVnTnFSbUNhSHJtalhTSlpwYnJKQ0NCa3pSb3d3UExEXzRDbmktX1ZVdjRXNFp0VmR0bzNKdDRKWk1mYXg3YXpoZ0psWFRqUHpaR1VpUjYwM3JNaF9PQ3lnZ3VzSS16aFh4QmfSAXNBVV95cUxOSEJULUF6cm5VZ05xUm1DYUhybWpYU0pacGJySkNDQmt6Um93d1BMRF80Q25pLV9WVXY0VzRadFZkdG8zSnQ0SlpNZmF4N2F6aGdKbFhUalB6WkdVaVI2MDNyTWhfT0N5Z2d1c0ktemhYeEJn?oc=5",
+            "source": "여성신문",
+            "published": "11-28 06:47",
+            "snippet": "뉴욕증시, AI·기술주 반등에 일제히 상승…나스닥 2.3%↑ 여성신문"
           },
           {
             "title": "뉴욕증시, 반도체주 반등에 일제히 상승…나스닥 2.3%↑ - KBS 뉴스",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaZGE3LXJwNVpRSHFiOUJvYjBXalpCc2xaRmszNHZXQW9PZEZQeEJCaDdnMS1CLVlLUlIzR0R0TmZXX2p3dVNHaTdOMUttR0lQbEVXT2V6aWhudk0?oc=5",
             "source": "KBS 뉴스",
             "published": "11-28 04:10",
-            "snippet": "뉴욕증시, 반도체주 반등에 일제히 상승…나스닥 2.3%↑ KBS 뉴스"
-          },
-          {
-            "title": "뉴욕증시, AI 관련주 반등에 상승 출발 - 연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6Skt4MFptb0x0Y01TWXIzYUNmcVI3cjZBOEQ1dlJzVGczSC03V3BUWEJoa09ISjl6eG9JN3pFcmIzZEsybnY4bkM2WENoQ0FhdDJscEVzb2V4RjUxTDlCRUI5MFhMOE8zeElncndjU3Q?oc=5",
-            "source": "연합인포맥스",
-            "published": "11-27 23:43",
-            "snippet": "뉴욕증시, AI 관련주 반등에 상승 출발 연합인포맥스"
-          },
-          {
-            "title": "뉴욕 증시, AI·기술주 반등에 상승 마감...필리 반도체 지수 4.69% 급등 - YTN",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EQ0p2LUc1eS0zc3BmRmkyOTFmOWNVUGdlNk83ZlZudjF4S3FmNnN5aXVKbFhmc0RRMXVzV21WNWtoQ2lmY3hWaVdEaElqbzdERk5QMHVUczBoS0ZJWmc?oc=5",
-            "source": "YTN",
-            "published": "11-28 04:19",
-            "snippet": "뉴욕 증시, AI·기술주 반등에 상승 마감...필리 반도체 지수 4.69% 급등 YTN"
-          },
-          {
-            "title": "AI주 저가매수세, 뉴욕증시 반등…엔비디아 '中 밀반입 의혹' 3%↓ - 머니투데이 - 머니투데이",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiSHdzSy04QV8xY2tIcmZ4STM1M01zc1hFWXZydkp0VVBUc1VFWXpCMm9CSHlXT1NZcHY5MkotV1pwZGJxSnl2MmJjZGR0NzJwdEljZUZMQWt1WllxdmEwcEpBT183elBt0gFuQVVfeXFMTWl5SHF5eW9aODBYZGxFUGdEZVo2d1VWODZhMkFRZ0hGWmNFc1BFTno0YWpOclNuZUl5cDFqU3BIbDJ2OGJaa0YwX1lnT1RmZGRpMmhIdTc3YjRzYTRnMVBDdl9CUVNnd0c4dk1VN2c?oc=5",
-            "source": "머니투데이",
-            "published": "11-28 00:21",
-            "snippet": "AI주 저가매수세, 뉴욕증시 반등…엔비디아 '中 밀반입 의혹' 3%↓ - 머니투데이 머니투데이"
+            "snippet": "뉴욕증시, 반도체주 반등에 일제히 상승…나스닥 2.3%↑ KBS 뉴스 뉴욕 증시, AI·기술주 반등에 상승 마감...필리 반도체 지수 4.69% 급등 YTN 엔비디아 중심으로 기술주 반등 기대…미국 나스닥100 선물 2.47% 급등 제민일보 [딜로이트 글로벌 경제 리뷰] AI 거품 붕괴가 경제에 미칠 영향 가늠하기 By FinancialPost Investing.com 한국어 월마트·코스트코, AI 매도세 속 피난처로 주목 마켓인"
           }
         ],
-        "앤스로픽 주가 급등": [
+        "반도체주 저가 매수": [
           {
-            "title": "[채권-마감] 금리 급등…주가 급등·매파 금통위 재평가 - 연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mS2MwOC1TSVBidWtFZHpLZHRqZ0w5S1lKVmJ2LXVib2ZVV1p1cDNHX01kV09SYlJ5MjNrQ0o4bnRNblVxWThaVjdpQTkydkxEYjFsWVF0NTlfd3lhQ3hpTlhFLUJPTGpZN3owVWp4bmY?oc=5",
-            "source": "연합인포맥스",
-            "published": "11-27 18:45",
-            "snippet": "[채권-마감] 금리 급등…주가 급등·매파 금통위 재평가 연합인포맥스 국고채 금리 대체로 상승…3년물 연 3.685% 연합뉴스 [노현우의 채권분석] 두 내러티브 속 더 굳게 '움켜쥔 손' 연합인포맥스 증시 부진에 내려온 국고채 금리… 증권가 \"다시 반짝 오른다\" - 머니투데이 머니투데이 韓 장기금리, 美·G7보다 더 뛰었다…예정처 \"국채 수급 부담 지속\" 뉴스핌"
-          },
-          {
-            "title": "[서학개미 레이더] 엔비디아 주가 2.4%↑…나스닥 선물 2.68% 급등 - 코인리더스",
-            "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8tXzUtczRSVzRrZjNXdHJXZjNTSTZBcTREbUwwcjYxbEtVV1F3NXNWWENxSkF6cXRsaDFDcThzbXdmNlBudlBIbHpn?oc=5",
-            "source": "코인리더스",
-            "published": "11-27 21:17",
-            "snippet": "[서학개미 레이더] 엔비디아 주가 2.4%↑…나스닥 선물 2.68% 급등 코인리더스"
-          },
-          {
-            "title": "앤트로픽, AI株 저가 매수 열기에 10% 급등…공모가 넘겨 - 연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vQU1zeFhRaXVNY3hWN1JlTEZETUozU1czd1ZrR2ExNzVYeHNkU1BnLXhVWWxaa213cXF2SXZhd2huZFVBRllNNVNhTDllSl9VUHhkdldNYmp3M2RsVGVoZlZaeXV0LVp5ZXpaYVhVVHI?oc=5",
-            "source": "연합인포맥스",
-            "published": "11-28 02:14",
-            "snippet": "앤트로픽, AI株 저가 매수 열기에 10% 급등…공모가 넘겨 연합인포맥스 앤스로픽, AI 관련주 반등 속 공모가 회복…주가 10%↑ 마켓인 앤트로픽 IPO로 돈방석 앉은 직원들…美 샌프란 고급 주택값 '들썩' - 머니투데이 머니투데이 오늘 Anthropic, PBC 주가가 오르는 이유는? Investing.com 한국어 우리가 알던 AI를 넘다…‘앤트로픽 웨이브’ [스페셜 리포트] 매일경제"
-          },
-          {
-            "title": "머스크 '100만' 외치자 주가 들썩…한국 개미들 난리 난 이유 [종목+] - 한국경제",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ubDkxdjdIc2EtcjExRm9EX0o5RFFtYVFqR0FnWkd5c1FHYnN6ZzFtMUpHSUtNQUIyLUdUUDB2NWJ4UDVVMVg1c0ZIUlZQSkkwMDdjQlJXd25pQQ?oc=5",
-            "source": "한국경제",
-            "published": "11-27 06:30",
-            "snippet": "머스크 '100만' 외치자 주가 들썩…한국 개미들 난리 난 이유 [종목+] 한국경제 일론 머스크, 우주로 향하는 AI 산업…스페이스X 데이터센터 사업 주목 제민일보 ‘우주 데이터센터’ 실현될까…스페이스X 위성 100만기 띄운다 한겨레 2026년 11/26(목) - 데일리포인트 네이버 프리미엄콘텐츠 [특징주] 태양광주, 유가급등·우주 AIDC 기대감 등에 일부 상승(종합) 연합뉴스"
-          },
-          {
-            "title": "코스피·코스닥 동반 급등…외국인 순매수 - KBS 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KWmpJNDZVZVBFWDBETjVpR0FaOXprVFdnSWtHSnFoOFBMQ2dMS2lNc01pQWtSeG5HUG5qa1AySVVtVGxrZHJkVG1fRTY2MTl0N3VPc2laMnVtTkk?oc=5",
-            "source": "KBS 뉴스",
-            "published": "11-27 19:44",
-            "snippet": "코스피·코스닥 동반 급등…외국인 순매수 KBS 뉴스 코스피·코스닥 급반등, 삼성전자 16만 원대의 진짜 의미는? 네이버페이 머니스토리 배당금·증권시장안전펀드 투입 기대감에 불기둥 올린 증시 YTN \"코스닥 8%, 코스피 4% 쭉쭉\" 증안펀드 기대, 외인도 올라탔다 - 머니투데이 머니투데이 [연합뉴스 이 시각 헤드라인] - 18:00 연합뉴스"
-          },
-          {
-            "title": "SK하이닉스, 자사주 일일 매수 주문량 2배로…주주가치 제고 - 연합뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00SG5MbVVoeUVXU3YwRnJWdGdHUm4xTm1oOW5MU0hYVU1VMG83WE5wM2lxdGhUOFpkWmFxd0ZWeVYxcWlxYXRPYVRMSkV0b0x2dWQ3QUh0QktZYWfSAWBBVV95cUxQMURjWllvS1l6dXpwbzBRVHFnUDlyZlotcGFwSzhFbnR5SW5tQ1N6Y3ItX283cl92N1ROMEIwS3RBU2E1Z2U1MF9TdWJtLUVmUTFLSmwtMGppUDdMWUFhaDA?oc=5",
-            "source": "연합뉴스",
-            "published": "11-27 20:26",
-            "snippet": "SK하이닉스, 자사주 일일 매수 주문량 2배로…주주가치 제고 연합뉴스 Google 뉴스에서 헤드라인 및 의견 더보기"
-          }
-        ],
-        "미 연준 금리인상 우려": [
-          {
-            "title": "UBS \"연준 긴축 등 시장의 우려 과도\" | - 연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoank3Zk0wdHNxY2VPSURqdDVwcjVnQzk5OWNRMmd6bF9QY21SMGRUaXJRdFRRSENXcWJrQ0tWeDR6TXZjZm53VmwtcXo5QWwxbWZVdmZBdmt0RWNRLVc4Smp2RnU4V3ZDOTdlYlNfR2hvbVJt?oc=5",
-            "source": "연합인포맥스",
-            "published": "11-27 10:07",
-            "snippet": "UBS \"연준 긴축 등 시장의 우려 과도\" | 연합인포맥스"
-          },
-          {
-            "title": "국내은행 1∼3분기 이자이익 또 역대 최대치…“대출확대·금리인상 영향” - 한겨레",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzMUdhS01TU0JHWk0wQzFDNmFkSXpKcFhZSnN1SlM1MmZJM3RjcGpJbWI0OG1EQ2h2anlRLUhiMTFLbkhTMm05TENKTHhzVFpmaUtxOWx6WUhPVklIS1FwM3ZhZTNqbkE?oc=5",
-            "source": "한겨레",
-            "published": "11-27 07:24",
-            "snippet": "국내은행 1∼3분기 이자이익 또 역대 최대치…“대출확대·금리인상 영향” 한겨레 늘어난 대출에…은행 3분기까지 이자이익 48조원 넘었다 경향신문 은행권 3분기 누적 순익 시중은행 6% 늘고 지방은행 11% 감소 - 머니투데이 머니투데이 국내은행 3분기 누적 순이익 21조5천억으로 2% 증가, 이자이익 늘고 유가증권은 손실 비즈니스포스트 은행, 이자이익 늘었지만…유가증권 손실에 순익 막혀 스트레이트뉴스"
+            "title": "뉴욕 증시, 반도체주 저가 매수에 반등…마이크론·마벨 7%대 급등 - 뉴시안",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10UnBkdHF1S3g4eGJpNGF3UHZqM2dpZ0d0SVMzWVFTY3VJMHo1WkZHdTdWLXdlUjhIcmRFeGdrSDF6QU53Z1hMTWR4ZDBNcDE1UlZDRlpwRnM1MlhVaTRNck1JczZJT1RRQ0ExWg?oc=5",
+            "source": "뉴시안",
+            "published": "11-28 06:34",
+            "snippet": "뉴욕 증시, 반도체주 저가 매수에 반등…마이크론·마벨 7%대 급등 뉴시안"
           },
           {
             "title": "뉴욕증시 프리뷰, AI·반도체주 저가 매수에 나스닥 선물 2% 상승…금리 인상 우려 여전 - 뉴스핌",
@@ -454,25 +394,69 @@
             "snippet": "뉴욕증시 프리뷰, AI·반도체주 저가 매수에 나스닥 선물 2% 상승…금리 인상 우려 여전 뉴스핌"
           },
           {
-            "title": "Bernstein “2027년 금 강세 전망…연준 금리 인상 중단 가능성” - Investing.com 한국어",
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83WEtpa1hCUWFwaWs5UjRRRG5fZDhIS1h6WDJwWEtqcnNZYWk1U2dxUENRQTYzdjVPRS1PeDJHeWZXbWdZbkpwWGJkUVVKOFdhU0szR2RSVk5oUXBUSzkzUFVnb3p1aFFGdDZSTm02TQ?oc=5",
-            "source": "Investing.com 한국어",
-            "published": "11-27 22:56",
-            "snippet": "Bernstein “2027년 금 강세 전망…연준 금리 인상 중단 가능성” Investing.com 한국어"
+            "title": "[AI MY 뉴스] 뉴욕증시 반도체주 프리뷰...저가 매수 속 일제 강세·샌디스크 10%↑ - 뉴스핌",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55dm0tM1BMS1MwUExzWTNReG9abkJqRE5Ra3BFZHBhQkxHS0hQX3RtZm5hUUFqOXZvdkVLaEVrVTNVb1c3Z3g1aUNBZXo1T1QwSndmZFc0RjRyMkhx?oc=5",
+            "source": "뉴스핌",
+            "published": "11-27 22:53",
+            "snippet": "[AI MY 뉴스] 뉴욕증시 반도체주 프리뷰...저가 매수 속 일제 강세·샌디스크 10%↑ 뉴스핌"
           },
           {
-            "title": "[인터뷰] SC \"연준 12월 25bp 인상…내년 동결 전망 확신 약해져\" | - 연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RZnluYm1iLWtxNktnOEQwbkp6QnloTmJfaUttcFR3cFh4NkE1ZWNXXzk0dEFnODljVEpyV1hnYmVnbkJQMHVfaXM2Ym5scXQ4cVd5WDhsOC0yNF9tVXpSOEpueXZxXzhEd1QtM1VsY2lYWWpj?oc=5",
+            "title": "[지난밤 뉴욕에선] AI 저가 매수에 나스닥 2.31% 상승 - 스트레이트뉴스",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43dFBpS21ISk94clhoMkFTQlZpbFhNY1lSQ3VmYXhIYWx4XzZDbTNnZmpJWTVNU2pzRjJCSGVWTm9sSnV2QlpqaHUxbjNseDk3czZZYjNkcG9NeGhjTzY0c2V0ZHlzRkl1VWRBTHBmRGVFUVnSAXdBVV95cUxQVDdHUG51cXJrc2hBSDhERXFHSFpjRE11TXNUVi1oSEJoR29WS0gwUUxWN1FKTnl2emlmaVk0RllhRVVVOG4zX1VwTDkxekNlM19tdXlSWmRudk9FNlNKYS0tbHJicmpkZi1RNTNVVUpiOC1UWUxZYw?oc=5",
+            "source": "스트레이트뉴스",
+            "published": "11-28 07:17",
+            "snippet": "[지난밤 뉴욕에선] AI 저가 매수에 나스닥 2.31% 상승 스트레이트뉴스"
+          },
+          {
+            "title": "[뉴욕증시-1보] AI株 저가 매수에 훈풍…3대 지수 강세 마감 | - 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zbUM2SWN0UTJ0TS1SY2pkRy1TMnpfQTFYQk9EOHY4WWNqVndpVmwyV0tnSEdiX0ZVTGxEX004T0xPSDd4N3Z2M3l3dHJmZ2VJZEtEdVZna3A2NE9lajh3dGRHcTY5Z0JmTmhpN3g4Z3l6Z0dH?oc=5",
             "source": "연합인포맥스",
-            "published": "11-27 10:07",
-            "snippet": "[인터뷰] SC \"연준 12월 25bp 인상…내년 동결 전망 확신 약해져\" | 연합인포맥스"
+            "published": "11-28 03:15",
+            "snippet": "[뉴욕증시-1보] AI株 저가 매수에 훈풍…3대 지수 강세 마감 | 연합인포맥스"
           },
           {
-            "title": "뉴욕｜뉴욕증시 반등…AI 거품보다 무서운 연준의 긴축 - OBC 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FdVpXSHhaVXM0eHFiM2dVYWR6amlZaXBWNEdIc2JwMkVVRjUtZHhlYWdfX0hWdGhKcXRiSmJ2dkRONDNjSEptcFg1dHF4Y21UWHZPMHBQV1FhOHM3Rks4QTlQeUhzQTBfY3c?oc=5",
-            "source": "OBC 뉴스",
-            "published": "11-27 23:33",
-            "snippet": "뉴욕｜뉴욕증시 반등…AI 거품보다 무서운 연준의 긴축 OBC 뉴스"
+            "title": "뉴욕증시, 저가 매수에 일제히 상승…샌디스크 16%·앤트로픽 11%↑ - 조세일보",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHQzdKTHIzNFhfWElyWWlNYV85VzFvMVhWdUZLUFRQUFE0OXJtMlJYcDBtckswWnFoVEM2UWFlTWJLb21rX3FBNEV1aGlvbTFwTFN5UVpGQmtmTzZkRjJj?oc=5",
+            "source": "조세일보",
+            "published": "11-28 07:29",
+            "snippet": "뉴욕증시, 저가 매수에 일제히 상승…샌디스크 16%·앤트로픽 11%↑ 조세일보"
+          }
+        ],
+        "앤스로픽 11% 폭등": [
+          {
+            "title": "[뉴욕증시] 앤스로픽 11% 폭등 속 일제히 상승…나스닥, 주간 6.7%↑ - 파이낸셜뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HdUJRaDVkVWZsajBhX0NNbnhETHV1U0RFTGxTNEVrcHkwS21DT2J6R1VqcVJxMXlnalVydUpETy1vLUFmZFE2UGlRLXB0ODh5VVltZy1GVUUxUQ?oc=5",
+            "source": "파이낸셜뉴스",
+            "published": "11-28 03:34",
+            "snippet": "[뉴욕증시] 앤스로픽 11% 폭등 속 일제히 상승…나스닥, 주간 6.7%↑ 파이낸셜뉴스"
+          },
+          {
+            "title": "[속보][뉴욕증시] AI 강세에 일제히 상승…앤스로픽, 11% 폭등 - 파이낸셜뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tckt0dDktNXpPeDlEV2tLeUQ0SjFkWnV6cEdlbElvbE5tbFVDcDM2dW9XSTgzTGRrTFh4d1V5aU9BR0NlMkpTNlZuNkN4TThmZl9oTkxvYjlIUQ?oc=5",
+            "source": "파이낸셜뉴스",
+            "published": "11-28 03:02",
+            "snippet": "[속보][뉴욕증시] AI 강세에 일제히 상승…앤스로픽, 11% 폭등 파이낸셜뉴스"
+          },
+          {
+            "title": "뉴욕·서울 동반 급등으로 4년 만의 최고의 한 주 마감 - 머니터링",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbGxha3A1QnpZWENRWkNlbnZOTWxpWHVIVmV1Si13QXczYWRLTnVrX0RpbE1lSVRfZkpRejBwSlNmYlJCaDdFQmVBVThuTnRpbzJOaDYzU3R3ejNxUDdhSUhwN0tpQTVKSU1EX3hzMktmUzA5dDhpTDVyRkZVUjdLV29ocTQxNWFSaThKd3o1ckhCVUdOLVM2Vk1n?oc=5",
+            "source": "머니터링",
+            "published": "11-28 07:04",
+            "snippet": "뉴욕·서울 동반 급등으로 4년 만의 최고의 한 주 마감 머니터링"
+          },
+          {
+            "title": "뉴욕증시, 기술주 강세에 상승 마감…나스닥, 주간 6%↑ - 뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0VWFzeG9kbGk3eWI0U3FxUzk3Y0k1bXpuQ1BGdFlJRmtoUU5HVlVnN3g2R3ZMdmg3Vk5CTGRtb0RucXkzMUtxYlluZW9wY20xSkFVYUJFVmQ5elR0MXh3ZHMxaURobGV5SUFrVGs2LW1LZlFlNU9NctIBeEFVX3lxTFA0VWFzeG9kbGk3eWI0U3FxUzk3Y0k1bXpuQ1BGdFlJRmtoUU5HVlVnN3g2R3ZMdmg3Vk5CTGRtb0RucXkzMUtxYlluZW9wY20xSkFVYUJFVmQ5elR0MXh3ZHMxaURobGV5SUFrVGs2LW1LZlFlNU9Ncg?oc=5",
+            "source": "뉴시스",
+            "published": "11-28 03:56",
+            "snippet": "뉴욕증시, 기술주 강세에 상승 마감…나스닥, 주간 6%↑ 뉴시스"
+          },
+          {
+            "title": "미 공군도 해킹에 뚫려…\"민감 군사 정보 유출됐을 수도\" - 파이낸셜뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aczJpY3d4UWw0b1h5RmRvV2g3ZlE1Vm9EWHAwNUVEVWxOQ1QwX3JxaGkwTTRoY0x1S1ZTejZQRVY1QVdySWMzSC12T3RqeTRFdjdBNDE2eHFNQQ?oc=5",
+            "source": "파이낸셜뉴스",
+            "published": "11-28 03:48",
+            "snippet": "미 공군도 해킹에 뚫려…\"민감 군사 정보 유출됐을 수도\" 파이낸셜뉴스"
           }
         ]
       },
@@ -480,210 +464,236 @@
         "뉴욕증시 기술주 반등": [
           "뉴욕증시 기술주"
         ],
-        "앤스로픽 주가 급등": [
-          "앤트로픽 주가",
-          "앤트로픽 주가 전망",
-          "앤트로픽 주가 예상",
-          "앤트로픽 주가 가격"
+        "반도체주 저가 매수": [
+          "저가 반도체주"
         ],
-        "미 연준 금리인상 우려": [
-          "미 연준 금리",
-          "미 연준",
-          "미 연준 금리 인상",
-          "미 연준의장",
-          "미 연준 금리 발표일",
-          "미 연준 금리 발표",
-          "미 연준 금리 전망",
-          "미 연준 금리 동결"
-        ]
+        "앤스로픽 11% 폭등": []
       }
     },
     "keywords": [
-      "코스피 코스닥 동반 급등",
-      "삼성전자 대규모 배당",
-      "국내은행 이자이익 최대",
+      "개인정보 유출 잇따라",
+      "코스피 동반 급등",
+      "통상 불확실성 확대",
       "뉴욕증시 기술주 반등",
-      "앤스로픽 주가 급등",
-      "미 연준 금리인상 우려"
+      "반도체주 저가 매수",
+      "앤스로픽 11% 폭등"
     ],
     "results": {
-      "코스피 코스닥 동반 급등": {
-        "headline": "코스피 4,900선 탈환·코스닥 8% 급등",
+      "개인정보 유출 잇따라": {
+        "headline": "유통부터 금융·공공까지 유출 확산",
         "facts": [
-          "엔비디아발 AI 기술주 조정세가 정점을 지나면서 국내 증시에 대한 외국인 투자자의 강한 순매수 유입이 이루어졌다.",
-          "코스피 지수가 4% 상승하며 4,900선을 일시 탈환했고 코스닥 지수는 8% 폭등하며 장을 마감했다.",
-          "금융당국과 유관기관의 증권시장안정펀드 조성 및 가동 기대감이 가시화되면서 시장의 매수 심리가 크게 개선되었다.",
-          "그동안 하락 폭이 컸던 코스닥 IT 기술주와 AI 관련 중소형 종목을 중심으로 강력한 저가 매수세가 집중되었다."
+          "올리브영, 인터넷우체국, 과학기술인공제회, 수협은행 등 유통과 금융 및 공공 전반에서 해킹과 침해사고가 연속 발생했다.",
+          "인터넷우체국에서는 단 하루치 집계에서만 11만 명을 넘어서는 대규모 고객 개인정보 유출 피해가 확인되었다.",
+          "수협은행 고객 54명의 개인정보가 유출되고 과학기술인공제회도 해킹 공격을 받으면서 금융권과 공제회까지 침해가 확산되었다.",
+          "올해 10월까지 집계된 개인정보 유출 신고 건수가 총 1,019건에 달함에 따라 당국이 긴급 대응체계를 전격 가동했다."
         ],
         "watch": [
-          "외국인 순매수세 지속 여부",
-          "증안펀드 투입 시기 및 조성 규모",
-          "미국 주요 기술주 주가 향방"
+          "보안당국 긴급 대응체계 가동 후속 점검 결과",
+          "유통 및 금융권 추가 침해사고발생 여부"
         ],
         "qna": [
           {
-            "q": "코스닥 지수가 8% 급등한 배경에 증안펀드 기대감은 어떻게 작용했는가?",
-            "a": "증권시장안정펀드 출범 가능성이 제시되면서 하락장에서 급격히 위축되었던 매수 심리가 크게 반등했다. 특히 기관과 외국인의 동반 매수세가 가세하며 코스닥 상장 종목의 거래량이 폭증했다."
+            "q": "공공기관과 금융권까지 동시다발적으로 개인정보가 뚫린 배경은 무엇인가?",
+            "a": "올리브영 등 유통업계뿐만 아니라 인터넷우체국, 수협은행, 과학기술인공제회 등 보안이 엄격한 기관들까지 해킹 공격에 노출됐다. 웹 서비스 노출 접점이 늘어난 상황에서 고도화된 해킹 기법이 집중되며 대규모 유출 사고로 이어졌다."
           },
           {
-            "q": "엔비디아의 AI 조정세 완화가 국내 반도체 및 기술주에 전달된 연쇄 파급 경로는 무엇인가?",
-            "a": "글로벌 AI 반도체 밸류체인의 불확실성이 해소되면서 국내 주요 반도체 제조사 및 관련 부품·장비 업체에 대한 외인 매도세가 매수세로 전환되었다. 이에 따라 국내 증시 전반의 수급 여건이 크게 개선되었다."
+            "q": "10월까지 유출 신고가 1,000건을 넘어서며 가동된 긴급 대응체계는 기업에 어떤 파급을 가져오는가?",
+            "a": "당국이 긴급 대응체계를 가동함에 따라 시스템 침해사고를 낸 기업에 대한 전수 조사와 보안 실태 점검이 강화된다. 이는 기업들의 IT 보안 예산 증액과 정보보호 인증 기준 강화로 이어져 유통 및 금융 IT 비용 부담을 늘리는 요인이 된다."
           },
           {
-            "q": "코스피 4,900선 안착을 지속하기 위한 향후 시장의 핵심 분기점은 무엇인가?",
-            "a": "외국인 순매수세의 연속성과 함께 증안펀드의 실제 자금 집행 여부가 시장의 지속성을 결정짓는 요소다. 또한 미국 기술주 시장의 추가 반등과 고금리 긴축 우려의 완화가 수반되어야 한다."
+            "q": "침해사고 재발을 막고 시스템 안전성을 확보하기 위한 핵심 분기점은 무엇인가?",
+            "a": "단순 시스템 점검에 그치지 않고 유출 원인 파악 및 추가 피해 차단 패치가 신속히 이루어지는지가 관건이다. 유출 사실 통지와 시스템 고도화 조치가 실질적으로 이행되어 추가 침해를 막아야 한다."
           }
         ]
       },
-      "삼성전자 대규모 배당": {
-        "headline": "삼성전자 30조 역대급 배당 지급",
+      "코스피 동반 급등": {
+        "headline": "코스피 4%·코스닥 8% 동반 폭등",
         "facts": [
-          "삼성전자가 30조 원 규모의 대규모 배당금을 지급하였으며 이재용 회장은 약 4,488억 원의 배당금을 수령했다.",
-          "삼성전자 주가가 16만 원대를 기록한 가운데 역대급 배당 지급이 이뤄지며 강력한 주주환원 정책이 확인되었다.",
-          "외국인 지분율에 따른 대규모 배당금 지급 영향으로 외환시장에서 외국인 역송금 수요 증가에 대한 경계감이 형성되었다.",
-          "글로벌 빅테크 기업들의 반도체 공급 요청 호조와 주주가치 제고 정책이 맞물려 국내 증시 반등을 이끌었다."
+          "코스피가 4.3% 상승하며 4,900선을 회복했고 코스닥 지수는 8.1% 폭등해 700선 탈환에 성공했다.",
+          "증시안정펀드 조성 및 투입에 대한 시장의 기대감이 유입되며 투자심리가 급격히 개선되었다.",
+          "외국인 투자자들이 국내 증시에서 조 단위 규모의 대규모 순매수를 기록하며 주가 상승을 견인했다.",
+          "외국인 수급 유입과 정책 지원 기대감이 맞물리며 코스피와 코스닥 양 시장 모두 대형주 위주로 동반 급등세를 나타냈다."
         ],
         "watch": [
-          "배당금 지급에 따른 환율 변동성",
-          "외국인 주주의 배당금 재투자 비율",
-          "삼성전자 반도체 부문 추가 투자 발표"
+          "외국인 투자자 조 단위 순매수 기조 지속성",
+          "증시안정펀드 실제 집행 시기 및 자금 규모"
         ],
         "qna": [
           {
-            "q": "30조 원 규모의 배당 지급이 외환시장에 유동성 경계감을 불러일으킨 메커니즘은 무엇인가?",
-            "a": "삼성전자의 외국인 지분율이 높아 배당금 지급 시 원화를 달러로 환전해 해외로 송금하는 역송금 수요가 일시에 몰린다. 이로 인해 원/달러 환율이 상승 압력을 받게 되며 외환시장의 변동성이 확대될 수 있다."
+            "q": "코스피 4.3%, 코스닥 8.1% 급등을 이끈 핵심 동력은 무엇인가?",
+            "a": "외국인 투자자의 조 단위 순매수가 유입된 가운데 증시안정펀드 출범 및 투입에 대한 기대감이 투자심리를 급격히 개선시켰다. 이로 인해 수급 공백이 해소되며 대형주와 중소형주가 동반 폭등했다."
           },
           {
-            "q": "역대급 대규모 배당 지급과 삼성전자 16만 원대 주가 유지가 증시 전체 밸류에이션에 미치는 영향은 무엇인가?",
-            "a": "삼성전자의 대규모 주주환원은 코스피 지수의 하단을 지지하고 외국인 투자자의 자금 유출을 방어하는 역할을 한다. 또한 주주가치 제고에 대한 기대감을 높여 국내 주요 대형주들의 밸류에이션 재평가로 이어질 수 있다."
+            "q": "외국인 조 단위 순매수 전환이 향후 국내 증시 밸류체인에 어떤 파급 효과를 가져오는가?",
+            "a": "외국인 자금이 시가총액 상위 대형주로 집중 유입되면서 시장 전체의 거래대금이 크게 늘어났다. 이는 하락세를 보이던 주요 업종의 투심을 회복시키고 증시 전반의 하방 지지력을 단단하게 만드는 효과를 가져온다."
           },
           {
-            "q": "배당금 지급 이후 외국인 수급이 단순 이탈로 끝날지, 재투자로 전환될지를 결정짓는 요소는 무엇인가?",
-            "a": "반도체 업황의 회복 속도와 글로벌 빅테크 기업들과의 반도체 공급 계약 실적 추가 확보 여부에 달려 있다. 기술 경쟁력 강화를 통한 이익 성장 가능성이 확인되어야 지급된 배당 자금이 증시로 재유입된다."
+            "q": "급등한 국내 증시가 상승 추세를 지속하기 위한 향후 분기점은 무엇인가?",
+            "a": "증시안정펀드의 실제 구체화 및 유동성 공급 규모가 시장 기대치에 부합하는지가 중요하다. 또한 외국인 순매수세가 일회성에 그치지 않고 지속적인 유입으로 이어지는지 점검해야 한다."
           }
         ]
       },
-      "국내은행 이자이익 최대": {
-        "headline": "국내은행 이자이익 48.4조 역대 최대",
+      "통상 불확실성 확대": {
+        "headline": "美 선거 후에도 계속되는 통상 압박",
         "facts": [
-          "국내은행의 올해 1~3분기 누적 이자이익이 48조 4,000억 원을 기록하며 역대 최대치를 다시 한번 경신했다.",
-          "이자이익 급증의 주요 원인으로는 대출 자산 규모의 지속적인 확대와 금리 인상 기조의 영향이 꼽혔다.",
-          "은행권 전체 순이익은 21조 5,000억 원을 달성했으나 지방은행의 경우 순이익이 오히려 감소하며 양극화 양상을 보였다.",
-          "이자이익 최대 달성과 동시에 차주의 이자 부담 증가로 인한 대출 연체율도 함께 상승하는 역설적 현상이 나타났다."
+          "미국 중간선거가 끝난 이후에도 통상 환경의 불확실성이 해소되지 않아 국내 기업들의 우려가 커지고 있다.",
+          "대미 무역흑자가 기존 대비 2배 수준으로 확대됨에 따라 미국 정부의 통상 압박이 가화될 가능성이 제기되었다.",
+          "재계는 미국 통상 정책 변화에 대응해 세액공제 제도 유지와 정부 차원의 적극적인 지원책 마련을 강력히 요청했다.",
+          "한중일 경제 당국자들은 글로벌 AI 불확실성 속에서 경제 동향을 공유하고 상호 통상 협력의 필요성을 확인했다."
         ],
         "watch": [
-          "취약차주 연체율 상승과 충당금 적립 부담",
-          "시중은행과 지방은행 간 이익 양극화",
-          "금융당국의 상생금융 및 이자이익 압박 수위"
+          "미국 통상 정책 변경 및 세액공제 유지 여부",
+          "대미 무역흑자 추이에 따른 통상 제재 가능성"
         ],
         "qna": [
           {
-            "q": "국내은행의 이자이익이 역대 최대치를 경신하는 가운데 연체율도 함께 상승한 역설은 어떻게 발생하는가?",
-            "a": "대출 총잔액이 늘어나면서 고금리 상태가 유지되어 은행의 전체 이자수입 규모는 계속 확대된다. 그러나 고금리 장기화로 인해 상환 능력이 약화된 취약차주들이 원리금을 제때 갚지 못하면서 연체율도 동반 상승하는 구조다."
+            "q": "미국 중간선거 종료 이후에도 통상 불확실성이 지속되는 근본적 배경은 무엇인가?",
+            "a": "대미 무역흑자가 이전 대비 2배로 급증하면서 미국의 통상 제재와 압박 우려가 커졌기 때문이다. 정치적 이벤트가 끝났음에도 수시로 변하는 통상 기조와 무역 정책 변화가 우리 산업계에 지속적인 부담을 주고 있다."
           },
           {
-            "q": "시중은행의 실적 호조와 달리 지방은행의 순이익이 감소하며 양극화가 벌어진 주된 이유는 무엇인가?",
-            "a": "지방은행은 지역 경기 둔화와 부동산 PF 리스크 영향으로 연체율 관리 및 대손충당금 적립 부담이 훨씬 컸다. 또한 우량 차주 유치 경쟁에서 시중은행에 밀려 대출 자산의 질과 마진이 악화되었기 때문이다."
+            "q": "대미 무역흑자 급증과 통상 불확실성은 국내 반도체 및 주요 산업 투자에 어떤 영향을 미치는가?",
+            "a": "통상 압박이 강화되면 현지 투자 및 수출 제품에 대한 관세 부담이 커질 수 있다. 특히 기업들이 현지 공장 설립 및 투자를 진행하는 과정에서 세액공제 혜택 감축 등 제도적 불이익을 받을 리스크가 발생한다."
           },
           {
-            "q": "이자이익 48.4조 원 달성에 대한 금융권 건전성 평가 및 수익성 유지의 분기점은 어디인가?",
-            "a": "향후 기준금리 인하 기조나 대출 규제 강화에 따른 순이자마진(NIM) 축소 여부가 핵심이다. 대손충당금 적립 수준이 부실 채권 증가 속도를 감당할 수 있는지 여부가 건전성 평가의 분기점이 된다."
+            "q": "통상 환경의 악영향을 최소화하고 산업 경쟁력을 유지하기 위한 분기점은 무엇인가?",
+            "a": "정부 차원의 세액공제 연장 및 지원책이 신속히 수립되고 한중일 등 다자간 통상 협력 체계가 원활히 가동되는지가 중요하다. 미 정부와의 불확실한 통상 협상 결과를 최소화하는 대외 대응력이 관건이다."
           }
         ]
       },
       "뉴욕증시 기술주 반등": {
-        "headline": "뉴욕증시 기술주 반등…나스닥 2.3%↑",
+        "headline": "AI 우려 딛고 나스닥 2.3% 상승",
         "facts": [
-          "뉴욕증시가 AI 및 반도체 주요 기술주에 대한 강력한 저가 매수세 유입으로 나스닥 지수가 2.3% 상승 마감했다.",
-          "필라델피아 반도체 지수는 4.69% 폭등하며 기술주 전반의 강한 반등 흐름을 주도했다.",
-          "AI 거품론과 금리 우려로 인한 최근 주가 둔화 이후 대형 기술주 중심의 투자심리가 빠르게 회복되었다.",
-          "반면 엔비디아는 중국 밀반입 의혹 등 악재가 겹치며 3% 하락하는 등 종목별 차별화 현상도 함께 나타났다."
+          "뉴욕증시에서 AI 투자 우려에도 불구하고 기술주 중심의 강력한 저가 매수세가 들어오며 나스닥 지수가 2.3% 상승했다.",
+          "중국 정부의 증시 부양 의지와 주요 기술주들의 실적 기대감이 복합적으로 작용해 뉴욕증시 3대 지수가 일제히 오름세로 마감했다.",
+          "과잉 투자에 대한 시장 경계감이 존속하는 가운데서도 반도체와 대형 IT 종목들이 반등세를 이끌며 장세를 reversal시켰다.",
+          "기술주 강세에 힘입어 뉴욕증시는 주간 기준으로도 높은 상승률을 기록하며 투자심리 회복세를 확고히 했다."
         ],
         "watch": [
-          "필라델피아 반도체 지수 지속 상승 여부",
-          "엔비디아 악재 해명 및 투심 회복",
-          "빅테크 실적 발표 및 AI 투자 유지 가능성"
+          "나스닥 지수의 주간 상승 흐름 유지 여부",
+          "중국 당국의 추가 증시 부양책 구체화"
         ],
         "qna": [
           {
-            "q": "엔비디아가 3% 하락했음에도 나스닥과 필라델피아 반도체 지수가 급등할 수 있었던 원인은 무엇인가?",
-            "a": "엔비디아의 악재는 개별 악재로 국한된 반면, 그동안 낙폭이 컸던 다른 주요 반도체 및 AI 기술주 전반으로 저가 매수세가 광범위하게 확산되었기 때문이다. 반도체 업황 자체의 기술적 반등 세가 시장 전체를 견인했다."
+            "q": "AI 과잉 투자 우려 속에서 나스닥 지수가 2.3% 급등하며 반등한 메커니즘은 무엇인가?",
+            "a": "급락했던 AI 및 기술주를 중심으로 강력한 저가 매수세가 유입되었기 때문이다. 여기에 중국 정부의 증시 부양 의지까지 더해지면서 기술주 전반의 투자심리가 살아나 3대 지수가 일제히 오름세를 탔다."
           },
           {
-            "q": "기술주 급등세가 유연하게 재개되었지만 AI 거품론 우려 속에서 상승 동력이 지속될 수 있는 메커니즘은 무엇인가?",
-            "a": "밸류에이션 부담이 일정 부분 해소된 상태에서 빅테크 기업들의 AI 투자가 실질적 실적 개선으로 이어지고 있음이 입증되어야 한다. 기관 투자자들의 매수세가 유지되면서 주가 하단을 지지하는 메커니즘이 작동하고 있다."
+            "q": "이번 기술주 반등이 글로벌 증시 및 반도체 밸류체인에 어떤 파급 효과를 가져오는가?",
+            "a": "대표 기술주들의 가격 반등은 글로벌 위험자산 선호 심리를 빠르게 되살려 놓았다. 이는 국내외 반도체 및 AI 공급망에 속한 대형주들의 주가 하방 압력을 낮추고 동반 상승을 이끄는 촉매제로 작용한다."
           },
           {
-            "q": "뉴욕증시 반도체주의 강한 반등이 글로벌 증시 및 한국 반도체 기업 주가로 전달되는 분기점은 무엇인가?",
-            "a": "필라델피아 반도체 지수의 연속적인 상승세 유지와 미 연준의 통화정책 긴축 스탠스 완화 여부다. 글로벌 반도체 밸류체인 전반의 부품 수요가 실제로 증가하고 있음이 확인되면 국내 증시 상승폭이 더욱 확정된다."
+            "q": "뉴욕증시 기술주의 반등세가 단기 반발에 그치지 않고 지속되기 위한 분기점은 무엇인가?",
+            "a": "기술 기업들의 실제 실적 지표가 시장의 높은 상향 눈높이를 충족하는지 검증되어야 한다. 또한 AI 투자 대비 수익성 입증 여부가 추가 상승의 필수 조건이다."
           }
         ]
       },
-      "앤스로픽 주가 급등": {
-        "headline": "앤스로픽 저가 매수세에 10% 급등",
+      "반도체주 저가 매수": {
+        "headline": "마이크론 7%·샌디스크 16% 폭등",
         "facts": [
-          "AI 스타트업 앤스로픽 주가가 AI 관련 종목에 대한 저가 매수세 유입에 힘입어 10% 급등했다.",
-          "앤스로픽 주가는 이번 급등을 통해 종전의 공모가를 돌파하며 기술주 반등 장세를 반영했다.",
-          "서학개미 등 글로벌 투자자들의 나스닥 기술주 및 AI 선물 거래량이 폭증하며 투자 열기가 고조되었다.",
-          "AI 테마 전반에 대한 저가 매수 열풍이 앤스로픽 등 유망 AI 기업 주가를 직접적으로 끌어올렸다."
+          "뉴욕증시에서 반도체 종목에 대한 저가 매수가 유입되며 마이크론과 마벨 기술이 각각 7%대 급등세를 나타냈다.",
+          "AI 반도체주 저가 매수세에 힙입어 샌디스크가 16% 폭등했고 앤스로픽 관련 선물 지수도 11% 크게 올랐다.",
+          "금리 인상에 대한 시장의 우려가 잔존함에도 나스닥 선물이 2% 이상 올라 기술주 장세 재개 신호를 보였다.",
+          "주가가 과도하게 조정받았다는 인식이 확산되면서 AI 및 반도체 밸류체인 전반으로 저가 매수 자금이 대거 몰렸다."
         ],
         "watch": [
-          "앤스로픽 공모가 상회 유지 여부",
-          "글로벌 AI 기업 간 모델 성능 경쟁",
-          "서학개미의 AI 유망주 매수세 지속성"
+          "마이크론 및 샌디스크 등 메모리주 연속 상승",
+          "금리 인상 가능성 관련 주요 통화지표 발표"
         ],
         "qna": [
           {
-            "q": "앤스로픽 주가가 10% 급등하며 공모가를 넘어서게 만든 시장 내 저가 매수세의 작동 원리는 무엇인가?",
-            "a": "최근 AI 종목들의 주가 조정 과정에서 앤스로픽의 기술적 가치가 과도하게 저평가되었다는 인식이 확산되었다. 이에 따라 나스닥 반등 흐름과 맞물려 매수세가 집중되면서 공모가를 단숨에 돌파했다."
+            "q": "마이크론, 샌디스크 등 반도체 종목으로 저가 매수세가 대거 몰린 주요 배경은 무엇인가?",
+            "a": "최근 가격 조정으로 인해 주요 반도체 기업들의 주가가 기술적으로 과매도 구간에 진입했다는 평가가 우세했기 때문이다. AI 반도체 수요 자체는 건재하다는 판단 아래 저가 매수 자금이 선제적으로 들어왔다."
           },
           {
-            "q": "앤스로픽의 주가 급등이 AI 산업 밸류체인 내 타 스타트업 및 빅테크 기업에 미치는 파급 효과는 무엇인가?",
-            "a": "비상장 및 신규 상장 AI 기업들의 기업가치 밸류에이션 산정에 긍정적인 기준점을 제공한다. 또한 빅테크 기업과의 AI 모델 개발 경쟁 및 자원 투자 확대를 자극하는 유인이 된다."
+            "q": "반도체주 7~16% 폭등세가 글로벌 AI 공급망 및 국내 증시에 어떤 연쇄 영향은 무엇인가?",
+            "a": "마이크론과 샌디스크 등 메모리 및 서버 관련 반도체 기업들의 주가 급등은 한국 등 반도체 수출국 증시에 강력한 호재로 작용한다. 국내 반도체 대형주로 외국인 수급이 재유입되며 증시 전반의 상승을 자극한다."
           },
           {
-            "q": "앤스로픽 주가의 급등세가 단기 반등에 그치지 않고 유지되기 위한 실적 분기점은 무엇인가?",
-            "a": "차세대 AI 모델의 상용화 매출 성과와 유료 구독자 및 기업 고객 확보 속도다. 대규모 서버 인프라 비용을 감당할 수 있는 수익 모델 구축이 입증되어야 주가 안착이 지속될 수 있다."
+            "q": "반도체 저가 매수세가 일시적 반등을 넘어 장기 상승 추세로 안착하는 분기점은 무엇인가?",
+            "a": "금리 우려 완화와 함께 차세대 메모리 및 AI 반도체 칩의 실제 출하량 수치가 지속 증가해야 한다. 수급 개선과 더불어 글로벌 빅테크 기업들의 투자 집행이 지속되는지가 핵심이다."
           }
         ]
       },
-      "미 연준 금리인상 우려": {
-        "headline": "미 연준 12월 금리 인상 우려 재부각",
+      "앤스로픽 11% 폭등": {
+        "headline": "앤스로픽 11% 폭등에 나스닥 주간 6.7%↑",
         "facts": [
-          "미 연준이 오는 12월 기준금리를 25bp(0.25%p) 인상할 수 있다는 전망이 나오면서 통화 긴축 우려가 다시 부각되었다.",
-          "금융권에서는 연준의 금리 인상 중단 및 내년 금리 인하 전환에 대한 확신이 약해지고 있다는 분석이 제시되었다.",
-          "시장에서는 AI 거품론보다 연준의 추가 긴축 조치가 금융 시장에 더 큰 위협으로 작용할 수 있다는 경계감이 확산되었다.",
-          "일각에서는 연준의 긴축 우려가 과도하다는 시각도 존재하나 고금리 장기화에 대비한 금 강세 전망 등이 이어졌다."
+          "AI 핵심 기업인 앤스로픽 주가가 11% 폭등하면서 뉴욕증시 기술주 전반의 강한 랠리를 주도했다.",
+          "앤스로픽 급등과 기술주 강세에 힘입어 나스닥 지수는 주간 기준 6.7% 상승하며 4년 만에 최고의 한 주를 기록했다.",
+          "뉴욕증시와 서울 증시가 동반 급등하는 모습을 보이며 글로벌 자산 시장 전반으로 온기가 확산되었다.",
+          "한편 미 공군 컴퓨터 시스템 해킹으로 민감 군사 정보 유출 가능성이 제기되는 등 보안 불안도 공존했다."
         ],
         "watch": [
-          "연준 12월 FOMC 기준금리 결정",
-          "미국 물가지표(CPI, PCE) 및 고용 보고서",
-          "금리 인상 우려에 따른 국채 금리 변동"
+          "앤스로픽 등 독점적 AI 기업 주가 추이",
+          "미 공군 해킹 사태 여파 및 보안 관련 정책"
         ],
         "qna": [
           {
-            "q": "증시 반등 흐름 속에서도 연준의 12월 25bp 금리 인상 우려가 지속되는 역설적 원인은 무엇인가?",
-            "a": "기술주 저가 매수세로 주가는 반등했으나 강한 경제 지표와 물가 상방 압력이 연준의 인플레이션 목표치 달성을 방해하고 있기 때문이다. 이로 인해 시장의 금리 인하 기대감이 후퇴하고 추가 인상 가능성이 대두되었다."
+            "q": "앤스로픽이 11% 폭등하며 나스닥 주간 6.7% 상승을 이끌어낸 핵심 원동력은 무엇인가?",
+            "a": "AI 대표 종목인 앤스로픽에 투심이 쏠리며 관련 생태계 전체의 평가 가치가 동반 상승했기 때문이다. 이에 힘입어 나스닥은 주간 6.7% 상승해 4년 만에 최고 주간 성과를 올렸다."
           },
           {
-            "q": "미 연준의 금리 인상 가능성 제기가 글로벌 자산 시장 및 원자재 시장에 미치는 파급 경로는 무엇인가?",
-            "a": "고금리 장기화 우려로 달러화 강세 압력이 커지고 위험자산 선호 심리가 위축된다. 동시에 안전자산 선호 심리가 작용하면서 안전자산인 금 선물 가격이나 원자재 가격 변동성이 확대되는 경로로 이어진다."
+            "q": "앤스로픽의 급등 및 뉴욕·서울 증시 동반 랠리가 자산 시장 전반에 어떤 파급 효과를 가져오는가?",
+            "a": "뉴욕과 서울 증시가 함께 급등하며 글로벌 투자자들의 위험자산 선호가 완전히 살아났다. AI 산업 전반에 대한 자금 유입이 가속화되고 기술주 전반의 밸류에이션 리레이팅이 나타났다."
           },
           {
-            "q": "연준의 통화정책 기조가 다시 완화로 돌아설 수 있는 결정적 조건 및 시장 분기점은 무엇인가?",
-            "a": "미국 노동 시장의 과열 양상 진정과 함께 소비자물가지수(CPI) 등 핵심 인플레이션 지표의 뚜렷한 하향 안정세 확인이다. 물가 상승세가 둔화되지 않을 경우 금리 인상 기조 완화는 연기될 수밖에 없다."
+            "q": "AI 랠리의 지속성을 결정지을 향후 주요 분기점은 무엇인가?",
+            "a": "폭등한 AI 모델 개발 기업들의 실제 수익화 능력과 서비스 확산 속도가 관건이다. 아울러 미 군사 정보 유출 등 해킹 악재가 관련 IT 기술주 심리에 미칠 악영향을 제어하는지가 중요하다."
           }
         ]
       }
     },
     "news": {
-      "코스피 코스닥 동반 급등": [
+      "개인정보 유출 잇따라": [
+        {
+          "title": "올리브영도 뚫렸다…유통업계 개인정보 유출 잇따라 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWdDAtbm9ZYmRJczBLYXFkLVZwNVJ5eDZUOGlYV1hqdFpGMm1HbU0tNTNQRW5lR0NPS1hkWTFzcXpGaWxFdDRMcFBPY0MzQlhCWnZod2p3?oc=5",
+          "source": "매일경제",
+          "published": "11-27 10:54",
+          "snippet": "올리브영도 뚫렸다…유통업계 개인정보 유출 잇따라 매일경제 올리브영 “해킹으로 고객 등 790명 정보 유출” KBS 뉴스 정보 240만건 유출된 올리브영...'인증 밖' 시스템 뚫렸다 - 머니투데이 머니투데이 올리브영 전산망 보안 뚫렸다…개인정보 790명분 외부 유출 제민일보 CJ올리브영, 업무시스템 해킹으로 임직원·고객 개인정보 유출 연합뉴스"
+        },
+        {
+          "title": "개인정보 유출신고 10월까지 1019건…긴급 대응체계 가동 - 대한민국 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KM28zQWN3elVWX052RmZBbVF5ZnVuWmc2a24wZmw0X0ZDOUFZTEttMXlJa3gySFNyXzhyZ2Eya2ZXc2F4Zk5NRWtleE1DemxwQzJSdXgzQzN0Y0h6Snp4RWduYzNhbFlUZlFNNA?oc=5",
+          "source": "대한민국 정책브리핑",
+          "published": "11-27 21:19",
+          "snippet": "개인정보 유출신고 10월까지 1019건…긴급 대응체계 가동 대한민국 정책브리핑 청와대 국가안보실, 금융당국 소집 해킹 2차 피해 방지 점검 KBS 뉴스 월평균 100건, AI 해킹 위협 현실화…개보위 \"AI 방어는 투자 필요\"(종합) - 머니투데이 머니투데이 정부, 해킹 유출 계좌·카드 정보 FDS 신속 등록…AI 보이스피싱 탐지 가동 경향신문 안보실, 해킹발 금융범죄 차단 총력…AI 기반 이상거래 감시 강화 제민일보"
+        },
+        {
+          "title": "인터넷우체국 개인정보 털렸다...하루치만 11만명 넘게 유출 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa1JQMy1vbDhFRWQ4dVdtc3hMSy1zSVFNOWJGTmJ6UFNlaGxqQWVESlU1WGxNVjY4QkRJNUF6M2FPejlod2xRVHlKVnNkelg3b1BjYXNiOWdjNjNSUFZGQnpkYVEyZEpKakZyYkdvZHZjcDEzaWFyMmt0Z2FVNUwtRmxKYw?oc=5",
+          "source": "조선일보",
+          "published": "11-28 00:59",
+          "snippet": "인터넷우체국 개인정보 털렸다...하루치만 11만명 넘게 유출 조선일보 인터넷우체국 해킹으로 개인정보 유출…하루치만 11만3천여명 연합뉴스 우체국도 해킹으로 개인정보 유출…등기우편 수취인 11만여명 경향신문 우체국 온라인 서비스 보안 뚫렸다…11만명 넘는 고객정보 노출 제민일보 우체국 등기우편 개인정보 해킹 유출…'배송비 결제' 사칭 주의 이데일리TV"
+        },
+        {
+          "title": "\"공제회도 뚫렸다\"…과기공, 해킹 공격에 개인 정보 유출 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xQnN5TGVrRmtfZnd0MzlxeGdzXzF2VmNuTWc1dGtQb0FXcHFkMThuazQxX3VNbmdHTUgyQWtTSFdkTjd5OG55YTBZQ0NRd0g2VmtEUTJyazJqQkFnMEJydUxLRDA5UXRMZ19kNVdEWE4?oc=5",
+          "source": "연합인포맥스",
+          "published": "11-27 09:38",
+          "snippet": "\"공제회도 뚫렸다\"…과기공, 해킹 공격에 개인 정보 유출 연합인포맥스 과학기술인공제회 해킹…주민번호·직장·직급까지 회원정보 21만건 유출 경향신문 과학기술인공제회, 서버 보안 취약점 악용 해킹으로 회원 개인정보 유출 보안뉴스 20만 과학기술인 개인정보 유출…공제회 전 회원 피해 추정(종합) 연합뉴스 과학기술인 21만명 정보 털렸다…해킹 알고도 열흘 뒤 공지 마켓인"
+        },
+        {
+          "title": "실적 발표 앞둔 넷스코프(NTSK), 월가 눈높이 상향 잇따라 - 인포스탁데일리",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XWWZ2dFh6TmpXTFc4RHZONm1FOV90c2hQN1YxYThDUjM2VnFNMXB3TWlVZVZXeVZMVEtOMjRKZHRfU3Foc0k3YjVwdVZHY0J1TEJyOGh6bFJyU1NwQk5lcU1aX0lLSjd1elpWSEJIZ2RITEdRWVE?oc=5",
+          "source": "인포스탁데일리",
+          "published": "11-27 16:30",
+          "snippet": "실적 발표 앞둔 넷스코프(NTSK), 월가 눈높이 상향 잇따라 인포스탁데일리"
+        },
+        {
+          "title": "수협은행도 고객 54명 개인정보 유출, 금융권 침해사고 잇따라 - 데일리시큐",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5dEYtUVdvbEVBUHViaDgzYmdnVmJxNVVWazBLUDYzODRtcmhTU3hBZmEzNUpkU3BkN0ZnejZsZHdSVUN4RE1uVkYyMzd0TklWMnYxV0hWR2JCUkxCX1o1ajlNamtLbHZ5bDhQbw?oc=5",
+          "source": "데일리시큐",
+          "published": "11-27 13:37",
+          "snippet": "수협은행도 고객 54명 개인정보 유출, 금융권 침해사고 잇따라 데일리시큐"
+        }
+      ],
+      "코스피 동반 급등": [
         {
           "title": "코스피·코스닥 동반 급등…외국인 순매수 - KBS 뉴스",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KWmpJNDZVZVBFWDBETjVpR0FaOXprVFdnSWtHSnFoOFBMQ2dMS2lNc01pQWtSeG5HUG5qa1AySVVtVGxrZHJkVG1fRTY2MTl0N3VPc2laMnVtTkk?oc=5",
           "source": "KBS 뉴스",
           "published": "11-27 19:44",
-          "snippet": "코스피·코스닥 동반 급등…외국인 순매수 KBS 뉴스 코스피·코스닥 급반등, 삼성전자 16만 원대의 진짜 의미는? 네이버페이 머니스토리 배당금·증권시장안전펀드 투입 기대감에 불기둥 올린 증시 YTN \"코스닥 8%, 코스피 4% 쭉쭉\" 증안펀드 기대, 외인도 올라탔다 - 머니투데이 머니투데이 [연합뉴스 이 시각 헤드라인] - 18:00 연합뉴스"
+          "snippet": "코스피·코스닥 동반 급등…외국인 순매수 KBS 뉴스 배당금·증권시장안전펀드 투입 기대감에 불기둥 올린 증시 YTN “오래 기다렸죠?” 돌아온 외국인…삼전닉스 내다팔더니 ‘이것’ 샀다 매일경제 마켓 \"코스닥 8%, 코스피 4% 쭉쭉\" 증안펀드 기대, 외인도 올라탔다 - 머니투데이 머니투데이 [연합뉴스 이 시각 헤드라인] - 18:00 연합뉴스"
         },
         {
           "title": "코스피 4%·코스닥 8% 급등…증안펀드 기대감 - 연합뉴스TV",
@@ -700,116 +710,86 @@
           "snippet": "코스피 4%·코스닥 8% 급등…증안펀드 기대감 반영됐나 한겨레"
         },
         {
-          "title": "엔비디아발 'AI 조정' 잦아드나…코스피·코스닥, 급등 마감(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9veUI5eUJaOWYzLTV3UlR6TkVxbXVTZzJuV2N3cXN4VXBjMkVsUTFJRmZZZnY0Q1BmdW5mWS1OY0kzd0IzRHAzeEhoREpzQ2o1SlZDNE9PdHhweFHSAWBBVV95cUxNcFlWOFJMSkpDWWJ5aTV1SFpHYVU4aDlUOTl1VGZFR0VscHdBZVhSb1V3X2hTVjBGLTlFc1RWUmJ2V25Jc0VabWplT3hHNHlKMTJvckVTbGxMZDE4RVlnQWg?oc=5",
+          "title": "코스피, 4%대 올라 4,900 탈환...코스닥, 8.1% 급등 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiN05fMENwQzk0bXpZdnlFNUlIeDgzRV9nbl9xQm1xTlh1Z1pHOGt2VkFjWF81cjd5SXN0dm1SOUprd3p4dmdCeDJzc2dXUkw1QUtRd2xmSGtOOE1tWmllbXRyZXIwR0lHRTJoLXU4dw?oc=5",
+          "source": "YTN",
+          "published": "11-27 16:34",
+          "snippet": "코스피, 4%대 올라 4,900 탈환...코스닥, 8.1% 급등 YTN"
+        },
+        {
+          "title": "[증시-마감] 돌아온 외국인…코스피 兆단위 순매수에 4.3% 급등 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80bHZ0YkFhTjV2MDJrRlJ4eHoxQTRoaWF4bDBmaDFDcDc5OFJLZmZHV2FYV1VOZlZPZWJZZTQ1WHktNG9BUy14c2xxUms0TW9HcEhfOFZtY0V5VTNud19LZ1F2d2xsbnVpaW1sUFRQdXc?oc=5",
+          "source": "연합인포맥스",
+          "published": "11-27 16:14",
+          "snippet": "[증시-마감] 돌아온 외국인…코스피 兆단위 순매수에 4.3% 급등 연합인포맥스"
+        },
+        {
+          "title": "코스피 4.3% 상승 4,900선 회복…코스닥 8%대 급등 700선 탈환(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HUndHT3pvSWlvcVUtYXoxalVncFVFUzFoX0VIRVFjVG90RERfT2NURmhSS1JpWC0tSTNuUzk2d3JER3prWGRjSjJocXJzRUVHSW95Y0E4NDNsUTBJUzVEZdIBYEFVX3lxTE9HUndHT3pvSWlvcVUtYXoxalVncFVFUzFoX0VIRVFjVG90RERfT2NURmhSS1JpWC0tSTNuUzk2d3JER3prWGRjSjJocXJzRUVHSW95Y0E4NDNsUTBJUzVEZQ?oc=5",
           "source": "연합뉴스",
-          "published": "11-27 16:35",
-          "snippet": "엔비디아발 'AI 조정' 잦아드나…코스피·코스닥, 급등 마감(종합) 연합뉴스"
-        },
-        {
-          "title": "코스피, 4,900선 탈환...코스닥 8% 급등 마감 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tZkpMQzBQTE5RNWx3aFZYakE1QXJTMWwzUkE4WWtFcE1XTFZGcWNFTVNrcU15N2pVSlRXME5XN1lTckpzUkVxa1ZkTDFRamlNekZkQmFJM1dCUmxTMEI4am9ZRjJiOHJfeXNSSXJ5VQ?oc=5",
-          "source": "YTN",
-          "published": "11-27 16:06",
-          "snippet": "코스피, 4,900선 탈환...코스닥 8% 급등 마감 YTN"
-        },
-        {
-          "title": "코스닥 8% 급등 마감...코스피도 4,900선 회복 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XZG5OTkZBZl9LTnIwU05aMGp1dURrV3FqdGU2TEVnZjQxM2gwaUpGSzhYd2xBSDdNT01TazVxRmdVWmVMX1Iyam1jdjZ6Z3lXaTBiVGlta19LcEhMem5iY3BiRHR5LTIyTlh4blNScE9lcW04V2c?oc=5",
-          "source": "YTN",
-          "published": "11-27 15:37",
-          "snippet": "코스닥 8% 급등 마감...코스피도 4,900선 회복 YTN"
+          "published": "11-27 16:08",
+          "snippet": "코스피 4.3% 상승 4,900선 회복…코스닥 8%대 급등 700선 탈환(종합) 연합뉴스"
         }
       ],
-      "삼성전자 대규모 배당": [
+      "통상 불확실성 확대": [
         {
-          "title": "삼성전자, 오늘 30조 배당…이재용 회장 4488억 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42ZXJ1alF4TGNiUWlSTTZYbnVEaXVKZVFITTN0RXpCaUM0MFJfbkZ1OGRycm9sclRQVE9JbW1vMGUxRC11Ui1jRlkwVUtEMTRFel8tWUs5NlA4RTY5ZnF1aERIUlNxZnVZR0E?oc=5",
-          "source": "한겨레",
-          "published": "11-27 13:50",
-          "snippet": "삼성전자, 오늘 30조 배당…이재용 회장 4488억 한겨레 내 계좌엔 얼마 들어올까? 역대급 배당금 쏘는 삼성전자 네이버페이 머니스토리 삼성전자 30조 ‘역대급’ 배당···이재용 회장, 한 분기에만 4488억 수령 경향신문 ‘입금되셨죠?’ 삼전 30조 배당…다음달엔 하닉 14조 쏜다 JTBC “133% 올라야 겨우 본전”…160층에 갇힌 개미들, SK하닉 10%는 248층 전자신문"
-        },
-        {
-          "title": "[환율 전망] 삼성전자 배당에 대한 외국인 역송금 경계 - KB Think",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53MGI3VGVWWGIyeGxVSTZZdUlLRXMyQnVJU0RrbWcxNG4ydVpSZG5MVUFmcHhITllDeHFZSGpsTU9tcmgxRWMyOWczZGtDTmpYeW1uVGU4QTRFUmZsOXNhYw?oc=5",
-          "source": "KB Think",
-          "published": "11-27 08:46",
-          "snippet": "[환율 전망] 삼성전자 배당에 대한 외국인 역송금 경계 KB Think 원/달러 환율, 증시 반등·월말 네고에 하락…1,337.9원 연합뉴스 달러-원, 뉴욕장서 1,330원 중반대 거래 연합인포맥스 코스피 주저앉았는데 환율은 잠잠…금융위기 때와 다른 이유 뉴시스 주가↑· 환율↓…달러·원 환율, 원화 강세에 1337.9원 마감(종합) 뉴스1"
-        },
-        {
-          "title": "내 계좌엔 얼마 들어올까? 역대급 배당금 쏘는 삼성전자 - 네이버페이 머니스토리",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXRlBHOHpxOTVUYk5waVAxTkNRTHQ0UmxQVlJybXdnUU5HU0tQVWo5QWFTd0Nna3V1QUR2SnJRV2tHVUFkSlA4aS1taWRqVG0wdEE?oc=5",
-          "source": "네이버페이 머니스토리",
-          "published": "11-28 03:55",
-          "snippet": "내 계좌엔 얼마 들어올까? 역대급 배당금 쏘는 삼성전자 네이버페이 머니스토리"
-        },
-        {
-          "title": "머스크도 애타는 삼성전자 반도체…이재용 \"뭘 더 해줄 수 있나?\" - 주간조선",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XdGgxYW9KckQ1VjNISFBDcmtKYkNobXJVcDdELXY3YjlVWUNqbFBDZmRrbkdMdzN1SXJEdmM3WS0zOWxmWGZPVVhwaGxQcmtXQjNRTkxuRXQzTF9hb19OdTJyZm8yZWV1MDA0?oc=5",
-          "source": "주간조선",
-          "published": "11-27 02:59",
-          "snippet": "머스크도 애타는 삼성전자 반도체…이재용 \"뭘 더 해줄 수 있나?\" 주간조선 “머스크 ‘삼성전자 칩 장기구매’ 제안에···이재용 ‘뭐 더 해줄 건데’” 경향신문 \"이재용, '반도체 장기구매할게' 머스크에 '그럼 뭘 해줄건데'\" 연합뉴스 삼성전자·SK하이닉스 장기공급계약 '물음표'…장부에 받은 돈이 없다 연합인포맥스 반도체 확보에 선금까지…마이크론·삼성·SK하이닉스, 수년치 물량 선점 경쟁 제민일보"
-        },
-        {
-          "title": "코스피·코스닥 급반등, 삼성전자 16만 원대의 진짜 의미는? - 네이버페이 머니스토리",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YZ0Jmam5XZ0VEQ0tibU1jSTV2cTEwd1gzQS1GVXUzUW9ldVljT2VxU0hnMGNfRG5rdjRSYl9kOE5fbjhPOVFYVkNEUjZ0YXhpb2pkY1VHZzN0UQ?oc=5",
-          "source": "네이버페이 머니스토리",
-          "published": "11-27 20:11",
-          "snippet": "코스피·코스닥 급반등, 삼성전자 16만 원대의 진짜 의미는? 네이버페이 머니스토리"
-        },
-        {
-          "title": "코스피·코스닥 동반 급등…외국인 순매수 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KWmpJNDZVZVBFWDBETjVpR0FaOXprVFdnSWtHSnFoOFBMQ2dMS2lNc01pQWtSeG5HUG5qa1AySVVtVGxrZHJkVG1fRTY2MTl0N3VPc2laMnVtTkk?oc=5",
-          "source": "KBS 뉴스",
-          "published": "11-27 19:44",
-          "snippet": "코스피·코스닥 동반 급등…외국인 순매수 KBS 뉴스 코스피·코스닥 급반등, 삼성전자 16만 원대의 진짜 의미는? 네이버페이 머니스토리 배당금·증권시장안전펀드 투입 기대감에 불기둥 올린 증시 YTN \"코스닥 8%, 코스피 4% 쭉쭉\" 증안펀드 기대, 외인도 올라탔다 - 머니투데이 머니투데이 [연합뉴스 이 시각 헤드라인] - 18:00 연합뉴스"
-        }
-      ],
-      "국내은행 이자이익 최대": [
-        {
-          "title": "국내은행 1∼3분기 이자이익 또 역대 최대치…“대출확대·금리인상 영향” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzMUdhS01TU0JHWk0wQzFDNmFkSXpKcFhZSnN1SlM1MmZJM3RjcGpJbWI0OG1EQ2h2anlRLUhiMTFLbkhTMm05TENKTHhzVFpmaUtxOWx6WUhPVklIS1FwM3ZhZTNqbkE?oc=5",
-          "source": "한겨레",
-          "published": "11-27 07:24",
-          "snippet": "국내은행 1∼3분기 이자이익 또 역대 최대치…“대출확대·금리인상 영향” 한겨레 늘어난 대출에…은행 3분기까지 이자이익 48조원 넘었다 경향신문 은행권 3분기 누적 순익 시중은행 6% 늘고 지방은행 11% 감소 - 머니투데이 머니투데이 국내은행 3분기 누적 순이익 21조5천억으로 2% 증가, 이자이익 늘고 유가증권은 손실 비즈니스포스트 은행, 이자이익 늘었지만…유가증권 손실에 순익 막혀 스트레이트뉴스"
-        },
-        {
-          "title": "국내은행 이자이익 48조 ‘역대 최대’…지방은행은 순이익 감소 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ua0EwZlFvdllVRHpGUG9rZWZaemxJbElxUUNJTmNaNXVaelZaODJOQ3pmZ1J3dTV1Z21Yd1plVWxGQVhoY2N5elo4al9BSVB0dmpkVQ?oc=5",
-          "source": "매일경제",
-          "published": "11-27 10:42",
-          "snippet": "국내은행 이자이익 48조 ‘역대 최대’…지방은행은 순이익 감소 매일경제"
-        },
-        {
-          "title": "국내은행 이자이익 48조4천억원, 1~3분기 기준 역대 최대… 연체율도 함께 올랐다고? 🏦 - 뉴닉",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NaTZXTWNYTkxENG9sQ1ZjOGtMakpQb1preU9hMTdPcGV2TWc5ellpLWlUOFZJNDMxQXVwMVk4eDhGYURCZVRJUlB1VGpoU0syRTlr?oc=5",
-          "source": "뉴닉",
-          "published": "11-27 12:21",
-          "snippet": "국내은행 이자이익 48조4천억원, 1~3분기 기준 역대 최대… 연체율도 함께 올랐다고? 🏦 뉴닉"
-        },
-        {
-          "title": "국내은행 이자이익 48조 4천억…역대 최대 - 미디어스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xXzkzX251T01uTWdPMU9wcFNHVkwtTFh0SHFOemo0bFJtRFgzNjRWenpEbGstUXQ1OW5wSFlCNVhra0lLZVhGbDd3RnJraEZGZWgzOExZUHFCSFZJbGZMR0lHeXp6dW5fa3I1c9IBcEFVX3lxTE9ZbTZEcWtiUVRUV3NvcDlZbnp6ZUd4VWdiM1lfTkE0d2VBSWRtZ1V6a1AwSzljTEJlMkRaQU8tdUpKaUVScERSWTVZRXk5bllhbDhCV1NvQklfUlZIYkx1Vm9oaGxqb0ZqMVRvMjc5b0s?oc=5",
-          "source": "미디어스",
-          "published": "11-27 10:14",
-          "snippet": "국내은행 이자이익 48조 4천억…역대 최대 미디어스"
-        },
-        {
-          "title": "국내은행 이자이익 역대 최대…1~3분기 48.4조 - 한국NGO신문",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QN1F3cGFERTRtYnNIMlRWQ1lkY3NmNjF1LWNkUEtnd0FHLVpQdzZIOTlHdy0tMjJxaDE4cGI4QzRGYlNocjJCZlVrU2phRzktcTNSdjdaVkg3TXZOOWhlaVFMNXgtbEFD?oc=5",
-          "source": "한국NGO신문",
+          "title": "재계 \"美 중간선거 뒤에도 통상 불확실성\"…지원책 요구 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Oa2R2Ty1ja3pYdkcyWDQwVy1JeUVIWkNyWFNFdTBGV1pMdkh6OTdiLTh5WEU5OXJ6Mnp1Q0M3SkpYNUxEU1duV1FEVDhIcTZhMDQ4akxiNy1aQnUtU2RhZksxRTY?oc=5",
+          "source": "연합뉴스TV",
           "published": "11-27 08:10",
-          "snippet": "국내은행 이자이익 역대 최대…1~3분기 48.4조 한국NGO신문"
+          "snippet": "재계 \"美 중간선거 뒤에도 통상 불확실성\"…지원책 요구 연합뉴스TV 미국 중간선거 뒤에도 통상 불확실성…기업들, 정부 지원책 요청 연합뉴스 통상 불확실성 여전…반도체 업계 “美 투자세액공제 연장 필요” 마켓인 재계 “美 투자세액공제 유지·EU 무역장벽 대응 필요” 전자신문 \"美 중간선거 이후 연방보다 '주정부' 공략해야\"…대한상의, 통상전략 점검 뉴시스"
         },
         {
-          "title": "은행 1~3분기 이자이익 48.4조원 ‘역대 최대’…순이익 21.5조원 - 서울이코노미뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02ZFNIbzFJNFNTUFdIenRJN0UxX0c1cXFwVVVLMFhfU05NeExrb0duX0lPVUxWR3FYYXFORlFSN1VqUGJGdE02bmpjYld1NHQ3REpCWWs0ZnZIbGdWZGhTanE1TGx4ZFRPTk9RbUZn?oc=5",
-          "source": "서울이코노미뉴스",
-          "published": "11-27 10:40",
-          "snippet": "은행 1~3분기 이자이익 48.4조원 ‘역대 최대’…순이익 21.5조원 서울이코노미뉴스"
+          "title": "한중일, AI 불확실성 속 경제동향 공유…재경부 \"협력 중요\" - 한국무역협회-KITA.NET",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZTRDVmRwRS1ESkcyOXdOdnE4ZkN0TUxRemJjMEJBdTN6RzRSUzJFU0VOeXZSVm5xQUVnTGE4T0NUTlZ6SjVRelhOS2YyQlVnbkVNVFA4b3dvbW1IYlRXeDMxc1ZkcE1PWTZ0alUwNmE2RkEtSTJSUkJjcU5qeXg2cFBURmhMQ1ozZDZzZXdwbGZfUFFpMVNpT0U1SDRHOG9wdXNTbHY3U0hQbmNYVDM3UTNfekRUa3VscU5BSUgxQ3l0YUJCamVjUmpvbmZqb2YwU29XZUJn?oc=5",
+          "source": "한국무역협회-KITA.NET",
+          "published": "11-27 13:07",
+          "snippet": "한중일, AI 불확실성 속 경제동향 공유…재경부 \"협력 중요\" 한국무역협회-KITA.NET Google 뉴스에서 헤드라인 및 의견 더보기"
+        },
+        {
+          "title": "미국 중간선거 뒤에도 통상 불확실성…기업들, 정부 지원책 요청 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4Q2xsbVJZSHA2YmZVWXNacE9kSzdES25uVEJCOVk3YmlORnBBUEdIQjZIZElFUUdXZ1NiNmc4VzlNV202OHRzTlhqcTNHSS1fYW9xbFZ6Rjdnb2lpeXlta9IBYEFVX3lxTFB4Q2xsbVJZSHA2YmZVWXNacE9kSzdES25uVEJCOVk3YmlORnBBUEdIQjZIZElFUUdXZ1NiNmc4VzlNV202OHRzTlhqcTNHSS1fYW9xbFZ6Rjdnb2lpeXltaw?oc=5",
+          "source": "연합뉴스",
+          "published": "11-27 07:30",
+          "snippet": "미국 중간선거 뒤에도 통상 불확실성…기업들, 정부 지원책 요청 연합뉴스"
+        },
+        {
+          "title": "경제금융수장들 \"글로벌 AI 불확실성에 증시 변동성 확대...대응태세 유지\" - 파이낸셜신문",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tME1WblVSWjZLeTVydVlxeWxDMjNKR2VOcEhwWl9MZUhNNUg5Z2pHcGVyM0RzcU42NktSXzdXSDBmLUE1NXZtc0FDMW0wa1B6Tm1iSUt0TXlYaGxUZkZXVmxKc0NJdEwxRE5B?oc=5",
+          "source": "파이낸셜신문",
+          "published": "11-27 14:50",
+          "snippet": "경제금융수장들 \"글로벌 AI 불확실성에 증시 변동성 확대...대응태세 유지\" 파이낸셜신문"
+        },
+        {
+          "title": "美 중간선거 후에도 통상 불확실성…기업들 \"세액공제 유지 필요\" - 더파워",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83XzRRaHJyTHFIc2pZT09jNllWLW0xZzRUcHJ4RHYzY28zTVFJY1R0UThjMWVON0ZGUnBIaHZSNDZTamRiSmhrSWNQZXl1Nl9BWVQtWGNlb0lrWW1qOGNXUWRDNWxIZUozclAzYzF4SGppNjFaS29yLU9STV80Zw?oc=5",
+          "source": "더파워",
+          "published": "11-27 09:23",
+          "snippet": "美 중간선거 후에도 통상 불확실성…기업들 \"세액공제 유지 필요\" 더파워"
+        },
+        {
+          "title": "[초점] '대미 흑자 2배', 부메랑되나…美 통상압박에 K-산업·반도체 투자 '비상' - 뉴시안",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fNlBKajRhUlBtNTdaS0dGRDRJcHl5THpBVWdMYVZVSDVPd3VtbXdkby1Yb0hPT0cxZF8taGdVdHVvNGowTXJGMmZ4RjA1RC11TF9PZ1lzWnlvckxVNFVfNk8zZl9XOE5iRWt0VQ?oc=5",
+          "source": "뉴시안",
+          "published": "11-27 07:05",
+          "snippet": "[초점] '대미 흑자 2배', 부메랑되나…美 통상압박에 K-산업·반도체 투자 '비상' 뉴시안"
         }
       ],
       "뉴욕증시 기술주 반등": [
+        {
+          "title": "AI 투자 우려 속 기술주 반등…나스닥 2.3% 상승 [뉴욕증시] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52cEZ1OTRDdVh5Qm1oaF9VbnpIbDJwcnJfT25SUElHXzMxeTlBb2dxMkZ0U0NZUF9Fc0VUdzBvTmZfMGlYV0NrQUZYc0RaV05qRW1GQ2JoOGhFZw?oc=5",
+          "source": "한국경제",
+          "published": "11-28 07:11",
+          "snippet": "AI 투자 우려 속 기술주 반등…나스닥 2.3% 상승 [뉴욕증시] 한국경제"
+        },
+        {
+          "title": "뉴욕증시, AI·기술주 반등에 일제히 상승 마감‥나스닥 2.3%↑ - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81RXk3eS11MnlVWnZPdGVmTHVRUGl3OW1qczBTNXU2RjBhRDVMOGZwN2xCanI2bXBYTUdIZENnRkF6V3RCN1JScFAwYkl0ZHVpQ2htSThILWF6ZDhtVW9GdGZ1aUZ3Sy1OTzVTUTRkb1pqcXg20gF0QVVfeXFMTmtUYm9XQlJ5RHp0Z001RGtiR0JKYXJMbl9yNWZkazBCM0FwektCUy1wbkxvbllObnhyYzdyR05WSUh2WWFuMEp1VXRiV3kxMDJHZS1tcW9nMzRSOWx2ZDY1R3VTVDRjZGQxX0VFWWFoVDlxcVQ?oc=5",
+          "source": "MBC 뉴스",
+          "published": "11-28 05:41",
+          "snippet": "뉴욕증시, AI·기술주 반등에 일제히 상승 마감‥나스닥 2.3%↑ MBC 뉴스"
+        },
         {
           "title": "뉴욕증시, AI·기술주 반등에 일제히 상승…나스닥 2.3%↑(종합) - 연합뉴스",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nYXJjZGVjak5Fd3c5aXdXcEdCLThBUU5xclM5Z09lY2tQby0tXzZOYlcwVkJvRGVGMHZydllSelFvRU01VU9KdE5rei1MMnFlc2hoRDhEdjJUdWNlOU1sRtIBYEFVX3lxTE9nYXJjZGVjak5Fd3c5aXdXcEdCLThBUU5xclM5Z09lY2tQby0tXzZOYlcwVkJvRGVGMHZydllSelFvRU01VU9KdE5rei1MMnFlc2hoRDhEdjJUdWNlOU1sRg?oc=5",
@@ -818,99 +798,34 @@
           "snippet": "뉴욕증시, AI·기술주 반등에 일제히 상승…나스닥 2.3%↑(종합) 연합뉴스"
         },
         {
-          "title": "뉴욕증시, AI·기술주 반등에 일제히 상승…나스닥 2.3%↑ - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ITHBzUVVyQmRWbld0Wng5QWs4d1J1NkFqTnFTdlQzTFEtbUoyLW9wQ3hXeGZhWHpqSGUwOGFpUU5USVB5ak5lcGJ5czQ4QUxqWVdBcU9zbUZkM0ZLR252YdIBYEFVX3lxTE5ITHBzUVVyQmRWbld0Wng5QWs4d1J1NkFqTnFTdlQzTFEtbUoyLW9wQ3hXeGZhWHpqSGUwOGFpUU5USVB5ak5lcGJ5czQ4QUxqWVdBcU9zbUZkM0ZLR252YQ?oc=5",
-          "source": "연합뉴스",
-          "published": "11-28 03:12",
-          "snippet": "뉴욕증시, AI·기술주 반등에 일제히 상승…나스닥 2.3%↑ 연합뉴스"
+          "title": "[오늘의 글로벌마켓] 뉴욕증시, 中 증시 부양 의지 속 기술주 반등 - 오피니언뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zMVpjY29ienZpU3VqTVNIWFhrV21YRzhIendDem5qLUc3c3c1anctR09hRWNnY1Y5aXd0WjJjOTJfS2MzcHBlTWdPRU1Jd0JZbEM5ZXdjYjFTeWFHX3NxRF9EOWZHd0lGX2h3cHNCYkVlQQ?oc=5",
+          "source": "오피니언뉴스",
+          "published": "11-28 08:03",
+          "snippet": "[오늘의 글로벌마켓] 뉴욕증시, 中 증시 부양 의지 속 기술주 반등 오피니언뉴스"
+        },
+        {
+          "title": "뉴욕증시, AI·기술주 반등에 일제히 상승…나스닥 2.3%↑ - 여성신문",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IQlQtQXpyblVnTnFSbUNhSHJtalhTSlpwYnJKQ0NCa3pSb3d3UExEXzRDbmktX1ZVdjRXNFp0VmR0bzNKdDRKWk1mYXg3YXpoZ0psWFRqUHpaR1VpUjYwM3JNaF9PQ3lnZ3VzSS16aFh4QmfSAXNBVV95cUxOSEJULUF6cm5VZ05xUm1DYUhybWpYU0pacGJySkNDQmt6Um93d1BMRF80Q25pLV9WVXY0VzRadFZkdG8zSnQ0SlpNZmF4N2F6aGdKbFhUalB6WkdVaVI2MDNyTWhfT0N5Z2d1c0ktemhYeEJn?oc=5",
+          "source": "여성신문",
+          "published": "11-28 06:47",
+          "snippet": "뉴욕증시, AI·기술주 반등에 일제히 상승…나스닥 2.3%↑ 여성신문"
         },
         {
           "title": "뉴욕증시, 반도체주 반등에 일제히 상승…나스닥 2.3%↑ - KBS 뉴스",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaZGE3LXJwNVpRSHFiOUJvYjBXalpCc2xaRmszNHZXQW9PZEZQeEJCaDdnMS1CLVlLUlIzR0R0TmZXX2p3dVNHaTdOMUttR0lQbEVXT2V6aWhudk0?oc=5",
           "source": "KBS 뉴스",
           "published": "11-28 04:10",
-          "snippet": "뉴욕증시, 반도체주 반등에 일제히 상승…나스닥 2.3%↑ KBS 뉴스"
-        },
-        {
-          "title": "뉴욕증시, AI 관련주 반등에 상승 출발 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6Skt4MFptb0x0Y01TWXIzYUNmcVI3cjZBOEQ1dlJzVGczSC03V3BUWEJoa09ISjl6eG9JN3pFcmIzZEsybnY4bkM2WENoQ0FhdDJscEVzb2V4RjUxTDlCRUI5MFhMOE8zeElncndjU3Q?oc=5",
-          "source": "연합인포맥스",
-          "published": "11-27 23:43",
-          "snippet": "뉴욕증시, AI 관련주 반등에 상승 출발 연합인포맥스"
-        },
-        {
-          "title": "뉴욕 증시, AI·기술주 반등에 상승 마감...필리 반도체 지수 4.69% 급등 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EQ0p2LUc1eS0zc3BmRmkyOTFmOWNVUGdlNk83ZlZudjF4S3FmNnN5aXVKbFhmc0RRMXVzV21WNWtoQ2lmY3hWaVdEaElqbzdERk5QMHVUczBoS0ZJWmc?oc=5",
-          "source": "YTN",
-          "published": "11-28 04:19",
-          "snippet": "뉴욕 증시, AI·기술주 반등에 상승 마감...필리 반도체 지수 4.69% 급등 YTN"
-        },
-        {
-          "title": "AI주 저가매수세, 뉴욕증시 반등…엔비디아 '中 밀반입 의혹' 3%↓ - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiSHdzSy04QV8xY2tIcmZ4STM1M01zc1hFWXZydkp0VVBUc1VFWXpCMm9CSHlXT1NZcHY5MkotV1pwZGJxSnl2MmJjZGR0NzJwdEljZUZMQWt1WllxdmEwcEpBT183elBt0gFuQVVfeXFMTWl5SHF5eW9aODBYZGxFUGdEZVo2d1VWODZhMkFRZ0hGWmNFc1BFTno0YWpOclNuZUl5cDFqU3BIbDJ2OGJaa0YwX1lnT1RmZGRpMmhIdTc3YjRzYTRnMVBDdl9CUVNnd0c4dk1VN2c?oc=5",
-          "source": "머니투데이",
-          "published": "11-28 00:21",
-          "snippet": "AI주 저가매수세, 뉴욕증시 반등…엔비디아 '中 밀반입 의혹' 3%↓ - 머니투데이 머니투데이"
+          "snippet": "뉴욕증시, 반도체주 반등에 일제히 상승…나스닥 2.3%↑ KBS 뉴스 뉴욕 증시, AI·기술주 반등에 상승 마감...필리 반도체 지수 4.69% 급등 YTN 엔비디아 중심으로 기술주 반등 기대…미국 나스닥100 선물 2.47% 급등 제민일보 [딜로이트 글로벌 경제 리뷰] AI 거품 붕괴가 경제에 미칠 영향 가늠하기 By FinancialPost Investing.com 한국어 월마트·코스트코, AI 매도세 속 피난처로 주목 마켓인"
         }
       ],
-      "앤스로픽 주가 급등": [
+      "반도체주 저가 매수": [
         {
-          "title": "[채권-마감] 금리 급등…주가 급등·매파 금통위 재평가 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mS2MwOC1TSVBidWtFZHpLZHRqZ0w5S1lKVmJ2LXVib2ZVV1p1cDNHX01kV09SYlJ5MjNrQ0o4bnRNblVxWThaVjdpQTkydkxEYjFsWVF0NTlfd3lhQ3hpTlhFLUJPTGpZN3owVWp4bmY?oc=5",
-          "source": "연합인포맥스",
-          "published": "11-27 18:45",
-          "snippet": "[채권-마감] 금리 급등…주가 급등·매파 금통위 재평가 연합인포맥스 국고채 금리 대체로 상승…3년물 연 3.685% 연합뉴스 [노현우의 채권분석] 두 내러티브 속 더 굳게 '움켜쥔 손' 연합인포맥스 증시 부진에 내려온 국고채 금리… 증권가 \"다시 반짝 오른다\" - 머니투데이 머니투데이 韓 장기금리, 美·G7보다 더 뛰었다…예정처 \"국채 수급 부담 지속\" 뉴스핌"
-        },
-        {
-          "title": "[서학개미 레이더] 엔비디아 주가 2.4%↑…나스닥 선물 2.68% 급등 - 코인리더스",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8tXzUtczRSVzRrZjNXdHJXZjNTSTZBcTREbUwwcjYxbEtVV1F3NXNWWENxSkF6cXRsaDFDcThzbXdmNlBudlBIbHpn?oc=5",
-          "source": "코인리더스",
-          "published": "11-27 21:17",
-          "snippet": "[서학개미 레이더] 엔비디아 주가 2.4%↑…나스닥 선물 2.68% 급등 코인리더스"
-        },
-        {
-          "title": "앤트로픽, AI株 저가 매수 열기에 10% 급등…공모가 넘겨 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vQU1zeFhRaXVNY3hWN1JlTEZETUozU1czd1ZrR2ExNzVYeHNkU1BnLXhVWWxaa213cXF2SXZhd2huZFVBRllNNVNhTDllSl9VUHhkdldNYmp3M2RsVGVoZlZaeXV0LVp5ZXpaYVhVVHI?oc=5",
-          "source": "연합인포맥스",
-          "published": "11-28 02:14",
-          "snippet": "앤트로픽, AI株 저가 매수 열기에 10% 급등…공모가 넘겨 연합인포맥스 앤스로픽, AI 관련주 반등 속 공모가 회복…주가 10%↑ 마켓인 앤트로픽 IPO로 돈방석 앉은 직원들…美 샌프란 고급 주택값 '들썩' - 머니투데이 머니투데이 오늘 Anthropic, PBC 주가가 오르는 이유는? Investing.com 한국어 우리가 알던 AI를 넘다…‘앤트로픽 웨이브’ [스페셜 리포트] 매일경제"
-        },
-        {
-          "title": "머스크 '100만' 외치자 주가 들썩…한국 개미들 난리 난 이유 [종목+] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ubDkxdjdIc2EtcjExRm9EX0o5RFFtYVFqR0FnWkd5c1FHYnN6ZzFtMUpHSUtNQUIyLUdUUDB2NWJ4UDVVMVg1c0ZIUlZQSkkwMDdjQlJXd25pQQ?oc=5",
-          "source": "한국경제",
-          "published": "11-27 06:30",
-          "snippet": "머스크 '100만' 외치자 주가 들썩…한국 개미들 난리 난 이유 [종목+] 한국경제 일론 머스크, 우주로 향하는 AI 산업…스페이스X 데이터센터 사업 주목 제민일보 ‘우주 데이터센터’ 실현될까…스페이스X 위성 100만기 띄운다 한겨레 2026년 11/26(목) - 데일리포인트 네이버 프리미엄콘텐츠 [특징주] 태양광주, 유가급등·우주 AIDC 기대감 등에 일부 상승(종합) 연합뉴스"
-        },
-        {
-          "title": "코스피·코스닥 동반 급등…외국인 순매수 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KWmpJNDZVZVBFWDBETjVpR0FaOXprVFdnSWtHSnFoOFBMQ2dMS2lNc01pQWtSeG5HUG5qa1AySVVtVGxrZHJkVG1fRTY2MTl0N3VPc2laMnVtTkk?oc=5",
-          "source": "KBS 뉴스",
-          "published": "11-27 19:44",
-          "snippet": "코스피·코스닥 동반 급등…외국인 순매수 KBS 뉴스 코스피·코스닥 급반등, 삼성전자 16만 원대의 진짜 의미는? 네이버페이 머니스토리 배당금·증권시장안전펀드 투입 기대감에 불기둥 올린 증시 YTN \"코스닥 8%, 코스피 4% 쭉쭉\" 증안펀드 기대, 외인도 올라탔다 - 머니투데이 머니투데이 [연합뉴스 이 시각 헤드라인] - 18:00 연합뉴스"
-        },
-        {
-          "title": "SK하이닉스, 자사주 일일 매수 주문량 2배로…주주가치 제고 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00SG5MbVVoeUVXU3YwRnJWdGdHUm4xTm1oOW5MU0hYVU1VMG83WE5wM2lxdGhUOFpkWmFxd0ZWeVYxcWlxYXRPYVRMSkV0b0x2dWQ3QUh0QktZYWfSAWBBVV95cUxQMURjWllvS1l6dXpwbzBRVHFnUDlyZlotcGFwSzhFbnR5SW5tQ1N6Y3ItX283cl92N1ROMEIwS3RBU2E1Z2U1MF9TdWJtLUVmUTFLSmwtMGppUDdMWUFhaDA?oc=5",
-          "source": "연합뉴스",
-          "published": "11-27 20:26",
-          "snippet": "SK하이닉스, 자사주 일일 매수 주문량 2배로…주주가치 제고 연합뉴스 Google 뉴스에서 헤드라인 및 의견 더보기"
-        }
-      ],
-      "미 연준 금리인상 우려": [
-        {
-          "title": "UBS \"연준 긴축 등 시장의 우려 과도\" | - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoank3Zk0wdHNxY2VPSURqdDVwcjVnQzk5OWNRMmd6bF9QY21SMGRUaXJRdFRRSENXcWJrQ0tWeDR6TXZjZm53VmwtcXo5QWwxbWZVdmZBdmt0RWNRLVc4Smp2RnU4V3ZDOTdlYlNfR2hvbVJt?oc=5",
-          "source": "연합인포맥스",
-          "published": "11-27 10:07",
-          "snippet": "UBS \"연준 긴축 등 시장의 우려 과도\" | 연합인포맥스"
-        },
-        {
-          "title": "국내은행 1∼3분기 이자이익 또 역대 최대치…“대출확대·금리인상 영향” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzMUdhS01TU0JHWk0wQzFDNmFkSXpKcFhZSnN1SlM1MmZJM3RjcGpJbWI0OG1EQ2h2anlRLUhiMTFLbkhTMm05TENKTHhzVFpmaUtxOWx6WUhPVklIS1FwM3ZhZTNqbkE?oc=5",
-          "source": "한겨레",
-          "published": "11-27 07:24",
-          "snippet": "국내은행 1∼3분기 이자이익 또 역대 최대치…“대출확대·금리인상 영향” 한겨레 늘어난 대출에…은행 3분기까지 이자이익 48조원 넘었다 경향신문 은행권 3분기 누적 순익 시중은행 6% 늘고 지방은행 11% 감소 - 머니투데이 머니투데이 국내은행 3분기 누적 순이익 21조5천억으로 2% 증가, 이자이익 늘고 유가증권은 손실 비즈니스포스트 은행, 이자이익 늘었지만…유가증권 손실에 순익 막혀 스트레이트뉴스"
+          "title": "뉴욕 증시, 반도체주 저가 매수에 반등…마이크론·마벨 7%대 급등 - 뉴시안",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10UnBkdHF1S3g4eGJpNGF3UHZqM2dpZ0d0SVMzWVFTY3VJMHo1WkZHdTdWLXdlUjhIcmRFeGdrSDF6QU53Z1hMTWR4ZDBNcDE1UlZDRlpwRnM1MlhVaTRNck1JczZJT1RRQ0ExWg?oc=5",
+          "source": "뉴시안",
+          "published": "11-28 06:34",
+          "snippet": "뉴욕 증시, 반도체주 저가 매수에 반등…마이크론·마벨 7%대 급등 뉴시안"
         },
         {
           "title": "뉴욕증시 프리뷰, AI·반도체주 저가 매수에 나스닥 선물 2% 상승…금리 인상 우려 여전 - 뉴스핌",
@@ -920,68 +835,97 @@
           "snippet": "뉴욕증시 프리뷰, AI·반도체주 저가 매수에 나스닥 선물 2% 상승…금리 인상 우려 여전 뉴스핌"
         },
         {
-          "title": "Bernstein “2027년 금 강세 전망…연준 금리 인상 중단 가능성” - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83WEtpa1hCUWFwaWs5UjRRRG5fZDhIS1h6WDJwWEtqcnNZYWk1U2dxUENRQTYzdjVPRS1PeDJHeWZXbWdZbkpwWGJkUVVKOFdhU0szR2RSVk5oUXBUSzkzUFVnb3p1aFFGdDZSTm02TQ?oc=5",
-          "source": "Investing.com 한국어",
-          "published": "11-27 22:56",
-          "snippet": "Bernstein “2027년 금 강세 전망…연준 금리 인상 중단 가능성” Investing.com 한국어"
+          "title": "[AI MY 뉴스] 뉴욕증시 반도체주 프리뷰...저가 매수 속 일제 강세·샌디스크 10%↑ - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55dm0tM1BMS1MwUExzWTNReG9abkJqRE5Ra3BFZHBhQkxHS0hQX3RtZm5hUUFqOXZvdkVLaEVrVTNVb1c3Z3g1aUNBZXo1T1QwSndmZFc0RjRyMkhx?oc=5",
+          "source": "뉴스핌",
+          "published": "11-27 22:53",
+          "snippet": "[AI MY 뉴스] 뉴욕증시 반도체주 프리뷰...저가 매수 속 일제 강세·샌디스크 10%↑ 뉴스핌"
         },
         {
-          "title": "[인터뷰] SC \"연준 12월 25bp 인상…내년 동결 전망 확신 약해져\" | - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RZnluYm1iLWtxNktnOEQwbkp6QnloTmJfaUttcFR3cFh4NkE1ZWNXXzk0dEFnODljVEpyV1hnYmVnbkJQMHVfaXM2Ym5scXQ4cVd5WDhsOC0yNF9tVXpSOEpueXZxXzhEd1QtM1VsY2lYWWpj?oc=5",
+          "title": "[지난밤 뉴욕에선] AI 저가 매수에 나스닥 2.31% 상승 - 스트레이트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43dFBpS21ISk94clhoMkFTQlZpbFhNY1lSQ3VmYXhIYWx4XzZDbTNnZmpJWTVNU2pzRjJCSGVWTm9sSnV2QlpqaHUxbjNseDk3czZZYjNkcG9NeGhjTzY0c2V0ZHlzRkl1VWRBTHBmRGVFUVnSAXdBVV95cUxQVDdHUG51cXJrc2hBSDhERXFHSFpjRE11TXNUVi1oSEJoR29WS0gwUUxWN1FKTnl2emlmaVk0RllhRVVVOG4zX1VwTDkxekNlM19tdXlSWmRudk9FNlNKYS0tbHJicmpkZi1RNTNVVUpiOC1UWUxZYw?oc=5",
+          "source": "스트레이트뉴스",
+          "published": "11-28 07:17",
+          "snippet": "[지난밤 뉴욕에선] AI 저가 매수에 나스닥 2.31% 상승 스트레이트뉴스"
+        },
+        {
+          "title": "[뉴욕증시-1보] AI株 저가 매수에 훈풍…3대 지수 강세 마감 | - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zbUM2SWN0UTJ0TS1SY2pkRy1TMnpfQTFYQk9EOHY4WWNqVndpVmwyV0tnSEdiX0ZVTGxEX004T0xPSDd4N3Z2M3l3dHJmZ2VJZEtEdVZna3A2NE9lajh3dGRHcTY5Z0JmTmhpN3g4Z3l6Z0dH?oc=5",
           "source": "연합인포맥스",
-          "published": "11-27 10:07",
-          "snippet": "[인터뷰] SC \"연준 12월 25bp 인상…내년 동결 전망 확신 약해져\" | 연합인포맥스"
+          "published": "11-28 03:15",
+          "snippet": "[뉴욕증시-1보] AI株 저가 매수에 훈풍…3대 지수 강세 마감 | 연합인포맥스"
         },
         {
-          "title": "뉴욕｜뉴욕증시 반등…AI 거품보다 무서운 연준의 긴축 - OBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FdVpXSHhaVXM0eHFiM2dVYWR6amlZaXBWNEdIc2JwMkVVRjUtZHhlYWdfX0hWdGhKcXRiSmJ2dkRONDNjSEptcFg1dHF4Y21UWHZPMHBQV1FhOHM3Rks4QTlQeUhzQTBfY3c?oc=5",
-          "source": "OBC 뉴스",
-          "published": "11-27 23:33",
-          "snippet": "뉴욕｜뉴욕증시 반등…AI 거품보다 무서운 연준의 긴축 OBC 뉴스"
+          "title": "뉴욕증시, 저가 매수에 일제히 상승…샌디스크 16%·앤트로픽 11%↑ - 조세일보",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHQzdKTHIzNFhfWElyWWlNYV85VzFvMVhWdUZLUFRQUFE0OXJtMlJYcDBtckswWnFoVEM2UWFlTWJLb21rX3FBNEV1aGlvbTFwTFN5UVpGQmtmTzZkRjJj?oc=5",
+          "source": "조세일보",
+          "published": "11-28 07:29",
+          "snippet": "뉴욕증시, 저가 매수에 일제히 상승…샌디스크 16%·앤트로픽 11%↑ 조세일보"
+        }
+      ],
+      "앤스로픽 11% 폭등": [
+        {
+          "title": "[뉴욕증시] 앤스로픽 11% 폭등 속 일제히 상승…나스닥, 주간 6.7%↑ - 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HdUJRaDVkVWZsajBhX0NNbnhETHV1U0RFTGxTNEVrcHkwS21DT2J6R1VqcVJxMXlnalVydUpETy1vLUFmZFE2UGlRLXB0ODh5VVltZy1GVUUxUQ?oc=5",
+          "source": "파이낸셜뉴스",
+          "published": "11-28 03:34",
+          "snippet": "[뉴욕증시] 앤스로픽 11% 폭등 속 일제히 상승…나스닥, 주간 6.7%↑ 파이낸셜뉴스"
+        },
+        {
+          "title": "[속보][뉴욕증시] AI 강세에 일제히 상승…앤스로픽, 11% 폭등 - 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tckt0dDktNXpPeDlEV2tLeUQ0SjFkWnV6cEdlbElvbE5tbFVDcDM2dW9XSTgzTGRrTFh4d1V5aU9BR0NlMkpTNlZuNkN4TThmZl9oTkxvYjlIUQ?oc=5",
+          "source": "파이낸셜뉴스",
+          "published": "11-28 03:02",
+          "snippet": "[속보][뉴욕증시] AI 강세에 일제히 상승…앤스로픽, 11% 폭등 파이낸셜뉴스"
+        },
+        {
+          "title": "뉴욕·서울 동반 급등으로 4년 만의 최고의 한 주 마감 - 머니터링",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbGxha3A1QnpZWENRWkNlbnZOTWxpWHVIVmV1Si13QXczYWRLTnVrX0RpbE1lSVRfZkpRejBwSlNmYlJCaDdFQmVBVThuTnRpbzJOaDYzU3R3ejNxUDdhSUhwN0tpQTVKSU1EX3hzMktmUzA5dDhpTDVyRkZVUjdLV29ocTQxNWFSaThKd3o1ckhCVUdOLVM2Vk1n?oc=5",
+          "source": "머니터링",
+          "published": "11-28 07:04",
+          "snippet": "뉴욕·서울 동반 급등으로 4년 만의 최고의 한 주 마감 머니터링"
+        },
+        {
+          "title": "뉴욕증시, 기술주 강세에 상승 마감…나스닥, 주간 6%↑ - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0VWFzeG9kbGk3eWI0U3FxUzk3Y0k1bXpuQ1BGdFlJRmtoUU5HVlVnN3g2R3ZMdmg3Vk5CTGRtb0RucXkzMUtxYlluZW9wY20xSkFVYUJFVmQ5elR0MXh3ZHMxaURobGV5SUFrVGs2LW1LZlFlNU9NctIBeEFVX3lxTFA0VWFzeG9kbGk3eWI0U3FxUzk3Y0k1bXpuQ1BGdFlJRmtoUU5HVlVnN3g2R3ZMdmg3Vk5CTGRtb0RucXkzMUtxYlluZW9wY20xSkFVYUJFVmQ5elR0MXh3ZHMxaURobGV5SUFrVGs2LW1LZlFlNU9Ncg?oc=5",
+          "source": "뉴시스",
+          "published": "11-28 03:56",
+          "snippet": "뉴욕증시, 기술주 강세에 상승 마감…나스닥, 주간 6%↑ 뉴시스"
+        },
+        {
+          "title": "미 공군도 해킹에 뚫려…\"민감 군사 정보 유출됐을 수도\" - 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aczJpY3d4UWw0b1h5RmRvV2g3ZlE1Vm9EWHAwNUVEVWxOQ1QwX3JxaGkwTTRoY0x1S1ZTejZQRVY1QVdySWMzSC12T3RqeTRFdjdBNDE2eHFNQQ?oc=5",
+          "source": "파이낸셜뉴스",
+          "published": "11-28 03:48",
+          "snippet": "미 공군도 해킹에 뚫려…\"민감 군사 정보 유출됐을 수도\" 파이낸셜뉴스"
         }
       ]
     },
     "queries": {
-      "코스피 코스닥 동반 급등": [
-        "코스피 코스닥 지수",
-        "코스피 코스닥 차이",
-        "코스피 코스닥 지수 실시간",
-        "코스피 코스닥 지수 의미",
-        "코스피 코스닥 나스닥 차이",
-        "코스피 코스닥 지수 차트 보는 법",
-        "코스피 코스닥 나스닥 s&p",
-        "코스피 코스닥 차이 디시"
+      "개인정보 유출 잇따라": [
+        "개인정보 유출시 대응",
+        "개인정보 유출시 처벌",
+        "개인정보 유출여부 조회",
+        "개인정보 유출등 대응 안내서",
+        "개인정보 유출이란",
+        "개인정보 유출등 대응 매뉴얼"
       ],
-      "삼성전자 대규모 배당": [
-        "삼성전자 대규모 채용",
-        "삼성전자 대규모 해고",
-        "삼성전자 대규모 투자",
-        "삼성전자 대규모",
-        "삼성전자 대규모 주주환원"
+      "코스피 동반 급등": [
+        "코스피.환율 동반 상승"
       ],
-      "국내은행 이자이익 최대": [],
+      "통상 불확실성 확대": [
+        "통상 불확실성",
+        "통상 환경 불확실성"
+      ],
       "뉴욕증시 기술주 반등": [
         "뉴욕증시 기술주"
       ],
-      "앤스로픽 주가 급등": [
-        "앤트로픽 주가",
-        "앤트로픽 주가 전망",
-        "앤트로픽 주가 예상",
-        "앤트로픽 주가 가격"
+      "반도체주 저가 매수": [
+        "저가 반도체주"
       ],
-      "미 연준 금리인상 우려": [
-        "미 연준 금리",
-        "미 연준",
-        "미 연준 금리 인상",
-        "미 연준의장",
-        "미 연준 금리 발표일",
-        "미 연준 금리 발표",
-        "미 연준 금리 전망",
-        "미 연준 금리 동결"
-      ]
+      "앤스로픽 11% 폭등": []
     },
-    "newsletter_md": "# ⚡ ZIPPY | AI 경제 데일리 브리핑\n_2026-11-28 이슈 · 발행 2026-11-28_\n\n🇰🇷 **국내 경제:** `코스피 코스닥 동반 급등` · `삼성전자 대규모 배당` · `국내은행 이자이익 최대`\n🌐 **해외 경제:** `뉴욕증시 기술주 반등` · `앤스로픽 주가 급등` · `미 연준 금리인상 우려`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 코스피 4,900선 탈환·코스닥 8% 급등\n> 키워드: 코스피 코스닥 동반 급등\n\n**📌 무슨 일이 있었나**\n- 엔비디아발 AI 기술주 조정세가 정점을 지나면서 국내 증시에 대한 외국인 투자자의 강한 순매수 유입이 이루어졌다.\n- 코스피 지수가 4% 상승하며 4,900선을 일시 탈환했고 코스닥 지수는 8% 폭등하며 장을 마감했다.\n- 금융당국과 유관기관의 증권시장안정펀드 조성 및 가동 기대감이 가시화되면서 시장의 매수 심리가 크게 개선되었다.\n- 그동안 하락 폭이 컸던 코스닥 IT 기술주와 AI 관련 중소형 종목을 중심으로 강력한 저가 매수세가 집중되었다.\n\n**💬 핵심 Q&A**\n- **Q. 코스닥 지수가 8% 급등한 배경에 증안펀드 기대감은 어떻게 작용했는가?**\n  A. 증권시장안정펀드 출범 가능성이 제시되면서 하락장에서 급격히 위축되었던 매수 심리가 크게 반등했다. 특히 기관과 외국인의 동반 매수세가 가세하며 코스닥 상장 종목의 거래량이 폭증했다.\n- **Q. 엔비디아의 AI 조정세 완화가 국내 반도체 및 기술주에 전달된 연쇄 파급 경로는 무엇인가?**\n  A. 글로벌 AI 반도체 밸류체인의 불확실성이 해소되면서 국내 주요 반도체 제조사 및 관련 부품·장비 업체에 대한 외인 매도세가 매수세로 전환되었다. 이에 따라 국내 증시 전반의 수급 여건이 크게 개선되었다.\n- **Q. 코스피 4,900선 안착을 지속하기 위한 향후 시장의 핵심 분기점은 무엇인가?**\n  A. 외국인 순매수세의 연속성과 함께 증안펀드의 실제 자금 집행 여부가 시장의 지속성을 결정짓는 요소다. 또한 미국 기술주 시장의 추가 반등과 고금리 긴축 우려의 완화가 수반되어야 한다.\n\n**👀 앞으로 볼 포인트**\n- 외국인 순매수세 지속 여부\n- 증안펀드 투입 시기 및 조성 규모\n- 미국 주요 기술주 주가 향방\n\n<sub>참고: [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KWmpJNDZVZVBFWDBETjVpR0FaOXprVFdnSWtHSnFoOFBMQ2dMS2lNc01pQWtSeG5HUG5qa1AySVVtVGxrZHJkVG1fRTY2MTl0N3VPc2laMnVtTkk?oc=5) / [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLMFd3aFFUcjR3TGc4Unluc0xxdlhIVlhvaTJKc05NYVdsc1BZS3lUUG80Mm5JZm1Sc0JKREs2cFZpdWc2VzdmelNmNFBCSkN0MVA5WkxHYVpwR0JtcWNiVFlMOWVKcGM?oc=5) / [한겨레](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxeWV0aEpXWnUxUlpVU2c5dWU0clFmVTVEZlI0VDZZOUsyc0hTZUxhZEtNMmQxS09Bem5VUXVVRjk0TThsQl9WczJjbGRPTnBEd3lnYUVrMlkyMWpNS2lyX2hibDhtajA?oc=5)</sub>\n\n---\n\n### 2. 삼성전자 30조 역대급 배당 지급\n> 키워드: 삼성전자 대규모 배당\n\n**📌 무슨 일이 있었나**\n- 삼성전자가 30조 원 규모의 대규모 배당금을 지급하였으며 이재용 회장은 약 4,488억 원의 배당금을 수령했다.\n- 삼성전자 주가가 16만 원대를 기록한 가운데 역대급 배당 지급이 이뤄지며 강력한 주주환원 정책이 확인되었다.\n- 외국인 지분율에 따른 대규모 배당금 지급 영향으로 외환시장에서 외국인 역송금 수요 증가에 대한 경계감이 형성되었다.\n- 글로벌 빅테크 기업들의 반도체 공급 요청 호조와 주주가치 제고 정책이 맞물려 국내 증시 반등을 이끌었다.\n\n**💬 핵심 Q&A**\n- **Q. 30조 원 규모의 배당 지급이 외환시장에 유동성 경계감을 불러일으킨 메커니즘은 무엇인가?**\n  A. 삼성전자의 외국인 지분율이 높아 배당금 지급 시 원화를 달러로 환전해 해외로 송금하는 역송금 수요가 일시에 몰린다. 이로 인해 원/달러 환율이 상승 압력을 받게 되며 외환시장의 변동성이 확대될 수 있다.\n- **Q. 역대급 대규모 배당 지급과 삼성전자 16만 원대 주가 유지가 증시 전체 밸류에이션에 미치는 영향은 무엇인가?**\n  A. 삼성전자의 대규모 주주환원은 코스피 지수의 하단을 지지하고 외국인 투자자의 자금 유출을 방어하는 역할을 한다. 또한 주주가치 제고에 대한 기대감을 높여 국내 주요 대형주들의 밸류에이션 재평가로 이어질 수 있다.\n- **Q. 배당금 지급 이후 외국인 수급이 단순 이탈로 끝날지, 재투자로 전환될지를 결정짓는 요소는 무엇인가?**\n  A. 반도체 업황의 회복 속도와 글로벌 빅테크 기업들과의 반도체 공급 계약 실적 추가 확보 여부에 달려 있다. 기술 경쟁력 강화를 통한 이익 성장 가능성이 확인되어야 지급된 배당 자금이 증시로 재유입된다.\n\n**👀 앞으로 볼 포인트**\n- 배당금 지급에 따른 환율 변동성\n- 외국인 주주의 배당금 재투자 비율\n- 삼성전자 반도체 부문 추가 투자 발표\n\n<sub>참고: [한겨레](https://news.google.com/rss/articles/CBMiakFVX3lxTE42ZXJ1alF4TGNiUWlSTTZYbnVEaXVKZVFITTN0RXpCaUM0MFJfbkZ1OGRycm9sclRQVE9JbW1vMGUxRC11Ui1jRlkwVUtEMTRFel8tWUs5NlA4RTY5ZnF1aERIUlNxZnVZR0E?oc=5) / [KB Think](https://news.google.com/rss/articles/CBMiYEFVX3lxTE53MGI3VGVWWGIyeGxVSTZZdUlLRXMyQnVJU0RrbWcxNG4ydVpSZG5MVUFmcHhITllDeHFZSGpsTU9tcmgxRWMyOWczZGtDTmpYeW1uVGU4QTRFUmZsOXNhYw?oc=5) / [네이버페이 머니스토리](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXRlBHOHpxOTVUYk5waVAxTkNRTHQ0UmxQVlJybXdnUU5HU0tQVWo5QWFTd0Nna3V1QUR2SnJRV2tHVUFkSlA4aS1taWRqVG0wdEE?oc=5)</sub>\n\n---\n\n### 3. 국내은행 이자이익 48.4조 역대 최대\n> 키워드: 국내은행 이자이익 최대\n\n**📌 무슨 일이 있었나**\n- 국내은행의 올해 1~3분기 누적 이자이익이 48조 4,000억 원을 기록하며 역대 최대치를 다시 한번 경신했다.\n- 이자이익 급증의 주요 원인으로는 대출 자산 규모의 지속적인 확대와 금리 인상 기조의 영향이 꼽혔다.\n- 은행권 전체 순이익은 21조 5,000억 원을 달성했으나 지방은행의 경우 순이익이 오히려 감소하며 양극화 양상을 보였다.\n- 이자이익 최대 달성과 동시에 차주의 이자 부담 증가로 인한 대출 연체율도 함께 상승하는 역설적 현상이 나타났다.\n\n**💬 핵심 Q&A**\n- **Q. 국내은행의 이자이익이 역대 최대치를 경신하는 가운데 연체율도 함께 상승한 역설은 어떻게 발생하는가?**\n  A. 대출 총잔액이 늘어나면서 고금리 상태가 유지되어 은행의 전체 이자수입 규모는 계속 확대된다. 그러나 고금리 장기화로 인해 상환 능력이 약화된 취약차주들이 원리금을 제때 갚지 못하면서 연체율도 동반 상승하는 구조다.\n- **Q. 시중은행의 실적 호조와 달리 지방은행의 순이익이 감소하며 양극화가 벌어진 주된 이유는 무엇인가?**\n  A. 지방은행은 지역 경기 둔화와 부동산 PF 리스크 영향으로 연체율 관리 및 대손충당금 적립 부담이 훨씬 컸다. 또한 우량 차주 유치 경쟁에서 시중은행에 밀려 대출 자산의 질과 마진이 악화되었기 때문이다.\n- **Q. 이자이익 48.4조 원 달성에 대한 금융권 건전성 평가 및 수익성 유지의 분기점은 어디인가?**\n  A. 향후 기준금리 인하 기조나 대출 규제 강화에 따른 순이자마진(NIM) 축소 여부가 핵심이다. 대손충당금 적립 수준이 부실 채권 증가 속도를 감당할 수 있는지 여부가 건전성 평가의 분기점이 된다.\n\n**👀 앞으로 볼 포인트**\n- 취약차주 연체율 상승과 충당금 적립 부담\n- 시중은행과 지방은행 간 이익 양극화\n- 금융당국의 상생금융 및 이자이익 압박 수위\n\n<sub>참고: [한겨레](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzMUdhS01TU0JHWk0wQzFDNmFkSXpKcFhZSnN1SlM1MmZJM3RjcGpJbWI0OG1EQ2h2anlRLUhiMTFLbkhTMm05TENKTHhzVFpmaUtxOWx6WUhPVklIS1FwM3ZhZTNqbkE?oc=5) / [매일경제](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ua0EwZlFvdllVRHpGUG9rZWZaemxJbElxUUNJTmNaNXVaelZaODJOQ3pmZ1J3dTV1Z21Yd1plVWxGQVhoY2N5elo4al9BSVB0dmpkVQ?oc=5) / [뉴닉](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NaTZXTWNYTkxENG9sQ1ZjOGtMakpQb1preU9hMTdPcGV2TWc5ellpLWlUOFZJNDMxQXVwMVk4eDhGYURCZVRJUlB1VGpoU0syRTlr?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. 뉴욕증시 기술주 반등…나스닥 2.3%↑\n> 키워드: 뉴욕증시 기술주 반등\n\n**📌 무슨 일이 있었나**\n- 뉴욕증시가 AI 및 반도체 주요 기술주에 대한 강력한 저가 매수세 유입으로 나스닥 지수가 2.3% 상승 마감했다.\n- 필라델피아 반도체 지수는 4.69% 폭등하며 기술주 전반의 강한 반등 흐름을 주도했다.\n- AI 거품론과 금리 우려로 인한 최근 주가 둔화 이후 대형 기술주 중심의 투자심리가 빠르게 회복되었다.\n- 반면 엔비디아는 중국 밀반입 의혹 등 악재가 겹치며 3% 하락하는 등 종목별 차별화 현상도 함께 나타났다.\n\n**💬 핵심 Q&A**\n- **Q. 엔비디아가 3% 하락했음에도 나스닥과 필라델피아 반도체 지수가 급등할 수 있었던 원인은 무엇인가?**\n  A. 엔비디아의 악재는 개별 악재로 국한된 반면, 그동안 낙폭이 컸던 다른 주요 반도체 및 AI 기술주 전반으로 저가 매수세가 광범위하게 확산되었기 때문이다. 반도체 업황 자체의 기술적 반등 세가 시장 전체를 견인했다.\n- **Q. 기술주 급등세가 유연하게 재개되었지만 AI 거품론 우려 속에서 상승 동력이 지속될 수 있는 메커니즘은 무엇인가?**\n  A. 밸류에이션 부담이 일정 부분 해소된 상태에서 빅테크 기업들의 AI 투자가 실질적 실적 개선으로 이어지고 있음이 입증되어야 한다. 기관 투자자들의 매수세가 유지되면서 주가 하단을 지지하는 메커니즘이 작동하고 있다.\n- **Q. 뉴욕증시 반도체주의 강한 반등이 글로벌 증시 및 한국 반도체 기업 주가로 전달되는 분기점은 무엇인가?**\n  A. 필라델피아 반도체 지수의 연속적인 상승세 유지와 미 연준의 통화정책 긴축 스탠스 완화 여부다. 글로벌 반도체 밸류체인 전반의 부품 수요가 실제로 증가하고 있음이 확인되면 국내 증시 상승폭이 더욱 확정된다.\n\n**👀 앞으로 볼 포인트**\n- 필라델피아 반도체 지수 지속 상승 여부\n- 엔비디아 악재 해명 및 투심 회복\n- 빅테크 실적 발표 및 AI 투자 유지 가능성\n\n<sub>참고: [연합뉴스](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nYXJjZGVjak5Fd3c5aXdXcEdCLThBUU5xclM5Z09lY2tQby0tXzZOYlcwVkJvRGVGMHZydllSelFvRU01VU9KdE5rei1MMnFlc2hoRDhEdjJUdWNlOU1sRtIBYEFVX3lxTE9nYXJjZGVjak5Fd3c5aXdXcEdCLThBUU5xclM5Z09lY2tQby0tXzZOYlcwVkJvRGVGMHZydllSelFvRU01VU9KdE5rei1MMnFlc2hoRDhEdjJUdWNlOU1sRg?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ITHBzUVVyQmRWbld0Wng5QWs4d1J1NkFqTnFTdlQzTFEtbUoyLW9wQ3hXeGZhWHpqSGUwOGFpUU5USVB5ak5lcGJ5czQ4QUxqWVdBcU9zbUZkM0ZLR252YdIBYEFVX3lxTE5ITHBzUVVyQmRWbld0Wng5QWs4d1J1NkFqTnFTdlQzTFEtbUoyLW9wQ3hXeGZhWHpqSGUwOGFpUU5USVB5ak5lcGJ5czQ4QUxqWVdBcU9zbUZkM0ZLR252YQ?oc=5) / [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaZGE3LXJwNVpRSHFiOUJvYjBXalpCc2xaRmszNHZXQW9PZEZQeEJCaDdnMS1CLVlLUlIzR0R0TmZXX2p3dVNHaTdOMUttR0lQbEVXT2V6aWhudk0?oc=5)</sub>\n\n---\n\n### 2. 앤스로픽 저가 매수세에 10% 급등\n> 키워드: 앤스로픽 주가 급등\n\n**📌 무슨 일이 있었나**\n- AI 스타트업 앤스로픽 주가가 AI 관련 종목에 대한 저가 매수세 유입에 힘입어 10% 급등했다.\n- 앤스로픽 주가는 이번 급등을 통해 종전의 공모가를 돌파하며 기술주 반등 장세를 반영했다.\n- 서학개미 등 글로벌 투자자들의 나스닥 기술주 및 AI 선물 거래량이 폭증하며 투자 열기가 고조되었다.\n- AI 테마 전반에 대한 저가 매수 열풍이 앤스로픽 등 유망 AI 기업 주가를 직접적으로 끌어올렸다.\n\n**💬 핵심 Q&A**\n- **Q. 앤스로픽 주가가 10% 급등하며 공모가를 넘어서게 만든 시장 내 저가 매수세의 작동 원리는 무엇인가?**\n  A. 최근 AI 종목들의 주가 조정 과정에서 앤스로픽의 기술적 가치가 과도하게 저평가되었다는 인식이 확산되었다. 이에 따라 나스닥 반등 흐름과 맞물려 매수세가 집중되면서 공모가를 단숨에 돌파했다.\n- **Q. 앤스로픽의 주가 급등이 AI 산업 밸류체인 내 타 스타트업 및 빅테크 기업에 미치는 파급 효과는 무엇인가?**\n  A. 비상장 및 신규 상장 AI 기업들의 기업가치 밸류에이션 산정에 긍정적인 기준점을 제공한다. 또한 빅테크 기업과의 AI 모델 개발 경쟁 및 자원 투자 확대를 자극하는 유인이 된다.\n- **Q. 앤스로픽 주가의 급등세가 단기 반등에 그치지 않고 유지되기 위한 실적 분기점은 무엇인가?**\n  A. 차세대 AI 모델의 상용화 매출 성과와 유료 구독자 및 기업 고객 확보 속도다. 대규모 서버 인프라 비용을 감당할 수 있는 수익 모델 구축이 입증되어야 주가 안착이 지속될 수 있다.\n\n**👀 앞으로 볼 포인트**\n- 앤스로픽 공모가 상회 유지 여부\n- 글로벌 AI 기업 간 모델 성능 경쟁\n- 서학개미의 AI 유망주 매수세 지속성\n\n<sub>참고: [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE1mS2MwOC1TSVBidWtFZHpLZHRqZ0w5S1lKVmJ2LXVib2ZVV1p1cDNHX01kV09SYlJ5MjNrQ0o4bnRNblVxWThaVjdpQTkydkxEYjFsWVF0NTlfd3lhQ3hpTlhFLUJPTGpZN3owVWp4bmY?oc=5) / [코인리더스](https://news.google.com/rss/articles/CBMiSkFVX3lxTE8tXzUtczRSVzRrZjNXdHJXZjNTSTZBcTREbUwwcjYxbEtVV1F3NXNWWENxSkF6cXRsaDFDcThzbXdmNlBudlBIbHpn?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE5vQU1zeFhRaXVNY3hWN1JlTEZETUozU1czd1ZrR2ExNzVYeHNkU1BnLXhVWWxaa213cXF2SXZhd2huZFVBRllNNVNhTDllSl9VUHhkdldNYmp3M2RsVGVoZlZaeXV0LVp5ZXpaYVhVVHI?oc=5)</sub>\n\n---\n\n### 3. 미 연준 12월 금리 인상 우려 재부각\n> 키워드: 미 연준 금리인상 우려\n\n**📌 무슨 일이 있었나**\n- 미 연준이 오는 12월 기준금리를 25bp(0.25%p) 인상할 수 있다는 전망이 나오면서 통화 긴축 우려가 다시 부각되었다.\n- 금융권에서는 연준의 금리 인상 중단 및 내년 금리 인하 전환에 대한 확신이 약해지고 있다는 분석이 제시되었다.\n- 시장에서는 AI 거품론보다 연준의 추가 긴축 조치가 금융 시장에 더 큰 위협으로 작용할 수 있다는 경계감이 확산되었다.\n- 일각에서는 연준의 긴축 우려가 과도하다는 시각도 존재하나 고금리 장기화에 대비한 금 강세 전망 등이 이어졌다.\n\n**💬 핵심 Q&A**\n- **Q. 증시 반등 흐름 속에서도 연준의 12월 25bp 금리 인상 우려가 지속되는 역설적 원인은 무엇인가?**\n  A. 기술주 저가 매수세로 주가는 반등했으나 강한 경제 지표와 물가 상방 압력이 연준의 인플레이션 목표치 달성을 방해하고 있기 때문이다. 이로 인해 시장의 금리 인하 기대감이 후퇴하고 추가 인상 가능성이 대두되었다.\n- **Q. 미 연준의 금리 인상 가능성 제기가 글로벌 자산 시장 및 원자재 시장에 미치는 파급 경로는 무엇인가?**\n  A. 고금리 장기화 우려로 달러화 강세 압력이 커지고 위험자산 선호 심리가 위축된다. 동시에 안전자산 선호 심리가 작용하면서 안전자산인 금 선물 가격이나 원자재 가격 변동성이 확대되는 경로로 이어진다.\n- **Q. 연준의 통화정책 기조가 다시 완화로 돌아설 수 있는 결정적 조건 및 시장 분기점은 무엇인가?**\n  A. 미국 노동 시장의 과열 양상 진정과 함께 소비자물가지수(CPI) 등 핵심 인플레이션 지표의 뚜렷한 하향 안정세 확인이다. 물가 상승세가 둔화되지 않을 경우 금리 인상 기조 완화는 연기될 수밖에 없다.\n\n**👀 앞으로 볼 포인트**\n- 연준 12월 FOMC 기준금리 결정\n- 미국 물가지표(CPI, PCE) 및 고용 보고서\n- 금리 인상 우려에 따른 국채 금리 변동\n\n<sub>참고: [연합인포맥스](https://news.google.com/rss/articles/CBMidEFVX3lxTFBoank3Zk0wdHNxY2VPSURqdDVwcjVnQzk5OWNRMmd6bF9QY21SMGRUaXJRdFRRSENXcWJrQ0tWeDR6TXZjZm53VmwtcXo5QWwxbWZVdmZBdmt0RWNRLVc4Smp2RnU4V3ZDOTdlYlNfR2hvbVJt?oc=5) / [한겨레](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzMUdhS01TU0JHWk0wQzFDNmFkSXpKcFhZSnN1SlM1MmZJM3RjcGpJbWI0OG1EQ2h2anlRLUhiMTFLbkhTMm05TENKTHhzVFpmaUtxOWx6WUhPVklIS1FwM3ZhZTNqbkE?oc=5) / [뉴스핌](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaSXptMmh2d3Z0SjI1S0tYOHVocmNLdjNmRTF4amIxWEZqVVhWU2xmNEhvOWVQdU02Rmp2N1F5RUlYSkpjVXdPLVNtZVk3X2FIekFZMm1LTXhCbndx?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 보도를 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
+    "newsletter_md": "# ⚡ ZIPPY | AI 경제 데일리 브리핑\n_2026-11-28 이슈 · 발행 2026-11-28_\n\n🇰🇷 **국내 경제:** `개인정보 유출 잇따라` · `코스피 동반 급등` · `통상 불확실성 확대`\n🌐 **해외 경제:** `뉴욕증시 기술주 반등` · `반도체주 저가 매수` · `앤스로픽 11% 폭등`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 유통부터 금융·공공까지 유출 확산\n> 키워드: 개인정보 유출 잇따라\n\n**📌 무슨 일이 있었나**\n- 올리브영, 인터넷우체국, 과학기술인공제회, 수협은행 등 유통과 금융 및 공공 전반에서 해킹과 침해사고가 연속 발생했다.\n- 인터넷우체국에서는 단 하루치 집계에서만 11만 명을 넘어서는 대규모 고객 개인정보 유출 피해가 확인되었다.\n- 수협은행 고객 54명의 개인정보가 유출되고 과학기술인공제회도 해킹 공격을 받으면서 금융권과 공제회까지 침해가 확산되었다.\n- 올해 10월까지 집계된 개인정보 유출 신고 건수가 총 1,019건에 달함에 따라 당국이 긴급 대응체계를 전격 가동했다.\n\n**💬 핵심 Q&A**\n- **Q. 공공기관과 금융권까지 동시다발적으로 개인정보가 뚫린 배경은 무엇인가?**\n  A. 올리브영 등 유통업계뿐만 아니라 인터넷우체국, 수협은행, 과학기술인공제회 등 보안이 엄격한 기관들까지 해킹 공격에 노출됐다. 웹 서비스 노출 접점이 늘어난 상황에서 고도화된 해킹 기법이 집중되며 대규모 유출 사고로 이어졌다.\n- **Q. 10월까지 유출 신고가 1,000건을 넘어서며 가동된 긴급 대응체계는 기업에 어떤 파급을 가져오는가?**\n  A. 당국이 긴급 대응체계를 가동함에 따라 시스템 침해사고를 낸 기업에 대한 전수 조사와 보안 실태 점검이 강화된다. 이는 기업들의 IT 보안 예산 증액과 정보보호 인증 기준 강화로 이어져 유통 및 금융 IT 비용 부담을 늘리는 요인이 된다.\n- **Q. 침해사고 재발을 막고 시스템 안전성을 확보하기 위한 핵심 분기점은 무엇인가?**\n  A. 단순 시스템 점검에 그치지 않고 유출 원인 파악 및 추가 피해 차단 패치가 신속히 이루어지는지가 관건이다. 유출 사실 통지와 시스템 고도화 조치가 실질적으로 이행되어 추가 침해를 막아야 한다.\n\n**👀 앞으로 볼 포인트**\n- 보안당국 긴급 대응체계 가동 후속 점검 결과\n- 유통 및 금융권 추가 침해사고발생 여부\n\n<sub>참고: [매일경제](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWdDAtbm9ZYmRJczBLYXFkLVZwNVJ5eDZUOGlYV1hqdFpGMm1HbU0tNTNQRW5lR0NPS1hkWTFzcXpGaWxFdDRMcFBPY0MzQlhCWnZod2p3?oc=5) / [대한민국 정책브리핑](https://news.google.com/rss/articles/CBMibEFVX3lxTE5KM28zQWN3elVWX052RmZBbVF5ZnVuWmc2a24wZmw0X0ZDOUFZTEttMXlJa3gySFNyXzhyZ2Eya2ZXc2F4Zk5NRWtleE1DemxwQzJSdXgzQzN0Y0h6Snp4RWduYzNhbFlUZlFNNA?oc=5) / [조선일보](https://news.google.com/rss/articles/CBMigwFBVV95cUxQa1JQMy1vbDhFRWQ4dVdtc3hMSy1zSVFNOWJGTmJ6UFNlaGxqQWVESlU1WGxNVjY4QkRJNUF6M2FPejlod2xRVHlKVnNkelg3b1BjYXNiOWdjNjNSUFZGQnpkYVEyZEpKakZyYkdvZHZjcDEzaWFyMmt0Z2FVNUwtRmxKYw?oc=5)</sub>\n\n---\n\n### 2. 코스피 4%·코스닥 8% 동반 폭등\n> 키워드: 코스피 동반 급등\n\n**📌 무슨 일이 있었나**\n- 코스피가 4.3% 상승하며 4,900선을 회복했고 코스닥 지수는 8.1% 폭등해 700선 탈환에 성공했다.\n- 증시안정펀드 조성 및 투입에 대한 시장의 기대감이 유입되며 투자심리가 급격히 개선되었다.\n- 외국인 투자자들이 국내 증시에서 조 단위 규모의 대규모 순매수를 기록하며 주가 상승을 견인했다.\n- 외국인 수급 유입과 정책 지원 기대감이 맞물리며 코스피와 코스닥 양 시장 모두 대형주 위주로 동반 급등세를 나타냈다.\n\n**💬 핵심 Q&A**\n- **Q. 코스피 4.3%, 코스닥 8.1% 급등을 이끈 핵심 동력은 무엇인가?**\n  A. 외국인 투자자의 조 단위 순매수가 유입된 가운데 증시안정펀드 출범 및 투입에 대한 기대감이 투자심리를 급격히 개선시켰다. 이로 인해 수급 공백이 해소되며 대형주와 중소형주가 동반 폭등했다.\n- **Q. 외국인 조 단위 순매수 전환이 향후 국내 증시 밸류체인에 어떤 파급 효과를 가져오는가?**\n  A. 외국인 자금이 시가총액 상위 대형주로 집중 유입되면서 시장 전체의 거래대금이 크게 늘어났다. 이는 하락세를 보이던 주요 업종의 투심을 회복시키고 증시 전반의 하방 지지력을 단단하게 만드는 효과를 가져온다.\n- **Q. 급등한 국내 증시가 상승 추세를 지속하기 위한 향후 분기점은 무엇인가?**\n  A. 증시안정펀드의 실제 구체화 및 유동성 공급 규모가 시장 기대치에 부합하는지가 중요하다. 또한 외국인 순매수세가 일회성에 그치지 않고 지속적인 유입으로 이어지는지 점검해야 한다.\n\n**👀 앞으로 볼 포인트**\n- 외국인 투자자 조 단위 순매수 기조 지속성\n- 증시안정펀드 실제 집행 시기 및 자금 규모\n\n<sub>참고: [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KWmpJNDZVZVBFWDBETjVpR0FaOXprVFdnSWtHSnFoOFBMQ2dMS2lNc01pQWtSeG5HUG5qa1AySVVtVGxrZHJkVG1fRTY2MTl0N3VPc2laMnVtTkk?oc=5) / [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLMFd3aFFUcjR3TGc4Unluc0xxdlhIVlhvaTJKc05NYVdsc1BZS3lUUG80Mm5JZm1Sc0JKREs2cFZpdWc2VzdmelNmNFBCSkN0MVA5WkxHYVpwR0JtcWNiVFlMOWVKcGM?oc=5) / [한겨레](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxeWV0aEpXWnUxUlpVU2c5dWU0clFmVTVEZlI0VDZZOUsyc0hTZUxhZEtNMmQxS09Bem5VUXVVRjk0TThsQl9WczJjbGRPTnBEd3lnYUVrMlkyMWpNS2lyX2hibDhtajA?oc=5)</sub>\n\n---\n\n### 3. 美 선거 후에도 계속되는 통상 압박\n> 키워드: 통상 불확실성 확대\n\n**📌 무슨 일이 있었나**\n- 미국 중간선거가 끝난 이후에도 통상 환경의 불확실성이 해소되지 않아 국내 기업들의 우려가 커지고 있다.\n- 대미 무역흑자가 기존 대비 2배 수준으로 확대됨에 따라 미국 정부의 통상 압박이 가화될 가능성이 제기되었다.\n- 재계는 미국 통상 정책 변화에 대응해 세액공제 제도 유지와 정부 차원의 적극적인 지원책 마련을 강력히 요청했다.\n- 한중일 경제 당국자들은 글로벌 AI 불확실성 속에서 경제 동향을 공유하고 상호 통상 협력의 필요성을 확인했다.\n\n**💬 핵심 Q&A**\n- **Q. 미국 중간선거 종료 이후에도 통상 불확실성이 지속되는 근본적 배경은 무엇인가?**\n  A. 대미 무역흑자가 이전 대비 2배로 급증하면서 미국의 통상 제재와 압박 우려가 커졌기 때문이다. 정치적 이벤트가 끝났음에도 수시로 변하는 통상 기조와 무역 정책 변화가 우리 산업계에 지속적인 부담을 주고 있다.\n- **Q. 대미 무역흑자 급증과 통상 불확실성은 국내 반도체 및 주요 산업 투자에 어떤 영향을 미치는가?**\n  A. 통상 압박이 강화되면 현지 투자 및 수출 제품에 대한 관세 부담이 커질 수 있다. 특히 기업들이 현지 공장 설립 및 투자를 진행하는 과정에서 세액공제 혜택 감축 등 제도적 불이익을 받을 리스크가 발생한다.\n- **Q. 통상 환경의 악영향을 최소화하고 산업 경쟁력을 유지하기 위한 분기점은 무엇인가?**\n  A. 정부 차원의 세액공제 연장 및 지원책이 신속히 수립되고 한중일 등 다자간 통상 협력 체계가 원활히 가동되는지가 중요하다. 미 정부와의 불확실한 통상 협상 결과를 최소화하는 대외 대응력이 관건이다.\n\n**👀 앞으로 볼 포인트**\n- 미국 통상 정책 변경 및 세액공제 유지 여부\n- 대미 무역흑자 추이에 따른 통상 제재 가능성\n\n<sub>참고: [연합뉴스TV](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Oa2R2Ty1ja3pYdkcyWDQwVy1JeUVIWkNyWFNFdTBGV1pMdkh6OTdiLTh5WEU5OXJ6Mnp1Q0M3SkpYNUxEU1duV1FEVDhIcTZhMDQ4akxiNy1aQnUtU2RhZksxRTY?oc=5) / [한국무역협회-KITA.NET](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZTRDVmRwRS1ESkcyOXdOdnE4ZkN0TUxRemJjMEJBdTN6RzRSUzJFU0VOeXZSVm5xQUVnTGE4T0NUTlZ6SjVRelhOS2YyQlVnbkVNVFA4b3dvbW1IYlRXeDMxc1ZkcE1PWTZ0alUwNmE2RkEtSTJSUkJjcU5qeXg2cFBURmhMQ1ozZDZzZXdwbGZfUFFpMVNpT0U1SDRHOG9wdXNTbHY3U0hQbmNYVDM3UTNfekRUa3VscU5BSUgxQ3l0YUJCamVjUmpvbmZqb2YwU29XZUJn?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4Q2xsbVJZSHA2YmZVWXNacE9kSzdES25uVEJCOVk3YmlORnBBUEdIQjZIZElFUUdXZ1NiNmc4VzlNV202OHRzTlhqcTNHSS1fYW9xbFZ6Rjdnb2lpeXlta9IBYEFVX3lxTFB4Q2xsbVJZSHA2YmZVWXNacE9kSzdES25uVEJCOVk3YmlORnBBUEdIQjZIZElFUUdXZ1NiNmc4VzlNV202OHRzTlhqcTNHSS1fYW9xbFZ6Rjdnb2lpeXltaw?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. AI 우려 딛고 나스닥 2.3% 상승\n> 키워드: 뉴욕증시 기술주 반등\n\n**📌 무슨 일이 있었나**\n- 뉴욕증시에서 AI 투자 우려에도 불구하고 기술주 중심의 강력한 저가 매수세가 들어오며 나스닥 지수가 2.3% 상승했다.\n- 중국 정부의 증시 부양 의지와 주요 기술주들의 실적 기대감이 복합적으로 작용해 뉴욕증시 3대 지수가 일제히 오름세로 마감했다.\n- 과잉 투자에 대한 시장 경계감이 존속하는 가운데서도 반도체와 대형 IT 종목들이 반등세를 이끌며 장세를 reversal시켰다.\n- 기술주 강세에 힘입어 뉴욕증시는 주간 기준으로도 높은 상승률을 기록하며 투자심리 회복세를 확고히 했다.\n\n**💬 핵심 Q&A**\n- **Q. AI 과잉 투자 우려 속에서 나스닥 지수가 2.3% 급등하며 반등한 메커니즘은 무엇인가?**\n  A. 급락했던 AI 및 기술주를 중심으로 강력한 저가 매수세가 유입되었기 때문이다. 여기에 중국 정부의 증시 부양 의지까지 더해지면서 기술주 전반의 투자심리가 살아나 3대 지수가 일제히 오름세를 탔다.\n- **Q. 이번 기술주 반등이 글로벌 증시 및 반도체 밸류체인에 어떤 파급 효과를 가져오는가?**\n  A. 대표 기술주들의 가격 반등은 글로벌 위험자산 선호 심리를 빠르게 되살려 놓았다. 이는 국내외 반도체 및 AI 공급망에 속한 대형주들의 주가 하방 압력을 낮추고 동반 상승을 이끄는 촉매제로 작용한다.\n- **Q. 뉴욕증시 기술주의 반등세가 단기 반발에 그치지 않고 지속되기 위한 분기점은 무엇인가?**\n  A. 기술 기업들의 실제 실적 지표가 시장의 높은 상향 눈높이를 충족하는지 검증되어야 한다. 또한 AI 투자 대비 수익성 입증 여부가 추가 상승의 필수 조건이다.\n\n**👀 앞으로 볼 포인트**\n- 나스닥 지수의 주간 상승 흐름 유지 여부\n- 중국 당국의 추가 증시 부양책 구체화\n\n<sub>참고: [한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE52cEZ1OTRDdVh5Qm1oaF9VbnpIbDJwcnJfT25SUElHXzMxeTlBb2dxMkZ0U0NZUF9Fc0VUdzBvTmZfMGlYV0NrQUZYc0RaV05qRW1GQ2JoOGhFZw?oc=5) / [MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTE81RXk3eS11MnlVWnZPdGVmTHVRUGl3OW1qczBTNXU2RjBhRDVMOGZwN2xCanI2bXBYTUdIZENnRkF6V3RCN1JScFAwYkl0ZHVpQ2htSThILWF6ZDhtVW9GdGZ1aUZ3Sy1OTzVTUTRkb1pqcXg20gF0QVVfeXFMTmtUYm9XQlJ5RHp0Z001RGtiR0JKYXJMbl9yNWZkazBCM0FwektCUy1wbkxvbllObnhyYzdyR05WSUh2WWFuMEp1VXRiV3kxMDJHZS1tcW9nMzRSOWx2ZDY1R3VTVDRjZGQxX0VFWWFoVDlxcVQ?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nYXJjZGVjak5Fd3c5aXdXcEdCLThBUU5xclM5Z09lY2tQby0tXzZOYlcwVkJvRGVGMHZydllSelFvRU01VU9KdE5rei1MMnFlc2hoRDhEdjJUdWNlOU1sRtIBYEFVX3lxTE9nYXJjZGVjak5Fd3c5aXdXcEdCLThBUU5xclM5Z09lY2tQby0tXzZOYlcwVkJvRGVGMHZydllSelFvRU01VU9KdE5rei1MMnFlc2hoRDhEdjJUdWNlOU1sRg?oc=5)</sub>\n\n---\n\n### 2. 마이크론 7%·샌디스크 16% 폭등\n> 키워드: 반도체주 저가 매수\n\n**📌 무슨 일이 있었나**\n- 뉴욕증시에서 반도체 종목에 대한 저가 매수가 유입되며 마이크론과 마벨 기술이 각각 7%대 급등세를 나타냈다.\n- AI 반도체주 저가 매수세에 힙입어 샌디스크가 16% 폭등했고 앤스로픽 관련 선물 지수도 11% 크게 올랐다.\n- 금리 인상에 대한 시장의 우려가 잔존함에도 나스닥 선물이 2% 이상 올라 기술주 장세 재개 신호를 보였다.\n- 주가가 과도하게 조정받았다는 인식이 확산되면서 AI 및 반도체 밸류체인 전반으로 저가 매수 자금이 대거 몰렸다.\n\n**💬 핵심 Q&A**\n- **Q. 마이크론, 샌디스크 등 반도체 종목으로 저가 매수세가 대거 몰린 주요 배경은 무엇인가?**\n  A. 최근 가격 조정으로 인해 주요 반도체 기업들의 주가가 기술적으로 과매도 구간에 진입했다는 평가가 우세했기 때문이다. AI 반도체 수요 자체는 건재하다는 판단 아래 저가 매수 자금이 선제적으로 들어왔다.\n- **Q. 반도체주 7~16% 폭등세가 글로벌 AI 공급망 및 국내 증시에 어떤 연쇄 영향은 무엇인가?**\n  A. 마이크론과 샌디스크 등 메모리 및 서버 관련 반도체 기업들의 주가 급등은 한국 등 반도체 수출국 증시에 강력한 호재로 작용한다. 국내 반도체 대형주로 외국인 수급이 재유입되며 증시 전반의 상승을 자극한다.\n- **Q. 반도체 저가 매수세가 일시적 반등을 넘어 장기 상승 추세로 안착하는 분기점은 무엇인가?**\n  A. 금리 우려 완화와 함께 차세대 메모리 및 AI 반도체 칩의 실제 출하량 수치가 지속 증가해야 한다. 수급 개선과 더불어 글로벌 빅테크 기업들의 투자 집행이 지속되는지가 핵심이다.\n\n**👀 앞으로 볼 포인트**\n- 마이크론 및 샌디스크 등 메모리주 연속 상승\n- 금리 인상 가능성 관련 주요 통화지표 발표\n\n<sub>참고: [뉴시안](https://news.google.com/rss/articles/CBMibEFVX3lxTE10UnBkdHF1S3g4eGJpNGF3UHZqM2dpZ0d0SVMzWVFTY3VJMHo1WkZHdTdWLXdlUjhIcmRFeGdrSDF6QU53Z1hMTWR4ZDBNcDE1UlZDRlpwRnM1MlhVaTRNck1JczZJT1RRQ0ExWg?oc=5) / [뉴스핌](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaSXptMmh2d3Z0SjI1S0tYOHVocmNLdjNmRTF4amIxWEZqVVhWU2xmNEhvOWVQdU02Rmp2N1F5RUlYSkpjVXdPLVNtZVk3X2FIekFZMm1LTXhCbndx?oc=5) / [뉴스핌](https://news.google.com/rss/articles/CBMiXEFVX3lxTE55dm0tM1BMS1MwUExzWTNReG9abkJqRE5Ra3BFZHBhQkxHS0hQX3RtZm5hUUFqOXZvdkVLaEVrVTNVb1c3Z3g1aUNBZXo1T1QwSndmZFc0RjRyMkhx?oc=5)</sub>\n\n---\n\n### 3. 앤스로픽 11% 폭등에 나스닥 주간 6.7%↑\n> 키워드: 앤스로픽 11% 폭등\n\n**📌 무슨 일이 있었나**\n- AI 핵심 기업인 앤스로픽 주가가 11% 폭등하면서 뉴욕증시 기술주 전반의 강한 랠리를 주도했다.\n- 앤스로픽 급등과 기술주 강세에 힘입어 나스닥 지수는 주간 기준 6.7% 상승하며 4년 만에 최고의 한 주를 기록했다.\n- 뉴욕증시와 서울 증시가 동반 급등하는 모습을 보이며 글로벌 자산 시장 전반으로 온기가 확산되었다.\n- 한편 미 공군 컴퓨터 시스템 해킹으로 민감 군사 정보 유출 가능성이 제기되는 등 보안 불안도 공존했다.\n\n**💬 핵심 Q&A**\n- **Q. 앤스로픽이 11% 폭등하며 나스닥 주간 6.7% 상승을 이끌어낸 핵심 원동력은 무엇인가?**\n  A. AI 대표 종목인 앤스로픽에 투심이 쏠리며 관련 생태계 전체의 평가 가치가 동반 상승했기 때문이다. 이에 힘입어 나스닥은 주간 6.7% 상승해 4년 만에 최고 주간 성과를 올렸다.\n- **Q. 앤스로픽의 급등 및 뉴욕·서울 증시 동반 랠리가 자산 시장 전반에 어떤 파급 효과를 가져오는가?**\n  A. 뉴욕과 서울 증시가 함께 급등하며 글로벌 투자자들의 위험자산 선호가 완전히 살아났다. AI 산업 전반에 대한 자금 유입이 가속화되고 기술주 전반의 밸류에이션 리레이팅이 나타났다.\n- **Q. AI 랠리의 지속성을 결정지을 향후 주요 분기점은 무엇인가?**\n  A. 폭등한 AI 모델 개발 기업들의 실제 수익화 능력과 서비스 확산 속도가 관건이다. 아울러 미 군사 정보 유출 등 해킹 악재가 관련 IT 기술주 심리에 미칠 악영향을 제어하는지가 중요하다.\n\n**👀 앞으로 볼 포인트**\n- 앤스로픽 등 독점적 AI 기업 주가 추이\n- 미 공군 해킹 사태 여파 및 보안 관련 정책\n\n<sub>참고: [파이낸셜뉴스](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HdUJRaDVkVWZsajBhX0NNbnhETHV1U0RFTGxTNEVrcHkwS21DT2J6R1VqcVJxMXlnalVydUpETy1vLUFmZFE2UGlRLXB0ODh5VVltZy1GVUUxUQ?oc=5) / [파이낸셜뉴스](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tckt0dDktNXpPeDlEV2tLeUQ0SjFkWnV6cEdlbElvbE5tbFVDcDM2dW9XSTgzTGRrTFh4d1V5aU9BR0NlMkpTNlZuNkN4TThmZl9oTkxvYjlIUQ?oc=5) / [머니터링](https://news.google.com/rss/articles/CBMimgFBVV95cUxPbGxha3A1QnpZWENRWkNlbnZOTWxpWHVIVmV1Si13QXczYWRLTnVrX0RpbE1lSVRfZkpRejBwSlNmYlJCaDdFQmVBVThuTnRpbzJOaDYzU3R3ejNxUDdhSUhwN0tpQTVKSU1EX3hzMktmUzA5dDhpTDVyRkZVUjdLV29ocTQxNWFSaThKd3o1ckhCVUdOLVM2Vk1n?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 보도를 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
     "generation_mode": "gemini"
   },
   "yesterday": {
@@ -2972,7 +2916,7 @@
     "newsletter_md": "# ⚡ ZIPPY | AI 경제 데일리 브리핑\n_2026-11-21 ~ 2026-11-27 이슈 · 발행 2026-11-28_\n\n🇰🇷 **국내 경제:** `삼성전자 30조원 배당` · `금융·공공기관 개인정보 유출` · `가계 실질소득 감소와 양극화`\n🌐 **해외 경제:** `AI 투자 불안과 나스닥 폭락` · `젠슨 황 복귀와 엔비디아 급등` · `연준 금리 인상 우려`\n\n## 🇰🇷 국내 경제 핵심 이슈\n\n---\n\n### 1. 삼성전자 30조원 배당 단행과 미래 성장 동력 확보\n> 키워드: 삼성전자 30조원 배당\n\n**📌 무슨 일이 있었나**\n- 11월 27일 삼성전자가 총 30조 원 규모의 현금 배당을 지급했으며, 이재용 회장은 약 4,488억 원의 배당금을 수령한 것으로 나타났다.\n- 대규모 배당금 지급 당일에도 삼성전자 주가는 하락세를 보였으며, 외환 시장에서는 외국인 배당금 역송금 수요로 인해 환율이 1,330원대에서 등락을 반복했다.\n- 주주 환원 정책 강화와 더불어 인수합병(M&A) 전담 조직을 신설하며 그동안 정체되었던 대형 딜 추진과 신성장 동력 발굴을 위한 경영 행보를 본격화했다.\n- 휴머노이드 로봇 공개에 대한 시장의 기대감이 확산되면서 관련 로봇주들이 상한가를 기록하는 등 차세대 기술 분야로 투자자들의 관심이 이동하고 있다.\n\n**💬 핵심 Q&A**\n- **Q. 대규모 배당 지급에도 불구하고 주가가 하락한 배경은 무엇인가?**\n  A. 배당락 효과와 더불어 반도체 업황에 대한 불확실성이 투자 심리를 위축시켰기 때문이다. 또한 외국인 투자자들이 수령한 배당금을 본국으로 송금하기 위해 주식을 매도하는 수급상의 부담도 주가 하락의 원인으로 작용했다.\n- **Q. M&A 전담 조직 신설이 기업 가치에 미치는 영향은 무엇인가?**\n  A. 그동안 지연되었던 대형 인수합병이 재개될 것이라는 신호를 시장에 전달하여 미래 성장성에 대한 의구심을 해소하는 역할을 한다. 특히 로봇과 AI 등 신사업 분야에서의 기술 확보를 통해 수익 구조를 다변화할 수 있는 발판이 된다.\n- **Q. 주주 환원 정책이 '주주 혁명'으로 평가받는 이유는 무엇인가?**\n  A. 과거의 사회적 에너지가 자본 시장 내 주주 권리 찾기로 전환되면서 개인 투자자들의 목소리가 배당 확대와 지배구조 개선에 직접적인 영향을 미치고 있기 때문이다. 이는 기업 경영의 투명성을 높이고 주주 가치를 제고하는 긍정적인 변화로 풀이된다.\n\n**👀 앞으로 볼 포인트**\n- 외국인 배당금 역송금에 따른 환율 변동성\n- M&A 전담 조직의 첫 번째 대형 인수 대상\n- 휴머노이드 로봇의 구체적 사양 및 출시 일정\n\n<sub>참고: [한겨레](https://news.google.com/rss/articles/CBMiakFVX3lxTE42ZXJ1alF4TGNiUWlSTTZYbnVEaXVKZVFITTN0RXpCaUM0MFJfbkZ1OGRycm9sclRQVE9JbW1vMGUxRC11Ui1jRlkwVUtEMTRFel8tWUs5NlA4RTY5ZnF1aERIUlNxZnVZR0E?oc=5) / [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE4xYmwtRFJuaC02Nkt1T18zb05qbUVWNHYwai1DUEpYUkhkM2JSeEJvd3VKM0xZOEFwanBEOUctOGZWQ240cmRVMlNoOXRuNmxDRmhMMUVhMjUwcDJsWk9DYUVzOHRTZndjbDk2YzJzb1g?oc=5) / [주간경향](https://news.google.com/rss/articles/CBMiXkFVX3lxTE92Z1UyajBjaTZxZEZvSExNQUZNeTNYV0pielF4UnFMdmE0TUNOZHFpSUw0amxxamFURmVXMHhYYUMwVVlpenlKMGpERzQwS2FEcGR3VjAzaUxDd3gtVnc?oc=5)</sub>\n\n---\n\n### 2. 금융 및 공공기관 연쇄 해킹과 개인정보 유출 비상\n> 키워드: 금융·공공기관 개인정보 유출\n\n**📌 무슨 일이 있었나**\n- 올해 10월까지 집계된 개인정보 유출 신고 건수가 1,019건에 달하며, 정부는 긴급 대응 체계를 가동해 피해 확산 방지와 보안 점검에 나섰다.\n- 한국전력의 개인정보 유출 사고와 관련해 국무조정실이 공직 복무 점검을 검토하는 등 공공 부문의 보안 관리 실태에 대한 비판이 제기되고 있다.\n- CJ올리브영은 업무 시스템 해킹으로 임직원과 고객 정보가 유출되었으며, 수협은행에서도 해킹 공격으로 고객 54명의 정보가 노출되는 사고가 발생했다.\n- 과학기술인공제회까지 해킹 공격을 받아 개인정보가 유출되는 등 금융과 공공을 가리지 않는 전방위적 보안 위협이 현실화되며 긴장감이 고조되고 있다.\n\n**💬 핵심 Q&A**\n- **Q. 공공기관과 금융권이 동시에 해킹 타깃이 된 기술적 배경은 무엇인가?**\n  A. 업무 시스템의 클라우드 전환 과정에서 발생한 보안 취약점과 고도화된 지능형 지속 위협(APT) 공격이 결합되었기 때문이다. 특히 외부 협력사와의 연결망을 통한 우회 침투 방식이 주요 경로로 활용된 것으로 분석된다.\n- **Q. 수협은행 등 금융권 유출 사고가 2차 피해로 이어질 가능성은 어느 정도인가?**\n  A. 유출된 정보가 성명과 연락처 등 민감 정보를 포함하고 있어 보이스피싱이나 스미싱 등 금융 사기에 악용될 위험이 매우 높다. 금융 당국은 유출된 계좌의 지급 정지 및 비밀번호 변경 등 긴급 조치를 권고하고 있다.\n- **Q. 개인정보 유출 신고 건수가 급증한 것이 제도적 변화와 관련이 있는가?**\n  A. 개인정보보호법 개정으로 유출 사실 인지 시 신고 의무가 강화되었고, 기업들의 자진 신고가 늘어난 점이 수치 상승에 반영되었다. 이는 은폐보다는 투명한 공개를 통해 추가 피해를 막으려는 사회적 분위기가 형성된 결과이기도 하다.\n\n**👀 앞으로 볼 포인트**\n- 정부의 개인정보보호법 위반 과징금 부과 수위\n- 유출 피해자들의 집단 소송 및 보상 절차\n- 금융권 보안 관제 시스템 강화 대책 발표\n\n<sub>참고: [대한민국 정책브리핑](https://news.google.com/rss/articles/CBMibEFVX3lxTE5KM28zQWN3elVWX052RmZBbVF5ZnVuWmc2a24wZmw0X0ZDOUFZTEttMXlJa3gySFNyXzhyZ2Eya2ZXc2F4Zk5NRWtleE1DemxwQzJSdXgzQzN0Y0h6Snp4RWduYzNhbFlUZlFNNA?oc=5) / [MBC 뉴스](https://news.google.com/rss/articles/CBMieEFVX3lxTE1McHFzM2hFMnNqaEtBby1PbmpOVGcxNGxaTW1EQ2VpbXZSTlkxbTNuVngySF94NmVScVdmM2s4WE02ckp0dmo1V1pUUHBxNjNTa1lJNU5zckpORjlKR2FMNU5rY3FjMHhKdTEzcmtYREFkckcydmNnatIBeEFVX3lxTE1mVkRQREZ6NVV2eWdiU0RqX3dLWi1KRVptQTZuckRMbEI0eHFYdDhHQjFDcGFHQ1hQX2hLb0c3bkhnR3BiU1pEU2tmVFUwZWdfT29vdGlFMTNBZndyTFJaX2dOOC1WX1QtTDNWd1pwXzdPTVVLaU1FLQ?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DSzFaMnpRUkFaWnZvbGpKZUw0em5lZ0ZRX0dHMG1LVWJYQzJpLWI4TVg5QlR1cFFGMXZKekR5aEpUU3V4RGxLaWRpWXdQRU1qVzQyLXFuZVQ2Y03SAWBBVV95cUxNTGFxX014cDNkbmZDM2dfVlFvbHpHdGU3YUpKWkpnTUgzOXUxeGtKaGRBOURLNzFMbDc4X1E2elBVM1g0ODcwU1NhU0o2WEJKalJvUHRPRE1vaDJZV1M3OUo?oc=5)</sub>\n\n---\n\n### 3. 3분기 가계 실질소득 마이너스 전환과 양극화 심화\n> 키워드: 가계 실질소득 감소와 양극화\n\n**📌 무슨 일이 있었나**\n- 올해 3분기 가계 실질소득이 전년 동기 대비 2.1% 감소하며 2년 6개월 만에 마이너스로 돌아섰으며, 이는 3년여 만에 최대 감소 폭을 기록한 것이다.\n- 반도체 수출 호황에도 불구하고 고물가 영향으로 가계의 실제 구매력이 약화되면서 서민들의 실질적인 살림살이는 오히려 악화된 것으로 나타났다.\n- 저소득층의 소득은 줄어든 반면 고소득층과의 격차는 더욱 벌어지면서 경제 성장 속에서도 소득 양극화 현상이 심화되는 역설적인 상황이 발생했다.\n- 노무라는 이러한 경기 둔화 우려를 반영하여 한국은행의 기준금리 인상 사이클이 사실상 종료된 것으로 분석하며 금리 동결 가능성을 시사했다.\n\n**💬 핵심 Q&A**\n- **Q. 경제 성장에도 불구하고 실질소득이 감소한 이유는 무엇인가?**\n  A. 명목소득 증가분보다 물가 상승 폭이 더 컸기 때문에 가계가 실제로 소비할 수 있는 여력이 줄어들었기 때문이다. 수출 중심의 성장이 가계의 임금 인상이나 고용 확대로 충분히 전이되지 못한 구조적 한계도 존재한다.\n- **Q. 저소득층 소득 감소가 전체 경제 순환에 미치는 영향은 무엇인가?**\n  A. 한계소비성향이 높은 저소득층의 구매력 저하는 내수 소비 위축으로 이어져 경기 회복의 발목을 잡는 요인이 된다. 이는 자영업자의 매출 감소와 고용 위축으로 이어지는 악순환을 초래할 수 있다.\n- **Q. 노무라가 금리 인상 사이클 종료를 예측한 근거는 무엇인가?**\n  A. 가계의 실질 구매력 약화와 내수 부진이 심화되는 상황에서 추가적인 금리 인상은 경기 침체를 가속화할 위험이 크다고 판단했기 때문이다. 물가 상승세가 점차 둔화될 것이라는 전망도 금리 동결 가능성에 힘을 실어준다.\n\n**👀 앞으로 볼 포인트**\n- 4분기 소비자물가 상승률 및 실질소득 추이\n- 정부의 취약계층 대상 소득 보전 대책 발표\n- 한국은행의 차기 기준금리 결정 및 경기 전망\n\n<sub>참고: [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NN0h5Tk5XdTZfTEtKWU1uNFVOTjhjY2ExU1I3alUzOVVPWVVZV3EzcDFnc2xrMkZ1Um1kTFBJLWxDbFRGWE5aZW9ZSmhsRWpyejNTZklTQU1lTlE?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lemRJc0I3T1FjYzBOSnZUTFNUMjZDRWoyYkhHMEIyZ1NhVUYxenVpWWdUX1lNTV81c1VZd3FuVng3aXp1eFhlbFUyVVZrbk5SUHRhLWNheXJHa1nSAWBBVV95cUxQcTVleWxNT2hGUUg1d0FaNEIwc1pITWtFd0lWVFl6b1M5UlZpRy1FbWdacXowZF81SnZfalBHZlRTY3VjdDRNQ2lSNU13aVd6Nkl5NVFlTjZMbzFtWUVpSlg?oc=5) / [KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFByWXNVM2xjSEZsMy01TExfcTRid1JhNk1nRHJybGZDTC1JU01YZ01QcHFHYklabExEczQwSFhlY0NmYmRVVUp4Q0hRUi11TWJGb211WFpxV3VIMVE?oc=5)</sub>\n\n\n## 🌐 해외·글로벌 경제 핵심 이슈\n\n---\n\n### 1. AI 수익성 의구심에 흔들리는 뉴욕증시와 나스닥 급락\n> 키워드: AI 투자 불안과 나스닥 폭락\n\n**📌 무슨 일이 있었나**\n- 인공지능(AI) 투자에 대한 불확실성이 커지면서 뉴욕증시에서 나스닥 지수가 장중 3%대 급락세를 보이는 등 극심한 변동성 장세가 나타났다.\n- 막대한 자본이 투입되는 AI 분야의 현금 흐름 악화와 검색 광고 성장 둔화 우려가 기술주 전반에 대한 투매 심리를 자극하며 지수를 끌어내렸다.\n- 시장에서는 AI 투자가 실제 수익으로 연결되는 시점에 대한 회의론이 확산되며 연일 롤러코스터 장세가 이어지는 등 투자 불안감이 고조되고 있다.\n- 다만 일각에서는 최근의 매도세가 과도하며 현재 주가가 저평가되어 있어 향후 60% 이상의 상승 여력이 있다는 낙관적인 진단도 제기되고 있다.\n\n**💬 핵심 Q&A**\n- **Q. AI 투자 불안이 기술주 투매로 이어진 결정적인 계기는 무엇인가?**\n  A. AI 인프라 구축을 위한 설비투자(CAPEX)는 급증하고 있으나, 이를 뒷받침할 매출 성장세가 시장의 기대치에 미치지 못했기 때문이다. 특히 검색 광고 등 기존 수익 모델의 성장 둔화가 겹치면서 투자자들의 인내심이 한계에 다다랐다.\n- **Q. 나스닥 지수가 장중 3% 넘게 급락한 현상을 어떻게 해석해야 하는가?**\n  A. 고점 부근에서 차익 실현 욕구가 강해진 상황에서 AI 회의론이라는 악재가 트리거가 되어 패닉 셀링이 발생한 것으로 보인다. 이는 기술주 중심의 포트폴리오가 실적 변동성에 얼마나 취약한지를 보여주는 사례이다.\n- **Q. 향후 60% 이상의 상승 여력이 있다는 낙관론의 근거는 무엇인가?**\n  A. 현재의 주가 하락이 펀더멘털의 훼손보다는 단기적인 수급 불균형에 의한 것이며, AI 기술이 산업 전반의 생산성을 혁신할 것이라는 장기적 비전은 여전히 유효하기 때문이다. 일시적 조정 이후 실적 개선이 확인되면 강력한 반등이 가능할 것으로 보고 있다.\n\n**👀 앞으로 볼 포인트**\n- 주요 빅테크 기업의 차분기 AI 실적 가이던스\n- 나스닥 지수의 주요 이동평균선 지지 여부\n- AI 서비스 유료화 전환 및 수익 창출 사례\n\n<sub>참고: [한국경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTE50S1JCaEppTUNGa2FhUW5HZk9EZjVuV0Y0dWJGYnRoSVI4c1hzNlVzMVVycWZEcFBnMVgtdHk5aUk2MkVjZ0F3RmlyNUVqdGZENkNKYi1yY25QZw?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Wc2Nnc3AyY21VZFdONUV4RjNSN3NubHdIVm8tQjNUekxKdnI2Z2RJeDE3Y0Vxa1Jxdnoxd2xtSDVjLXF0WDEtSWNYVVVVLWN3TEhjRlRET0FacW_SAWBBVV95cUxNR0l4cXBiXzFyWWs2RXVYNmhxYkZWWHYyaXM0YjhNalJ1RlJCMHhGdllPT0Z6dmJsdFlZSF9rOXZDeFZ6anRaUk1tOFFwS2lyOUdYRFUtSm1YTHVjSEY2b0o?oc=5) / [중앙일보](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sbEhyVW5EVzJWRnM0c0RncWhBUmhPT1pVNURsT3cxQWFtNW1HZU9pME43UE9OZkxWNUdEUjUweW5kbm1DQjB4YnVYUGJaVElZMnRGVHNn?oc=5)</sub>\n\n---\n\n### 2. 젠슨 황 복귀 효과에 엔비디아 31% 폭등 및 나스닥 반등\n> 키워드: 젠슨 황 복귀와 엔비디아 급등\n\n**📌 무슨 일이 있었나**\n- 젠슨 황 CEO의 복귀 소식에 엔비디아 주가가 하루 만에 31.5% 폭등하며 나스닥 지수를 6%대 급등으로 이끌어내는 기염을 토했다.\n- 엔비디아는 장중 한때 30% 이상의 상승폭을 기록하며 기술주 전반의 투자 심리를 급격히 회복시키는 강력한 기폭제 역할을 수행했다.\n- 트럼프 당선인이 국가안보회의(NSC) 절차 없이 젠슨 황을 직접 보증했다는 소식이 전해지며 정치적 불확실성 해소에 따른 기대감도 주가에 반영되었다.\n- 이번 급등으로 나스닥은 전날의 하락분을 대부분 만회하며 6.47% 상승 마감했으며, 반도체 섹터 전반에 걸쳐 강력한 매수세가 유입되었다.\n\n**💬 핵심 Q&A**\n- **Q. 젠슨 황의 복귀가 엔비디아 주가를 31% 넘게 폭등시킨 핵심 동력은 무엇인가?**\n  A. 창업자의 강력한 리더십이 AI 시장의 주도권을 유지하는 데 필수적이라는 시장의 신뢰가 반영되었기 때문이다. 경영 공백 우려가 해소됨과 동시에 공격적인 기술 개발과 시장 확장에 대한 기대감이 폭발적으로 작용했다.\n- **Q. 트럼프 당선인의 '직접 보증'이 시장에 주는 시그널은 무엇인가?**\n  A. 차기 행정부가 엔비디아를 국가 전략 자산으로 간주하고 파격적인 지원이나 규제 완화를 제공할 수 있다는 가능성을 시사한다. 이는 지정학적 리스크로 위축되었던 반도체 투자 심리를 반전시키는 결정적인 계기가 되었다.\n- **Q. 나스닥이 하루 만에 6% 넘게 반등한 것은 추세적 전환으로 볼 수 있는가?**\n  A. 엔비디아라는 특정 종목의 강력한 모멘텀에 의존한 반등이므로 전체 시장의 추세 전환으로 단정하기는 이르다. 다만 기술주에 대한 대기 매수세가 여전히 강력하다는 점을 확인시켜 주었으며, 향후 실적 뒷받침 여부에 따라 상승세 지속이 결정될 것이다.\n\n**👀 앞으로 볼 포인트**\n- 엔비디아의 글로벌 시가총액 순위 재탈환 여부\n- 트럼프 행정부의 반도체 산업 지원 정책 구체화\n- 젠슨 황의 향후 경영 로드맵 및 신제품 발표\n\n<sub>참고: [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE02RGJoY0tHd19xSDR6R3RsTE9kMzBHdFFiem5uVmpzWExDQ2IxN0RNMFd2VldQR3pMcmlhU1RLeXNDZXE3V1dNNWxxSVEtdEdLd3dWeHUzM0lQTTDSAWBBVV95cUxONFRFN0hSeV9wdVdJT1ZKaDJnUTFNeUViWTNfd280VURmSmpBMXpQd1l1U0dxc1RLd2pnYVVtNFNlRkJoUkdVNVZaWjR5bUU1ZWVBODNpWllyNzFhaFJXdHI?oc=5) / [MBC 뉴스](https://news.google.com/rss/articles/CBMidEFVX3lxTE9oZ1otQ3hPZGFLbHdHOTBfWkJHbUxIbmdQb1I5ZkdqdFFyaUVHRDhBNlpvU2lsbnVCVUFPMndKb0JzOUQ1bkZpRnMwRW1vWEt3Y0x3c1MtMG1xMzdJendsSGNFRlBFOXZ3YTU1eHllS1I3bXdF0gF0QVVfeXFMT3dfUnFEZnpjLUk1d21LdkVJMTBjOGlkTGQyeFAtVlc3aVB6NGoxMGRuTV9jT01iTWE0a2x3azQ4R3dRVG9TbDZQVTBybTVyWjRQbUNlNWRLLWtZMlotSmRVUGpHZmRqdTZwcEtmalR0Y1FMT2Q?oc=5) / [연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hUmpHeG1KeU02aHAxMHQ4RTg0dkxYSXNKLUNRYUtqS09MV2lOaEtfZ0F6QW82TlNQT2JWd0VCdGE1aXNjQ0cycmNmemV4T1kwUGhxeDliTmR0YUHSAWBBVV95cUxNYlIyVWV1TVkzVm5KZUhRMEd6ZHRTOERyRF92ckJpcEppMFprd0hPY3cyWFo2MVEtMklxQkxMcnExTEVReFVqNXBaeVFEaDVhWl9rRDlHcjlRNFpua3pNVEc?oc=5)</sub>\n\n---\n\n### 3. 미국 물가 급등에 따른 연준의 금리 인상 재개 가능성\n> 키워드: 연준 금리 인상 우려\n\n**📌 무슨 일이 있었나**\n- 미국의 신규 관세 도입 여파로 연준의 추가 금리 인상 가능성이 커졌으며, 물가 상승률이 목표치의 두 배인 3.8%를 기록하며 인상 확률이 99%에 달한다는 분석이 나왔다.\n- 연준 내부에서는 금리를 한 번에 0.5%p 올리는 '빅스텝' 가능성까지 거론되며 시장의 긴축 공포가 다시 확산되고 있다.\n- 국내에서는 기준금리 인상 여파로 대출 이자 부담을 견디지 못한 영끌족들의 비명이 커지는 가운데, 은행권은 3분기 누적 이자 이익 역대 최대치를 경신했다.\n- 반면 노무라는 한국은행의 금리 인상 사이클이 사실상 종료되었다고 진단하며, 미국의 긴축 행보와는 차별화된 국내 금리 경로 가능성을 제기했다.\n\n**💬 핵심 Q&A**\n- **Q. 미국 물가 상승률이 3.8%로 치솟으며 금리 인상론이 다시 부상한 이유는 무엇인가?**\n  A. 신규 관세 부과가 수입 물가를 밀어 올리는 공급 측면의 인플레이션 압력을 가중시켰기 때문이다. 연준의 목표치인 2%를 크게 상회하는 수치가 지속되면서 시장은 금리 인하 대신 추가 긴축을 기정사실화하고 있다.\n- **Q. 국내 은행권이 역대 최대 이자 이익을 기록한 것과 가계 부담 사이의 상관관계는 무엇인가?**\n  A. 기준금리 인상기에 예금 금리보다 대출 금리가 더 빠르게 오르는 예대금리차 확대가 은행의 수익성을 극대화했기 때문이다. 이는 가계의 가처분 소득을 은행의 이자 수익으로 이전시키는 결과를 초래하여 민간 소비를 위축시키는 요인이 된다.\n- **Q. 연준의 빅스텝 가능성이 제기되는 상황에서 한국은행이 금리 인상을 멈출 수 있는가?**\n  A. 한미 금리 격차 확대에 따른 자본 유출 위험에도 불구하고, 국내 경기 침체와 가계 부채 부실화 우려가 더 심각하다고 판단할 경우 동결을 선택할 수 있다. 노무라의 진단처럼 내수 부진이 심화되면 한은은 환율 방어보다 경기 부양에 무게를 둘 가능성이 높다.\n\n**👀 앞으로 볼 포인트**\n- 연준의 차기 FOMC 금리 결정 결과 및 점도표\n- 미국의 추가 관세 정책 발표 일정 및 물가 영향\n- 국내 가계대출 연체율 변화 및 은행권 예대금리차\n\n<sub>참고: [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE5xZzJ5Vkl0SGFiUmJtNHNoRkZ6cXhBOW5tc3hwME12bUQ5YnJobEJQdjROamRsX1E4TFcxNzVheHhuVTltcVdyTmpZRkN2dUpkdUxWVllCRWgyWWhsQ0xmREF6UUNqRkw2NXpKRU1YbzbSAXRBVV95cUxNV2NiYnl6VDlTcjA1RmMyYnJaWC1Fb3h5T3J3TzRhMGZ3M3NWa2Y1U1VTZDRLYzh3akN5VTgtSjNHMDktS1UzZ3NoMzZnUmlvTmYzZ0RnYXBYd0JhOElLdV9sdXlaamVzdkRqazdvUWh6OFBtVw?oc=5) / [YTN](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qNE11N19LUTR0Q1F5SHVDejlFejhLcFdNX0UwUm1jRW0zWE5ncFRDSG04cjZDNFZCMktBMW1EMHJndE9NckdSVExyT2pEOGlRcDVBTjhRVGZnNXdmYkE?oc=5) / [YTN](https://news.google.com/rss/articles/CBMidkFVX3lxTE9Wb19ndzhmUWlRMUt0b1BlanNVcy1xeVd5LU1IQU9iMTMyWS1MLXZYUklEZS1iLXNocTJUR2d6SDhmNlV5MGRPcTRVU0FPNDZkcUlWQ0RtQ1h5ajhvSWhsdlZ1XzA5QkZBYVBwRUt0czRRcFlSeHc?oc=5)</sub>\n\n---\n_본 뉴스레터는 AI가 공개 뉴스 보도를 바탕으로 작성했으며 특정 자산에 대한 투자 권유가 아닙니다._",
     "generation_mode": "gemini"
   },
-  "updated_at": "2026-11-28 04:57:55 KST",
+  "updated_at": "2026-11-28 08:52:21 KST",
   "macro_calendar": {
     "updatedAt": "2026-11-28T00:59:02.569789",
     "range": {
@@ -3074,7 +3018,7 @@
     ]
   },
   "market_snapshot": {
-    "updatedAt": "2026-11-28T04:57:55.957250",
+    "updatedAt": "2026-11-28T08:52:21.488145",
     "source": "github-4h-snapshot",
     "items": {
       "kospi": {
@@ -3135,10 +3079,10 @@
         "symbol": "KRW=X",
         "unit": "원",
         "decimals": 1,
-        "price": 1333.52,
+        "price": 1333.0,
         "prevClose": 1342.969970703125,
-        "change": -9.449970703125018,
-        "changePct": -0.7036621003653115,
+        "change": -9.969970703125,
+        "changePct": -0.7423822513250333,
         "high52w": 1587.7,
         "low52w": 1319.52
       },
@@ -3174,10 +3118,10 @@
         "symbol": "BTC-USD",
         "unit": "$",
         "decimals": 0,
-        "price": 59820.41,
+        "price": 59837.11,
         "prevClose": 60494.7109375,
-        "change": -674.3009374999965,
-        "changePct": -1.1146444491596121,
+        "change": -657.6009374999994,
+        "changePct": -1.0870387300129405,
         "high52w": 97860.6,
         "low52w": 55149.566
       }
