@@ -214,7 +214,7 @@ def _render_layout(
            data-ad-slot="7715549811"
            data-ad-format="auto"
            data-full-width-responsive="true"></ins>
-      <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+      <script>(adsbygoogle = window.adsbygoogle || []).push({{}});</script>
     </div>
 
     <footer class="footer">
