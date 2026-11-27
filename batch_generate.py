@@ -357,9 +357,27 @@ def _fetch_market_snapshot(now: datetime) -> dict:
             req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (ZippyMarket/1.0)"})
             with urllib.request.urlopen(req, timeout=6) as resp:
                 data = json.loads(resp.read().decode("utf-8"))
-            meta = data["chart"]["result"][0]["meta"]
+            result_obj = data["chart"]["result"][0]
+            meta = result_obj["meta"]
             price = float(meta["regularMarketPrice"])
-            prev = float(meta.get("chartPreviousClose") or meta.get("previousClose") or price)
+
+            timestamps = result_obj.get("timestamp") or []
+            raw_closes = ((result_obj.get("indicators") or {}).get("quote") or [{}])[0].get("close") or []
+            valid_bars = [
+                (timestamps[i] if i < len(timestamps) else 0, float(c))
+                for i, c in enumerate(raw_closes)
+                if isinstance(c, (int, float))
+            ]
+
+            prev = float(meta.get("previousClose") or meta.get("chartPreviousClose") or price)
+            if len(valid_bars) >= 2:
+                gmtoff = int(meta.get("gmtoffset") or 0)
+                def _local_day(sec: int) -> str:
+                    return datetime.fromtimestamp(sec + gmtoff, tz=timezone.utc).strftime("%Y-%m-%d")
+                mkt_day = _local_day(int(meta.get("regularMarketTime") or valid_bars[-1][0]))
+                last_day = _local_day(int(valid_bars[-1][0]))
+                prev = valid_bars[-2][1] if last_day == mkt_day else valid_bars[-1][1]
+
             chg = price - prev
             chg_pct = (chg / prev * 100.0) if prev > 0 else 0.0
             items[key] = {
